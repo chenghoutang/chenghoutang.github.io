@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>字音练习 - 多音字读音训练</title>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700;900&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- 正文字体：Noto Serif SC 字库最全，覆盖所有汉字，风格典雅 -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <!-- 标题装饰字体：Ma Shan Zheng（马善政毛笔楷体）—— 仅用于主标题，避免生僻字缺字问题 -->
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-primary: #faf8f5;
@@ -18,9 +23,8 @@
             --accent-gold: #b89445;
             --accent-blue: #2d5a7a;
             --border-light: #ddd4c4;
-            --shadow-soft: 0 4px 24px rgba(44, 36, 22, 0.08);
-            --shadow-hover: 0 8px 32px rgba(44, 36, 22, 0.12);
-            --font-scale: 1;
+            --shadow-soft: 0 2px 14px rgba(44, 36, 22, 0.07);
+            --shadow-hover: 0 6px 22px rgba(44, 36, 22, 0.11);
         }
 
         * {
@@ -30,11 +34,11 @@
         }
 
         body {
-            font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', '宋体', 'Microsoft YaHei', '微软雅黑', serif;
+            font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', 'SimSun', '宋体', 'PingFang SC', 'Microsoft YaHei', '微软雅黑', serif;
             background: var(--bg-primary);
             color: var(--text-primary);
             min-height: 100vh;
-            line-height: 1.8;
+            line-height: 1.55;
             overflow-x: hidden;
             font-weight: 500;
         }
@@ -54,9 +58,9 @@
         }
 
         .app-container {
-            max-width: 900px;
+            max-width: 880px;
             margin: 0 auto;
-            padding: 32px 24px;
+            padding: 14px 20px 24px;
             position: relative;
             z-index: 1;
         }
@@ -64,30 +68,33 @@
         /* Header */
         .header {
             text-align: center;
-            margin-bottom: 48px;
-            animation: fadeInDown 0.6s ease-out;
+            margin-bottom: 12px;
+            animation: fadeInDown 0.5s ease-out;
         }
 
         .header h1 {
-            font-family: 'ZCOOL XiaoWei', 'Noto Serif SC', 'SimSun', '宋体', serif;
-            font-size: 3.2rem;
-            font-weight: 600;
+            font-family: 'Ma Shan Zheng', 'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', 'SimSun', '宋体', 'PingFang SC', 'Microsoft YaHei', serif;
+            font-size: 2.9rem;
+            font-weight: 400;
             color: var(--text-primary);
-            margin-bottom: 8px;
-            letter-spacing: 0.12em;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.05);
+            margin-bottom: 3px;
+            letter-spacing: 0.18em;
+            /* 毛笔字轻微的墨迹效果，增加质感 */
+            text-shadow: 1px 1px 0 rgba(184, 148, 69, 0.08),
+                         2px 2px 4px rgba(26, 21, 16, 0.05);
         }
 
         .header .subtitle {
-            color: var(--text-muted);
-            font-size: 1rem;
-            letter-spacing: 0.2em;
+            color: var(--text-secondary);
+            font-size: 0.92rem;
+            letter-spacing: 0.25em;
+            font-weight: 500;
         }
 
         .header .decoration {
-            margin-top: 16px;
+            margin-top: 8px;
             height: 2px;
-            width: 80px;
+            width: 96px;
             background: linear-gradient(90deg, transparent, var(--accent-gold), transparent);
             margin-left: auto;
             margin-right: auto;
@@ -97,21 +104,21 @@
         .stats-bar {
             display: flex;
             justify-content: center;
-            gap: 32px;
-            margin-bottom: 40px;
+            gap: 10px;
+            margin-bottom: 10px;
             flex-wrap: wrap;
-            animation: fadeIn 0.8s ease-out 0.2s both;
+            animation: fadeIn 0.6s ease-out 0.1s both;
         }
 
         .stat-item {
             text-align: center;
-            padding: 18px 30px;
+            padding: 7px 14px;
             background: var(--bg-card);
-            border-radius: 12px;
+            border-radius: 8px;
             box-shadow: var(--shadow-soft);
             border: 1px solid var(--border-light);
-            min-width: 120px;
-            transition: transform 0.3s ease;
+            min-width: 82px;
+            transition: transform 0.25s ease;
         }
 
         .stat-item:hover {
@@ -119,9 +126,9 @@
         }
 
         .stat-value {
-            font-size: 2.3rem;
-            font-weight: 700;
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
+            font-size: 1.5rem;
+            font-weight: 800;
+            font-family: inherit;
         }
 
         .stat-value.total { color: var(--accent-blue); }
@@ -130,10 +137,10 @@
         .stat-value.rate { color: var(--accent-gold); }
 
         .stat-label {
-            font-size: 0.95rem;
+            font-size: 0.75rem;
             color: var(--text-secondary);
-            margin-top: 6px;
-            letter-spacing: 0.1em;
+            margin-top: 1px;
+            letter-spacing: 0.08em;
             font-weight: 500;
         }
 
@@ -141,23 +148,37 @@
         .nav-tabs {
             display: flex;
             justify-content: center;
-            gap: 12px;
-            margin-bottom: 32px;
-            animation: fadeIn 0.8s ease-out 0.3s both;
+            gap: 8px;
+            margin-bottom: 12px;
+            animation: fadeIn 0.6s ease-out 0.15s both;
         }
 
         .tab-btn {
-            padding: 14px 30px;
+            padding: 7px 18px;
             border: 2px solid var(--border-light);
             background: var(--bg-card);
             color: var(--text-secondary);
             border-radius: 50px;
             font-family: inherit;
-            font-size: 1.05rem;
+            font-size: 0.92rem;
             font-weight: 600;
             cursor: pointer;
-            transition: all 0.3s ease;
-            letter-spacing: 0.05em;
+            transition: all 0.25s ease;
+            letter-spacing: 0.04em;
+            position: relative;
+        }
+
+        .tab-btn .tab-hotkey {
+            position: absolute;
+            top: -6px;
+            right: -6px;
+            background: var(--accent-blue);
+            color: #fff;
+            font-size: 0.6rem;
+            font-weight: 700;
+            padding: 1px 5px;
+            border-radius: 8px;
+            letter-spacing: 0;
         }
 
         .tab-btn:hover {
@@ -174,8 +195,8 @@
         /* Question Card */
         .question-card {
             background: var(--bg-card);
-            border-radius: 20px;
-            padding: 48px 40px;
+            border-radius: 16px;
+            padding: 24px 28px;
             box-shadow: var(--shadow-soft);
             border: 1px solid var(--border-light);
             animation: fadeInUp 0.6s ease-out 0.4s both;
@@ -189,18 +210,18 @@
             top: 0;
             left: 0;
             right: 0;
-            height: 4px;
+            height: 3px;
             background: linear-gradient(90deg, var(--accent-gold), var(--accent-blue));
         }
 
         .question-type {
             display: inline-block;
-            padding: 8px 20px;
+            padding: 5px 14px;
             border-radius: 50px;
-            font-size: 1rem;
+            font-size: 0.9rem;
             font-weight: 600;
-            margin-bottom: 28px;
-            letter-spacing: 0.1em;
+            margin-bottom: 16px;
+            letter-spacing: 0.08em;
         }
 
         .question-type.type-correct {
@@ -217,23 +238,23 @@
 
         .word-display {
             text-align: center;
-            margin-bottom: 40px;
+            margin-bottom: 18px;
         }
 
         .word-text {
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
-            font-size: calc(4.2rem * var(--font-scale));
+            font-family: inherit;
+            font-size: calc(3rem * var(--font-scale));
             font-weight: 700;
             color: #0d0a07;
             letter-spacing: 0.18em;
-            line-height: 1.4;
-            margin-bottom: 16px;
+            line-height: 1.3;
+            margin-bottom: 8px;
             text-shadow: 1px 1px 3px rgba(0,0,0,0.06);
         }
 
         .word-hint {
             color: var(--text-secondary);
-            font-size: 1.05rem;
+            font-size: 0.92rem;
             font-weight: 500;
         }
 
@@ -241,23 +262,55 @@
         .options-container {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 16px;
-            margin-bottom: 32px;
+            gap: 12px;
+            margin-bottom: 18px;
         }
 
         .option-btn {
-            padding: 24px 28px;
+            padding: 16px 22px;
             background: var(--bg-secondary);
             border: 2px solid transparent;
-            border-radius: 14px;
+            border-radius: 12px;
             font-family: inherit;
-            font-size: calc(1.8rem * var(--font-scale));
+            font-size: calc(1.45rem * var(--font-scale));
             font-weight: 600;
             cursor: pointer;
             transition: all 0.3s ease;
             color: #0d0a07;
             position: relative;
             overflow: hidden;
+            text-align: left;
+        }
+
+        .option-btn .hotkey-badge {
+            position: absolute;
+            top: 8px;
+            left: 10px;
+            background: var(--accent-blue);
+            color: #fff;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            font-weight: 800;
+            letter-spacing: 0;
+            box-shadow: 0 2px 6px rgba(45, 90, 122, 0.3);
+            font-family: 'Noto Serif SC', sans-serif;
+        }
+
+        .option-btn.correct .hotkey-badge {
+            background: var(--accent-correct);
+        }
+
+        .option-btn.wrong .hotkey-badge {
+            background: var(--accent-wrong);
+        }
+
+        .option-btn.selected .hotkey-badge {
+            background: var(--accent-gold);
         }
 
         .option-btn::before {
@@ -310,25 +363,26 @@
         .option-label {
             position: relative;
             z-index: 1;
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
+            font-family: inherit;
             letter-spacing: 0.05em;
             font-weight: 700;
             display: flex;
             flex-direction: column;
-            align-items: center;
-            gap: 4px;
+            align-items: flex-start;
+            gap: 3px;
+            padding-left: 34px;
         }
 
         .option-word {
-            font-size: 1.1em;
+            font-size: 1em;
             letter-spacing: 0.1em;
         }
 
         .option-pron {
-            font-size: 0.85em;
+            font-size: 0.78em;
             color: var(--accent-blue);
             font-weight: 600;
-            letter-spacing: 0.08em;
+            letter-spacing: 0.06em;
         }
 
         .option-btn.correct .option-pron {
@@ -341,9 +395,9 @@
 
         /* Result Display */
         .result-display {
-            padding: 28px;
-            border-radius: 14px;
-            margin-bottom: 24px;
+            padding: 16px;
+            border-radius: 12px;
+            margin-bottom: 14px;
             text-align: center;
             animation: fadeIn 0.4s ease-out;
             display: none;
@@ -364,25 +418,26 @@
         }
 
         .result-title {
-            font-size: 1.8rem;
+            font-size: 1.35rem;
             font-weight: 700;
-            margin-bottom: 12px;
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
+            margin-bottom: 8px;
+            font-family: inherit;
         }
 
         .result-title.correct { color: var(--accent-correct); }
         .result-title.wrong { color: var(--accent-wrong); }
 
         .result-answer {
-            font-size: 1.15rem;
+            font-size: 1rem;
             color: var(--text-secondary);
             font-weight: 500;
+            line-height: 1.7;
         }
 
         .result-answer strong {
-            font-size: 2rem;
+            font-size: 1.4rem;
             color: #0d0a07;
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
+            font-family: inherit;
             font-weight: 700;
         }
 
@@ -390,20 +445,39 @@
         .actions-container {
             display: flex;
             justify-content: center;
-            gap: 16px;
+            gap: 12px;
             flex-wrap: wrap;
         }
 
         .action-btn {
-            padding: 16px 40px;
+            padding: 11px 28px;
             border: none;
             border-radius: 50px;
             font-family: inherit;
-            font-size: 1.1rem;
+            font-size: 1rem;
             cursor: pointer;
             transition: all 0.3s ease;
-            letter-spacing: 0.1em;
+            letter-spacing: 0.08em;
             font-weight: 600;
+            position: relative;
+        }
+
+        .action-btn .btn-hotkey {
+            display: inline-block;
+            background: rgba(255,255,255,0.25);
+            color: inherit;
+            font-size: 0.75rem;
+            padding: 2px 7px;
+            border-radius: 6px;
+            margin-left: 8px;
+            font-weight: 700;
+            letter-spacing: 0;
+            vertical-align: middle;
+        }
+
+        .action-btn.secondary .btn-hotkey,
+        .action-btn.danger .btn-hotkey {
+            background: rgba(44, 36, 22, 0.08);
         }
 
         .action-btn.primary {
@@ -448,43 +522,43 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 24px;
-            padding-bottom: 16px;
+            margin-bottom: 14px;
+            padding-bottom: 10px;
             border-bottom: 2px solid var(--border-light);
         }
 
         .wrong-list-header h2 {
-            font-family: 'ZCOOL XiaoWei', 'Noto Serif SC', 'SimSun', serif;
-            font-size: 2rem;
-            font-weight: 600;
+            font-family: inherit;
+            font-size: 1.5rem;
+            font-weight: 700;
             color: var(--text-primary);
         }
 
         .wrong-count {
             background: rgba(192, 57, 43, 0.1);
             color: var(--accent-wrong);
-            padding: 8px 18px;
+            padding: 5px 14px;
             border-radius: 50px;
-            font-size: 1rem;
+            font-size: 0.9rem;
             font-weight: 600;
         }
 
         .wrong-list {
             display: grid;
-            gap: 16px;
+            gap: 10px;
         }
 
         .wrong-item {
             background: var(--bg-card);
-            border-radius: 14px;
-            padding: 24px;
+            border-radius: 12px;
+            padding: 14px 18px;
             box-shadow: var(--shadow-soft);
             border: 1px solid var(--border-light);
-            border-left: 4px solid var(--accent-wrong);
+            border-left: 3px solid var(--accent-wrong);
             display: flex;
             justify-content: space-between;
             align-items: center;
-            gap: 16px;
+            gap: 12px;
             transition: all 0.3s ease;
         }
 
@@ -498,19 +572,19 @@
         }
 
         .wrong-item-word {
-            font-family: 'Noto Serif SC', 'ZCOOL XiaoWei', 'SimSun', '宋体', 'KaiTi', '楷体', 'Source Han Serif SC', 'PingFang SC', 'Microsoft YaHei', serif;
-            font-size: calc(2.2rem * var(--font-scale));
+            font-family: inherit;
+            font-size: calc(1.6rem * var(--font-scale));
             font-weight: 700;
             color: #0d0a07;
-            margin-bottom: 10px;
-            letter-spacing: 0.12em;
+            margin-bottom: 6px;
+            letter-spacing: 0.1em;
         }
 
         .wrong-item-detail {
             display: flex;
-            gap: 24px;
+            gap: 16px;
             flex-wrap: wrap;
-            font-size: 1.05rem;
+            font-size: 0.92rem;
         }
 
         .wrong-item-detail span {
@@ -637,6 +711,57 @@
             80% { transform: translateX(4px); }
         }
 
+        /* Keyboard Help Bar */
+        .keyboard-help {
+            margin-top: 14px;
+            padding: 10px 14px;
+            background: var(--bg-card);
+            border-radius: 10px;
+            border: 1px solid var(--border-light);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 14px;
+            align-items: center;
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .keyboard-help .help-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .keyboard-help kbd {
+            display: inline-block;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-light);
+            border-radius: 5px;
+            padding: 2px 7px;
+            font-family: inherit;
+            font-size: 0.78rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            min-width: 22px;
+            text-align: center;
+            letter-spacing: 0;
+        }
+
+        .keyboard-help kbd.accent {
+            background: var(--accent-blue);
+            color: #fff;
+            border-color: var(--accent-blue);
+        }
+
+        .keyboard-help .help-divider {
+            width: 1px;
+            height: 16px;
+            background: var(--border-light);
+        }
+
         /* Responsive */
         @media (max-width: 640px) {
             .app-container {
@@ -722,17 +847,17 @@
         </div>
 
         <!-- Font Size Controls -->
-        <div class="font-controls" style="text-align: center; margin-bottom: 32px; display: flex; justify-content: center; align-items: center; gap: 12px;">
-            <span style="color: var(--text-secondary); font-size: 0.95rem; font-weight: 500;">字体大小：</span>
-            <button class="font-btn" onclick="changeFontScale(-0.1)" title="减小字体" style="width: 40px; height: 40px; border-radius: 50%; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 1.3rem; font-weight: 700; color: var(--text-primary); transition: all 0.2s;">A-</button>
-            <button class="font-btn" onclick="changeFontScale(0)" title="重置字体" style="padding: 0 16px; height: 40px; border-radius: 20px; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 0.95rem; font-weight: 600; color: var(--text-primary); transition: all 0.2s;">默认</button>
-            <button class="font-btn" onclick="changeFontScale(0.1)" title="增大字体" style="width: 40px; height: 40px; border-radius: 50%; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 1.5rem; font-weight: 700; color: var(--text-primary); transition: all 0.2s;">A+</button>
+        <div class="font-controls" style="text-align: center; margin-bottom: 10px; display: flex; justify-content: center; align-items: center; gap: 8px;">
+            <span style="color: var(--text-secondary); font-size: 0.82rem; font-weight: 500;">字体：</span>
+            <button class="font-btn" onclick="changeFontScale(-0.1)" title="减小字体 (Ctrl+-)" style="width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 1.1rem; font-weight: 700; color: var(--text-primary); transition: all 0.2s;">A-</button>
+            <button class="font-btn" onclick="changeFontScale(0)" title="重置字体" style="padding: 0 12px; height: 32px; border-radius: 20px; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 0.82rem; font-weight: 600; color: var(--text-primary); transition: all 0.2s;">默认</button>
+            <button class="font-btn" onclick="changeFontScale(0.1)" title="增大字体 (Ctrl++)" style="width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--border-light); background: var(--bg-card); cursor: pointer; font-size: 1.3rem; font-weight: 700; color: var(--text-primary); transition: all 0.2s;">A+</button>
         </div>
 
         <!-- Navigation Tabs -->
         <div class="nav-tabs">
-            <button class="tab-btn active" data-tab="practice">练习模式</button>
-            <button class="tab-btn" data-tab="wrong">错题本 <span id="wrongBadge"></span></button>
+            <button class="tab-btn active" data-tab="practice">练习模式<span class="tab-hotkey">Q</span></button>
+            <button class="tab-btn" data-tab="wrong">错题本 <span id="wrongBadge"></span><span class="tab-hotkey">W</span></button>
         </div>
 
         <!-- Practice Tab -->
@@ -760,14 +885,35 @@
                     </div>
 
                     <div class="actions-container" id="actionsContainer" style="display: none;">
-                        <button class="action-btn primary" id="nextBtn">下一题 →</button>
+                        <button class="action-btn primary" id="nextBtn">下一题 →<span class="btn-hotkey">Enter</span></button>
                     </div>
                 </div>
             </div>
 
-            <div class="actions-container" style="margin-top: 24px;">
+            <div class="actions-container" style="margin-top: 14px;">
                 <button class="action-btn secondary" id="resetStatsBtn">重置统计</button>
                 <button class="action-btn danger" id="clearWrongBtn">清空错题本</button>
+            </div>
+
+            <!-- Keyboard Help -->
+            <div class="keyboard-help">
+                <div class="help-item">
+                    <kbd class="accent">1</kbd><kbd class="accent">2</kbd><kbd class="accent">3</kbd><kbd class="accent">4</kbd>
+                    <span>或</span>
+                    <kbd class="accent">A</kbd><kbd class="accent">B</kbd><kbd class="accent">C</kbd><kbd class="accent">D</kbd>
+                    <span>选择答案</span>
+                </div>
+                <div class="help-divider"></div>
+                <div class="help-item">
+                    <kbd>Enter</kbd><span>下一题</span>
+                </div>
+                <div class="help-divider"></div>
+                <div class="help-item">
+                    <kbd>Q</kbd><span>练习模式</span>
+                </div>
+                <div class="help-item">
+                    <kbd>W</kbd><span>错题本</span>
+                </div>
             </div>
         </div>
 
@@ -1028,8 +1174,9 @@
                 const btn = document.createElement('button');
                 btn.className = 'option-btn option-pair-btn';
                 btn.innerHTML = `
+                    <span class="hotkey-badge">${labels[index]}</span>
                     <span class="option-label">
-                        <span class="option-word">${labels[index]}. ${option.word}</span>
+                        <span class="option-word">${option.word}</span>
                         <span class="option-pron">（${option.pronunciation}）</span>
                     </span>
                 `;
@@ -1302,6 +1449,75 @@
             applyFontScale();
         }
 
+        // ==================== 键盘快捷键 ====================
+        function handleKeyboardHotkey(e) {
+            // 如果焦点在输入框上，不触发快捷键
+            const activeTag = document.activeElement ? document.activeElement.tagName : '';
+            if (activeTag === 'INPUT' || activeTag === 'TEXTAREA') return;
+
+            const key = e.key;
+            const keyLower = key.toLowerCase();
+
+            // Tab 切换
+            if (keyLower === 'q') {
+                switchTab('practice');
+                return;
+            }
+            if (keyLower === 'w') {
+                switchTab('wrong');
+                return;
+            }
+
+            // 字体缩放 (Ctrl+加号/减号/0)
+            if (e.ctrlKey || e.metaKey) {
+                if (key === '=' || key === '+') {
+                    e.preventDefault();
+                    changeFontScale(0.1);
+                    return;
+                }
+                if (key === '-' || key === '_') {
+                    e.preventDefault();
+                    changeFontScale(-0.1);
+                    return;
+                }
+                if (key === '0') {
+                    e.preventDefault();
+                    changeFontScale(0);
+                    return;
+                }
+            }
+
+            // 只在练习模式下处理答题快捷键
+            const practiceTab = document.getElementById('practiceTab');
+            if (practiceTab.style.display === 'none') return;
+
+            // 已答题后：Enter/空格 下一题
+            if (answered && document.getElementById('actionsContainer').style.display !== 'none') {
+                if (key === 'Enter' || key === ' ') {
+                    e.preventDefault();
+                    generateQuestion();
+                    return;
+                }
+                return;
+            }
+
+            // 未答题：选择选项
+            let selectedIndex = -1;
+            if (key === '1' || keyLower === 'a') selectedIndex = 0;
+            else if (key === '2' || keyLower === 'b') selectedIndex = 1;
+            else if (key === '3' || keyLower === 'c') selectedIndex = 2;
+            else if (key === '4' || keyLower === 'd') selectedIndex = 3;
+
+            if (selectedIndex >= 0 && !answered && currentQuestion) {
+                e.preventDefault();
+                const btns = document.querySelectorAll('.option-btn');
+                if (btns[selectedIndex]) {
+                    btns[selectedIndex].classList.add('selected');
+                    handleAnswer(selectedIndex, btns[selectedIndex]);
+                }
+            }
+        }
+
         // ==================== 初始化 ====================
         function initEventListeners() {
             // Tab 切换
@@ -1317,6 +1533,9 @@
 
             // 清空错题本
             document.getElementById('clearWrongBtn').addEventListener('click', clearAllWrongAnswers);
+
+            // 键盘快捷键
+            document.addEventListener('keydown', handleKeyboardHotkey);
         }
 
         // 初始化
