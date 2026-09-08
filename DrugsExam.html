@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>禁毒知识考试 · DengDuck の 小窝</title>
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-warm-1: #fff6ec;
+            --bg-warm-2: #ffe8d2;
+            --bg-warm-3: #ffd9b8;
+            --card-bg: rgba(255, 252, 247, 0.95);
+            --text-main: #5a4130;
+            --text-soft: #8a6f58;
+            --accent: #e8913f;
+            --accent-deep: #d97a2b;
+            --accent-soft: #f6c084;
+            --pink: #f2a9a0;
+            --green: #5fa876;
+            --red: #e06a5f;
+            --border-warm: #f0ddc6;
+            --shadow-soft: 0 10px 40px rgba(186, 124, 58, 0.15);
+            --shadow-hover: 0 16px 48px rgba(186, 124, 58, 0.25);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', 'PingFang SC', 'Microsoft YaHei', serif;
+            color: var(--text-main);
+            background: linear-gradient(160deg, var(--bg-warm-1) 0%, var(--bg-warm-2) 55%, var(--bg-warm-3) 100%);
+            min-height: 100vh;
+            padding: 28px 16px 60px;
+        }
+
+        .wrap {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+
+        /* ===== 顶部 ===== */
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--text-soft);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            background: var(--card-bg);
+            border: 1px solid var(--border-warm);
+            border-radius: 999px;
+            box-shadow: 0 4px 14px rgba(186, 124, 58, 0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .back-link:hover { transform: translateY(-2px); box-shadow: var(--shadow-soft); }
+
+        .page-title {
+            font-family: 'ZCOOL KuaiLe', 'Noto Serif SC', serif;
+            font-size: 1.9rem;
+            color: var(--text-main);
+            text-align: center;
+            letter-spacing: 0.06em;
+        }
+
+        .page-sub {
+            text-align: center;
+            color: var(--text-soft);
+            font-size: 0.92rem;
+            margin-top: 6px;
+            margin-bottom: 26px;
+            letter-spacing: 0.08em;
+        }
+
+        .screen { animation: fadeUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(18px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ===== 试卷卡片列表 ===== */
+        .paper-card {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            width: 100%;
+            text-align: left;
+            font-family: inherit;
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 20px;
+            box-shadow: var(--shadow-soft);
+            padding: 22px 24px;
+            margin-bottom: 16px;
+            cursor: pointer;
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+        }
+
+        .paper-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
+
+        .paper-badge {
+            flex-shrink: 0;
+            width: 72px;
+            height: 72px;
+            border-radius: 18px;
+            background: linear-gradient(135deg, var(--accent-soft), var(--accent));
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: 'ZCOOL KuaiLe', serif;
+            box-shadow: 0 6px 16px rgba(217, 122, 43, 0.3);
+        }
+
+        .paper-badge .y { font-size: 1.5rem; line-height: 1; }
+        .paper-badge .t { font-size: 0.72rem; margin-top: 3px; letter-spacing: 0.1em; }
+
+        .paper-info { flex: 1; min-width: 0; }
+        .paper-info h3 { font-size: 1.15rem; font-weight: 700; color: var(--text-main); }
+        .paper-info p { font-size: 0.86rem; color: var(--text-soft); margin-top: 5px; line-height: 1.6; }
+
+        .paper-go {
+            flex-shrink: 0;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #fff;
+            border: 1px solid var(--border-warm);
+            color: var(--accent-deep);
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.25s ease, background 0.25s ease;
+        }
+
+        .paper-card:hover .paper-go { background: var(--accent); color: #fff; transform: translateX(4px); }
+
+        .loading, .empty-tip {
+            text-align: center;
+            color: var(--text-soft);
+            padding: 60px 20px;
+            font-size: 1rem;
+        }
+
+        .loading .dot {
+            display: inline-block;
+            animation: blink 1.2s infinite;
+        }
+
+        @keyframes blink { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
+
+        /* ===== 通用按钮 ===== */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            font-family: inherit;
+            font-size: 1.05rem;
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            padding: 14px 36px;
+            border-radius: 999px;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background: linear-gradient(135deg, var(--accent-soft) 0%, var(--accent) 45%, var(--accent-deep) 100%);
+            box-shadow: 0 8px 24px rgba(217, 122, 43, 0.35);
+        }
+
+        .btn-primary:hover { transform: translateY(-2px) scale(1.02); box-shadow: var(--shadow-hover); }
+        .btn-primary:active { transform: scale(0.98); }
+
+        .btn-ghost {
+            color: var(--accent-deep);
+            background: #fff;
+            border: 2px solid var(--accent-soft);
+        }
+
+        .btn-ghost:hover { background: #fff6ec; transform: translateY(-2px); }
+
+        .btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none !important; }
+
+        /* ===== 考前准备面板 ===== */
+        .panel {
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 24px;
+            box-shadow: var(--shadow-soft);
+            padding: 36px 30px;
+            text-align: center;
+        }
+
+        .panel .duck-emoji { font-size: 3.4rem; display: block; animation: bob 2.6s ease-in-out infinite; }
+
+        @keyframes bob {
+            0%,100% { transform: translateY(0) rotate(-3deg); }
+            50%     { transform: translateY(-8px) rotate(3deg); }
+        }
+
+        .panel h2 {
+            font-family: 'ZCOOL KuaiLe', serif;
+            font-size: 1.8rem;
+            margin-top: 12px;
+            color: var(--text-main);
+        }
+
+        .rule-list {
+            list-style: none;
+            margin: 22px auto;
+            max-width: 380px;
+            text-align: left;
+        }
+
+        .rule-list li {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 9px 0;
+            color: var(--text-soft);
+            font-size: 0.98rem;
+            border-bottom: 1px dashed var(--border-warm);
+        }
+
+        .rule-list li:last-child { border-bottom: none; }
+        .rule-list .ic { font-size: 1.15rem; }
+
+        /* ===== 答题页 ===== */
+        .exam-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 18px;
+            box-shadow: var(--shadow-soft);
+            padding: 14px 18px;
+            margin-bottom: 16px;
+            position: sticky;
+            top: 12px;
+            z-index: 10;
+        }
+
+        .exam-title {
+            font-family: 'ZCOOL KuaiLe', serif;
+            font-size: 1.15rem;
+            color: var(--text-main);
+            white-space: nowrap;
+        }
+
+        .head-right { display: flex; align-items: center; gap: 10px; }
+
+        .timer {
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: var(--accent-deep);
+            background: #fff3e4;
+            border: 1px solid var(--accent-soft);
+            padding: 7px 14px;
+            border-radius: 999px;
+            font-variant-numeric: tabular-nums;
+            letter-spacing: 0.05em;
+        }
+
+        .timer.urgent {
+            color: #fff;
+            background: var(--red);
+            border-color: var(--red);
+            animation: pulse 1s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%,100% { box-shadow: 0 0 0 0 rgba(224, 106, 95, 0.45); }
+            50%     { box-shadow: 0 0 0 8px rgba(224, 106, 95, 0); }
+        }
+
+        .mini-btn {
+            font-family: inherit;
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: var(--accent-deep);
+            background: #fff;
+            border: 1px solid var(--accent-soft);
+            border-radius: 999px;
+            padding: 7px 14px;
+            cursor: pointer;
+            transition: background 0.2s ease;
+        }
+
+        .mini-btn:hover { background: #fff3e4; }
+
+        .progress-bar {
+            height: 8px;
+            border-radius: 999px;
+            background: #f3e3cf;
+            overflow: hidden;
+            margin-bottom: 16px;
+        }
+
+        .progress-bar i {
+            display: block;
+            height: 100%;
+            border-radius: 999px;
+            background: linear-gradient(90deg, var(--accent-soft), var(--accent));
+            width: 0;
+            transition: width 0.3s ease;
+        }
+
+        .q-card {
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 22px;
+            box-shadow: var(--shadow-soft);
+            padding: 28px 26px;
+        }
+
+        .q-index {
+            display: inline-block;
+            font-size: 0.82rem;
+            font-weight: 700;
+            color: #fff;
+            background: var(--accent);
+            border-radius: 999px;
+            padding: 4px 14px;
+            letter-spacing: 0.08em;
+            margin-bottom: 14px;
+        }
+
+        .q-text {
+            font-size: 1.12rem;
+            font-weight: 600;
+            line-height: 1.85;
+            color: var(--text-main);
+        }
+
+        .options { margin-top: 20px; display: flex; flex-direction: column; gap: 12px; }
+
+        .opt {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            width: 100%;
+            text-align: left;
+            font-family: inherit;
+            font-size: 1rem;
+            line-height: 1.7;
+            color: var(--text-main);
+            background: #fff;
+            border: 2px solid var(--border-warm);
+            border-radius: 16px;
+            padding: 14px 16px;
+            cursor: pointer;
+            transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+        }
+
+        .opt:hover { border-color: var(--accent-soft); background: #fffaf2; transform: translateX(3px); }
+
+        .opt .letter {
+            flex-shrink: 0;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 2px solid var(--accent-soft);
+            color: var(--accent-deep);
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.92rem;
+            background: #fff;
+        }
+
+        .opt.selected {
+            border-color: var(--accent);
+            background: linear-gradient(135deg, #fff3e4, #ffe9d2);
+        }
+
+        .opt.selected .letter {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }
+
+        /* 结果回顾中的选项状态 */
+        .opt.correct { border-color: var(--green); background: #eef8f1; }
+        .opt.correct .letter { background: var(--green); border-color: var(--green); color: #fff; }
+        .opt.wrong { border-color: var(--red); background: #fdeeec; }
+        .opt.wrong .letter { background: var(--red); border-color: var(--red); color: #fff; }
+
+        .q-nav {
+            display: flex;
+            justify-content: space-between;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        /* ===== 答题卡 ===== */
+        .sheet {
+            margin-top: 16px;
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 20px;
+            box-shadow: var(--shadow-soft);
+            padding: 20px;
+            display: none;
+        }
+
+        .sheet.open { display: block; animation: fadeUp 0.3s ease both; }
+
+        .sheet h4 { font-size: 0.95rem; color: var(--text-soft); margin-bottom: 14px; letter-spacing: 0.08em; }
+
+        .sheet-grid {
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            gap: 8px;
+        }
+
+        .sheet-grid button {
+            font-family: inherit;
+            font-size: 0.88rem;
+            font-weight: 700;
+            aspect-ratio: 1;
+            border-radius: 10px;
+            border: 1.5px solid var(--border-warm);
+            background: #fff;
+            color: var(--text-soft);
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .sheet-grid button.answered { background: var(--accent); border-color: var(--accent); color: #fff; }
+        .sheet-grid button.current { outline: 3px solid var(--accent-deep); outline-offset: 1px; }
+
+        .submit-row { text-align: center; margin-top: 22px; }
+
+        /* ===== 结果页 ===== */
+        .score-hero { text-align: center; padding: 10px 0 4px; }
+
+        .score-ring {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto 14px;
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: conic-gradient(var(--accent) 0deg, #f3e3cf 0deg);
+            position: relative;
+            transition: background 1s ease;
+        }
+
+        .score-ring::before {
+            content: '';
+            position: absolute;
+            inset: 12px;
+            border-radius: 50%;
+            background: var(--card-bg);
+        }
+
+        .score-ring .num {
+            position: relative;
+            font-family: 'ZCOOL KuaiLe', serif;
+            font-size: 3rem;
+            color: var(--accent-deep);
+            line-height: 1;
+        }
+
+        .score-ring .unit { position: relative; font-size: 0.85rem; color: var(--text-soft); margin-top: 4px; }
+
+        .score-msg { font-size: 1.15rem; font-weight: 700; color: var(--text-main); }
+        .score-sub { font-size: 0.9rem; color: var(--text-soft); margin-top: 6px; }
+
+        .stat-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin: 24px 0;
+        }
+
+        .stat-box {
+            background: #fff;
+            border: 1px solid var(--border-warm);
+            border-radius: 16px;
+            padding: 14px 6px;
+            text-align: center;
+        }
+
+        .stat-box .v { font-size: 1.5rem; font-weight: 900; font-variant-numeric: tabular-nums; }
+        .stat-box .l { font-size: 0.8rem; color: var(--text-soft); margin-top: 4px; }
+        .stat-box.ok .v { color: var(--green); }
+        .stat-box.no .v { color: var(--red); }
+        .stat-box.skip .v { color: var(--text-soft); }
+
+        .result-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+        .filter-row { display: flex; gap: 10px; justify-content: center; margin: 22px 0 16px; }
+
+        .filter-btn {
+            font-family: inherit;
+            font-size: 0.9rem;
+            font-weight: 700;
+            padding: 8px 20px;
+            border-radius: 999px;
+            border: 1.5px solid var(--border-warm);
+            background: #fff;
+            color: var(--text-soft);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+        .review-item {
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 18px;
+            box-shadow: var(--shadow-soft);
+            padding: 20px;
+            margin-bottom: 14px;
+        }
+
+        .review-item .r-head {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .r-tag {
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 3px 12px;
+            border-radius: 999px;
+        }
+
+        .r-tag.right { background: #eef8f1; color: var(--green); }
+        .r-tag.bad { background: #fdeeec; color: var(--red); }
+        .r-tag.none { background: #f3e3cf; color: var(--text-soft); }
+
+        .r-q { font-weight: 600; line-height: 1.8; font-size: 1rem; }
+        .r-ans { margin-top: 10px; font-size: 0.9rem; color: var(--text-soft); line-height: 1.7; }
+        .r-ans b { color: var(--text-main); }
+
+        .footer-note {
+            text-align: center;
+            margin-top: 34px;
+            font-size: 0.8rem;
+            color: var(--text-soft);
+            letter-spacing: 0.08em;
+            opacity: 0.85;
+        }
+
+        /* ===== 移动端 ===== */
+        @media (max-width: 600px) {
+            body { padding: 18px 12px 50px; }
+            .page-title { font-size: 1.5rem; }
+            .panel { padding: 28px 20px; }
+            .q-card { padding: 22px 18px; }
+            .q-text { font-size: 1.02rem; }
+            .opt { font-size: 0.95rem; padding: 12px 14px; }
+            .sheet-grid { grid-template-columns: repeat(8, 1fr); }
+            .exam-head { flex-wrap: wrap; gap: 8px; }
+            .exam-title { font-size: 1rem; }
+            .stat-row { gap: 8px; }
+            .stat-box .v { font-size: 1.2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <div class="topbar">
+            <a class="back-link" href="index.html">← 返回小窝</a>
+            <span></span>
+        </div>
+
+        <h1 class="page-title">💊 禁毒知识考试</h1>
+        <p class="page-sub">珍爱生命 · 远离毒品 · 每套试卷限时 8 分钟</p>
+
+        <!-- 屏幕一：试卷列表 -->
+        <div class="screen" id="screen-home">
+            <div id="paper-list">
+                <div class="loading">试卷加载中<span class="dot">...</span></div>
+            </div>
+        </div>
+
+        <!-- 屏幕二：考前准备 / 答题 -->
+        <div class="screen" id="screen-exam" style="display:none;">
+            <!-- 考前准备 -->
+            <div class="panel" id="ready-panel">
+                <span class="duck-emoji">🦆</span>
+                <h2 id="ready-title">2020 年禁毒知识试卷</h2>
+                <ul class="rule-list">
+                    <li><span class="ic">📝</span>共 <b id="ready-count">60</b> 道题，每题分值相同，满分 100 分</li>
+                    <li><span class="ic">⏱️</span>考试时间 <b>8 分钟</b>，时间到自动交卷</li>
+                    <li><span class="ic">✅</span>点击选项作答，可随时修改、前后翻题</li>
+                    <li><span class="ic">🏁</span>完成后点击"交卷"立即查看成绩与解析</li>
+                </ul>
+                <button class="btn btn-primary" id="btn-start">开始考试 →</button>
+            </div>
+
+            <!-- 答题区 -->
+            <div id="quiz-panel" style="display:none;">
+                <div class="exam-head">
+                    <span class="exam-title" id="exam-title">2020 禁毒试卷</span>
+                    <div class="head-right">
+                        <span class="timer" id="timer">08:00</span>
+                        <button class="mini-btn" id="btn-sheet">答题卡</button>
+                        <button class="mini-btn" id="btn-submit">交卷</button>
+                    </div>
+                </div>
+
+                <div class="progress-bar"><i id="progress"></i></div>
+
+                <div class="q-card">
+                    <span class="q-index" id="q-index">第 1 / 60 题</span>
+                    <div class="q-text" id="q-text"></div>
+                    <div class="options" id="options"></div>
+                    <div class="q-nav">
+                        <button class="btn btn-ghost" id="btn-prev">← 上一题</button>
+                        <button class="btn btn-primary" id="btn-next">下一题 →</button>
+                    </div>
+                </div>
+
+                <div class="sheet" id="sheet">
+                    <h4>答题卡（点击数字可跳题）</h4>
+                    <div class="sheet-grid" id="sheet-grid"></div>
+                    <div class="submit-row">
+                        <button class="btn btn-primary" id="btn-sheet-submit">🏁 交卷</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 屏幕三：成绩结果 -->
+        <div class="screen" id="screen-result" style="display:none;">
+            <div class="panel">
+                <div class="score-hero">
+                    <div class="score-ring" id="score-ring">
+                        <span class="num" id="score-num">0</span>
+                        <span class="unit">分 / 满分 100</span>
+                    </div>
+                    <div class="score-msg" id="score-msg"></div>
+                    <div class="score-sub" id="score-sub"></div>
+                </div>
+
+                <div class="stat-row">
+                    <div class="stat-box ok"><div class="v" id="stat-right">0</div><div class="l">答对</div></div>
+                    <div class="stat-box no"><div class="v" id="stat-wrong">0</div><div class="l">答错</div></div>
+                    <div class="stat-box skip"><div class="v" id="stat-skip">0</div><div class="l">未答</div></div>
+                </div>
+
+                <div class="result-actions">
+                    <button class="btn btn-primary" id="btn-retry">再考一次</button>
+                    <button class="btn btn-ghost" id="btn-back-home">返回试卷列表</button>
+                </div>
+            </div>
+
+            <div class="filter-row">
+                <button class="filter-btn active" data-filter="all">全部题目</button>
+                <button class="filter-btn" data-filter="wrong">只看错题</button>
+            </div>
+
+            <div id="review-list"></div>
+        </div>
+
+        <p class="footer-note">Made with ♥ by DengDuck · Trae 辅助生成</p>
+    </div>
+
+    <script>
+        (function () {
+            'use strict';
+
+            var EXAM_SECONDS = 8 * 60;   // 考试时长 8 分钟
+            var papers = [];             // [{year, questions:[...]}]
+            var current = null;          // 当前试卷状态
+
+            // ===== 元素引用 =====
+            var $ = function (id) { return document.getElementById(id); };
+            var screens = { home: $('screen-home'), exam: $('screen-exam'), result: $('screen-result') };
+
+            function show(name) {
+                Object.keys(screens).forEach(function (k) {
+                    screens[k].style.display = (k === name) ? '' : 'none';
+                });
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+
+            // ===== 加载 DrugData 下所有年份 JSON =====
+            // 静态托管无目录列表，按年份探测：存在且有题目的文件自动收录
+            function loadPapers() {
+                var thisYear = new Date().getFullYear();
+                var years = [];
+                for (var y = 2000; y <= thisYear + 1; y++) years.push(y);
+
+                var tasks = years.map(function (year) {
+                    return fetch('DrugData/' + year + '.json', { cache: 'no-cache' })
+                        .then(function (r) { if (!r.ok) throw new Error('not found'); return r.json(); })
+                        .then(function (data) {
+                            var qs = (data && Array.isArray(data.questions)) ? data.questions
+                                   : (Array.isArray(data)) ? data : [];
+                            qs = qs.filter(function (q) { return q && q.question && Array.isArray(q.options) && q.options.length; });
+                            if (qs.length) return { year: year, questions: qs };
+                            return null;
+                        })
+                        .catch(function () { return null; });
+                });
+
+                Promise.all(tasks).then(function (results) {
+                    papers = results.filter(Boolean).sort(function (a, b) { return a.year - b.year; });
+                    renderPaperList();
+                });
+            }
+
+            function renderPaperList() {
+                var box = $('paper-list');
+                if (!papers.length) {
+                    box.innerHTML = '<div class="empty-tip">😢 暂未找到试卷文件<br><small>请确认 DrugData 文件夹中存在有效的 JSON 试卷</small></div>';
+                    return;
+                }
+                box.innerHTML = papers.map(function (p) {
+                    return '<button class="paper-card" data-year="' + p.year + '">' +
+                        '<div class="paper-badge"><span class="y">' + p.year + '</span><span class="t">试卷</span></div>' +
+                        '<div class="paper-info"><h3>' + p.year + ' 年禁毒知识试卷</h3>' +
+                        '<p>共 ' + p.questions.length + ' 道题 · 限时 8 分钟 · 满分 100 分</p></div>' +
+                        '<div class="paper-go">→</div></button>';
+                }).join('');
+
+                Array.prototype.forEach.call(box.querySelectorAll('.paper-card'), function (card) {
+                    card.addEventListener('click', function () {
+                        var year = Number(card.getAttribute('data-year'));
+                        var paper = papers.filter(function (p) { return p.year === year; })[0];
+                        if (paper) openReady(paper);
+                    });
+                });
+            }
+
+            // ===== 考前准备 =====
+            function openReady(paper) {
+                current = {
+                    paper: paper,
+                    questions: paper.questions,
+                    answers: new Array(paper.questions.length).fill(null),
+                    index: 0,
+                    remain: EXAM_SECONDS,
+                    timer: null,
+                    started: false
+                };
+                $('ready-title').textContent = paper.year + ' 年禁毒知识试卷';
+                $('ready-count').textContent = paper.questions.length;
+                $('ready-panel').style.display = '';
+                $('quiz-panel').style.display = 'none';
+                show('exam');
+            }
+
+            $('btn-start').addEventListener('click', startExam);
+
+            function startExam() {
+                $('ready-panel').style.display = 'none';
+                $('quiz-panel').style.display = '';
+                $('sheet').classList.remove('open');
+                current.started = true;
+                current.remain = EXAM_SECONDS;
+                current.index = 0;
+                current.answers = new Array(current.questions.length).fill(null);
+
+                $('exam-title').textContent = current.paper.year + ' 禁毒试卷';
+                buildSheet();
+                renderQuestion();
+                updateTimer();
+                clearInterval(current.timer);
+                current.timer = setInterval(function () {
+                    current.remain--;
+                    updateTimer();
+                    if (current.remain <= 0) {
+                        clearInterval(current.timer);
+                        submitExam(true);
+                    }
+                }, 1000);
+            }
+
+            // ===== 答题渲染 =====
+            function letterOf(i) { return String.fromCharCode(65 + i); }
+
+            function stripPrefix(text) {
+                return String(text).replace(/^[A-Da-d][.、．\s]*/, '');
+            }
+
+            function renderQuestion() {
+                var q = current.questions[current.index];
+                var total = current.questions.length;
+                $('q-index').textContent = '第 ' + (current.index + 1) + ' / ' + total + ' 题';
+                $('q-text').textContent = q.question;
+
+                var chosen = current.answers[current.index];
+                $('options').innerHTML = q.options.map(function (opt, i) {
+                    var letter = letterOf(i);
+                    var sel = (chosen === letter) ? ' selected' : '';
+                    return '<button class="opt' + sel + '" data-i="' + i + '">' +
+                        '<span class="letter">' + letter + '</span>' +
+                        '<span>' + escapeHtml(stripPrefix(opt)) + '</span></button>';
+                }).join('');
+
+                Array.prototype.forEach.call($('options').querySelectorAll('.opt'), function (btn) {
+                    btn.addEventListener('click', function () {
+                        var i = Number(btn.getAttribute('data-i'));
+                        current.answers[current.index] = letterOf(i);
+                        renderQuestion();
+                        updateSheet();
+                        updateProgress();
+                    });
+                });
+
+                $('btn-prev').disabled = (current.index === 0);
+                $('btn-next').textContent = (current.index === total - 1) ? '交卷 🏁' : '下一题 →';
+                updateSheetCurrent();
+                updateProgress();
+            }
+
+            function escapeHtml(s) {
+                return String(s).replace(/[&<>"']/g, function (c) {
+                    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+                });
+            }
+
+            function updateProgress() {
+                var done = current.answers.filter(Boolean).length;
+                $('progress').style.width = (done / current.questions.length * 100) + '%';
+            }
+
+            function updateTimer() {
+                var m = Math.floor(current.remain / 60);
+                var s = current.remain % 60;
+                var el = $('timer');
+                el.textContent = (m < 10 ? '0' : '') + m + ':' + (s < 10 ? '0' : '') + s;
+                el.classList.toggle('urgent', current.remain <= 60);
+            }
+
+            $('btn-prev').addEventListener('click', function () {
+                if (current.index > 0) { current.index--; renderQuestion(); }
+            });
+
+            $('btn-next').addEventListener('click', function () {
+                if (current.index < current.questions.length - 1) {
+                    current.index++;
+                    renderQuestion();
+                } else {
+                    submitExam(false);
+                }
+            });
+
+            // 键盘快捷键：A-D / 1-4 作答，左右方向键翻题
+            document.addEventListener('keydown', function (e) {
+                if (!current || !current.started || screens.exam.style.display === 'none' || $('quiz-panel').style.display === 'none') return;
+                var key = e.key.toUpperCase();
+                var q = current.questions[current.index];
+                if (['A', 'B', 'C', 'D'].indexOf(key) !== -1 && q.options.length >= key.charCodeAt(0) - 64) {
+                    current.answers[current.index] = key;
+                    renderQuestion(); updateSheet(); updateProgress();
+                } else if (['1', '2', '3', '4'].indexOf(e.key) !== -1 && q.options.length >= Number(e.key)) {
+                    current.answers[current.index] = letterOf(Number(e.key) - 1);
+                    renderQuestion(); updateSheet(); updateProgress();
+                } else if (e.key === 'ArrowLeft') {
+                    $('btn-prev').click();
+                } else if (e.key === 'ArrowRight') {
+                    $('btn-next').click();
+                }
+            });
+
+            // ===== 答题卡 =====
+            function buildSheet() {
+                $('sheet-grid').innerHTML = current.questions.map(function (_, i) {
+                    return '<button data-i="' + i + '">' + (i + 1) + '</button>';
+                }).join('');
+                Array.prototype.forEach.call($('sheet-grid').querySelectorAll('button'), function (btn) {
+                    btn.addEventListener('click', function () {
+                        current.index = Number(btn.getAttribute('data-i'));
+                        renderQuestion();
+                    });
+                });
+                updateSheet();
+            }
+
+            function updateSheet() {
+                Array.prototype.forEach.call($('sheet-grid').children, function (btn, i) {
+                    btn.classList.toggle('answered', !!current.answers[i]);
+                });
+                updateSheetCurrent();
+            }
+
+            function updateSheetCurrent() {
+                if (!$('sheet-grid').children.length) return;
+                Array.prototype.forEach.call($('sheet-grid').children, function (btn, i) {
+                    btn.classList.toggle('current', i === current.index);
+                });
+            }
+
+            $('btn-sheet').addEventListener('click', function () {
+                $('sheet').classList.toggle('open');
+            });
+
+            $('btn-submit').addEventListener('click', function () { submitExam(false); });
+            $('btn-sheet-submit').addEventListener('click', function () { submitExam(false); });
+
+            // ===== 交卷与计分 =====
+            function submitExam(auto) {
+                clearInterval(current.timer);
+                var qs = current.questions;
+                var right = 0, wrong = 0, skip = 0;
+                var detail = qs.map(function (q, i) {
+                    var ans = current.answers[i];
+                    var correct = String(q.answer).trim().toUpperCase();
+                    var state;
+                    if (!ans) { skip++; state = 'skip'; }
+                    else if (ans === correct) { right++; state = 'right'; }
+                    else { wrong++; state = 'wrong'; }
+                    return { q: q, ans: ans, correct: correct, state: state };
+                });
+
+                var score = Math.round(right / qs.length * 100);
+                var used = EXAM_SECONDS - current.remain;
+                renderResult(score, right, wrong, skip, used, detail, auto);
+                show('result');
+            }
+
+            function renderResult(score, right, wrong, skip, used, detail, auto) {
+                // 分数环动画
+                var ring = $('score-ring');
+                ring.style.background = 'conic-gradient(#f3e3cf 0deg, #f3e3cf 360deg)';
+                $('score-num').textContent = '0';
+                requestAnimationFrame(function () {
+                    setTimeout(function () {
+                        ring.style.background = 'conic-gradient(var(--accent) ' + (score * 3.6) + 'deg, #f3e3cf 0deg)';
+                        var n = 0;
+                        var step = Math.max(1, Math.round(score / 30));
+                        var timer = setInterval(function () {
+                            n += step;
+                            if (n >= score) { n = score; clearInterval(timer); }
+                            $('score-num').textContent = n;
+                        }, 25);
+                    }, 60);
+                });
+
+                var msg, sub;
+                if (score >= 90)      { msg = '🏆 太棒了，禁毒小达人！'; sub = '知识掌握非常扎实，继续保持！'; }
+                else if (score >= 75) { msg = '👍 成绩不错！'; sub = '大部分题目都掌握了，错题再看一遍吧。'; }
+                else if (score >= 60) { msg = '💪 还需加油哦'; sub = '建议回顾错题后再考一次。'; }
+                else                  { msg = '📖 别灰心，多练几次'; sub = '认真看看解析，下次一定更好！'; }
+                if (auto) sub = '时间到，系统已自动交卷。' + sub;
+
+                $('score-msg').textContent = msg;
+                $('score-sub').textContent = sub;
+                $('stat-right').textContent = right;
+                $('stat-wrong').textContent = wrong;
+                $('stat-skip').textContent = skip;
+
+                // 错题回顾
+                var filter = 'all';
+                function renderReview() {
+                    $('review-list').innerHTML = detail.map(function (d, i) {
+                        if (filter === 'wrong' && d.state === 'right') return '';
+                        var tag = d.state === 'right' ? '<span class="r-tag right">✓ 答对</span>'
+                                : d.state === 'wrong' ? '<span class="r-tag bad">✗ 答错</span>'
+                                : '<span class="r-tag none">— 未答</span>';
+                        var opts = d.q.options.map(function (opt, oi) {
+                            var letter = letterOf(oi);
+                            var cls = '';
+                            if (letter === d.correct) cls = ' correct';
+                            else if (letter === d.ans) cls = ' wrong';
+                            return '<div class="opt' + cls + '" style="cursor:default;"><span class="letter">' + letter + '</span><span>' +
+                                   escapeHtml(stripPrefix(opt)) + '</span></div>';
+                        }).join('');
+                        var ansLine = d.state === 'right'
+                            ? '你的答案：<b>' + d.ans + '</b> ✓'
+                            : '你的答案：<b>' + (d.ans || '未作答') + '</b> ｜ 正确答案：<b>' + d.correct + '</b>';
+                        return '<div class="review-item">' +
+                            '<div class="r-head">' + tag + '<span class="r-q">' + (i + 1) + '. ' + escapeHtml(d.q.question) + '</span></div>' +
+                            '<div class="options">' + opts + '</div>' +
+                            '<div class="r-ans">' + ansLine + '</div></div>';
+                    }).join('') || '<div class="empty-tip">🎉 没有错题，全部答对啦！</div>';
+                }
+                renderReview();
+
+                Array.prototype.forEach.call(document.querySelectorAll('.filter-btn'), function (btn) {
+                    btn.onclick = function () {
+                        filter = btn.getAttribute('data-filter');
+                        Array.prototype.forEach.call(document.querySelectorAll('.filter-btn'), function (b) {
+                            b.classList.toggle('active', b === btn);
+                        });
+                        renderReview();
+                    };
+                });
+
+                $('btn-retry').onclick = function () { openReady(current.paper); };
+                $('btn-back-home').onclick = function () { show('home'); };
+            }
+
+            // ===== 启动 =====
+            loadPapers();
+        })();
+    </script>
+</body>
+</html>
