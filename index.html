@@ -219,12 +219,17 @@
         }
 
         .hitokoto .h-text {
-            font-family: 'Ma Shan Zheng', 'Noto Serif SC', serif;
+            font-family: 'Ma Shan Zheng', 'STKaiti', 'KaiTi', 'Kaiti SC', '楷体', 'Noto Serif SC', serif;
             font-size: 1.55rem;
-            line-height: 1.9;
+            line-height: 2;
             color: var(--text-main);
             letter-spacing: 0.05em;
             font-weight: 400;
+        }
+
+        .hitokoto .h-line {
+            display: block;
+            white-space: nowrap;
         }
 
         .hitokoto .h-text::before {
@@ -451,8 +456,18 @@
             ];
             let localIdx = Math.floor(Math.random() * fallback.length);
 
+            function escapeHtml(s) {
+                return String(s).replace(/[&<>"']/g, function (c) {
+                    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+                });
+            }
+
             function show(text, from) {
-                textEl.textContent = text;
+                // 按句读标点断句，每小句独占一行，避免在行中任意位置折行
+                var parts = String(text).match(/[^，。；！？、,.;!?…]+[，。；！？、,.;!?…]?/g) || [text];
+                textEl.innerHTML = parts.map(function (p) {
+                    return '<span class="h-line">' + escapeHtml(p) + '</span>';
+                }).join('');
                 fromEl.textContent = from ? '—— ' + from : '';
                 textEl.style.animation = 'none';
                 void textEl.offsetWidth;  // 触发重绘以重启动画
