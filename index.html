@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-warm-1: #fff6ec;
@@ -165,49 +165,62 @@
             color: var(--pink);
         }
 
-        /* ===== 一言 ===== */
+        /* ===== 一言（诗句排版，无卡片）===== */
         .hitokoto {
-            position: relative;
-            margin: 22px auto 0;
-            max-width: 420px;
-            min-height: 72px;
-            background: rgba(255, 246, 236, 0.75);
-            border: 1px dashed var(--accent-soft);
-            border-radius: 16px;
-            padding: 16px 22px;
+            margin: 30px auto 0;
+            max-width: 440px;
+            padding: 0 24px;
             cursor: pointer;
-            transition: background 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+            background: none;
+            border: none;
         }
 
-        .hitokoto:hover {
-            background: #fff6ec;
-            transform: translateY(-2px);
-            box-shadow: 0 8px 22px rgba(217, 122, 43, 0.14);
+        .hitokoto::before {
+            content: '❀';
+            display: block;
+            color: var(--accent-soft);
+            font-size: 0.85rem;
+            margin-bottom: 12px;
         }
 
         .hitokoto .h-text {
-            font-size: 0.98rem;
+            font-family: 'Ma Shan Zheng', 'Noto Serif SC', serif;
+            font-size: 1.5rem;
+            line-height: 1.9;
             color: var(--text-main);
-            line-height: 1.85;
-            font-weight: 500;
-            letter-spacing: 0.03em;
+            letter-spacing: 0.05em;
+            font-weight: 400;
+        }
+
+        .hitokoto .h-text::before {
+            content: '「';
+            color: var(--accent);
+            font-size: 0.8em;
+            margin-right: 8px;
+            vertical-align: 0.05em;
+        }
+
+        .hitokoto .h-text::after {
+            content: '」';
+            color: var(--accent);
+            font-size: 0.8em;
+            margin-left: 8px;
+            vertical-align: 0.05em;
         }
 
         .hitokoto .h-from {
-            margin-top: 6px;
-            font-size: 0.8rem;
+            margin-top: 10px;
+            font-size: 0.86rem;
             color: var(--text-soft);
-            text-align: right;
-            letter-spacing: 0.05em;
+            letter-spacing: 0.1em;
         }
 
         .hitokoto .h-tip {
-            position: absolute;
-            top: 8px;
-            right: 12px;
-            font-size: 0.7rem;
+            display: block;
+            margin-top: 12px;
+            font-size: 0.72rem;
             color: var(--accent-soft);
-            letter-spacing: 0.08em;
+            letter-spacing: 0.25em;
             opacity: 0;
             transition: opacity 0.25s ease;
         }
@@ -315,6 +328,7 @@
             }
             h1 { font-size: 2.3rem; }
             .duck img { width: 88px; height: 88px; }
+            .hitokoto .h-text { font-size: 1.2rem; }
             .enter-btn {
                 padding: 14px 36px;
                 font-size: 1.05rem;
@@ -342,11 +356,11 @@
             <span class="heart">愿你今天一切顺利，生活幸福</span> 🧡
         </p>
 
-        <div class="hitokoto" id="hitokoto" title="点击换一句">
-            <span class="h-tip">↻ 点击换一句</span>
+        <blockquote class="hitokoto" id="hitokoto" title="点击换一句">
             <div class="h-text" id="h-text">一言加载中…</div>
             <div class="h-from" id="h-from"></div>
-        </div>
+            <span class="h-tip">↻ 点击换一句</span>
+        </blockquote>
 
         <div class="enter-actions">
             <a class="enter-btn" href="pinyin.html">
