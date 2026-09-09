@@ -165,9 +165,63 @@
             color: var(--pink);
         }
 
+        /* ===== 一言 ===== */
+        .hitokoto {
+            position: relative;
+            margin: 22px auto 0;
+            max-width: 420px;
+            min-height: 72px;
+            background: rgba(255, 246, 236, 0.75);
+            border: 1px dashed var(--accent-soft);
+            border-radius: 16px;
+            padding: 16px 22px;
+            cursor: pointer;
+            transition: background 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+        }
+
+        .hitokoto:hover {
+            background: #fff6ec;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 22px rgba(217, 122, 43, 0.14);
+        }
+
+        .hitokoto .h-text {
+            font-size: 0.98rem;
+            color: var(--text-main);
+            line-height: 1.85;
+            font-weight: 500;
+            letter-spacing: 0.03em;
+        }
+
+        .hitokoto .h-from {
+            margin-top: 6px;
+            font-size: 0.8rem;
+            color: var(--text-soft);
+            text-align: right;
+            letter-spacing: 0.05em;
+        }
+
+        .hitokoto .h-tip {
+            position: absolute;
+            top: 8px;
+            right: 12px;
+            font-size: 0.7rem;
+            color: var(--accent-soft);
+            letter-spacing: 0.08em;
+            opacity: 0;
+            transition: opacity 0.25s ease;
+        }
+
+        .hitokoto:hover .h-tip { opacity: 1; }
+
+        @keyframes hFade {
+            from { opacity: 0; transform: translateY(6px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
         /* ===== 入口按钮 ===== */
         .enter-actions {
-            margin-top: 32px;
+            margin-top: 30px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -177,10 +231,13 @@
         .enter-btn {
             display: inline-flex;
             align-items: center;
+            justify-content: center;
             gap: 10px;
-            padding: 16px 44px;
+            width: 100%;
+            max-width: 320px;
+            padding: 15px 44px;
             font-family: inherit;
-            font-size: 1.18rem;
+            font-size: 1.12rem;
             font-weight: 700;
             letter-spacing: 0.12em;
             color: #fff;
@@ -218,10 +275,8 @@
             color: var(--accent-deep);
             background: #fff;
             border: 2px solid var(--accent-soft);
-            box-shadow: 0 6px 18px rgba(217, 122, 43, 0.15);
+            box-shadow: 0 6px 18px rgba(217, 124, 43, 0.15);
             animation: none;
-            padding: 13px 40px;
-            font-size: 1.05rem;
         }
 
         .enter-btn.secondary:hover {
@@ -284,8 +339,14 @@
         <div class="title-deco"></div>
         <p class="tagline">
             这里是 Duck 的小小角落，<br>
-            慢慢走，轻轻看，<span class="heart">愿你有个暖乎乎的好心情</span> 🧡
+            <span class="heart">愿你今天一切顺利，生活幸福</span> 🧡
         </p>
+
+        <div class="hitokoto" id="hitokoto" title="点击换一句">
+            <span class="h-tip">↻ 点击换一句</span>
+            <div class="h-text" id="h-text">一言加载中…</div>
+            <div class="h-from" id="h-from"></div>
+        </div>
 
         <div class="enter-actions">
             <a class="enter-btn" href="pinyin.html">
@@ -321,6 +382,61 @@
                 text = '夜深了 · 早点休息哦';
             }
             document.getElementById('greeting').textContent = text;
+        })();
+
+        // 一言：优先从 hitokoto API 获取，失败/超时则用本地句子兜底
+        (function () {
+            const box = document.getElementById('hitokoto');
+            const textEl = document.getElementById('h-text');
+            const fromEl = document.getElementById('h-from');
+
+            const fallback = [
+                { h: '愿你今天一切顺利，生活幸福。', f: 'DengDuck 的小窝' },
+                { h: '慢慢来，比较快。', f: '一句暖话' },
+                { h: '生活明朗，万物可爱。', f: '一句暖话' },
+                { h: '今天也要元气满满呀！', f: 'DengDuck 的小窝' },
+                { h: '风停在窗边，嘱咐你要热爱这个世界。', f: '一句暖话' },
+                { h: '把普通的日子过得浪漫一些。', f: '一句暖话' },
+                { h: '你很棒，今天也辛苦了。', f: 'DengDuck 的小窝' },
+                { h: '保持热爱，奔赴山海。', f: '一句暖话' }
+            ];
+            let localIdx = Math.floor(Math.random() * fallback.length);
+
+            function show(text, from) {
+                textEl.textContent = text;
+                fromEl.textContent = from ? '—— ' + from : '';
+                textEl.style.animation = 'none';
+                void textEl.offsetWidth;  // 触发重绘以重启动画
+                textEl.style.animation = 'hFade 0.5s ease both';
+            }
+
+            function showLocal() {
+                const q = fallback[localIdx % fallback.length];
+                localIdx++;
+                show(q.h, q.f);
+            }
+
+            function loadHitokoto() {
+                const controller = new AbortController();
+                const timer = setTimeout(() => controller.abort(), 5000);
+                fetch('https://v1.hitokoto.cn/?encode=json', { signal: controller.signal })
+                    .then(r => r.json())
+                    .then(d => {
+                        clearTimeout(timer);
+                        if (d && d.hitokoto) {
+                            let from = '';
+                            if (d.from_who) from = d.from_who + (d.from ? '《' + d.from + '》' : '');
+                            else if (d.from) from = '《' + d.from + '》';
+                            show(d.hitokoto, from);
+                        } else {
+                            showLocal();
+                        }
+                    })
+                    .catch(() => { clearTimeout(timer); showLocal(); });
+            }
+
+            box.addEventListener('click', loadHitokoto);
+            loadHitokoto();
         })();
     </script>
 </body>
