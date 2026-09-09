@@ -7,232 +7,152 @@
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-warm-1: #fff6ec;
-            --bg-warm-2: #ffe8d2;
-            --bg-warm-3: #ffd9b8;
-            --text-main: #5a4130;
-            --text-soft: #8a6f58;
+            --bg-0: #1a1410;
+            --bg-1: #2a1f17;
+            --bg-2: #3d2c1e;
+            --text: #f5ece0;
+            --text-dim: #c4a884;
+            --text-faint: #8a7460;
             --accent: #e8913f;
-            --accent-deep: #d97a2b;
-            --accent-soft: #f6c084;
-            --pink: #f2a9a0;
-            --shadow-soft: 0 10px 40px rgba(186, 124, 58, 0.18);
-            --shadow-hover: 0 16px 48px rgba(186, 124, 58, 0.3);
+            --accent-glow: rgba(232, 145, 63, 0.15);
+            --line: rgba(196, 168, 132, 0.15);
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        html, body {
-            min-height: 100%;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
-            font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', 'SimSun', '宋体', 'PingFang SC', 'Microsoft YaHei', serif;
-            color: var(--text-main);
-            background: linear-gradient(160deg, var(--bg-warm-1) 0%, var(--bg-warm-2) 55%, var(--bg-warm-3) 100%);
+            font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+            color: var(--text);
+            background: var(--bg-0);
             min-height: 100vh;
             overflow-x: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 40px 18px 70px;
+            padding: 48px 20px 64px;
             position: relative;
         }
 
-        /* 背景柔光 */
-        body::before, body::after {
+        /* 背景：深色 + 暖光 */
+        body::before {
             content: '';
             position: fixed;
-            border-radius: 50%;
-            filter: blur(70px);
-            pointer-events: none;
+            inset: 0;
+            background: radial-gradient(ellipse at 30% 20%, var(--bg-2) 0%, var(--bg-1) 40%, var(--bg-0) 80%);
             z-index: 0;
-        }
-
-        body::before {
-            width: 420px;
-            height: 420px;
-            background: rgba(246, 192, 132, 0.45);
-            top: -120px;
-            left: -100px;
         }
 
         body::after {
-            width: 380px;
-            height: 380px;
-            background: rgba(242, 169, 160, 0.35);
-            bottom: -120px;
-            right: -90px;
-        }
-
-        /* ===== 漂浮装饰 ===== */
-        .deco {
+            content: '';
             position: fixed;
-            pointer-events: none;
-            user-select: none;
-            opacity: 0.55;
+            width: 600px;
+            height: 600px;
+            top: -200px;
+            right: -150px;
+            background: radial-gradient(circle, var(--accent-glow) 0%, transparent 60%);
+            filter: blur(40px);
             z-index: 0;
-            animation: drift linear infinite;
+            pointer-events: none;
         }
 
-        .deco.d1 { top: 8%;  left: 6%;  font-size: 2.6rem; animation-duration: 14s; }
-        .deco.d2 { top: 18%; right: 8%; font-size: 2.1rem; animation-duration: 18s; animation-delay: -4s; }
-        .deco.d3 { bottom: 14%; left: 10%; font-size: 2.3rem; animation-duration: 16s; animation-delay: -8s; }
-        .deco.d4 { bottom: 22%; right: 12%; font-size: 2.8rem; animation-duration: 20s; animation-delay: -2s; }
-        .deco.d5 { top: 48%; left: 3%;  font-size: 1.7rem; animation-duration: 12s; animation-delay: -6s; }
-        .deco.d6 { top: 55%; right: 4%; font-size: 1.9rem; animation-duration: 15s; animation-delay: -10s; }
-
-        @keyframes drift {
-            0%   { transform: translateY(0) rotate(-4deg); }
-            50%  { transform: translateY(-26px) rotate(5deg); }
-            100% { transform: translateY(0) rotate(-4deg); }
-        }
-
-        /* ===== 开放式页面容器（无卡片）===== */
         .page {
             position: relative;
             z-index: 1;
             width: 100%;
-            max-width: 560px;
+            max-width: 520px;
             text-align: center;
-            animation: pageIn 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+            animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) both;
         }
 
-        @keyframes pageIn {
-            from { opacity: 0; transform: translateY(24px); }
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(30px); }
             to   { opacity: 1; transform: translateY(0); }
         }
 
         /* ===== 头像 ===== */
-        .duck {
-            line-height: 1;
+        .avatar-wrap {
             display: inline-block;
             position: relative;
-            animation: bob 4s ease-in-out infinite;
+            margin-bottom: 28px;
         }
 
-        /* 外层柔光晕 */
-        .duck::before {
-            content: '';
-            position: absolute;
-            inset: -18px;
-            border-radius: 50%;
-            background: radial-gradient(circle, rgba(232, 145, 63, 0.25) 0%, rgba(242, 169, 160, 0.15) 50%, transparent 70%);
-            animation: glowPulse 3s ease-in-out infinite;
-        }
-
-        /* 渐变光环 */
-        .duck::after {
-            content: '';
-            position: absolute;
-            inset: -4px;
-            border-radius: 50%;
-            background: conic-gradient(from 0deg, var(--accent-soft), var(--pink), var(--accent), var(--accent-soft));
-            animation: ringSpin 8s linear infinite;
-            z-index: 0;
-        }
-
-        .duck img {
-            position: relative;
-            z-index: 1;
-            width: 128px;
-            height: 128px;
+        .avatar-wrap img {
+            width: 110px;
+            height: 110px;
             border-radius: 50%;
             object-fit: cover;
-            border: 3px solid #fff;
-            box-shadow: 0 8px 24px rgba(217, 122, 43, 0.3);
+            border: 2px solid rgba(245, 236, 224, 0.12);
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
-        @keyframes ringSpin {
-            to { transform: rotate(360deg); }
+        .avatar-wrap:hover img {
+            transform: scale(1.05);
         }
 
-        @keyframes glowPulse {
-            0%, 100% { opacity: 0.6; transform: scale(1); }
-            50%      { opacity: 1; transform: scale(1.08); }
+        .avatar-wrap::after {
+            content: '';
+            position: absolute;
+            inset: -6px;
+            border-radius: 50%;
+            border: 1px solid var(--line);
+            transition: border-color 0.4s ease;
         }
 
-        @keyframes bob {
-            0%, 100% { transform: translateY(0); }
-            50%      { transform: translateY(-8px); }
+        .avatar-wrap:hover::after {
+            border-color: rgba(232, 145, 63, 0.4);
         }
 
-        /* ===== 问候胶囊 ===== */
+        /* ===== 问候 ===== */
         .greeting {
-            display: inline-block;
-            margin-top: 22px;
-            font-size: 0.92rem;
-            font-weight: 600;
-            color: var(--accent-deep);
-            letter-spacing: 0.12em;
-            background: rgba(255, 255, 255, 0.55);
-            backdrop-filter: blur(6px);
-            border: 1px solid rgba(255, 255, 255, 0.8);
-            border-radius: 999px;
-            padding: 8px 22px;
-            box-shadow: 0 4px 16px rgba(186, 124, 58, 0.12);
-        }
-
-        .greeting .dot {
-            margin: 0 6px;
-            color: var(--accent-soft);
-        }
-
-        h1 {
-            font-family: 'ZCOOL KuaiLe', 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
-            font-size: 3rem;
+            font-size: 0.85rem;
             font-weight: 400;
-            color: var(--text-main);
-            margin-top: 20px;
+            color: var(--text-faint);
+            letter-spacing: 0.15em;
+            margin-bottom: 8px;
+        }
+
+        /* ===== 标题 ===== */
+        h1 {
+            font-family: 'ZCOOL KuaiLe', 'Noto Serif SC', serif;
+            font-size: 2.6rem;
+            font-weight: 400;
+            color: var(--text);
+            letter-spacing: 0.06em;
+            line-height: 1.4;
+            margin-bottom: 6px;
+        }
+
+        .subtitle {
+            font-size: 0.88rem;
+            color: var(--text-dim);
+            font-weight: 300;
             letter-spacing: 0.08em;
-            line-height: 1.35;
-            text-shadow: 0 2px 12px rgba(255, 255, 255, 0.6);
+            line-height: 1.8;
         }
 
-        .title-deco {
-            margin: 18px auto 0;
-            height: 2px;
-            width: 140px;
-            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+        /* ===== 分隔线 ===== */
+        .divider {
+            width: 100%;
+            height: 1px;
+            background: var(--line);
+            margin: 36px 0 32px;
         }
 
-        .tagline {
-            margin-top: 18px;
-            font-size: 1.02rem;
-            color: var(--text-soft);
-            font-weight: 500;
-            line-height: 1.9;
-            letter-spacing: 0.05em;
-        }
-
-        .tagline .heart {
-            color: var(--pink);
-            font-weight: 700;
-        }
-
-        /* ===== 一言（诗句排版，无边框）===== */
+        /* ===== 一言 ===== */
         .hitokoto {
-            margin: 40px auto 0;
-            max-width: 440px;
-            padding: 0 20px;
             cursor: pointer;
-            background: none;
-            border: none;
-            position: relative;
+            padding: 0 16px;
+            transition: opacity 0.3s ease;
         }
 
         .hitokoto .h-text {
-            font-family: 'Ma Shan Zheng', 'STKaiti', 'KaiTi', 'Kaiti SC', '楷体', 'Noto Serif SC', serif;
-            font-size: 1.6rem;
-            line-height: 2.1;
-            color: var(--text-main);
+            font-family: 'Ma Shan Zheng', 'STKaiti', 'KaiTi', '楷体', 'Noto Serif SC', serif;
+            font-size: 1.45rem;
+            line-height: 2.2;
+            color: var(--text);
             letter-spacing: 0.06em;
             font-weight: 400;
         }
@@ -242,182 +162,149 @@
             white-space: nowrap;
         }
 
-        .hitokoto .h-divider {
-            width: 36px;
-            height: 1px;
-            margin: 16px auto 10px;
-            background: linear-gradient(90deg, transparent, var(--accent-soft), transparent);
-        }
-
         .hitokoto .h-from {
-            font-size: 0.82rem;
-            color: var(--text-soft);
-            letter-spacing: 0.12em;
+            margin-top: 14px;
+            font-size: 0.78rem;
+            color: var(--text-faint);
+            letter-spacing: 0.15em;
+            font-weight: 300;
         }
 
         .hitokoto .h-tip {
             display: block;
-            margin-top: 12px;
-            font-size: 0.7rem;
-            color: var(--accent-soft);
-            letter-spacing: 0.25em;
+            margin-top: 10px;
+            font-size: 0.68rem;
+            color: var(--text-faint);
+            letter-spacing: 0.3em;
             opacity: 0;
-            transition: opacity 0.25s ease;
+            transition: opacity 0.3s ease;
         }
 
-        .hitokoto:hover .h-tip { opacity: 1; }
+        .hitokoto:hover .h-tip { opacity: 0.7; }
 
         @keyframes hFade {
-            from { opacity: 0; transform: translateY(6px); }
+            from { opacity: 0; transform: translateY(8px); }
             to   { opacity: 1; transform: translateY(0); }
         }
 
-        /* ===== 入口按钮 ===== */
-        .enter-actions {
-            margin-top: 38px;
+        /* ===== 按钮 ===== */
+        .actions {
+            margin-top: 40px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 16px;
+            gap: 14px;
         }
 
-        .enter-btn {
-            display: inline-flex;
+        .btn {
+            display: flex;
             align-items: center;
             justify-content: center;
-            gap: 10px;
+            gap: 8px;
             width: 100%;
-            max-width: 320px;
-            padding: 16px 44px;
+            max-width: 300px;
+            padding: 15px 32px;
             font-family: inherit;
-            font-size: 1.12rem;
-            font-weight: 700;
-            letter-spacing: 0.12em;
-            color: #fff;
-            text-decoration: none;
-            background: linear-gradient(135deg, var(--accent-soft) 0%, var(--accent) 45%, var(--accent-deep) 100%);
-            border-radius: 999px;
-            box-shadow: 0 10px 28px rgba(217, 122, 43, 0.4);
-            transition: transform 0.25s ease, box-shadow 0.25s ease;
-            animation: btnPulse 2.4s ease-in-out infinite;
-        }
-
-        .enter-btn:hover {
-            transform: translateY(-3px) scale(1.03);
-            box-shadow: var(--shadow-hover);
-        }
-
-        .enter-btn:active {
-            transform: translateY(0) scale(0.99);
-        }
-
-        .enter-btn .arrow {
-            transition: transform 0.25s ease;
-        }
-
-        .enter-btn:hover .arrow {
-            transform: translateX(5px);
-        }
-
-        @keyframes btnPulse {
-            0%, 100% { box-shadow: 0 10px 28px rgba(217, 122, 43, 0.4); }
-            50%      { box-shadow: 0 10px 36px rgba(217, 122, 43, 0.6); }
-        }
-
-        .enter-btn.secondary {
-            color: var(--accent-deep);
-            background: rgba(255, 255, 255, 0.6);
-            backdrop-filter: blur(6px);
-            border: 2px solid rgba(255, 255, 255, 0.9);
-            box-shadow: 0 8px 22px rgba(217, 122, 43, 0.18);
-            animation: none;
-        }
-
-        .enter-btn.secondary:hover {
-            background: rgba(255, 255, 255, 0.85);
-            box-shadow: 0 14px 32px rgba(217, 122, 43, 0.28);
-        }
-
-        .enter-sub {
-            margin-top: 16px;
-            font-size: 0.85rem;
-            color: var(--text-soft);
+            font-size: 1rem;
+            font-weight: 500;
             letter-spacing: 0.1em;
+            color: var(--text);
+            text-decoration: none;
+            background: rgba(245, 236, 224, 0.04);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+            backdrop-filter: blur(4px);
+        }
+
+        .btn:hover {
+            background: rgba(232, 145, 63, 0.08);
+            border-color: rgba(232, 145, 63, 0.35);
+            transform: translateY(-2px);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn-primary {
+            color: var(--accent);
+            border-color: rgba(232, 145, 63, 0.25);
+            background: rgba(232, 145, 63, 0.06);
+        }
+
+        .btn-primary:hover {
+            background: rgba(232, 145, 63, 0.12);
+            border-color: rgba(232, 145, 63, 0.5);
+        }
+
+        .btn .arrow {
+            font-size: 0.9em;
+            opacity: 0.5;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+        }
+
+        .btn:hover .arrow {
+            transform: translateX(4px);
+            opacity: 1;
         }
 
         /* ===== 页脚 ===== */
         .footer {
             position: fixed;
-            bottom: 14px;
+            bottom: 16px;
             left: 0;
             right: 0;
             text-align: center;
-            font-size: 0.8rem;
-            color: var(--text-soft);
-            letter-spacing: 0.08em;
+            font-size: 0.74rem;
+            color: var(--text-faint);
+            letter-spacing: 0.1em;
             z-index: 1;
-            opacity: 0.85;
+            opacity: 0.5;
+            font-weight: 300;
         }
-
-        .footer .heart { color: #e07a5f; }
 
         /* ===== 移动端 ===== */
         @media (max-width: 600px) {
-            body { padding: 30px 16px 60px; }
-            h1 { font-size: 2.4rem; }
-            .duck img { width: 108px; height: 108px; }
-            .hitokoto .h-text { font-size: 1.3rem; }
-            .enter-btn {
-                padding: 14px 36px;
-                font-size: 1.05rem;
-            }
-            .deco { opacity: 0.4; }
+            body { padding: 36px 16px 56px; }
+            h1 { font-size: 2.1rem; }
+            .avatar-wrap img { width: 96px; height: 96px; }
+            .hitokoto .h-text { font-size: 1.2rem; }
+            .btn { padding: 13px 28px; font-size: 0.95rem; }
         }
     </style>
 </head>
 <body>
-    <!-- 漂浮的小装饰 -->
-    <div class="deco d1">🪶</div>
-    <div class="deco d2">✨</div>
-    <div class="deco d3">☕</div>
-    <div class="deco d4">🌙</div>
-    <div class="deco d5">🍂</div>
-    <div class="deco d6">⭐</div>
-
     <main class="page">
-        <div class="duck"><img src="icon.png" alt="DengDuck 头像"></div>
-        <div>
-            <span class="greeting" id="greeting">欢迎回家<span class="dot">·</span>今天也要开心呀</span>
+        <div class="avatar-wrap">
+            <img src="icon.png" alt="DengDuck">
         </div>
-        <h1>欢迎来到<br>DengDuck の 小窝</h1>
-        <div class="title-deco"></div>
-        <p class="tagline">
-            这里是 Duck 的小小角落，<br>
-            <span class="heart">愿你今天一切顺利，生活幸福</span> 🧡
-        </p>
+        <div class="greeting" id="greeting">你好</div>
+        <h1>DengDuck の 小窝</h1>
+        <p class="subtitle">愿你今天一切顺利，生活幸福</p>
+
+        <div class="divider"></div>
 
         <blockquote class="hitokoto" id="hitokoto" title="点击换一句">
             <div class="h-text" id="h-text">一言加载中…</div>
-            <div class="h-divider"></div>
             <div class="h-from" id="h-from"></div>
             <span class="h-tip">↻ 点击换一句</span>
         </blockquote>
 
-        <div class="enter-actions">
-            <a class="enter-btn" href="pinyin.html">
-                <span>📖 进入字音练习</span>
+        <div class="actions">
+            <a class="btn btn-primary" href="pinyin.html">
+                <span>字音练习</span>
                 <span class="arrow">→</span>
             </a>
-            <a class="enter-btn secondary" href="DrugsExam.html">
-                <span>💊 禁毒知识考试</span>
+            <a class="btn" href="DrugsExam.html">
+                <span>禁毒知识考试</span>
                 <span class="arrow">→</span>
             </a>
         </div>
-        <div class="enter-sub">多音字读音训练 · 8 分钟禁毒小测</div>
     </main>
 
     <footer class="footer">
-        Made with <span class="heart">♥</span> by DengDuck · Trae 辅助生成
+        Made with ♥ by DengDuck · Trae 辅助生成
     </footer>
 
     <script>
@@ -425,17 +312,11 @@
         (function () {
             const hour = new Date().getHours();
             let text;
-            if (hour >= 5 && hour < 11) {
-                text = '早上好呀 · 新的一天元气满满';
-            } else if (hour >= 11 && hour < 14) {
-                text = '中午好 · 记得好好吃饭';
-            } else if (hour >= 14 && hour < 18) {
-                text = '下午好 · 来喝杯茶歇一歇';
-            } else if (hour >= 18 && hour < 23) {
-                text = '晚上好 · 辛苦啦，欢迎回家';
-            } else {
-                text = '夜深了 · 早点休息哦';
-            }
+            if (hour >= 5 && hour < 11) text = '早安，新的一天';
+            else if (hour >= 11 && hour < 14) text = '午安，记得吃饭';
+            else if (hour >= 14 && hour < 18) text = '下午好，歇口气吧';
+            else if (hour >= 18 && hour < 23) text = '晚上好，辛苦了';
+            else text = '夜深了，早些休息';
             document.getElementById('greeting').textContent = text;
         })();
 
@@ -464,14 +345,13 @@
             }
 
             function show(text, from) {
-                // 按句读标点断句，每小句独占一行，避免在行中任意位置折行
                 var parts = String(text).match(/[^，。；！？、,.;!?…]+[，。；！？、,.;!?…]?/g) || [text];
                 textEl.innerHTML = parts.map(function (p) {
                     return '<span class="h-line">' + escapeHtml(p) + '</span>';
                 }).join('');
                 fromEl.textContent = from ? '—— ' + from : '';
                 textEl.style.animation = 'none';
-                void textEl.offsetWidth;  // 触发重绘以重启动画
+                void textEl.offsetWidth;
                 textEl.style.animation = 'hFade 0.5s ease both';
             }
 
