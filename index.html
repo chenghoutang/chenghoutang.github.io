@@ -200,30 +200,23 @@
             font-weight: 700;
         }
 
-        /* ===== 一言（诗句排版，无卡片）===== */
+        /* ===== 一言（诗句排版，无边框）===== */
         .hitokoto {
-            margin: 34px auto 0;
-            max-width: 460px;
-            padding: 0 24px;
+            margin: 40px auto 0;
+            max-width: 440px;
+            padding: 0 20px;
             cursor: pointer;
             background: none;
             border: none;
-        }
-
-        .hitokoto::before {
-            content: '❀';
-            display: block;
-            color: var(--accent);
-            font-size: 0.9rem;
-            margin-bottom: 14px;
+            position: relative;
         }
 
         .hitokoto .h-text {
             font-family: 'Ma Shan Zheng', 'STKaiti', 'KaiTi', 'Kaiti SC', '楷体', 'Noto Serif SC', serif;
-            font-size: 1.55rem;
-            line-height: 2;
+            font-size: 1.6rem;
+            line-height: 2.1;
             color: var(--text-main);
-            letter-spacing: 0.05em;
+            letter-spacing: 0.06em;
             font-weight: 400;
         }
 
@@ -232,33 +225,23 @@
             white-space: nowrap;
         }
 
-        .hitokoto .h-text::before {
-            content: '「';
-            color: var(--accent);
-            font-size: 0.8em;
-            margin-right: 8px;
-            vertical-align: 0.05em;
-        }
-
-        .hitokoto .h-text::after {
-            content: '」';
-            color: var(--accent);
-            font-size: 0.8em;
-            margin-left: 8px;
-            vertical-align: 0.05em;
+        .hitokoto .h-divider {
+            width: 36px;
+            height: 1px;
+            margin: 16px auto 10px;
+            background: linear-gradient(90deg, transparent, var(--accent-soft), transparent);
         }
 
         .hitokoto .h-from {
-            margin-top: 10px;
-            font-size: 0.86rem;
+            font-size: 0.82rem;
             color: var(--text-soft);
-            letter-spacing: 0.1em;
+            letter-spacing: 0.12em;
         }
 
         .hitokoto .h-tip {
             display: block;
-            margin-top: 14px;
-            font-size: 0.72rem;
+            margin-top: 12px;
+            font-size: 0.7rem;
             color: var(--accent-soft);
             letter-spacing: 0.25em;
             opacity: 0;
@@ -366,7 +349,7 @@
             body { padding: 30px 16px 60px; }
             h1 { font-size: 2.4rem; }
             .duck img { width: 104px; height: 104px; }
-            .hitokoto .h-text { font-size: 1.25rem; }
+            .hitokoto .h-text { font-size: 1.3rem; }
             .enter-btn {
                 padding: 14px 36px;
                 font-size: 1.05rem;
@@ -398,6 +381,7 @@
 
         <blockquote class="hitokoto" id="hitokoto" title="点击换一句">
             <div class="h-text" id="h-text">一言加载中…</div>
+            <div class="h-divider"></div>
             <div class="h-from" id="h-from"></div>
             <span class="h-tip">↻ 点击换一句</span>
         </blockquote>
