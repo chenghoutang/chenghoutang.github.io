@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>鸭语录集 · DengDuck</title>
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-warm-1: #fff6ec;
+            --bg-warm-2: #ffe8d2;
+            --bg-warm-3: #ffd9b8;
+            --text-main: #5a4130;
+            --text-soft: #8a6f58;
+            --accent: #e8913f;
+            --accent-deep: #d97a2b;
+            --accent-soft: #f6c084;
+            --pink: #f2a9a0;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+            color: var(--text-main);
+            background: linear-gradient(160deg, var(--bg-warm-1) 0%, var(--bg-warm-2) 55%, var(--bg-warm-3) 100%);
+            min-height: 100vh;
+            overflow-x: hidden;
+            padding: 40px 18px 80px;
+            position: relative;
+        }
+
+        body::before, body::after {
+            content: '';
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(70px);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        body::before {
+            width: 420px; height: 420px;
+            background: rgba(246, 192, 132, 0.45);
+            top: -120px; left: -100px;
+        }
+
+        body::after {
+            width: 380px; height: 380px;
+            background: rgba(242, 169, 160, 0.35);
+            bottom: -120px; right: -90px;
+        }
+
+        .page {
+            position: relative;
+            z-index: 1;
+            max-width: 680px;
+            margin: 0 auto;
+            animation: pageIn 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+        }
+
+        @keyframes pageIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 36px;
+        }
+
+        .header a.back {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            text-decoration: none;
+            color: var(--accent-deep);
+            font-size: 0.88rem;
+            font-weight: 600;
+            margin-bottom: 18px;
+            padding: 6px 18px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.55);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            transition: background 0.2s ease;
+        }
+
+        .header a.back:hover { background: rgba(255, 255, 255, 0.85); }
+
+        h1 {
+            font-family: 'ZCOOL KuaiLe', 'Noto Serif SC', serif;
+            font-size: 2.6rem;
+            font-weight: 400;
+            color: var(--text-main);
+            letter-spacing: 0.08em;
+            line-height: 1.4;
+        }
+
+        .count-badge {
+            display: inline-block;
+            margin-top: 12px;
+            font-size: 0.86rem;
+            color: var(--accent-deep);
+            background: rgba(255, 255, 255, 0.6);
+            border-radius: 999px;
+            padding: 5px 18px;
+            letter-spacing: 0.08em;
+        }
+
+        /* 语录列表 */
+        .quote-list {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+        }
+
+        .quote-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.9);
+            border-radius: 18px;
+            padding: 24px 28px;
+            box-shadow: 0 6px 20px rgba(186, 124, 58, 0.1);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            animation: cardIn 0.5s ease both;
+        }
+
+        .quote-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(186, 124, 58, 0.18);
+        }
+
+        @keyframes cardIn {
+            from { opacity: 0; transform: translateY(12px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .quote-num {
+            font-family: 'ZCOOL KuaiLe', serif;
+            font-size: 1.3rem;
+            color: var(--accent-soft);
+            margin-bottom: 6px;
+        }
+
+        .quote-content {
+            font-family: 'Ma Shan Zheng', 'STKaiti', 'KaiTi', '楷体', 'Noto Serif SC', serif;
+            font-size: 1.4rem;
+            line-height: 1.8;
+            color: var(--text-main);
+            letter-spacing: 0.04em;
+        }
+
+        .quote-time {
+            margin-top: 12px;
+            font-size: 0.78rem;
+            color: var(--text-soft);
+            letter-spacing: 0.08em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .quote-time::before {
+            content: '';
+            width: 20px;
+            height: 1px;
+            background: var(--accent-soft);
+        }
+
+        /* 空状态 */
+        .empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-soft);
+        }
+
+        .empty .emoji {
+            font-size: 3rem;
+            margin-bottom: 16px;
+            display: block;
+        }
+
+        .empty p { font-size: 1rem; line-height: 1.8; }
+
+        /* 加载状态 */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-soft);
+            font-size: 1rem;
+        }
+
+        /* 移动端 */
+        @media (max-width: 600px) {
+            body { padding: 24px 14px 60px; }
+            h1 { font-size: 2rem; }
+            .quote-content { font-size: 1.2rem; }
+            .quote-card { padding: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <div class="header">
+            <a class="back" href="index.html">← 返回小窝</a>
+            <h1>鸭语录集</h1>
+            <div class="count-badge" id="count">加载中…</div>
+        </div>
+        <div class="quote-list" id="list">
+            <div class="loading">鸭鸭正在翻语录本…</div>
+        </div>
+    </main>
+
+    <script>
+        (function () {
+            var list = document.getElementById('list');
+            var count = document.getElementById('count');
+
+            fetch('duckquotes.json')
+                .then(function (r) { return r.json(); })
+                .then(function (data) {
+                    if (!data || data.length === 0) {
+                        list.innerHTML = '<div class="empty">' +
+                            '<span class="emoji">🐣</span>' +
+                            '<p>还没有鸭语录呢<br>用 addquote.bat 添加第一条吧</p>' +
+                            '</div>';
+                        count.textContent = '0 条语录';
+                        return;
+                    }
+
+                    count.textContent = '共 ' + data.length + ' 条语录';
+
+                    var html = data.map(function (q, i) {
+                        var num = String(i + 1).padStart(2, '0');
+                        return '<div class="quote-card" style="animation-delay:' + (i * 0.08) + 's">' +
+                            '<div class="quote-num">#' + num + '</div>' +
+                            '<div class="quote-content">' + escapeHtml(q.content) + '</div>' +
+                            '<div class="quote-time">' + escapeHtml(q.time) + '</div>' +
+                            '</div>';
+                    }).join('');
+
+                    list.innerHTML = html;
+                })
+                .catch(function () {
+                    list.innerHTML = '<div class="empty">' +
+                        '<span class="emoji">😴</span>' +
+                        '<p>语录本打不开<br>请确保 duckquotes.json 存在</p>' +
+                        '</div>';
+                    count.textContent = '加载失败';
+                });
+
+            function escapeHtml(s) {
+                return String(s).replace(/[&<>"']/g, function (c) {
+                    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+                });
+            }
+        })();
+    </script>
+</body>
+</html>
