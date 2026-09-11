@@ -165,6 +165,43 @@
 
         @keyframes blink { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
 
+        /* 试卷标签 */
+        .paper-tag { display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 6px; font-size: 0.72rem; font-weight: 700; vertical-align: middle; }
+        .paper-tag.real { background: #fff1e0; color: #d97706; }
+        .paper-tag.mock { background: #e8f5e9; color: #2e7d32; }
+        .paper-badge.mock .y { font-size: 1.5rem; }
+
+        /* 分页控件 */
+        .pager {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 28px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-warm);
+        }
+        .page-btn, .page-nav {
+            min-width: 40px;
+            height: 40px;
+            padding: 0 12px;
+            border: 1px solid var(--border-warm);
+            border-radius: 10px;
+            background: #fff;
+            color: var(--text-main);
+            font-family: inherit;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.18s;
+        }
+        .page-btn:hover, .page-nav:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); transform: translateY(-2px); }
+        .page-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .page-nav:disabled { opacity: 0.4; cursor: not-allowed; }
+        .page-ellipsis { color: var(--text-soft); padding: 0 4px; }
+        .page-info { width: 100%; text-align: center; margin-top: 6px; font-size: 0.82rem; color: var(--text-soft); }
+
         /* ===== 通用按钮 ===== */
         .btn {
             display: inline-flex;
@@ -708,28 +745,72 @@
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
 
-            // ===== 加载 DrugData 下所有年份 JSON =====
-            // 静态托管无目录列表，按年份探测：存在且有题目的文件自动收录
+            // ===== 加载 DrugData 下所有 JSON =====
+            // 真题按年份探测；模拟卷按 mock_1 ~ mock_40 探测
+            var PAGE_SIZE = 9;
+            var currentPage = 0;
+
             function loadPapers() {
                 var thisYear = new Date().getFullYear();
                 var years = [];
                 for (var y = 2000; y <= thisYear + 1; y++) years.push(y);
 
-                var tasks = years.map(function (year) {
-                    return fetch('DrugData/' + year + '.json', { cache: 'no-cache' })
+                // 真题：每年探测第一套 {year}.json 和第二套 {year}-2.json
+                var realTasks = [];
+                years.forEach(function (year) {
+                    // 第一套
+                    realTasks.push(fetch('DrugData/' + year + '.json', { cache: 'no-cache' })
                         .then(function (r) { if (!r.ok) throw new Error('not found'); return r.json(); })
                         .then(function (data) {
                             var qs = (data && Array.isArray(data.questions)) ? data.questions
                                    : (Array.isArray(data)) ? data : [];
                             qs = qs.filter(function (q) { return q && q.question && Array.isArray(q.options) && q.options.length; });
-                            if (qs.length) return { year: year, questions: qs };
+                            if (qs.length) return {
+                                sortKey: year * 10 + 1, type: '真题', badge: "'" + (year % 100) + 'Ⅰ',
+                                label: year + ' 年', title: year + ' 年禁毒知识试卷',
+                                questions: qs
+                            };
+                            return null;
+                        }).catch(function () { return null; }));
+                    // 第二套
+                    realTasks.push(fetch('DrugData/' + year + '-2.json', { cache: 'no-cache' })
+                        .then(function (r) { if (!r.ok) throw new Error('not found'); return r.json(); })
+                        .then(function (data) {
+                            var qs = (data && Array.isArray(data.questions)) ? data.questions
+                                   : (Array.isArray(data)) ? data : [];
+                            qs = qs.filter(function (q) { return q && q.question && Array.isArray(q.options) && q.options.length; });
+                            if (qs.length) return {
+                                sortKey: year * 10 + 2, type: '真题', badge: "'" + (year % 100) + 'Ⅱ',
+                                label: year + ' 年（二）', title: year + ' 年禁毒知识试卷（第二套）',
+                                questions: qs
+                            };
+                            return null;
+                        }).catch(function () { return null; }));
+                });
+
+                // 模拟卷 mock_1 ~ mock_40
+                var mockNums = [];
+                for (var n = 1; n <= 40; n++) mockNums.push(n);
+                var mockTasks = mockNums.map(function (num) {
+                    return fetch('DrugData/mock_' + num + '.json', { cache: 'no-cache' })
+                        .then(function (r) { if (!r.ok) throw new Error('not found'); return r.json(); })
+                        .then(function (data) {
+                            var qs = (data && Array.isArray(data.questions)) ? data.questions
+                                   : (Array.isArray(data)) ? data : [];
+                            qs = qs.filter(function (q) { return q && q.question && Array.isArray(q.options) && q.options.length; });
+                            if (qs.length) return {
+                                sortKey: 100000 + num, type: '模拟', badge: (num < 10 ? '0' : '') + num,
+                                label: '模拟卷 ' + num, title: '模拟卷 ' + num + ' 禁毒知识试卷',
+                                questions: qs
+                            };
                             return null;
                         })
                         .catch(function () { return null; });
                 });
 
-                Promise.all(tasks).then(function (results) {
-                    papers = results.filter(Boolean).sort(function (a, b) { return a.year - b.year; });
+                Promise.all(realTasks.concat(mockTasks)).then(function (results) {
+                    papers = results.filter(Boolean).sort(function (a, b) { return a.sortKey - b.sortKey; });
+                    currentPage = 0;
                     renderPaperList();
                 });
             }
@@ -740,19 +821,69 @@
                     box.innerHTML = '<div class="empty-tip">😢 暂未找到试卷文件<br><small>请确认 DrugData 文件夹中存在有效的 JSON 试卷</small></div>';
                     return;
                 }
-                box.innerHTML = papers.map(function (p) {
-                    return '<button class="paper-card" data-year="' + p.year + '">' +
-                        '<div class="paper-badge"><span class="y">' + p.year + '</span><span class="t">试卷</span></div>' +
-                        '<div class="paper-info"><h3>' + p.year + ' 年禁毒知识试卷</h3>' +
-                        '<p>共 ' + p.questions.length + ' 道题 · 限时 8 分钟 · 满分 100 分</p></div>' +
+
+                var totalPages = Math.ceil(papers.length / PAGE_SIZE);
+                if (currentPage >= totalPages) currentPage = totalPages - 1;
+                if (currentPage < 0) currentPage = 0;
+                var start = currentPage * PAGE_SIZE;
+                var pageItems = papers.slice(start, start + PAGE_SIZE);
+
+                var cardsHtml = pageItems.map(function (p, i) {
+                    var idx = start + i;
+                    var tag = p.type === '模拟'
+                        ? '<span class="paper-tag mock">模拟</span>'
+                        : '<span class="paper-tag real">真题</span>';
+                    return '<button class="paper-card" data-idx="' + idx + '">' +
+                        '<div class="paper-badge"><span class="y">' + p.badge + '</span><span class="t">' + p.type + '</span></div>' +
+                        '<div class="paper-info"><h3>' + p.title + '</h3>' +
+                        '<p>共 ' + p.questions.length + ' 道题 · 限时 8 分钟 · 满分 100 分 ' + tag + '</p></div>' +
                         '<div class="paper-go">→</div></button>';
                 }).join('');
 
+                // 分页控件
+                var pagerHtml = '';
+                if (totalPages > 1) {
+                    var btns = [];
+                    for (var pg = 0; pg < totalPages; pg++) {
+                        if (pg === 0 || pg === totalPages - 1 || Math.abs(pg - currentPage) <= 1) {
+                            btns.push('<button class="page-btn' + (pg === currentPage ? ' active' : '') + '" data-pg="' + pg + '">' + (pg + 1) + '</button>');
+                        } else if (btns[btns.length - 1] !== '<span class="page-ellipsis">…</span>') {
+                            btns.push('<span class="page-ellipsis">…</span>');
+                        }
+                    }
+                    pagerHtml = '<div class="pager">' +
+                        '<button class="page-nav" data-act="prev"' + (currentPage === 0 ? ' disabled' : '') + '>← 上一页</button>' +
+                        btns.join('') +
+                        '<button class="page-nav" data-act="next"' + (currentPage >= totalPages - 1 ? ' disabled' : '') + '>下一页 →</button>' +
+                        '<span class="page-info">第 ' + (currentPage + 1) + ' / ' + totalPages + ' 页 · 共 ' + papers.length + ' 套</span>' +
+                        '</div>';
+                }
+
+                box.innerHTML = cardsHtml + pagerHtml;
+
                 Array.prototype.forEach.call(box.querySelectorAll('.paper-card'), function (card) {
                     card.addEventListener('click', function () {
-                        var year = Number(card.getAttribute('data-year'));
-                        var paper = papers.filter(function (p) { return p.year === year; })[0];
-                        if (paper) openReady(paper);
+                        var idx = Number(card.getAttribute('data-idx'));
+                        if (papers[idx]) openReady(papers[idx]);
+                    });
+                });
+
+                Array.prototype.forEach.call(box.querySelectorAll('.page-btn'), function (b) {
+                    b.addEventListener('click', function () {
+                        currentPage = Number(b.getAttribute('data-pg'));
+                        renderPaperList();
+                        window.scrollTo({ top: $('screen-home').offsetTop - 20, behavior: 'smooth' });
+                    });
+                });
+
+                Array.prototype.forEach.call(box.querySelectorAll('.page-nav'), function (b) {
+                    b.addEventListener('click', function () {
+                        if (b.disabled) return;
+                        var act = b.getAttribute('data-act');
+                        if (act === 'prev' && currentPage > 0) currentPage--;
+                        if (act === 'next' && currentPage < totalPages - 1) currentPage++;
+                        renderPaperList();
+                        window.scrollTo({ top: $('screen-home').offsetTop - 20, behavior: 'smooth' });
                     });
                 });
             }
@@ -768,7 +899,7 @@
                     timer: null,
                     started: false
                 };
-                $('ready-title').textContent = paper.year + ' 年禁毒知识试卷';
+                $('ready-title').textContent = paper.title;
                 $('ready-count').textContent = paper.questions.length;
                 $('ready-panel').style.display = '';
                 $('quiz-panel').style.display = 'none';
@@ -786,7 +917,7 @@
                 current.index = 0;
                 current.answers = new Array(current.questions.length).fill(null);
 
-                $('exam-title').textContent = current.paper.year + ' 禁毒试卷';
+                $('exam-title').textContent = current.paper.title;
                 buildSheet();
                 renderQuestion();
                 updateTimer();
