@@ -6,3 +6,5 @@
 @media(max-width:700px){.lab-stage:has(svg){overflow-x:auto}.lab-stage svg{min-width:520px}.lab-stage svg text{font-size:14px}.lab-stage:has(svg):after{content:"↔ 左右滑动查看完整示意图";display:block;position:sticky;left:0;color:#8da0be;font-size:10px;text-align:center;margin-top:14px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important;transition:none!important}}
 @media print{#sidebar,.topbar,footer,.article-sidebar,.article-actions,.lesson-nav{display:none}.workspace{margin:0}main{padding:0}.article-layout{display:block}.article{border:0}.article section{break-inside:avoid}body{background:#fff}}
+
+.back-home{display:inline-flex;align-items:center;gap:7px;margin-top:20px;padding:8px 14px;font-size:12px;font-weight:600;color:var(--blue,#2765ef);background:#edf3ff;border-radius:9px;text-decoration:none;transition:background .15s}.back-home:hover{background:#dbe8ff}
