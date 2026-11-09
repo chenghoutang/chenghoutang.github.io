@@ -111,6 +111,29 @@
             letter-spacing: 0.08em;
         }
 
+        .filters {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1.4fr;
+            gap: 12px;
+            padding: 20px;
+            margin-bottom: 22px;
+            border: 1px solid rgba(255, 255, 255, 0.9);
+            border-radius: 18px;
+            background: rgba(255, 255, 255, 0.7);
+        }
+
+        .filters label { display: flex; flex-direction: column; gap: 7px; min-width: 0; font-size: 0.8rem; color: var(--text-soft); }
+        .filters[hidden] { display: none; }
+        .filters .search-field { grid-column: 1 / -1; }
+        .filters input, .filters select, .reset-button {
+            min-width: 0; width: 100%; min-height: 44px; padding: 10px;
+            border: 1px solid var(--accent-soft); border-radius: 10px;
+            background: rgba(255, 255, 255, 0.85); color: var(--text-main); font: inherit;
+        }
+        .filters input { font-size: 1rem; }
+        .filters input:focus-visible, .filters select:focus-visible, .reset-button:focus-visible { outline: 2px solid var(--accent-deep); outline-offset: 2px; }
+        .reset-button { width: auto; margin-top: 16px; cursor: pointer; color: var(--accent-deep); }
+
         /* 语录列表 */
         .quote-list {
             display: flex;
@@ -152,6 +175,8 @@
             line-height: 1.8;
             color: var(--text-main);
             letter-spacing: 0.04em;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
         }
 
         .quote-time {
@@ -200,6 +225,8 @@
             h1 { font-size: 2rem; }
             .quote-content { font-size: 1.2rem; }
             .quote-card { padding: 20px; }
+            .filters { padding: 14px; gap: 10px; grid-template-columns: 1fr 1fr; }
+            .filters .sort-field { grid-column: 1 / -1; }
         }
     </style>
 </head>
@@ -208,22 +235,75 @@
         <div class="header">
             <a class="back" href="index.html">← 返回小窝</a>
             <h1>鸭语录集</h1>
-            <div class="count-badge" id="count">加载中…</div>
+            <div class="count-badge" id="count" role="status" aria-live="polite">加载中…</div>
+        </div>
+        <div class="filters" id="filters" hidden>
+            <label class="search-field" for="search">搜索语录
+                <input id="search" type="search" placeholder="输入内容关键词…" autocomplete="off">
+            </label>
+            <label for="year">年份<select id="year"><option value="">全部年份</option></select></label>
+            <label for="month">月份<select id="month"><option value="">全部月份</option></select></label>
+            <label class="sort-field" for="sort">排列顺序
+                <select id="sort"><option value="desc">倒序 · 最新在前</option><option value="asc">正序 · 最早在前</option></select>
+            </label>
         </div>
         <div class="quote-list" id="list">
             <div class="loading">鸭鸭正在翻语录本…</div>
         </div>
     </main>
 
+    <script src="duckquotes-view.js"></script>
     <script>
         (function () {
             var list = document.getElementById('list');
             var count = document.getElementById('count');
+            var search = document.getElementById('search');
+            var year = document.getElementById('year');
+            var month = document.getElementById('month');
+            var sort = document.getElementById('sort');
+            var items = [];
+            var view = DuckQuotesView;
+
+            function updateMonths() {
+                var selected = month.value;
+                month.innerHTML = '<option value="">全部月份</option>' + view.months(items, Number(year.value)).map(function (value) {
+                    return '<option value="' + value + '">' + value + ' 月</option>';
+                }).join('');
+                if (Array.from(month.options).some(function (option) { return option.value === selected; })) month.value = selected;
+            }
+
+            function render() {
+                var visible = view.select(items, {
+                    query: search.value, year: Number(year.value), month: Number(month.value), descending: sort.value === 'desc'
+                });
+                count.textContent = '显示 ' + visible.length + ' / 共 ' + items.length + ' 条语录';
+                if (!visible.length) {
+                    list.innerHTML = '<div class="empty"><span class="emoji">🔎</span>' +
+                        '<p>没有找到符合条件的语录<br>试试其他关键词或年月</p><button class="reset-button" id="reset-filters">清除搜索和筛选</button></div>';
+                    document.getElementById('reset-filters').onclick = function () {
+                        search.value = ''; year.value = ''; month.value = ''; updateMonths(); render(); search.focus();
+                    };
+                    return;
+                }
+                list.innerHTML = visible.map(function (item, position) {
+                    var q = item.quote;
+                    return '<div class="quote-card" style="animation-delay:' + (Math.min(position, 6) * 0.04) + 's">' +
+                        '<div class="quote-num">#' + String(item.index + 1).padStart(2, '0') + '</div>' +
+                        '<div class="quote-content">' + escapeHtml(q.content) + '</div>' +
+                        '<div class="quote-time">' + escapeHtml(q.time || '日期未知') + '</div></div>';
+                }).join('');
+            }
+
+            search.addEventListener('input', render);
+            year.addEventListener('change', function () { updateMonths(); render(); });
+            month.addEventListener('change', render);
+            sort.addEventListener('change', render);
 
             fetch('duckquotes.json')
-                .then(function (r) { return r.json(); })
+                .then(function (r) { if (!r.ok) throw new Error('加载失败'); return r.json(); })
                 .then(function (data) {
-                    if (!data || data.length === 0) {
+                    if (!Array.isArray(data)) throw new Error('语录格式错误');
+                    if (data.length === 0) {
                         list.innerHTML = '<div class="empty">' +
                             '<span class="emoji">🐣</span>' +
                             '<p>还没有鸭语录呢<br>用 addquote.bat 添加第一条吧</p>' +
@@ -232,18 +312,13 @@
                         return;
                     }
 
-                    count.textContent = '共 ' + data.length + ' 条语录';
-
-                    var html = data.map(function (q, i) {
-                        var num = String(i + 1).padStart(2, '0');
-                        return '<div class="quote-card" style="animation-delay:' + (i * 0.08) + 's">' +
-                            '<div class="quote-num">#' + num + '</div>' +
-                            '<div class="quote-content">' + escapeHtml(q.content) + '</div>' +
-                            '<div class="quote-time">' + escapeHtml(q.time) + '</div>' +
-                            '</div>';
+                    items = view.entries(data);
+                    year.innerHTML += view.years(items).map(function (value) {
+                        return '<option value="' + value + '">' + value + ' 年</option>';
                     }).join('');
-
-                    list.innerHTML = html;
+                    updateMonths();
+                    document.getElementById('filters').hidden = false;
+                    render();
                 })
                 .catch(function () {
                     list.innerHTML = '<div class="empty">' +
