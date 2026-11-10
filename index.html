@@ -128,7 +128,35 @@
         .c-drug    { background: linear-gradient(150deg, #c9ecf6 0%, #8ed2ec 100%); }
         .c-book    { background: linear-gradient(150deg, #e7dbf7 0%, #c3a9ea 100%); }
         .c-hcia    { background: linear-gradient(150deg, #cfe0ff 0%, #8fb4f7 100%); }
+        .c-learning { background: linear-gradient(150deg, #fce9c7 0%, #f4cd98 100%); }
         .c-about { background: linear-gradient(150deg, #ffe5dc 0%, #f5bcb0 100%); }
+
+        .learning-folder { isolation: isolate; align-items: center; justify-content: center; gap: 12px; overflow: hidden; }
+        .folder-icon { position: absolute; z-index: -1; display: grid; place-items: center; width: 72px; height: 72px; border: 1px solid rgba(255,255,255,.76); border-radius: 20px; background: rgba(255,255,255,.42); font-size: 2rem; opacity: .62; filter: saturate(.8); transition: transform .28s ease, opacity .28s ease; }
+        .folder-icon-one { top: 18px; left: 16px; transform: rotate(-10deg); }
+        .folder-icon-two { top: 34px; right: 18px; transform: rotate(9deg); }
+        .folder-icon-three { bottom: 12px; left: 50%; transform: translateX(-50%) rotate(-4deg); }
+        .learning-folder:hover .folder-icon-one { transform: translateY(-4px) rotate(-14deg); opacity: .78; }
+        .learning-folder:hover .folder-icon-two { transform: translateY(-4px) rotate(13deg); opacity: .78; }
+        .learning-folder:hover .folder-icon-three { transform: translateX(-50%) translateY(4px) rotate(0); opacity: .78; }
+        .folder-caption, .learning-folder > .link-sub { position: relative; z-index: 1; }
+        .folder-caption { display: flex; align-items: center; gap: 10px; padding: 8px 14px; border-radius: 999px; background: rgba(255,255,255,.64); backdrop-filter: blur(5px); }
+        .folder-count { padding: 3px 9px; border-radius: 999px; background: rgba(255,255,255,.6); font-size: .72rem; }
+
+        .folder-dialog { position: fixed; inset: 0; width: min(720px, calc(100% - 32px)); max-height: calc(100dvh - 40px); margin: auto; padding: 30px; overflow-y: auto; border: 1px solid rgba(255,255,255,.9); border-radius: 28px; background: rgba(255,248,239,.78); color: var(--text-main); box-shadow: 0 28px 90px rgba(90,65,48,.3); backdrop-filter: blur(22px) saturate(1.15); -webkit-backdrop-filter: blur(22px) saturate(1.15); }
+        .folder-dialog::backdrop { background: rgba(70,50,35,.28); backdrop-filter: blur(7px); -webkit-backdrop-filter: blur(7px); }
+        .folder-dialog[open] { animation: folderZoom .25s ease both; }
+        body.folder-open { overflow: hidden; }
+        @keyframes folderZoom { from { opacity: 0; transform: scale(.82) translateY(24px); } to { opacity: 1; transform: scale(1) translateY(0); } }
+        .folder-heading { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 8px; }
+        .folder-heading h2 { font-family: 'ZCOOL KuaiLe', serif; font-size: 1.75rem; font-weight: 400; }
+        .folder-close { display: grid; place-items: center; flex: 0 0 auto; width: 44px; height: 44px; border: 1px solid rgba(186,124,58,.22); border-radius: 50%; background: rgba(255,255,255,.7); color: var(--text-soft); font: 400 1.4rem/1 sans-serif; cursor: pointer; }
+        .folder-description { margin-bottom: 24px; color: var(--text-soft); font-size: .84rem; }
+        .folder-apps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+        .folder-apps .app-card { min-width: 0; padding: 16px 12px; border-radius: 22px; }
+        .folder-apps .link-emoji { font-size: 2.6rem; }
+        .folder-apps .link-name { font-size: 1.08rem; }
+        .folder-apps .link-sub { font-size: .68rem; letter-spacing: .02em; }
 
         .card-top {
             display: flex;
@@ -379,6 +407,10 @@
             .side-title { font-size: 1.7rem; }
             .sidebar { border-radius: 28px; padding: 30px 22px 24px; }
             .deco { opacity: 0.35; }
+            .folder-icon { width: 56px; height: 56px; border-radius: 16px; font-size: 1.55rem; }
+            .folder-dialog { padding: 22px 18px; border-radius: 24px; }
+            .folder-apps { grid-template-columns: 1fr; gap: 12px; }
+            .folder-apps .app-card { aspect-ratio: auto; min-height: 110px; }
         }
 
         @media (prefers-reduced-motion: reduce) {
@@ -435,24 +467,14 @@
                 <div class="card-bottom">↻ 点击换一条</div>
             </button>
 
-            <!-- 学习应用 -->
-            <a class="app-card c-pinyin link" href="pinyin.html">
-                <span class="link-emoji" aria-hidden="true">📖</span>
-                <span class="link-name">字音练习</span>
-                <span class="link-sub">多音字读音训练</span>
-            </a>
-
-            <a class="app-card c-drug link" href="DrugsExam.html">
-                <span class="link-emoji" aria-hidden="true">💊</span>
-                <span class="link-name">禁毒练习</span>
-                <span class="link-sub">8 分钟知识小测</span>
-            </a>
-
-            <a class="app-card c-hcia link" href="hcia-learning/">
-                <span class="link-emoji" aria-hidden="true">🌐</span>
-                <span class="link-name">HCIA 学习站</span>
-                <span class="link-sub">网络知识 · 互动实验</span>
-            </a>
+            <!-- 学习文件夹 -->
+            <button class="app-card c-learning learning-folder" id="learningFolder" type="button" aria-haspopup="dialog" aria-controls="learningDialog" aria-expanded="false">
+                <span class="folder-icon folder-icon-one c-pinyin" aria-hidden="true">📖</span>
+                <span class="folder-icon folder-icon-two c-drug" aria-hidden="true">💊</span>
+                <span class="folder-icon folder-icon-three c-hcia" aria-hidden="true">🌐</span>
+                <span class="folder-caption"><span class="link-name">学习</span><span class="folder-count">3 项</span></span>
+                <span class="link-sub">字音 · 禁毒 · 网络知识</span>
+            </button>
 
             <!-- 语录集 -->
             <a class="app-card c-book link" href="duckquote.html">
@@ -491,7 +513,39 @@
         </aside>
     </main>
 
+    <dialog class="folder-dialog" id="learningDialog" aria-labelledby="learningTitle" aria-describedby="learningDescription">
+        <div class="folder-heading"><h2 id="learningTitle">📂 学习</h2><button class="folder-close" id="closeLearning" type="button" aria-label="关闭学习文件夹" autofocus>×</button></div>
+        <p class="folder-description" id="learningDescription">今天想打开哪一个？(｡•̀ᴗ-)✧</p>
+        <nav class="folder-apps" aria-label="学习应用">
+            <a class="app-card c-pinyin link" href="pinyin.html"><span class="link-emoji" aria-hidden="true">📖</span><span class="link-name">字音练习</span><span class="link-sub">多音字读音训练</span></a>
+            <a class="app-card c-drug link" href="DrugsExam.html"><span class="link-emoji" aria-hidden="true">💊</span><span class="link-name">禁毒练习</span><span class="link-sub">8 分钟知识小测</span></a>
+            <a class="app-card c-hcia link" href="hcia-learning/"><span class="link-emoji" aria-hidden="true">🌐</span><span class="link-name">HCIA 学习站</span><span class="link-sub">网络知识 · 互动实验</span></a>
+        </nav>
+    </dialog>
+
     <script>
+        // ===== 学习文件夹 =====
+        (function () {
+            const folder = document.getElementById('learningFolder');
+            const dialog = document.getElementById('learningDialog');
+            const close = document.getElementById('closeLearning');
+            folder.addEventListener('click', function () { dialog.showModal(); folder.setAttribute('aria-expanded', 'true'); document.body.classList.add('folder-open'); });
+            close.addEventListener('click', function () { dialog.close(); });
+            dialog.addEventListener('keydown', function (event) {
+                if (event.key !== 'Tab') return;
+                const controls = dialog.querySelectorAll('button, a[href]');
+                const first = controls[0], last = controls[controls.length - 1];
+                if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+                else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+            });
+            dialog.addEventListener('click', function (event) {
+                const bounds = dialog.getBoundingClientRect();
+                if (event.target === dialog && (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom)) dialog.close();
+            });
+            dialog.addEventListener('close', function () { folder.setAttribute('aria-expanded', 'false'); document.body.classList.remove('folder-open'); folder.focus({ preventScroll: true }); });
+            window.addEventListener('pageshow', function (event) { if (event.persisted && dialog.open) dialog.close(); });
+        })();
+
         // ===== 时段问候 =====
         (function () {
             const hour = new Date().getHours();
