@@ -4,11 +4,6 @@
     const controls = document.getElementById('year-filter');
     const years = Array.from(document.querySelectorAll('.award-year'));
     const count = document.getElementById('award-count');
-    document.querySelectorAll('a[href^="#source-"]').forEach(function (link) {
-        link.addEventListener('click', function () {
-            document.querySelector('#sources details').open = true;
-        });
-    });
     controls.hidden = false;
     controls.addEventListener('click', function (event) {
         const button = event.target.closest('button[data-year]');
