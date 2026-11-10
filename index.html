@@ -129,11 +129,11 @@
         .c-book    { background: linear-gradient(150deg, #e7dbf7 0%, #c3a9ea 100%); }
         .c-hcia    { background: linear-gradient(150deg, #cfe0ff 0%, #8fb4f7 100%); }
         .c-learning { background: linear-gradient(150deg, #fce9c7 0%, #f4cd98 100%); }
+        .c-about { background: linear-gradient(150deg, #ffe5dc 0%, #f5bcb0 100%); }
 
         /* 学习文件夹：缩略图预览，打开后集中展示学习入口 */
         .learning-folder {
-            grid-column: span 2;
-            aspect-ratio: auto;
+            aspect-ratio: 1 / 1;
             align-items: center;
             justify-content: center;
             gap: 12px;
@@ -539,6 +539,13 @@
                 <span class="link-emoji">📚</span>
                 <span class="link-name">鸭语录集</span>
                 <span class="link-sub">全部语录回顾</span>
+            </a>
+
+            <!-- 关于我 -->
+            <a class="app-card c-about link" href="about.html">
+                <span class="link-emoji" aria-hidden="true">🐣</span>
+                <span class="link-name">关于我</span>
+                <span class="link-sub">认识一下这只鸭鸭</span>
             </a>
 
         </section>
