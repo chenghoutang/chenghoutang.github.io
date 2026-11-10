@@ -35,7 +35,8 @@ button, summary { cursor: pointer; }
 .topbar nav a:hover { color: var(--orange); }
 .page { max-width: 1080px; margin: 12px auto 0; padding: 0 20px; }
 .paper { background: #fffdf8bf; border: 1px solid #fff; border-radius: var(--round); box-shadow: 0 10px 32px #ba7c3a0e; }
-.hero { position: relative; display: grid; grid-template-columns: 1.35fr 1fr; align-items: center; gap: 24px; padding: 42px; overflow: hidden; }
+.hero { position: relative; padding: 42px; overflow: hidden; }
+.hero-copy { max-width: 760px; }
 .eyebrow { font-size: .73rem; letter-spacing: .13em; color: var(--orange); display: inline-flex; align-items: center; gap: 10px; }
 .eyebrow::before { content: ''; width: 24px; height: 2px; background: var(--peach); }
 h1, h2, h3, p { margin: 0; }
@@ -44,7 +45,7 @@ h1 { font-size: clamp(2.1rem, 4.4vw, 3.3rem); line-height: 1.4; margin: 14px 0 1
 h1 span { color: var(--orange); }
 .real-name { font-size: .95rem; color: var(--soft); }
 .real-name span { font-size: .8rem; margin-left: 8px; }
-.intro { margin-top: 22px; font-size: .95rem; max-width: 510px; line-height: 2; }
+.intro { margin-top: 22px; font-size: .95rem; max-width: 720px; line-height: 2; }
 .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .tag { border-radius: 999px; padding: 5px 12px; background: #f9ebd8; font-size: .75rem; }
 .tag:nth-child(2) { background: #e8efdf; }
@@ -88,6 +89,7 @@ h2 { font-size: 1.9rem; line-height: 1.5; }
 .school p { font-size: .85rem; color: var(--soft); }
 .school .school-icon { position: absolute; top: 22px; right: 24px; font-size: 1.9rem; opacity: .6; }
 .school a { font-size: .75rem; }
+.school-source { margin-top: 10px; }
 .year-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
 .year-filter[hidden] { display: none; }
 .year-filter button { padding: 8px 17px; border: 1px solid #e6c8a5; border-radius: 999px; color: var(--soft); background: #fff9f1; min-height: 44px; font-size: .83rem; }
@@ -108,7 +110,7 @@ h2 { font-size: 1.9rem; line-height: 1.5; }
 .medal.team { background: #e7eddc; color: #536542; }
 .award h3 { font-size: 1rem; line-height: 1.7; }
 .award p { font-size: .8rem; color: var(--soft); margin-top: 8px; }
-.award-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; margin-top: 14px; font-size: .73rem; }
+.award-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: flex-end; margin-top: 14px; font-size: .73rem; }
 .award-meta strong { color: var(--orange); }
 .citation { display: inline-flex; align-items: center; justify-content: center; min-width: 32px; min-height: 28px; padding: 2px 5px; font-size: .7rem; color: var(--soft); }
 .two-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
@@ -140,28 +142,15 @@ footer .handwritten { font-size: 1.15rem; color: var(--ink); margin-bottom: 10px
 footer a { display: inline-flex; min-height: 44px; align-items: center; }
 [hidden] { display: none !important; }
 @media (max-width: 780px) {
-    .hero { grid-template-columns: 1fr; padding: 30px; }
-    .hero-copy { order: 1; }
-    .postcard { max-width: 320px; width: 100%; margin: 12px auto 8px; }
-    .highlights { gap: 10px; }
-    .highlight { padding: 16px 12px; gap: 8px; }
-    .highlight .icon { font-size: 1.4rem; }
-    .highlight strong { font-size: .9rem; }
-    .highlight small { font-size: .65rem; }
+    .hero { padding: 30px; }
 }
 @media (max-width: 580px) {
     .topbar { padding: 16px; flex-wrap: wrap; gap: 8px; }
     .topbar nav { width: 100%; justify-content: space-around; gap: 10px; font-size: .78rem; }
     .page { padding: 0 14px; }
     .hero { padding: 24px; border-radius: 26px; }
-    .postcard { max-width: 250px; padding: 12px 12px 18px; }
-    .duck-drawing { transform: scale(.86); margin-top: -9px; margin-bottom: -16px; }
     .real-name span { display: block; margin-left: 0; margin-top: 4px; }
     .intro { font-size: .85rem; }
-    .highlights { grid-template-columns: 1fr; }
-    .highlight { padding: 16px 20px; }
-    .highlight strong { display: inline; font-size: .95rem; margin-right: 8px; }
-    .highlight small { font-size: .72rem; }
     .education, .two-columns, .award-grid, .sources { grid-template-columns: 1fr; }
     .section { margin-top: 40px; }
     .section-heading { align-items: start; }
