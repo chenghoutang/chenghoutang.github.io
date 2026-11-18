@@ -20,7 +20,7 @@ const technology = rows('### 其他科技类竞赛');
 const certifications = rows('## 能力认证');
 const journeys = rows('## 代表队与国际参赛经历');
 const sources = rows('## 参考来源');
-if (programming.length !== 14 || technology.length !== 5 || certifications.length !== 2 || journeys.length !== 2 || sources.length !== 16) {
+if (programming.length !== 16 || technology.length !== 5 || certifications.length !== 2 || journeys.length !== 2 || sources.length !== 17) {
     throw Error('Unexpected record counts; check the source document and page template.');
 }
 
@@ -119,7 +119,7 @@ const html = `<!DOCTYPE html>
             ${yearGroups}
         </section>
 
-        <section class="section" id="sources" aria-labelledby="sources-title"><div class="section-heading"><div><h2 id="sources-title">📚 资料来源 <span class="heading-kaomoji">( •̀ ω •́ )✧</span></h2><p>更新日期：<time datetime="2026-11-10">2026 年 11 月 10 日</time></p></div></div>
+        <section class="section" id="sources" aria-labelledby="sources-title"><div class="section-heading"><div><h2 id="sources-title">📚 资料来源 <span class="heading-kaomoji">( •̀ ω •́ )✧</span></h2><p>更新日期：<time datetime="2026-11-18">2026 年 11 月 18 日</time></p></div></div>
             <details class="records paper"><summary>展开 ${sources.length} 项资料来源</summary>
                 <ul class="sources">${sourcesHTML}</ul>
                 <a class="pill-link" href="${encodeURI(documentName)}" download>下载 Markdown 文档 ↓</a>
