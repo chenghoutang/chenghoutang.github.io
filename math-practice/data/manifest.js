@@ -1,0 +1,1 @@
+window.MATH_MANIFEST={"schemaVersion":1,"total":300,"target":1800,"batches":[1],"topics":[{"id":"sets","name":"集合与集合运算"},{"id":"logic","name":"逻辑、量词与充要条件"},{"id":"complex","name":"复数与复平面"},{"id":"inequalities","name":"不等式与基本不等式"},{"id":"quadratic","name":"二次函数与方程"}]};

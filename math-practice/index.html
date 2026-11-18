@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fff5f9"><title>数学练习 · DengDuck</title>
+    <link rel="icon" href="../icon.png"><link rel="stylesheet" href="../assets/katex/katex.min.css"><link rel="stylesheet" href="math.css">
+    <script src="../assets/katex/katex.min.js" defer></script><script src="../assets/katex/auto-render.min.js" defer></script>
+    <script src="data/manifest.js" defer></script>
+    <!-- batches-start -->
+    <script src="data/batch-1.js" defer></script>
+    <!-- batches-end -->
+    <script src="math.js" defer></script>
+</head>
+<body>
+    <header class="topbar"><a class="pill" href="../index.html">← 回到小窝</a><span>学习 / 数学练习</span></header>
+    <main class="page">
+        <section class="intro"><span class="eyebrow">A LITTLE MATH, EVERY DAY</span><h1>数学练习本 <span aria-hidden="true">📐</span></h1><p>把想法写下来，答案就近一点点。(｡•̀ᴗ-)✧</p><p id="bankSummary" class="note">正在翻开题库…</p></section>
+        <section class="paper filters" aria-label="题目筛选">
+            <label>难度<select id="difficulty"><option value="all">全部难度</option><option value="easy">简单 · 15 秒</option><option value="medium">中等 · 2 分钟</option><option value="hard">复杂 · 5 分钟</option></select></label>
+            <label>知识模块<select id="topic"><option value="all">全部知识模块</option></select></label>
+            <label>练习范围<select id="scope"><option value="all">全部题目</option><option value="unanswered">未作答</option><option value="wrong">错题本</option><option value="starred">收藏夹</option></select></label>
+            <label>搜索<input id="search" type="search" placeholder="题号、知识点或关键词"></label>
+        </section>
+        <section class="study-layout">
+            <aside class="paper question-index"><div class="index-heading"><h2>选一题</h2><button id="random" class="pill" type="button">随机一题</button></div><p id="filterCount" class="note" role="status"></p><div id="questionList"></div><nav class="pagination"><button id="pagePrev" class="pill" type="button">上一页</button><span id="pageNumber"></span><button id="pageNext" class="pill" type="button">下一页</button></nav></aside>
+            <section id="workspace" class="paper workspace" aria-labelledby="questionTitle">
+                <div id="empty" class="empty" hidden>这里暂时没有题目，换个筛选条件试试吧。</div>
+                <div id="questionContent" hidden>
+                    <div class="question-top"><span id="questionMeta" class="eyebrow"></span><button id="star" class="pill" type="button" aria-pressed="false">☆ 收藏</button></div>
+                    <div class="timer-bar"><span id="timer" role="timer" aria-label="本题用时"></span><span id="target" class="note"></span><button id="pause" class="pill" type="button">暂停计时</button></div>
+                    <p id="timeMessage" class="note" role="status"></p>
+                    <form id="answerForm"><h2 id="questionTitle" class="math-copy"></h2><fieldset id="options"><legend class="sr-only">请选择一个答案</legend></fieldset><div class="actions"><button id="submit" class="pill primary" type="submit">提交答案</button><button id="retry" class="pill" type="button">重新作答</button></div></form>
+                    <div id="feedback" hidden><p id="result" role="status" aria-live="polite"></p><div id="explanation" class="math-copy explanation"></div></div>
+                    <nav class="question-navigation"><button id="previous" class="pill" type="button">← 上一题</button><button id="next" class="pill" type="button">下一题 →</button></nav>
+                </div>
+            </section>
+        </section>
+        <p id="progressSummary" class="note"></p><p id="saveMessage" class="note">作答与收藏自动保存在当前浏览器。</p>
+        <details class="paper guide"><summary>难度与学习建议</summary><p>简单：概念、公式的直接应用，建议 15 秒。中等：需要转化或常用推论，建议 2 分钟。复杂：综合、参数、分类讨论与证明思路训练，以高考后段选择题为训练目标，建议 5 分钟。时间是练习目标，超时可继续作答。</p><p>全部为自编单项选择题，每题四个选项，附答案与推导。基础微积分另设模块；不定积分答案均包含任意常数。相同方法配有参数变式，适合巩固与复练。</p><p>公式由本地 KaTeX 渲染，断网或双击 HTML 也能练习。<a href="../assets/katex/LICENSE">KaTeX 授权</a></p></details>
+        <noscript><p>请开启 JavaScript 使用练习与公式渲染。</p></noscript>
+    </main>
+</body></html>

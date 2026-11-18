@@ -1,0 +1,39 @@
+import fs from 'node:fs';import os from 'node:os';import path from 'node:path';import assert from 'node:assert/strict';import {spawn} from 'node:child_process';import {pathToFileURL} from 'node:url';
+const root=path.resolve(new URL('..',import.meta.url).pathname.replace(/^\/([A-Za-z]:)/,'$1'));
+const profile=fs.mkdtempSync(path.join(os.tmpdir(),'dengduck-math-'));
+const browser=spawn('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',['--headless=new','--no-sandbox','--disable-extensions','--disable-gpu','--no-first-run','--remote-debugging-port=0','--user-data-dir='+profile,'about:blank'],{windowsHide:true,stdio:'ignore'});
+const delay=ms=>new Promise(r=>setTimeout(r,ms));let ws;const errors=[],pending=new Map();let id=0;
+try{
+ const file=path.join(profile,'DevToolsActivePort');for(let i=0;i<100&&!fs.existsSync(file);i++)await delay(100);
+ const port=+fs.readFileSync(file,'utf8').split('\n')[0],tabs=await(await fetch(`http://127.0.0.1:${port}/json`)).json();
+ ws=new WebSocket(tabs.find(t=>t.type==='page').webSocketDebuggerUrl);await new Promise(r=>ws.onopen=r);
+ ws.onmessage=e=>{const m=JSON.parse(e.data);if(m.id&&pending.has(m.id)){const p=pending.get(m.id);pending.delete(m.id);m.error?p.reject(m.error):p.resolve(m.result);}if(m.method==='Runtime.exceptionThrown')errors.push(m.params);};
+ const cdp=(method,params={})=>new Promise((resolve,reject)=>{const timer=setTimeout(()=>reject(Error('CDP timeout: '+method)),10000);pending.set(++id,{resolve:r=>{clearTimeout(timer);resolve(r);},reject});ws.send(JSON.stringify({id,method,params}));});
+ const run=async expression=>{const r=await cdp('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(r.exceptionDetails)throw Error(JSON.stringify(r.exceptionDetails));return r.result.value;};
+ const until=async exp=>{for(let i=0;i<100;i++){if(await run(exp))return;await delay(50);}throw Error('Timeout: '+exp);};
+ await cdp('Runtime.enable');await cdp('Page.enable');await cdp('Network.enable');await cdp('Network.setBlockedURLs',{urls:['http://*','https://*']});
+ const url=pathToFileURL(path.join(root,'math-practice/index.html')).href;
+ await cdp('Page.navigate',{url});await until('document.querySelectorAll("#options input").length===4 && document.querySelector(".katex")');
+ await run('localStorage.removeItem("dengduck-math-v1")');await cdp('Page.reload');await until('document.querySelectorAll("#options input").length===4');
+ const total=await run('window.MATH_MANIFEST.total');
+ assert.equal(await run('window.MATH_BATCHES.flatMap(b=>b.questions).length'),total);
+ assert.equal(await run('document.querySelectorAll(".katex-error").length'),0);
+ await run('document.querySelector("#star").click();const q=window.MATH_BATCHES[0].questions[0];document.querySelectorAll("#options input")[(q.answer+1)%4].click();document.querySelector("#submit").click()');
+ assert.equal(await run('document.querySelector("#feedback").hidden'),false);
+ assert.equal(await run('document.querySelectorAll(".incorrect").length'),1);
+ await run('document.querySelector("#scope").value="wrong";document.querySelector("#scope").dispatchEvent(new Event("change"))');
+ assert.equal(await run('document.querySelectorAll(".question-link").length'),1);
+ await cdp('Page.reload');await until('document.querySelectorAll("#options input").length===4');
+ assert.equal(await run('document.querySelector("#feedback").hidden'),false);assert.equal(await run('document.querySelector("#star").getAttribute("aria-pressed")'),'true');
+ await run('document.querySelector("#retry").click();const q=window.MATH_BATCHES[0].questions[0];document.querySelectorAll("#options input")[q.answer].click();document.querySelector("#submit").click()');
+ assert.equal(await run('document.querySelectorAll(".correct").length'),1);assert.equal(await run('document.querySelectorAll(".incorrect").length'),0);
+ await run('document.querySelector("#difficulty").value="hard";document.querySelector("#difficulty").dispatchEvent(new Event("change"))');
+ await until('location.hash==="#M0041"');
+ assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),String(total/3));
+ await run('document.querySelector("#pause").click()');const t=await run('document.querySelector("#timer").textContent');await delay(1100);assert.equal(await run('document.querySelector("#timer").textContent'),t);
+ for(const width of [320,390,1280]){await cdp('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<500});assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`overflow ${width}`);}
+ await run('document.querySelector("#search").value="no-such-question";document.querySelector("#search").dispatchEvent(new Event("input"))');assert.equal(await run('document.querySelector("#empty").hidden'),false);
+ await cdp('Page.navigate',{url:url+'#M'+String(total).padStart(4,'0')});await until(`document.querySelector('#questionMeta').textContent.startsWith('M${String(total).padStart(4,'0')}')`);
+ assert.equal(errors.length,0,JSON.stringify(errors));assert.equal(await run('document.querySelectorAll(".katex-error").length'),0);
+ console.log(`PASS: ${total} questions in offline Chrome; LaTeX, answers, retry, wrong/starred records, reload, filters, timer, deep links, 320/390/1280px.`);
+}finally{ws?.close();browser.kill();}
