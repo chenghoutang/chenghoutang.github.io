@@ -1,0 +1,2331 @@
+{
+  "schemaVersion": 1,
+  "folder": "094",
+  "articleSha256": "41610dda38ab8aa933e2d9f89d4a6e34db8991045c1f417921485e1e1dbaa82b",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "shoppers",
+      "headword": "shopper",
+      "kind": "word",
+      "zh": "n. 购物者\n[经] 顾客, 购物的人",
+      "en": "n. someone who visits stores in search of articles to buy\nn. a commercial agent who shops at the competitor's store in order to compare their prices and merchandise with those of the store that employs her",
+      "phonetic": "'ʃɒpә",
+      "forms": [
+        "shoppers",
+        "shopper"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "greet",
+      "headword": "greet",
+      "kind": "word",
+      "zh": "vt. 问候, 致敬, 欢迎, 映入眼帘",
+      "en": "v. express greetings upon meeting someone\nv. send greetings to\nv. react to in a certain way\nv. be perceived by",
+      "phonetic": "gri:t",
+      "forms": [
+        "greet"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "closure",
+      "headword": "closure",
+      "kind": "word",
+      "zh": "n. 关闭\nvt. 使终止",
+      "en": "n. a rule for limiting or ending debate in a deliberative body\nn. a Gestalt principle of organization holding that there is an innate tendency to perceive incomplete objects as complete and to close or fill gaps and to perceive asymmetric stimuli as symmetric\nn. termination of operations\nv. terminate debate by calling for a vote",
+      "phonetic": "'klәuʒә",
+      "forms": [
+        "closure",
+        "closures"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "walmart",
+      "headword": "walmart",
+      "kind": "word",
+      "zh": "沃尔玛（世界连锁零售企业）",
+      "en": "",
+      "phonetic": "'wɔlma:t",
+      "forms": [
+        "walmart"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "dismay",
+      "headword": "dismay",
+      "kind": "word",
+      "zh": "n. 沮丧\nvt. 使惊愕, 使气馁",
+      "en": "v. fill with apprehension or alarm; cause to be unpleasantly surprised",
+      "phonetic": "dis'mei",
+      "forms": [
+        "dismay"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "competitors",
+      "headword": "competitor",
+      "kind": "word",
+      "zh": "n. 竞争者\n[经] 竞争者, 竞争对手",
+      "en": "n the contestant you hope to defeat",
+      "phonetic": "kәm'petitә",
+      "forms": [
+        "competitors",
+        "competitor"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "celebrate",
+      "headword": "celebrate",
+      "kind": "word",
+      "zh": "v. 庆祝, 祝贺, 举行",
+      "en": "v. have a celebration",
+      "phonetic": "'selibreit",
+      "forms": [
+        "celebrate"
+      ],
+      "example": "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "critics",
+      "headword": "critic",
+      "kind": "word",
+      "zh": "n. 批评家, 鉴定家",
+      "en": "n. a person who is professionally engaged in the analysis and interpretation of works of art\nn. anyone who expresses a reasoned judgment of something\nn. someone who frequently finds fault or makes harsh and unfair judgments",
+      "phonetic": "'kritik",
+      "forms": [
+        "critics"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "behemoth",
+      "headword": "behemoth",
+      "kind": "word",
+      "zh": "n. 庞然大物",
+      "en": "n someone or something that is abnormally large and powerful\nn a person of exceptional importance and reputation",
+      "phonetic": "bi'hi:mɔθ",
+      "forms": [
+        "behemoth"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "assumption",
+      "headword": "assumption",
+      "kind": "word",
+      "zh": "n. 假定, 自负, 担任, 假装\n[经] 假定, 承担",
+      "en": "n. a hypothesis that is taken for granted\nn. the act of taking possession of or power over something\nn. celebration in the Roman Catholic Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Dormition in the Eastern Orthodox Church\nn. (Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended",
+      "phonetic": "ә'sʌmpʃәn",
+      "forms": [
+        "assumption"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "disappears",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappears",
+        "disappeared"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "groceries",
+      "headword": "grocery",
+      "kind": "word",
+      "zh": "n. 食品杂货店, 食品杂货业",
+      "en": "n. (usually plural) consumer goods sold by a grocer",
+      "phonetic": "'grәusәri",
+      "forms": [
+        "groceries",
+        "grocery"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "household",
+      "headword": "household",
+      "kind": "word",
+      "zh": "n. 一家人, 家庭, 家族, 王室\na. 家庭的, 家常的, 王室的",
+      "en": "n a social unit living together",
+      "phonetic": "'haushәuld",
+      "forms": [
+        "household"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "meals",
+      "headword": "meal",
+      "kind": "word",
+      "zh": "n. 一餐, 膳食, 粗粉\nvi. 进餐",
+      "en": "n. the food served and eaten at one time\nn. any of the occasions for eating food that occur by custom or habit at more or less fixed times\nn. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
+      "phonetic": "mi:l",
+      "forms": [
+        "meals"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "flow",
+      "headword": "flow",
+      "kind": "word",
+      "zh": "n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮\nvi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出\nvt. 使流动, 淹没, 流出",
+      "en": "n. the motion characteristic of fluids (liquids or gases)\nn. the amount of fluid that flows in a given time\nn. the act of flowing or streaming; continuous progression\nn. any uninterrupted stream or discharge",
+      "phonetic": "flәu",
+      "forms": [
+        "flow"
+      ],
+      "example": "Among critics of the big-box behemoth, a long-held assumption is that once a Walmart disappears, shoppers seeking groceries, household goods, meals and services will flow to businesses down the road.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "downside",
+      "headword": "downside",
+      "kind": "word",
+      "zh": "n. 底侧；下降趋势",
+      "en": "n. a negative aspect of something that is generally positive",
+      "phonetic": "'daunsaid",
+      "forms": [
+        "downside"
+      ],
+      "example": "But what if the economic downside of a closure is bigger?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "scholars",
+      "headword": "scholar",
+      "kind": "word",
+      "zh": "n. 学者, 奖学金获得者, 有文化者, 学习者",
+      "en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\nn. a student who holds a scholarship",
+      "phonetic": "'skɒlә",
+      "forms": [
+        "scholars"
+      ],
+      "example": "We are marketing scholars who have studied dozens of Walmart closures in the United States.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "We are marketing scholars who have studied dozens of Walmart closures in the United States.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "nearby",
+      "headword": "nearby",
+      "kind": "word",
+      "zh": "a. 附近的, 近旁的\nadv. 在附近, 近旁地\nprep. 在...附近",
+      "en": "s. close at hand\nr. not far away in relative terms",
+      "phonetic": "'niәbai",
+      "forms": [
+        "nearby"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "stores",
+      "headword": "store",
+      "kind": "word",
+      "zh": "n. 商店, 贮藏, 仓库, 备用品, 存储器\nvt. 储存, 贮藏, 供给\nvi. 贮藏\na. 贮藏的, 现成的\n[计] 存储器操作; 存储",
+      "en": "n. a supply of something available for future use\nv. keep or lay aside for future use\nv. find a place for and put away for storage",
+      "phonetic": "stɒ:",
+      "forms": [
+        "stores"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "slump",
+      "headword": "slump",
+      "kind": "word",
+      "zh": "n. 暴跌, 垂头弯腰的姿态\nvi. 猛然掉落, 陷入, 衰落(经济等)",
+      "en": "n. a noticeable deterioration in performance or quality\nv. assume a drooping posture or carriage\nv. fall or sink heavily\nv. fall heavily or suddenly; decline markedly",
+      "phonetic": "slʌmp",
+      "forms": [
+        "slump"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "monthly",
+      "headword": "monthly",
+      "kind": "word",
+      "zh": "n. 月刊\na. 每月的, 每月一次的",
+      "en": "n. a periodical that is published every month (or 12 issues per year)\ns. of or occurring or payable every month\nr. occurring once a month",
+      "phonetic": "'mʌnθli",
+      "forms": [
+        "monthly"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "traffic",
+      "headword": "traffic",
+      "kind": "word",
+      "zh": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量\nvi. 交易, 做买卖\nvt. 用...作交换\n[计] 通信量, 传输量",
+      "en": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time\nn. buying and selling; especially illicit trade\nn. the amount of activity over a communication system during a given period of time\nv. deal illegally",
+      "phonetic": "'træfik",
+      "forms": [
+        "traffic"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "sales",
+      "headword": "sales",
+      "kind": "word",
+      "zh": "a. 销售的\n[计] 销售",
+      "en": "n income (at invoice values) received for goods and services over some given period of time\nn a particular instance of selling\nn the general activity of selling\nn an occasion (usually brief) for buying at specially reduced prices\nn the state of being purchasable; offered or exhibited for selling\nn an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer)",
+      "phonetic": "",
+      "forms": [
+        "sales"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "revenue",
+      "headword": "revenue",
+      "kind": "word",
+      "zh": "n. 收入, 岁入, 税收, 税务局\n[经] 岁入, 税收, 税务局",
+      "en": "n the entire amount of income before any deductions are made\nn government income due to taxation",
+      "phonetic": "'revinju:",
+      "forms": [
+        "revenue"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "quarter",
+      "headword": "quarter",
+      "kind": "word",
+      "zh": "n. 四分之一, 一刻钟, 季度, 地区\nvt. 四等分, 肢解\nvi. 驻扎, 住宿",
+      "en": "n. a district of a city having some distinguishing character\nn. (football, professional basketball) one of four divisions into which some games are divided\nn. a unit of time equal to 15 minutes or a quarter of an hour\nn. one of four periods into which the school year is divided",
+      "phonetic": "'kwɒ:tә",
+      "forms": [
+        "quarter"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "in contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "in contrast"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v29",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "comparable",
+      "headword": "comparable",
+      "kind": "word",
+      "zh": "a. 可比较的, 比得上的",
+      "en": "a. able to be compared or worthy of comparison\ns. conforming in every respect",
+      "phonetic": "'kɒmpәrәbl",
+      "forms": [
+        "comparable"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations",
+        "location"
+      ],
+      "example": "We found that nearby stores saw a slump in both monthly shopper traffic and sales revenue by roughly a quarter in contrast to comparable stores near Walmart locations that remained open.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "sample",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "sample"
+      ],
+      "example": "Our sample covered 39 Walmart stores that closed across 20 states from 2019 to 2026.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "retailer",
+      "headword": "retailer",
+      "kind": "word",
+      "zh": "n. 零售商人, 传播的人\n[经] 零售商",
+      "en": "n. a merchant who sells goods at retail",
+      "phonetic": "'ri:teilә",
+      "forms": [
+        "retailer",
+        "retailers"
+      ],
+      "example": "This finding suggests a large retailer can play two roles at once.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "competes",
+      "headword": "compete",
+      "kind": "word",
+      "zh": "vi. 竞争, 对抗",
+      "en": "v. compete for something; engage in a contest; measure oneself against others",
+      "phonetic": "kәm'pi:t",
+      "forms": [
+        "competes",
+        "competed"
+      ],
+      "example": "Walmart competes with neighboring businesses for shopper visits and spending.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "neighboring",
+      "headword": "neighbor",
+      "kind": "word",
+      "zh": "n. 邻居\nvt. 邻接\nvi. 毗邻而居, 友好\na. 邻近的",
+      "en": "n. a person who lives (or is located) near another\nn. a nearby object of the same kind\nv. live or be located as a neighbor",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighboring"
+      ],
+      "example": "Walmart competes with neighboring businesses for shopper visits and spending.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "anchor",
+      "headword": "anchor",
+      "kind": "word",
+      "zh": "n. 锚\nvt. 抛锚停泊, 使固定\n[计] 锚",
+      "en": "n. a mechanical device that prevents a vessel from moving\nn. a central cohesive source of support and stability\nn. a television reporter who coordinates a broadcast to which several correspondents contribute\nv. fix firmly and stably",
+      "phonetic": "'æŋkә",
+      "forms": [
+        "anchor"
+      ],
+      "example": "But it can also act as an anchor, giving people a reason to travel to a shopping area in the first place.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "shopping",
+      "headword": "shop",
+      "kind": "word",
+      "zh": "n. 商店, 工厂, 车间\nvi. 购物, 到处寻找\nvt. 选购",
+      "en": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying",
+      "phonetic": "ʃɒp",
+      "forms": [
+        "shopping",
+        "shops"
+      ],
+      "example": "But it can also act as an anchor, giving people a reason to travel to a shopping area in the first place.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "outweigh",
+      "headword": "outweigh",
+      "kind": "word",
+      "zh": "vt. 比...重, 比...重要, 比...有价值",
+      "en": "v. be heavier than",
+      "phonetic": ".aut'wei",
+      "forms": [
+        "outweigh"
+      ],
+      "example": "When that anchor disappears, the loss of shared shopper traffic can outweigh the benefit of having one less competitor.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "underscores",
+      "headword": "underscore",
+      "kind": "word",
+      "zh": "vt. 划线于...下\nn. (表强调的)下划线\n[计] 底线",
+      "en": "n. a line drawn underneath (especially under written matter)\nv. give extra weight to (a communication)",
+      "phonetic": ".ʌndә'skɒ:",
+      "forms": [
+        "underscores"
+      ],
+      "example": "Our finding underscores that retailers don’t operate as isolated dots on a map.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "operate",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operate"
+      ],
+      "example": "Our finding underscores that retailers don’t operate as isolated dots on a map.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "isolated",
+      "headword": "isolate",
+      "kind": "word",
+      "zh": "vt. 使隔离, 使孤立, 使绝缘\nn. 隔离种群",
+      "en": "v. place or set apart\nv. obtain in pure form\nv. separate (experiences) from the emotions relating to them",
+      "phonetic": "'aisәleit",
+      "forms": [
+        "isolated"
+      ],
+      "example": "Our finding underscores that retailers don’t operate as isolated dots on a map.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "dots",
+      "headword": "dot",
+      "kind": "word",
+      "zh": "n. 点, 圆点, 小数点, 小东西, 嫁妆\nvt. 作小点记号, 加小点于\nvi. 打上点\n[计] 点",
+      "en": "n. the shorter of the two telegraphic signals used in Morse code\nv. scatter or intersperse like dots or studs\nv. make a dot or dots\nv. mark with a dot",
+      "phonetic": "dɒt",
+      "forms": [
+        "dots"
+      ],
+      "example": "Our finding underscores that retailers don’t operate as isolated dots on a map.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "generate",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generate",
+        "generated"
+      ],
+      "example": "A trip to Walmart can generate a stop at a nearby restaurant, pharmacy, salon, specialty retailer or service business.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "pharmacy",
+      "headword": "pharmacy",
+      "kind": "word",
+      "zh": "n. 药房, 配药学, 制药业\n[医] 药学, 药剂学, 调剂学, 药房",
+      "en": "n. the art and science of preparing and dispensing drugs and medicines,",
+      "phonetic": "'fɑ:mәsi",
+      "forms": [
+        "pharmacy"
+      ],
+      "example": "A trip to Walmart can generate a stop at a nearby restaurant, pharmacy, salon, specialty retailer or service business.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "salon",
+      "headword": "salon",
+      "kind": "word",
+      "zh": "n. 大会客室, 大厅, 客厅, 交谊室, 沙龙, 美术展览馆, 画廊, 美容院, 发廊",
+      "en": "n. gallery where works of art can be displayed\nn. a shop where hairdressers and beauticians work\nn. elegant sitting room where guests are received",
+      "phonetic": "'sælɔ:ŋ",
+      "forms": [
+        "salon"
+      ],
+      "example": "A trip to Walmart can generate a stop at a nearby restaurant, pharmacy, salon, specialty retailer or service business.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "specialty",
+      "headword": "specialty",
+      "kind": "word",
+      "zh": "n. 专业, 专长, 特产, 特制品, 特性, 特点\na. 专门的, 独立的",
+      "en": "n an asset of special worth or utility\nn a distinguishing trait\nn the special line of work you have adopted as your career",
+      "phonetic": "'speʃәlti",
+      "forms": [
+        "specialty"
+      ],
+      "example": "A trip to Walmart can generate a stop at a nearby restaurant, pharmacy, salon, specialty retailer or service business.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "economists",
+      "headword": "economist",
+      "kind": "word",
+      "zh": "n. 经济学者, 经济家\n[经] 经济学家",
+      "en": "n. an expert in the science of economics",
+      "phonetic": "i:'kɒnәmist",
+      "forms": [
+        "economists"
+      ],
+      "example": "Economists call this kind of benefit an agglomeration effect: Businesses can gain from being near other businesses because the location itself attracts shoppers.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "agglomeration",
+      "headword": "agglomeration",
+      "kind": "word",
+      "zh": "n. 结块, 聚结, 大块\n[化] 附聚; 附聚作用; 烧结团聚; 烧结作用; 团聚",
+      "en": "n. a jumbled collection or mass\nn. the act of collecting in a mass; the act of agglomerating",
+      "phonetic": "ә.glɒmә'reiʃәn",
+      "forms": [
+        "agglomeration"
+      ],
+      "example": "Economists call this kind of benefit an agglomeration effect: Businesses can gain from being near other businesses because the location itself attracts shoppers.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "gain",
+      "headword": "gain",
+      "kind": "word",
+      "zh": "n. 增益, 获得, 利润, 收获, 增加\nvt. 得到, 增进, 赚到\nvi. 获利, 增加\n[计] 增益",
+      "en": "n. the amount by which the revenue of a business exceeds its cost of operating\nv. obtain advantages, such as points, etc.\nv. increase or develop\nv. earn on some commercial or business transaction; earn as salary or wages",
+      "phonetic": "gein",
+      "forms": [
+        "gain"
+      ],
+      "example": "Economists call this kind of benefit an agglomeration effect: Businesses can gain from being near other businesses because the location itself attracts shoppers.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "attracts",
+      "headword": "attract",
+      "kind": "word",
+      "zh": "vt. 吸引, 诱惑\nvi. 有吸引力",
+      "en": "v. direct toward itself or oneself by means of some psychological power or physical attributes\nv. be attractive to\nv. exert a force on (a body) causing it to approach or prevent it from moving away",
+      "phonetic": "ә'trækt",
+      "forms": [
+        "attracts"
+      ],
+      "example": "Economists call this kind of benefit an agglomeration effect: Businesses can gain from being near other businesses because the location itself attracts shoppers.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "logic",
+      "headword": "logic",
+      "kind": "word",
+      "zh": "n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性\n[计] 逻辑",
+      "en": "n. the branch of philosophy that analyzes inference\nn. reasoned and reasonable judgment\nn. the principles that guide reasoning within a given field or situation\nn. the system of operations performed by a computer that underlies the machine's representation of logical operations",
+      "phonetic": "'lɒdʒik",
+      "forms": [
+        "logic"
+      ],
+      "example": "Shopping center owners have long recognized this logic by using prominent stores to anchor a mix of tenants.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "prominent",
+      "headword": "prominent",
+      "kind": "word",
+      "zh": "a. 卓越的, 显著的, 突出的, 凸出的",
+      "en": "s having a quality that thrusts itself into attention\ns conspicuous in position or importance",
+      "phonetic": "'prɒminәnt",
+      "forms": [
+        "prominent"
+      ],
+      "example": "Shopping center owners have long recognized this logic by using prominent stores to anchor a mix of tenants.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "tenants",
+      "headword": "tenant",
+      "kind": "word",
+      "zh": "n. 承租人, 房客, 居住者\nvt. 租借\n[计] 占据者",
+      "en": "n. someone who pays rent to use land or a building or a car that is owned by someone else\nn. a holder of buildings or lands by any kind of title (as ownership or lease)\nn. any occupant who dwells in a place\nv. occupy as a tenant",
+      "phonetic": "'tenәnt",
+      "forms": [
+        "tenants",
+        "tenant"
+      ],
+      "example": "Shopping center owners have long recognized this logic by using prominent stores to anchor a mix of tenants.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "entry",
+      "headword": "entry",
+      "kind": "word",
+      "zh": "n. 登录, 条目, 进入, 入口, 报关\n[计] 登录项, 输入项, 条目",
+      "en": "n. an item inserted in a written record\nn. a written record of a commercial transaction",
+      "phonetic": "'entri",
+      "forms": [
+        "entry"
+      ],
+      "example": "Other researchers have found that Walmart’s entry into a shopping area causes sales in nearby existing stores to drop.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "adjust",
+      "headword": "adjust",
+      "kind": "word",
+      "zh": "vt. 调整, 使适应于, 校准\nvi. 适应于, 被调节, 相互熟悉而适应",
+      "en": "v. alter or regulate so as to achieve accuracy or conform to a standard\nv. adapt or conform oneself to new or different conditions\nv. make correspondent or conformable\nv. decide how much is to be paid on an insurance claim",
+      "phonetic": "ә'dʒʌst",
+      "forms": [
+        "adjust"
+      ],
+      "example": "But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "assortment",
+      "headword": "assortment",
+      "kind": "word",
+      "zh": "n. 分类, 各种各样\n[医] [遗传]配列",
+      "en": "n. a collection containing a variety of sorts of things",
+      "phonetic": "ә'sɒ:tmәnt",
+      "forms": [
+        "assortment"
+      ],
+      "example": "But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "promotions",
+      "headword": "promotion",
+      "kind": "word",
+      "zh": "n. 晋级, 创建, 增进\n[经] 推广, 推销, 促进",
+      "en": "n. a message issued in behalf of some product or cause or idea or person or institution\nn. act of raising in rank or position\nn. encouragement of the progress or growth or acceptance of something",
+      "phonetic": "prәu'mәuʃәn",
+      "forms": [
+        "promotions"
+      ],
+      "example": "But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "mitigate",
+      "headword": "mitigate",
+      "kind": "word",
+      "zh": "vt. 温和, 缓和, 减轻\n[医] 缓和, 减轻",
+      "en": "v. make less severe or harsh",
+      "phonetic": "'mitigeit",
+      "forms": [
+        "mitigate"
+      ],
+      "example": "But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "follow-up",
+      "headword": "follow-up",
+      "kind": "word",
+      "zh": "a. 继续的, 作为重复的",
+      "en": "n. a piece of work that exploits or builds on earlier work\nn. an activity that continues something that has already begun or that repeats something that has already been done\nn. a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "phonetic": "",
+      "forms": [
+        "follow-up"
+      ],
+      "example": "But these shops can adjust their product assortment, prices and promotions to mitigate this effect, follow-up studies suggest.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "happens",
+      "headword": "happen",
+      "kind": "word",
+      "zh": "vi. 发生, 发生, 恰巧",
+      "en": "v. come to pass\nv. happen, occur, or be the case in the course of events or by chance\nv. chance to be or do something, without intention or causation\nv. come into being; become reality",
+      "phonetic": "'hæpәn",
+      "forms": [
+        "happens"
+      ],
+      "example": "What has not been studied until now is what happens when a Walmart store – or any other anchor store – closes.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "closes",
+      "headword": "close",
+      "kind": "word",
+      "zh": "n. 结束, 完结\na. 靠近的, 亲近的, 亲密的, 严密的, 关闭的, 狭窄的, 秘密的\nvt. 关, 结束, 使靠近, 封闭, 使接近\nvi. 关闭, 结束, 靠近\nadv. 接近地, 紧密地\n[计] 关闭",
+      "en": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement",
+      "phonetic": "klәuz",
+      "forms": [
+        "closes"
+      ],
+      "example": "What has not been studied until now is what happens when a Walmart store – or any other anchor store – closes.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "tug-of-war",
+      "headword": "tug-of-war",
+      "kind": "word",
+      "zh": "n. 拔河, 激烈的竞争",
+      "en": "n. any hard struggle between equally matched groups\nn. a contest in which teams pull of opposite ends of a rope; the team dragged across a central line loses",
+      "phonetic": "",
+      "forms": [
+        "tug-of-war"
+      ],
+      "example": "A Walmart closure creates a tug-of-war between two forces, we argue.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "competitive",
+      "headword": "competitive",
+      "kind": "word",
+      "zh": "a. 竞争的\n[经] 竞争的",
+      "en": "a. involving competition or competitiveness\ns. subscribing to capitalistic competition\ns. showing a fighting disposition",
+      "phonetic": "kәm'petitiv",
+      "forms": [
+        "competitive"
+      ],
+      "example": "Competitive relief helps nearby businesses because a formidable rival is gone.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "relief",
+      "headword": "relief",
+      "kind": "word",
+      "zh": "n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏\n[医] 缓减, 减轻, 浮雕(绘画中)",
+      "en": "n. the feeling that comes when something burdensome is removed or reduced\nn. the condition of being comfortable or relieved (especially after being relieved of distress)\nn. (law) redress awarded by a court\nn. assistance in time of difficulty",
+      "phonetic": "ri'li:f",
+      "forms": [
+        "relief"
+      ],
+      "example": "Competitive relief helps nearby businesses because a formidable rival is gone.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "formidable",
+      "headword": "formidable",
+      "kind": "word",
+      "zh": "a. 巨大的, 优秀的, 可怕的, 艰难的",
+      "en": "s. extremely impressive in strength or excellence\ns. inspiring fear",
+      "phonetic": "'fɒ:midәbl",
+      "forms": [
+        "formidable"
+      ],
+      "example": "Competitive relief helps nearby businesses because a formidable rival is gone.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "rival",
+      "headword": "rival",
+      "kind": "word",
+      "zh": "n. 对手, 竞争者\na. 竞争的",
+      "en": "n. the contestant you hope to defeat\nv. be the rival of, be in competition with",
+      "phonetic": "'raivl",
+      "forms": [
+        "rival"
+      ],
+      "example": "Competitive relief helps nearby businesses because a formidable rival is gone.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "But agglomeration loss hurts them because fewer shoppers have a reason to visit the area.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "capture",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "capture"
+      ],
+      "example": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "demand",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demand"
+      ],
+      "example": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "end up",
+      "headword": "end up",
+      "kind": "phrase",
+      "zh": "最终处于",
+      "en": "to reach a situation as an eventual result",
+      "forms": [
+        "end up"
+      ],
+      "example": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v71",
+      "term": "pool",
+      "headword": "pool",
+      "kind": "word",
+      "zh": "n. 池, 水塘, 石油层, 联营\nvt. 合伙经营, 共享, 采掘, 汇聚成\nvi. 汇合成塘, 淤积, 联营",
+      "en": "n. an excavation that is (usually) filled with water\nn. an organization of people or resources that can be shared\nn. any communal combination of funds\nn. a small body of standing water (rainwater) or other liquid",
+      "phonetic": "pu:l",
+      "forms": [
+        "pool"
+      ],
+      "example": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "shrinks",
+      "headword": "shrink",
+      "kind": "word",
+      "zh": "n. 收缩, 萎缩, 回避\nvi. 收缩, 退缩, 萎缩, 缩小, 回避\nvt. 使收缩, 使缩小",
+      "en": "v. reduce in size; reduce physically\nv. become smaller or draw together\nv. decrease in size, range, or extent",
+      "phonetic": "ʃriŋk",
+      "forms": [
+        "shrinks"
+      ],
+      "example": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "combined",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combined"
+      ],
+      "example": "We combined closure dates with monthly store-level shopper traffic and spending data.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "dates",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "dates"
+      ],
+      "example": "We combined closure dates with monthly store-level shopper traffic and spending data.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sizable",
+      "headword": "sizable",
+      "kind": "word",
+      "zh": "a. 相当大的, 大小相当的",
+      "en": "s fairly large\ns large in amount or extent or degree",
+      "phonetic": "'saizәbl",
+      "forms": [
+        "sizable"
+      ],
+      "example": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "decline",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "decline"
+      ],
+      "example": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "worsening",
+      "headword": "worsen",
+      "kind": "word",
+      "zh": "vt. 使更坏, 使恶化\nvi. 变得更坏, 恶化",
+      "en": "v. grow worse\nv. make worse",
+      "phonetic": "'wә:sn",
+      "forms": [
+        "worsening"
+      ],
+      "example": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "trend",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trend"
+      ],
+      "example": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "specifically",
+      "headword": "specifically",
+      "kind": "word",
+      "zh": "adv. 特定地, 明确地, 按特性",
+      "en": "r. in distinction from others",
+      "phonetic": "spi'sifikli",
+      "forms": [
+        "specifically"
+      ],
+      "example": "Specifically, following a Walmart’s closure, nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "thereafter",
+      "headword": "thereafter",
+      "kind": "word",
+      "zh": "adv. 其后, 从那时以后",
+      "en": "r. from that time on",
+      "phonetic": ".ðєәr'æftә",
+      "forms": [
+        "thereafter"
+      ],
+      "example": "Specifically, following a Walmart’s closure, nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "ninth",
+      "headword": "ninth",
+      "kind": "word",
+      "zh": "num. 第九, 九分之一",
+      "en": "n. position nine in a countable series of things\ns. coming next after the eighth and just before the tenth in position",
+      "phonetic": "nainθ",
+      "forms": [
+        "ninth"
+      ],
+      "example": "The decline keeps getting worse, reaching about 17% in the ninth month and 20% a year after the anchor store closes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "parallel",
+      "headword": "parallel",
+      "kind": "word",
+      "zh": "n. 平行, 对比, 相匹敌之物\na. 平行的, 相似的\nvt. 与...平行, 与...相似, 相比, 使平行\n[计] 并联; 并行",
+      "en": "n. (mathematics) one of a set of parallel geometric figures (parallel lines or planes)\nv. be parallel to\nv. make or place parallel to something\na. being everywhere equidistant and not intersecting",
+      "phonetic": "'pærәlel",
+      "forms": [
+        "parallel"
+      ],
+      "example": "That parallel movement in traffic and sales matters.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "If nearby stores were simply selling less to the same number of shoppers, we would expect spending per visit to fall.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "overcome",
+      "headword": "overcome",
+      "kind": "word",
+      "zh": "vt. 战胜, 克服, 胜过\nvi. 得胜",
+      "en": "v. get on top of; deal with successfully",
+      "phonetic": ".әuvә'kʌm",
+      "forms": [
+        "overcome"
+      ],
+      "example": "In short, competitive relief didn’t overcome the loss of traffic that would have been generated by trips to the anchor store.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "equally",
+      "headword": "equally",
+      "kind": "word",
+      "zh": "adv. 相等地, 同样地, 平等地",
+      "en": "r. to the same degree (often followed by `as')",
+      "phonetic": "'i:kwәli",
+      "forms": [
+        "equally"
+      ],
+      "example": "But not all nearby businesses were affected equally.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "substitutes",
+      "headword": "substitute",
+      "kind": "word",
+      "zh": "n. 代理, 代理人, 代用品, 代替者, 代替物\nvt. 代替\nvi. 替代, 取代, 代用\na. 代替的, 代用的, 代用品的\n[计] 置换; 替代",
+      "en": "n. a person or thing that takes or can take the place of another\nn. an athlete who plays only when a starter on the team is replaced\nv. put in the place of another; switch seemingly equivalent items\nv. be a substitute",
+      "phonetic": "'sʌbstitju:t",
+      "forms": [
+        "substitutes"
+      ],
+      "example": "That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "displaced",
+      "headword": "displace",
+      "kind": "word",
+      "zh": "vt. 移置, 替换, 转移",
+      "en": "v. cause to move, usually with force or pressure\nv. terminate the employment of; discharge from an office or position",
+      "phonetic": "dis'pleis",
+      "forms": [
+        "displaced"
+      ],
+      "example": "That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "well-known",
+      "headword": "well-known",
+      "kind": "word",
+      "zh": "a. 众所周知的, 有名的",
+      "en": "s. widely or fully known",
+      "phonetic": "",
+      "forms": [
+        "well-known"
+      ],
+      "example": "Well-known brand stores also fared relatively better than unbranded businesses.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "brand",
+      "headword": "brand",
+      "kind": "word",
+      "zh": "n. 商标, 牌子, 烙印\nvt. 打烙印于",
+      "en": "n. a recognizable kind\nn. identification mark on skin, made by burning\nn. a piece of wood that has been burned or is burning\nv. burn with a branding iron to indicate ownership; of animals",
+      "phonetic": "brænd",
+      "forms": [
+        "brand",
+        "brands"
+      ],
+      "example": "Well-known brand stores also fared relatively better than unbranded businesses.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "fared",
+      "headword": "fare",
+      "kind": "word",
+      "zh": "n. 费用, 旅客, 食物\nvi. 进展, 进步, 经营, 过活",
+      "en": "n. the sum charged for riding in a public conveyance\nn. a paying (taxi) passenger\nn. the food and drink that are regularly served or consumed\nv. eat well",
+      "phonetic": "fєә",
+      "forms": [
+        "fared"
+      ],
+      "example": "Well-known brand stores also fared relatively better than unbranded businesses.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "Well-known brand stores also fared relatively better than unbranded businesses.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "unbranded",
+      "headword": "unbranded",
+      "kind": "word",
+      "zh": "a. 未打上烙印的,无物主(姓名或标记)的",
+      "en": "a. not marked with a brand",
+      "phonetic": ",ʌn'brændid",
+      "forms": [
+        "unbranded"
+      ],
+      "example": "Well-known brand stores also fared relatively better than unbranded businesses.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "recognizable",
+      "headword": "recognizable",
+      "kind": "word",
+      "zh": "a. 可认识的, 可承认的, 可识别的\n[法] 可被认出的, 可辩认的, 可被承认的",
+      "en": "s. easily perceived; easy to become aware of\ns. capable of being recognized",
+      "phonetic": "'rekәgnaizәbl",
+      "forms": [
+        "recognizable"
+      ],
+      "example": "A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "independent",
+      "headword": "independent",
+      "kind": "word",
+      "zh": "n. 独立自主者, 无党派者\na. 独立的, 有主见的, 不须依赖的, 不受约束的",
+      "en": "a. free from external control and constraint\na. (of a clause) capable of standing syntactically alone as a complete sentence\ns. not controlled by a party or interest group",
+      "phonetic": ".indi'pendәnt",
+      "forms": [
+        "independent"
+      ],
+      "example": "A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "reliance",
+      "headword": "reliance",
+      "kind": "word",
+      "zh": "n. 信任, 信赖, 受信赖的人(或事)\n[法] 信任, 信赖, 信心",
+      "en": "n. certainty based on past experience\nn. the state of relying on something",
+      "phonetic": "ri'laiәns",
+      "forms": [
+        "reliance"
+      ],
+      "example": "A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "reliance on",
+      "headword": "reliance on",
+      "kind": "phrase",
+      "zh": "对……的依赖",
+      "en": "dependence on something",
+      "forms": [
+        "reliance on"
+      ],
+      "example": "A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor.",
+      "paragraph": 18,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v97",
+      "term": "surrounded",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounded",
+        "surrounding"
+      ],
+      "example": "And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "outlets",
+      "headword": "outlet",
+      "kind": "word",
+      "zh": "n. 出口, 发泄方法, 市场\n[医] 出口",
+      "en": "n a place of business for retailing goods\nn receptacle providing a place in a wiring system where current can be taken to run electrical devices\nn an opening that permits escape or release\nn activity that frees or expresses creative energy or emotion",
+      "phonetic": "'autlet",
+      "forms": [
+        "outlets"
+      ],
+      "example": "And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "favorable",
+      "headword": "favorable",
+      "kind": "word",
+      "zh": "a. 有利的, 赞许的, 良好的",
+      "en": "a. encouraging or approving or pleasing\na. (of winds or weather) tending to promote or facilitate\ns. occurring at a convenient or suitable time",
+      "phonetic": "'feivәrәbl",
+      "forms": [
+        "favorable"
+      ],
+      "example": "And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "digital",
+      "headword": "digital",
+      "kind": "word",
+      "zh": "a. 数字显示的, 数字的\nn. 数字仪表, 数字式电子表(或时钟)\n[计] 数字, 数字式",
+      "en": "a. displaying numbers rather than scale positions\na. relating to or performed with the fingers\na. of a circuit or device that represents magnitudes in digits",
+      "phonetic": "'didʒitәl",
+      "forms": [
+        "digital"
+      ],
+      "example": "Another important factor is digital reach. Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores. We found that stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "engages",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engages"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "depends",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depends"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "physically",
+      "headword": "physically",
+      "kind": "word",
+      "zh": "adv. 按自然规律, 完全地, 实际上, 真正地, 身体上地",
+      "en": "r. in accord with physical laws",
+      "phonetic": "'fizikli",
+      "forms": [
+        "physically"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "traveling",
+      "headword": "traveling",
+      "kind": "word",
+      "zh": "a. 旅行的, 旅行用的, 移动的",
+      "en": "n the act of going from one place to another\nv change location; move, travel, or proceed, also metaphorically\nv undertake a journey or trip\nv make a trip for pleasure\nv travel upon or across\nv undergo transportation as in a vehicle\nv travel from place to place, as for the purpose of finding work, preaching, or acting as a judge",
+      "phonetic": "'trævliŋ",
+      "forms": [
+        "traveling"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "cluster",
+      "headword": "cluster",
+      "kind": "word",
+      "zh": "n. 串, 丛, 群, 簇\nvi. 成串, 丛生\nvt. 使聚集\n[计] 簇",
+      "en": "v. come together as in a cluster or flock",
+      "phonetic": "'klʌstә",
+      "forms": [
+        "cluster"
+      ],
+      "example": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "severe",
+      "headword": "severe",
+      "kind": "word",
+      "zh": "a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的\n[法] 严厉的, 苛刻的, 严重的",
+      "en": "s. intensely or extremely bad or unpleasant in degree or quality\ns. unsparing and uncompromising in discipline or judgment\ns. very bad in degree or extent",
+      "phonetic": "si'viә",
+      "forms": [
+        "severe"
+      ],
+      "example": "We found that stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "expanding",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanding"
+      ],
+      "example": "These patterns suggest that managers have options and can act: Opening another location or expanding online sales can protect a retailer from an anchor closure.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "shock",
+      "headword": "shock",
+      "kind": "word",
+      "zh": "n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗\nvt. 使震动, 使休克, 使受电击, 震惊得\nvi. 震动, 吓人\na. 蓬乱浓密的",
+      "en": "n. the violent interaction of individuals or groups entering into combat\nn. (pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor\nn. an instance of agitation of the earth's crust\nn. an unpleasant or disappointing surprise",
+      "phonetic": "ʃɒk",
+      "forms": [
+        "shock"
+      ],
+      "example": "Why a store closing can become a neighborhood shock",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "primarily",
+      "headword": "primarily",
+      "kind": "word",
+      "zh": "adv. 主要地, 首先地",
+      "en": "r. of primary import",
+      "phonetic": "'praimәrili",
+      "forms": [
+        "primarily"
+      ],
+      "example": "A large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "portfolio",
+      "headword": "portfolio",
+      "kind": "word",
+      "zh": "n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑\n[法] 公文包, 文件夹, 阁员职务",
+      "en": "n. a large, flat, thin case for carrying loose papers or drawings or maps; usually leather\nn. a set of pieces of creative work collected to be shown to potential customers or employers\nn. a list of the financial assets held by an individual or a bank or other financial institution\nn. the role of the head of a government department",
+      "phonetic": "pɒ:t'fәuliәu",
+      "forms": [
+        "portfolio"
+      ],
+      "example": "A large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "calculation",
+      "headword": "calculation",
+      "kind": "word",
+      "zh": "n. 计算, 考虑, 计算的结果\n[经] 计算",
+      "en": "n. the procedure of calculating; determining something by mathematical or logical methods\nn. problem solving that involves numbers or quantities\nn. planning something carefully and intentionally",
+      "phonetic": ".kælkju'leiʃәn",
+      "forms": [
+        "calculation"
+      ],
+      "example": "But the surrounding businesses face a different calculation.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "weak",
+      "headword": "weak",
+      "kind": "word",
+      "zh": "a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的\n[经] 疲软的",
+      "en": "a. wanting in physical strength\ns. tending downward in price\ns. deficient or lacking in some skill\ns. (used of verbs) having standard (or regular) inflection",
+      "phonetic": "wi:k",
+      "forms": [
+        "weak"
+      ],
+      "example": "A location that looks weak from the anchor retailer’s perspective can still drive valuable traffic to neighboring stores.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "perspective",
+      "headword": "perspective",
+      "kind": "word",
+      "zh": "n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图\na. 透视的, 透视法的\n[计] 透视",
+      "en": "n. the appearance of things relative to one another as determined by their distance from the viewer",
+      "phonetic": "pә'spektiv",
+      "forms": [
+        "perspective"
+      ],
+      "example": "A location that looks weak from the anchor retailer’s perspective can still drive valuable traffic to neighboring stores.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "valuable",
+      "headword": "valuable",
+      "kind": "word",
+      "zh": "a. 有价值的, 贵重的, 宝贵的, 可估价的\n[经] 有价值的, 可估价的, 贵重的",
+      "en": "n. something of value\na. having great material or monetary value especially for use or exchange\ns. having worth or merit or value",
+      "phonetic": "'væljuәbl",
+      "forms": [
+        "valuable"
+      ],
+      "example": "A location that looks weak from the anchor retailer’s perspective can still drive valuable traffic to neighboring stores.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "externality",
+      "headword": "externality",
+      "kind": "word",
+      "zh": "n. 外形, 外在性",
+      "en": "n the quality or state of being outside or directed toward or relating to the outside or exterior",
+      "phonetic": ".ekstә:'næliti",
+      "forms": [
+        "externality"
+      ],
+      "example": "That creates what economists call an externality – a positive or negative effect of an economic activity that impacts other parties even though market prices don’t reflect it.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "negative",
+      "headword": "negative",
+      "kind": "word",
+      "zh": "n. 否定, 否定语, 负数, 底片\na. 否定的, 消极的, 负的, 阴性的\nn. 负数, 负值\n[计] 负数, 负值",
+      "en": "n. a reply of denial\nn. a piece of photographic film showing an image with light and shade or colors reversed\na. characterized by or displaying negation or denial or opposition or resistance; having no positive features\na. expressing or consisting of a negation or refusal or denial",
+      "phonetic": "'negәtiv",
+      "forms": [
+        "negative"
+      ],
+      "example": "That creates what economists call an externality – a positive or negative effect of an economic activity that impacts other parties even though market prices don’t reflect it.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "profits",
+      "headword": "profit",
+      "kind": "word",
+      "zh": "n. 利润, 赢利, 利益\nvi. 有益, 获利, 赚钱\nvt. 有益于",
+      "en": "n. the advantageous quality of being beneficial\nv. derive a benefit from\nv. make a profit; gain money or materially",
+      "phonetic": "'prɒfit",
+      "forms": [
+        "profits"
+      ],
+      "example": "In this case, some of the economic value produced by an anchor sits outside the anchor’s own sales and profits.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "departure",
+      "headword": "departure",
+      "kind": "word",
+      "zh": "n. 离开, 出发, 违背, 偏离\n[经] 启运",
+      "en": "n. the act of departing",
+      "phonetic": "di'pɑ:tʃә",
+      "forms": [
+        "departure"
+      ],
+      "example": "For neighboring businesses, the lesson is not to assume that a powerful competitor’s departure will create a windfall.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "windfall",
+      "headword": "windfall",
+      "kind": "word",
+      "zh": "n. 被风吹落的果子, 横财\n[经] 意外损失",
+      "en": "n. fruit that has fallen from the tree",
+      "phonetic": "'windfɒ:l",
+      "forms": [
+        "windfall"
+      ],
+      "example": "For neighboring businesses, the lesson is not to assume that a powerful competitor’s departure will create a windfall.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "destination",
+      "headword": "destination",
+      "kind": "word",
+      "zh": "n. 目的地, 目标, 目的\n[计] 目的文件, 目的单元",
+      "en": "n. the ultimate goal for which something is done",
+      "phonetic": ".desti'neiʃәn",
+      "forms": [
+        "destination"
+      ],
+      "example": "Rather, managers need to know how many customers arrive because of the broader shopping destination, not merely how much their store’s products overlap with the anchor’s.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "merely",
+      "headword": "merely",
+      "kind": "word",
+      "zh": "adv. 只",
+      "en": "r. and nothing more",
+      "phonetic": "'miәli",
+      "forms": [
+        "merely"
+      ],
+      "example": "Rather, managers need to know how many customers arrive because of the broader shopping destination, not merely how much their store’s products overlap with the anchor’s.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "overlap",
+      "headword": "overlap",
+      "kind": "word",
+      "zh": "n. 重叠, 重复, 部分的同时发生\nvt. 重叠, 重复, 与...同时发生\nvi. 迭盖, 部分的同时发生\n[计] 重叠",
+      "en": "n. a representation of common ground between theories or phenomena\nn. the property of partial coincidence in time\nv. coincide partially or wholly\nv. extend over and cover a part of",
+      "phonetic": ".әuvә'læp",
+      "forms": [
+        "overlap"
+      ],
+      "example": "Rather, managers need to know how many customers arrive because of the broader shopping destination, not merely how much their store’s products overlap with the anchor’s.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "meanwhile",
+      "headword": "meanwhile",
+      "kind": "word",
+      "zh": "n. 其时, 其间\nadv. 同时, 于此时",
+      "en": "r. at the same time but in another place\nr. during the intervening time",
+      "phonetic": "'mi:nhwail",
+      "forms": [
+        "meanwhile"
+      ],
+      "example": "Meanwhile, commercial property owners should treat losing an anchor as more than risking an empty storefront.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "empty",
+      "headword": "empty",
+      "kind": "word",
+      "zh": "a. 空的, 空虚的, 空腹的, 空洞的\nn. 空的东西, 空车\nvt. 倒空, 使变空, 使排出\nvi. 流空\n[计] 空",
+      "en": "n. a container that has been emptied\nv. make void or empty of contents\nv. become empty or void of its content\nv. remove",
+      "phonetic": "'empti",
+      "forms": [
+        "empty"
+      ],
+      "example": "Meanwhile, commercial property owners should treat losing an anchor as more than risking an empty storefront.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "storefront",
+      "headword": "storefront",
+      "kind": "word",
+      "zh": "n. 店面",
+      "en": "n the front side of a store facing the street; usually contains display windows",
+      "phonetic": "'stɒ:frʌnt",
+      "forms": [
+        "storefront"
+      ],
+      "example": "Meanwhile, commercial property owners should treat losing an anchor as more than risking an empty storefront.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "replacement",
+      "headword": "replacement",
+      "kind": "word",
+      "zh": "n. 归还, 更换, 代替者\n[医] 复位, 置换",
+      "en": "n. the act of furnishing an equivalent person or thing in the place of another",
+      "phonetic": "ri'pleismәnt",
+      "forms": [
+        "replacement"
+      ],
+      "example": "Replacing the tenant quickly matters, but so does finding a replacement that can generate trips to the area.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "retail",
+      "headword": "retail",
+      "kind": "word",
+      "zh": "n. 零售\na. 零售的\nvt. 零售, 详述, 传播\nvi. 零售",
+      "en": "n. the selling of goods to consumers; usually in small quantities and not for resale\nv. be sold at the retail level\nv. sell on the retail market\nr. at a retail price",
+      "phonetic": "'ri:teil",
+      "forms": [
+        "retail"
+      ],
+      "example": "Finally, local governments and economic development organizations need to understand that a major retail closure may affect businesses with no contractual relationship to the closed store.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "contractual",
+      "headword": "contractual",
+      "kind": "word",
+      "zh": "a. 契约的\n[经] 契约的, 契约性的",
+      "en": "a. relating to or part of a binding legal agreement",
+      "phonetic": "kәn'træktʃuәl",
+      "forms": [
+        "contractual"
+      ],
+      "example": "Finally, local governments and economic development organizations need to understand that a major retail closure may affect businesses with no contractual relationship to the closed store.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "extend",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extend"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "vacant",
+      "headword": "vacant",
+      "kind": "word",
+      "zh": "a. 空的, 空白的, 空虚的, 空闲的, 茫然的, 空缺的\n[法] 空的, 空虚的, 闲暇的",
+      "en": "s. void of thought or knowledge\ns. without an occupant or incumbent",
+      "phonetic": "'veikәnt",
+      "forms": [
+        "vacant"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "speeding",
+      "headword": "speed",
+      "kind": "word",
+      "zh": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+      "en": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity",
+      "phonetic": "spi:d",
+      "forms": [
+        "speeding"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "redevelopment",
+      "headword": "redevelopment",
+      "kind": "word",
+      "zh": "n. 再开发；重点恢复",
+      "en": "n the act of improving by renewing and restoring",
+      "phonetic": "",
+      "forms": [
+        "redevelopment"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "coordinating",
+      "headword": "coordinate",
+      "kind": "word",
+      "zh": "n. 同等的人(或物), 坐标\na. 同等的, 并列的\nv. (使)协调",
+      "en": "n. a number that identifies a position relative to an axis\nv. bring into common action, movement, or condition\nv. be co-ordinated\ns. of equal importance, rank, or degree",
+      "phonetic": "kәu'ɒ:dineit",
+      "forms": [
+        "coordinating"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "local businesses",
+      "headword": "local businesses",
+      "kind": "phrase",
+      "zh": "当地企业",
+      "en": "businesses operating in a particular community",
+      "forms": [
+        "local businesses"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v137",
+      "term": "restores",
+      "headword": "restore",
+      "kind": "word",
+      "zh": "vt. 回复, 恢复, 归还, 修补, 修复\nvt. 还原\nvi. 还原\n[计] 还原; DOS外部命令:从备份盘中取回文件",
+      "en": "v. return to its original or usable and functioning condition\nv. give or bring back\nv. bring back into original existence, use, function, or position",
+      "phonetic": "ri'stɒ:",
+      "forms": [
+        "restores"
+      ],
+      "example": "So their responses should extend beyond the vacant property itself – whether it’s speeding redevelopment, coordinating with local businesses and property owners to improve shoppers’ access, or helping create a new destination that restores shopper traffic.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      13,
+      22
+    ],
+    "wordBank": [
+      "cluster",
+      "fewer",
+      "outlets",
+      "demand",
+      "trend",
+      "nearby",
+      "calculation",
+      "competed",
+      "anchor",
+      "retailer"
+    ],
+    "parts": [
+      {
+        "text": "We combined closure dates with monthly store-level shopper traffic and spending data. For each closed Walmart, we identified "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " non-Walmart businesses and compared their post-closure performance with that of businesses near Walmarts that stayed open.\n\nWe discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " in both over time. Specifically, following a Walmart’s closure, nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter. The decline keeps getting worse, reaching about 17% in the ninth month and 20% a year after the "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " store closes.\n\nThat parallel movement in traffic and sales matters. If nearby stores were simply selling less to the same number of shoppers, we would expect spending per visit to fall. Instead, what was also happening is that "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " shoppers visited nearby businesses after the anchor disappeared.\n\nIn short, competitive relief didn’t overcome the loss of traffic that would have been generated by trips to the anchor store. But not all nearby businesses were affected equally.\n\nStores that "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " more directly with Walmart had better post-closure sales than noncompeting stores. That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ".\n\nWell-known brand stores also fared relatively better than unbranded businesses. A recognizable brand can give shoppers an independent reason to visit, reducing reliance on traffic generated by the nearby anchor. And stores surrounded by more "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " with its own brands also had more favorable post-closure sales.\n\nAnother important factor is digital reach. Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " of stores. We found that stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed.\n\nThese patterns suggest that managers have options and can act: Opening another location or expanding online sales can protect a "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " from an anchor closure.\n\nWhy a store closing can become a neighborhood shock\n\nA large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio. But the surrounding businesses face a different "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": ". A location that looks weak from the anchor retailer’s perspective can still drive valuable traffic to neighboring stores."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "nearby",
+        "vocabularyId": "v19",
+        "explanation": "原文此处使用 nearby（nearby）。结合上下文辨认词义与词形。",
+        "evidence": "For each closed Walmart, we identified nearby non-Walmart businesses and compared their post-closure performance with that of businesses near Walmarts that stayed open.",
+        "paragraph": 13
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "trend",
+        "vocabularyId": "v78",
+        "explanation": "原文此处使用 trend（trend）。结合上下文辨认词义与词形。",
+        "evidence": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
+        "paragraph": 14
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "anchor",
+        "vocabularyId": "v36",
+        "explanation": "原文此处使用 anchor（anchor）。结合上下文辨认词义与词形。",
+        "evidence": "The decline keeps getting worse, reaching about 17% in the ninth month and 20% a year after the anchor store closes.",
+        "paragraph": 14
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "fewer",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 fewer（fewer）。结合上下文辨认词义与词形。",
+        "evidence": "Instead, what was also happening is that fewer shoppers visited nearby businesses after the anchor disappeared.",
+        "paragraph": 15
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "competed",
+        "vocabularyId": "v34",
+        "explanation": "原文此处使用 competed（compete）。结合上下文辨认词义与词形。",
+        "evidence": "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores.",
+        "paragraph": 17
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "demand",
+        "vocabularyId": "v69",
+        "explanation": "原文此处使用 demand（demand）。结合上下文辨认词义与词形。",
+        "evidence": "That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand.",
+        "paragraph": 17
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "outlets",
+        "vocabularyId": "v98",
+        "explanation": "原文此处使用 outlets（outlet）。结合上下文辨认词义与词形。",
+        "evidence": "And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
+        "paragraph": 18
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "cluster",
+        "vocabularyId": "v107",
+        "explanation": "原文此处使用 cluster（cluster）。结合上下文辨认词义与词形。",
+        "evidence": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
+        "paragraph": 19
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "retailer",
+        "vocabularyId": "v33",
+        "explanation": "原文此处使用 retailer（retailer）。结合上下文辨认词义与词形。",
+        "evidence": "These patterns suggest that managers have options and can act: Opening another location or expanding online sales can protect a retailer from an anchor closure.",
+        "paragraph": 20
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "calculation",
+        "vocabularyId": "v113",
+        "explanation": "原文此处使用 calculation（calculation）。结合上下文辨认词义与词形。",
+        "evidence": "But the surrounding businesses face a different calculation.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "State responses to childcare funding cuts offer lessons for future policy.",
+          "Fireworks create environmental and economic costs that outlast the celebrations.",
+          "The closure of a large retailer can change the fortunes of surrounding businesses.",
+          "Consumers' ideas about organic food do not always match what labels and standards communicate."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Economists call this kind of benefit an agglomeration effect: Businesses can gain from being near other businesses because the location itself attracts shoppers.",
+        "paragraph": 8
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How can a large retailer benefit a shopping area?",
+        "options": [
+          "It prevents shoppers from entering nearby businesses.",
+          "It removes all reasons to travel to the area.",
+          "It gives people a reason to visit, supporting surrounding activity.",
+          "It guarantees that no other store will ever compete."
+        ],
+        "answer": 2,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "But it can also act as an anchor, giving people a reason to travel to a shopping area in the first place.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.",
+          "Finally, local governments and economic development organizations need to understand that a major retail closure may affect businesses with no contractual relationship to the closed store.",
+          "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+          "Specifically, following a Walmart’s closure, nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter."
+        ],
+        "answer": 2,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "This means a store can capture a larger share of local consumer demand after Walmart leaves and still end up worse off if the total pool of shoppers arriving in the area shrinks enough.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores.”",
+        "options": [
+          "Paragraph 25",
+          "Paragraph 7",
+          "Paragraph 17",
+          "Paragraph 11"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“A large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio.”",
+        "options": [
+          "Paragraph 25",
+          "Paragraph 2",
+          "Paragraph 24",
+          "Paragraph 22"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 22 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "A large retailer decides whether to keep a store open based primarily on what makes sense for its own portfolio.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "revision": "e183362c231d84ebed28be7b60b03e5979be54f9e74ba8cbc723f6b4a161c3d0"
+}

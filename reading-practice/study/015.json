@@ -1,0 +1,2291 @@
+{
+  "schemaVersion": 1,
+  "folder": "015",
+  "articleSha256": "74f08f3a0dc8b9ec82a4e393504e6659837b8a0b02242ff8aced779b991cc25f",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "atom",
+      "headword": "atom",
+      "kind": "word",
+      "zh": "n. 原子, 核能, 微粒, 微量\n[计] 原子",
+      "en": "n. (physics and chemistry) the smallest component of an element having the chemical properties of the element\nn. (nontechnical usage) a tiny piece of anything",
+      "phonetic": "'ætәm",
+      "forms": [
+        "atom"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "biology",
+      "headword": "biology",
+      "kind": "word",
+      "zh": "n. 生物学\n[化] 生物; 生物学",
+      "en": "n. the science that studies living organisms\nn. characteristic life processes and phenomena of living organisms",
+      "phonetic": "bai'ɒlәdʒi",
+      "forms": [
+        "biology"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "chemistry",
+      "headword": "chemistry",
+      "kind": "word",
+      "zh": "n. 化学, 化学过程\n[化] 化学",
+      "en": "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions\nn. the chemical composition and properties of a substance or object\nn. the way two individuals relate to each other",
+      "phonetic": "'kemistri",
+      "forms": [
+        "chemistry"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "depends",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depends"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass",
+        "masses"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "electron",
+      "headword": "electron",
+      "kind": "word",
+      "zh": "n. 电子\n[化] 电子",
+      "en": "n. an elementary particle with negative charge",
+      "phonetic": "i'lektrɒn",
+      "forms": [
+        "electron",
+        "electrons"
+      ],
+      "example": "The behaviour of every atom, and so all of biology and chemistry as we know them, depends on the mass of the electron.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "fundamental",
+      "headword": "fundamental",
+      "kind": "word",
+      "zh": "n. 基本原理, 原则, 基波\na. 基本的, 重要的, 原音的",
+      "en": "n. any factor that could be considered important to the understanding of a particular business\nn. the lowest tone of a harmonic series\ns. being or involving basic facts or principles\ns. far-reaching and thoroughgoing in effect especially on the nature of something",
+      "phonetic": ".fʌndә'mentәl",
+      "forms": [
+        "fundamental"
+      ],
+      "example": "Electrons are one of the fundamental particles (the very smallest building blocks of nature) that make up the atom.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "particles",
+      "headword": "particle",
+      "kind": "word",
+      "zh": "n. 颗粒, 粒子, 质点, 极小量\n[化] 粒子; 质点",
+      "en": "n. a body having finite mass and internal structure but negligible dimensions\nn. a function word that can be used in English to form phrasal verbs",
+      "phonetic": "'pɑ:tikl",
+      "forms": [
+        "particles",
+        "particle"
+      ],
+      "example": "Electrons are one of the fundamental particles (the very smallest building blocks of nature) that make up the atom.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "blocks",
+      "headword": "block",
+      "kind": "word",
+      "zh": "n. 街区, 木块, 石块, 块\nvt. 阻塞, 封锁, 使成块状\n[计] 块, 数据块",
+      "en": "n. a solid piece of something (usually having flat rectangular sides)\nn. a rectangular area in a city surrounded by streets and usually containing several buildings\nn. a three-dimensional shape with six square or rectangular sides\nn. a number or quantity of related things dealt with as a unit",
+      "phonetic": "blɒk",
+      "forms": [
+        "blocks"
+      ],
+      "example": "Electrons are one of the fundamental particles (the very smallest building blocks of nature) that make up the atom.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "orbit",
+      "headword": "orbit",
+      "kind": "word",
+      "zh": "n. 轨道, 常轨, 眼眶\nvt. 绕...轨道而行\nvi. 进入轨道, 盘旋",
+      "en": "n. the (usually elliptical) path described by one celestial body in its revolution about another\nn. the path of an electron around the nucleus of an atom",
+      "phonetic": "'ɒ:bit",
+      "forms": [
+        "orbit"
+      ],
+      "example": "They orbit the atom’s central nucleus, which is made up of proton and neutron particles.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "nucleus",
+      "headword": "nucleus",
+      "kind": "word",
+      "zh": "n. 核心, 核子, 原子核, 起点\n[计] 核心程序",
+      "en": "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction\nn. the positively charged dense center of an atom\nn. (astronomy) the center of the head of a comet; consists of small solid particles of ice and frozen gas that vaporizes on approaching the sun to form the coma and tail\nn. any histologically identifiable mass of neural cell bodies in the brain or spinal cord",
+      "phonetic": "'nju:kliәs",
+      "forms": [
+        "nucleus"
+      ],
+      "example": "They orbit the atom’s central nucleus, which is made up of proton and neutron particles.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "proton",
+      "headword": "proton",
+      "kind": "word",
+      "zh": "n. 质子\n[化] 质子",
+      "en": "n. a stable particle with positive charge equal to the negative charge of an electron",
+      "phonetic": "'prәutɒn",
+      "forms": [
+        "proton",
+        "protons"
+      ],
+      "example": "They orbit the atom’s central nucleus, which is made up of proton and neutron particles.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "neutron",
+      "headword": "neutron",
+      "kind": "word",
+      "zh": "n. 中子\n[化] 中子",
+      "en": "n. an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleus",
+      "phonetic": "'nju:trɒn",
+      "forms": [
+        "neutron",
+        "neutrons"
+      ],
+      "example": "They orbit the atom’s central nucleus, which is made up of proton and neutron particles.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "contributing",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contributing"
+      ],
+      "example": "The mass of the electron is very small, contributing little to the mass of the atom, but it is vital for determining an atom’s size.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "The mass of the electron is very small, contributing little to the mass of the atom, but it is vital for determining an atom’s size.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "significantly",
+      "headword": "significantly",
+      "kind": "word",
+      "zh": "adv. 值得注目地；意味深长地",
+      "en": "r. in a statistically significant way\nr. in a significant manner",
+      "phonetic": "",
+      "forms": [
+        "significantly"
+      ],
+      "example": "If the mass of the electron was made significantly lighter or heavier, it would affect not only the size of the atom, but also the way that chemistry works throughout the universe – potentially making biology impossible.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "universe",
+      "headword": "universe",
+      "kind": "word",
+      "zh": "n. 宇宙, 星系, (思想等)范围",
+      "en": "n. everything that exists anywhere\nn. everything stated or assumed in a given discussion",
+      "phonetic": "'ju:nivә:s",
+      "forms": [
+        "universe"
+      ],
+      "example": "If the mass of the electron was made significantly lighter or heavier, it would affect not only the size of the atom, but also the way that chemistry works throughout the universe – potentially making biology impossible.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "If the mass of the electron was made significantly lighter or heavier, it would affect not only the size of the atom, but also the way that chemistry works throughout the universe – potentially making biology impossible.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "impossible",
+      "headword": "impossible",
+      "kind": "word",
+      "zh": "a. 不可能的, 难以置信的, 令人无法忍受的",
+      "en": "n. something that cannot be done\na. not capable of occurring or being accomplished or dealt with\ns. totally unlikely\ns. used of persons or their behavior",
+      "phonetic": "im'pɒsәbl",
+      "forms": [
+        "impossible"
+      ],
+      "example": "If the mass of the electron was made significantly lighter or heavier, it would affect not only the size of the atom, but also the way that chemistry works throughout the universe – potentially making biology impossible.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "physicists",
+      "headword": "physicist",
+      "kind": "word",
+      "zh": "n. 物理学家, 机械唯物论者, 自然科学家\n[医] 菲西克氏手术(虹膜圆片切除)",
+      "en": "n. a scientist trained in physics",
+      "phonetic": "'fizisist",
+      "forms": [
+        "physicists",
+        "physicist"
+      ],
+      "example": "Physicists have never confirmed how the electron acquires its mass.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "confirmed",
+      "headword": "confirm",
+      "kind": "word",
+      "zh": "vt. 证实, 确定, 批准, 使巩固\n[计] 确认",
+      "en": "v. establish or strengthen as with new evidence or facts\nv. strengthen or make more firm\nv. make more firm\nv. support a person for a position",
+      "phonetic": "kәn'fә:m",
+      "forms": [
+        "confirmed",
+        "confirm"
+      ],
+      "example": "Physicists have never confirmed how the electron acquires its mass.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "acquires",
+      "headword": "acquire",
+      "kind": "word",
+      "zh": "vt. 获得, 学到\n[电] 目标锁定",
+      "en": "v. locate (a moving entity) by means of a tracking system such as radar\nv. win something through one's efforts",
+      "phonetic": "ә'kwaiә",
+      "forms": [
+        "acquires"
+      ],
+      "example": "Physicists have never confirmed how the electron acquires its mass.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "But a proposed collider at Cern, in Geneva, could finally put that to the test.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "collider",
+      "headword": "collider",
+      "kind": "word",
+      "zh": "碰撞机",
+      "en": "n. an accelerator in which two beams of particles are forced to collide head on",
+      "phonetic": "kəˈlaɪdə(r)",
+      "forms": [
+        "collider",
+        "colliders"
+      ],
+      "example": "But a proposed collider at Cern, in Geneva, could finally put that to the test.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "cern",
+      "headword": "CERN",
+      "kind": "word",
+      "zh": "欧洲原子核研究委员会\n[计] 欧州粒子物理实验室",
+      "en": "",
+      "phonetic": "s\\\\\\\\:n",
+      "forms": [
+        "cern"
+      ],
+      "example": "But a proposed collider at Cern, in Geneva, could finally put that to the test.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "geneva",
+      "headword": "Geneva",
+      "kind": "word",
+      "zh": "n. 日内瓦, (荷兰)杜松子酒",
+      "en": "n. a city in southwestern Switzerland at the western end of Lake Geneva; it is the headquarters of various international organizations\nn. gin made in the Netherlands",
+      "phonetic": "dʒi'ni:vә",
+      "forms": [
+        "geneva"
+      ],
+      "example": "But a proposed collider at Cern, in Geneva, could finally put that to the test.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "span",
+      "headword": "span",
+      "kind": "word",
+      "zh": "n. 指距, 全长, 跨距, 一段时间, 小范围\nvt. 以手指测量, 跨越, 架设, 持续",
+      "en": "n. the complete duration of something\nn. the distance or interval between two points\nn. a unit of length based on the width of the expanded human hand (usually taken as 9 inches)",
+      "phonetic": "spæn",
+      "forms": [
+        "span"
+      ],
+      "example": "The masses of fundamental particles span an enormous range.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "The masses of fundamental particles span an enormous range.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "fundamental physics",
+      "headword": "fundamental physics",
+      "kind": "phrase",
+      "zh": "基础物理学",
+      "en": "the study of basic laws and constituents of nature",
+      "forms": [
+        "fundamental physics"
+      ],
+      "example": "The current best theory to explain fundamental physics, known as the Standard Model, offers no explanation for this.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "physics",
+      "headword": "physics",
+      "kind": "word",
+      "zh": "n. 物理学, 物理过程, 物理现象\n[化] 物理; 物理学",
+      "en": "n. the science of matter and energy and their interactions\nn. the physical properties, phenomena, and laws of something",
+      "phonetic": "'fiziks",
+      "forms": [
+        "physics"
+      ],
+      "example": "The current best theory to explain fundamental physics, known as the Standard Model, offers no explanation for this.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "The current best theory to explain fundamental physics, known as the Standard Model, offers no explanation for this.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "origin",
+      "headword": "origin",
+      "kind": "word",
+      "zh": "n. 起源, 起因, 出身, 开端\n[计] 原点; 起始地址; 信件来源的相关数据",
+      "en": "n. properties attributable to your ancestry\nn. an event that is a beginning; a first part or stage of subsequent events\nn. the point of intersection of coordinate axes; where the values of the coordinates are all zero\nn. the source of something's existence or from which it derives or is derived",
+      "phonetic": "'ɒridʒin",
+      "forms": [
+        "origin"
+      ],
+      "example": "So testing the origin of particle masses offers a crucial check on this theory.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "crucial",
+      "headword": "crucial",
+      "kind": "word",
+      "zh": "a. 决定性的, 重要的, 严厉的\n[医] 十字形的; 决断的, 定局的",
+      "en": "a. of extreme importance; vital to the resolution of a crisis\ns. having crucial relevance",
+      "phonetic": "'kru:ʃәl",
+      "forms": [
+        "crucial"
+      ],
+      "example": "So testing the origin of particle masses offers a crucial check on this theory.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "It could also point researchers towards new discoveries in physics.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "discoveries",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discoveries",
+        "discovery"
+      ],
+      "example": "It could also point researchers towards new discoveries in physics.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "peter",
+      "headword": "peter",
+      "kind": "word",
+      "zh": "vi. 逐渐消失, 逐渐减少",
+      "en": "n. disciple of Jesus and leader of the Apostles; regarded by Catholics as the vicar of Christ on earth and first Pope",
+      "phonetic": "'pi:tә",
+      "forms": [
+        "peter"
+      ],
+      "example": "In 1964, the Edinburgh-based physicist Peter Higgs and fellow researchers proposed that fundamental particles obtain their mass by interacting with a new field.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "fellow",
+      "headword": "fellow",
+      "kind": "word",
+      "zh": "n. 男人, 朋友, 同事\na. 同伴的, 同事的, 同道的",
+      "en": "n. a member of a learned society\nn. an informal form of address for a man",
+      "phonetic": "'felәu",
+      "forms": [
+        "fellow"
+      ],
+      "example": "In 1964, the Edinburgh-based physicist Peter Higgs and fellow researchers proposed that fundamental particles obtain their mass by interacting with a new field.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "obtain",
+      "headword": "obtain",
+      "kind": "word",
+      "zh": "vt. 获得, 达到\nvi. 流行, 得到公认",
+      "en": "v. come into possession of",
+      "phonetic": "әb'tein",
+      "forms": [
+        "obtain"
+      ],
+      "example": "In 1964, the Edinburgh-based physicist Peter Higgs and fellow researchers proposed that fundamental particles obtain their mass by interacting with a new field.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "interacting",
+      "headword": "interact",
+      "kind": "word",
+      "zh": "vi. 互相影响, 交互作用\nn. 幕间剧, 幕间休息",
+      "en": "v. act together or towards others or with others",
+      "phonetic": ".intәr'ækt",
+      "forms": [
+        "interacting",
+        "interacts"
+      ],
+      "example": "In 1964, the Edinburgh-based physicist Peter Higgs and fellow researchers proposed that fundamental particles obtain their mass by interacting with a new field.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "quantity",
+      "headword": "quantity",
+      "kind": "word",
+      "zh": "n. 量, 数量, 总量\n[计] 数量; 量",
+      "en": "n. an adequate or large amount\nn. the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
+      "phonetic": "'kwɒntәti",
+      "forms": [
+        "quantity"
+      ],
+      "example": "In physics, a field is a physical quantity that has a value assigned to each point in space and time, like the temperatures dotted across a weather map.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "assigned",
+      "headword": "assign",
+      "kind": "word",
+      "zh": "vt. 分配, 指派, 赋值\n[计] 赋值",
+      "en": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme",
+      "phonetic": "ә'sain",
+      "forms": [
+        "assigned"
+      ],
+      "example": "In physics, a field is a physical quantity that has a value assigned to each point in space and time, like the temperatures dotted across a weather map.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures"
+      ],
+      "example": "In physics, a field is a physical quantity that has a value assigned to each point in space and time, like the temperatures dotted across a weather map.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "dotted",
+      "headword": "dot",
+      "kind": "word",
+      "zh": "n. 点, 圆点, 小数点, 小东西, 嫁妆\nvt. 作小点记号, 加小点于\nvi. 打上点\n[计] 点",
+      "en": "n. the shorter of the two telegraphic signals used in Morse code\nv. scatter or intersperse like dots or studs\nv. make a dot or dots\nv. mark with a dot",
+      "phonetic": "dɒt",
+      "forms": [
+        "dotted"
+      ],
+      "example": "In physics, a field is a physical quantity that has a value assigned to each point in space and time, like the temperatures dotted across a weather map.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "In physics, a field is a physical quantity that has a value assigned to each point in space and time, like the temperatures dotted across a weather map.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "influenced",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influenced"
+      ],
+      "example": "An object interacting with a field is influenced by the field’s value at its location.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "location",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "location"
+      ],
+      "example": "An object interacting with a field is influenced by the field’s value at its location.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "interaction",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interaction",
+        "interactions"
+      ],
+      "example": "The stronger the interaction between a fundamental particle and this field, the heavier the particle will be.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "construction",
+      "headword": "construction",
+      "kind": "word",
+      "zh": "n. 建筑, 构造, 建筑物\n[化] 施工",
+      "en": "n. the act of constructing something\nn. a group of words that form a constituent of a sentence and are considered as a single unit\nn. the creation of a construct; the process of combining ideas into a congruous object of thought\nn. drawing a figure satisfying certain conditions as part of solving a problem or proving a theorem",
+      "phonetic": "kәn'strʌkʃәn",
+      "forms": [
+        "construction"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "machine",
+      "headword": "machine",
+      "kind": "word",
+      "zh": "n. 机器, 机械装置, 机构, 自动售货机, 机械般工作的人\nvt. 以机器制造",
+      "en": "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks\nn. an efficient person\nn. an intricate organization that accomplishes its goals efficiently\nn. a device for overcoming resistance at one point by applying force at some other point",
+      "phonetic": "mә'ʃi:n",
+      "forms": [
+        "machine"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "hadron",
+      "headword": "hadron",
+      "kind": "word",
+      "zh": "[化] 强子(强相互作用粒子)",
+      "en": "n. any elementary particle that interacts strongly with other particles",
+      "phonetic": "'hædrɔn",
+      "forms": [
+        "hadron"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "european",
+      "headword": "European",
+      "kind": "word",
+      "zh": "n. 欧洲人\na. 欧洲的, 欧洲人的",
+      "en": "n. a native or inhabitant of Europe\na. of or relating to or characteristic of Europe or the people of Europe",
+      "phonetic": ".juәrә'pi:әn",
+      "forms": [
+        "european"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "laboratory",
+      "headword": "laboratory",
+      "kind": "word",
+      "zh": "n. 实验室, 研究室, 化工厂\n[医] 实验室, 检验室, 化验室",
+      "en": "n a workplace for the conduct of scientific research\nn a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
+      "phonetic": "'læbrәtәri",
+      "forms": [
+        "laboratory"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "existence",
+      "headword": "existence",
+      "kind": "word",
+      "zh": "n. 存在, 生存\n[法] 存在, 存在状态, 实体",
+      "en": "n the state or fact of existing\nn everything that exists anywhere",
+      "phonetic": "ig'zistәns",
+      "forms": [
+        "existence"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "boson",
+      "headword": "boson",
+      "kind": "word",
+      "zh": "n. 玻色子\n[化] 玻色子",
+      "en": "n. any particle that obeys Bose-Einstein statistics but not the Pauli exclusion principle; all nuclei with an even mass number are bosons",
+      "phonetic": "'bәuzɒn",
+      "forms": [
+        "boson",
+        "bosons"
+      ],
+      "example": "It took nearly 50 years, and the construction of the largest machine ever built – the Large Hadron Collider at Cern, the European laboratory for particle physics – to confirm the existence of the Higgs boson.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "mechanism",
+      "headword": "mechanism",
+      "kind": "word",
+      "zh": "n. 机械, 机构, 结构, 机理, 技巧\n[化] 机理; 历程; 机构",
+      "en": "n. the atomic process that occurs during a chemical reaction\nn. the technical aspects of doing something\nn. a natural object resembling a machine in structure or function\nn. (philosophy) the philosophical theory that all phenomena can be explained in terms of physical or biological causes",
+      "phonetic": "'mekәnizm",
+      "forms": [
+        "mechanism"
+      ],
+      "example": "The discovery of this particle confirmed that nature uses the mass-generating mechanism proposed by Peter Higgs and others back in the 60s.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "momentous",
+      "headword": "momentous",
+      "kind": "word",
+      "zh": "a. 重大的, 重要的",
+      "en": "s. of very great significance",
+      "phonetic": "mәu'mentәs",
+      "forms": [
+        "momentous"
+      ],
+      "example": "This momentous achievement led to Higgs and fellow pioneering physicist François Englert sharing the 2013 Nobel Prize in Physics.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "achievement",
+      "headword": "achievement",
+      "kind": "word",
+      "zh": "n. 完成, 成就, 功业",
+      "en": "n the action of accomplishing something",
+      "phonetic": "ә'tʃi:vmәnt",
+      "forms": [
+        "achievement"
+      ],
+      "example": "This momentous achievement led to Higgs and fellow pioneering physicist François Englert sharing the 2013 Nobel Prize in Physics.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "pioneering",
+      "headword": "pioneer",
+      "kind": "word",
+      "zh": "n. 先锋, 拓荒者, 创始人\nvt. 提倡, 开辟, 开创, 倡导\nvi. 作先驱, 开路\na. 最早的, 开拓的, 先驱的, 有开拓者特点的",
+      "en": "n. someone who helps to open up a new line of research or technology or art\nn. one the first colonists or settlers in a new territory\nv. open up an area or prepare a way\nv. open up and explore a new area",
+      "phonetic": ".paiә'niә",
+      "forms": [
+        "pioneering"
+      ],
+      "example": "This momentous achievement led to Higgs and fellow pioneering physicist François Englert sharing the 2013 Nobel Prize in Physics.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "nobel",
+      "headword": "Nobel",
+      "kind": "word",
+      "zh": "n. 诺贝尔",
+      "en": "n. Swedish chemist remembered for his invention of dynamite and for the bequest that created the Nobel prizes (1833-1896)",
+      "phonetic": "'nәubel",
+      "forms": [
+        "nobel"
+      ],
+      "example": "This momentous achievement led to Higgs and fellow pioneering physicist François Englert sharing the 2013 Nobel Prize in Physics.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "prize",
+      "headword": "prize",
+      "kind": "word",
+      "zh": "n. 奖赏, 奖金, 奖品, 战利品, 捕获\na. 得奖的\nvt. 珍视, 估价, 捕获, 撬, 撬动",
+      "en": "n. something given for victory or superiority in a contest or competition or for winning a lottery\nv. hold dear",
+      "phonetic": "praiz",
+      "forms": [
+        "prize"
+      ],
+      "example": "This momentous achievement led to Higgs and fellow pioneering physicist François Englert sharing the 2013 Nobel Prize in Physics.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "combine",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combine"
+      ],
+      "example": "But they can combine to form composite particles, such as the proton and neutron that form the nucleus of an atom.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "composite",
+      "headword": "composite",
+      "kind": "word",
+      "zh": "a. 合成的, 混合成的, 菊科的\nn. 合成物, 复合材料, 菊科",
+      "en": "n. considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers\ns. consisting of separate interconnected parts\na. of or relating to or belonging to the plant family Compositae",
+      "phonetic": "kәm'pɒzit",
+      "forms": [
+        "composite"
+      ],
+      "example": "But they can combine to form composite particles, such as the proton and neutron that form the nucleus of an atom.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "But they can combine to form composite particles, such as the proton and neutron that form the nucleus of an atom.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v65",
+      "term": "twelve",
+      "headword": "twelve",
+      "kind": "word",
+      "zh": "num. 十二, 十二个",
+      "en": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units",
+      "phonetic": "twelv",
+      "forms": [
+        "twelve"
+      ],
+      "example": "The Standard Model describes twelve fundamental matter particles.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "quarks",
+      "headword": "quark",
+      "kind": "word",
+      "zh": "n. 夸克\n[化] 夸克",
+      "en": "n. (physics) hypothetical truly fundamental particle in mesons and baryons; there are supposed to be six flavors of quarks (and their antiquarks), which come in pairs; each has an electric charge of +2/3 or -1/3",
+      "phonetic": "kwɑ:k",
+      "forms": [
+        "quarks",
+        "quark"
+      ],
+      "example": "Six are called quarks and include the “up” and “down” quarks that make up protons and neutrons.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "leptons",
+      "headword": "lepton",
+      "kind": "word",
+      "zh": "n. 轻子, 雷普顿(希腊货币单位)\n[化] 轻子",
+      "en": "n. 100 lepta equal 1 drachma in Greece\nn. an elementary particle that participates in weak interactions; has a baryon number of 0",
+      "phonetic": "'leptɒn",
+      "forms": [
+        "leptons"
+      ],
+      "example": "The other six are called leptons, one of which is the electron.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "puzzling",
+      "headword": "puzzle",
+      "kind": "word",
+      "zh": "n. 难题, 迷惑\nvt. 使困惑, 使为难\nvi. 迷惑, 苦思",
+      "en": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide",
+      "phonetic": "'pʌzl",
+      "forms": [
+        "puzzling"
+      ],
+      "example": "The masses of these fundamental particles have a puzzling hierarchy.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "hierarchy",
+      "headword": "hierarchy",
+      "kind": "word",
+      "zh": "n. 等级制度, 僧侣统治, 等级体系\n[计] 分级结构; 分层结构; 新闻组, 新闻组分层",
+      "en": "n. a series of ordered groupings of people or things within a system\nn. the organization of people at different ranks in an administrative body",
+      "phonetic": "'haiәrɑ:ki",
+      "forms": [
+        "hierarchy"
+      ],
+      "example": "The masses of these fundamental particles have a puzzling hierarchy.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, the heaviest, the top quark, has a mass 300,000 times larger than the electron, and 40 times larger than the next heaviest quark.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v71",
+      "term": "explored",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explored"
+      ],
+      "example": "This is one of several reasons why particle physicists believe that there must be physics beyond the Standard Model that has not yet been explored.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "measurement",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurement",
+        "measurements"
+      ],
+      "example": "In principle, the measurement is simple: collide electrons with positrons and count the Higgs bosons produced.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "modify",
+      "headword": "modify",
+      "kind": "word",
+      "zh": "vt. 修正, 变更, 修饰, 缓和, 减轻\nvi. 被修改\n[计] 修改",
+      "en": "v. make less severe or harsh or extreme\nv. add a modifier to a constituent",
+      "phonetic": "'mɒdifai",
+      "forms": [
+        "modify"
+      ],
+      "example": "New theories could modify our picture of how fundamental particles obtain mass, making it important to use experiments to test the mechanism proposed by Higgs and others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "experiments",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiments",
+        "experiment"
+      ],
+      "example": "New theories could modify our picture of how fundamental particles obtain mass, making it important to use experiments to test the mechanism proposed by Higgs and others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "verified",
+      "headword": "verify",
+      "kind": "word",
+      "zh": "vt. 证明, 查证, 证实, 检验, 校验\n[计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性",
+      "en": "v. confirm the truth of\nv. attach or append a legal verification to (a pleading or petition)",
+      "phonetic": "'verifai",
+      "forms": [
+        "verified"
+      ],
+      "example": "At the Large Hadron Collider, we have verified it for the heaviest particles, and we are close to doing so for the muon, a heavier cousin of the electron.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "muon",
+      "headword": "muon",
+      "kind": "word",
+      "zh": "[化] μ子",
+      "en": "n. an elementary particle with a negative charge and a half-life of 2 microsecond; decays to electron and neutrino and antineutrino",
+      "phonetic": "'mju:ɔn",
+      "forms": [
+        "muon"
+      ],
+      "example": "At the Large Hadron Collider, we have verified it for the heaviest particles, and we are close to doing so for the muon, a heavier cousin of the electron.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "cousin",
+      "headword": "cousin",
+      "kind": "word",
+      "zh": "n. 堂兄弟姊妹, 表兄弟姊妹\n[法] 同辈表亲或堂亲",
+      "en": "n. the child of your aunt or uncle",
+      "phonetic": "'kʌzәn",
+      "forms": [
+        "cousin"
+      ],
+      "example": "At the Large Hadron Collider, we have verified it for the heaviest particles, and we are close to doing so for the muon, a heavier cousin of the electron.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "incredibly",
+      "headword": "incredibly",
+      "kind": "word",
+      "zh": "adv. 不能相信地",
+      "en": "r. not easy to believe",
+      "phonetic": "in'kredәbli",
+      "forms": [
+        "incredibly"
+      ],
+      "example": "However, the electron interacts incredibly weakly with the Higgs field, making it too difficult to measure at current colliders.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "weakly",
+      "headword": "weakly",
+      "kind": "word",
+      "zh": "a. 弱的, 虚弱的\nadv. 微弱地, 虚弱地",
+      "en": "r. in a weak or feeble manner or to a minor degree",
+      "phonetic": "'wi:kli",
+      "forms": [
+        "weakly"
+      ],
+      "example": "However, the electron interacts incredibly weakly with the Higgs field, making it too difficult to measure at current colliders.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "responsible",
+      "headword": "responsible",
+      "kind": "word",
+      "zh": "a. 有责任的, 负责的, 责任重大的\n[法] 应负责任的, 有责任的, 能履行责任的",
+      "en": "a. worthy of or requiring responsibility or trust; or held accountable\ns. being the agent or cause",
+      "phonetic": "ri'spɒnsәbl",
+      "forms": [
+        "responsible"
+      ],
+      "example": "This leaves open the question of whether the Higgs mechanism is responsible for its mass.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "circular",
+      "headword": "circular",
+      "kind": "word",
+      "zh": "a. 圆形的, 循环的, 间接的\n[医] 环状的, 循环的",
+      "en": "n. an advertisement (usually printed on a page or in a leaflet) intended for wide distribution\ns. describing a circle; moving in a circle",
+      "phonetic": "'sә:kjulә",
+      "forms": [
+        "circular"
+      ],
+      "example": "To close this gap in our knowledge, physicists have proposed using FCC-ee, the first stage of a planned $19 billion physics machine called the Future Circular Collider, which could follow the Large Hadron Collider in the 2040s.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "corresponding",
+      "headword": "correspond",
+      "kind": "word",
+      "zh": "vi. 符合, 通信, 相当\n[法] 符合, 一致, 相当",
+      "en": "v. exchange messages",
+      "phonetic": ".kɒri'spɒnd",
+      "forms": [
+        "corresponding"
+      ],
+      "example": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "antiparticle",
+      "headword": "antiparticle",
+      "kind": "word",
+      "zh": "n. 反粒子\n[化] 反粒子",
+      "en": "n. a particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy",
+      "phonetic": "'ænti.pɑ:tikl",
+      "forms": [
+        "antiparticle",
+        "antiparticles"
+      ],
+      "example": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "electric",
+      "headword": "electric",
+      "kind": "word",
+      "zh": "a. 电的, 导电的, 电动的\n[医] 电的",
+      "en": "n. a car that is powered by electricity\na. using or providing or producing or transmitting or operated by electricity\ns. (of a situation) exceptionally tense\ns. affected by emotion as if by electricity; thrilling",
+      "phonetic": "i'lektik",
+      "forms": [
+        "electric"
+      ],
+      "example": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "electric charge",
+      "headword": "electric charge",
+      "kind": "phrase",
+      "zh": "电荷",
+      "en": "a property of matter that produces electromagnetic interactions",
+      "forms": [
+        "electric charge"
+      ],
+      "example": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v86",
+      "term": "accelerate",
+      "headword": "accelerate",
+      "kind": "word",
+      "zh": "v. 加速, 促进",
+      "en": "v. move faster\nv. cause to move faster",
+      "phonetic": "әk'selәreit",
+      "forms": [
+        "accelerate"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "positrons",
+      "headword": "positron",
+      "kind": "word",
+      "zh": "n. 正电子\n[化] 正子; 正电子",
+      "en": "n. an elementary particle with positive charge; interaction of a positron and an electron results in annihilation",
+      "phonetic": "'pɒzitrɒn",
+      "forms": [
+        "positrons"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "ring",
+      "headword": "ring",
+      "kind": "word",
+      "zh": "n. 环, 环形物, 拳击场, 戒指, 角逐, 小集团, 铃声, 钟声, 声调\nvt. 包围, 套住, 按铃, 敲钟\nvi. 成环形, 响, 鸣, 按铃, 敲钟, 回响",
+      "en": "n. a characteristic sound\nn. a toroidal shape\nn. the sound of a bell ringing\nn. a platform usually marked off by ropes in which contestants box or wrestle",
+      "phonetic": "riŋ",
+      "forms": [
+        "ring"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "underneath",
+      "headword": "underneath",
+      "kind": "word",
+      "zh": "adv. 在下面\nprep. 在...的下面",
+      "en": "r. on the lower or downward side; on the underside of\nr. under or below an object or a surface; at a lower place or level; directly beneath",
+      "phonetic": ".ʌndә'ni:θ",
+      "forms": [
+        "underneath"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "border",
+      "headword": "border",
+      "kind": "word",
+      "zh": "n. 边缘, 边境, 边界, 花坛\nvt. 在...上镶边, 接近\nvi. 接界, 近似\n[计] 边框",
+      "en": "n. a strip forming the outer edge of something\nv. provide with a border or edge\nv. lie adjacent to another or share a boundary",
+      "phonetic": "'bɒ:dә",
+      "forms": [
+        "border"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "colliding",
+      "headword": "collide",
+      "kind": "word",
+      "zh": "vi. 碰撞, 互撞, 抵触",
+      "en": "v. cause to collide\nv. crash together with violent impact",
+      "phonetic": "kә'laid",
+      "forms": [
+        "colliding",
+        "collide"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "beams",
+      "headword": "beam",
+      "kind": "word",
+      "zh": "n. 横梁, 杆, 光线, 容光焕发\nvi. 用梁支承, 微笑, 射出光线\nvt. 照耀, 感到欣喜\n[计] 束",
+      "en": "n. long thick piece of wood or metal or concrete, etc., used in construction\nn. a group of nearly parallel lines of electromagnetic radiation\nn. a column of light (as from a beacon)\nn. (nautical) breadth amidships",
+      "phonetic": "bi:m",
+      "forms": [
+        "beams"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "detectors",
+      "headword": "detector",
+      "kind": "word",
+      "zh": "n. 发现者, 检验器, 检波器\n[计] 检波器; 检测器",
+      "en": "n. any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner\nn. rectifier that extracts modulation from a radio carrier wave\nn. electronic equipment that detects the presence of radio signals or radioactivity",
+      "phonetic": "di'tektә",
+      "forms": [
+        "detectors"
+      ],
+      "example": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "specialised",
+      "headword": "specialise",
+      "kind": "word",
+      "zh": "vt. 特加指明, 列举, 使专门化, 限定...的范围\nvt.vi. (使)特化, (使)专化\nvi. 成为专家, 专务, 专攻, 专门研究, 逐条详述",
+      "en": "v devote oneself to a special area of work\nv be specific about\nv suit to a special purpose\nv become more focus on an area of activity or field of study\nv evolve so as to lead to a new species or develop in a way most suited to the environment",
+      "phonetic": "'speʃә,laiz",
+      "forms": [
+        "specialised"
+      ],
+      "example": "These detectors are specialised experiments that can track and measure the particles produced when the beams crash into one another.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "crash",
+      "headword": "crash",
+      "kind": "word",
+      "zh": "n. 哗啦声, 猛撞, 崩溃, 粗布\nv. 撞碎, 破碎, (使)...坠毁\na. 速成的\n[计] 崩溃",
+      "en": "n. a serious accident (usually involving one or more vehicles)\nn. a sudden large decline of business or the prices of stocks (especially one that causes additional failures)\nn. the act of colliding with something\nn. (computer science) an event that causes a computer system to become inoperative",
+      "phonetic": "kræʃ",
+      "forms": [
+        "crash"
+      ],
+      "example": "These detectors are specialised experiments that can track and measure the particles produced when the beams crash into one another.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "smashing",
+      "headword": "smash",
+      "kind": "word",
+      "zh": "n. 打碎, 粉碎, 打碎时哗啦声, 猛击, 扣球, 杀球, 经营失败, 破产, 硬币, 假硬币\na. 非常轰动的, 了不起的\nvt. 打碎, 粉碎, 击溃, 使破产, 使裂变, 使用假硬币\nvi. 碎裂, 猛撞, 破产, 扣球, 杀球\nadv. 轰隆一声, 哗啦一声",
+      "en": "n. a serious collision (especially of motor vehicles)\nv. hit hard\nv. break into pieces, as by striking or knocking over\nv. hit violently",
+      "phonetic": "smæʃ",
+      "forms": [
+        "smashing"
+      ],
+      "example": "FCC-ee has a key advantage over proton-proton colliders such as the Large Hadron Collider: smashing together electrons and positrons can directly produce a Higgs boson.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "probe",
+      "headword": "probe",
+      "kind": "word",
+      "zh": "n. 探索, 调查, 探针, 探测器\nv. 用探针探测, 调查, 探索",
+      "en": "n. an inquiry into unfamiliar or questionable activities\nn. a flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities\nn. an exploratory action or expedition\nn. an investigation conducted using a flexible surgical instrument to explore an injury or a body cavity",
+      "phonetic": "prәub",
+      "forms": [
+        "probe",
+        "probed"
+      ],
+      "example": "By looking for this process, we can probe the strength of the electron-Higgs interaction.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "strength",
+      "headword": "strength",
+      "kind": "word",
+      "zh": "n. 力量, 实力, 强度, 浓度, 人数, 抵抗力\n[化] 强度",
+      "en": "n. the property of being physically or mentally strong\nn. the condition of financial success",
+      "phonetic": "streŋθ",
+      "forms": [
+        "strength"
+      ],
+      "example": "By looking for this process, we can probe the strength of the electron-Higgs interaction.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "detecting",
+      "headword": "detect",
+      "kind": "word",
+      "zh": "vt. 发现, 察觉, 探测\n[法] 发现, 查明, 探测",
+      "en": "v. discover or determine the existence, presence, or fact of",
+      "phonetic": "di'tekt",
+      "forms": [
+        "detecting",
+        "detect"
+      ],
+      "example": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "principle",
+      "headword": "principle",
+      "kind": "word",
+      "zh": "n. 原则, 原理, 主义\n[化] 原理",
+      "en": "n. a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct\nn. a rule or standard especially of good behavior\nn. a basic truth or law or assumption\nn. a rule or law concerning a natural phenomenon or the function of a complex system",
+      "phonetic": "'prinsipl",
+      "forms": [
+        "principle"
+      ],
+      "example": "In principle, the measurement is simple: collide electrons with positrons and count the Higgs bosons produced.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "count",
+      "headword": "count",
+      "kind": "word",
+      "zh": "vt. 计算, 视为\nvi. 计数\nn. 计算, 合计, 计数, 伯爵\n[计] 计数",
+      "en": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of",
+      "phonetic": "kaunt",
+      "forms": [
+        "count"
+      ],
+      "example": "In principle, the measurement is simple: collide electrons with positrons and count the Higgs bosons produced.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "extremely",
+      "headword": "extremely",
+      "kind": "word",
+      "zh": "adv. 极端地, 非常地",
+      "en": "r. to an extreme degree",
+      "phonetic": "ik'stri:mli",
+      "forms": [
+        "extremely"
+      ],
+      "example": "To produce enough Higgs bosons, the collider would need to run for a few years at an energy extremely close to the mass of the Higgs boson particle.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "relies",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "relies"
+      ],
+      "example": "The measurement also relies on us knowing the Higgs mass much more precisely than we do today.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "precisely",
+      "headword": "precisely",
+      "kind": "word",
+      "zh": "adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错",
+      "en": "r. indicating exactness or preciseness\nr. in a precise manner\nr. just as it should be",
+      "phonetic": "pri'saisli",
+      "forms": [
+        "precisely"
+      ],
+      "example": "The measurement also relies on us knowing the Higgs mass much more precisely than we do today.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "unrelated",
+      "headword": "unrelated",
+      "kind": "word",
+      "zh": "[法] 无关的",
+      "en": "a. lacking a logical or causal relation\na. not connected by kinship",
+      "phonetic": "",
+      "forms": [
+        "unrelated"
+      ],
+      "example": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "mimic",
+      "headword": "mimic",
+      "kind": "word",
+      "zh": "a. 模仿的, 摹拟的\nn. 效颦者, 模仿者, 小丑, 仿制品\nvt. 模仿, 摹拟",
+      "en": "n. someone who mimics (especially an actor or actress)\nv. imitate (a person or manner), especially for satirical effect\ns. constituting an imitation",
+      "phonetic": "'mimik",
+      "forms": [
+        "mimic"
+      ],
+      "example": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "desired",
+      "headword": "desire",
+      "kind": "word",
+      "zh": "n. 欲望, 要求\nvt. 想要, 请求\nvi. 渴望",
+      "en": "n. the feeling that accompanies an unsatisfied state\nn. an inclination to want things\nn. something that is desired\nv. feel or have a desire for; want strongly",
+      "phonetic": "di'zaiә",
+      "forms": [
+        "desired"
+      ],
+      "example": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "signal",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signal"
+      ],
+      "example": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "journal",
+      "headword": "journal",
+      "kind": "word",
+      "zh": "n. 日记, 杂志, 日报\n[化] 轴颈",
+      "en": "n. a periodical dedicated to a particular subject\nn. a record book as a physical object\nn. the part of the axle contained by a bearing",
+      "phonetic": "'dʒә:nәl",
+      "forms": [
+        "journal"
+      ],
+      "example": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "topic",
+      "headword": "topic",
+      "kind": "word",
+      "zh": "n. 主题, 论题, 话题",
+      "en": "n. some situation or event that is thought about",
+      "phonetic": "'tɒpik",
+      "forms": [
+        "topic"
+      ],
+      "example": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "decay",
+      "headword": "decay",
+      "kind": "word",
+      "zh": "n. 衰退, 腐败\nv. (使)衰退, (使)腐败",
+      "en": "n. the process of gradually becoming inferior\nn. a gradual decrease; as of stored charge or current\nn. the organic phenomenon of rotting\nn. an inferior state resulting from the process of decaying",
+      "phonetic": "di'kei",
+      "forms": [
+        "decay"
+      ],
+      "example": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "transform",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transform"
+      ],
+      "example": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "algorithm",
+      "headword": "algorithm",
+      "kind": "word",
+      "zh": "n. 算法\n[计] 算法",
+      "en": "n. a precise rule (or set of rules) specifying how to solve some problem",
+      "phonetic": "'ælgәriðm",
+      "forms": [
+        "algorithm"
+      ],
+      "example": "They used a machine learning algorithm to distinguish the desired signal from other processes.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "distinguish",
+      "headword": "distinguish",
+      "kind": "word",
+      "zh": "v. 区别, 辨别",
+      "en": "v. mark as different\nv. be a distinctive feature, attribute, or trait; sometimes in a very positive sense",
+      "phonetic": "dis'tiŋgwiʃ",
+      "forms": [
+        "distinguish"
+      ],
+      "example": "They used a machine learning algorithm to distinguish the desired signal from other processes.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "simulations",
+      "headword": "simulation",
+      "kind": "word",
+      "zh": "n. 模拟, 假冒物, 模仿\n[计] 模拟",
+      "en": "n. the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)\nn. (computer science) the technique of representing the real world by a computer program",
+      "phonetic": ".simju'leiʃәn",
+      "forms": [
+        "simulations"
+      ],
+      "example": "In simulations, they found that this approach could improve sensitivity to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "sensitivity",
+      "headword": "sensitivity",
+      "kind": "word",
+      "zh": "n. 敏感, 灵敏度\n[计] 灵敏度",
+      "en": "n. (physiology) responsiveness to external stimuli; the faculty of sensation\nn. the ability to respond to physical stimuli or to register small physical amounts or differences\nn. sensitivity to emotional feelings (of self and others)",
+      "phonetic": ".sensә'tiviti",
+      "forms": [
+        "sensitivity"
+      ],
+      "example": "In simulations, they found that this approach could improve sensitivity to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "limits",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limits"
+      ],
+      "example": "In simulations, they found that this approach could improve sensitivity to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "previously",
+      "headword": "previously",
+      "kind": "word",
+      "zh": "adv. 先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先\n[计] 先前地",
+      "en": "r. at an earlier time or formerly",
+      "phonetic": "'pri:vju:sli",
+      "forms": [
+        "previously"
+      ],
+      "example": "However, new theories could modify interactions between the electron and the Higgs field, including through the action of previously undiscovered particles.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "undiscovered",
+      "headword": "undiscovered",
+      "kind": "word",
+      "zh": "a. 未发现的, 未被发觉的, 尚不为人所知的",
+      "en": "s. not discovered\ns. not yet discovered",
+      "phonetic": ".ʌndi'skʌvәd",
+      "forms": [
+        "undiscovered"
+      ],
+      "example": "However, new theories could modify interactions between the electron and the Higgs field, including through the action of previously undiscovered particles.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "collaborators",
+      "headword": "collaborator",
+      "kind": "word",
+      "zh": "n. 合干者, 合作者, 通敌者\n[法] 合作者, 协助者, 勾结者",
+      "en": "n. someone who collaborates with an enemy occupying force\nn. an associate in an activity or endeavor or sphere of common interest",
+      "phonetic": "kә'læbәreitә",
+      "forms": [
+        "collaborators"
+      ],
+      "example": "This is what my collaborators and I studied in a recent paper, where we examined how new particles can change the way the electron interacts with the Higgs field.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "hypothetical",
+      "headword": "hypothetical",
+      "kind": "word",
+      "zh": "a. 假设的, 有待证实的, 假定的, 有前提的\n[计] 理想的",
+      "en": "n. a hypothetical possibility, circumstance, statement, proposal, situation, etc.",
+      "phonetic": ",haipәu'θetikәl",
+      "forms": [
+        "hypothetical"
+      ],
+      "example": "Our findings suggest that many candidates for such hypothetical particles, such as new, heavy versions of the electron, can be indirectly searched for in planned measurements of the magnetic properties of the electron.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "indirectly",
+      "headword": "indirectly",
+      "kind": "word",
+      "zh": "adv. 间接, 曲折, 迂回, 不直截了当, 不诚实, 不坦率\n[计] 间接地",
+      "en": "r. not in a forthright manner",
+      "phonetic": "",
+      "forms": [
+        "indirectly"
+      ],
+      "example": "Our findings suggest that many candidates for such hypothetical particles, such as new, heavy versions of the electron, can be indirectly searched for in planned measurements of the magnetic properties of the electron.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "searched",
+      "headword": "search",
+      "kind": "word",
+      "zh": "n. 搜寻, 查究\nv. 搜寻, 搜查, 探求, 调查, 搜索\n[计] 搜索, 路径检索程序",
+      "en": "n. the activity of looking thoroughly in order to find something or someone\nn. an investigation seeking answers\nn. an operation that determines whether one or more of a set of items has a specified property\nn. the examination of alternative hypotheses",
+      "phonetic": "sә:tʃ",
+      "forms": [
+        "searched"
+      ],
+      "example": "Our findings suggest that many candidates for such hypothetical particles, such as new, heavy versions of the electron, can be indirectly searched for in planned measurements of the magnetic properties of the electron.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "magnetic",
+      "headword": "magnetic",
+      "kind": "word",
+      "zh": "a. 有磁性的, 有吸引力的, 催眠术的\n[医] 磁[性]的",
+      "en": "a. of or relating to or caused by magnetism\na. having the properties of a magnet; i.e. of attracting iron or steel\na. capable of being magnetized\na. determined by earth's magnetic fields",
+      "phonetic": "mæg'netik",
+      "forms": [
+        "magnetic"
+      ],
+      "example": "Our findings suggest that many candidates for such hypothetical particles, such as new, heavy versions of the electron, can be indirectly searched for in planned measurements of the magnetic properties of the electron.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "carried out",
+      "headword": "carried out",
+      "kind": "phrase",
+      "zh": "开展了；执行了",
+      "en": "performed a task or investigation",
+      "forms": [
+        "carried out"
+      ],
+      "example": "These tests will be carried out by several different physics experiments around the world.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v126",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "However, one potential new particle is a different form of the Higgs boson that interacts mainly with electrons.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "mainly",
+      "headword": "mainly",
+      "kind": "word",
+      "zh": "adv. 主要地, 大抵",
+      "en": "r for the most part",
+      "phonetic": "'meinli",
+      "forms": [
+        "mainly"
+      ],
+      "example": "However, one potential new particle is a different form of the Higgs boson that interacts mainly with electrons.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "If this exists, the Future Circular Collider will be in a unique position to test its properties and how it affects the electron.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "captures",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captures"
+      ],
+      "example": "This story captures the interplay between theory and experiment when planning new colliders.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "interplay",
+      "headword": "interplay",
+      "kind": "word",
+      "zh": "n. 互相作用, 互相影响\nvi. 互相作用",
+      "en": "n. reciprocal action and reaction",
+      "phonetic": "'intәplei",
+      "forms": [
+        "interplay"
+      ],
+      "example": "This story captures the interplay between theory and experiment when planning new colliders.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "theorists",
+      "headword": "theorist",
+      "kind": "word",
+      "zh": "n. 理论家, 理论工作者",
+      "en": "n. someone who theorizes (especially in science or art)",
+      "phonetic": "'θi:әrist",
+      "forms": [
+        "theorists"
+      ],
+      "example": "Theorists map out the new physics a measurement could detect, so experimentalists know when a result would be decisive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "experimentalists",
+      "headword": "experimentalist",
+      "kind": "word",
+      "zh": "n. 实验主义者, 试验者, 实验者, 经验主义者",
+      "en": "",
+      "phonetic": "ik,speri'mentәlist,ek,s-",
+      "forms": [
+        "experimentalists"
+      ],
+      "example": "Theorists map out the new physics a measurement could detect, so experimentalists know when a result would be decisive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "decisive",
+      "headword": "decisive",
+      "kind": "word",
+      "zh": "a. 决定性的, 坚定的, 果断的",
+      "en": "a. determining or having the power to determine an outcome\ns. unmistakable\na. characterized by decision and firmness",
+      "phonetic": "di'saisiv",
+      "forms": [
+        "decisive"
+      ],
+      "example": "Theorists map out the new physics a measurement could detect, so experimentalists know when a result would be decisive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "truly",
+      "headword": "truly",
+      "kind": "word",
+      "zh": "adv. 真实地, 不假",
+      "en": "r. in accordance with truth or fact or reality",
+      "phonetic": "'tru:li",
+      "forms": [
+        "truly"
+      ],
+      "example": "Either way, this measurement would tell us something we’ve never known: how the electron, one of the most studied particles in nature, truly gets its mass.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      15,
+      22
+    ],
+    "wordBank": [
+      "electric",
+      "count",
+      "mechanism",
+      "smashing",
+      "unrelated",
+      "sensitivity",
+      "extremely",
+      "machine",
+      "transform",
+      "detectors"
+    ],
+    "parts": [
+      {
+        "text": "However, the electron interacts incredibly weakly with the Higgs field, making it too difficult to measure at current colliders. This leaves open the question of whether the Higgs "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " is responsible for its mass.\n\nTo close this gap in our knowledge, physicists have proposed using FCC-ee, the first stage of a planned $19 billion physics "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " called the Future Circular Collider, which could follow the Large Hadron Collider in the 2040s.\n\nMost fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " charge. FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ". These detectors are specialised experiments that can track and measure the particles produced when the beams crash into one another.\n\nFCC-ee has a key advantage over proton-proton colliders such as the Large Hadron Collider: "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " together electrons and positrons can directly produce a Higgs boson. By looking for this process, we can probe the strength of the electron-Higgs interaction.\n\nDetecting new particles\n\nIn principle, the measurement is simple: collide electrons with positrons and "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " the Higgs bosons produced. In practice, it is very challenging. To produce enough Higgs bosons, the collider would need to run for a few years at an energy "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " close to the mass of the Higgs boson particle.\n\nHowever, that’s a long time to run this machine in such a specialised way. The measurement also relies on us knowing the Higgs mass much more precisely than we do today. Detecting the Higgs bosons is another challenge, because many "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " processes can mimic the desired signal.\n\nIn a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ") into W bosons, another fundamental particle with a lower mass. They used a machine learning algorithm to distinguish the desired signal from other processes. In simulations, they found that this approach could improve "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "mechanism",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 mechanism（mechanism）。结合上下文辨认词义与词形。",
+        "evidence": "This leaves open the question of whether the Higgs mechanism is responsible for its mass.",
+        "paragraph": 15
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "machine",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 machine（machine）。结合上下文辨认词义与词形。",
+        "evidence": "To close this gap in our knowledge, physicists have proposed using FCC-ee, the first stage of a planned $19 billion physics machine called the Future Circular Collider, which could follow the Large Hadron Collider in the 2040s.",
+        "paragraph": 16
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "electric",
+        "vocabularyId": "v84",
+        "explanation": "原文此处使用 electric（electric）。结合上下文辨认词义与词形。",
+        "evidence": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+        "paragraph": 17
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "detectors",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 detectors（detector）。结合上下文辨认词义与词形。",
+        "evidence": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
+        "paragraph": 17
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "smashing",
+        "vocabularyId": "v96",
+        "explanation": "原文此处使用 smashing（smash）。结合上下文辨认词义与词形。",
+        "evidence": "FCC-ee has a key advantage over proton-proton colliders such as the Large Hadron Collider: smashing together electrons and positrons can directly produce a Higgs boson.",
+        "paragraph": 18
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "count",
+        "vocabularyId": "v101",
+        "explanation": "原文此处使用 count（count）。结合上下文辨认词义与词形。",
+        "evidence": "In principle, the measurement is simple: collide electrons with positrons and count the Higgs bosons produced.",
+        "paragraph": 20
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "extremely",
+        "vocabularyId": "v102",
+        "explanation": "原文此处使用 extremely（extremely）。结合上下文辨认词义与词形。",
+        "evidence": "To produce enough Higgs bosons, the collider would need to run for a few years at an energy extremely close to the mass of the Higgs boson particle.",
+        "paragraph": 20
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "unrelated",
+        "vocabularyId": "v105",
+        "explanation": "原文此处使用 unrelated（unrelated）。结合上下文辨认词义与词形。",
+        "evidence": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
+        "paragraph": 21
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "transform",
+        "vocabularyId": "v112",
+        "explanation": "原文此处使用 transform（transform）。结合上下文辨认词义与词形。",
+        "evidence": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
+        "paragraph": 22
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "sensitivity",
+        "vocabularyId": "v116",
+        "explanation": "原文此处使用 sensitivity（sensitivity）。结合上下文辨认词义与词形。",
+        "evidence": "In simulations, they found that this approach could improve sensitivity to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Bacteria-infecting viruses may offer new ways to tackle antibiotic resistance.",
+          "Chemical evidence in ancient rocks helps scientists date the beginnings of plate tectonics.",
+          "Aboriginal astronomical knowledge explains celestial movements and their connections to life on Earth.",
+          "A new CERN experiment could deepen understanding of the electron and fundamental physics."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "The current best theory to explain fundamental physics, known as the Standard Model, offers no explanation for this.",
+        "paragraph": 5
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What proposed facility could test the physics discussed in the article?",
+        "options": [
+          "A public library in California",
+          "A collider at CERN in Geneva",
+          "A bird-banding station in Antarctica",
+          "A commercial food warehouse"
+        ],
+        "answer": 1,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "But a proposed collider at Cern, in Geneva, could finally put that to the test.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 10?",
+        "options": [
+          "The mass of the electron is very small, contributing little to the mass of the atom, but it is vital for determining an atom’s size.",
+          "These detectors are specialised experiments that can track and measure the particles produced when the beams crash into one another.",
+          "By looking for this process, we can probe the strength of the electron-Higgs interaction.",
+          "Six are called quarks and include the “up” and “down” quarks that make up protons and neutrons."
+        ],
+        "answer": 3,
+        "explanation": "定位第 10 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Six are called quarks and include the “up” and “down” quarks that make up protons and neutrons.",
+        "paragraph": 10
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.”",
+        "options": [
+          "Paragraph 16",
+          "Paragraph 17",
+          "Paragraph 1",
+          "Paragraph 4"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“However, new theories could modify interactions between the electron and the Higgs field, including through the action of previously undiscovered particles.”",
+        "options": [
+          "Paragraph 6",
+          "Paragraph 22",
+          "Paragraph 23",
+          "Paragraph 8"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 23 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "However, new theories could modify interactions between the electron and the Higgs field, including through the action of previously undiscovered particles.",
+        "paragraph": 23
+      }
+    ]
+  },
+  "revision": "0c7de47d40e7f200ab2c76c4855a2064789bf1abad05ba80bdefdf95d709c0fd"
+}

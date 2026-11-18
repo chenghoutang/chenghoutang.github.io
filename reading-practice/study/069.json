@@ -1,0 +1,1332 @@
+{
+  "schemaVersion": 1,
+  "folder": "069",
+  "articleSha256": "6bda1c27c1aafb0f2aca69fb2d636eb4c64422d81e47b943daf383ed333aa2e1",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "school",
+      "headword": "school",
+      "kind": "word",
+      "zh": "n. 学校, 鱼群, 门派, 学派\nvt. 教育, 训练, 培养\nvi. 成群地游",
+      "en": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+      "phonetic": "sku:l",
+      "forms": [
+        "school"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "pervasively",
+      "headword": "pervasively",
+      "kind": "word",
+      "zh": "adv. 无处不在地, 遍布地",
+      "en": "r. in a pervasive manner",
+      "phonetic": "",
+      "forms": [
+        "pervasively"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "shaped",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shaped",
+        "shape"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "standardized",
+      "headword": "standardize",
+      "kind": "word",
+      "zh": "vt. 使标准化, 使合于标准, 用标准检验\n[计] 标准化; 规格化",
+      "en": "v. cause to conform to standard or norm\nv. evaluate by comparing with a standard",
+      "phonetic": "'stændәdaiz",
+      "forms": [
+        "standardized"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "testing",
+      "headword": "test",
+      "kind": "word",
+      "zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\nvt. 测试, 试验, 化验\nvi. 接受测验, 进行测试",
+      "en": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\nn. the act of undergoing testing\nn. the act of testing something\nn. a hard outer covering as of some amoebas and sea urchins",
+      "phonetic": "test",
+      "forms": [
+        "testing",
+        "tests"
+      ],
+      "example": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "mathematics",
+      "headword": "mathematics",
+      "kind": "word",
+      "zh": "n. 数学\n[机] 数学",
+      "en": "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement",
+      "phonetic": ".mæθә'mætiks",
+      "forms": [
+        "mathematics"
+      ],
+      "example": "I began teaching mathematics in 2005, four years after the federal law No Child Left Behind was enacted.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "enacted",
+      "headword": "enact",
+      "kind": "word",
+      "zh": "vt. 制定法律, 扮演, 颁布\n[法] 法令, 法规, 条例",
+      "en": "v. act out; represent or perform as if in a play",
+      "phonetic": "i'nækt",
+      "forms": [
+        "enacted"
+      ],
+      "example": "I began teaching mathematics in 2005, four years after the federal law No Child Left Behind was enacted.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "expanded",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanded"
+      ],
+      "example": "This law expanded state testing and tied test results to school performance.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "tied",
+      "headword": "tie",
+      "kind": "word",
+      "zh": "n. 带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负\nvt. 系, 打结, 扎, 约束, 与...成平局\nvi. 结合, 打结, 不分胜负",
+      "en": "n. equality of score in a contest\nn. a horizontal beam used to prevent two other structural members from spreading apart or separating\nn. (music) a slur over two notes of the same pitch; indicates that the note is to be sustained for their combined time value\nn. one of the cross braces that support the rails on a railway track",
+      "phonetic": "tai",
+      "forms": [
+        "tied"
+      ],
+      "example": "This law expanded state testing and tied test results to school performance.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "districts",
+      "headword": "district",
+      "kind": "word",
+      "zh": "n. 区域, 地方\n[医] 地区, 地段",
+      "en": "n. a region marked off for administrative or other purposes",
+      "phonetic": "'distrikt",
+      "forms": [
+        "districts"
+      ],
+      "example": "Most districts changed their curricula to focus more on the content and skills covered on state tests.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "curricula",
+      "headword": "curriculum",
+      "kind": "word",
+      "zh": "n. 课程\n[医] 课程, 学程",
+      "en": "n an integrated course of academic studies",
+      "phonetic": "kә'rikjulәm",
+      "forms": [
+        "curricula"
+      ],
+      "example": "Most districts changed their curricula to focus more on the content and skills covered on state tests.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content"
+      ],
+      "example": "Most districts changed their curricula to focus more on the content and skills covered on state tests.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "school districts",
+      "headword": "school districts",
+      "kind": "phrase",
+      "zh": "学区",
+      "en": "local administrative areas responsible for schools",
+      "forms": [
+        "school districts"
+      ],
+      "example": "Many school districts increased their instructional weekly time for English and mathematics, with average increases of 47% for English and 37% for mathematics from 2001 to 2007.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v15",
+      "term": "instructional",
+      "headword": "instructional",
+      "kind": "word",
+      "zh": "a. 教学的, 教育的",
+      "en": "a. of or relating to or used in instruction",
+      "phonetic": "in'strʌkʃәnәl",
+      "forms": [
+        "instructional"
+      ],
+      "example": "Many school districts increased their instructional weekly time for English and mathematics, with average increases of 47% for English and 37% for mathematics from 2001 to 2007.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "weekly",
+      "headword": "weekly",
+      "kind": "word",
+      "zh": "n. 周刊, 周报\na. 每周的, 一周一次的, 周刊的\nadv. 每周, 一周一次",
+      "en": "n. a periodical that is published every week (or 52 issues per year)\ns. of or occurring every seven days",
+      "phonetic": "'wi:kli",
+      "forms": [
+        "weekly"
+      ],
+      "example": "Many school districts increased their instructional weekly time for English and mathematics, with average increases of 47% for English and 37% for mathematics from 2001 to 2007.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "Many school districts increased their instructional weekly time for English and mathematics, with average increases of 47% for English and 37% for mathematics from 2001 to 2007.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "additional",
+      "headword": "additional",
+      "kind": "word",
+      "zh": "a. 附加的, 另外的, 额外的\n[机] 加添的, 附加的",
+      "en": "s further or added",
+      "phonetic": "ә'diʃәnәl",
+      "forms": [
+        "additional"
+      ],
+      "example": "To make room for additional time spent on these subjects, 44% of school districts cut time from other subjects or activities, such as the arts.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "To make room for additional time spent on these subjects, 44% of school districts cut time from other subjects or activities, such as the arts.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v20",
+      "term": "students",
+      "headword": "student",
+      "kind": "word",
+      "zh": "n. 学生, 研究者, 学者",
+      "en": "n. a learner who is enrolled in an educational institution",
+      "phonetic": "'stju:dnt",
+      "forms": [
+        "students"
+      ],
+      "example": "A 2026 study of 67 school districts across 38 states found that, before high school, students take a median of 57 state- and district-required assessments.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "median",
+      "headword": "median",
+      "kind": "word",
+      "zh": "a. 中央的, 中间的, 正中的\nn. 正中动脉, 中位数, 中线",
+      "en": "n. the value below which 50% of the cases fall\ns. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)\ns. relating to or situated in or extending toward the middle",
+      "phonetic": "'mi:diәn",
+      "forms": [
+        "median"
+      ],
+      "example": "A 2026 study of 67 school districts across 38 states found that, before high school, students take a median of 57 state- and district-required assessments.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "assessments",
+      "headword": "assessment",
+      "kind": "word",
+      "zh": "n. 评估, 估定, 评定的款额\n[化] 评估",
+      "en": "n. an amount determined as payable\nn. the market value set on assets",
+      "phonetic": "ә'sesmәnt",
+      "forms": [
+        "assessments"
+      ],
+      "example": "A 2026 study of 67 school districts across 38 states found that, before high school, students take a median of 57 state- and district-required assessments.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "short-lived",
+      "headword": "short-lived",
+      "kind": "word",
+      "zh": "a. 短命的, 短暂的\n[经] 短暂的",
+      "en": "s lasting a very short time",
+      "phonetic": "",
+      "forms": [
+        "short-lived"
+      ],
+      "example": "A short-lived law with lasting effects",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "succeeds",
+      "headword": "succeed",
+      "kind": "word",
+      "zh": "vi. 成功, 继承, 继续\nvt. 继承, 接替",
+      "en": "v. attain success or reach a desired goal\nv. be the successor (of)",
+      "phonetic": "sәk'si:d",
+      "forms": [
+        "succeeds"
+      ],
+      "example": "No Child Left Behind was replaced by another law, the Every Student Succeeds Act, in 2015.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "aimed",
+      "headword": "aim",
+      "kind": "word",
+      "zh": "n. 目标, 瞄准, 击中目标的能力\nvi. 对准目标, 致力, 打算\nvt. 瞄准\n[计] 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+      "en": "n. the goal intended to be attained (and which is believed to be attainable)\nn. the action of directing something at an object\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv. propose or intend",
+      "phonetic": "eim",
+      "forms": [
+        "aimed"
+      ],
+      "example": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "classrooms",
+      "headword": "classroom",
+      "kind": "word",
+      "zh": "n. 教室",
+      "en": "n. a room in a school where lessons take place",
+      "phonetic": "'klɑ:sru:m",
+      "forms": [
+        "classrooms",
+        "classroom"
+      ],
+      "example": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "standardized tests",
+      "headword": "standardized tests",
+      "kind": "phrase",
+      "zh": "标准化考试",
+      "en": "tests administered and scored according to common procedures",
+      "forms": [
+        "standardized tests"
+      ],
+      "example": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v28",
+      "term": "define",
+      "headword": "define",
+      "kind": "word",
+      "zh": "vt. 定义, 规定, 使明确\n[计] 定义",
+      "en": "v. give a definition for the meaning of a word\nv. determine the nature of\nv. show the form or outline of",
+      "phonetic": "di'fain",
+      "forms": [
+        "define"
+      ],
+      "example": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "administer",
+      "headword": "administer",
+      "kind": "word",
+      "zh": "vt. 管理, 料理, 执行\nvi. 执行遗产管理人的职责, 给予帮助",
+      "en": "v. work in an administrative capacity; supervise or be in charge of\nv. perform (a church sacrament) ritually\nv. give or apply (medications)\nv. direct the taking of",
+      "phonetic": "әd'ministә",
+      "forms": [
+        "administer",
+        "administered"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "math",
+      "headword": "math",
+      "kind": "word",
+      "zh": "n. 数学",
+      "en": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement",
+      "phonetic": "mæθ",
+      "forms": [
+        "math"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "annually",
+      "headword": "annually",
+      "kind": "word",
+      "zh": "adv. 一年一次, 每年\n[经] 年度的, 每年的",
+      "en": "r. without missing a year",
+      "phonetic": "'ænjuәli",
+      "forms": [
+        "annually"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "grades",
+      "headword": "grade",
+      "kind": "word",
+      "zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡\nvt. 分等, 分级, 评分\nvi. 属于某等级, 逐渐变化",
+      "en": "n. a relative position or degree of value in a graded group\nn. the gradient of a slope or road or other surface\nn. a degree of ablaut\nn. the height of the ground on which something stands",
+      "phonetic": "greid",
+      "forms": [
+        "grades",
+        "grade"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v35",
+      "term": "below",
+      "headword": "below",
+      "kind": "word",
+      "zh": "prep. 在下面\nadv. 在下面",
+      "en": "r. in or to a place that is lower\nr. at a later place\nr. (in writing) see below",
+      "phonetic": "bi'lәu",
+      "forms": [
+        "below"
+      ],
+      "example": "These tests measure whether students are reading and understanding mathematics at, above or below the average, when compared to other students across the state.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "ratings",
+      "headword": "ratings",
+      "kind": "word",
+      "zh": "n. 评级；等级（rating的复数形式）",
+      "en": "n an appraisal of the value of something\nn act of ascertaining or fixing the value or worth of\nn standing or position on a scale\nn rank in a military organization\nv assign a rank or rating to\nv be worthy of or have a certain rating\nv estimate the value of\nv desert one's party or group of friends, for example, for one's personal advantage\nv employ scabs or strike breakers in\nv take the place of work of someone on strike\nv give (hair) the appearance of being fuller by using a rat\nv catch rats, especially with dogs\nv give away information about somebody",
+      "phonetic": "",
+      "forms": [
+        "ratings"
+      ],
+      "example": "Students’ scores on these tests can affect schools’ ratings and rankings, and can also determine whether states monitor or take over public school districts that are not performing well.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "rankings",
+      "headword": "rankings",
+      "kind": "word",
+      "zh": "n. 地位, 等级( ranking的复数形式 ); 某项体育运动的)最佳运动员排名表",
+      "en": "n. position on a scale in relation to others in a sport\nv. take or have a position relative to others\nv. assign a rank or rating to",
+      "phonetic": "'ræŋkɪŋz",
+      "forms": [
+        "rankings"
+      ],
+      "example": "Students’ scores on these tests can affect schools’ ratings and rankings, and can also determine whether states monitor or take over public school districts that are not performing well.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "monitor",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitor"
+      ],
+      "example": "Students’ scores on these tests can affect schools’ ratings and rankings, and can also determine whether states monitor or take over public school districts that are not performing well.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "The exact number of tests students take each year before high school ranges from 35 to 88 tests.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "The exact number of tests students take each year before high school ranges from 35 to 88 tests.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "proficiency",
+      "headword": "proficiency",
+      "kind": "word",
+      "zh": "n. 精通, 熟练, 精练",
+      "en": "n. the quality of having great facility and competence\nn. skillfulness in the command of fundamentals deriving from practice and familiarity",
+      "phonetic": "prә'fiʃәns",
+      "forms": [
+        "proficiency"
+      ],
+      "example": "The study also found no relationship between the number of assessments students took and their proficiency or growth in English or mathematics.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "association",
+      "headword": "association",
+      "kind": "word",
+      "zh": "n. 协会\n[计] 关联",
+      "en": "n. a formal organization of people or groups of people\nn. the act of consorting with or joining with others\nn. the state of being connected together as in memory or imagination\nn. the process of bringing ideas or events together in memory or imagination",
+      "phonetic": "ә.sәuʃә'eiʃәn",
+      "forms": [
+        "association"
+      ],
+      "example": "The National Association of State Boards of Education also reports that some districts give students seven assessments per grade, with most tests administered one to three times a year.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "documents",
+      "headword": "document",
+      "kind": "word",
+      "zh": "n. 文件, 公文, 文档\nvt. 证明, 为...引证\n[计] 文档",
+      "en": "n. writing that provides information (especially information of an official nature)\nn. anything serving as a representation of a person's thinking by means of symbolic marks\nn. a written account of ownership or obligation\nv. record in detail",
+      "phonetic": "'dɒkjumәnt",
+      "forms": [
+        "documents"
+      ],
+      "example": "Older research also documents the time teachers spend preparing students for state tests.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "survey",
+      "headword": "survey",
+      "kind": "word",
+      "zh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地",
+      "en": "n. a detailed critical inspection\nv. consider in a comprehensive way\nv. look over carefully or inspect\nv. make a survey of; for statistical purposes",
+      "phonetic": "sә'vei",
+      "forms": [
+        "survey"
+      ],
+      "example": "A 2016 survey found that 62% of K-12 public school teachers reported spending too much time preparing students for state-mandated tests.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "estimated",
+      "headword": "estimate",
+      "kind": "word",
+      "zh": "n. 估计, 判断\nvt. 估计, 评价, 判断\nvi. 估计",
+      "en": "n. an approximate calculation of quantity or degree or worth\nn. a judgment of the qualities of something or somebody\nn. a statement indicating the likely cost of some job\nn. the respect with which a person is held",
+      "phonetic": "'estimeit",
+      "forms": [
+        "estimated"
+      ],
+      "example": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "exams",
+      "headword": "exam",
+      "kind": "word",
+      "zh": "n. 考试, 测验",
+      "en": "n a set of questions or exercises evaluating skill or knowledge",
+      "phonetic": "ig'zæm",
+      "forms": [
+        "exams"
+      ],
+      "example": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "reviewing",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "reviewing"
+      ],
+      "example": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "formats",
+      "headword": "format",
+      "kind": "word",
+      "zh": "n. 开本, 版式, 形式, 格式\nvt. 格式化\n[计] 格式; DOS外部命令:对磁盘进行格式化",
+      "en": "n. the organization of information according to preset specifications (usually for computer processing)\nn. the general appearance of a publication\nv. set (printed matter) into a specific format\nv. determine the arrangement of (data) for storage and display (in computer science)",
+      "phonetic": "'fɒ:mæt",
+      "forms": [
+        "formats"
+      ],
+      "example": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "costly",
+      "headword": "costly",
+      "kind": "word",
+      "zh": "a. 昂贵的, 奢华的, 费用大的",
+      "en": "s. having a high price",
+      "phonetic": "'kɒstli",
+      "forms": [
+        "costly"
+      ],
+      "example": "Costly in other ways",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "turnover",
+      "headword": "turnover",
+      "kind": "word",
+      "zh": "n. 翻倒, 翻转, 半圆酥饼, 营业额, 流通, 周转\na. 可翻转的",
+      "en": "n. a dish made by folding a piece of pastry over a filling",
+      "phonetic": "'tә:n.әuvә",
+      "forms": [
+        "turnover"
+      ],
+      "example": "Research on teacher turnover has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "dissatisfaction",
+      "headword": "dissatisfaction",
+      "kind": "word",
+      "zh": "n. 不满, 不平",
+      "en": "n. the feeling of being displeased and discontent",
+      "phonetic": "'dis.sætis'fækʃәn",
+      "forms": [
+        "dissatisfaction"
+      ],
+      "example": "Research on teacher turnover has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "profession",
+      "headword": "profession",
+      "kind": "word",
+      "zh": "n. 职业, 表白, 声明\n[化] 工种; 职业",
+      "en": "n. the body of people in a learned occupation\nn. an occupation requiring special education (especially in the liberal arts or sciences)\nn. an open avowal (true or false) of some belief or opinion\nn. affirmation of acceptance of some religion or faith",
+      "phonetic": "prә'feʃәn",
+      "forms": [
+        "profession"
+      ],
+      "example": "Research on teacher turnover has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "consequences",
+      "headword": "consequence",
+      "kind": "word",
+      "zh": "n. 结果, 重要性\n[法] 结果, 后果, 推断",
+      "en": "n. a phenomenon that follows and is caused by some previous phenomenon\nn. the outcome of an event especially as relative to an individual\nn. having important effects or influence",
+      "phonetic": "'kɒnsikwәns",
+      "forms": [
+        "consequences"
+      ],
+      "example": "Other research from 2026 found that teachers who worried about job consequences tied to test results reported lower job satisfaction.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "satisfaction",
+      "headword": "satisfaction",
+      "kind": "word",
+      "zh": "n. 满足, 满意, 快事, 赔偿, 赎罪, 报仇的机会\n[经] 偿还, 赎回",
+      "en": "n. the contentment one feels when one has fulfilled a desire, need, or expectation\nn. (law) the payment of a debt or fulfillment of an obligation\nn. act of fulfilling a desire or need or appetite",
+      "phonetic": ".sætis'fækʃәn",
+      "forms": [
+        "satisfaction"
+      ],
+      "example": "Other research from 2026 found that teachers who worried about job consequences tied to test results reported lower job satisfaction.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "numbers",
+      "headword": "numbers",
+      "kind": "word",
+      "zh": "n. 数字（number的复数）；算术",
+      "en": "n. the fourth book of the Old Testament; contains a record of the number of Israelites who followed Moses out of Egypt",
+      "phonetic": "'nʌmbәz",
+      "forms": [
+        "numbers"
+      ],
+      "example": "These numbers tell a larger story. The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "printed",
+      "headword": "print",
+      "kind": "word",
+      "zh": "n. 打印, 版, 印刷物, 痕迹, 印刷业, 印刷字体, 图片, 印花布, 印章\nv. 打印, 印刷, 铭记, 留印记于, 用印刷体写\n[计] DOS外部命令:在打印机上打印文件, 可一边打印文件一边执行其他工作",
+      "en": "n. the text appearing in a book, newspaper, or other printed publication\nn. a picture or design printed from an engraving\nn. availability in printed form\nn. a copy of a movie on film (especially a particular version of it)",
+      "phonetic": "print",
+      "forms": [
+        "printed"
+      ],
+      "example": "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "contracts",
+      "headword": "contract",
+      "kind": "word",
+      "zh": "n. 合约, 婚约, 契约\nvt. 使皱缩, 使缩短, 感染, 订约, 缔结\nvi. 皱缩, 订约, 收缩",
+      "en": "n. a binding agreement between two or more persons that is enforceable by law\nn. (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make\nn. a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid\nv. enter into a contractual arrangement",
+      "phonetic": "'kɒntrækt",
+      "forms": [
+        "contracts"
+      ],
+      "example": "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "workloads",
+      "headword": "workload",
+      "kind": "word",
+      "zh": "n. 工作量\n[化] 工作量",
+      "en": "n. work that a person is expected to do in a specified time",
+      "phonetic": "'wә:klәud",
+      "forms": [
+        "workloads"
+      ],
+      "example": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "autonomy",
+      "headword": "autonomy",
+      "kind": "word",
+      "zh": "n. 自治, 自治权\n[医] 自主性",
+      "en": "n. immunity from arbitrary exercise of authority: political independence\nn. personal independence",
+      "phonetic": "ɒ:'tɒnәmi",
+      "forms": [
+        "autonomy"
+      ],
+      "example": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "disappear",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappear"
+      ],
+      "example": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "learning",
+      "headword": "learn",
+      "kind": "word",
+      "zh": "vt. 学习；认识到；得知",
+      "en": "v. gain knowledge or skills\nv. get to know or become aware of, usually accidentally\nv. be a student of a certain subject",
+      "phonetic": "lә:n",
+      "forms": [
+        "learning"
+      ],
+      "example": "His words capture the question at the heart of this debate: Does more testing help students learn, or does it take time away from learning?",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "limited",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limited"
+      ],
+      "example": "But when some students take as many as 88 assessments before high school and teachers report spending weeks preparing students for state exams, it’s important to ask whether it’s the best use of their limited time.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "mississippi",
+      "headword": "Mississippi",
+      "kind": "word",
+      "zh": "n. 密西西比河, 密西西比州",
+      "en": "n. a major North American river and the chief river of the United States; rises in northern Minnesota and flows southward into the Gulf of Mexico\nn. a state in the Deep South on the gulf of Mexico; one of the Confederate States during the American Civil War",
+      "phonetic": ".misi'sipi",
+      "forms": [
+        "mississippi"
+      ],
+      "example": "I work in Mississippi, where many communities are rural and agriculture is a major industry.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "rural",
+      "headword": "rural",
+      "kind": "word",
+      "zh": "a. 乡下的, 田园的, 乡村风味的\n[法] 农村的, 乡村的, 有关农业的",
+      "en": "a. living in or characteristic of farming or country life\na. of or relating to the countryside as opposed to the city",
+      "phonetic": "'ruәrәl",
+      "forms": [
+        "rural"
+      ],
+      "example": "I work in Mississippi, where many communities are rural and agriculture is a major industry.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "agriculture",
+      "headword": "agriculture",
+      "kind": "word",
+      "zh": "n. 农业\n[机] 农业, 农学",
+      "en": "n. the class of people engaged in growing food",
+      "phonetic": "'ægrikʌltʃә",
+      "forms": [
+        "agriculture"
+      ],
+      "example": "I work in Mississippi, where many communities are rural and agriculture is a major industry.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "lamented",
+      "headword": "lament",
+      "kind": "word",
+      "zh": "n. 悲叹, 悔恨, 恸哭, 挽歌, 悼词\nvt. 哀悼\nvi. 悔恨, 悲叹",
+      "en": "n. a cry of sorrow and grief\nv. express grief verbally",
+      "phonetic": "lә'ment",
+      "forms": [
+        "lamented"
+      ],
+      "example": "Recently, I lamented to a local farmer about the time and money spent on standardized testing.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "farmer",
+      "headword": "farmer",
+      "kind": "word",
+      "zh": "n. 农夫, 农场主\n[法] 农民, 农场主, 承包者",
+      "en": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)",
+      "phonetic": "'fɑ:mә",
+      "forms": [
+        "farmer"
+      ],
+      "example": "Recently, I lamented to a local farmer about the time and money spent on standardized testing.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "capture",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "capture"
+      ],
+      "example": "His words capture the question at the heart of this debate: Does more testing help students learn, or does it take time away from learning?",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "at the heart of",
+      "headword": "at the heart of",
+      "kind": "phrase",
+      "zh": "处于……核心",
+      "en": "at the central or most important part of something",
+      "forms": [
+        "at the heart of"
+      ],
+      "example": "His words capture the question at the heart of this debate: Does more testing help students learn, or does it take time away from learning?",
+      "paragraph": 25,
+      "source": "Editorial glossary"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      9,
+      23
+    ],
+    "wordBank": [
+      "satisfaction",
+      "school",
+      "rankings",
+      "estimated",
+      "shape",
+      "autonomy",
+      "documents",
+      "turnover",
+      "formats",
+      "assessments"
+    ],
+    "parts": [
+      {
+        "text": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " what teachers teach, how they use instructional time and how schools define success.\n\nAll U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ". These tests measure whether students are reading and understanding mathematics at, above or below the average, when compared to other students across the state.\n\nStudents’ scores on these tests can affect schools’ ratings and "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ", and can also determine whether states monitor or take over public school districts that are not performing well.\n\nToo much time\n\nThe exact number of tests students take each year before high school ranges from 35 to 88 tests. The study also found no relationship between the number of "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " students took and their proficiency or growth in English or mathematics.\n\nThe National Association of State Boards of Education also reports that some districts give students seven assessments per grade, with most tests administered one to three times a year.\n\nOlder research also "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " the time teachers spend preparing students for state tests.\n\nA 2016 survey found that 62% of K-12 public school teachers reported spending too much time preparing students for state-mandated tests. Teachers "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " students see on tests or teaching test-taking strategies.\n\nIn the same 2016 national survey, 29% of teachers reported spending more than a month preparing students in grades K-12 for state-mandated tests.\n\nCostly in other ways\n\nTeachers also feel the effects of spending so much time preparing students for standardized tests.\n\nResearch on teacher "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.\n\nOther research from 2026 found that teachers who worried about job consequences tied to test results reported lower job "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ".\n\nThese numbers tell a larger story. The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.\n\nThey are also reflected in lesson plans, teachers’ workloads, classroom time, professional "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " and the opportunities that disappear when preparing for a test becomes a central purpose of schooling."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "shape",
+        "vocabularyId": "v4",
+        "explanation": "原文此处使用 shape（shape）。结合上下文辨认词义与词形。",
+        "evidence": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
+        "paragraph": 9
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "school",
+        "vocabularyId": "v1",
+        "explanation": "原文此处使用 school（school）。结合上下文辨认词义与词形。",
+        "evidence": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+        "paragraph": 10
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "rankings",
+        "vocabularyId": "v37",
+        "explanation": "原文此处使用 rankings（rankings）。结合上下文辨认词义与词形。",
+        "evidence": "Students’ scores on these tests can affect schools’ ratings and rankings, and can also determine whether states monitor or take over public school districts that are not performing well.",
+        "paragraph": 11
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "assessments",
+        "vocabularyId": "v22",
+        "explanation": "原文此处使用 assessments（assessment）。结合上下文辨认词义与词形。",
+        "evidence": "The study also found no relationship between the number of assessments students took and their proficiency or growth in English or mathematics.",
+        "paragraph": 13
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "documents",
+        "vocabularyId": "v43",
+        "explanation": "原文此处使用 documents（document）。结合上下文辨认词义与词形。",
+        "evidence": "Older research also documents the time teachers spend preparing students for state tests.",
+        "paragraph": 15
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "estimated",
+        "vocabularyId": "v45",
+        "explanation": "原文此处使用 estimated（estimate）。结合上下文辨认词义与词形。",
+        "evidence": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+        "paragraph": 16
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "formats",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 formats（format）。结合上下文辨认词义与词形。",
+        "evidence": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
+        "paragraph": 16
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "turnover",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 turnover（turnover）。结合上下文辨认词义与词形。",
+        "evidence": "Research on teacher turnover has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.",
+        "paragraph": 20
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "satisfaction",
+        "vocabularyId": "v54",
+        "explanation": "原文此处使用 satisfaction（satisfaction）。结合上下文辨认词义与词形。",
+        "evidence": "Other research from 2026 found that teachers who worried about job consequences tied to test results reported lower job satisfaction.",
+        "paragraph": 21
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "autonomy",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 autonomy（autonomy）。结合上下文辨认词义与词形。",
+        "evidence": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
+        "paragraph": 23
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Schools can reduce some learning gaps while advantages linked to family wealth persist.",
+          "A heavy burden of standardised testing does not necessarily lead to better learning.",
+          "School recess supports children's development in ways that extend beyond entertainment.",
+          "Minority language speakers continue to face prejudice in different European settings."
+        ],
+        "answer": 1,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+        "paragraph": 22
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What change in teaching time followed expanded testing in many school districts?",
+        "options": [
+          "Time spent on every subject increased by exactly the same amount.",
+          "All English and mathematics teaching was eliminated.",
+          "School districts stopped teaching tested content.",
+          "Weekly English and mathematics time increased."
+        ],
+        "answer": 3,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Many school districts increased their instructional weekly time for English and mathematics, with average increases of 47% for English and 37% for mathematics from 2001 to 2007.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 10?",
+        "options": [
+          "The study also found no relationship between the number of assessments students took and their proficiency or growth in English or mathematics.",
+          "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+          "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+          "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school."
+        ],
+        "answer": 3,
+        "explanation": "定位第 10 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
+        "paragraph": 10
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In the same 2016 national survey, 29% of teachers reported spending more than a month preparing students in grades K-12 for state-mandated tests.”",
+        "options": [
+          "Paragraph 5",
+          "Paragraph 1",
+          "Paragraph 8",
+          "Paragraph 17"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In the same 2016 national survey, 29% of teachers reported spending more than a month preparing students in grades K-12 for state-mandated tests.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.”",
+        "options": [
+          "Paragraph 22",
+          "Paragraph 21",
+          "Paragraph 4",
+          "Paragraph 9"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 22 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The costs of standardized testing do not simply appear in the amount printed on contracts with testing companies.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "revision": "6390f4a004950ebb5c65728bf7b58003287dd5b2ca0f41da400cda3ccff2fe8b"
+}

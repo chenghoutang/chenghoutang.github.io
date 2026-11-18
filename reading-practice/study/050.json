@@ -1,0 +1,2159 @@
+{
+  "schemaVersion": 1,
+  "folder": "050",
+  "articleSha256": "6fe3148db0451676999dab84f8f66e1a1146fce6de37a5fd392d79f7f44f4662",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "curious",
+      "headword": "curious",
+      "kind": "word",
+      "zh": "a. 好奇的, 求知的, 古怪的",
+      "en": "s. beyond or deviating from the usual or expected\na. eager to investigate and learn or learn more (sometimes about others' concerns)\ns. having curiosity aroused; eagerly interested in learning more",
+      "phonetic": "'kjuәriәs",
+      "forms": [
+        "curious"
+      ],
+      "example": "Curious Kids is a series for children of all ages.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "store",
+      "headword": "store",
+      "kind": "word",
+      "zh": "n. 商店, 贮藏, 仓库, 备用品, 存储器\nvt. 储存, 贮藏, 供给\nvi. 贮藏\na. 贮藏的, 现成的\n[计] 存储器操作; 存储",
+      "en": "n. a supply of something available for future use\nv. keep or lay aside for future use\nv. find a place for and put away for storage",
+      "phonetic": "stɒ:",
+      "forms": [
+        "store"
+      ],
+      "example": "The difference is due to what scientists call fat distribution, and researchers are still trying to understand why bodies store fat in some places but not in others.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "butt",
+      "headword": "butt",
+      "kind": "word",
+      "zh": "n. 粗大的一头, 烟头, 靶, 笑柄\n[医] 对核",
+      "en": "n. thick end of the handle\nn. the part of a plant from which the roots spring or the part of a stalk or trunk nearest the roots\nn. a victim of ridicule or pranks\nn. a large cask (especially one holding a volume equivalent to 2 hogsheads or 126 gallons)",
+      "phonetic": "bʌt",
+      "forms": [
+        "butt",
+        "butts"
+      ],
+      "example": "Have you ever wondered why some parts of your body are firm, like your elbows, while other areas, like your butt, are squishier?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "cambridge",
+      "headword": "Cambridge",
+      "kind": "word",
+      "zh": "n. 剑桥",
+      "en": "n. a city in Massachusetts just to the north of Boston; site of Harvard University and the Massachusetts Institute of Technology\nn. a city in eastern England on the River Cam; site of Cambridge University",
+      "phonetic": "'keimbridʒ",
+      "forms": [
+        "cambridge"
+      ],
+      "example": "Why does your body store fat in your butt? - Ellen, age 8, Cambridge, Massachusetts",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "massachusetts",
+      "headword": "Massachusetts",
+      "kind": "word",
+      "zh": "n. 麻萨诸塞州",
+      "en": "n. a state in New England; one of the original 13 colonies\nn. one of the British colonies that formed the United States",
+      "phonetic": ".mæsә'tʃu:sits",
+      "forms": [
+        "massachusetts"
+      ],
+      "example": "Why does your body store fat in your butt? - Ellen, age 8, Cambridge, Massachusetts",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "elbows",
+      "headword": "elbow",
+      "kind": "word",
+      "zh": "n. 手肘, 弯头, 扶手\nv. 用手肘推开, 推挤",
+      "en": "n. hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped\nn. a sharp bend in a road or river\nn. a length of pipe with a sharp bend in it\nn. the part of a sleeve that covers the elbow joint",
+      "phonetic": "'elbәu",
+      "forms": [
+        "elbows"
+      ],
+      "example": "Have you ever wondered why some parts of your body are firm, like your elbows, while other areas, like your butt, are squishier?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "due to",
+      "headword": "due to",
+      "kind": "phrase",
+      "zh": "由于",
+      "en": "because of",
+      "forms": [
+        "due to"
+      ],
+      "example": "The difference is due to what scientists call fat distribution, and researchers are still trying to understand why bodies store fat in some places but not in others.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v8",
+      "term": "distribution",
+      "headword": "distribution",
+      "kind": "word",
+      "zh": "n. 分配\n[计] 分布",
+      "en": "n. (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence\nn. the spatial or geographic property of being scattered about over a range, area, or volume\nn. the act of distributing or spreading or apportioning\nn. the commercial activity of transporting and selling goods from a producer to a consumer",
+      "phonetic": ".distrә'bju:ʃәn",
+      "forms": [
+        "distribution"
+      ],
+      "example": "The difference is due to what scientists call fat distribution, and researchers are still trying to understand why bodies store fat in some places but not in others.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "insects",
+      "headword": "insect",
+      "kind": "word",
+      "zh": "n. 昆虫, 卑鄙的人\n[医] 昆虫",
+      "en": "n. small air-breathing arthropod",
+      "phonetic": "'insekt",
+      "forms": [
+        "insects"
+      ],
+      "example": "All animals have fat in their bodies, even insects.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "bears",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "bears"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "pounds",
+      "headword": "pound",
+      "kind": "word",
+      "zh": "n. 磅, 英镑, 重击, 鱼塘, 拘留所, 兽栏\nvt. 强烈打击, 捣烂, 监禁, 关入栏内\nvi. 连续重击, 苦干",
+      "en": "n. 16 ounces avoirdupois\nn. a unit of apothecary weight equal to 12 ounces troy\nn. a nontechnical unit of force equal to the mass of 1 pound with an acceleration of free fall equal to 32 feet/sec/sec\nn. United States writer who lived in Europe; strongly influenced the development of modern literature (1885-1972)",
+      "phonetic": "paund",
+      "forms": [
+        "pounds"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "kilograms",
+      "headword": "kilogram",
+      "kind": "word",
+      "zh": "n. 千克, 公斤\n[医] 千克, 公斤",
+      "en": "n. one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites",
+      "phonetic": "'kilәgræm",
+      "forms": [
+        "kilograms"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "additional",
+      "headword": "additional",
+      "kind": "word",
+      "zh": "a. 附加的, 另外的, 额外的\n[机] 加添的, 附加的",
+      "en": "s further or added",
+      "phonetic": "ә'diʃәnәl",
+      "forms": [
+        "additional"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "body fat",
+      "headword": "body fat",
+      "kind": "phrase",
+      "zh": "体脂",
+      "en": "fat stored in the body",
+      "forms": [
+        "body fat"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v15",
+      "term": "equivalent",
+      "headword": "equivalent",
+      "kind": "word",
+      "zh": "n. 同等物, 等价物, 相等物\na. 相等的, 相当的, 同意义的\n[计] 等价的",
+      "en": "n. a person or thing equal to another in value or measure or force or effect or significance etc\nn. the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen\ns. being essentially equal to something",
+      "phonetic": "i'kwivәlәnt",
+      "forms": [
+        "equivalent"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "cheese",
+      "headword": "cheese",
+      "kind": "word",
+      "zh": "n. 乳酪\n[化] 干酪",
+      "en": "n. a solid food prepared from the pressed curd of milk\nv. used in the imperative (get away, or stop it)\nv. wind onto a cheese",
+      "phonetic": "tʃi:z",
+      "forms": [
+        "cheese"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "pizzas",
+      "headword": "pizza",
+      "kind": "word",
+      "zh": "n. 比萨饼",
+      "en": "n. Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese",
+      "phonetic": "'pi:tsә",
+      "forms": [
+        "pizzas"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "survive",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "survive"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "hibernation",
+      "headword": "hibernation",
+      "kind": "word",
+      "zh": "n. 过冬, 冬眠, 避寒\n[医] 冬眠, 冬蛰",
+      "en": "n. the torpid or resting state in which some animals pass the winter\nn. cessation from or slowing of activity during the winter; especially slowing of metabolism in some animals\nn. the act of retiring into inactivity",
+      "phonetic": ".haibә'neiʃәn",
+      "forms": [
+        "hibernation"
+      ],
+      "example": "Bears even put on up to 400 pounds (180 kilograms) of additional body fat, the equivalent of 544 large cheese pizzas, to survive hibernation.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "constantly",
+      "headword": "constantly",
+      "kind": "word",
+      "zh": "adv. 不变地, 不断地, 时常地",
+      "en": "r. without variation or change, in every case\nr. without interruption",
+      "phonetic": "'kɒnstәntli",
+      "forms": [
+        "constantly"
+      ],
+      "example": "Fat is an important and constantly changing part of all bodies, including those of humans and our evolutionary ancestors.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "evolutionary",
+      "headword": "evolutionary",
+      "kind": "word",
+      "zh": "a. 展开的, 进化论的, 进化的, 发展的\n[计] 进化的, 改良的, 发展的",
+      "en": "a. of or relating to or produced by evolution",
+      "phonetic": ",i:vә'lu:ʃәnәri",
+      "forms": [
+        "evolutionary"
+      ],
+      "example": "Fat is an important and constantly changing part of all bodies, including those of humans and our evolutionary ancestors.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "ancestors",
+      "headword": "ancestor",
+      "kind": "word",
+      "zh": "n. 祖先, 祖宗",
+      "en": "n. someone from whom you are descended (but usually more remote than a grandparent)",
+      "phonetic": "'ænsestә",
+      "forms": [
+        "ancestors"
+      ],
+      "example": "Fat is an important and constantly changing part of all bodies, including those of humans and our evolutionary ancestors.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "adipose",
+      "headword": "adipose",
+      "kind": "word",
+      "zh": "a. 动物脂肪的, 肥胖的\nn. 动物脂肪",
+      "en": "s. composed of animal fat",
+      "phonetic": "'ædipәus",
+      "forms": [
+        "adipose"
+      ],
+      "example": "Fat, also called adipose tissue, is one kind of connective tissue that helps hold your body together.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "tissue",
+      "headword": "tissue",
+      "kind": "word",
+      "zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\n[化] 组织",
+      "en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper",
+      "phonetic": "'tiʃu:",
+      "forms": [
+        "tissue"
+      ],
+      "example": "Fat, also called adipose tissue, is one kind of connective tissue that helps hold your body together.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "connective",
+      "headword": "connective",
+      "kind": "word",
+      "zh": "a. 易于连接的, 连接的\nn. 连接物, 关联词\n[计] 连接词",
+      "en": "s. connecting or tending to connect",
+      "phonetic": "kә'nektiv",
+      "forms": [
+        "connective"
+      ],
+      "example": "Fat, also called adipose tissue, is one kind of connective tissue that helps hold your body together.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "mainly",
+      "headword": "mainly",
+      "kind": "word",
+      "zh": "adv. 主要地, 大抵",
+      "en": "r for the most part",
+      "phonetic": "'meinli",
+      "forms": [
+        "mainly"
+      ],
+      "example": "For a long time, scientists thought that adipose tissue was mainly a storage place for the extra energy your body doesn’t use from the food you eat.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "storage",
+      "headword": "storage",
+      "kind": "word",
+      "zh": "n. 存储器, 储藏, 保管, 库存, 仓库\n[计] 存放处; 存储",
+      "en": "n. the act of storing something\nn. the commercial enterprise of storing goods and materials\nn. (computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
+      "phonetic": "'stɒ:ridʒ",
+      "forms": [
+        "storage"
+      ],
+      "example": "For a long time, scientists thought that adipose tissue was mainly a storage place for the extra energy your body doesn’t use from the food you eat.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "For a long time, scientists thought that adipose tissue was mainly a storage place for the extra energy your body doesn’t use from the food you eat.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "functions",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "functions",
+        "function"
+      ],
+      "example": "While fat is a great source of stored energy, it also has many other functions.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "visceral",
+      "headword": "visceral",
+      "kind": "word",
+      "zh": "a. 内脏的\n[医] 内脏的",
+      "en": "a. relating to or affecting the viscera",
+      "phonetic": "'visәrәl",
+      "forms": [
+        "visceral"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "protective",
+      "headword": "protective",
+      "kind": "word",
+      "zh": "a. 给予保护的, 保护的\n[医] 保护的, 防护的, 保护剂, 保护物, 油绸",
+      "en": "a. intended or adapted to afford protection of some kind\ns. showing care\ns. (usually followed by `of') solicitously caring or mindful",
+      "phonetic": "prә'tektiv",
+      "forms": [
+        "protective"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "bubble",
+      "headword": "bubble",
+      "kind": "word",
+      "zh": "n. 泡沫\nvi. 冒泡, 沸腾\nvt. 使冒泡, 滔滔不绝地说",
+      "en": "n. a hollow globule of gas (e.g., air or carbon dioxide)\nn. an impracticable and illusory idea\nn. a dome-shaped covering made of transparent glass or plastic\nv. form, produce, or emit bubbles",
+      "phonetic": "'bʌbl",
+      "forms": [
+        "bubble"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "wrap",
+      "headword": "wrap",
+      "kind": "word",
+      "zh": "n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行\nvt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护\nvi. 缠绕, 穿外衣, 包起来\n[计] 换行",
+      "en": "n. cloak that is folded or wrapped around a person\nn. a sandwich in which the filling is rolled up in a soft tortilla\nv. arrange or fold as a cover or protection\nv. crash into so as to coil around",
+      "phonetic": "ræp",
+      "forms": [
+        "wrap"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "surrounding",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounding"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "internal",
+      "headword": "internal",
+      "kind": "word",
+      "zh": "a. 内在的, 国内的\n[医] 内的, 内部的",
+      "en": "a. happening or arising or located within some limits or especially surface\ns. occurring within an institution or community",
+      "phonetic": "in'tә:nәl",
+      "forms": [
+        "internal"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "organs",
+      "headword": "organ",
+      "kind": "word",
+      "zh": "n. 风琴, 器官, 元件, 机构, 机关\n[电] 风琴",
+      "en": "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function\nn. a government agency or instrument devoted to the performance of some specific function\nn. a periodical that is published by a special interest group\nn. wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard",
+      "phonetic": "'ɒ:gәn",
+      "forms": [
+        "organs"
+      ],
+      "example": "Visceral fat serves as a sort of protective bubble wrap, surrounding and filling in the spaces between your internal organs.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "subcutaneous",
+      "headword": "subcutaneous",
+      "kind": "word",
+      "zh": "a. 皮下的, 皮下用的\n[医] 皮下的",
+      "en": "a relating to or located below the epidermis",
+      "phonetic": ".sʌbkju:'teiniәs",
+      "forms": [
+        "subcutaneous"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "layer",
+      "headword": "layer",
+      "kind": "word",
+      "zh": "n. 层, 产卵鸡, 放置者\nvt. 分层堆积, 压植\n[计] 层",
+      "en": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells",
+      "phonetic": "'leiә",
+      "forms": [
+        "layer"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "muscle",
+      "headword": "muscle",
+      "kind": "word",
+      "zh": "n. 肌肉, 臂力\n[医] 肌",
+      "en": "n. one of the contractile organs of the body\nn. animal tissue consisting predominantly of contractile cells\nn. authority or power or force (especially when used in a coercive way)\nv. make one's way by force",
+      "phonetic": "'mʌsl",
+      "forms": [
+        "muscle"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "pinch",
+      "headword": "pinch",
+      "kind": "word",
+      "zh": "n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头\nvt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入, 逮捕, 勒索\nvi. 收缩, 节省, 挤压, 引起苦恼",
+      "en": "n. a painful or straitened circumstance\nn. an injury resulting from getting some body part squeezed\nn. a squeeze with the fingers\nv. squeeze tightly between the fingers",
+      "phonetic": "pintʃ",
+      "forms": [
+        "pinch"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "cushion",
+      "headword": "cushion",
+      "kind": "word",
+      "zh": "n. 垫子, 橡皮软垫\nvt. 加垫褥, 缓冲, 掩盖",
+      "en": "n. the layer of air that supports a hovercraft or similar vehicle\nn. a soft bag filled with air or a mass of padding such as feathers or foam rubber etc.\nv. protect from impact",
+      "phonetic": "'kuʃәn",
+      "forms": [
+        "cushion"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "warm",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warm"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "insulating",
+      "headword": "insulate",
+      "kind": "word",
+      "zh": "vt. 使绝缘, 隔离\n[医] 绝缘",
+      "en": "v. protect from heat, cold, or noise by surrounding with insulating material",
+      "phonetic": "'insjuleit",
+      "forms": [
+        "insulating",
+        "insulate"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "coat",
+      "headword": "coat",
+      "kind": "word",
+      "zh": "n. 外套\nvt. 外面覆盖, 给...穿外套",
+      "en": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat",
+      "phonetic": "kәut",
+      "forms": [
+        "coat"
+      ],
+      "example": "Subcutaneous fat, the layer of fat between your skin and your muscle that you can pinch, is a protective cushion and helps to keep you warm by insulating you like a coat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "hormones",
+      "headword": "hormone",
+      "kind": "word",
+      "zh": "n. 荷尔蒙\n[化] 激素(旧称荷尔蒙)",
+      "en": "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "phonetic": "'hɒ:mәun",
+      "forms": [
+        "hormones",
+        "hormone"
+      ],
+      "example": "Fat also produces and responds to hormones, a type of chemical messenger, to regulate how your body uses energy and to tell you when you are hungry or full.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical"
+      ],
+      "example": "Fat also produces and responds to hormones, a type of chemical messenger, to regulate how your body uses energy and to tell you when you are hungry or full.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "messenger",
+      "headword": "messenger",
+      "kind": "word",
+      "zh": "n. 报信者, 使者\n[经] 使者, 送信者, 通信员",
+      "en": "n. a person who carries a message",
+      "phonetic": "'mesindʒә",
+      "forms": [
+        "messenger"
+      ],
+      "example": "Fat also produces and responds to hormones, a type of chemical messenger, to regulate how your body uses energy and to tell you when you are hungry or full.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "regulate",
+      "headword": "regulate",
+      "kind": "word",
+      "zh": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+      "en": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+      "phonetic": "'regjuleit",
+      "forms": [
+        "regulate"
+      ],
+      "example": "Fat also produces and responds to hormones, a type of chemical messenger, to regulate how your body uses energy and to tell you when you are hungry or full.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "hungry",
+      "headword": "hungry",
+      "kind": "word",
+      "zh": "a. 饥饿的, 荒年的, 渴望的, 不毛的\n[化] 欠鞣皮",
+      "en": "a. feeling hunger; feeling a need or desire to eat food",
+      "phonetic": "'hʌŋgi",
+      "forms": [
+        "hungry"
+      ],
+      "example": "Fat also produces and responds to hormones, a type of chemical messenger, to regulate how your body uses energy and to tell you when you are hungry or full.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "White fat is the kind of fat most people are familiar with and performs the functions mentioned above.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "brown",
+      "headword": "brown",
+      "kind": "word",
+      "zh": "n. 褐色\na. 褐色的\nv. (使)变褐色",
+      "en": "n. an orange of low brightness and saturation\nn. Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858)\nn. abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859)\nv. fry in a pan until it changes color",
+      "phonetic": "braun",
+      "forms": [
+        "brown"
+      ],
+      "example": "You may be less familiar with brown fat, which is brown because it contains a lot of mitochondria: the parts of your cells that produce the energy your body needs to perform all its functions.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "mitochondria",
+      "headword": "mitochondria",
+      "kind": "word",
+      "zh": "线粒体\n[化] 线粒体",
+      "en": "n an organelle containing enzymes responsible for producing energy",
+      "phonetic": ",maitә'kɔndriә",
+      "forms": [
+        "mitochondria"
+      ],
+      "example": "You may be less familiar with brown fat, which is brown because it contains a lot of mitochondria: the parts of your cells that produce the energy your body needs to perform all its functions.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "torso",
+      "headword": "torso",
+      "kind": "word",
+      "zh": "n. 躯干, 裸体躯干雕像\n[医] 躯干",
+      "en": "n. the body excluding the head and neck and limbs",
+      "phonetic": "'tɔ:sәu",
+      "forms": [
+        "torso"
+      ],
+      "example": "When you were a baby, you had a lot of brown fat along your torso to help keep you warm because your body wasn’t mature enough to maintain your body temperature.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "mature",
+      "headword": "mature",
+      "kind": "word",
+      "zh": "a. 成熟的, 到期的, 充分考虑的\nvt. 使成熟\nvi. 成熟, 到期",
+      "en": "v. develop and reach maturity; undergo maturation\nv. develop and work out fully in one's mind\nv. become due for repayment\na. characteristic of maturity",
+      "phonetic": "mә'tjuә",
+      "forms": [
+        "mature"
+      ],
+      "example": "When you were a baby, you had a lot of brown fat along your torso to help keep you warm because your body wasn’t mature enough to maintain your body temperature.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature"
+      ],
+      "example": "When you were a baby, you had a lot of brown fat along your torso to help keep you warm because your body wasn’t mature enough to maintain your body temperature.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "located",
+      "headword": "locate",
+      "kind": "word",
+      "zh": "vt. 找出, 设于, 位于\nvi. 定居",
+      "en": "v. discover the location of; determine the place of; find by searching or examining\nv. assign a location to",
+      "phonetic": "'lәukeit",
+      "forms": [
+        "located"
+      ],
+      "example": "It is only located just above your collar bone and along your major deep blood vessels, like your aorta.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "collar",
+      "headword": "collar",
+      "kind": "word",
+      "zh": "n. 衣领, 颈圈\nvt. 控制, 扭住衣领, 给...装上领子",
+      "en": "n. a band that fits around the neck and is usually folded over\nn. (zoology) an encircling band or marking around the neck of any animal\nn. anything worn or placed about the neck\nn. a short ring fastened over a rod or shaft to limit, guide, or secure a machine part",
+      "phonetic": "'kɒlә",
+      "forms": [
+        "collar"
+      ],
+      "example": "It is only located just above your collar bone and along your major deep blood vessels, like your aorta.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "vessels",
+      "headword": "vessel",
+      "kind": "word",
+      "zh": "n. 船, 容器, 脉管\n[医] 管, 脉管, (容)器",
+      "en": "n. a tube in which a body fluid circulates\nn. a craft designed for water transportation\nn. an object used as a container (especially for liquids)",
+      "phonetic": "'vesl",
+      "forms": [
+        "vessels"
+      ],
+      "example": "It is only located just above your collar bone and along your major deep blood vessels, like your aorta.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "aorta",
+      "headword": "aorta",
+      "kind": "word",
+      "zh": "n. 主动脉\n[医] 主动脉",
+      "en": "n. the large trunk artery that carries blood from the left ventricle of the heart to branch arteries",
+      "phonetic": "ei'ɒ:tә",
+      "forms": [
+        "aorta"
+      ],
+      "example": "It is only located just above your collar bone and along your major deep blood vessels, like your aorta.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "neck",
+      "headword": "neck",
+      "kind": "word",
+      "zh": "n. 脖子, 衣领, 颈\nvi. 拥抱, 拥吻, 收缩\nvt. 割颈",
+      "en": "n. the part of an organism (human or animal) that connects the head to the rest of the body\nn. a narrow elongated projecting strip of land\nn. a cut of meat from the neck of an animal\nn. a narrow part of an artifact that resembles a neck in position or form",
+      "phonetic": "nek",
+      "forms": [
+        "neck"
+      ],
+      "example": "It is possible that it’s near the neck and around major blood vessels to help insulate the blood and keep overall body temperature in a healthy warm range.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "It is possible that it’s near the neck and around major blood vessels to help insulate the blood and keep overall body temperature in a healthy warm range.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "genetics",
+      "headword": "genetics",
+      "kind": "word",
+      "zh": "n. 遗传学\n[化] 遗传学",
+      "en": "n. the branch of biology that studies heredity and variation in organisms",
+      "phonetic": "dʒi'netiks",
+      "forms": [
+        "genetics"
+      ],
+      "example": "As for white fat, there appear to be three main factors that determine where your fat gets stored: genetics, hormones and age.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "genes",
+      "headword": "gene",
+      "kind": "word",
+      "zh": "n. 基因\n[化] 基因(遗传因子)",
+      "en": "n. (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity",
+      "phonetic": "dʒi:n",
+      "forms": [
+        "genes"
+      ],
+      "example": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "direct",
+      "headword": "direct",
+      "kind": "word",
+      "zh": "a. 直接的, 坦白的\nvt. 指示, 指挥, 命令, 导演\nvi. 指导, 指挥\nadv. 直接地",
+      "en": "v. command with authority\nv. guide the actors in (plays and films)\nv. be in charge of\nv. give directions to; point somebody into a certain direction",
+      "phonetic": "di'rekt",
+      "forms": [
+        "direct"
+      ],
+      "example": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "accumulate",
+      "headword": "accumulate",
+      "kind": "word",
+      "zh": "v. 积聚, 堆积",
+      "en": "v. collect or gather",
+      "phonetic": "ә'kju:mjuleit",
+      "forms": [
+        "accumulate"
+      ],
+      "example": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "collect",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collect"
+      ],
+      "example": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "estrogen",
+      "headword": "estrogen",
+      "kind": "word",
+      "zh": "n. 雌激素\n[化] 雌激素",
+      "en": "n. a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics",
+      "phonetic": "'estrәdʒәn",
+      "forms": [
+        "estrogen"
+      ],
+      "example": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "females",
+      "headword": "female",
+      "kind": "word",
+      "zh": "n. 女性, 女人, 雌性动物\na. 女性的, 女子的",
+      "en": "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\nn. a person who belongs to the sex that can have babies\na. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop\ns. characteristic of or peculiar to a woman",
+      "phonetic": "'fi:meil",
+      "forms": [
+        "females"
+      ],
+      "example": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "gather",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gather",
+        "gathering"
+      ],
+      "example": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "thighs",
+      "headword": "thigh",
+      "kind": "word",
+      "zh": "n. 大腿, 股\n[医] 股, 大腿",
+      "en": "n. the part of the leg between the hip and the knee",
+      "phonetic": "θai",
+      "forms": [
+        "thighs"
+      ],
+      "example": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "cortisol",
+      "headword": "cortisol",
+      "kind": "word",
+      "zh": "n. 皮质醇, 氢化可的松\n[化] 皮质醇; 皮质甾醇; 氢化可的松",
+      "en": "n an adrenal-cortex hormone (trade names Hydrocortone or Cortef) that is active in carbohydrate and protein metabolism",
+      "phonetic": "'kɔ:tisɔl",
+      "forms": [
+        "cortisol"
+      ],
+      "example": "Cortisol, the stress hormone, seems to direct visceral fat to accumulate in the belly area.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "stress",
+      "headword": "stress",
+      "kind": "word",
+      "zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力\nvt. 加压力于, 着重, 重读",
+      "en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)\nn. special emphasis attached to something\nn. difficulty that causes worry or emotional tension\nn. (physics) force that produces strain on a physical body",
+      "phonetic": "stres",
+      "forms": [
+        "stress"
+      ],
+      "example": "Cortisol, the stress hormone, seems to direct visceral fat to accumulate in the belly area.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "belly",
+      "headword": "belly",
+      "kind": "word",
+      "zh": "n. 腹部, 食欲\nvt. 使鼓起\nvi. 鼓起, 匍匐前进",
+      "en": "n. a protruding abdomen\nn. a part that bulges deeply\nn. the hollow inside of something\nn. the underpart of the body of certain vertebrates such as snakes or fish",
+      "phonetic": "'beli",
+      "forms": [
+        "belly"
+      ],
+      "example": "Cortisol, the stress hormone, seems to direct visceral fat to accumulate in the belly area.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "evenly",
+      "headword": "evenly",
+      "kind": "word",
+      "zh": "adv. 平衡地, 平坦地, 平等地",
+      "en": "r. in equal amounts or shares; in a balanced or impartial way\nr. in a level and regular way",
+      "phonetic": "'i:vәnli",
+      "forms": [
+        "evenly"
+      ],
+      "example": "But why isn’t fat evenly distributed throughout the body?",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "distributed",
+      "headword": "distribute",
+      "kind": "word",
+      "zh": "vt. 分配, 散布, 分发\n[经] 分配, 分发",
+      "en": "v. administer or bestow, as in small portions\nv. make available\nv. give to several people\nv. spread throughout a given area",
+      "phonetic": "di'stribju:t",
+      "forms": [
+        "distributed"
+      ],
+      "example": "But why isn’t fat evenly distributed throughout the body?",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "knees",
+      "headword": "knee",
+      "kind": "word",
+      "zh": "n. 膝, 膝盖\nvt. 膝行, 用膝盖碰",
+      "en": "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella\nn. the part of a trouser leg that provides the cloth covering for the knee",
+      "phonetic": "ni:",
+      "forms": [
+        "knees"
+      ],
+      "example": "Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "limit",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limit"
+      ],
+      "example": "Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "bend",
+      "headword": "bend",
+      "kind": "word",
+      "zh": "vi. 变弯曲, 屈服\nvt. 使弯曲, 使屈服\nn. 弯曲",
+      "en": "n. a circular segment of a curve\nn. curved segment (of a road or river or railroad track etc.)\nn. a town in central Oregon at the eastern foot of the Cascade Range\nn. diagonal line traversing a shield from the upper right corner to the lower left",
+      "phonetic": "bend",
+      "forms": [
+        "bend"
+      ],
+      "example": "Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "possibly",
+      "headword": "possibly",
+      "kind": "word",
+      "zh": "adv. 可能, 也许",
+      "en": "r. by chance\nr. to a degree possible of achievement or by possible means",
+      "phonetic": "'pɒsәbli",
+      "forms": [
+        "possibly"
+      ],
+      "example": "Storing a lot of fat around your head would possibly put your brain at risk of overheating.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "at risk",
+      "headword": "at risk",
+      "kind": "phrase",
+      "zh": "处于风险中",
+      "en": "in danger of being harmed",
+      "forms": [
+        "at risk"
+      ],
+      "example": "Storing a lot of fat around your head would possibly put your brain at risk of overheating.",
+      "paragraph": 21,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v82",
+      "term": "overheating",
+      "headword": "overheat",
+      "kind": "word",
+      "zh": "vt. 使过热\nvi. 变得过热",
+      "en": "v. get excessively and undesirably hot\nv. make excessively or undesirably hot",
+      "phonetic": ".әuvә'hi:t",
+      "forms": [
+        "overheating"
+      ],
+      "example": "Storing a lot of fat around your head would possibly put your brain at risk of overheating.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "hips",
+      "headword": "hip",
+      "kind": "word",
+      "zh": "n. 臀部, 蔷薇果, 忧郁\na. 熟悉内情的\nvt. 使忧郁, 给(屋顶)造屋脊\ninterj. 喝彩声",
+      "en": "n. either side of the body below the waist and above the thigh\nn. the ball-and-socket joint between the head of the femur and the acetabulum\nn. (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof\nn. the fruit of a rose plant",
+      "phonetic": "hip",
+      "forms": [
+        "hips"
+      ],
+      "example": "Other parts of your body, like hips, butts, breasts and thighs, don’t have these risks – maybe that’s why we store fat there.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "breasts",
+      "headword": "breast",
+      "kind": "word",
+      "zh": "n. 胸部, 乳房, 胸怀\nvt. 以胸对着, 面对",
+      "en": "n. the front of the trunk from the neck to the abdomen\nn. either of two soft fleshy milk-secreting glandular organs on the chest of a woman\nn. meat carved from the breast of a fowl\nn. the part of an animal's body that corresponds to a person's chest",
+      "phonetic": "brest",
+      "forms": [
+        "breasts"
+      ],
+      "example": "Other parts of your body, like hips, butts, breasts and thighs, don’t have these risks – maybe that’s why we store fat there.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "fooled",
+      "headword": "fool",
+      "kind": "word",
+      "zh": "n. 愚人, 受骗者, 奶油拌水果\nvt. 愚弄, 欺骗, 浪费\nvi. 干傻事, 开玩笑, 游荡\na. 傻的",
+      "en": "n. a person who lacks good judgment\nv. make a fool or dupe of",
+      "phonetic": "fu:l",
+      "forms": [
+        "fooled"
+      ],
+      "example": "Don’t be fooled: A lot of animals that look fat, like a hippopotamus, actually aren’t.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "hippopotamus",
+      "headword": "hippopotamus",
+      "kind": "word",
+      "zh": "n. 河马",
+      "en": "n. massive thick-skinned herbivorous animal living in or around rivers of tropical Africa",
+      "phonetic": ".hipә'pɒtәmәs",
+      "forms": [
+        "hippopotamus"
+      ],
+      "example": "Don’t be fooled: A lot of animals that look fat, like a hippopotamus, actually aren’t.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "hippos",
+      "headword": "hippo",
+      "kind": "word",
+      "zh": "n. 河马\n[化] 吐根(的别名)",
+      "en": "n. an ancient Numidian town in northwestern Africa adjoining present-day Annaba in northeastern Algeria",
+      "phonetic": "'hipәu",
+      "forms": [
+        "hippos"
+      ],
+      "example": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "percentage",
+      "headword": "percentage",
+      "kind": "word",
+      "zh": "n. 百分比, 比率, 部分, 可能性\n[计] 百分比",
+      "en": "n. a proportion in relation to a whole (which is usually the amount per hundred)",
+      "phonetic": "pә'sentidʒ",
+      "forms": [
+        "percentage"
+      ],
+      "example": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass"
+      ],
+      "example": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "kingdom",
+      "headword": "kingdom",
+      "kind": "word",
+      "zh": "n. 王国, 领域\n[医] 界(动物,植物,矿物)",
+      "en": "n. a domain in which something is dominant\nn. a country with a king as head of state\nn. the domain ruled by a king or queen\nn. a monarchy with a king or queen as head of state",
+      "phonetic": "'kiŋdәm",
+      "forms": [
+        "kingdom"
+      ],
+      "example": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "biologists",
+      "headword": "biologist",
+      "kind": "word",
+      "zh": "n. 生物学家\n[医] 生物学家",
+      "en": "n. (biology) a scientist who studies living organisms",
+      "phonetic": "bai'ɒlәdʒist",
+      "forms": [
+        "biologists"
+      ],
+      "example": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "hibernating",
+      "headword": "hibernate",
+      "kind": "word",
+      "zh": "vi. 过冬, 冬眠, 避寒",
+      "en": "v. sleep during winter\nv. be in an inactive or dormant state",
+      "phonetic": "'haibәneit",
+      "forms": [
+        "hibernating",
+        "hibernate"
+      ],
+      "example": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "marine",
+      "headword": "marine",
+      "kind": "word",
+      "zh": "n. 舰队, 水兵, 海景画\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+      "en": "n. a member of the United States Marine Corps\nn. a soldier who serves both on shipboard and on land\na. of or relating to the sea\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+      "phonetic": "mә'ri:n",
+      "forms": [
+        "marine"
+      ],
+      "example": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "mammals",
+      "headword": "mammal",
+      "kind": "word",
+      "zh": "n. 哺乳动物\n[化] 哺乳动物",
+      "en": "n. any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk",
+      "phonetic": "mæmәl",
+      "forms": [
+        "mammals"
+      ],
+      "example": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "energy storage",
+      "headword": "energy storage",
+      "kind": "phrase",
+      "zh": "储能",
+      "en": "keeping energy for use at a later time",
+      "forms": [
+        "energy storage"
+      ],
+      "example": "For the hibernators, the fat serves as energy storage for long, cold winters.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v97",
+      "term": "seals",
+      "headword": "seal",
+      "kind": "word",
+      "zh": "n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志\nvt. 封闭, 盖印, 盖章\nvi. 猎海豹",
+      "en": "n. a device incised to make an impression; used to secure a closing or to authenticate documents\nn. the pelt or fur (especially the underfur) of a seal\nn. a stamp affixed to a document (as to attest to its authenticity or to seal it)\nn. a finishing coat applied to exclude moisture",
+      "phonetic": "si:l",
+      "forms": [
+        "seals"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "whales",
+      "headword": "whale",
+      "kind": "word",
+      "zh": "n. 鲸\nvi. 捕鲸\nvt. 使惨败, 猛揍",
+      "en": "n. any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head\nv. hunt for whales",
+      "phonetic": "hweil",
+      "forms": [
+        "whales"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "puffy",
+      "headword": "puffy",
+      "kind": "word",
+      "zh": "a. 胀大的, 肥胖的, 喘气的, 一阵阵吹的\n[医] 虚肿的, 浮肿的",
+      "en": "s. abnormally distended especially by fluids or gas",
+      "phonetic": "'pʌfi",
+      "forms": [
+        "puffy"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "depths",
+      "headword": "depth",
+      "kind": "word",
+      "zh": "n. 深度, 深处, 深奥\n[计] 深度",
+      "en": "n. the extent downward or backward or inward\nn. degree of psychological or intellectual profundity\nn. (usually plural) the deepest and most remote part\nn. (usually plural) a low moral state",
+      "phonetic": "depθ",
+      "forms": [
+        "depths"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "primates",
+      "headword": "primate",
+      "kind": "word",
+      "zh": "n. 大主教, 灵长目动物\n[医] 灵长类",
+      "en": "n. any placental mammal of the order Primates; has good eyesight and flexible hands and feet",
+      "phonetic": "'praimit",
+      "forms": [
+        "primates"
+      ],
+      "example": "Humans do not hibernate, nor do we live in the ocean, so why do we have a lot more fat than all other primates and most mammals?",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "anthropologists",
+      "headword": "anthropologist",
+      "kind": "word",
+      "zh": "n. 人类学家",
+      "en": "n. a social scientist who specializes in anthropology",
+      "phonetic": ".ænθrә'pɒlәdʒist",
+      "forms": [
+        "anthropologists"
+      ],
+      "example": "Anthropologists like me, who study how the human body has evolved over time, think it has to do with the lifestyle of our evolutionary ancestors who had to gather and hunt to survive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "evolved",
+      "headword": "evolve",
+      "kind": "word",
+      "zh": "vi. 进展, 进化, 展开\nvt. 使发展, 使推断出, 使进化",
+      "en": "v. work out\nv. undergo development or evolution",
+      "phonetic": "i'vɒlv",
+      "forms": [
+        "evolved"
+      ],
+      "example": "Anthropologists like me, who study how the human body has evolved over time, think it has to do with the lifestyle of our evolutionary ancestors who had to gather and hunt to survive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "lifestyle",
+      "headword": "lifestyle",
+      "kind": "word",
+      "zh": "n. 生活方式",
+      "en": "n a manner of living that reflects the person's values and attitudes",
+      "phonetic": "'laifstail",
+      "forms": [
+        "lifestyle"
+      ],
+      "example": "Anthropologists like me, who study how the human body has evolved over time, think it has to do with the lifestyle of our evolutionary ancestors who had to gather and hunt to survive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "hunt",
+      "headword": "hunt",
+      "kind": "word",
+      "zh": "n. 狩猎, 追捕, 搜寻, 猎区\nvt. 狩猎, 打猎, 搜索\nvi. 打猎, 猎食, 搜寻",
+      "en": "n. Englishman and Pre-Raphaelite painter (1827-1910)\nn. United States architect (1827-1895)\nn. British writer who defended the Romanticism of Keats and Shelley (1784-1859)\nn. an association of huntsmen who hunt for sport",
+      "phonetic": "hʌnt",
+      "forms": [
+        "hunt",
+        "hunting"
+      ],
+      "example": "Anthropologists like me, who study how the human body has evolved over time, think it has to do with the lifestyle of our evolutionary ancestors who had to gather and hunt to survive.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "reliable",
+      "headword": "reliable",
+      "kind": "word",
+      "zh": "a. 可靠的, 可信赖的\n[法] 可靠的, 可信赖的, 确实的",
+      "en": "a. worthy of reliance or trust",
+      "phonetic": "ri'laiәbl",
+      "forms": [
+        "reliable"
+      ],
+      "example": "Gathering and hunting were not always reliable food sources.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "rely",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "rely"
+      ],
+      "example": "When food was difficult to find, they could rely on their extra fat stores to carry them through until food became available again.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "rely on",
+      "headword": "rely on",
+      "kind": "phrase",
+      "zh": "依靠；依赖",
+      "en": "to depend on",
+      "forms": [
+        "rely on"
+      ],
+      "example": "When food was difficult to find, they could rely on their extra fat stores to carry them through until food became available again.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v111",
+      "term": "stone",
+      "headword": "stone",
+      "kind": "word",
+      "zh": "n. 石头, 宝石, 果核, 纪念碑, 结石\nvt. 投扔石子, 铺石头\na. 石的, 石制的, 完全的",
+      "en": "n. building material consisting of a piece of rock hewn in a definite shape for a special purpose\nn. an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds\nn. the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed\nn. United States jurist who was named chief justice of the United States Supreme Court in 1941 by Franklin D. Roosevelt (1872-1946)",
+      "phonetic": "stәun",
+      "forms": [
+        "stone"
+      ],
+      "example": "We have one line of evidence from small stone figures known as Gravettian statues.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "statues",
+      "headword": "statue",
+      "kind": "word",
+      "zh": "vt. 以雕像装饰\nn. 雕像",
+      "en": "n. a sculpture representing a human or animal",
+      "phonetic": "'stætju",
+      "forms": [
+        "statues"
+      ],
+      "example": "We have one line of evidence from small stone figures known as Gravettian statues.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "These ancient statues from 25,000 to 28,000 years ago depict feminine figures who carry a lot of extra body fat.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "depict",
+      "headword": "depict",
+      "kind": "word",
+      "zh": "vt. 描述, 描写",
+      "en": "v show in, or as in, a picture\nv give a description of\nv make a portrait of",
+      "phonetic": "di'pikt",
+      "forms": [
+        "depict",
+        "depicted"
+      ],
+      "example": "These ancient statues from 25,000 to 28,000 years ago depict feminine figures who carry a lot of extra body fat.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "feminine",
+      "headword": "feminine",
+      "kind": "word",
+      "zh": "a. 女性的, 阴性的, 柔弱的\n[医] 女性的, 雌性的",
+      "en": "n. a gender that refers chiefly (but not exclusively) to females or to objects classified as female\na. associated with women and not with men\na. of grammatical gender\ns. (music or poetry) ending on an unaccented beat or syllable",
+      "phonetic": "'feminin",
+      "forms": [
+        "feminine"
+      ],
+      "example": "These ancient statues from 25,000 to 28,000 years ago depict feminine figures who carry a lot of extra body fat.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "archaeologists",
+      "headword": "archaeologist",
+      "kind": "word",
+      "zh": "n. 考古学家",
+      "en": "n an anthropologist who studies prehistoric people and their culture",
+      "phonetic": ".ɑ:ki'ɒlәdʒist",
+      "forms": [
+        "archaeologists"
+      ],
+      "example": "Archaeologists have found them all throughout Europe and Russia.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "russia",
+      "headword": "Russia",
+      "kind": "word",
+      "zh": "n. 俄国, 俄罗斯\n[法] 俄罗斯, 苏联",
+      "en": "n. a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917\nn. a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state",
+      "phonetic": "'rʌʃә",
+      "forms": [
+        "russia"
+      ],
+      "example": "Archaeologists have found them all throughout Europe and Russia.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "matches",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "matches"
+      ],
+      "example": "The way the ancient artists depicted fat on these figures matches how fat looks on bodies today.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "accuracy",
+      "headword": "accuracy",
+      "kind": "word",
+      "zh": "n. 精确, 正确\n[计] 准确度",
+      "en": "n. the quality of being near to the true value\nn. (mathematics) the number of significant figures given in a number",
+      "phonetic": "'ækjurәsi",
+      "forms": [
+        "accuracy"
+      ],
+      "example": "This accuracy has led researchers to believe that the makers of the Gravettian statues knew how individuals with greater body fat actually looked, meaning at least some people at this time did put on a lot of extra fat.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "makers",
+      "headword": "maker",
+      "kind": "word",
+      "zh": "n. 制造者, 上帝\n[经] 制造者, 出票人",
+      "en": "n. a person who makes things",
+      "phonetic": "'meikә",
+      "forms": [
+        "makers"
+      ],
+      "example": "This accuracy has led researchers to believe that the makers of the Gravettian statues knew how individuals with greater body fat actually looked, meaning at least some people at this time did put on a lot of extra fat.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "This accuracy has led researchers to believe that the makers of the Gravettian statues knew how individuals with greater body fat actually looked, meaning at least some people at this time did put on a lot of extra fat.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v122",
+      "term": "extremely",
+      "headword": "extremely",
+      "kind": "word",
+      "zh": "adv. 极端地, 非常地",
+      "en": "r. to an extreme degree",
+      "phonetic": "ik'stri:mli",
+      "forms": [
+        "extremely"
+      ],
+      "example": "Europe and Russia back then were much colder than they are today, supporting the idea that our ancestors would have needed the extra fat to get through the extremely cold winters when food was harder to find.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "poke",
+      "headword": "poke",
+      "kind": "word",
+      "zh": "n. 刺, 戳, 袋子\nvt. 戳, 捅, 拨弄, 刺\nvi. 戳, 刺, 捅, 搜索, 伸出, 行动散慢\n[计] 存数",
+      "en": "n. tall coarse perennial American herb having small white flowers followed by blackish-red berries on long drooping racemes; young fleshy stems are edible; berries and root are poisonous\nv. stir by poking\nv. make a hole by poking",
+      "phonetic": "pәuk",
+      "forms": [
+        "poke"
+      ],
+      "example": "So, the next time you poke at your butt fat, remember that fat is a really important part of our bodies, performs lots of different functions, and is likely evolutionarily ancient for us humans.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "evolutionarily",
+      "headword": "evolutionarily",
+      "kind": "word",
+      "zh": "adv. 演化地, 演进地(evolutionary的变形)",
+      "en": "r. in an evolutionary way; from an evolutionary point of view",
+      "phonetic": ",i:və,lu:ʃən'ærili",
+      "forms": [
+        "evolutionarily"
+      ],
+      "example": "So, the next time you poke at your butt fat, remember that fat is a really important part of our bodies, performs lots of different functions, and is likely evolutionarily ancient for us humans.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "hello",
+      "headword": "hello",
+      "kind": "word",
+      "zh": "interj. 喂, 嘿",
+      "en": "n. an expression of greeting",
+      "phonetic": "hә'lәu",
+      "forms": [
+        "hello"
+      ],
+      "example": "Hello, curious kids! Do you have a question you’d like an expert to answer? Ask an adult to send your question to CuriousKidsUS@theconversation.com. Please tell us your name, age and the city where you live.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "curiosity",
+      "headword": "curiosity",
+      "kind": "word",
+      "zh": "n. 好奇心, 新奇的事物, 珍品",
+      "en": "n. a state in which you want to learn more about something",
+      "phonetic": ".kjuәri'ɒsiti",
+      "forms": [
+        "curiosity"
+      ],
+      "example": "And since curiosity has no age limit – adults, let us know what you’re wondering, too.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      17,
+      24
+    ],
+    "wordBank": [
+      "temperature",
+      "gather",
+      "store",
+      "distributed",
+      "possibly",
+      "extra",
+      "collect",
+      "brown",
+      "percentage",
+      "hibernating"
+    ],
+    "parts": [
+      {
+        "text": "Researchers don’t know enough yet about "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " fat to know why it is in just a few parts of the body. It is possible that it’s near the neck and around major blood vessels to help insulate the blood and keep overall body "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " in a healthy warm range.\n\nAs for white fat, there appear to be three main factors that determine where your fat gets stored: genetics, hormones and age.\n\nCertain genes direct fat to accumulate in the butt, while other genes tell it to "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " on the torso.\n\nHormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " in the butt, thighs and backs of the arms. Cortisol, the stress hormone, seems to direct visceral fat to accumulate in the belly area.\n\nBut why isn’t fat evenly "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " throughout the body? Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs. Storing a lot of fat around your head would "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " put your brain at risk of overheating. Other parts of your body, like hips, butts, breasts and thighs, don’t have these risks – maybe that’s why we "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " fat there.\n\nWhy do people have fat at all?\n\nDon’t be fooled: A lot of animals that look fat, like a hippopotamus, actually aren’t. Hippos only have around 2% body fat, the "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " of how much of your body mass comes from fat; while the average human woman has over 30% body fat.\n\nIn the rest of the animal kingdom, biologists typically only see a lot of body fat among "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " or marine mammals. For the hibernators, the fat serves as energy storage for long, cold winters. For marine mammals like seals and whales, that "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "brown",
+        "vocabularyId": "v51",
+        "explanation": "原文此处使用 brown（brown）。结合上下文辨认词义与词形。",
+        "evidence": "Researchers don’t know enough yet about brown fat to know why it is in just a few parts of the body.",
+        "paragraph": 17
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "temperature",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 temperature（temperature）。结合上下文辨认词义与词形。",
+        "evidence": "It is possible that it’s near the neck and around major blood vessels to help insulate the blood and keep overall body temperature in a healthy warm range.",
+        "paragraph": 17
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "collect",
+        "vocabularyId": "v66",
+        "explanation": "原文此处使用 collect（collect）。结合上下文辨认词义与词形。",
+        "evidence": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
+        "paragraph": 19
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "gather",
+        "vocabularyId": "v70",
+        "explanation": "原文此处使用 gather（gather）。结合上下文辨认词义与词形。",
+        "evidence": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
+        "paragraph": 20
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "distributed",
+        "vocabularyId": "v76",
+        "explanation": "原文此处使用 distributed（distribute）。结合上下文辨认词义与词形。",
+        "evidence": "But why isn’t fat evenly distributed throughout the body?",
+        "paragraph": 21
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "possibly",
+        "vocabularyId": "v80",
+        "explanation": "原文此处使用 possibly（possibly）。结合上下文辨认词义与词形。",
+        "evidence": "Storing a lot of fat around your head would possibly put your brain at risk of overheating.",
+        "paragraph": 21
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "store",
+        "vocabularyId": "v2",
+        "explanation": "原文此处使用 store（store）。结合上下文辨认词义与词形。",
+        "evidence": "Other parts of your body, like hips, butts, breasts and thighs, don’t have these risks – maybe that’s why we store fat there.",
+        "paragraph": 21
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "percentage",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 percentage（percentage）。结合上下文辨认词义与词形。",
+        "evidence": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+        "paragraph": 23
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "hibernating",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 hibernating（hibernate）。结合上下文辨认词义与词形。",
+        "evidence": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
+        "paragraph": 24
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "extra",
+        "vocabularyId": "v28",
+        "explanation": "原文此处使用 extra（extra）。结合上下文辨认词义与词形。",
+        "evidence": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
+        "paragraph": 24
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The location and function of body fat help explain why fat is stored around the buttocks.",
+          "New research explores a way to repair heart tissue damaged by a heart attack.",
+          "Research compares heat and cold as approaches to recovery after exercise.",
+          "Mammograms may reveal information about cardiovascular health as well as breast cancer."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
+        "paragraph": 23
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How does the article characterise body fat?",
+        "options": [
+          "As an important and changing component of the body",
+          "As something found only in modern humans",
+          "As an entirely inactive substance with no role",
+          "As a material that can never change"
+        ],
+        "answer": 0,
+        "explanation": "第 6 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Fat is an important and constantly changing part of all bodies, including those of humans and our evolutionary ancestors.",
+        "paragraph": 6
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 14?",
+        "options": [
+          "Fat, also called adipose tissue, is one kind of connective tissue that helps hold your body together.",
+          "Scientists know that brown fat performs a special function to heat your body when you get cold.",
+          "White fat is the kind of fat most people are familiar with and performs the functions mentioned above.",
+          "It is only located just above your collar bone and along your major deep blood vessels, like your aorta."
+        ],
+        "answer": 1,
+        "explanation": "定位第 14 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Scientists know that brown fat performs a special function to heat your body when you get cold.",
+        "paragraph": 14
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs.”",
+        "options": [
+          "Paragraph 8",
+          "Paragraph 30",
+          "Paragraph 21",
+          "Paragraph 10"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 21 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Well, having a lot of fat around your elbows and knees would limit your ability to bend your arms and legs.",
+        "paragraph": 21
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“These ancient statues from 25,000 to 28,000 years ago depict feminine figures who carry a lot of extra body fat.”",
+        "options": [
+          "Paragraph 15",
+          "Paragraph 21",
+          "Paragraph 6",
+          "Paragraph 28"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 28 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "These ancient statues from 25,000 to 28,000 years ago depict feminine figures who carry a lot of extra body fat.",
+        "paragraph": 28
+      }
+    ]
+  },
+  "revision": "127be074a461b99f4f326f05c3a25199ccb22dd7caa9cf5c01da26c8588bee26"
+}

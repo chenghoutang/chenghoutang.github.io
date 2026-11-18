@@ -1,0 +1,2832 @@
+{
+  "schemaVersion": 1,
+  "folder": "038",
+  "articleSha256": "d1643818de970426a1cdaa15f096a5659be17eb192afb105967045e006e67c10",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "What’s the best way to protect ourselves against climate change?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "climate change",
+      "headword": "climate change",
+      "kind": "phrase",
+      "zh": "气候变化",
+      "en": "long-term shifts in climate patterns",
+      "forms": [
+        "climate change"
+      ],
+      "example": "What’s the best way to protect ourselves against climate change?",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "default",
+      "headword": "default",
+      "kind": "word",
+      "zh": "n. 违约, 不履行责任, 缺席, 默认值\nv. 疏怠职责, 缺席, 拖欠, 默认\n[计] 默认; 默认值; 缺省值",
+      "en": "n. loss due to not showing up\nn. act of failing to meet a financial obligation\nv. fail to pay up",
+      "phonetic": "di'fɒ:lt",
+      "forms": [
+        "default"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "concrete",
+      "headword": "concrete",
+      "kind": "word",
+      "zh": "n. 凝结物, 混凝土\na. 具体的, 实在的, 混凝土的\nv. (使)凝结, 用混凝土浇筑",
+      "en": "n. a strong hard building material composed of sand and gravel and cement and water\nv. cover with cement\nv. form into a solid mass; coalesce\na. capable of being perceived by the senses; not abstract or imaginary",
+      "phonetic": "'kɒnkri:t",
+      "forms": [
+        "concrete"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "steel",
+      "headword": "steel",
+      "kind": "word",
+      "zh": "n. 钢, 钢制品, 钢铁, 坚硬, 坚固\na. 钢的, 钢制的, 钢铁业的, 坚强的\nvt. 使坚强, 钢化, 使冷酷",
+      "en": "n. an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range\nn. knife sharpener consisting of a ridged steel rod\nv. get ready for something difficult or unpleasant\nv. cover, plate, or edge with steel",
+      "phonetic": "sti:l",
+      "forms": [
+        "steel"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "dykes",
+      "headword": "dyke",
+      "kind": "word",
+      "zh": "n. 堤",
+      "en": "n (slang) offensive term for a lesbian who is noticeably masculine\nn a barrier constructed to contain the flow of water or to keep out the sea\nv enclose with a dike",
+      "phonetic": "daik",
+      "forms": [
+        "dykes"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "dams",
+      "headword": "dam",
+      "kind": "word",
+      "zh": "n. 水坝, 障碍\nv. 控制, 筑坝\n[计] 直接存取法",
+      "en": "n. a barrier constructed to contain the flow of water or to keep out the sea\nn. female parent of an animal especially domestic livestock\nv. obstruct with, or as if with, a dam",
+      "phonetic": "dæm",
+      "forms": [
+        "dams"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "drainage",
+      "headword": "drainage",
+      "kind": "word",
+      "zh": "n. 排水\n[医] 引流[法], 导液[法], 排水[设备]",
+      "en": "n emptying something accomplished by allowing liquid to run out of it",
+      "phonetic": "'dreinidʒ",
+      "forms": [
+        "drainage"
+      ],
+      "example": "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "expensive",
+      "headword": "expensive",
+      "kind": "word",
+      "zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
+      "en": "a. high in price or charging high prices",
+      "phonetic": "ik'spensiv",
+      "forms": [
+        "expensive"
+      ],
+      "example": "What’s the best way to protect ourselves against climate change? The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems. These can work. But they are expensive and inflexible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "inflexible",
+      "headword": "inflexible",
+      "kind": "word",
+      "zh": "a. 不屈曲的, 不屈挠的, 顽固的",
+      "en": "a. incapable of change\na. resistant to being bent; \ns. incapable of adapting or changing to meet circumstances",
+      "phonetic": "in'fleksәbl",
+      "forms": [
+        "inflexible"
+      ],
+      "example": "What’s the best way to protect ourselves against climate change? The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems. These can work. But they are expensive and inflexible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "cheaper",
+      "headword": "cheap",
+      "kind": "word",
+      "zh": "a. 便宜的, 不值钱的, 可鄙的\nadv. 便宜地",
+      "en": "a. relatively low in price or charging low prices\ns. embarrassingly stingy",
+      "phonetic": "tʃi:p",
+      "forms": [
+        "cheaper"
+      ],
+      "example": "There’s another, much cheaper option which gets vastly less attention.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "vastly",
+      "headword": "vastly",
+      "kind": "word",
+      "zh": "adv. 广大地, 许多, 巨大",
+      "en": "r. to an exceedingly great extent or degree",
+      "phonetic": "'vɑ:stli",
+      "forms": [
+        "vastly"
+      ],
+      "example": "There’s another, much cheaper option which gets vastly less attention.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "mangroves",
+      "headword": "mangrove",
+      "kind": "word",
+      "zh": "n. 红树属树木",
+      "en": "n. a tropical tree or shrub bearing fruit that germinates while still on the tree and having numerous prop roots that eventually form an impenetrable mass and are important in land building",
+      "phonetic": "'mæŋgrәuv",
+      "forms": [
+        "mangroves",
+        "mangrove"
+      ],
+      "example": "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "forests",
+      "headword": "forest",
+      "kind": "word",
+      "zh": "n. 森林, 林区\nvt. 植树于",
+      "en": "n. the trees and other plants in a large densely wooded area\nn. land that is covered with trees and shrubs",
+      "phonetic": "'fɒrist",
+      "forms": [
+        "forests"
+      ],
+      "example": "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "farms",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farms"
+      ],
+      "example": "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "floods",
+      "headword": "flood",
+      "kind": "word",
+      "zh": "n. 洪水, 大量之水, 涨潮\nvt. 淹没, 使泛滥, 注满\nvi. 被淹, 溢出, 涌进",
+      "en": "n. the rising of a body of water and its overflowing onto normally dry land\nn. an overwhelming number or amount\nn. light that is a source of artificial illumination having a broad beam; used in photography\nn. a large flow",
+      "phonetic": "flʌd",
+      "forms": [
+        "floods",
+        "flood"
+      ],
+      "example": "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "droughts",
+      "headword": "drought",
+      "kind": "word",
+      "zh": "n. 干旱, 缺乏",
+      "en": "n. a shortage of rainfall\nn. a prolonged shortage",
+      "phonetic": "draut",
+      "forms": [
+        "droughts"
+      ],
+      "example": "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "high-performance",
+      "headword": "high-performance",
+      "kind": "word",
+      "zh": "高效能, 高性能的, 高指标",
+      "en": "s modified to give superior performance",
+      "phonetic": "hai pəˈfɔ:məns",
+      "forms": [
+        "high-performance"
+      ],
+      "example": "As our recent research shows, these methods aren’t fig leaves – they’re high-performance critical infrastructure.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "infrastructure",
+      "headword": "infrastructure",
+      "kind": "word",
+      "zh": "n. 基础结构, 基础设施\n[经] 基础设施",
+      "en": "n. the basic structure or features of a system or organization\nn. the stock of basic facilities and capital equipment needed for the functioning of a country or area",
+      "phonetic": "'infrәstrʌktʃә",
+      "forms": [
+        "infrastructure"
+      ],
+      "example": "As our recent research shows, these methods aren’t fig leaves – they’re high-performance critical infrastructure.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "unlike",
+      "headword": "unlike",
+      "kind": "word",
+      "zh": "a. 不像的, 不同的\nprep. 不像, 和...不同",
+      "en": "a. marked by dissimilarity\na. not equal in amount",
+      "phonetic": ".ʌn'laik",
+      "forms": [
+        "unlike"
+      ],
+      "example": "Unlike grey infrastructure of steel and concrete, these living systems can adapt as the climate shifts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "grey",
+      "headword": "grey",
+      "kind": "word",
+      "zh": "n. 灰色\na. 灰色的, 阴沉的\nv. (使)成灰色",
+      "en": "n. United States writer of western adventure novels (1875-1939)\nn. Queen of England for nine days in 1553; she was quickly replaced by Mary Tudor and beheaded for treason (1537-1554)\nn. Englishman who as Prime Minister implemented social reforms including the abolition of slavery throughout the British Empire (1764-1845)\nn. any organization or party whose uniforms or badges are grey",
+      "phonetic": "grei",
+      "forms": [
+        "grey"
+      ],
+      "example": "Unlike grey infrastructure of steel and concrete, these living systems can adapt as the climate shifts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "adapt",
+      "headword": "adapt",
+      "kind": "word",
+      "zh": "vt. 使适应, 改编\nvi. 适应",
+      "en": "v. make fit for, or change to suit a new purpose",
+      "phonetic": "ә'dæpt",
+      "forms": [
+        "adapt"
+      ],
+      "example": "Unlike grey infrastructure of steel and concrete, these living systems can adapt as the climate shifts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "shifts",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shifts",
+        "shift"
+      ],
+      "example": "Unlike grey infrastructure of steel and concrete, these living systems can adapt as the climate shifts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "for example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "for example"
+      ],
+      "example": "Mangrove forests can shift as the sea rises, for example.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v25",
+      "term": "proven",
+      "headword": "proven",
+      "kind": "word",
+      "zh": "prove的过去分词",
+      "en": "v be shown or be found to be\nv establish the validity of something, as by an example, explanation or experiment\nv provide evidence for\nv prove formally; demonstrate by a mathematical, formal proof\nv put to the test, as for its quality, or give experimental use to\nv increase in volume\nv cause to puff up with a leaven\nv take a trial impression of\nv obtain probate of\na established beyond doubt",
+      "phonetic": "'pru:vn",
+      "forms": [
+        "proven"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "cost-effective",
+      "headword": "cost-effective",
+      "kind": "word",
+      "zh": "a. 有成本效益的, 划算的; 合算的（等于cost-efficient）",
+      "en": "s productive relative to the cost",
+      "phonetic": "kɒst ɪ'fektɪv",
+      "forms": [
+        "cost-effective"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "functional",
+      "headword": "functional",
+      "kind": "word",
+      "zh": "a. 功能的\n[医] 机能的, 功能的, 官能的",
+      "en": "a. designed for or capable of a particular function or use\na. involving or affecting function rather than physiology\na. relating to or based on function especially as opposed to structure; it is a functional one\"\ns. fit or ready for use or service",
+      "phonetic": "'fʌŋkʃәnәl",
+      "forms": [
+        "functional"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "brazil",
+      "headword": "Brazil",
+      "kind": "word",
+      "zh": "n. 巴西",
+      "en": "n. the largest Latin American country and the largest Portuguese speaking country in the world; located in the central and northeastern part of South America; world's leading coffee exporter",
+      "phonetic": "brә'zil",
+      "forms": [
+        "brazil"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "kenya",
+      "headword": "Kenya",
+      "kind": "word",
+      "zh": "n. 肯尼亚",
+      "en": "n. a republic in eastern Africa; achieved independence from the United Kingdom in 1963; major archeological discoveries have been made in the Great Rift Valley in Kenya",
+      "phonetic": "'kenjә",
+      "forms": [
+        "kenya"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "indonesia",
+      "headword": "Indonesia",
+      "kind": "word",
+      "zh": "n. 印尼",
+      "en": "n. a republic in southeastern Asia on an archipelago including more than 13,000 islands; achieved independence from the Netherlands in 1945; the principal oil producer in the Far East and Pacific regions",
+      "phonetic": ".indәu'ni:ʒә",
+      "forms": [
+        "indonesia"
+      ],
+      "example": "Green infrastructure has proven itself cost-effective and functional in nations from Brazil to Kenya to Indonesia.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "adoption",
+      "headword": "adoption",
+      "kind": "word",
+      "zh": "n. 采用, 采纳, 收养\n[法] 收养, 采纳, 采用",
+      "en": "n. the act of accepting with approval; favorable reception\nn. a legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit)",
+      "phonetic": "ә'dɒpʃәn",
+      "forms": [
+        "adoption"
+      ],
+      "example": "But adoption could be much broader – if authorities properly considered nature as an infrastructure option.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "properly",
+      "headword": "properly",
+      "kind": "word",
+      "zh": "adv. 适当地, 相当地",
+      "en": "r. in the right manner",
+      "phonetic": "'prɒpәli",
+      "forms": [
+        "properly"
+      ],
+      "example": "But adoption could be much broader – if authorities properly considered nature as an infrastructure option.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "nature",
+      "headword": "nature",
+      "kind": "word",
+      "zh": "n. 自然, 大自然, 本性, 性格, 性质\n[医] 自然, 大自然; 本性, 性能",
+      "en": "n. the essential qualities or characteristics by which something is recognized\nn. a causal agent creating and controlling things in the universe\nn. the natural physical world including plants and animals and landscapes etc.\nn. the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+      "phonetic": "'neitʃә",
+      "forms": [
+        "nature"
+      ],
+      "example": "But adoption could be much broader – if authorities properly considered nature as an infrastructure option.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "limits",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limits",
+        "limited"
+      ],
+      "example": "The limits of concrete and steel",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "engineered",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineered",
+        "engineering"
+      ],
+      "example": "Many engineered assets were designed for a stable climate that no longer exists.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "assets",
+      "headword": "asset",
+      "kind": "word",
+      "zh": "n. 资产, 有益的东西",
+      "en": "n. a useful or valuable quality",
+      "phonetic": "'æset",
+      "forms": [
+        "assets",
+        "asset"
+      ],
+      "example": "Many engineered assets were designed for a stable climate that no longer exists.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "stable",
+      "headword": "stable",
+      "kind": "word",
+      "zh": "n. 马房, 牛棚\na. 稳定的, 安定的, 坚固的, 坚定的\nvt. 赶入马房\nvi. 被关在马厩",
+      "en": "n. a farm building for housing horses or other livestock\nv. shelter in a stable\na. resistant to change of position or condition\ns. firm and dependable; subject to little fluctuation",
+      "phonetic": "'steibl",
+      "forms": [
+        "stable"
+      ],
+      "example": "Many engineered assets were designed for a stable climate that no longer exists.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "coastal",
+      "headword": "coastal",
+      "kind": "word",
+      "zh": "a. 海岸的, 沿海的, 沿岸的\n[法] 海岸的, 沿海的",
+      "en": "a. of or relating to a coast\na. located on or near or bordering on a coast",
+      "phonetic": "'kәustәl",
+      "forms": [
+        "coastal"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "defences",
+      "headword": "defence",
+      "kind": "word",
+      "zh": "n. 防卫, 防卫设备\n[经] (诉讼程序中的)辩护",
+      "en": "n (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires\nn (sports) the team that is trying to prevent the other team from scoring\nn the defendant and his legal advisors collectively\nn an organization of defenders that provides resistance against attack\nn the speech act of answering an attack on your assertions\nn the justification for some act or belief\nn a structure used to defend against attack\nn a defendant's answer or plea denying the truth of the charges against him\nn (military) military action or resources protecting a country against potential enemies\nn protection from harm\nn the act of defending someone or something against attack or injury",
+      "phonetic": "di'fens",
+      "forms": [
+        "defences"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "repel",
+      "headword": "repel",
+      "kind": "word",
+      "zh": "vt. 逐退, 抵制, 使厌恶, 抗御\nvi. 使厌恶, 相互排斥",
+      "en": "v. cause to move back by force or influence\nv. be repellent to; cause aversion in\nv. force or drive back",
+      "phonetic": "ri'pel",
+      "forms": [
+        "repel"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "storm",
+      "headword": "storm",
+      "kind": "word",
+      "zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻\nvi. 起风, 猛冲, 怒吼\nvt. 猛攻",
+      "en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning\nn. a violent commotion or disturbance\nn. a direct and violent assault on a stronghold\nv. take by force",
+      "phonetic": "stɒ:m",
+      "forms": [
+        "storm"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "surges",
+      "headword": "surge",
+      "kind": "word",
+      "zh": "n. 巨涌, 汹涌, 澎湃\nvi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松\nvt. 使汹涌奔腾, 急放\n[计] 电压尖峰",
+      "en": "n. a sudden or abrupt strong increase\nv. see one's performance improve",
+      "phonetic": "sә:dʒ",
+      "forms": [
+        "surges"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "breached",
+      "headword": "breach",
+      "kind": "word",
+      "zh": "n. 裂口, 违背, 破坏, 违反, 突破, 破裂\nvt. 攻破, 突破\nvi. 跳出水面",
+      "en": "n. a failure to perform some promised act or obligation\nn. an opening (especially a gap in a dike or fortification)",
+      "phonetic": "bri:tʃ",
+      "forms": [
+        "breached"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "regularity",
+      "headword": "regularity",
+      "kind": "word",
+      "zh": "n. 规则性, 匀整, 正规, 经常\n[医] 规律性",
+      "en": "n. a property of polygons: the property of having equal sides and equal angles\nn. the quality of being characterized by a fixed principle or rate",
+      "phonetic": ".regju'læriti",
+      "forms": [
+        "regularity"
+      ],
+      "example": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "rainfall",
+      "headword": "rainfall",
+      "kind": "word",
+      "zh": "n. 降雨, 降雨量\n[经] 降雨量",
+      "en": "n water falling in drops from vapor condensed in the atmosphere",
+      "phonetic": "'reinfɒ:l",
+      "forms": [
+        "rainfall"
+      ],
+      "example": "As rainfall patterns shift, a rise in extreme rainfall can overwhelm drainage systems built for the last century.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "extreme",
+      "headword": "extreme",
+      "kind": "word",
+      "zh": "n. 极端, 末端\na. 极端的, 尽头的, 极度的, 偏激的",
+      "en": "n. the furthest or highest degree of something\ns. of the greatest possible degree or extent or intensity\ns. far beyond a norm in quantity or amount or degree; to an utmost degree\ns. beyond a norm in views or actions",
+      "phonetic": "ik'stri:m",
+      "forms": [
+        "extreme"
+      ],
+      "example": "As rainfall patterns shift, a rise in extreme rainfall can overwhelm drainage systems built for the last century.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "overwhelm",
+      "headword": "overwhelm",
+      "kind": "word",
+      "zh": "vt. 淹没, 受打击, 制服, 压倒, 使不知所措\n[法] 打翻, 倾覆, 覆盖",
+      "en": "v. overcome, as with emotions or perceptual stimuli\nv. charge someone with too many tasks",
+      "phonetic": ".әuvә'hwelm",
+      "forms": [
+        "overwhelm"
+      ],
+      "example": "As rainfall patterns shift, a rise in extreme rainfall can overwhelm drainage systems built for the last century.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "severe",
+      "headword": "severe",
+      "kind": "word",
+      "zh": "a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的\n[法] 严厉的, 苛刻的, 严重的",
+      "en": "s. intensely or extremely bad or unpleasant in degree or quality\ns. unsparing and uncompromising in discipline or judgment\ns. very bad in degree or extent",
+      "phonetic": "si'viә",
+      "forms": [
+        "severe"
+      ],
+      "example": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "downpours",
+      "headword": "downpour",
+      "kind": "word",
+      "zh": "n. 倾盆大雨；注下",
+      "en": "n. a heavy rain",
+      "phonetic": "'daunpɔ:",
+      "forms": [
+        "downpours"
+      ],
+      "example": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "failure",
+      "headword": "failure",
+      "kind": "word",
+      "zh": "n. 失败, 失败者, 不足, 缺乏, 破产\n[计] 故障; 失效",
+      "en": "n. an act that fails\nn. an event that does not accomplish its intended purpose\nn. lack of success\nn. a person with a record of failing; someone who loses consistently",
+      "phonetic": "'feiljә",
+      "forms": [
+        "failure"
+      ],
+      "example": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "mississippi",
+      "headword": "Mississippi",
+      "kind": "word",
+      "zh": "n. 密西西比河, 密西西比州",
+      "en": "n. a major North American river and the chief river of the United States; rises in northern Minnesota and flows southward into the Gulf of Mexico\nn. a state in the Deep South on the gulf of Mexico; one of the Confederate States during the American Civil War",
+      "phonetic": ".misi'sipi",
+      "forms": [
+        "mississippi"
+      ],
+      "example": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "intense",
+      "headword": "intense",
+      "kind": "word",
+      "zh": "a. 非常的, 强烈的, 紧张的, 热情的\n[医] 强的",
+      "en": "a. possessing or displaying a distinctive feature to a heightened degree\ns. (of color) having the highest saturation",
+      "phonetic": "in'tens",
+      "forms": [
+        "intense"
+      ],
+      "example": "This year, intense cloudbursts turned streets into raging rivers in Saitama, Japan.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "cloudbursts",
+      "headword": "cloudburst",
+      "kind": "word",
+      "zh": "n. 倾盆大雨, 豪雨",
+      "en": "n a heavy rain",
+      "phonetic": "'klaudbә:st",
+      "forms": [
+        "cloudbursts"
+      ],
+      "example": "This year, intense cloudbursts turned streets into raging rivers in Saitama, Japan.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "raging",
+      "headword": "rage",
+      "kind": "word",
+      "zh": "n. 愤怒, 情绪激动, 狂暴\nvi. 大怒, 狂吹, 流行",
+      "en": "n. a state of extreme anger\nn. something that is desired intensely\nn. violent state of the elements\nv. be violent; as of fires and storms",
+      "phonetic": "reidʒ",
+      "forms": [
+        "raging"
+      ],
+      "example": "This year, intense cloudbursts turned streets into raging rivers in Saitama, Japan.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "adjusting",
+      "headword": "adjust",
+      "kind": "word",
+      "zh": "vt. 调整, 使适应于, 校准\nvi. 适应于, 被调节, 相互熟悉而适应",
+      "en": "v. alter or regulate so as to achieve accuracy or conform to a standard\nv. adapt or conform oneself to new or different conditions\nv. make correspondent or conformable\nv. decide how much is to be paid on an insurance claim",
+      "phonetic": "ә'dʒʌst",
+      "forms": [
+        "adjusting"
+      ],
+      "example": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature",
+        "temperatures"
+      ],
+      "example": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "sediment",
+      "headword": "sediment",
+      "kind": "word",
+      "zh": "n. 沉淀物, 沉积\n[化] 沉降物; 沉积物",
+      "en": "n. matter that has been deposited by some natural process\nv. deposit as a sediment\nv. settle as sediment",
+      "phonetic": "'sedimәnt",
+      "forms": [
+        "sediment"
+      ],
+      "example": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "deposition",
+      "headword": "deposition",
+      "kind": "word",
+      "zh": "n. 免职, 作证, 沉淀\n[化] 沉积",
+      "en": "n. the natural process of laying down a deposit of something\nn. (law) a pretrial interrogation of a witness; usually conducted in a lawyer's office\nn. the act of deposing someone; removing a powerful person from a position or office",
+      "phonetic": ".depә'ziʃәn",
+      "forms": [
+        "deposition"
+      ],
+      "example": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v60",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "In the 1990s, New York City authorities spent roughly A$2.1 billion protecting forests and plants in the city’s watershed.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "watershed",
+      "headword": "watershed",
+      "kind": "word",
+      "zh": "n. 流域, 分水岭\n[医] 分水界, 分水岭",
+      "en": "n. a ridge of land that separates two adjacent river systems",
+      "phonetic": "'wɒtәʃed",
+      "forms": [
+        "watershed",
+        "watersheds"
+      ],
+      "example": "In the 1990s, New York City authorities spent roughly A$2.1 billion protecting forests and plants in the city’s watershed.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v63",
+      "term": "conventional",
+      "headword": "conventional",
+      "kind": "word",
+      "zh": "a. 传统的, 习惯的, 约定的\n[经] 惯例的, 常规的, 传统的",
+      "en": "a. following accepted customs and proprieties\ns. conforming with accepted standards\na. (weapons) using energy for propulsion or destruction that is not nuclear energy\na. unimaginative and conformist",
+      "phonetic": "kәn'venʃәnl",
+      "forms": [
+        "conventional"
+      ],
+      "example": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "filtration",
+      "headword": "filtration",
+      "kind": "word",
+      "zh": "n. 过滤\n[化] 过滤",
+      "en": "n. the process whereby fluids pass through a filter or a filtering medium\nn. the act of changing a fluid by passing it through a filter",
+      "phonetic": "fil'treiʃәn",
+      "forms": [
+        "filtration"
+      ],
+      "example": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "estimated",
+      "headword": "estimate",
+      "kind": "word",
+      "zh": "n. 估计, 判断\nvt. 估计, 评价, 判断\nvi. 估计",
+      "en": "n. an approximate calculation of quantity or degree or worth\nn. a judgment of the qualities of something or somebody\nn. a statement indicating the likely cost of some job\nn. the respect with which a person is held",
+      "phonetic": "'estimeit",
+      "forms": [
+        "estimated"
+      ],
+      "example": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "embraced",
+      "headword": "embrace",
+      "kind": "word",
+      "zh": "n. 拥抱\nvt. 拥抱, 互相拥抱, 包含, 收买\nvi. 拥抱",
+      "en": "n. the act of clasping another person in the arms (as in greeting or affection)\nn. the state of taking in or encircling\nn. a close affectionate and protective acceptance\nv. include in scope; include as part of something broader; have as one's sphere or territory",
+      "phonetic": "im'breis",
+      "forms": [
+        "embraced"
+      ],
+      "example": "Many other nations have embraced cheaper, more flexible green infrastructure.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "flexible",
+      "headword": "flexible",
+      "kind": "word",
+      "zh": "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的\n[医] 能屈的",
+      "en": "a. capable of being changed\na. able to flex; able to bend easily\ns. bending and snapping back readily without breaking",
+      "phonetic": "'fleksәbl",
+      "forms": [
+        "flexible"
+      ],
+      "example": "Many other nations have embraced cheaper, more flexible green infrastructure.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "coastlines",
+      "headword": "coastline",
+      "kind": "word",
+      "zh": "n. 海岸线",
+      "en": "n. the outline of a coast",
+      "phonetic": "'kәustlain",
+      "forms": [
+        "coastlines"
+      ],
+      "example": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "tropical",
+      "headword": "tropical",
+      "kind": "word",
+      "zh": "a. 热带的, 热情的\n[医] 热带的",
+      "en": "s. relating to or situated in or characteristic of the tropics (the region on either side of the equator)\na. of or relating to the tropics, or either tropic\ns. characterized by or of the nature of a trope or tropes; changed from its literal sense\ns. of weather or climate; hot and humid as in the tropics",
+      "phonetic": "'trɒpikl",
+      "forms": [
+        "tropical"
+      ],
+      "example": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "sea level",
+      "headword": "sea level",
+      "kind": "phrase",
+      "zh": "海平面",
+      "en": "the average height of the surface of the sea",
+      "forms": [
+        "sea level"
+      ],
+      "example": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v71",
+      "term": "low-lying",
+      "headword": "low-lying",
+      "kind": "word",
+      "zh": "a. 低的, 低地的",
+      "en": "s. having a small elevation above the ground or horizon or sea level\ns. lying below the normal level",
+      "phonetic": "",
+      "forms": [
+        "low-lying"
+      ],
+      "example": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "greenhouse",
+      "headword": "greenhouse",
+      "kind": "word",
+      "zh": "n. 温室",
+      "en": "n. a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions\na. of or relating to or caused by the greenhouse effect",
+      "phonetic": "'gri:nhaus",
+      "forms": [
+        "greenhouse"
+      ],
+      "example": "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "emissions",
+      "headword": "emission",
+      "kind": "word",
+      "zh": "n. 发射, 射出, 发行\n[医] 发射, 遗精",
+      "en": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)",
+      "phonetic": "i'miʃәn",
+      "forms": [
+        "emissions"
+      ],
+      "example": "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "drastically",
+      "headword": "drastically",
+      "kind": "word",
+      "zh": "adv. 激烈地, 彻底地",
+      "en": "r. in a drastic manner",
+      "phonetic": "'dræstikәli",
+      "forms": [
+        "drastically"
+      ],
+      "example": "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "metres",
+      "headword": "metre",
+      "kind": "word",
+      "zh": "n. 公尺, 格律, 韵律\n[医] 米, 公尺",
+      "en": "n the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)\nn (prosody) the accent in a metrical foot of verse\nn rhythm as given by division into parts of equal duration",
+      "phonetic": "'mi:tә",
+      "forms": [
+        "metres"
+      ],
+      "example": "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "sharply",
+      "headword": "sharply",
+      "kind": "word",
+      "zh": "adv. 锐利地, 严厉地, 厉害地\n[经] 剧烈地",
+      "en": "r. in a well delineated manner\nr. changing suddenly in direction and degree",
+      "phonetic": "'ʃɑ:pli",
+      "forms": [
+        "sharply"
+      ],
+      "example": "If emissions don’t fall sharply, sea level rise will be more like 2.2m.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "encroaching",
+      "headword": "encroach",
+      "kind": "word",
+      "zh": "vi. 侵犯, 侵蚀, 蚕食\n[法] 侵犯, 侵入, 侵占",
+      "en": "v. advance beyond the usual limit",
+      "phonetic": "in'krәutʃ",
+      "forms": [
+        "encroaching"
+      ],
+      "example": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "trillion",
+      "headword": "trillion",
+      "kind": "word",
+      "zh": "n. 大量\n[经] 兆",
+      "en": "n. the number that is represented as a one followed by 18 zeros\nn. the number that is represented as a one followed by 12 zeros\ns. one quintillion in Great Britain\ns. one million million in the United States",
+      "phonetic": "'triljәn",
+      "forms": [
+        "trillion"
+      ],
+      "example": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "globally",
+      "headword": "globally",
+      "kind": "word",
+      "zh": "[计] 全局地",
+      "en": "r. throughout the world",
+      "phonetic": "",
+      "forms": [
+        "globally"
+      ],
+      "example": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "coasts",
+      "headword": "coast",
+      "kind": "word",
+      "zh": "n. 海岸, 滑坡\nv. 沿海岸而行",
+      "en": "n. a slope down which sleds may coast\nn. the area within view\nv. move effortlessly; by force of gravity",
+      "phonetic": "kәust",
+      "forms": [
+        "coasts"
+      ],
+      "example": "Governments often build seawalls and dykes to protect coasts.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "catastrophically",
+      "headword": "catastrophically",
+      "kind": "word",
+      "zh": "灾难性地",
+      "en": "r. with unfortunate consequences",
+      "phonetic": "",
+      "forms": [
+        "catastrophically"
+      ],
+      "example": "These can work, but they cost a great deal and can fail catastrophically under extreme conditions.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "By contrast",
+      "headword": "by contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to highlight a difference",
+      "forms": [
+        "By contrast"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v84",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "fast-growing",
+      "headword": "fast-growing",
+      "kind": "word",
+      "zh": "快速增长的",
+      "en": "s tending to spread quickly",
+      "phonetic": "'fɑ:stɡr'əʊɪŋ",
+      "forms": [
+        "fast-growing"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "naturally",
+      "headword": "naturally",
+      "kind": "word",
+      "zh": "adv. 自然地, 以自然力, 天生地",
+      "en": "r. as might be expected\nr. according to nature; by natural means; without artificial help\nr. through inherent nature\nr. in a natural or normal manner",
+      "phonetic": "'nætʃәrәli",
+      "forms": [
+        "naturally"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "dampen",
+      "headword": "dampen",
+      "kind": "word",
+      "zh": "vt. 弄湿, 使沮丧\nvi. 变湿, 丧气",
+      "en": "v. reduce the amplitude (of oscillations or waves)\nv. make vague or obscure or make (an image) less visible\nv. check; keep in check (a fire)\nv. lessen in force or effect",
+      "phonetic": "'dæmpәn",
+      "forms": [
+        "dampen"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "inundation",
+      "headword": "inundation",
+      "kind": "word",
+      "zh": "n. 淹水, 洪水, 大水",
+      "en": "n the rising of a body of water and its overflowing onto normally dry land\nn an overwhelming number or amount",
+      "phonetic": ".inʌn'deiʃәn",
+      "forms": [
+        "inundation"
+      ],
+      "example": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "protection",
+      "headword": "protection",
+      "kind": "word",
+      "zh": "n. 保护, 防卫, 贸易保护制度\n[计] 保护",
+      "en": "n. the activity of protecting someone or something\nn. the condition of being protected\nn. the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition\nn. payment extorted by gangsters on threat of violence",
+      "phonetic": "prә'tekʃәn",
+      "forms": [
+        "protection"
+      ],
+      "example": "Protection from the world’s existing mangrove forests is worth an estimated A$1.2 trillion over 100 years.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "equivalents",
+      "headword": "equivalent",
+      "kind": "word",
+      "zh": "n. 同等物, 等价物, 相等物\na. 相等的, 相当的, 同意义的\n[计] 等价的",
+      "en": "n. a person or thing equal to another in value or measure or force or effect or significance etc\nn. the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen\ns. being essentially equal to something",
+      "phonetic": "i'kwivәlәnt",
+      "forms": [
+        "equivalents"
+      ],
+      "example": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "mekong",
+      "headword": "Mekong",
+      "kind": "word",
+      "zh": "n. 湄公河",
+      "en": "n. an Asian river; flows through a large delta in southern Vietnam into the South China Sea",
+      "phonetic": "'mei'kɒŋ",
+      "forms": [
+        "mekong"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "delta",
+      "headword": "delta",
+      "kind": "word",
+      "zh": "n. 三角洲, 希腊字母的第四个字\n[医] δ(希腊文的第四个字母), 丁种, 三角, 三角形区",
+      "en": "n. a low triangular area of alluvial deposits where a river divides before entering a larger body of water\nn. an object shaped like an equilateral triangle\nn. the 4th letter of the Greek alphabet",
+      "phonetic": "'deltә",
+      "forms": [
+        "delta"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "combining",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combining"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "belts",
+      "headword": "belt",
+      "kind": "word",
+      "zh": "n. 带子, 地带\n[医] 带, 腰带, 束带, 地带, 区",
+      "en": "n. endless loop of flexible material between two rotating shafts or pulleys\nn. a band to tie or buckle around the body (usually at the waist)\nn. an elongated region where a specific condition or characteristic is found\nn. ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
+      "phonetic": "belt",
+      "forms": [
+        "belts"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "embankments",
+      "headword": "embankment",
+      "kind": "word",
+      "zh": "n. 堤防, 筑堤",
+      "en": "n. a long artificial mound of stone or earth; built to hold back water or to support a road or as protection",
+      "phonetic": "im'bæŋkmәnt",
+      "forms": [
+        "embankments"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "lifespan",
+      "headword": "lifespan",
+      "kind": "word",
+      "zh": "n. 预期生命期限；寿命；预期使用期限",
+      "en": "n the period during which something is functional (as between birth and death)",
+      "phonetic": "'laifspæn",
+      "forms": [
+        "lifespan"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "maintenance",
+      "headword": "maintenance",
+      "kind": "word",
+      "zh": "n. 维护, 保持, 维修, 生活费用, 坚持, 扶养\n[计] 维护; 维修",
+      "en": "n. means of maintenance of a family or group\nn. the unauthorized interference in a legal action by a person having no interest in it (as by helping one party with money or otherwise to continue the action) so as to obstruct justice or promote unnecessary litigation or unsettle the peace of the community",
+      "phonetic": "'meintәnәns",
+      "forms": [
+        "maintenance"
+      ],
+      "example": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "replant",
+      "headword": "replant",
+      "kind": "word",
+      "zh": "vt. 改种, 在...再植, 使移居",
+      "en": "v. plant again or anew",
+      "phonetic": ".ri:'plɑ:nt",
+      "forms": [
+        "replant"
+      ],
+      "example": "It makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "filter",
+      "headword": "filter",
+      "kind": "word",
+      "zh": "n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器\nvt. 过滤, 渗透, 走漏\nvi. 滤过, 渗入\n[计] 过滤器, 筛选",
+      "en": "n. device that removes something from whatever passes through it\nn. an electrical device that alters the frequency spectrum of signals passing through it\nv. remove by passing through a filter",
+      "phonetic": "'filtә",
+      "forms": [
+        "filter"
+      ],
+      "example": "It makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "rainwater",
+      "headword": "rainwater",
+      "kind": "word",
+      "zh": "n. 雨水",
+      "en": "n drops of fresh water that fall as precipitation from clouds",
+      "phonetic": "'reinwɒ:tә",
+      "forms": [
+        "rainwater"
+      ],
+      "example": "It makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "intact",
+      "headword": "intact",
+      "kind": "word",
+      "zh": "a. 尚未被人碰过的, 原封不动的, 完整的\n[医] 完整的, 无伤的",
+      "en": "s. (of a woman) having the hymen unbroken\ns. undamaged in any way",
+      "phonetic": "in'tækt",
+      "forms": [
+        "intact"
+      ],
+      "example": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "sensible",
+      "headword": "sensible",
+      "kind": "word",
+      "zh": "a. 有感觉的, 敏感的, 明智的\n[医] 可感觉的",
+      "en": "a. able to feel or perceive\ns. readily perceived by the senses\ns. aware intuitively or intellectually of something sensed",
+      "phonetic": "'sensәbl",
+      "forms": [
+        "sensible"
+      ],
+      "example": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "recycling",
+      "headword": "recycle",
+      "kind": "word",
+      "zh": "vt. 使再循环, 重新利用, 再制\nn. 再循环",
+      "en": "v. cause to repeat a cycle\nv. use again after processing",
+      "phonetic": ".ri:'saikl",
+      "forms": [
+        "recycling"
+      ],
+      "example": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "generating",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generating"
+      ],
+      "example": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "brazilian",
+      "headword": "Brazilian",
+      "kind": "word",
+      "zh": "n. 巴西人\na. 巴西的, 巴西人的",
+      "en": "n. a native or inhabitant of Brazil\na. of or relating to or characteristic of Brazil or the people of Brazil",
+      "phonetic": "brә'ziljәn",
+      "forms": [
+        "brazilian"
+      ],
+      "example": "The rainfall and water recycling produced by the Brazilian Amazon rainforest is worth about $20 billion a year.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "amazon",
+      "headword": "amazon",
+      "kind": "word",
+      "zh": "n. 亚马孙河\n[医] 无乳腺者",
+      "en": "n. a large strong and aggressive woman\nn. (Greek mythology) one of a nation of women warriors of Scythia (who burned off the right breast in order to use a bow and arrow more effectively)\nn. a major South American river; arises in the Andes and flows eastward into the South Atlantic; the world's 2nd longest river (4000 miles)",
+      "phonetic": "'æmәzɒn",
+      "forms": [
+        "amazon"
+      ],
+      "example": "The rainfall and water recycling produced by the Brazilian Amazon rainforest is worth about $20 billion a year.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "rainforest",
+      "headword": "rainforest",
+      "kind": "word",
+      "zh": "[生态]雨林",
+      "en": "n a forest with heavy annual rainfall",
+      "phonetic": "'rein'fɔrist",
+      "forms": [
+        "rainforest"
+      ],
+      "example": "The rainfall and water recycling produced by the Brazilian Amazon rainforest is worth about $20 billion a year.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "agriculture",
+      "headword": "agriculture",
+      "kind": "word",
+      "zh": "n. 农业\n[机] 农业, 农学",
+      "en": "n. the class of people engaged in growing food",
+      "phonetic": "'ægrikʌltʃә",
+      "forms": [
+        "agriculture"
+      ],
+      "example": "This supports agriculture, power generation and regional water supplies.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "regional",
+      "headword": "regional",
+      "kind": "word",
+      "zh": "a. 地方的, 地域性的\n[医] 区的, 部位的",
+      "en": "a. characteristic of a region\ns. related or limited to a particular region",
+      "phonetic": "'ri:dʒәnәl",
+      "forms": [
+        "regional"
+      ],
+      "example": "This supports agriculture, power generation and regional water supplies.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "supplies",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supplies"
+      ],
+      "example": "This supports agriculture, power generation and regional water supplies.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "boost",
+      "headword": "boost",
+      "kind": "word",
+      "zh": "n. 推进, 吹捧\nvt. 推进, 提高, 宣扬, 促进",
+      "en": "n. the act of giving hope or support to someone\nn. the act of giving a push\nv. give a boost to; be beneficial to\nv. increase or raise",
+      "phonetic": "bu:st",
+      "forms": [
+        "boost"
+      ],
+      "example": "Forests can even boost energy security in nations reliant on hydroelectricity, such as Brazil.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "reliant",
+      "headword": "reliant",
+      "kind": "word",
+      "zh": "a. 依赖的, 信赖的",
+      "en": "s. relying on another for support",
+      "phonetic": "ri'laiәnt",
+      "forms": [
+        "reliant"
+      ],
+      "example": "Forests can even boost energy security in nations reliant on hydroelectricity, such as Brazil.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "hydroelectricity",
+      "headword": "hydroelectricity",
+      "kind": "word",
+      "zh": "n. 水力电气\n[机] 水力发电",
+      "en": "n. electricity produced by water power",
+      "phonetic": "'haidrәji,lek'trisәti",
+      "forms": [
+        "hydroelectricity"
+      ],
+      "example": "Forests can even boost energy security in nations reliant on hydroelectricity, such as Brazil.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Forests can even boost energy security in nations reliant on hydroelectricity, such as Brazil.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v118",
+      "term": "washes",
+      "headword": "wash",
+      "kind": "word",
+      "zh": "n. 洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地\nvt. 洗, 洗涤, 洗清, 用水冲洗, 流过, 弄湿, 粉刷, 镀金属薄层于\nvi. 洗涤, 洗澡, 被冲蚀, 漂浮",
+      "en": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other",
+      "phonetic": "wɒʃ",
+      "forms": [
+        "washes"
+      ],
+      "example": "When forests are cut down, rain washes more silt into rivers where it can fill up hydropower dams and reduces power generation.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "silt",
+      "headword": "silt",
+      "kind": "word",
+      "zh": "n. 淤泥\nvt. 使淤塞\nvi. 淤塞",
+      "en": "n. mud or clay or small rocks deposited by a river or lake",
+      "phonetic": "silt",
+      "forms": [
+        "silt"
+      ],
+      "example": "When forests are cut down, rain washes more silt into rivers where it can fill up hydropower dams and reduces power generation.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "hydropower",
+      "headword": "hydropower",
+      "kind": "word",
+      "zh": "n. 水力发出的电力",
+      "en": "",
+      "phonetic": "'haidrәupauә",
+      "forms": [
+        "hydropower"
+      ],
+      "example": "When forests are cut down, rain washes more silt into rivers where it can fill up hydropower dams and reduces power generation.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "bricks",
+      "headword": "brick",
+      "kind": "word",
+      "zh": "n. 砖块, 积木\na. 用砖做的\nvt. 用砖造, 用砖砌",
+      "en": "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material\nn. a good fellow; helpful and trustworthy",
+      "phonetic": "brik",
+      "forms": [
+        "bricks"
+      ],
+      "example": "Concrete, bricks and tarmac trap heat and make cities hotter than their surrounding areas.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "tarmac",
+      "headword": "tarmac",
+      "kind": "word",
+      "zh": "n. 柏油碎石, 柏油碎石路",
+      "en": "n a paving material of tar and broken stone; mixed in a factory and shaped during paving\nn a paved surface having compressed layers of broken rocks held together with tar\nv surface with macadam",
+      "phonetic": "'tɑ:mæk",
+      "forms": [
+        "tarmac"
+      ],
+      "example": "Concrete, bricks and tarmac trap heat and make cities hotter than their surrounding areas.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "trap",
+      "headword": "trap",
+      "kind": "word",
+      "zh": "n. 圈套, 陷阱, 诡计, 存水弯\nvi. 设圈套, 设陷阱\nvt. 诱捕, 诱骗, 抓住, 使受限制\n[计] 俘获; 陷井",
+      "en": "n. a device in which something (usually an animal) can be caught and penned\nn. drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas\nn. something (often something deceptively attractive) that catches you unawares\nn. a device to hurl clay pigeons into the air for trapshooters",
+      "phonetic": "træp",
+      "forms": [
+        "trap"
+      ],
+      "example": "Concrete, bricks and tarmac trap heat and make cities hotter than their surrounding areas.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "surrounding",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounding"
+      ],
+      "example": "Concrete, bricks and tarmac trap heat and make cities hotter than their surrounding areas.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "island",
+      "headword": "island",
+      "kind": "word",
+      "zh": "n. 岛, 岛屿, 孤立地区, 安全岛\nvt. 使成岛状, 孤立",
+      "en": "n. a land mass (smaller than a continent) that is surrounded by water\nn. a zone or area resembling an island",
+      "phonetic": "'ailәnd",
+      "forms": [
+        "island"
+      ],
+      "example": "This urban heat island effect can pose a severe risk to health, particularly in rapidly urbanising parts of the Global South.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "pose",
+      "headword": "pose",
+      "kind": "word",
+      "zh": "n. 姿势, 姿态, 装模作样, 伪装\nvi. 摆姿势, 装模作样, 假装\nvt. 使摆好姿势, 提出, 造成",
+      "en": "n. a posture assumed by models for photographic or artistic purposes\nv. pretend to be someone you are not; sometimes with fraudulent intentions\nv. behave affectedly or unnaturally in order to impress others",
+      "phonetic": "pәuz",
+      "forms": [
+        "pose"
+      ],
+      "example": "This urban heat island effect can pose a severe risk to health, particularly in rapidly urbanising parts of the Global South.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "rapidly",
+      "headword": "rapidly",
+      "kind": "word",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
+      "en": "r with rapid movements",
+      "phonetic": "'ræpidli",
+      "forms": [
+        "rapidly"
+      ],
+      "example": "This urban heat island effect can pose a severe risk to health, particularly in rapidly urbanising parts of the Global South.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "urbanising",
+      "headword": "urbanise",
+      "kind": "word",
+      "zh": "v. 使都市化, 使文雅",
+      "en": "v impart urban habits, ways of life, or responsibilities upon\nv make more industrial or city-like",
+      "phonetic": "'\\\\\\\\:bәnaiz",
+      "forms": [
+        "urbanising"
+      ],
+      "example": "This urban heat island effect can pose a severe risk to health, particularly in rapidly urbanising parts of the Global South.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "significantly",
+      "headword": "significantly",
+      "kind": "word",
+      "zh": "adv. 值得注目地；意味深长地",
+      "en": "r. in a statistically significant way\nr. in a significant manner",
+      "phonetic": "",
+      "forms": [
+        "significantly"
+      ],
+      "example": "Street trees and urban forests can make cities significantly cooler, avoiding heat-related deaths and cutting energy demand.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "cutting",
+      "headword": "cutting",
+      "kind": "word",
+      "zh": "n. 切断, 切下, 路堑\n[化] 切屑",
+      "en": "n. a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting\nn. a piece cut off from the main part of something\nn. the act of diluting something\ns. (of speech) harsh or hurtful in tone or character",
+      "phonetic": "'kʌtiŋ",
+      "forms": [
+        "cutting"
+      ],
+      "example": "Street trees and urban forests can make cities significantly cooler, avoiding heat-related deaths and cutting energy demand.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "demand",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demand"
+      ],
+      "example": "Street trees and urban forests can make cities significantly cooler, avoiding heat-related deaths and cutting energy demand.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "predicted",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predicted"
+      ],
+      "example": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "outdoor",
+      "headword": "outdoor",
+      "kind": "word",
+      "zh": "a. 户外的, 屋外的, 露天的",
+      "en": "a. located, suited for, or taking place in the open air\na. pertaining to or concerning the outdoors or outdoor activities",
+      "phonetic": "'autdɒ:",
+      "forms": [
+        "outdoor"
+      ],
+      "example": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "heat stress",
+      "headword": "heat stress",
+      "kind": "phrase",
+      "zh": "热应激",
+      "en": "strain on the body caused by excessive heat",
+      "forms": [
+        "heat stress"
+      ],
+      "example": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v135",
+      "term": "stress",
+      "headword": "stress",
+      "kind": "word",
+      "zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力\nvt. 加压力于, 着重, 重读",
+      "en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)\nn. special emphasis attached to something\nn. difficulty that causes worry or emotional tension\nn. (physics) force that produces strain on a physical body",
+      "phonetic": "stres",
+      "forms": [
+        "stress"
+      ],
+      "example": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "air-conditioning",
+      "headword": "air-condition",
+      "kind": "word",
+      "zh": "vt. 设以空调设备, 用空调调节",
+      "en": "v. control the humidity and temperature of",
+      "phonetic": "'eәkәn,diʃən",
+      "forms": [
+        "air-conditioning"
+      ],
+      "example": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "colombia",
+      "headword": "Colombia",
+      "kind": "word",
+      "zh": "n. 哥伦比亚",
+      "en": "n. a republic in northwestern South America with a coastline on the Pacific Ocean and the Caribbean Sea; achieved independence from Spain in 1821 under the leadership of Simon Bolivar; Spanish is the official language",
+      "phonetic": "kә'læmbiә",
+      "forms": [
+        "colombia"
+      ],
+      "example": "In Colombia, green corridors planted along roads and waterways have reduced average temperatures 2°C, returning $1.7 in avoided health costs for every $1 spent on the project.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "corridors",
+      "headword": "corridor",
+      "kind": "word",
+      "zh": "n. 走廊, 回廊, 人口密集地带",
+      "en": "n. an enclosed passageway; rooms usually open onto it",
+      "phonetic": "'kɒridɒ:",
+      "forms": [
+        "corridors"
+      ],
+      "example": "In Colombia, green corridors planted along roads and waterways have reduced average temperatures 2°C, returning $1.7 in avoided health costs for every $1 spent on the project.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "waterways",
+      "headword": "waterway",
+      "kind": "word",
+      "zh": "n. 航道, 水路\n[法] 水道, 水路航道",
+      "en": "n. a navigable body of water",
+      "phonetic": "'wɒtәwei",
+      "forms": [
+        "waterways"
+      ],
+      "example": "In Colombia, green corridors planted along roads and waterways have reduced average temperatures 2°C, returning $1.7 in avoided health costs for every $1 spent on the project.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "In Colombia, green corridors planted along roads and waterways have reduced average temperatures 2°C, returning $1.7 in avoided health costs for every $1 spent on the project.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "unlocking",
+      "headword": "unlock",
+      "kind": "word",
+      "zh": "vt. 开...的锁, 开启, 表露, 放出\nvi. 被开启, 揭开, 解放\n[计] 解出锁定",
+      "en": "v. open the lock of\nv. set free or release\nv. become unlocked",
+      "phonetic": ".ʌn'lɒk",
+      "forms": [
+        "unlocking"
+      ],
+      "example": "Unlocking green infrastructure",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "procurement",
+      "headword": "procurement",
+      "kind": "word",
+      "zh": "n. 获得\n[经] 采购",
+      "en": "n. the act of getting possession of something",
+      "phonetic": "prә'kjuәmәnt",
+      "forms": [
+        "procurement"
+      ],
+      "example": "When governments want to build new infrastructure, their procurement rules typically favour traditional grey infrastructure, which come with established engineering standards and contractual certainty.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "favour",
+      "headword": "favour",
+      "kind": "word",
+      "zh": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+      "en": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
+      "phonetic": "'feivә",
+      "forms": [
+        "favour"
+      ],
+      "example": "When governments want to build new infrastructure, their procurement rules typically favour traditional grey infrastructure, which come with established engineering standards and contractual certainty.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "contractual",
+      "headword": "contractual",
+      "kind": "word",
+      "zh": "a. 契约的\n[经] 契约的, 契约性的",
+      "en": "a. relating to or part of a binding legal agreement",
+      "phonetic": "kәn'træktʃuәl",
+      "forms": [
+        "contractual"
+      ],
+      "example": "When governments want to build new infrastructure, their procurement rules typically favour traditional grey infrastructure, which come with established engineering standards and contractual certainty.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "certainty",
+      "headword": "certainty",
+      "kind": "word",
+      "zh": "n. 确定, 确实的事情\n[法] 确定, 肯定, 必然的事",
+      "en": "n. the state of being certain\nn. something that is certain",
+      "phonetic": "'sә:tәnti",
+      "forms": [
+        "certainty"
+      ],
+      "example": "When governments want to build new infrastructure, their procurement rules typically favour traditional grey infrastructure, which come with established engineering standards and contractual certainty.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "weigh",
+      "headword": "weigh",
+      "kind": "word",
+      "zh": "vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚\nvi. 称分量, 有意义, 重压, 起锚\nn. 过秤, 称分量",
+      "en": "v. have a certain weight\nv. determine the weight of\nv. to be oppressive or burdensome",
+      "phonetic": "wei",
+      "forms": [
+        "weigh"
+      ],
+      "example": "But these decisions often don’t weigh up green infrastructure fairly, because wider benefits such as avoided flood risks and water services aren’t typically included in the accounting framework used.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "fairly",
+      "headword": "fairly",
+      "kind": "word",
+      "zh": "adv. 美观地, 公平地, 相当地, 清楚地",
+      "en": "r. without favoring one party, in a fair evenhanded manner\nr. in conformity with the rules or laws and without fraud or cheating",
+      "phonetic": "'fєәli",
+      "forms": [
+        "fairly"
+      ],
+      "example": "But these decisions often don’t weigh up green infrastructure fairly, because wider benefits such as avoided flood risks and water services aren’t typically included in the accounting framework used.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "framework",
+      "headword": "framework",
+      "kind": "word",
+      "zh": "n. 结构, 骨架, 参照标准, 准则, 观点\n[医] 构架组织",
+      "en": "n. the underlying structure\nn. a structure supporting or containing something",
+      "phonetic": "'freimwә:k",
+      "forms": [
+        "framework",
+        "frameworks"
+      ],
+      "example": "But these decisions often don’t weigh up green infrastructure fairly, because wider benefits such as avoided flood risks and water services aren’t typically included in the accounting framework used.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "fixes",
+      "headword": "fix",
+      "kind": "word",
+      "zh": "vt. 使固定, 修理, 准备, 安装, 凝视, 牢记, 确定, 整理\nvi. 固定, 注视, 确定\nn. 困境, 方位, 维修, 贿赂",
+      "en": "n. informal terms for a difficult situation\nn. something craved, especially an intravenous injection of a narcotic drug\nn. an exemption granted after influence (e.g., money) is brought to bear\nv. set or place definitely",
+      "phonetic": "fiks",
+      "forms": [
+        "fixes"
+      ],
+      "example": "Four fixes",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "solve",
+      "headword": "solve",
+      "kind": "word",
+      "zh": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解",
+      "en": "v. find the solution to (a problem or question) or understand the meaning of",
+      "phonetic": "sɒlv",
+      "forms": [
+        "solve"
+      ],
+      "example": "To solve this problem, governments, climate adaptation funds and development banks will have to adopt four fixes:",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "climate adaptation",
+      "headword": "climate adaptation",
+      "kind": "phrase",
+      "zh": "气候适应",
+      "en": "adjustments that reduce harm from a changing climate",
+      "forms": [
+        "climate adaptation"
+      ],
+      "example": "To solve this problem, governments, climate adaptation funds and development banks will have to adopt four fixes:",
+      "paragraph": 35,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v152",
+      "term": "adaptation",
+      "headword": "adaptation",
+      "kind": "word",
+      "zh": "n. 适应, 改编, 改编本\n[医] 适应[作用]",
+      "en": "n. a written work (as a novel) that has been recast in a new form\nn. the process of adapting to something (such as environmental conditions)\nn. (physiology) the responsive adjustment of a sense organ (as the eye) to varying conditions (as of light)",
+      "phonetic": ".ædæp'teiʃәn",
+      "forms": [
+        "adaptation"
+      ],
+      "example": "To solve this problem, governments, climate adaptation funds and development banks will have to adopt four fixes:",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "adopt",
+      "headword": "adopt",
+      "kind": "word",
+      "zh": "vt. 采用, 正式通过, 收养, 接受\n[医] 采取",
+      "en": "v. choose and follow; as of theories, ideas, policies, strategies or plans\nv. take up and practice as one's own\nv. take into one's family",
+      "phonetic": "ә'dɒpt",
+      "forms": [
+        "adopt"
+      ],
+      "example": "To solve this problem, governments, climate adaptation funds and development banks will have to adopt four fixes:",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "governed",
+      "headword": "govern",
+      "kind": "word",
+      "zh": "v. 统治, 支配, 管理",
+      "en": "v. direct or strongly influence the behavior of\nv. exercise authority over; as of nations\nv. require to be in a certain grammatical case, voice, or mood",
+      "phonetic": "'gʌvәn",
+      "forms": [
+        "governed"
+      ],
+      "example": "Recognise green infrastructure as a capital asset in national planning frameworks, governed by the same mechanisms as grey assets",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "mechanisms",
+      "headword": "mechanism",
+      "kind": "word",
+      "zh": "n. 机械, 机构, 结构, 机理, 技巧\n[化] 机理; 历程; 机构",
+      "en": "n. the atomic process that occurs during a chemical reaction\nn. the technical aspects of doing something\nn. a natural object resembling a machine in structure or function\nn. (philosophy) the philosophical theory that all phenomena can be explained in terms of physical or biological causes",
+      "phonetic": "'mekәnizm",
+      "forms": [
+        "mechanisms"
+      ],
+      "example": "Recognise green infrastructure as a capital asset in national planning frameworks, governed by the same mechanisms as grey assets",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "ensure",
+      "headword": "ensure",
+      "kind": "word",
+      "zh": "vt. 确定, 保证, 担保, 保护\n[经] 确保, 确定",
+      "en": "v make certain of\nv be careful or certain to do something; make certain of something",
+      "phonetic": "in'ʃuә",
+      "forms": [
+        "ensure"
+      ],
+      "example": "Ensure large development plans include both grey and green infrastructure designed for future climate scenarios.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "ecosystems",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystems"
+      ],
+      "example": "Ensure the value of ecosystems is included in project appraisals by switching to an accounting method which puts a value on intact ecosystems",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "appraisals",
+      "headword": "appraisal",
+      "kind": "word",
+      "zh": "n. 评价, 估价\n[经] 评价, 评估",
+      "en": "n. the classification of someone or something with respect to its worth\nn. a document appraising the value of something (as for insurance or taxation)\nn. an expert estimation of the quality, quantity, and other characteristics of someone or something",
+      "phonetic": "ә'preizәl",
+      "forms": [
+        "appraisals"
+      ],
+      "example": "Ensure the value of ecosystems is included in project appraisals by switching to an accounting method which puts a value on intact ecosystems",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "switching",
+      "headword": "switch",
+      "kind": "word",
+      "zh": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔\nvt. 转变, 切换, 摆动, 转换, 使转轨\nvi. 转换, 变换, 摆动\n[计] 开关; 翻转; 转移",
+      "en": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit\nn. hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure\nn. railroad track having two movable rails and necessary connections; used to turn a train from one track to another or to store rolling stock\nn. a flexible implement used as an instrument of punishment",
+      "phonetic": "switʃ",
+      "forms": [
+        "switching"
+      ],
+      "example": "Ensure the value of ecosystems is included in project appraisals by switching to an accounting method which puts a value on intact ecosystems",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "scenarios",
+      "headword": "scenario",
+      "kind": "word",
+      "zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态\n[计] 方案",
+      "en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\nn. a setting for a work of art or literature\nn. a postulated sequence of possible events",
+      "phonetic": "si'nɑ:riәu",
+      "forms": [
+        "scenarios"
+      ],
+      "example": "Ensure large development plans include both grey and green infrastructure designed for future climate scenarios.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "technically",
+      "headword": "technically",
+      "kind": "word",
+      "zh": "adv. 技术上, 学术上, 专门地",
+      "en": "r. with regard to technique\nr. with regard to technical skill and the technology available\nr. according to the exact meaning; according to the facts",
+      "phonetic": "'teknikli",
+      "forms": [
+        "technically"
+      ],
+      "example": "These shifts are technically feasible and economically justified.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "feasible",
+      "headword": "feasible",
+      "kind": "word",
+      "zh": "a. 能实行的, 可行的, 适宜的\n[法] 可行的, 可执行的, 可完成的",
+      "en": "s. capable of being done with means at hand and circumstances as they are",
+      "phonetic": "'fi:zәbl",
+      "forms": [
+        "feasible"
+      ],
+      "example": "These shifts are technically feasible and economically justified.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "economically",
+      "headword": "economically",
+      "kind": "word",
+      "zh": "adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上",
+      "en": "r. with respect to economic science\nr. in an economical manner\nr. with respect to the economic system",
+      "phonetic": "i:kә'nɔmikәli",
+      "forms": [
+        "economically"
+      ],
+      "example": "These shifts are technically feasible and economically justified.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "justified",
+      "headword": "justify",
+      "kind": "word",
+      "zh": "vt. 替...辩护, 证明\nvi. 证明合法\n[计] 段落重排, 两端对齐",
+      "en": "v. show to be reasonable or provide adequate ground for\nv. show to be right by providing justification or proof\nv. adjust the spaces between words",
+      "phonetic": "'dʒʌstifai",
+      "forms": [
+        "justified"
+      ],
+      "example": "These shifts are technically feasible and economically justified.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "inertia",
+      "headword": "inertia",
+      "kind": "word",
+      "zh": "n. 惯性, 惰性, 迟钝\n[化] 惯性",
+      "en": "n. (physics) the tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external force",
+      "phonetic": "i'nә:ʃә",
+      "forms": [
+        "inertia"
+      ],
+      "example": "Politics and inertia are the biggest blockers. Grey infrastructure is the incumbent, while green infrastructure is the contender.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "blockers",
+      "headword": "blocker",
+      "kind": "word",
+      "zh": "[医] 阻滞物, 阻滞剂, 阻滞抗体",
+      "en": "n. a football player whose responsibility is to block players attempting to stop an offensive play\nn. a class of drugs that inhibit (block) some biological process",
+      "phonetic": "'blɔkә",
+      "forms": [
+        "blockers"
+      ],
+      "example": "Politics and inertia are the biggest blockers. Grey infrastructure is the incumbent, while green infrastructure is the contender.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "incumbent",
+      "headword": "incumbent",
+      "kind": "word",
+      "zh": "a. 现任的, 依靠的, 负有义务的\nn. 领圣俸者, 在职者",
+      "en": "n. the official who holds an office\ns. lying or leaning on something else\ns. necessary (for someone) as a duty or responsibility; morally binding\ns. currently holding an office",
+      "phonetic": "in'kʌmbәnt",
+      "forms": [
+        "incumbent"
+      ],
+      "example": "Grey infrastructure is the incumbent, while green infrastructure is the contender.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "contender",
+      "headword": "contender",
+      "kind": "word",
+      "zh": "n. 参赛者, 争论者, 斗争者, 竞争者",
+      "en": "n the contestant you hope to defeat",
+      "phonetic": "kәn'tendә(r)",
+      "forms": [
+        "contender"
+      ],
+      "example": "Grey infrastructure is the incumbent, while green infrastructure is the contender.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "intensifies",
+      "headword": "intensify",
+      "kind": "word",
+      "zh": "vt. 加强\nvi. 强化",
+      "en": "v. make more intense, stronger, or more marked\nv. become more intense\nv. make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "phonetic": "in'tensifai",
+      "forms": [
+        "intensifies"
+      ],
+      "example": "As damage from climate change intensifies, this will have to change.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "adaptable",
+      "headword": "adaptable",
+      "kind": "word",
+      "zh": "a. 能适应的, 适合的, 可修改的",
+      "en": "a. capable of adapting (of becoming or being made suitable) to a particular situation or use",
+      "phonetic": "ә'dæptәbl",
+      "forms": [
+        "adaptable"
+      ],
+      "example": "Green infrastructure is cheaper and more adaptable than grey.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "necessity",
+      "headword": "necessity",
+      "kind": "word",
+      "zh": "n. 需要, 必需品, 必然\n[法] 必要性, 必然性, 必要",
+      "en": "n. the condition of being essential or indispensable\nn. anything indispensable",
+      "phonetic": "ni'sesәti",
+      "forms": [
+        "necessity"
+      ],
+      "example": "As damage from climate change intensifies, this will have to change. Green infrastructure is cheaper and more adaptable than grey. It’s not nice to have – it’s necessity.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      22
+    ],
+    "wordBank": [
+      "equivalents",
+      "contrast",
+      "failure",
+      "defences",
+      "adapt",
+      "temperature",
+      "conventional",
+      "low-lying",
+      "intact",
+      "embankments"
+    ],
+    "parts": [
+      {
+        "text": "The limits of concrete and steel\n\nMany engineered assets were designed for a stable climate that no longer exists.\n\nCoastal "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " designed to repel mid-20th century level storm surges are being breached with growing regularity.\n\nAs rainfall patterns shift, a rise in extreme rainfall can overwhelm drainage systems built for the last century. In 2022, severe summer downpours caused the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " of water infrastructure in Jackson, Mississippi. This year, intense cloudbursts turned streets into raging rivers in Saitama, Japan.\n\nOnce built, concrete and steel do their job until they fail. But living systems can respond by adjusting to new patterns of "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ", rainfall and sediment deposition rather than simply failing.\n\nThe idea isn’t new. In the 1990s, New York City authorities spent roughly A$2.1 billion protecting forests and plants in the city’s watershed. As a result, they avoided the need to build a "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " filtration plant, which would have cost an estimated $8.6-11 billion.\n\nMany other nations have embraced cheaper, more flexible green infrastructure.\n\nMangroves protect coastlines\n\nTropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " coastlines.\n\nEven if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels. If emissions don’t fall sharply, sea level rise will be more like 2.2m.\n\nWithout efforts to "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ", encroaching seas could do more than $27 trillion in damage globally.\n\nGovernments often build seawalls and dykes to protect coasts. These can work, but they cost a great deal and can fail catastrophically under extreme conditions.\n\nBy "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ", fast-growing mangroves naturally dampen storm surges and inundation. Protection from the world’s existing mangrove forests is worth an estimated A$1.2 trillion over 100 years.\n\nPlanting mangroves typically cost less than 50% of the cost of concrete and steel "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.\n\nIn the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " a longer lifespan and cut maintenance costs.\n\nForests are water infrastructure\n\nIt makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams. Protecting "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "defences",
+        "vocabularyId": "v39",
+        "explanation": "原文此处使用 defences（defence）。结合上下文辨认词义与词形。",
+        "evidence": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
+        "paragraph": 8
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "failure",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 failure（failure）。结合上下文辨认词义与词形。",
+        "evidence": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
+        "paragraph": 9
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "temperature",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 temperature（temperature）。结合上下文辨认词义与词形。",
+        "evidence": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
+        "paragraph": 10
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "conventional",
+        "vocabularyId": "v63",
+        "explanation": "原文此处使用 conventional（conventional）。结合上下文辨认词义与词形。",
+        "evidence": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
+        "paragraph": 11
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "low-lying",
+        "vocabularyId": "v71",
+        "explanation": "原文此处使用 low-lying（low-lying）。结合上下文辨认词义与词形。",
+        "evidence": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
+        "paragraph": 14
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "adapt",
+        "vocabularyId": "v22",
+        "explanation": "原文此处使用 adapt（adapt）。结合上下文辨认词义与词形。",
+        "evidence": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
+        "paragraph": 16
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "contrast",
+        "vocabularyId": "v84",
+        "explanation": "原文此处使用 contrast（contrast）。结合上下文辨认词义与词形。",
+        "evidence": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
+        "paragraph": 18
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "equivalents",
+        "vocabularyId": "v91",
+        "explanation": "原文此处使用 equivalents（equivalent）。结合上下文辨认词义与词形。",
+        "evidence": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
+        "paragraph": 19
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "embankments",
+        "vocabularyId": "v97",
+        "explanation": "原文此处使用 embankments（embankment）。结合上下文辨认词义与词形。",
+        "evidence": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
+        "paragraph": 20
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "intact",
+        "vocabularyId": "v103",
+        "explanation": "原文此处使用 intact（intact）。结合上下文辨认词义与词形。",
+        "evidence": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Wildfire damage is likely to increase, but affordable protective measures can reduce future losses.",
+          "Both artificial and natural wetlands can provide important habitat for young turtles.",
+          "Natural ecosystems can provide climate adaptation at lower cost than many engineered structures.",
+          "Routine water-quality reports cover only part of what matters for understanding drinking water."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
+        "paragraph": 19
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What advantage can living systems offer over grey infrastructure?",
+        "options": [
+          "They can adapt as climate conditions change.",
+          "They are always unaffected by any environmental pressure.",
+          "They require steel reinforcement to remain alive.",
+          "They perform no protective function."
+        ],
+        "answer": 0,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Unlike grey infrastructure of steel and concrete, these living systems can adapt as the climate shifts.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 15?",
+        "options": [
+          "The default is to reach for concrete and steel to build seawalls, dykes, dams and drainage systems.",
+          "But these decisions often don’t weigh up green infrastructure fairly, because wider benefits such as avoided flood risks and water services aren’t typically included in the accounting framework used.",
+          "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+          "Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat."
+        ],
+        "answer": 2,
+        "explanation": "定位第 15 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Even if greenhouse emissions are drastically reduced, by 2100 seas will rise about 0.6 metres above 2000 levels.",
+        "paragraph": 15
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“It makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams.”",
+        "options": [
+          "Paragraph 22",
+          "Paragraph 14",
+          "Paragraph 5",
+          "Paragraph 1"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 22 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "It makes good financial sense to replant forests in city watersheds, as they naturally filter rainwater as it fills dams.",
+        "paragraph": 22
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.”",
+        "options": [
+          "Paragraph 22",
+          "Paragraph 4",
+          "Paragraph 8",
+          "Paragraph 28"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 28 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Singapore’s plan to plant a million trees by 2030 is predicted to cut outdoor heat stress by 3–5°C and reduce the energy used for air-conditioning in summer by 6–9%.",
+        "paragraph": 28
+      }
+    ]
+  },
+  "revision": "fd7c6dc8d514e05ba07db60c289847c81211e45af6f44d0d5dbff9a723c77594"
+}

@@ -1,0 +1,2564 @@
+{
+  "schemaVersion": 1,
+  "folder": "079",
+  "articleSha256": "5d58322396c413ccaecd2e9cb924872266282dd799d6b945a1891bfa491a700f",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "If you’re reading this, then your media feed, like mine, is probably full of cats.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "If you’re reading this, then your media feed, like mine, is probably full of cats.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "mine",
+      "headword": "mine",
+      "kind": "word",
+      "zh": "n. 矿, 矿藏, 地雷\nvt. 挖掘, 开采, 在...布雷, 破坏\nvi. 开矿, 埋设地雷\npron. 我的",
+      "en": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines",
+      "phonetic": "main",
+      "forms": [
+        "mine"
+      ],
+      "example": "If you’re reading this, then your media feed, like mine, is probably full of cats.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "hardly",
+      "headword": "hardly",
+      "kind": "word",
+      "zh": "adv. 刚刚, 几乎不, 勉强是",
+      "en": "r. almost not",
+      "phonetic": "'hɑ:dli",
+      "forms": [
+        "hardly"
+      ],
+      "example": "That’s hardly surprising. The internet has always belonged to cats, which suits me just fine: I love cats and live with four of them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "surprising",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprising"
+      ],
+      "example": "That’s hardly surprising. The internet has always belonged to cats, which suits me just fine: I love cats and live with four of them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "internet",
+      "headword": "internet",
+      "kind": "word",
+      "zh": "[计] 因特网, 国际互连网, 网际网络, 互连网络, 广域网",
+      "en": "n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+      "phonetic": "'intәnet",
+      "forms": [
+        "internet"
+      ],
+      "example": "The internet has always belonged to cats, which suits me just fine: I love cats and live with four of them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "belonged",
+      "headword": "belong",
+      "kind": "word",
+      "zh": "vi. 属于, 合适",
+      "en": "v. be owned by; be in the possession of\nv. be suitable or acceptable\nv. be in the right place or situation\nv. be rightly classified in a class or category",
+      "phonetic": "bi'lɒŋ",
+      "forms": [
+        "belonged"
+      ],
+      "example": "The internet has always belonged to cats, which suits me just fine: I love cats and live with four of them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "suits",
+      "headword": "suit",
+      "kind": "word",
+      "zh": "n. 套装, 诉讼, 请求, 起诉, 套, 组\nvt. 适合, 使适应\nvi. 合适, 相称",
+      "en": "n. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color\nn. (slang) a businessman dressed in a business suit\nn. a petition or appeal made to a person of superior status or rank\nn. playing card in any of four sets of 13 cards in a pack; each set has its own symbol and color",
+      "phonetic": "sju:t. su:t",
+      "forms": [
+        "suits"
+      ],
+      "example": "The internet has always belonged to cats, which suits me just fine: I love cats and live with four of them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "affection",
+      "headword": "affection",
+      "kind": "word",
+      "zh": "n. 影响, 病, 喜爱, 情感, 倾向\n[医] 疾患, 病变, 病; 感情",
+      "en": "n. a positive feeling of liking",
+      "phonetic": "ә'fekʃәn",
+      "forms": [
+        "affection"
+      ],
+      "example": "But in one of the classes I’ve taught, “Cats: Why We Love Them,” I explain how our affection for the house cat, Felis silvestris catus, is a relatively recent phenomenon in the scope of human history.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "But in one of the classes I’ve taught, “Cats: Why We Love Them,” I explain how our affection for the house cat, Felis silvestris catus, is a relatively recent phenomenon in the scope of human history.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "phenomenon",
+      "headword": "phenomenon",
+      "kind": "word",
+      "zh": "n. 现象, 迹象, 表现, 奇迹, 奇才\n[化] 现象",
+      "en": "n. any state or process known through the senses rather than by intuition or reasoning\nn. a remarkable development",
+      "phonetic": "fi'nɒminәn",
+      "forms": [
+        "phenomenon"
+      ],
+      "example": "But in one of the classes I’ve taught, “Cats: Why We Love Them,” I explain how our affection for the house cat, Felis silvestris catus, is a relatively recent phenomenon in the scope of human history.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "scope",
+      "headword": "scope",
+      "kind": "word",
+      "zh": "n. 范围, 机会, 广度, 眼界, 观察仪器, 导弹射程\n[计] 作用域",
+      "en": "n. an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"",
+      "phonetic": "skәup",
+      "forms": [
+        "scope"
+      ],
+      "example": "But in one of the classes I’ve taught, “Cats: Why We Love Them,” I explain how our affection for the house cat, Felis silvestris catus, is a relatively recent phenomenon in the scope of human history.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "suspicion",
+      "headword": "suspicion",
+      "kind": "word",
+      "zh": "n. 怀疑, 觉察, 嫌疑\n[法] 怀疑, 疑心, 嫌疑",
+      "en": "n. the state of being suspected\nn. being of a suspicious nature",
+      "phonetic": "sә'spiʃәn",
+      "forms": [
+        "suspicion"
+      ],
+      "example": "In many parts of the world, cats were viewed with suspicion and subjected to terrible mistreatment.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "subjected to",
+      "headword": "subjected to",
+      "kind": "phrase",
+      "zh": "遭受；受到",
+      "en": "made to experience something, often unpleasant",
+      "forms": [
+        "subjected to"
+      ],
+      "example": "In many parts of the world, cats were viewed with suspicion and subjected to terrible mistreatment.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v15",
+      "term": "terrible",
+      "headword": "terrible",
+      "kind": "word",
+      "zh": "a. 可怕的, 令人恐惧的, 极坏的",
+      "en": "s causing fear or dread or terror\ns exceptionally bad or displeasing\ns intensely or extremely bad or unpleasant in degree or quality\ns extreme in degree or extent or amount or impact",
+      "phonetic": "'terәbl",
+      "forms": [
+        "terrible"
+      ],
+      "example": "In many parts of the world, cats were viewed with suspicion and subjected to terrible mistreatment.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "mistreatment",
+      "headword": "mistreatment",
+      "kind": "word",
+      "zh": "n. 虐待",
+      "en": "n. the practice of treating (someone or something) badly",
+      "phonetic": "",
+      "forms": [
+        "mistreatment"
+      ],
+      "example": "In many parts of the world, cats were viewed with suspicion and subjected to terrible mistreatment.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "egyptians",
+      "headword": "Egyptian",
+      "kind": "word",
+      "zh": "n. 埃及人\na. 埃及的, 埃及人的",
+      "en": "n. a native or inhabitant of Egypt\nn. the ancient and now extinct language of Egypt under the Pharaohs; written records date back to 3000 BC\na. of or relating to or characteristic of Egypt or its people or their language",
+      "phonetic": "i'dʒipʃәn",
+      "forms": [
+        "egyptians"
+      ],
+      "example": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "sculptures",
+      "headword": "sculpture",
+      "kind": "word",
+      "zh": "n. 雕刻, 雕塑\nvt. 雕刻, 雕塑\nvi. 当雕刻师",
+      "en": "n. a three-dimensional work of plastic art\nn. creating figures or designs in three dimensions",
+      "phonetic": "'skʌlptʃә",
+      "forms": [
+        "sculptures"
+      ],
+      "example": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "paintings",
+      "headword": "paintings",
+      "kind": "word",
+      "zh": "n. 图画；涂漆；印刷品（painting的复数）",
+      "en": "n graphic art consisting of an artistic composition made by applying paints to a surface\nn creating a picture with paints\nn the act of applying paint to a surface\nn the occupation of a house painter\nv make a painting\nv apply paint to; coat with paint\nv make a painting of\nv apply a liquid to; e.g., paint the gutters with linseed oil",
+      "phonetic": "",
+      "forms": [
+        "paintings"
+      ],
+      "example": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "mummified",
+      "headword": "mummify",
+      "kind": "word",
+      "zh": "vi. 做成木乃伊\nvt. 弄干保存, 弄枯干",
+      "en": "v. preserve while making lifeless\nv. remove the organs and dry out (a dead body) in order to preserve it\nv. dry up and shrivel due to complete loss of moisture",
+      "phonetic": "'mʌmifai",
+      "forms": [
+        "mummified"
+      ],
+      "example": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "meanwhile",
+      "headword": "meanwhile",
+      "kind": "word",
+      "zh": "n. 其时, 其间\nadv. 同时, 于此时",
+      "en": "r. at the same time but in another place\nr. during the intervening time",
+      "phonetic": "'mi:nhwail",
+      "forms": [
+        "meanwhile"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "poets",
+      "headword": "poet",
+      "kind": "word",
+      "zh": "n. 诗人",
+      "en": "n. a writer of poems (the term is usually reserved for writers of good poetry)",
+      "phonetic": "'pәuit",
+      "forms": [
+        "poets",
+        "poet"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "inner",
+      "headword": "inner",
+      "kind": "word",
+      "zh": "a. 内部的, 内心的\nn. 内部",
+      "en": "s. located inward\na. located or occurring within or closer to a center\ns. innermost or essential\ns. exclusive to a center; especially a center of influence",
+      "phonetic": "'inә",
+      "forms": [
+        "inner"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "inner lives",
+      "headword": "inner lives",
+      "kind": "phrase",
+      "zh": "内心世界",
+      "en": "private thoughts, emotions and experiences",
+      "forms": [
+        "inner lives"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v26",
+      "term": "lives",
+      "headword": "life",
+      "kind": "word",
+      "zh": "n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑\n[医] 生活, 生存, 生命, 寿命",
+      "en": "n. a characteristic state or mode of living\nn. the experience of being alive; the course of human events and activities\nn. the course of existence of an individual; the actions and events that occur in living\nn. the period during which something is functional (as between birth and death)",
+      "phonetic": "laif",
+      "forms": [
+        "lives"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "explore",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explore"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "expand",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expand"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "capacity",
+      "headword": "capacity",
+      "kind": "word",
+      "zh": "n. 容量, 能力, 才能, 资格\n[计] 容量",
+      "en": "n. capability to perform or produce\nn. the amount that can be contained\nn. the maximum production possible\nn. a specified function",
+      "phonetic": "kә'pæsiti",
+      "forms": [
+        "capacity",
+        "capacities"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "capacity for empathy",
+      "headword": "capacity for empathy",
+      "kind": "phrase",
+      "zh": "共情能力",
+      "en": "the ability to understand and share others' feelings",
+      "forms": [
+        "capacity for empathy"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "empathy",
+      "headword": "empathy",
+      "kind": "word",
+      "zh": "n. 移情作用, 共鸣\n[医] 移情, 神入",
+      "en": "n. understanding and entering into another's feelings",
+      "phonetic": "'empæθik",
+      "forms": [
+        "empathy"
+      ],
+      "example": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "literary",
+      "headword": "literary",
+      "kind": "word",
+      "zh": "a. 文学的, 文艺的, 精通文学的\n[法] 文学的, 从事文学的, 从事写作的",
+      "en": "a. of or relating to or characteristic of literature\ns. knowledgeable about literature\ns. appropriate to literature rather than everyday speech or writing",
+      "phonetic": "'litәrәri",
+      "forms": [
+        "literary"
+      ],
+      "example": "One of the earliest literary accounts of a cat is the ninth-century poem “Pangur Bán,” written by an unnamed Irish monk.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "poem",
+      "headword": "poem",
+      "kind": "word",
+      "zh": "n. 诗, 诗般美的事物",
+      "en": "n. a composition written in metrical feet forming rhythmical lines",
+      "phonetic": "'pәuim",
+      "forms": [
+        "poem",
+        "poems"
+      ],
+      "example": "One of the earliest literary accounts of a cat is the ninth-century poem “Pangur Bán,” written by an unnamed Irish monk.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "unnamed",
+      "headword": "unnamed",
+      "kind": "word",
+      "zh": "a. 未命名的, 没有名字的, 未提及的\n[计] 无名的",
+      "en": "s being or having an unknown or unnamed source",
+      "phonetic": "'ʌn'neimd",
+      "forms": [
+        "unnamed"
+      ],
+      "example": "One of the earliest literary accounts of a cat is the ninth-century poem “Pangur Bán,” written by an unnamed Irish monk.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "irish",
+      "headword": "Irish",
+      "kind": "word",
+      "zh": "n. 爱尔兰人, 爱尔兰语\na. 爱尔兰的",
+      "en": "n. people of Ireland or of Irish extraction\nn. whiskey made in Ireland chiefly from barley\nn. the Celtic language of Ireland",
+      "phonetic": "'airiʃ",
+      "forms": [
+        "irish"
+      ],
+      "example": "One of the earliest literary accounts of a cat is the ninth-century poem “Pangur Bán,” written by an unnamed Irish monk.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "monk",
+      "headword": "monk",
+      "kind": "word",
+      "zh": "n. 修道士, 僧侣, 和尚",
+      "en": "n. a male religious living in a cloister and devoting himself to contemplation and prayer and work\nn. United States jazz pianist who was one of the founders of the bebop style (1917-1982)",
+      "phonetic": "mʌŋk",
+      "forms": [
+        "monk"
+      ],
+      "example": "One of the earliest literary accounts of a cat is the ninth-century poem “Pangur Bán,” written by an unnamed Irish monk.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "parallels",
+      "headword": "parallel",
+      "kind": "word",
+      "zh": "n. 平行, 对比, 相匹敌之物\na. 平行的, 相似的\nvt. 与...平行, 与...相似, 相比, 使平行\n[计] 并联; 并行",
+      "en": "n. (mathematics) one of a set of parallel geometric figures (parallel lines or planes)\nv. be parallel to\nv. make or place parallel to something\na. being everywhere equidistant and not intersecting",
+      "phonetic": "'pærәlel",
+      "forms": [
+        "parallels"
+      ],
+      "example": "In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat’s devotion to hunting mice.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "devotion",
+      "headword": "devotion",
+      "kind": "word",
+      "zh": "n. 热爱, 投入",
+      "en": "n. feelings of ardent love\nn. commitment to some purpose\nn. (usually plural) religious observance or prayers (usually spoken silently)",
+      "phonetic": "di'vәuʃәn",
+      "forms": [
+        "devotion"
+      ],
+      "example": "In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat’s devotion to hunting mice.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "hunting",
+      "headword": "hunt",
+      "kind": "word",
+      "zh": "n. 狩猎, 追捕, 搜寻, 猎区\nvt. 狩猎, 打猎, 搜索\nvi. 打猎, 猎食, 搜寻",
+      "en": "n. Englishman and Pre-Raphaelite painter (1827-1910)\nn. United States architect (1827-1895)\nn. British writer who defended the Romanticism of Keats and Shelley (1784-1859)\nn. an association of huntsmen who hunt for sport",
+      "phonetic": "hʌnt",
+      "forms": [
+        "hunting"
+      ],
+      "example": "In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat’s devotion to hunting mice.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "texts",
+      "headword": "text",
+      "kind": "word",
+      "zh": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\n[计] 电文; 文本; 正文",
+      "en": "n. the words of something written\nn. a passage from the Bible that is used as the subject of a sermon\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)",
+      "phonetic": "tekst",
+      "forms": [
+        "texts"
+      ],
+      "example": "In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat’s devotion to hunting mice.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "mice",
+      "headword": "mouse",
+      "kind": "word",
+      "zh": "n. 老鼠, 胆小羞怯的人, 鼠标\nvi. 捕鼠, 窥探\nvt. 探出\n[计] 鼠标",
+      "en": "n. any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails\nn. person who is quiet or timid\nn. a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\nv. manipulate the mouse of a computer",
+      "phonetic": "maus",
+      "forms": [
+        "mice"
+      ],
+      "example": "In the poem, he describes the parallels between his devotion to hunting for meaning in the texts he is studying and the cat’s devotion to hunting mice.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "possessing",
+      "headword": "possess",
+      "kind": "word",
+      "zh": "vt. 持有, 占有, 拥有, 克制, 支配, 迷住\n[法] 持有, 占有, 具有",
+      "en": "v. have as an attribute, knowledge, or skill\nv. enter into and control, as of emotions or ideas",
+      "phonetic": "pә'zes",
+      "forms": [
+        "possessing"
+      ],
+      "example": "What’s interesting about the poem is how the anonymous poet sees the cat as possessing qualities that resemble human qualities – and, in doing so, implicitly suggests that cats have dignity much like human dignity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "resemble",
+      "headword": "resemble",
+      "kind": "word",
+      "zh": "vt. 相似, 类似",
+      "en": "v. appear like; be similar or bear a likeness to",
+      "phonetic": "ri'zembl",
+      "forms": [
+        "resemble"
+      ],
+      "example": "What’s interesting about the poem is how the anonymous poet sees the cat as possessing qualities that resemble human qualities – and, in doing so, implicitly suggests that cats have dignity much like human dignity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "implicitly",
+      "headword": "implicitly",
+      "kind": "word",
+      "zh": "adv. 含蓄, 不言明, 暗示, 暗指, 内含, 固有, 无疑, 绝对, 无保留\n[计] 隐含地",
+      "en": "r. without doubting or questioning\nr. without ever expressing so clearly",
+      "phonetic": "",
+      "forms": [
+        "implicitly"
+      ],
+      "example": "What’s interesting about the poem is how the anonymous poet sees the cat as possessing qualities that resemble human qualities – and, in doing so, implicitly suggests that cats have dignity much like human dignity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "dignity",
+      "headword": "dignity",
+      "kind": "word",
+      "zh": "n. 尊严, 高贵\n[法] 尊严, 高位, 高贵",
+      "en": "n. the quality of being worthy of esteem or respect\nn. formality in bearing and appearance\nn. high office or rank or station",
+      "phonetic": "'digniti",
+      "forms": [
+        "dignity"
+      ],
+      "example": "What’s interesting about the poem is how the anonymous poet sees the cat as possessing qualities that resemble human qualities – and, in doing so, implicitly suggests that cats have dignity much like human dignity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "hierarchy",
+      "headword": "hierarchy",
+      "kind": "word",
+      "zh": "n. 等级制度, 僧侣统治, 等级体系\n[计] 分级结构; 分层结构; 新闻组, 新闻组分层",
+      "en": "n. a series of ordered groupings of people or things within a system\nn. the organization of people at different ranks in an administrative body",
+      "phonetic": "'haiәrɑ:ki",
+      "forms": [
+        "hierarchy"
+      ],
+      "example": "The monk does not set himself above the cat in some great hierarchy of life, but instead places himself alongside the cat as peers in their dedicated practices.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "The monk does not set himself above the cat in some great hierarchy of life, but instead places himself alongside the cat as peers in their dedicated practices.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "peers",
+      "headword": "peer",
+      "kind": "word",
+      "zh": "n. 同等的人, 匹敌, 贵族\nvi. 凝视, 窥视, 费力地看, 隐现\nvt. 与...同等, 封为贵族",
+      "en": "n. a person who is of equal standing with another in a group\nn. a nobleman (duke or marquis or earl or viscount or baron) who is a member of the British peerage\nv. look searchingly",
+      "phonetic": "piә",
+      "forms": [
+        "peers"
+      ],
+      "example": "The monk does not set himself above the cat in some great hierarchy of life, but instead places himself alongside the cat as peers in their dedicated practices.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "dedicated",
+      "headword": "dedicate",
+      "kind": "word",
+      "zh": "vt. 献出, 贡献",
+      "en": "v. open to public use, as of a highway, park, or building\nv. inscribe or address by way of compliment\nv. set apart to sacred uses with solemn rites, of a church",
+      "phonetic": "'dedikeit",
+      "forms": [
+        "dedicated"
+      ],
+      "example": "The monk does not set himself above the cat in some great hierarchy of life, but instead places himself alongside the cat as peers in their dedicated practices.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "chinese",
+      "headword": "Chinese",
+      "kind": "word",
+      "zh": "n. 中文, 中国话, 中国人\na. 中国的, 中国话的",
+      "en": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures",
+      "phonetic": "tʃai'ni:z",
+      "forms": [
+        "chinese"
+      ],
+      "example": "In the 12th century, the Chinese poet Lu You composed over 9,000 poems.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "composed",
+      "headword": "compose",
+      "kind": "word",
+      "zh": "vt. 组成, 写作, 作曲, 使平静\nvi. 创作, 排字\n[计] 编写",
+      "en": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet",
+      "phonetic": "kәm'pәuz",
+      "forms": [
+        "composed"
+      ],
+      "example": "In the 12th century, the Chinese poet Lu You composed over 9,000 poems.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "handful",
+      "headword": "handful",
+      "kind": "word",
+      "zh": "n. 少数, 一把, 棘手事",
+      "en": "n. a small number or amount\nn. the quantity that can be held in the hand",
+      "phonetic": "'hændful",
+      "forms": [
+        "handful"
+      ],
+      "example": "A handful were about his cats, and of these, three are entitled “Zeng mao,” or “Presented to My Cat.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "entitled",
+      "headword": "entitle",
+      "kind": "word",
+      "zh": "vt. 给...权利, 取名为, 给予名称, 叫做\n[法] 给...权利, 使有资格, 称呼",
+      "en": "v. give the right to\nv. give a title to",
+      "phonetic": "in'taitl",
+      "forms": [
+        "entitled"
+      ],
+      "example": "A handful were about his cats, and of these, three are entitled “Zeng mao,” or “Presented to My Cat.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "lifetime",
+      "headword": "lifetime",
+      "kind": "word",
+      "zh": "n. 一生, 终生\na. 一生的, 终生的",
+      "en": "n the period during which something is functional (as between birth and death)",
+      "phonetic": "'laiftaim",
+      "forms": [
+        "lifetime"
+      ],
+      "example": "It’s not clear if the poems are all about the same cat, as Lu had more than one cat over his lifetime.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "literature",
+      "headword": "literature",
+      "kind": "word",
+      "zh": "n. 文学, 文艺, 著作\n[经] 广告, 商品介绍等文学",
+      "en": "n. creative writing of recognized artistic value\nn. the humanistic study of a body of literature\nn. published writings in a particular style on a particular subject\nn. the profession or art of a writer",
+      "phonetic": "'litәrәtʃә",
+      "forms": [
+        "literature"
+      ],
+      "example": "In Chinese literature, poems that include the term “zeng” – “to present” – are often sent to acquaintances as a form of literary exchange.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "acquaintances",
+      "headword": "acquaintance",
+      "kind": "word",
+      "zh": "n. 认识, 相识者",
+      "en": "n. personal knowledge or information about someone or something\nn. a relationship less intimate than friendship\nn. a person with whom you are acquainted",
+      "phonetic": "ә'kweintәns",
+      "forms": [
+        "acquaintances"
+      ],
+      "example": "In Chinese literature, poems that include the term “zeng” – “to present” – are often sent to acquaintances as a form of literary exchange.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "exchange",
+      "headword": "exchange",
+      "kind": "word",
+      "zh": "n. 交换, (电话)交换局, 交换机, 汇兑, 交易所\nv. 交换, 交易, 兑换\n[计] 交换; 电话局",
+      "en": "n. chemical process in which one atom or ion or group changes places with another\nn. a mutual expression of views (especially an unpleasant one)\nn. the act of changing one thing for another thing\nn. the act of giving something in return for something received",
+      "phonetic": "iks'tʃeindʒ",
+      "forms": [
+        "exchange"
+      ],
+      "example": "In Chinese literature, poems that include the term “zeng” – “to present” – are often sent to acquaintances as a form of literary exchange.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "prior",
+      "headword": "prior",
+      "kind": "word",
+      "zh": "a. 更重要的, 较早的, 在先的\nn. 小隐修院院长, 大隐修院副院长",
+      "en": "n. the head of a religious order; in an abbey the prior is next below the abbot",
+      "phonetic": "'praiә",
+      "forms": [
+        "prior"
+      ],
+      "example": "Prior to Lu, there’s no literary evidence that anyone had addressed a poem to a cat.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "acquired",
+      "headword": "acquire",
+      "kind": "word",
+      "zh": "vt. 获得, 学到\n[电] 目标锁定",
+      "en": "v. locate (a moving entity) by means of a tracking system such as radar\nv. win something through one's efforts",
+      "phonetic": "ә'kwaiә",
+      "forms": [
+        "acquired"
+      ],
+      "example": "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "library",
+      "headword": "library",
+      "kind": "word",
+      "zh": "n. 图书馆, 藏书, 库\n[计] 库",
+      "en": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+      "phonetic": "'laibrәri",
+      "forms": [
+        "library"
+      ],
+      "example": "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "vermin",
+      "headword": "vermin",
+      "kind": "word",
+      "zh": "n. 害虫, 歹徒\n[医] 虫, 体外寄生虫(如蚤、臭虫、蚤等)",
+      "en": "n. an irritating or obnoxious person\nn. any of various small animals or insects that are pests; e.g. cockroaches or rats",
+      "phonetic": "'vә:min",
+      "forms": [
+        "vermin"
+      ],
+      "example": "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "embarrassed",
+      "headword": "embarrass",
+      "kind": "word",
+      "zh": "vt. 使困窘, 使局促不安, 阻碍",
+      "en": "v. cause to be embarrassed; cause to feel self-conscious",
+      "phonetic": "im'bærәs",
+      "forms": [
+        "embarrassed"
+      ],
+      "example": "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin. Looking around his home, he feels embarrassed by his lack of success in life:",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack"
+      ],
+      "example": "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin. Looking around his home, he feels embarrassed by his lack of success in life:",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "ashamed",
+      "headword": "ashamed",
+      "kind": "word",
+      "zh": "a. 惭愧的, 羞耻的",
+      "en": "a. feeling shame or guilt or embarrassment or remorse",
+      "phonetic": "ә'ʃeimd",
+      "forms": [
+        "ashamed"
+      ],
+      "example": "I’m ashamed that I’m poor and my achievements few,",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "achievements",
+      "headword": "achievement",
+      "kind": "word",
+      "zh": "n. 完成, 成就, 功业",
+      "en": "n the action of accomplishing something",
+      "phonetic": "ә'tʃi:vmәnt",
+      "forms": [
+        "achievements"
+      ],
+      "example": "I’m ashamed that I’m poor and my achievements few,",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "accuses",
+      "headword": "accuse",
+      "kind": "word",
+      "zh": "vt. 指责, 控告, 归咎于\nvi. 指责, 控告",
+      "en": "v. bring an accusation against; level a charge against",
+      "phonetic": "ә'kju:z",
+      "forms": [
+        "accuses"
+      ],
+      "example": "In the second of these poems, a longer eight-line poem, the poet accuses his cat of poor feline behavior familiar even today:",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "feline",
+      "headword": "feline",
+      "kind": "word",
+      "zh": "a. 猫的, 猫科的, 猫一样的\nn. 猫, 猫科动物",
+      "en": "n. any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws\na. of or relating to cats",
+      "phonetic": "'fi:lain",
+      "forms": [
+        "feline"
+      ],
+      "example": "And despite his cat’s indolence, Lu continues to cherish his feline, making sure to regularly serve its dinner.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "The relationship that Lu depicts between cat and human will be familiar to anyone who has fought with their cat over who gets the blanket or wondered what their cat might be thinking.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "frequently",
+      "headword": "frequently",
+      "kind": "word",
+      "zh": "adv. 频繁, 经常地",
+      "en": "r. many times at short intervals",
+      "phonetic": "'fri:kwәntli",
+      "forms": [
+        "frequently"
+      ],
+      "example": "You frequently get drunk from catnip,",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "catnip",
+      "headword": "catnip",
+      "kind": "word",
+      "zh": "n. 假荆芥, 樟脑草\n[医] 樟脑草(潞州荆芥)",
+      "en": "n hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats",
+      "phonetic": "'kætnip",
+      "forms": [
+        "catnip"
+      ],
+      "example": "You frequently get drunk from catnip,",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "commandeer",
+      "headword": "commandeer",
+      "kind": "word",
+      "zh": "vt. 征用, 霸占\n[法] 强迫服役, 徵用",
+      "en": "v. take arbitrarily or by force",
+      "phonetic": ".kɒmәn'diә",
+      "forms": [
+        "commandeer"
+      ],
+      "example": "You commandeer the blanket every night.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "blanket",
+      "headword": "blanket",
+      "kind": "word",
+      "zh": "n. 毛毯, 毯子\nvt. 掩盖, 覆盖\na. 总共的",
+      "en": "n. bedding that keeps a person warm in bed\nn. anything that covers\nn. a layer of lead surrounding the highly reactive core of a nuclear reactor\nv. cover as if with a blanket",
+      "phonetic": "'blæŋkit",
+      "forms": [
+        "blanket"
+      ],
+      "example": "The relationship that Lu depicts between cat and human will be familiar to anyone who has fought with their cat over who gets the blanket or wondered what their cat might be thinking.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "praise",
+      "headword": "praise",
+      "kind": "word",
+      "zh": "n. 赞美, 称赞, 崇拜\nvt. 称赞, 赞美\nvi. 赞扬, 表扬",
+      "en": "n. an expression of approval and commendation\nn. offering words of homage as an act of worship\nv. express approval of",
+      "phonetic": "preiz",
+      "forms": [
+        "praise"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "deeds",
+      "headword": "deed",
+      "kind": "word",
+      "zh": "n. 行为, 实行, 契约\nvt. 立契转让",
+      "en": "n. a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it",
+      "phonetic": "di:d",
+      "forms": [
+        "deeds"
+      ],
+      "example": "Deeds of the mousehole – just now recounted,",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "mousehole",
+      "headword": "mousehole",
+      "kind": "word",
+      "zh": "n. 鼠洞, 壁橱",
+      "en": "n. A hole made by a mouse, for passage or abode, as in a\n   wall; hence, a very small hole like that gnawed by a mouse.",
+      "phonetic": "'maushәul",
+      "forms": [
+        "mousehole"
+      ],
+      "example": "Deeds of the mousehole – just now recounted,",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "recounted",
+      "headword": "recount",
+      "kind": "word",
+      "zh": "vt. 详述, 叙述, 重新计算\nn. 重新计算",
+      "en": "n. an additional (usually a second) count; especially of the votes in a close election\nv. count again",
+      "phonetic": "ri'kaunt",
+      "forms": [
+        "recounted"
+      ],
+      "example": "Deeds of the mousehole – just now recounted,",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "rewards",
+      "headword": "reward",
+      "kind": "word",
+      "zh": "n. 报酬, 酬谢, 赏金\nvt. 奖赏, 酬谢, 给...应有报应",
+      "en": "n. payment made in return for a service rendered\nn. an act performed to strengthen approved behavior\nn. the offer of money for helping to find a criminal or for returning lost property\nv. act or give recompense in recognition of someone's behavior or actions",
+      "phonetic": "ri'wɒ:d",
+      "forms": [
+        "rewards"
+      ],
+      "example": "Rewards of fish morsels – how could these be omitted?",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "morsels",
+      "headword": "morsel",
+      "kind": "word",
+      "zh": "n. 一口, 少量, 小片",
+      "en": "n. a small quantity of anything\nn. a small amount of solid food; a mouthful",
+      "phonetic": "'mɒ:sl",
+      "forms": [
+        "morsels"
+      ],
+      "example": "Rewards of fish morsels – how could these be omitted?",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "omitted",
+      "headword": "omit",
+      "kind": "word",
+      "zh": "vt. 省略, 删除, 疏忽, 遗漏\n[化] 省略",
+      "en": "v prevent from being included or considered or accepted\nv leave undone or leave out",
+      "phonetic": "әu'mit",
+      "forms": [
+        "omitted"
+      ],
+      "example": "Rewards of fish morsels – how could these be omitted?",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "tiger",
+      "headword": "tiger",
+      "kind": "word",
+      "zh": "n. 老虎, 虎, 凶暴的人",
+      "en": "n. a fierce or audacious person\nn. large feline of forests in most of Asia having a tawny coat with black stripes; endangered",
+      "phonetic": "'taigә",
+      "forms": [
+        "tiger"
+      ],
+      "example": "I’ll call you “Little Tiger.”",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "countless",
+      "headword": "countless",
+      "kind": "word",
+      "zh": "a. 数不尽的, 无数的",
+      "en": "s. too numerous to be counted",
+      "phonetic": "'kauntlis",
+      "forms": [
+        "countless"
+      ],
+      "example": "Lu chooses a name that probably was given to countless cats in premodern China.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "china",
+      "headword": "China",
+      "kind": "word",
+      "zh": "n. 中国, 瓷器\na. 中国的",
+      "en": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China",
+      "phonetic": "'tʃainә",
+      "forms": [
+        "china"
+      ],
+      "example": "Lu chooses a name that probably was given to countless cats in premodern China.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "emphasizing",
+      "headword": "emphasize",
+      "kind": "word",
+      "zh": "vt. 强调, 加强语气, 着重",
+      "en": "v to stress, single out as important\nv give extra weight to (a communication)",
+      "phonetic": "'emfәsaiz",
+      "forms": [
+        "emphasizing"
+      ],
+      "example": "But by ending the poem with the act of naming, he is emphasizing how this cat is an individual to him, known to him by this name and none other.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "depicts",
+      "headword": "depict",
+      "kind": "word",
+      "zh": "vt. 描述, 描写",
+      "en": "v show in, or as in, a picture\nv give a description of\nv make a portrait of",
+      "phonetic": "di'pikt",
+      "forms": [
+        "depicts"
+      ],
+      "example": "The relationship that Lu depicts between cat and human will be familiar to anyone who has fought with their cat over who gets the blanket or wondered what their cat might be thinking.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "translated",
+      "headword": "translate",
+      "kind": "word",
+      "zh": "vt. 翻译, 解释, 转化, 转变为, 调动\nvi. 翻译, 被译\n[计] 转换",
+      "en": "v. restate (words) from one language into another language\nv. change from one form or medium into another\nv. bring to a certain spiritual state\nv. change the position of (figures or bodies) in space without rotation",
+      "phonetic": "træns'leit",
+      "forms": [
+        "translated"
+      ],
+      "example": "The third poem, translated here in full, finds the cat late in its life, with its days chasing mice long behind it.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "chasing",
+      "headword": "chase",
+      "kind": "word",
+      "zh": "n. 追求, 狩猎, 追逐\nvt. 追捕, 追逐, 雕刻, 在...上镶嵌宝石\nvi. 追赶, 奔跑",
+      "en": "n. United States politician and jurist who served as chief justice of the United States Supreme Court (1808-1873)\nn. a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time\nv. go after with the intent to catch\nv. pursue someone sexually or romantically",
+      "phonetic": "tʃeis",
+      "forms": [
+        "chasing"
+      ],
+      "example": "The third poem, translated here in full, finds the cat late in its life, with its days chasing mice long behind it.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "poignancy",
+      "headword": "poignancy",
+      "kind": "word",
+      "zh": "n. 辛酸, 强烈, 深刻, 辛辣",
+      "en": "n a state of deeply felt distress or sorrow\nn a quality that arouses emotions (especially pity or sorrow)",
+      "phonetic": "'pɒinәnsi",
+      "forms": [
+        "poignancy"
+      ],
+      "example": "The third poem, translated here in full, finds the cat late in its life, with its days chasing mice long behind it. Its poignancy is amplified by the fact that Lu composed it in the last year of his own life:",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "amplified",
+      "headword": "amplify",
+      "kind": "word",
+      "zh": "vt. 增强, 放大, 扩大, 详述\nvi. 引伸",
+      "en": "v. increase the volume of",
+      "phonetic": "'æmplifai",
+      "forms": [
+        "amplified"
+      ],
+      "example": "The third poem, translated here in full, finds the cat late in its life, with its days chasing mice long behind it. Its poignancy is amplified by the fact that Lu composed it in the last year of his own life:",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "merit",
+      "headword": "merit",
+      "kind": "word",
+      "zh": "n. 优点, 功绩, 价值, 功过, 真相\nvt. 值得\nvi. 应受",
+      "en": "n. any admirable quality or attribute",
+      "phonetic": "'merit",
+      "forms": [
+        "merit"
+      ],
+      "example": "As for catching mice you lack merit, but I never complain,",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "complain",
+      "headword": "complain",
+      "kind": "word",
+      "zh": "v. 抱怨, 抗议, 控诉",
+      "en": "v. express complaints, discontent, displeasure, or unhappiness\nv. make a formal accusation; bring a formal charge",
+      "phonetic": "kәm'plein",
+      "forms": [
+        "complain"
+      ],
+      "example": "As for catching mice you lack merit, but I never complain,",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "ladle",
+      "headword": "ladle",
+      "kind": "word",
+      "zh": "n. 勺子, 长柄勺\nvt. 以勺舀取, 以勺掬, 不分对象予以赠送",
+      "en": "n. a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another\nv. put (a liquid) into a container by means of a ladle\nv. remove with or as if with a ladle",
+      "phonetic": "'leidl",
+      "forms": [
+        "ladle"
+      ],
+      "example": "A ladle of fish and rice will come at the usual time.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "rice",
+      "headword": "rice",
+      "kind": "word",
+      "zh": "n. 米, 米饭, 稻\nvt. 将...压成米粒状",
+      "en": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)",
+      "phonetic": "rais",
+      "forms": [
+        "rice"
+      ],
+      "example": "A ladle of fish and rice will come at the usual time.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "usual",
+      "headword": "usual",
+      "kind": "word",
+      "zh": "a. 平常的, 通常的",
+      "en": "a. occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure",
+      "phonetic": "'ju:ʒuәl",
+      "forms": [
+        "usual"
+      ],
+      "example": "A ladle of fish and rice will come at the usual time.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "peacefully",
+      "headword": "peacefully",
+      "kind": "word",
+      "zh": "adv. 平静地",
+      "en": "r. in a peaceful manner",
+      "phonetic": "",
+      "forms": [
+        "peacefully"
+      ],
+      "example": "Throughout the day I see you sleeping peacefully,",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "coming",
+      "headword": "coming",
+      "kind": "word",
+      "zh": "n. 来临\na. 就要来的, 接着的",
+      "en": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future",
+      "phonetic": "'kʌmiŋ",
+      "forms": [
+        "coming"
+      ],
+      "example": "So why am I always coming and going?",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "bemused",
+      "headword": "bemuse",
+      "kind": "word",
+      "zh": "vt. 使发呆",
+      "en": "v cause to be confused emotionally",
+      "phonetic": "bi'mju:z",
+      "forms": [
+        "bemused"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "foolish",
+      "headword": "foolish",
+      "kind": "word",
+      "zh": "a. 愚蠢的, 傻的",
+      "en": "a. devoid of good sense or judgment",
+      "phonetic": "'fu:liʃ",
+      "forms": [
+        "foolish"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "rushing",
+      "headword": "rush",
+      "kind": "word",
+      "zh": "n. 匆促, 冲进, 急流, 灯心草\nvi. 冲, 奔, 闯, 赶紧, 匆促行事, 涌现\nvt. 使冲, 匆忙地做, 突袭, 飞跃, 用灯心草做\na. 紧急的",
+      "en": "n. a sudden forceful flow\nn. grasslike plants growing in wet places and having cylindrical often hollow stems\nn. physician and American Revolutionary leader; signer of the Declaration of Independence (1745-1813)\nn. a sudden burst of activity",
+      "phonetic": "rʌʃ",
+      "forms": [
+        "rushing"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "fulfilling",
+      "headword": "fulfill",
+      "kind": "word",
+      "zh": "vt. 实践, 履行, 实行, 完成, 结束, 满足\n[法] 履行, 完成, 达到",
+      "en": "v put in effect\nv meet the requirements or expectations of\nv fill or meet a want or need",
+      "phonetic": "ful'fil",
+      "forms": [
+        "fulfilling"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "satisfied",
+      "headword": "satisfy",
+      "kind": "word",
+      "zh": "vt. 使满意, 满足, 符合, 使确信, 赔偿\nvi. 令人满意, 替人赎罪",
+      "en": "v. meet the requirements or expectations of\nv. make happy or satisfied",
+      "phonetic": "'sætisfai",
+      "forms": [
+        "satisfied"
+      ],
+      "example": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "indolence",
+      "headword": "indolence",
+      "kind": "word",
+      "zh": "n. 怠惰, 无痛\n[医] 无痛",
+      "en": "n. inactivity resulting from a dislike of work",
+      "phonetic": "'indәlәns",
+      "forms": [
+        "indolence"
+      ],
+      "example": "And despite his cat’s indolence, Lu continues to cherish his feline, making sure to regularly serve its dinner.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "cherish",
+      "headword": "cherish",
+      "kind": "word",
+      "zh": "vt. 珍爱, 怀有, 爱护",
+      "en": "v be fond of; be attached to",
+      "phonetic": "'tʃeriʃ",
+      "forms": [
+        "cherish"
+      ],
+      "example": "And despite his cat’s indolence, Lu continues to cherish his feline, making sure to regularly serve its dinner.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "regularly",
+      "headword": "regularly",
+      "kind": "word",
+      "zh": "adv. 有规则地, 一丝不苟地, 正式地",
+      "en": "r. in a regular manner\nr. having a regular form\nr. in a regular way without variation",
+      "phonetic": "'regjulәli",
+      "forms": [
+        "regularly"
+      ],
+      "example": "And despite his cat’s indolence, Lu continues to cherish his feline, making sure to regularly serve its dinner.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "primarily",
+      "headword": "primarily",
+      "kind": "word",
+      "zh": "adv. 主要地, 首先地",
+      "en": "r. of primary import",
+      "phonetic": "'praimәrili",
+      "forms": [
+        "primarily"
+      ],
+      "example": "This is significant, given that other premodern Chinese writers viewed cats primarily as vermin-catchers that should be replaced once they outlive their usefulness.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "outlive",
+      "headword": "outlive",
+      "kind": "word",
+      "zh": "vt. 比...经久, 比...活得长, 度过(风暴)而健在",
+      "en": "v. live longer than",
+      "phonetic": "aut'liv",
+      "forms": [
+        "outlive"
+      ],
+      "example": "This is significant, given that other premodern Chinese writers viewed cats primarily as vermin-catchers that should be replaced once they outlive their usefulness.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "usefulness",
+      "headword": "usefulness",
+      "kind": "word",
+      "zh": "n. 有用, 有益\n[经] 有用, 有用性",
+      "en": "n the quality of being of practical use",
+      "phonetic": "'ju:sfjlnis",
+      "forms": [
+        "usefulness"
+      ],
+      "example": "This is significant, given that other premodern Chinese writers viewed cats primarily as vermin-catchers that should be replaced once they outlive their usefulness.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "personhood",
+      "headword": "personhood",
+      "kind": "word",
+      "zh": "n. 做人,人格",
+      "en": "n. being a person",
+      "phonetic": "'p\\\\\\\\:sәnhjd",
+      "forms": [
+        "personhood"
+      ],
+      "example": "Lu does not speak in the language of what philosophers call moral personhood.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "oneself",
+      "headword": "oneself",
+      "kind": "word",
+      "zh": "pron. 自己, 亲自",
+      "en": "pron. A reflexive form of the indefinite pronoun one.\n   Commonly writen as two words, one's self.",
+      "phonetic": "wʌn'self",
+      "forms": [
+        "oneself"
+      ],
+      "example": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "pampered",
+      "headword": "pamper",
+      "kind": "word",
+      "zh": "vt. 放纵, 使吃饱, 使过量",
+      "en": "v. treat with excessive indulgence",
+      "phonetic": "'pæmpә",
+      "forms": [
+        "pampered"
+      ],
+      "example": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "tinged",
+      "headword": "tinge",
+      "kind": "word",
+      "zh": "n. 色调, 色彩, 气味, 气息\nvt. 染, 使带气息",
+      "en": "v. affect as in thought or feeling",
+      "phonetic": "tindʒ",
+      "forms": [
+        "tinged"
+      ],
+      "example": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "envy",
+      "headword": "envy",
+      "kind": "word",
+      "zh": "n. 羡慕, 嫉妒\nvt. 羡慕, 嫉妒",
+      "en": "n. a feeling of grudging admiration and desire to have something that is possessed by another\nn. spite and resentment at seeing the success of another (personified as one of the deadly sins)\nv. feel envious towards; admire enviously\nv. be envious of; set one's heart on",
+      "phonetic": "'envi",
+      "forms": [
+        "envy"
+      ],
+      "example": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "anxiety",
+      "headword": "anxiety",
+      "kind": "word",
+      "zh": "n. 焦虑, 忧虑, 令人焦虑的事\n[医] 焦虑",
+      "en": "n. (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic\nn. a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",
+      "phonetic": "æŋ'zaiәti",
+      "forms": [
+        "anxiety"
+      ],
+      "example": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "affords",
+      "headword": "afford",
+      "kind": "word",
+      "zh": "vt. 买得起, 足以, 给予",
+      "en": "v. be able to spare or give up\nv. have the financial means to do something or buy something\nv. afford access to",
+      "phonetic": "ә'fɒ:d",
+      "forms": [
+        "affords"
+      ],
+      "example": "Lu’s care for his cat affords him the possibility of imagining a nonhuman animal mind.",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "nonhuman",
+      "headword": "nonhuman",
+      "kind": "word",
+      "zh": "a. 非人类的",
+      "en": "a. not human; not belonging to or produced by or appropriate to human beings",
+      "phonetic": "nɒn'hju:mәn",
+      "forms": [
+        "nonhuman"
+      ],
+      "example": "Lu’s care for his cat affords him the possibility of imagining a nonhuman animal mind.",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "solace",
+      "headword": "solace",
+      "kind": "word",
+      "zh": "n. 安慰, 安慰之物\nvt. 安慰, 抚慰, 给与安慰, 使轻松",
+      "en": "n. comfort in disappointment or misery",
+      "phonetic": "'sɒlis",
+      "forms": [
+        "solace"
+      ],
+      "example": "The poet learns something from his cat in the end, as he imagines the world through the cat’s eyes and, in doing so, perhaps finds a measure of solace.",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "philosophers",
+      "headword": "philosopher",
+      "kind": "word",
+      "zh": "n. 哲学家, 哲人, 思想开创人, 达观的人\n[法] 哲学家, 哲学研究者",
+      "en": "n. a specialist in philosophy\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
+      "phonetic": "fi'lɒsәfә",
+      "forms": [
+        "philosophers",
+        "philosopher"
+      ],
+      "example": "Lu does not speak in the language of what philosophers call moral personhood.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "moral",
+      "headword": "moral",
+      "kind": "word",
+      "zh": "n. 道德, 品行, 寓意\na. 道德的, 品性端正的, 精神上的",
+      "en": "n. the significance of a story or event\na. concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles\ns. psychological rather than physical or tangible in effect",
+      "phonetic": "'mɒrәl",
+      "forms": [
+        "moral"
+      ],
+      "example": "Lu does not speak in the language of what philosophers call moral personhood.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "ethical",
+      "headword": "ethical",
+      "kind": "word",
+      "zh": "a. 伦理的, 民族的, 民族特有的\n[医] 伦理的, 道德的",
+      "en": "a. of or relating to the philosophical study of ethics\na. conforming to accepted standards of social or professional behavior\ns. adhering to ethical and moral principles",
+      "phonetic": "'eθikәl",
+      "forms": [
+        "ethical"
+      ],
+      "example": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "creatures",
+      "headword": "creature",
+      "kind": "word",
+      "zh": "n. 人, 动物, 创造物, 生物",
+      "en": "n. a human being; `wight' is an archaic term\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else",
+      "phonetic": "'kri:tʃә",
+      "forms": [
+        "creatures"
+      ],
+      "example": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "deserve",
+      "headword": "deserve",
+      "kind": "word",
+      "zh": "vt. 该得到, 值得\nvi. 应得报答",
+      "en": "v. be worthy or deserving",
+      "phonetic": "di'zә:v",
+      "forms": [
+        "deserve",
+        "deserving"
+      ],
+      "example": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "respect",
+      "headword": "respect",
+      "kind": "word",
+      "zh": "n. 尊敬, 尊重, 问候\nvt. 尊敬, 注意, 遵守",
+      "en": "n. (usually preceded by `in') a detail or point\nn. an attitude of admiration or esteem\nv. regard highly; think much of\nv. show respect towards",
+      "phonetic": "ri'spekt",
+      "forms": [
+        "respect"
+      ],
+      "example": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "nonetheless",
+      "headword": "nonetheless",
+      "kind": "word",
+      "zh": "conj. 然而, 尽管, 不过\nadv. 不过, 仍然, 尽管如此, 然而",
+      "en": "r despite anything to the contrary (usually following a concession)",
+      "phonetic": ",nʌnðә'les",
+      "forms": [
+        "nonetheless"
+      ],
+      "example": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "demonstrate",
+      "headword": "demonstrate",
+      "kind": "word",
+      "zh": "vt. 示范, 证明\nvi. 示威",
+      "en": "v. march in protest; take part in a demonstration",
+      "phonetic": "'demәnstreit",
+      "forms": [
+        "demonstrate"
+      ],
+      "example": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "somewhat",
+      "headword": "somewhat",
+      "kind": "word",
+      "zh": "n. 某物, 几分\nadv. 多少, 几分",
+      "en": "r to a small degree or extent\nr to a moderately sufficient extent or degree",
+      "phonetic": "'sʌmhwɒt",
+      "forms": [
+        "somewhat"
+      ],
+      "example": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "equal",
+      "headword": "equal",
+      "kind": "word",
+      "zh": "n. 对手, 匹敌, 同辈\na. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的\nvt. 等于, 比得上\n[计] 等长度编码",
+      "en": "v. be identical or equivalent to\nv. be equal to in quality or ability\nv. make equal, uniform, corresponding, or matching\na. having the same quantity, value, or measure as another",
+      "phonetic": "'i:kwәl",
+      "forms": [
+        "equal"
+      ],
+      "example": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "heretofore",
+      "headword": "heretofore",
+      "kind": "word",
+      "zh": "adv. 直到此时, 此时以前, 迄今",
+      "en": "r used in negative statement to describe a situation that has existed up to this point or up to the present time",
+      "phonetic": ".hiәtu'fɒ:",
+      "forms": [
+        "heretofore"
+      ],
+      "example": "This can be seen, not least of all, by how he addresses poems to his cat, an act of social exchange that was heretofore reserved for literary interactions with other human beings.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "reserved",
+      "headword": "reserve",
+      "kind": "word",
+      "zh": "n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金\nvt. 保留, 保存, 预订, 延期, 推迟",
+      "en": "n. something kept back or saved for future use or a special purpose\nn. (medicine) potential capacity to respond in order to maintain vital functions\nn. the trait of being uncommunicative; not volunteering anything more than necessary\nv. hold back or set aside, especially for future use or contingency",
+      "phonetic": "ri'zә:v",
+      "forms": [
+        "reserved"
+      ],
+      "example": "This can be seen, not least of all, by how he addresses poems to his cat, an act of social exchange that was heretofore reserved for literary interactions with other human beings.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "interactions",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interactions"
+      ],
+      "example": "This can be seen, not least of all, by how he addresses poems to his cat, an act of social exchange that was heretofore reserved for literary interactions with other human beings.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "recognition",
+      "headword": "recognition",
+      "kind": "word",
+      "zh": "n. 赞誉, 认得, 识别, 承认, 认可, 认识\n[电] 认识",
+      "en": "n. the state or quality of being recognized or acknowledged\nn. the process of recognizing something or someone by remembering\nn. approval\nn. (biology) the ability of one molecule to attach to another molecule that has a complementary shape",
+      "phonetic": ".rekәg'niʃәn",
+      "forms": [
+        "recognition"
+      ],
+      "example": "Personhood – the recognition of an individual as deserving of dignity – is often assumed the sole province of human beings.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "sole",
+      "headword": "sole",
+      "kind": "word",
+      "zh": "n. 脚掌, 鞋底, 底部\na. 唯一的, 仅有的, 单独的, 独身的\nvt. 上鞋底, 触底",
+      "en": "n. the underside of footwear or a golf club\nn. lean flesh of any of several flatfish\nn. the underside of the foot\nn. right-eyed flatfish; many are valued as food; most common in warm seas especially European",
+      "phonetic": "sәul",
+      "forms": [
+        "sole"
+      ],
+      "example": "Personhood – the recognition of an individual as deserving of dignity – is often assumed the sole province of human beings.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "province",
+      "headword": "province",
+      "kind": "word",
+      "zh": "n. 省, 地方, 职权, 领域\n[法] 省, 地方, 领域",
+      "en": "n. the proper sphere or extent of your activities",
+      "phonetic": "'prɒvins",
+      "forms": [
+        "province"
+      ],
+      "example": "Personhood – the recognition of an individual as deserving of dignity – is often assumed the sole province of human beings.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "promoted",
+      "headword": "promote",
+      "kind": "word",
+      "zh": "vt. 促进, 晋升, 创办, 推销\n[经] 促进, 推广, 推销",
+      "en": "v. contribute to the progress or growth of\nv. give a promotion to or assign to a higher position\nv. be changed for a superior chess or checker piece\nv. change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+      "phonetic": "prәu'mәut",
+      "forms": [
+        "promoted"
+      ],
+      "example": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "worldview",
+      "headword": "worldview",
+      "kind": "word",
+      "zh": "n. 看; 视力; 观点; 目的",
+      "en": "",
+      "phonetic": "'wɜ:ldvju:",
+      "forms": [
+        "worldview"
+      ],
+      "example": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "urges",
+      "headword": "urge",
+      "kind": "word",
+      "zh": "n. 冲动, 推动力, 迫切的要求\nvt. 驱策, 力劝, 竭力主张, 推动\nvi. 强烈要求",
+      "en": "n. an instinctive motive\nn. a strong restless desire\nv. force or impel in an indicated direction",
+      "phonetic": "ә:dʒ",
+      "forms": [
+        "urges"
+      ],
+      "example": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "broaden",
+      "headword": "broaden",
+      "kind": "word",
+      "zh": "vi. 变宽, 扩大\nvt. 放宽, 使扩大",
+      "en": "v. make broader\nv. become broader",
+      "phonetic": "'brɒ:dn",
+      "forms": [
+        "broaden"
+      ],
+      "example": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "enlarge",
+      "headword": "enlarge",
+      "kind": "word",
+      "zh": "vt. 扩大, 增大\nvi. 扩大, 详述",
+      "en": "v. make larger\nv. become larger or bigger",
+      "phonetic": "in'lɑ:dʒ",
+      "forms": [
+        "enlarge"
+      ],
+      "example": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "similarly",
+      "headword": "similarly",
+      "kind": "word",
+      "zh": "adv. 相像地, 类似于",
+      "en": "r. in like or similar manner",
+      "phonetic": "'similәli",
+      "forms": [
+        "similarly"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "conceives",
+      "headword": "conceive",
+      "kind": "word",
+      "zh": "vt. 构思, 认为\nvi. 怀孕",
+      "en": "v. become pregnant; undergo conception",
+      "phonetic": "kәn'si:v",
+      "forms": [
+        "conceives"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "entangled",
+      "headword": "entangle",
+      "kind": "word",
+      "zh": "vt. 使纠缠, 卷入, 使混乱",
+      "en": "v. entrap\nv. twist together or entwine into a confusing mass",
+      "phonetic": "in'tæŋgl",
+      "forms": [
+        "entangled"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "relational",
+      "headword": "relational",
+      "kind": "word",
+      "zh": "a. 有关系的, 有联系的, 亲属的, 有亲属关系的\n[计] 相关的, 关系的",
+      "en": "s. having a relation or being related",
+      "phonetic": "ri'leiʃәnәl",
+      "forms": [
+        "relational"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "intimacies",
+      "headword": "intimacy",
+      "kind": "word",
+      "zh": "n. 亲密, 熟悉, 亲昵行为(言语)\n[法] 亲近的行为, 亲密, 隐私",
+      "en": "n close or warm friendship\nn a usually secretive or illicit sexual relationship\nn a feeling of being intimate and belonging together",
+      "phonetic": "'intimәsi",
+      "forms": [
+        "intimacies"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "bind",
+      "headword": "bind",
+      "kind": "word",
+      "zh": "vt. 绑, 约束, 装订, 包扎, 使结合\nvi. 凝固, 有约束力\n[计] 赋值, 绑定",
+      "en": "n. something that hinders as if with bonds\nv. create social or emotional ties\nv. make fast; tie or secure, with or as if with a rope\nv. wrap around with something so as to cover or enclose",
+      "phonetic": "baind",
+      "forms": [
+        "bind"
+      ],
+      "example": "The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "insist",
+      "headword": "insist",
+      "kind": "word",
+      "zh": "v. 坚持, 坚决主张, 强调",
+      "en": "v. be emphatic or resolute and refuse to budge\nv. assert to be true",
+      "phonetic": "in'sist",
+      "forms": [
+        "insist"
+      ],
+      "example": "They insist that human lives are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "sphere",
+      "headword": "sphere",
+      "kind": "word",
+      "zh": "n. 球, 球面, 球体, 天体, 地球仪, 范围\nvt. 包围, 使成球体, 放入球内",
+      "en": "n. a particular environment or walk of life\nn. any spherically shaped artifact\nn. the geographical area in which one nation is very influential\nn. a solid figure bounded by a spherical surface (including the space it encloses)",
+      "phonetic": "sfiә",
+      "forms": [
+        "sphere"
+      ],
+      "example": "They insist that human lives are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "extended",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extended"
+      ],
+      "example": "They insist that human lives are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "born",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "born"
+      ],
+      "example": "Born in the 12th century, Lu You could not be expected to argue for animal rights.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "happiness",
+      "headword": "happiness",
+      "kind": "word",
+      "zh": "n. 快乐, 幸运, 适当",
+      "en": "n. state of well-being characterized by emotions ranging from contentment to intense joy\nn. emotions experienced when in a state of well-being",
+      "phonetic": "'hæpinis",
+      "forms": [
+        "happiness"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "pleasure",
+      "headword": "pleasure",
+      "kind": "word",
+      "zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望\nv. (使)高兴",
+      "en": "n. a fundamental feeling that is hard to define but that people desire to experience\nn. a formal expression\nn. an activity that affords enjoyment\nn. sexual gratification",
+      "phonetic": "'pleʒә",
+      "forms": [
+        "pleasure"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "comfort",
+      "headword": "comfort",
+      "kind": "word",
+      "zh": "n. 舒适, 安慰, 安慰者\nvt. 安慰",
+      "en": "n. a state of being relaxed and feeling no pain\nn. a feeling of freedom from worry or disappointment\nn. satisfaction or physical well-being provided by a person or thing\nn. assistance, such as that provided to an enemy or to a known criminal",
+      "phonetic": "'kʌmfәt",
+      "forms": [
+        "comfort"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "companionship",
+      "headword": "companionship",
+      "kind": "word",
+      "zh": "n. 交往, 友谊, 一群同伴",
+      "en": "n the state of being with someone",
+      "phonetic": "kәm'pænjәnʃip",
+      "forms": [
+        "companionship"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "differently",
+      "headword": "differently",
+      "kind": "word",
+      "zh": "adv. 差异, 不同, 各别, 各种",
+      "en": "r. in another and different manner;",
+      "phonetic": "'difrentli",
+      "forms": [
+        "differently"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "diminish",
+      "headword": "diminish",
+      "kind": "word",
+      "zh": "v. (使)减少, (使)变小",
+      "en": "v. lessen the authority, dignity, or reputation of",
+      "phonetic": "di'miniʃ",
+      "forms": [
+        "diminish"
+      ],
+      "example": "But he clearly understands that his cat has claims to happiness, pleasure, comfort and companionship, and that while the cat might see the world differently than he does, that doesn’t diminish its claim to empathy and love.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      27,
+      38
+    ],
+    "wordBank": [
+      "enlarge",
+      "poet",
+      "lives",
+      "ethical",
+      "equal",
+      "province",
+      "primarily",
+      "praise",
+      "usual",
+      "tinged"
+    ],
+    "parts": [
+      {
+        "text": "As for catching mice you lack merit, but I never complain,\n\nA ladle of fish and rice will come at the "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " time.\n\nThroughout the day I see you sleeping peacefully,\n\nSo why am I always coming and going?\n\nLu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ", when he might just be satisfied with what he already has.\n\nAnd despite his cat’s indolence, Lu continues to cherish his feline, making sure to regularly serve its dinner. This is significant, given that other premodern Chinese writers viewed cats "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " as vermin-catchers that should be replaced once they outlive their usefulness.\n\nPersonhood and care\n\nImagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " with more than a little envy for the capacity to live in the moment, without anxiety over the future.\n\nLu’s care for his cat affords him the possibility of imagining a nonhuman animal mind. The "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " learns something from his cat in the end, as he imagines the world through the cat’s eyes and, in doing so, perhaps finds a measure of solace.\n\nLu does not speak in the language of what philosophers call moral personhood. He is not reflecting on the broader "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " question of which creatures deserve to be treated with care and respect.\n\nBut I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ". This can be seen, not least of all, by how he addresses poems to his cat, an act of social exchange that was heretofore reserved for literary interactions with other human beings.\n\nPersonhood – the recognition of an individual as deserving of dignity – is often assumed the sole "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " of human beings. But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " human capacities for care and love. The philosopher Lori Gruen similarly conceives of an “entangled empathy,” calling attention to the complex relational intimacies that bind human and nonhuman animals together. They insist that human "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "usual",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 usual（usual）。结合上下文辨认词义与词形。",
+        "evidence": "A ladle of fish and rice will come at the usual time.",
+        "paragraph": 28
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "praise",
+        "vocabularyId": "v73",
+        "explanation": "原文此处使用 praise（praise）。结合上下文辨认词义与词形。",
+        "evidence": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+        "paragraph": 31
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "primarily",
+        "vocabularyId": "v104",
+        "explanation": "原文此处使用 primarily（primarily）。结合上下文辨认词义与词形。",
+        "evidence": "This is significant, given that other premodern Chinese writers viewed cats primarily as vermin-catchers that should be replaced once they outlive their usefulness.",
+        "paragraph": 32
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "tinged",
+        "vocabularyId": "v110",
+        "explanation": "原文此处使用 tinged（tinge）。结合上下文辨认词义与词形。",
+        "evidence": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
+        "paragraph": 34
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "poet",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 poet（poet）。结合上下文辨认词义与词形。",
+        "evidence": "The poet learns something from his cat in the end, as he imagines the world through the cat’s eyes and, in doing so, perhaps finds a measure of solace.",
+        "paragraph": 35
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "ethical",
+        "vocabularyId": "v118",
+        "explanation": "原文此处使用 ethical（ethical）。结合上下文辨认词义与词形。",
+        "evidence": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+        "paragraph": 36
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "equal",
+        "vocabularyId": "v125",
+        "explanation": "原文此处使用 equal（equal）。结合上下文辨认词义与词形。",
+        "evidence": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
+        "paragraph": 37
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "province",
+        "vocabularyId": "v131",
+        "explanation": "原文此处使用 province（province）。结合上下文辨认词义与词形。",
+        "evidence": "Personhood – the recognition of an individual as deserving of dignity – is often assumed the sole province of human beings.",
+        "paragraph": 38
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "enlarge",
+        "vocabularyId": "v136",
+        "explanation": "原文此处使用 enlarge（enlarge）。结合上下文辨认词义与词形。",
+        "evidence": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
+        "paragraph": 38
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "lives",
+        "vocabularyId": "v26",
+        "explanation": "原文此处使用 lives（life）。结合上下文辨认词义与词形。",
+        "evidence": "They insist that human lives are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled.",
+        "paragraph": 38
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The discovery of a Roman fort revives interest in an emperor's place in Welsh tradition.",
+          "Objects found at a medieval Irish fort reveal details of daily life and material culture.",
+          "Ancient disputes over mapmaking illuminate debates about how the world is represented.",
+          "A Chinese poet's writing about cats offers an early exploration of their imagined inner lives."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Meanwhile, premodern poets, writers and artists were among the first to wonder about the inner lives of cats – and to explore how caring for them might expand our capacity for empathy.",
+        "paragraph": 4
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What evidence is given of ancient Egyptian affection for cats?",
+        "options": [
+          "A complete absence of artistic representations",
+          "Sculptures, paintings and mummified remains",
+          "Satellite images of modern animal shelters",
+          "Only twentieth-century cinema advertisements"
+        ],
+        "answer": 1,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Of course, the ancient Egyptians loved cats – this can be seen in sculptures, paintings and even mummified cat remains.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 10?",
+        "options": [
+          "This can be seen, not least of all, by how he addresses poems to his cat, an act of social exchange that was heretofore reserved for literary interactions with other human beings.",
+          "In the first poem, Lu begins by explaining that he acquired a cat to protect his library from vermin.",
+          "If you’re reading this, then your media feed, like mine, is probably full of cats.",
+          "In Chinese literature, poems that include the term “zeng” – “to present” – are often sent to acquaintances as a form of literary exchange."
+        ],
+        "answer": 3,
+        "explanation": "定位第 10 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In Chinese literature, poems that include the term “zeng” – “to present” – are often sent to acquaintances as a form of literary exchange.",
+        "paragraph": 10
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.”",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 31",
+          "Paragraph 26",
+          "Paragraph 34"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 31 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
+        "paragraph": 31
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.”",
+        "options": [
+          "Paragraph 4",
+          "Paragraph 10",
+          "Paragraph 36",
+          "Paragraph 6"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 36 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
+        "paragraph": 36
+      }
+    ]
+  },
+  "revision": "a0c27efbbd0f17f3e6430233d0f0dcf47c5746a5916fdacf2ca1841984c14d5e"
+}

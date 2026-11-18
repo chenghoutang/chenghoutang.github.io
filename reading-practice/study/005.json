@@ -1,0 +1,1860 @@
+{
+  "schemaVersion": 1,
+  "folder": "005",
+  "articleSha256": "739536708dbdeffc3f986bb490251a0ac7e8373aeef484325a8f2cb9f06f7fa8",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "astronomers",
+      "headword": "astronomer",
+      "kind": "word",
+      "zh": "n. 天文学家",
+      "en": "n. a physicist who studies astronomy",
+      "phonetic": "ә'strɒnәmә",
+      "forms": [
+        "astronomers"
+      ],
+      "example": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "puzzling",
+      "headword": "puzzle",
+      "kind": "word",
+      "zh": "n. 难题, 迷惑\nvt. 使困惑, 使为难\nvi. 迷惑, 苦思",
+      "en": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide",
+      "phonetic": "'pʌzl",
+      "forms": [
+        "puzzling"
+      ],
+      "example": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "cosmic",
+      "headword": "cosmic",
+      "kind": "word",
+      "zh": "a. 宇宙的, 宇宙航行的, 无限的, 有秩序的\n[医] 宇宙的",
+      "en": "a. of or from or pertaining to or characteristic of the cosmos or universe\ns. inconceivably extended in space or time",
+      "phonetic": "'kɒzmik",
+      "forms": [
+        "cosmic"
+      ],
+      "example": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "radio",
+      "headword": "radio",
+      "kind": "word",
+      "zh": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\nv. 用无线电发送",
+      "en": "n. medium for communication\nn. a communication system based on broadcasting electromagnetic waves\nv. transmit messages via radio waves\na. indicating radiation or radioactivity",
+      "phonetic": "'reidiәu",
+      "forms": [
+        "radio"
+      ],
+      "example": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "transients",
+      "headword": "transient",
+      "kind": "word",
+      "zh": "n. 瞬, 短期居留者, 过境鸟, 瞬变现象\na. 短暂的, 易变的, 瞬变的, 路过的\n[计] 瞬变过程; 过渡过程; 过渡的; 瞬变的; 瞬时峰值电压",
+      "en": "n. one who stays for only a short time\nn. (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load",
+      "phonetic": "'trænziәnt",
+      "forms": [
+        "transients",
+        "transient"
+      ],
+      "example": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "emit",
+      "headword": "emit",
+      "kind": "word",
+      "zh": "vt. 发出, 放射, 发表(意见等), 散发, 发行\n[化] 放射",
+      "en": "v. expel (gases or odors)\nv. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",
+      "phonetic": "i'mit",
+      "forms": [
+        "emit"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "flashes",
+      "headword": "flash",
+      "kind": "word",
+      "zh": "n. 闪光, 闪现, 一瞬间\nvi. 闪光, 闪现, 反射\nvt. 使闪光, 反射",
+      "en": "n. a sudden intense burst of radiant energy\nn. a momentary brightness\nn. a short vivid experience\nn. a sudden brilliant understanding",
+      "phonetic": "flæʃ",
+      "forms": [
+        "flashes"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "radio waves",
+      "headword": "radio waves",
+      "kind": "phrase",
+      "zh": "无线电波",
+      "en": "electromagnetic waves used for communication and astronomical observations",
+      "forms": [
+        "radio waves"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v9",
+      "term": "waves",
+      "headword": "wave",
+      "kind": "word",
+      "zh": "n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变\nvi. 波动, 飘动, 挥手示意, 起伏\nvt. 使波动, 使飘扬, 挥舞, 使成波浪形",
+      "en": "n. one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)\nn. a movement like that of a sudden occurrence or increase in a specified phenomenon\nn. (physics) a movement up and down or back and forth\nn. something that rises rapidly",
+      "phonetic": "weiv",
+      "forms": [
+        "waves"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "every",
+      "headword": "every",
+      "kind": "word",
+      "zh": "a. 每一, 所有的",
+      "en": "s. (used of count nouns) each and all of the members of a group considered singly and without exception\ns. each and all of a series of entities or intervals as specified",
+      "phonetic": "'evri",
+      "forms": [
+        "every"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "minutes",
+      "headword": "minute",
+      "kind": "word",
+      "zh": "n. 分, 分钟, 片刻, 备忘录, 笔记\nvt. 记录, 摘录, 测定时间\na. 微小的, 详细的",
+      "en": "n. a unit of time equal to 60 seconds or 1/60th of an hour\nn. a unit of angular distance equal to a 60th of a degree\nn. a short note\ns. characterized by painstaking care and detailed examination",
+      "phonetic": "'minit. mai'nju:t",
+      "forms": [
+        "minutes"
+      ],
+      "example": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "traced",
+      "headword": "trace",
+      "kind": "word",
+      "zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳\nvt. 追踪, 回溯, 描绘\nvi. 追溯, 沿路走",
+      "en": "n. a just detectable amount\nn. an indication that something has been present\nn. either of two lines that connect a horse's harness to a wagon or other vehicle or to a whiffletree\nn. a visible mark (as a footprint) left by the passage of person or animal or vehicle",
+      "phonetic": "treis",
+      "forms": [
+        "traced"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "binary",
+      "headword": "binary",
+      "kind": "word",
+      "zh": "a. 由两部分组成的, 二进位的, 二元的\n[计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令",
+      "en": "n. a pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system\na. of or pertaining to a number system have 2 as its base\ns. consisting of two (units or components or elements or terms)",
+      "phonetic": "'bainәri",
+      "forms": [
+        "binary",
+        "binaries"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "star",
+      "headword": "star",
+      "kind": "word",
+      "zh": "n. 星, 恒星, 星形物, 运气, 明星\nvt. 以星状物装饰, 用星号标, 使成为明星\nvi. 变成明星",
+      "en": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\nn. any celestial body visible (as a point of light) from the Earth at night\nn. an actor who plays a principal role\nn. a plane figure with 5 or more points; often used as an emblem",
+      "phonetic": "stɑ:",
+      "forms": [
+        "star"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "dwarf",
+      "headword": "dwarf",
+      "kind": "word",
+      "zh": "n. 矮子, 侏儒\nv. (使)变矮小",
+      "en": "n. a person who is markedly small\nn. a plant or animal that is atypically small\nv. check the growth of",
+      "phonetic": "dwɒ:f",
+      "forms": [
+        "dwarf",
+        "dwarfs"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "orbit",
+      "headword": "orbit",
+      "kind": "word",
+      "zh": "n. 轨道, 常轨, 眼眶\nvt. 绕...轨道而行\nvi. 进入轨道, 盘旋",
+      "en": "n. the (usually elliptical) path described by one celestial body in its revolution about another\nn. the path of an electron around the nucleus of an atom",
+      "phonetic": "'ɒ:bit",
+      "forms": [
+        "orbit",
+        "orbiting",
+        "orbits"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "remnant",
+      "headword": "remnant",
+      "kind": "word",
+      "zh": "n. 剩余, 零料, 遗迹\na. 剩余的, 残余的",
+      "en": "n a small part or portion that remains after the main part no longer exists\nn a piece of cloth that is left over after the rest has been used or sold",
+      "phonetic": "'remnәnt",
+      "forms": [
+        "remnant"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "white dwarf",
+      "headword": "white dwarf",
+      "kind": "phrase",
+      "zh": "白矮星",
+      "en": "a dense stellar remnant left after a small or medium-sized star evolves",
+      "forms": [
+        "white dwarf"
+      ],
+      "example": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v19",
+      "term": "astronomy",
+      "headword": "astronomy",
+      "kind": "word",
+      "zh": "n. 天文学",
+      "en": "n. the branch of physics that studies celestial bodies and the universe as a whole",
+      "phonetic": "ә'strɒnәmi",
+      "forms": [
+        "astronomy"
+      ],
+      "example": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "discovery",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discovery"
+      ],
+      "example": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "enigmatic",
+      "headword": "enigmatic",
+      "kind": "word",
+      "zh": "a. 费解的, 谜一般的, 高深莫测的",
+      "en": "s. not clear to the understanding\ns. resembling an oracle in obscurity of thought",
+      "phonetic": ".enig'mætik",
+      "forms": [
+        "enigmatic"
+      ],
+      "example": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "intermittent",
+      "headword": "intermittent",
+      "kind": "word",
+      "zh": "a. 间歇的, 断断续续的\n[化] 间歇的; 间断的",
+      "en": "s. stopping and starting at irregular intervals",
+      "phonetic": ".intә'mitәnt",
+      "forms": [
+        "intermittent"
+      ],
+      "example": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "broadcasters",
+      "headword": "broadcaster",
+      "kind": "word",
+      "zh": "n. 播送者, 广播装置, 播种机",
+      "en": "n. someone who broadcasts on radio or television\nn. a mechanical device for scattering something (seed or fertilizer or sand etc.) in all directions",
+      "phonetic": "'brɒ:dkæstә",
+      "forms": [
+        "broadcasters"
+      ],
+      "example": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "search",
+      "headword": "search",
+      "kind": "word",
+      "zh": "n. 搜寻, 查究\nv. 搜寻, 搜查, 探求, 调查, 搜索\n[计] 搜索, 路径检索程序",
+      "en": "n. the activity of looking thoroughly in order to find something or someone\nn. an investigation seeking answers\nn. an operation that determines whether one or more of a set of items has a specified property\nn. the examination of alternative hypotheses",
+      "phonetic": "sә:tʃ",
+      "forms": [
+        "search"
+      ],
+      "example": "Using a search method developed by PhD student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7.9 minutes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "aliens",
+      "headword": "alien",
+      "kind": "word",
+      "zh": "n. 外国人, 外侨\na. 外国的, 相异的",
+      "en": "v. transfer property or ownership\ns. not contained in or deriving from the essential nature of something\ns. being or from or characteristic of another place or part of the world",
+      "phonetic": "'eiljәn",
+      "forms": [
+        "aliens"
+      ],
+      "example": "After the discovery of the first long-period radio transient in 2022, once we had ruled out aliens, we went looking for natural explanations.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "explanations",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanations",
+        "explanation"
+      ],
+      "example": "After the discovery of the first long-period radio transient in 2022, once we had ruled out aliens, we went looking for natural explanations.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "extremely",
+      "headword": "extremely",
+      "kind": "word",
+      "zh": "adv. 极端地, 非常地",
+      "en": "r. to an extreme degree",
+      "phonetic": "ik'stri:mli",
+      "forms": [
+        "extremely"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "spinning",
+      "headword": "spin",
+      "kind": "word",
+      "zh": "n. 旋转, 自旋, 疾驰, 情绪低落\nvt. 纺织, 纺, 使旋转, 编造\nvi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+      "en": "n. a swift whirling motion (usually of a missile)\nn. the act of rotating rapidly\nn. a short drive in a car\nn. a distinctive interpretation (especially as used by politicians to sway public opinion)",
+      "phonetic": "spin",
+      "forms": [
+        "spinning"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "neutron",
+      "headword": "neutron",
+      "kind": "word",
+      "zh": "n. 中子\n[化] 中子",
+      "en": "n. an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleus",
+      "phonetic": "'nju:trɒn",
+      "forms": [
+        "neutron"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "neutron star",
+      "headword": "neutron star",
+      "kind": "phrase",
+      "zh": "中子星",
+      "en": "an extremely dense remnant of a massive star",
+      "forms": [
+        "neutron star"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "pulsars",
+      "headword": "pulsar",
+      "kind": "word",
+      "zh": "n. 脉冲星",
+      "en": "n. a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation",
+      "phonetic": "'pʌlsɑ:",
+      "forms": [
+        "pulsars",
+        "pulsar"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "collapsed",
+      "headword": "collapse",
+      "kind": "word",
+      "zh": "n. 崩溃, 倒塌, 虚脱\nvi. 倒塌, 崩溃, 瓦解\nvt. 使倒塌, 折叠\n[计] 折叠",
+      "en": "n. an abrupt failure of function or complete physical exhaustion\nn. a natural event caused by something suddenly falling down or caving in\nv. break down, literally or metaphorically\nv. fold or close up",
+      "phonetic": "kә'læps",
+      "forms": [
+        "collapsed"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "cores",
+      "headword": "CORE",
+      "kind": "word",
+      "zh": "n. 核心, 果心, 要点\nvt. 挖...的核\n[计] 内核, 核心网",
+      "en": "n. a small group of indispensable persons or things\nn. the center of an object\nn. the central part of the Earth\nn. a cylindrical sample of soil or rock obtained with a hollow drill",
+      "phonetic": "kɒ:",
+      "forms": [
+        "cores"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "repeating",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeating"
+      ],
+      "example": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "in theory",
+      "headword": "in theory",
+      "kind": "phrase",
+      "zh": "理论上",
+      "en": "according to an idea or principle rather than necessarily in practice",
+      "forms": [
+        "in theory"
+      ],
+      "example": "But in theory a neutron star spinning that slowly shouldn’t produce radio waves, so the answer had to be something else.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v37",
+      "term": "slowly",
+      "headword": "slowly",
+      "kind": "word",
+      "zh": "adv. 慢慢地, 迟缓地",
+      "en": "r. without speed (`slow' is sometimes used informally for `slowly')",
+      "phonetic": "'slәuli",
+      "forms": [
+        "slowly"
+      ],
+      "example": "But in theory a neutron star spinning that slowly shouldn’t produce radio waves, so the answer had to be something else.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "signals",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signals",
+        "signal"
+      ],
+      "example": "When we started traced these radio signals back to their sources, we made a breakthrough.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "breakthrough",
+      "headword": "breakthrough",
+      "kind": "word",
+      "zh": "n. 突破\n[经] 突破, 新发现, 新进展",
+      "en": "n. making an important discovery\nn. a penetration of a barrier such as an enemy's defense",
+      "phonetic": "'breikθru:",
+      "forms": [
+        "breakthrough"
+      ],
+      "example": "When we started traced these radio signals back to their sources, we made a breakthrough.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "handful",
+      "headword": "handful",
+      "kind": "word",
+      "zh": "n. 少数, 一把, 棘手事",
+      "en": "n. a small number or amount\nn. the quantity that can be held in the hand",
+      "phonetic": "'hændful",
+      "forms": [
+        "handful"
+      ],
+      "example": "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "emerged",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerged"
+      ],
+      "example": "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "binary system",
+      "headword": "binary system",
+      "kind": "phrase",
+      "zh": "双星系统",
+      "en": "two astronomical objects bound by gravity",
+      "forms": [
+        "binary system"
+      ],
+      "example": "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v43",
+      "term": "murchison",
+      "headword": "Murchison",
+      "kind": "word",
+      "zh": "n. 默奇森河",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "murchison"
+      ],
+      "example": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "array",
+      "headword": "array",
+      "kind": "word",
+      "zh": "n. 排列, 衣服, 大批, 军队\nvt. 布署, 打扮, 排列\n[计] 数组; 阵列",
+      "en": "n. an orderly arrangement\nn. an impressive display\nn. especially fine or decorative clothing\nn. an arrangement of aerials spaced to give desired directional characteristics",
+      "phonetic": "ә'rei",
+      "forms": [
+        "array"
+      ],
+      "example": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "telescope",
+      "headword": "telescope",
+      "kind": "word",
+      "zh": "n. 望远镜\nvi. 叠缩, 嵌进, 缩短\nvt. 使叠缩, 使缩短",
+      "en": "n. a magnifier of images of distant objects\nv. crush together or collapse\nv. make smaller or shorter",
+      "phonetic": "'teliskәup",
+      "forms": [
+        "telescope",
+        "telescopes"
+      ],
+      "example": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "australia",
+      "headword": "Australia",
+      "kind": "word",
+      "zh": "n. 澳洲, 澳大利亚",
+      "en": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean",
+      "phonetic": "ɒ'streiljә",
+      "forms": [
+        "australia"
+      ],
+      "example": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "spotted",
+      "headword": "spot",
+      "kind": "word",
+      "zh": "n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量\na. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的\nvt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射\nvi. 玷污, (从空中)侦察敌方目标",
+      "en": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment",
+      "phonetic": "spɒt",
+      "forms": [
+        "spotted"
+      ],
+      "example": "Using a search method developed by PhD student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7.9 minutes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "clockwork",
+      "headword": "clockwork",
+      "kind": "word",
+      "zh": "n. 钟表装置, 发条装置\n[电] 时钟开关",
+      "en": "n. any mechanism of geared wheels that is driven by a coiled spring; resembles the works of a mechanical clock",
+      "phonetic": "'klɒkwә:k",
+      "forms": [
+        "clockwork"
+      ],
+      "example": "Using a search method developed by PhD student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7.9 minutes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "plotted",
+      "headword": "plot",
+      "kind": "word",
+      "zh": "n. 小块土地, 地区图, 图, 阴谋, 情节\nvt. 划分, 绘图, 密谋\nvi. 密谋, 策划\n[计] 绘制",
+      "en": "n. a secret scheme to do something (especially something underhand or illegal)\nn. a small area of ground covered by specific vegetation\nn. the story that is told in a novel or play or movie etc.\nn. a chart or map showing the movements or progress of an object",
+      "phonetic": "plɒt",
+      "forms": [
+        "plotted"
+      ],
+      "example": "But when we plotted every detection and non-detection together, a pattern emerged.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "detection",
+      "headword": "detection",
+      "kind": "word",
+      "zh": "n. 发现, 察觉, 探测\n[计] 检波; 检测",
+      "en": "n. the perception that something has occurred or some state exists\nn. the act of detecting something; catching sight of something\nn. a police investigation to determine the perpetrator",
+      "phonetic": "di'tekʃәn",
+      "forms": [
+        "detection"
+      ],
+      "example": "But when we plotted every detection and non-detection together, a pattern emerged.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "pulses",
+      "headword": "pulse",
+      "kind": "word",
+      "zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类\nvi. 跳动, 脉跳\nvt. 使跳动, 用脉冲调制\n[计] 脉冲",
+      "en": "n. the rhythmic contraction and expansion of the arteries with each beat of the heart\nn. the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health\nn. edible seeds of various pod-bearing plants (peas or beans or lentils etc.)\nv. produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses",
+      "phonetic": "pʌls",
+      "forms": [
+        "pulses",
+        "pulsing"
+      ],
+      "example": "The pulses only appear during a window of about six hours, followed by 26 hours without pulses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "visible",
+      "headword": "visible",
+      "kind": "word",
+      "zh": "a. 看得见的, 明显的, 显然的\nn. 可见物",
+      "en": "a. capable of being seen; or open to easy view\ns. obvious to the eye\ns. present and easily available",
+      "phonetic": "'vizәbl",
+      "forms": [
+        "visible"
+      ],
+      "example": "The most natural explanation is that the system is a binary: two stars orbiting each other once every 32 hours, with the radio pulses only visible when they are lined up in the right way.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "meerkat",
+      "headword": "meerkat",
+      "kind": "word",
+      "zh": "(南非)海岛猫鼬, 蒙哥",
+      "en": "n. a mongoose-like viverrine of South Africa having a face like a lemur and only four toes",
+      "phonetic": "'miәkæt",
+      "forms": [
+        "meerkat"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "africa",
+      "headword": "Africa",
+      "kind": "word",
+      "zh": "n. 非洲",
+      "en": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean",
+      "phonetic": "'æfrikә",
+      "forms": [
+        "africa"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "pinpointed",
+      "headword": "pinpoint",
+      "kind": "word",
+      "zh": "n. 极小之物, 针尖, 立锥之地, 精确位置\nvt. 精确地找到, 准确地轰炸, 刺穿, 准确描述, 使突出, 强调\na. 针尖的, 极微的, 精确的, 详尽的, 精确定位的",
+      "en": "n. a very brief moment\nn. the sharp point of a pin\nv. locate exactly",
+      "phonetic": "'pinpɒint",
+      "forms": [
+        "pinpointed"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "patch",
+      "headword": "patch",
+      "kind": "word",
+      "zh": "n. 片, 补缀, 碎片, 斑, 傻瓜\nvt. 补缀, 掩饰, 拼凑, 平息\n[计] 修补; 拼凑",
+      "en": "n. a piece of cloth used as decoration or to mend or cover a hole\nn. a short set of commands to correct a bug in a computer program\nv. to join or unite the pieces of\nv. provide with a patch; also used metaphorically",
+      "phonetic": "pætʃ",
+      "forms": [
+        "patch"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "faint",
+      "headword": "faint",
+      "kind": "word",
+      "zh": "n. 昏厥, 昏倒\na. 模糊的, 微弱的, 无力的\nvi. 昏倒, 变得微弱",
+      "en": "n. a spontaneous loss of consciousness caused by insufficient blood to the brain\nv. pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain\ns. deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc\ns. lacking strength or vigor",
+      "phonetic": "feint",
+      "forms": [
+        "faint"
+      ],
+      "example": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "spectrum",
+      "headword": "spectrum",
+      "kind": "word",
+      "zh": "n. 光谱, 范围, 系列\n[化] 光谱",
+      "en": "n. an ordered array of the components of an emission or wave\nn. a broad range of related objects or values or qualities or ideas or activities",
+      "phonetic": "'spektrәm",
+      "forms": [
+        "spectrum"
+      ],
+      "example": "We turned to the Keck telescope in Hawai’i to record the star’s spectrum – the “fingerprint” of its light, which can tell us a lot about the star itself.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "fingerprint",
+      "headword": "fingerprint",
+      "kind": "word",
+      "zh": "n. 指纹\nvt. 采指纹",
+      "en": "n. a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations\nn. a generic term for any identifying characteristic\nv. take an impression of a person's fingerprints",
+      "phonetic": "'fiŋgәprint",
+      "forms": [
+        "fingerprint"
+      ],
+      "example": "We turned to the Keck telescope in Hawai’i to record the star’s spectrum – the “fingerprint” of its light, which can tell us a lot about the star itself.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "surprise",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprise"
+      ],
+      "example": "The result was a surprise: this was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own Sun.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass"
+      ],
+      "example": "The result was a surprise: this was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own Sun.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature"
+      ],
+      "example": "The result was a surprise: this was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own Sun.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "weighing",
+      "headword": "weigh",
+      "kind": "word",
+      "zh": "vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚\nvi. 称分量, 有意义, 重压, 起锚\nn. 过秤, 称分量",
+      "en": "v. have a certain weight\nv. determine the weight of\nv. to be oppressive or burdensome",
+      "phonetic": "wei",
+      "forms": [
+        "weighing"
+      ],
+      "example": "Weighing a star we can’t see",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "clue",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clue"
+      ],
+      "example": "The clue is in the timing. As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others. That tells us how large the orbit is.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "swings",
+      "headword": "swing",
+      "kind": "word",
+      "zh": "n. 摇摆, 振幅, 音律, 节奏, 涨落, 秋千, 旋转, 行动自由\nvi. 摇摆, 悬挂, 旋转, 大摇大摆地走, 转向\nvt. 挥舞, 使旋转, 使转向, 悬挂, 吊运\na. 旋转的, 悬挂的, 强节奏爵士音乐的",
+      "en": "n. a state of steady vigorous action that is characteristic of an activity\nn. mechanical device used as a plaything to support someone swinging back and forth\nn. a sweeping blow or stroke\nn. changing location by moving back and forth",
+      "phonetic": "swiŋ",
+      "forms": [
+        "swings"
+      ],
+      "example": "As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "precise",
+      "headword": "precise",
+      "kind": "word",
+      "zh": "a. 精确的, 严谨的, 明确的\n[机] 精密的, 正确的",
+      "en": "a. sharply exact or accurate or delimited",
+      "phonetic": "pri'sais",
+      "forms": [
+        "precise"
+      ],
+      "example": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "barely",
+      "headword": "barely",
+      "kind": "word",
+      "zh": "adv. 几乎不",
+      "en": "r. only a very short time before",
+      "phonetic": "'bєәli",
+      "forms": [
+        "barely"
+      ],
+      "example": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "wobbles",
+      "headword": "wobble",
+      "kind": "word",
+      "zh": "n. 摆动, 摇晃, 不稳定, 抖动\nvi. 摇晃, 摇摆, 游移不定\nvt. 使摇摆, 使颤动",
+      "en": "n. an unsteady rocking motion\nv. move unsteadily",
+      "phonetic": "'wɒbl",
+      "forms": [
+        "wobbles"
+      ],
+      "example": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "partner",
+      "headword": "partner",
+      "kind": "word",
+      "zh": "n. 合伙人, 股东, 伙伴, 伴侣\nvt. 与...合伙, 组成一对\nvi. 做伙伴, 当助手",
+      "en": "n. a person who is a member of a partnership\nv. provide with a partner\nv. act as a partner",
+      "phonetic": "'pɑ:tnә",
+      "forms": [
+        "partner"
+      ],
+      "example": "This means the Sun-like star must be much heavier than its partner.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "combine",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combine"
+      ],
+      "example": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "calculation",
+      "headword": "calculation",
+      "kind": "word",
+      "zh": "n. 计算, 考虑, 计算的结果\n[经] 计算",
+      "en": "n. the procedure of calculating; determining something by mathematical or logical methods\nn. problem solving that involves numbers or quantities\nn. planning something carefully and intentionally",
+      "phonetic": ".kælkju'leiʃәn",
+      "forms": [
+        "calculation"
+      ],
+      "example": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "measurements",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurements"
+      ],
+      "example": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "two-thirds",
+      "headword": "two-thirds",
+      "kind": "word",
+      "zh": "quant. 三分之二",
+      "en": "n. two of three equal parts of a divisible whole",
+      "phonetic": "ˌtu:'θɜ:dz",
+      "forms": [
+        "two-thirds"
+      ],
+      "example": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "hiding",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hiding",
+        "hides"
+      ],
+      "example": "What strange systems are hiding in the dark?",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "swelled",
+      "headword": "swell",
+      "kind": "word",
+      "zh": "n. 增大, 隆起的部分, 巨浪, 肿胀\na. 优秀的, 一流的\nvi. 增大, 膨胀, 肿胀, 增强, 骄傲\nvt. 使膨胀, 使增大, 使上涨, 使骄傲",
+      "en": "n. the undulating movement of the surface of the open sea\nn. a rounded elevation (especially one on an ocean floor)\nn. a crescendo followed by a decrescendo\nv. increase in size, magnitude, number, or intensity",
+      "phonetic": "swel",
+      "forms": [
+        "swelled"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "engulfing",
+      "headword": "engulf",
+      "kind": "word",
+      "zh": "vt. 卷入, 吸进, 吞没, 使全神贯注",
+      "en": "v. flow over or cover completely",
+      "phonetic": "in'gʌlf",
+      "forms": [
+        "engulfing"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "companion",
+      "headword": "companion",
+      "kind": "word",
+      "zh": "n. 朋友, 陪伴, 指南, 升降口围罩\nvt. 陪伴",
+      "en": "n. a friend who is frequently in the company of another\nn. a traveler who accompanies you\nn. one paid to accompany or assist or live with another",
+      "phonetic": "kәm'pænjәn",
+      "forms": [
+        "companion"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "spiralled",
+      "headword": "spiral",
+      "kind": "word",
+      "zh": "n. 螺旋形之物, 螺线\na. 螺旋形的, 盘旋的\nvi. 螺旋形下降, 螺旋形上升, 螺旋形行进\nvt. 使螺旋形行进",
+      "en": "n. a plane curve traced by a point circling about the center but at increasing distances from the center\nn. a continuously accelerating change in the economy\nn. ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center\nn. flying downward in a helical path with a large radius",
+      "phonetic": "'spairәl",
+      "forms": [
+        "spiralled"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "inward",
+      "headword": "inward",
+      "kind": "word",
+      "zh": "a. 内心的, 向内的, 本来的\n[医] 向内的",
+      "en": "a. relating to or existing in the mind or thoughts\nr. toward the center or interior",
+      "phonetic": "'inwәd",
+      "forms": [
+        "inward"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "shrank",
+      "headword": "shrink",
+      "kind": "word",
+      "zh": "n. 收缩, 萎缩, 回避\nvi. 收缩, 退缩, 萎缩, 缩小, 回避\nvt. 使收缩, 使缩小",
+      "en": "v. reduce in size; reduce physically\nv. become smaller or draw together\nv. decrease in size, range, or extent",
+      "phonetic": "ʃriŋk",
+      "forms": [
+        "shrank"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "outer",
+      "headword": "outer",
+      "kind": "word",
+      "zh": "a. 外部的, 外面的, 在外的, 远离中心的\n[机] 外部的, 外面的, 外侧的",
+      "en": "a. being on the outside or further from a center\ns. located outside\ns. being on or toward the outside of the body",
+      "phonetic": "'autә",
+      "forms": [
+        "outer"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "layers",
+      "headword": "layer",
+      "kind": "word",
+      "zh": "n. 层, 产卵鸡, 放置者\nvt. 分层堆积, 压植\n[计] 层",
+      "en": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells",
+      "phonetic": "'leiә",
+      "forms": [
+        "layers"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "ejected",
+      "headword": "eject",
+      "kind": "word",
+      "zh": "vt. 逐放, 放逐, 喷射\n[化] 排出",
+      "en": "v. put out or expel from a place\nv. leave an aircraft rapidly, using an ejection seat or capsule",
+      "phonetic": "i'dʒekt",
+      "forms": [
+        "ejected"
+      ],
+      "example": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "universe",
+      "headword": "universe",
+      "kind": "word",
+      "zh": "n. 宇宙, 星系, (思想等)范围",
+      "en": "n. everything that exists anywhere\nn. everything stated or assumed in a given discussion",
+      "phonetic": "'ju:nivә:s",
+      "forms": [
+        "universe"
+      ],
+      "example": "We think systems like this are probably quite common in the universe, but white dwarfs next to bright stars are very hard to see.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "glare",
+      "headword": "glare",
+      "kind": "word",
+      "zh": "n. 闪耀光, 刺眼\nvi. 发眩光, 瞪视\nvt. 瞪眼表示",
+      "en": "n. a light within the field of vision that is brighter than the brightness to which the eyes are adapted\nn. an angry stare\nv. be sharply reflected\nv. shine intensely",
+      "phonetic": "glєә",
+      "forms": [
+        "glare"
+      ],
+      "example": "The glare of the bright star hides the faint white dwarf.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "on the other hand",
+      "headword": "on the other hand",
+      "kind": "phrase",
+      "zh": "另一方面",
+      "en": "used to introduce a contrasting consideration",
+      "forms": [
+        "on the other hand"
+      ],
+      "example": "Radio pulses, on the other hand, cut through the glare.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v89",
+      "term": "turn out",
+      "headword": "turn out",
+      "kind": "phrase",
+      "zh": "结果是；证明是",
+      "en": "to prove to be the case",
+      "forms": [
+        "turn out"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v90",
+      "term": "surveys",
+      "headword": "survey",
+      "kind": "word",
+      "zh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地",
+      "en": "n. a detailed critical inspection\nv. consider in a comprehensive way\nv. look over carefully or inspect\nv. make a survey of; for statistical purposes",
+      "phonetic": "sә'vei",
+      "forms": [
+        "surveys"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "uncover",
+      "headword": "uncover",
+      "kind": "word",
+      "zh": "vt. 揭露, 揭开, 暴露, 脱帽致敬\nvi. 脱帽致敬, 揭去盖子",
+      "en": "v. make visible\nv. remove all or part of one's clothes to show one's body",
+      "phonetic": ".ʌn'kʌvә",
+      "forms": [
+        "uncover"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "undiscovered",
+      "headword": "undiscovered",
+      "kind": "word",
+      "zh": "a. 未发现的, 未被发觉的, 尚不为人所知的",
+      "en": "s. not discovered\ns. not yet discovered",
+      "phonetic": ".ʌndi'skʌvәd",
+      "forms": [
+        "undiscovered"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "optical",
+      "headword": "optical",
+      "kind": "word",
+      "zh": "a. 眼睛的, 视觉的, 光学的\n[机] 光学上的, 光学的",
+      "en": "a. of or relating to or involving light or optics",
+      "phonetic": "'ɒptikl",
+      "forms": [
+        "optical"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "x-ray",
+      "headword": "x-ray",
+      "kind": "word",
+      "zh": "a. X射线的\nvt. 用X光检查, 照X光\nvi. 使用X光",
+      "en": "v. examine by taking x-rays\nv. take an x-ray of something or somebody",
+      "phonetic": "'eks'rei",
+      "forms": [
+        "x-ray"
+      ],
+      "example": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "ancestors",
+      "headword": "ancestor",
+      "kind": "word",
+      "zh": "n. 祖先, 祖宗",
+      "en": "n. someone from whom you are descended (but usually more remote than a grandparent)",
+      "phonetic": "'ænsestә",
+      "forms": [
+        "ancestors"
+      ],
+      "example": "This is important because some white dwarf binaries are thought to be the ancestors of Type Ia supernovae.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "supernovae",
+      "headword": "supernovae",
+      "kind": "word",
+      "zh": "n. 超新星",
+      "en": "n a star that explodes and becomes extremely luminous in the process",
+      "phonetic": ",sju:pə'nəuvi:",
+      "forms": [
+        "supernovae"
+      ],
+      "example": "This is important because some white dwarf binaries are thought to be the ancestors of Type Ia supernovae.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "exploding",
+      "headword": "explode",
+      "kind": "word",
+      "zh": "vi. 爆炸, 爆发, 激增\nvt. 使爆炸",
+      "en": "v. cause to burst with a violent release of energy\nv. burst outward, usually with noise\nv. show a violent emotional reaction\nv. be unleashed; emerge with violence or noise",
+      "phonetic": "ik'splәud",
+      "forms": [
+        "exploding"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "candles",
+      "headword": "candle",
+      "kind": "word",
+      "zh": "n. 蜡烛\nvt. 对着光检查",
+      "en": "n. stick of wax with a wick in the middle\nn. the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin\nv. examine eggs for freshness by holding them against a light",
+      "phonetic": "'kændl",
+      "forms": [
+        "candles"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "reference",
+      "headword": "reference",
+      "kind": "word",
+      "zh": "n. 参考, 索引, 参照\nvt. 给...加上参考资料\nvt. 引用\nvi. 引用\n[计] 引用",
+      "en": "n. the most direct or specific meaning of a word or expression; the class of objects that an expression refers to\nn. the act of referring or consulting\nn. a publication (or a passage from a publication) that is referred to\nn. the relation between a word or phrase and the object or idea it refers to",
+      "phonetic": "'refәrәns",
+      "forms": [
+        "reference"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "interstellar",
+      "headword": "interstellar",
+      "kind": "word",
+      "zh": "a. 星际的",
+      "en": "a. between or among stars",
+      "phonetic": "'intә'stelә",
+      "forms": [
+        "interstellar"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "distances",
+      "headword": "distance",
+      "kind": "word",
+      "zh": "n. 距离, 远方, 遥远\n[计] 位距",
+      "en": "n. the property created by the space between two objects or points\nn. a distant region\nn. size of the gap between two places\nn. indifference by personal withdrawal",
+      "phonetic": "'distәns",
+      "forms": [
+        "distances"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "expansion",
+      "headword": "expansion",
+      "kind": "word",
+      "zh": "n. 扩充, 开展, 膨胀\n[计] 扩展",
+      "en": "n. the act of increasing (something) in size or volume or quantity or scope\nn. a function expressed as a sum or product of terms\nn. a discussion that provides additional information",
+      "phonetic": "ik'spænʃәn",
+      "forms": [
+        "expansion"
+      ],
+      "example": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "With the next generation of radio telescopes, such as the SKA Observatory, we expect to find many more.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v104",
+      "term": "observatory",
+      "headword": "observatory",
+      "kind": "word",
+      "zh": "n. 天文台, 气象台, 了望台",
+      "en": "n. a building designed and equipped to observe astronomical phenomena",
+      "phonetic": "әb'zә:vәtәri",
+      "forms": [
+        "observatory"
+      ],
+      "example": "With the next generation of radio telescopes, such as the SKA Observatory, we expect to find many more.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "insights",
+      "headword": "insight",
+      "kind": "word",
+      "zh": "n. 察看, 洞察力, 见识\n[医] 自知力, 洞察, 顿悟",
+      "en": "n. a feeling of understanding\nn. the clear (and often sudden) understanding of a complex situation\nn. grasping the inner nature of things intuitively",
+      "phonetic": "'insait",
+      "forms": [
+        "insights"
+      ],
+      "example": "And if we can find these objects around many different types of stars, it will give us insights into the lives and deaths of stars like our own Sun, across our galaxy and beyond.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "galaxy",
+      "headword": "galaxy",
+      "kind": "word",
+      "zh": "n. 银河, 星系, 一群(显赫的人物)\n[电] 银河系",
+      "en": "n. a splendid assemblage (especially of famous people)\nn. (astronomy) a collection of star systems; any of the billions of systems each having many stars and nebulae and dust",
+      "phonetic": "'gælәksi",
+      "forms": [
+        "galaxy"
+      ],
+      "example": "And if we can find these objects around many different types of stars, it will give us insights into the lives and deaths of stars like our own Sun, across our galaxy and beyond.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      19,
+      27
+    ],
+    "wordBank": [
+      "pulses",
+      "combine",
+      "spectrum",
+      "hiding",
+      "glare",
+      "expansion",
+      "binaries",
+      "transients",
+      "inward",
+      "two-thirds"
+    ],
+    "parts": [
+      {
+        "text": "The clue is in the timing. As the pulsing object swings around its orbit, the "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others. That tells us how large the orbit is.\n\nThe precise "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it. This means the Sun-like star must be much heavier than its partner.\n\nWhen we "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " as heavy as the Sun. That means it’s too light to be a neutron star.\n\nWe believe the pulsing object is a white dwarf pulsar, the first found in orbit around a Sun-like star.\n\nWhat strange systems are "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " in the dark?\n\nHow did this odd couple come to be? We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " and shrank the orbit before the giant’s outer layers were ejected.\n\nWe think systems like this are probably quite common in the universe, but white dwarfs next to bright stars are very hard to see. The "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " of the bright star hides the faint white dwarf.\n\nRadio pulses, on the other hand, cut through the glare. If more long-period "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.\n\nThis is important because some white dwarf "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " are thought to be the ancestors of Type Ia supernovae. Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " of the universe. Finding these systems could reveal more about this process."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "pulses",
+        "vocabularyId": "v51",
+        "explanation": "原文此处使用 pulses（pulse）。结合上下文辨认词义与词形。",
+        "evidence": "As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others.",
+        "paragraph": 19
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "spectrum",
+        "vocabularyId": "v59",
+        "explanation": "原文此处使用 spectrum（spectrum）。结合上下文辨认词义与词形。",
+        "evidence": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it.",
+        "paragraph": 20
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "combine",
+        "vocabularyId": "v71",
+        "explanation": "原文此处使用 combine（combine）。结合上下文辨认词义与词形。",
+        "evidence": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+        "paragraph": 21
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "two-thirds",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 two-thirds（two-thirds）。结合上下文辨认词义与词形。",
+        "evidence": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
+        "paragraph": 21
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "hiding",
+        "vocabularyId": "v75",
+        "explanation": "原文此处使用 hiding（hide）。结合上下文辨认词义与词形。",
+        "evidence": "What strange systems are hiding in the dark?",
+        "paragraph": 23
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "inward",
+        "vocabularyId": "v81",
+        "explanation": "原文此处使用 inward（inward）。结合上下文辨认词义与词形。",
+        "evidence": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+        "paragraph": 24
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "glare",
+        "vocabularyId": "v87",
+        "explanation": "原文此处使用 glare（glare）。结合上下文辨认词义与词形。",
+        "evidence": "The glare of the bright star hides the faint white dwarf.",
+        "paragraph": 25
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "transients",
+        "vocabularyId": "v5",
+        "explanation": "原文此处使用 transients（transient）。结合上下文辨认词义与词形。",
+        "evidence": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+        "paragraph": 26
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "binaries",
+        "vocabularyId": "v13",
+        "explanation": "原文此处使用 binaries（binary）。结合上下文辨认词义与词形。",
+        "evidence": "This is important because some white dwarf binaries are thought to be the ancestors of Type Ia supernovae.",
+        "paragraph": 27
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "expansion",
+        "vocabularyId": "v102",
+        "explanation": "原文此处使用 expansion（expansion）。结合上下文辨认词义与词形。",
+        "evidence": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
+        "paragraph": 27
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Crystals inside volcanoes can preserve signals that help researchers understand approaching eruptions.",
+          "An ancient Arabian lakeshore provides evidence of human life in a landscape once much greener than today.",
+          "An unusual pair of stars helps explain a repeating radio signal from a dead star.",
+          "Chemical evidence in ancient rocks helps scientists date the beginnings of plate tectonics."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes.",
+        "paragraph": 7
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What distinguishes the newly reported source of repeating radio signals?",
+        "options": [
+          "The signal comes from an artificial satellite.",
+          "The researchers ruled out white dwarfs entirely.",
+          "No star is involved in producing it.",
+          "A white dwarf is paired with a Sun-like star."
+        ],
+        "answer": 3,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "The pulses only appear during a window of about six hours, followed by 26 hours without pulses.",
+          "And if we can find these objects around many different types of stars, it will give us insights into the lives and deaths of stars like our own Sun, across our galaxy and beyond.",
+          "With the next generation of radio telescopes, such as the SKA Observatory, we expect to find many more.",
+          "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia."
+        ],
+        "answer": 3,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others.”",
+        "options": [
+          "Paragraph 12",
+          "Paragraph 26",
+          "Paragraph 15",
+          "Paragraph 19"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others.",
+        "paragraph": 19
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.”",
+        "options": [
+          "Paragraph 24",
+          "Paragraph 26",
+          "Paragraph 7",
+          "Paragraph 8"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 24 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+        "paragraph": 24
+      }
+    ]
+  },
+  "revision": "3e7f384d54108d270c4013782cd0768cdbdd5fa48873c404c205722dec933373"
+}

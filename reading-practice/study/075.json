@@ -1,0 +1,2506 @@
+{
+  "schemaVersion": 1,
+  "folder": "075",
+  "articleSha256": "09dcb831ae50d1497444da2d21a02581fd9895e8c3088e60a2349f544c1388e2",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "London Underground",
+      "headword": "London Underground",
+      "kind": "phrase",
+      "zh": "伦敦地铁",
+      "en": "London's underground railway system",
+      "forms": [
+        "London Underground"
+      ],
+      "example": "If you have travelled on the London Underground at any time over the last 40 years, you’ll probably have noticed a poem or two.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v2",
+      "term": "underground",
+      "headword": "underground",
+      "kind": "word",
+      "zh": "n. 地下, 地铁, 地道, 秘密活动\na. 地下的, 秘密的\nadv. 在地下, 秘密地",
+      "en": "n. a secret group organized to overthrow a government or occupation force\nr. in or into hiding or secret operation\nr. beneath the surface of the earth",
+      "phonetic": "'ʌndәgraund",
+      "forms": [
+        "underground"
+      ],
+      "example": "If you have travelled on the London Underground at any time over the last 40 years, you’ll probably have noticed a poem or two.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "poem",
+      "headword": "poem",
+      "kind": "word",
+      "zh": "n. 诗, 诗般美的事物",
+      "en": "n. a composition written in metrical feet forming rhythmical lines",
+      "phonetic": "'pәuim",
+      "forms": [
+        "poem",
+        "poems"
+      ],
+      "example": "If you have travelled on the London Underground at any time over the last 40 years, you’ll probably have noticed a poem or two.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "posters",
+      "headword": "poster",
+      "kind": "word",
+      "zh": "n. 海报, 招贴, 驿马",
+      "en": "n. a sign posted in a public place as an advertisement",
+      "phonetic": "'pәustә",
+      "forms": [
+        "posters",
+        "poster"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "adorning",
+      "headword": "adorn",
+      "kind": "word",
+      "zh": "vt. 装饰, 使生色",
+      "en": "v make more attractive by adding ornament, colour, etc.\nv be beautiful to look at\nv furnish with power or authority; of kings or emperors",
+      "phonetic": "ә'dɒ:n",
+      "forms": [
+        "adorning"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "concourse",
+      "headword": "concourse",
+      "kind": "word",
+      "zh": "n. 集合, 总汇, 群集",
+      "en": "n. a wide hallway in a building where people can walk\nn. a coming together of people",
+      "phonetic": "'kɒŋkɒ:s",
+      "forms": [
+        "concourse"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "tube",
+      "headword": "tube",
+      "kind": "word",
+      "zh": "n. 管, 软管, 隧道\nvt. 把...装管, 使通过管子\n[计] 管子",
+      "en": "n. conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases\nn. electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope\nn. (anatomy) any hollow cylindrical body structure\nv. provide with a tube or insert a tube into",
+      "phonetic": "tju:b",
+      "forms": [
+        "tube"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "carriages",
+      "headword": "carriage",
+      "kind": "word",
+      "zh": "n. 马车, 客车, 举止, 运输\n[经] 搬运费, 运费",
+      "en": "n. a vehicle with wheels drawn by one or more horses\nn. characteristic way of bearing one's body\nn. a machine part that carries something else",
+      "phonetic": "'kæridʒ",
+      "forms": [
+        "carriages",
+        "carriage"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "adverts",
+      "headword": "advert",
+      "kind": "word",
+      "zh": "vi. 提出看法, 引起注意, 留意\nn. 广告",
+      "en": "n a public promotion of some product or service\nv give heed (to)\nv make a more or less disguised reference to\nv make reference to",
+      "phonetic": "әd'vә:t",
+      "forms": [
+        "adverts"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "normally",
+      "headword": "normally",
+      "kind": "word",
+      "zh": "adv. 正规地, 合规则, 正常地",
+      "en": "r. under normal conditions",
+      "phonetic": "'nɒ:mәli",
+      "forms": [
+        "normally"
+      ],
+      "example": "Perhaps on posters adorning the station concourse, or in tube carriages where adverts might normally be found.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "unexpected",
+      "headword": "unexpected",
+      "kind": "word",
+      "zh": "a. 料想不到的, 突然的, 意外的\n[法] 不能预料的, 意外的",
+      "en": "a. not expected or anticipated",
+      "phonetic": ".ʌnik'spektid",
+      "forms": [
+        "unexpected"
+      ],
+      "example": "These poems are often unexpected, delightful and poignant.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "delightful",
+      "headword": "delightful",
+      "kind": "word",
+      "zh": "a. 令人愉快的, 可爱的",
+      "en": "s. greatly pleasing or entertaining",
+      "phonetic": "di'laitful",
+      "forms": [
+        "delightful"
+      ],
+      "example": "These poems are often unexpected, delightful and poignant.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "poignant",
+      "headword": "poignant",
+      "kind": "word",
+      "zh": "a. 辛酸的, 尖锐的, 剧烈的",
+      "en": "s. keenly distressing to the mind or feelings",
+      "phonetic": "'pɒinәnt",
+      "forms": [
+        "poignant"
+      ],
+      "example": "These poems are often unexpected, delightful and poignant.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "remind",
+      "headword": "remind",
+      "kind": "word",
+      "zh": "vt. 提醒, 使想起",
+      "en": "v. put in the mind of someone",
+      "phonetic": "ri'maind",
+      "forms": [
+        "remind",
+        "reminded"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "commuters",
+      "headword": "commuter",
+      "kind": "word",
+      "zh": "n. 乘公共车辆上下班者, 月季票乘客\n[经] 非(当地)居民",
+      "en": "n. a passenger train that is ridden primarily by passengers who travel regularly from one place to another\nn. someone who travels regularly from home in a suburb to work in a city",
+      "phonetic": "kә'mju:tә",
+      "forms": [
+        "commuters"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "humanness",
+      "headword": "humanness",
+      "kind": "word",
+      "zh": "n. 为人, 人性",
+      "en": "n. the quality of being human",
+      "phonetic": "'hju:mәnis",
+      "forms": [
+        "humanness"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "travellers",
+      "headword": "traveller",
+      "kind": "word",
+      "zh": "n. 旅行者\n[经] 旅行商",
+      "en": "n a person who changes location",
+      "phonetic": "'trævlә",
+      "forms": [
+        "travellers"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "small moments of respite",
+      "headword": "small moments of respite",
+      "kind": "phrase",
+      "zh": "短暂的喘息时刻",
+      "en": "brief opportunities for rest or relief",
+      "forms": [
+        "small moments of respite"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v19",
+      "term": "respite",
+      "headword": "respite",
+      "kind": "word",
+      "zh": "n. 暂缓, 缓期执行\nvt. 使暂缓",
+      "en": "n. a pause from doing something (as work)\nn. a pause for relaxation",
+      "phonetic": "'respait",
+      "forms": [
+        "respite"
+      ],
+      "example": "They remind commuters of our humanness and offer travellers small moments of respite.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "empty",
+      "headword": "empty",
+      "kind": "word",
+      "zh": "a. 空的, 空虚的, 空腹的, 空洞的\nn. 空的东西, 空车\nvt. 倒空, 使变空, 使排出\nvi. 流空\n[计] 空",
+      "en": "n. a container that has been emptied\nv. make void or empty of contents\nv. become empty or void of its content\nv. remove",
+      "phonetic": "'empti",
+      "forms": [
+        "empty"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "platform",
+      "headword": "platform",
+      "kind": "word",
+      "zh": "n. 站台, 月台, 讲台, 论坛, 平台\n[计] 平台",
+      "en": "n. a raised horizontal surface\nn. a document stating the aims and principles of a political party\nn. the combination of a particular computer and a particular operating system\nn. any military structure or vehicle bearing weapons",
+      "phonetic": "'plætfɒ:m",
+      "forms": [
+        "platform"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "crowded",
+      "headword": "crowd",
+      "kind": "word",
+      "zh": "n. 群众, 一伙人\nvt. 拥挤, 挤满, 挤进",
+      "en": "n. a large number of things or people considered together\nn. an informal body of friends\nv. fill or occupy to the point of overflowing\nv. to gather together in large numbers",
+      "phonetic": "kraud",
+      "forms": [
+        "crowded"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "londoners",
+      "headword": "Londoner",
+      "kind": "word",
+      "zh": "n. 伦敦人",
+      "en": "n. a native or resident of London",
+      "phonetic": "'lʌndәnә",
+      "forms": [
+        "londoners"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "tourists",
+      "headword": "tourist",
+      "kind": "word",
+      "zh": "n. 观光客, 旅行者\na. 旅游的",
+      "en": "n. someone who travels for pleasure",
+      "phonetic": "'tuәrist",
+      "forms": [
+        "tourists"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "alike",
+      "headword": "alike",
+      "kind": "word",
+      "zh": "a. 相似的, 同样的\nadv. 一样, 以同样的方式",
+      "en": "a. having the same or similar characteristics\nr. equally\nr. in a like manner",
+      "phonetic": "ә'laik",
+      "forms": [
+        "alike"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "rhythms",
+      "headword": "rhythm",
+      "kind": "word",
+      "zh": "n. 旋律, 节奏, 韵律, 匀称, 张弛节律\n[医] 节律",
+      "en": "n. the basic rhythmic unit in a piece of music\nn. recurring at regular intervals\nn. the arrangement of spoken words alternating stressed and unstressed elements",
+      "phonetic": "'riðәm",
+      "forms": [
+        "rhythms",
+        "rhythm"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "poetry",
+      "headword": "poetry",
+      "kind": "word",
+      "zh": "n. 诗, 韵文, 诗歌艺术",
+      "en": "n. literature in metrical form\nn. any communication resembling poetry in beauty or the evocation of feeling",
+      "phonetic": "'pәuitri",
+      "forms": [
+        "poetry"
+      ],
+      "example": "Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "polluted",
+      "headword": "pollute",
+      "kind": "word",
+      "zh": "vt. 污染, 弄脏, 玷污\n[化] 污染",
+      "en": "v. make impure",
+      "phonetic": "pә'lu:t",
+      "forms": [
+        "polluted"
+      ],
+      "example": "“I love dis great, polluted place,” says Benjamin Zephaniah in The London Breed (2001).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "benjamin",
+      "headword": "benjamin",
+      "kind": "word",
+      "zh": "[医] 安息香",
+      "en": "n. (Old Testament) the youngest and best-loved son of Jacob and Rachel and one of the twelve forebears of the tribes of Israel",
+      "phonetic": "'bendʒәmin",
+      "forms": [
+        "benjamin"
+      ],
+      "example": "“I love dis great, polluted place,” says Benjamin Zephaniah in The London Breed (2001).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "zephaniah",
+      "headword": "zephaniah",
+      "kind": "word",
+      "zh": "n. 希伯来的先知",
+      "en": "n. a Hebrew minor prophet of the late 7th century BC\nn. an Old Testament book telling the prophecies of Zephaniah which are concerned mainly with the approaching judgment by God upon the sinners of Judah",
+      "phonetic": "",
+      "forms": [
+        "zephaniah"
+      ],
+      "example": "“I love dis great, polluted place,” says Benjamin Zephaniah in The London Breed (2001).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "breed",
+      "headword": "breed",
+      "kind": "word",
+      "zh": "n. 种类, 品种\nv. 养育, 引起, 饲养, 繁殖",
+      "en": "n. a special variety of domesticated animals within a species\nn. a special type\nv. copulate with a female, used especially of horses\nv. cause to procreate (animals)",
+      "phonetic": "bri:d",
+      "forms": [
+        "breed"
+      ],
+      "example": "“I love dis great, polluted place,” says Benjamin Zephaniah in The London Breed (2001).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "reshaped",
+      "headword": "reshape",
+      "kind": "word",
+      "zh": "vt. 改造, 使成新的形状, 打开新局面\nvt. 整形\nvi. 整形\n[计] 整形",
+      "en": "v. shape anew or differently\nv. shape again or shape differently",
+      "phonetic": "ri:'ʃeip",
+      "forms": [
+        "reshaped"
+      ],
+      "example": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "declares",
+      "headword": "declare",
+      "kind": "word",
+      "zh": "v. 宣布, 声明, 申报, 断言",
+      "en": "v. state emphatically and authoritatively\nv. state firmly\nv. declare to be\nv. authorize payments of",
+      "phonetic": "di'klєә",
+      "forms": [
+        "declares"
+      ],
+      "example": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "nigerian",
+      "headword": "Nigerian",
+      "kind": "word",
+      "zh": "n. 尼日利亚人",
+      "en": "n. a native or inhabitant of Nigeria\na. of or relating to Nigeria\na. of or relating to the people of Nigeria",
+      "phonetic": "nai'dʒiriәn",
+      "forms": [
+        "nigerian"
+      ],
+      "example": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "poet",
+      "headword": "poet",
+      "kind": "word",
+      "zh": "n. 诗人",
+      "en": "n. a writer of poems (the term is usually reserved for writers of good poetry)",
+      "phonetic": "'pәuit",
+      "forms": [
+        "poet",
+        "poets"
+      ],
+      "example": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "bunch",
+      "headword": "bunch",
+      "kind": "word",
+      "zh": "n. 串, 束\n[医] 骨肿块(马)",
+      "en": "n. a grouping of a number of similar things\nn. any collection in its entirety\nv. gather or cause to gather into a cluster",
+      "phonetic": "bʌntʃ",
+      "forms": [
+        "bunch"
+      ],
+      "example": "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "consolation",
+      "headword": "consolation",
+      "kind": "word",
+      "zh": "n. 安慰, 令人安慰的事物\n[法] 安慰, 慰问",
+      "en": "n. the comfort you feel when consoled in times of disappointment\nn. the act of consoling; giving relief in affliction",
+      "phonetic": ".kɒnsә'leiʃәn",
+      "forms": [
+        "consolation"
+      ],
+      "example": "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "maura",
+      "headword": "Maura",
+      "kind": "word",
+      "zh": "n. 莫拉(Mary的异体)(f.)",
+      "en": "",
+      "phonetic": "'mɔ:rә",
+      "forms": [
+        "maura"
+      ],
+      "example": "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "urges",
+      "headword": "urge",
+      "kind": "word",
+      "zh": "n. 冲动, 推动力, 迫切的要求\nvt. 驱策, 力劝, 竭力主张, 推动\nvi. 强烈要求",
+      "en": "n. an instinctive motive\nn. a strong restless desire\nv. force or impel in an indicated direction",
+      "phonetic": "ә:dʒ",
+      "forms": [
+        "urges"
+      ],
+      "example": "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "steady",
+      "headword": "steady",
+      "kind": "word",
+      "zh": "a. 稳定的, 不动摇的, 沉着的, 稳固的, 坚定的, 经常的\nvt. 使稳定, 使坚定\nvi. 变为沉着, 稳固",
+      "en": "v. make steady\na. not subject to change or variation especially in behavior\ns. securely in position; not shaky\ns. not easily excited or upset",
+      "phonetic": "'stedi",
+      "forms": [
+        "steady"
+      ],
+      "example": "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "melancholic",
+      "headword": "melancholic",
+      "kind": "word",
+      "zh": "n. 忧郁症患者\na. 忧郁的",
+      "en": "n. someone subject to melancholia",
+      "phonetic": ".melәn'kɒlik",
+      "forms": [
+        "melancholic"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "yearning",
+      "headword": "yearn",
+      "kind": "word",
+      "zh": "vi. 渴望, 想念, 怀念, 同情",
+      "en": "v. have affection for; feel tenderness for",
+      "phonetic": "jә:n",
+      "forms": [
+        "yearning"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "grace",
+      "headword": "grace",
+      "kind": "word",
+      "zh": "n. 优雅, 风度, 慈悲, 恩惠, 体面, 赦免, 恩典, 谢恩祷告\nvt. 使优美",
+      "en": "n. (Christian theology) a state of sanctification by God; the state of one who is under such divine influence\nn. elegance and beauty of movement or expression\nn. a disposition to kindness and compassion\nn. (Greek mythology) one of three sisters who were the givers of beauty and charm; a favorite subject for sculptors",
+      "phonetic": "greis",
+      "forms": [
+        "grace"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "nichols",
+      "headword": "nichols",
+      "kind": "word",
+      "zh": "n. 尼克尔斯",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "nichols"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "beacon",
+      "headword": "beacon",
+      "kind": "word",
+      "zh": "n. 烽火, 灯塔\nv. 照亮",
+      "en": "n. a fire (usually on a hill or tower) that can be seen from a distance\nn. a tower with a light that gives warning of shoals to passing ships\nv. shine like a beacon\nv. guide with a beacon",
+      "phonetic": "'bi:kn",
+      "forms": [
+        "beacon"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "beckons",
+      "headword": "beckon",
+      "kind": "word",
+      "zh": "v. 招手示意, 召唤, 吸引\nn. 表召唤的点头(或手势)",
+      "en": "v. signal with the hands or nod\nv. appear inviting\nv. summon with a wave, nod, or some other gesture",
+      "phonetic": "'bekәn",
+      "forms": [
+        "beckons"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "appetite",
+      "headword": "appetite",
+      "kind": "word",
+      "zh": "n. 食欲, 欲望, 爱好\n[医] 食欲",
+      "en": "n. a feeling of craving something",
+      "phonetic": "'æpitait",
+      "forms": [
+        "appetite"
+      ],
+      "example": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "celebrated",
+      "headword": "celebrate",
+      "kind": "word",
+      "zh": "v. 庆祝, 祝贺, 举行",
+      "en": "v. have a celebration",
+      "phonetic": "'selibreit",
+      "forms": [
+        "celebrated"
+      ],
+      "example": "This year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting masses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "commuting",
+      "headword": "commute",
+      "kind": "word",
+      "zh": "vt. 交换, 折偿, 减轻\nvi. 代偿, 经常乘车来往",
+      "en": "n. a regular journey of some distance to and from your place of work\nv. exchange positions without a change in value\nv. travel back and forth regularly, as between one's place of work and home\nv. exchange a penalty for a less severe one",
+      "phonetic": "kә'mju:t",
+      "forms": [
+        "commuting"
+      ],
+      "example": "This year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting masses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "masses",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "masses"
+      ],
+      "example": "This year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting masses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "displayed",
+      "headword": "display",
+      "kind": "word",
+      "zh": "n. 显示, 陈列, 炫耀, 显示器\nvt. 陈列, 显示, 表现, 夸示\n[计] 显示器; 显示",
+      "en": "n. something intended to communicate a particular impression\nn. something shown to the public\nn. a visual representation of something\nn. behavior that makes your feelings public",
+      "phonetic": "dis'plei",
+      "forms": [
+        "displayed"
+      ],
+      "example": "The first poems to be displayed were Up in the Morning Early (1788) by Robert Burns; The Railway Children (1984) by Seamus Heaney; Like a Beacon (1984) by Grace Nichols; Ozymandias (1818) by Percy Bysshe Shelley; and This Is Just To Say (1934) by William Carlos Williams.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "burns",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burns"
+      ],
+      "example": "The first poems to be displayed were Up in the Morning Early (1788) by Robert Burns; The Railway Children (1984) by Seamus Heaney; Like a Beacon (1984) by Grace Nichols; Ozymandias (1818) by Percy Bysshe Shelley; and This Is Just To Say (1934) by William Carlos Williams.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "railway",
+      "headword": "railway",
+      "kind": "word",
+      "zh": "n. 铁路, 轨道\n[经] 铁路",
+      "en": "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
+      "phonetic": "'reilwei",
+      "forms": [
+        "railway"
+      ],
+      "example": "The first poems to be displayed were Up in the Morning Early (1788) by Robert Burns; The Railway Children (1984) by Seamus Heaney; Like a Beacon (1984) by Grace Nichols; Ozymandias (1818) by Percy Bysshe Shelley; and This Is Just To Say (1934) by William Carlos Williams.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "brainchild",
+      "headword": "brainchild",
+      "kind": "word",
+      "zh": "n. 脑力劳动的产物",
+      "en": "n a product of your creative thinking and work",
+      "phonetic": "'breintʃaild",
+      "forms": [
+        "brainchild"
+      ],
+      "example": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "essayist",
+      "headword": "essayist",
+      "kind": "word",
+      "zh": "n. 随笔作家, 评论家",
+      "en": "n. a writer of literary works",
+      "phonetic": "'eseiist",
+      "forms": [
+        "essayist"
+      ],
+      "example": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "novelist",
+      "headword": "novelist",
+      "kind": "word",
+      "zh": "n. 小说家",
+      "en": "n. one who writes novels",
+      "phonetic": "'nɒvәlist",
+      "forms": [
+        "novelist"
+      ],
+      "example": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "academic",
+      "headword": "academic",
+      "kind": "word",
+      "zh": "a. 学院的, 学术的, 不切实际的\nn. 大学生, 大学教师, 学者, 学会会员",
+      "en": "a. associated with academia or an academy\ns. hypothetical or theoretical and not expected to produce an immediate or practical result\ns. marked by a narrow focus on or display of learning especially its trivial aspects",
+      "phonetic": ".ækә'demik",
+      "forms": [
+        "academic"
+      ],
+      "example": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "befriended",
+      "headword": "befriend",
+      "kind": "word",
+      "zh": "vt. 待人如友, 扶助",
+      "en": "v. become friends with",
+      "phonetic": "bi'frend",
+      "forms": [
+        "befriended"
+      ],
+      "example": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "barrow",
+      "headword": "barrow",
+      "kind": "word",
+      "zh": "n. 搬运架, 手推车, 古墓\n[机] 矿皮, 弃矿",
+      "en": "n. the quantity that a barrow will hold\nn. a cart for carrying small loads; has handles and one or more wheels",
+      "phonetic": "'bærәu",
+      "forms": [
+        "barrow"
+      ],
+      "example": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "cicely",
+      "headword": "cicely",
+      "kind": "word",
+      "zh": "n. 欧洲没药",
+      "en": "n. Any one of several umbelliferous plants, of the genera\n   Myrrhis, Osmorrhiza, etc.",
+      "phonetic": "'sisәli",
+      "forms": [
+        "cicely"
+      ],
+      "example": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "literary",
+      "headword": "literary",
+      "kind": "word",
+      "zh": "a. 文学的, 文艺的, 精通文学的\n[法] 文学的, 从事文学的, 从事写作的",
+      "en": "a. of or relating to or characteristic of literature\ns. knowledgeable about literature\ns. appropriate to literature rather than everyday speech or writing",
+      "phonetic": "'litәrәri",
+      "forms": [
+        "literary"
+      ],
+      "example": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "circle",
+      "headword": "circle",
+      "kind": "word",
+      "zh": "n. 圆周, 社交圈, 循环, 范围\nvt. 围着, 环绕\nvi. 盘旋, 循环",
+      "en": "n. ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point\nn. something approximating the shape of a circle\nn. a curved section or tier of seats in a hall or theater or opera house; usually the first tier above the orchestra\nn. any circular or rotating mechanism",
+      "phonetic": "'sә:kl",
+      "forms": [
+        "circle"
+      ],
+      "example": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "folk",
+      "headword": "folk",
+      "kind": "word",
+      "zh": "n. 人们, 家人, 亲属, 民族\na. 民间的",
+      "en": "n. people in general (often used in the plural)",
+      "phonetic": "fәuk",
+      "forms": [
+        "folk"
+      ],
+      "example": "The Barrow poets were a group of writers and folk musicians who got their name from selling poems from handbarrows in local markets.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "musicians",
+      "headword": "musician",
+      "kind": "word",
+      "zh": "n. 音乐家, 乐师, 作曲家",
+      "en": "n. someone who plays a musical instrument (as a profession)\nn. artist who composes or conducts music as a profession",
+      "phonetic": "mju:'ziʃәn",
+      "forms": [
+        "musicians"
+      ],
+      "example": "The Barrow poets were a group of writers and folk musicians who got their name from selling poems from handbarrows in local markets.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "invited",
+      "headword": "invite",
+      "kind": "word",
+      "zh": "vt. 邀请, 请求, 引起, 招致\nn. 邀请",
+      "en": "n. a colloquial expression for invitation\nv. increase the likelihood of\nv. invite someone to one's house\nv. ask someone in a friendly way to do something",
+      "phonetic": "in'vait",
+      "forms": [
+        "invited"
+      ],
+      "example": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "gathering",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gathering"
+      ],
+      "example": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "explored",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explored"
+      ],
+      "example": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "shakespeare",
+      "headword": "Shakespeare",
+      "kind": "word",
+      "zh": "n. 莎士比亚",
+      "en": "n. English poet and dramatist considered one of the greatest English writers (1564-1616)",
+      "phonetic": "'ʃeik.spiә",
+      "forms": [
+        "shakespeare"
+      ],
+      "example": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "charmed",
+      "headword": "charm",
+      "kind": "word",
+      "zh": "n. 吸引力, 魔力, 符咒\nvt. 迷住, 使陶醉, 行魔法\nvi. 用符咒, 有魅力",
+      "en": "n. something believed to bring good luck\nn. (physics) one of the six flavors of quark\nv. control by magic spells, as by practicing witchcraft\nv. protect through supernatural powers or charms",
+      "phonetic": "tʃɑ:m",
+      "forms": [
+        "charmed"
+      ],
+      "example": "Chernaik was charmed by the figure of Orlando, who hangs poems in the trees of the Forest of Arden for his love, Rosalind.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "arden",
+      "headword": "arden",
+      "kind": "word",
+      "zh": "n. 昔时阿尔丁的森林地带；浪漫的地方",
+      "en": "",
+      "phonetic": "'ɑ:dәn",
+      "forms": [
+        "arden"
+      ],
+      "example": "Chernaik was charmed by the figure of Orlando, who hangs poems in the trees of the Forest of Arden for his love, Rosalind.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "contemporary",
+      "headword": "contemporary",
+      "kind": "word",
+      "zh": "n. 同时代的人\na. 同时代的, 属于同一时期的",
+      "en": "n. a person of nearly the same age as another\ns. characteristic of the present\ns. belonging to the present time",
+      "phonetic": "kәn'tempәrәri",
+      "forms": [
+        "contemporary"
+      ],
+      "example": "Imagining the London Underground as a real-life contemporary Forest of Arden, she asked her friends what they thought of her idea to hang some poems in the advertising spaces on the tube.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "advertising",
+      "headword": "advertise",
+      "kind": "word",
+      "zh": "vt. 做广告, 通知, 公布\nvi. 做广告",
+      "en": "v. call attention to\nv. make publicity for; try to sell (a product)",
+      "phonetic": "'ædvәtaiz",
+      "forms": [
+        "advertising"
+      ],
+      "example": "Imagining the London Underground as a real-life contemporary Forest of Arden, she asked her friends what they thought of her idea to hang some poems in the advertising spaces on the tube.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "delighted",
+      "headword": "delight",
+      "kind": "word",
+      "zh": "n. 高兴, 愉快\nvt. 使高兴, 乐于\nvi. 感到高兴(或愉快、快乐)",
+      "en": "n. a feeling of extreme pleasure or satisfaction\nv. take delight in",
+      "phonetic": "di'lait",
+      "forms": [
+        "delighted"
+      ],
+      "example": "Delighted by the notion, they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "notion",
+      "headword": "notion",
+      "kind": "word",
+      "zh": "n. 概念, 观念, 想法, 打算, 别致的小东西\n[经] 概念, 打算, 想法",
+      "en": "n. a general inclusive concept\nn. an odd or fanciful or capricious idea\nn. (usually plural) small personal articles or clothing or sewing items",
+      "phonetic": "'nәuʃәn",
+      "forms": [
+        "notion"
+      ],
+      "example": "Delighted by the notion, they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "transport",
+      "headword": "transport",
+      "kind": "word",
+      "zh": "n. 运输, 运输工具, 激动, 狂喜, 流放犯\nvt. 传送, 运输, 流放\n[计] 传送",
+      "en": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes\nv. move something or somebody around; usually over long distances\nv. move while supporting, either in a vehicle or in one's hands or on one's body\nv. transport commercially",
+      "phonetic": "træns'pɒ:t",
+      "forms": [
+        "transport",
+        "transported"
+      ],
+      "example": "Delighted by the notion, they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "amazement",
+      "headword": "amazement",
+      "kind": "word",
+      "zh": "n. 惊愕, 惊异",
+      "en": "n the feeling that accompanies something extremely surprising",
+      "phonetic": "ә'meizmәnt",
+      "forms": [
+        "amazement"
+      ],
+      "example": "To her amazement London Transport replied and was interested in her proposal.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "replied",
+      "headword": "reply",
+      "kind": "word",
+      "zh": "n. 答复, 回答, 答辩\nvi. 答复, 回答, 回击, 反响, 答辩\nvt. 回答\n[计] 答复",
+      "en": "n. the speech act of continuing a conversational exchange",
+      "phonetic": "ri'plai",
+      "forms": [
+        "replied"
+      ],
+      "example": "To her amazement London Transport replied and was interested in her proposal.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "proposal",
+      "headword": "proposal",
+      "kind": "word",
+      "zh": "n. 提议, 计划, 求婚\n[经] 提案, 申请, 投标",
+      "en": "n. something proposed (such as a plan or assumption)\nn. the act of making a proposal",
+      "phonetic": "prә'pәuzl",
+      "forms": [
+        "proposal"
+      ],
+      "example": "To her amazement London Transport replied and was interested in her proposal.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "secured",
+      "headword": "secure",
+      "kind": "word",
+      "zh": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的\nvt. 固定, 获得, 保证, 使安全, 掩护, 招致\nvi. 停止操作, 船抛锚",
+      "en": "v. assure payment of\na. free from fear or doubt; easy in mind\na. free from danger or risk\na. not likely to fail or give way",
+      "phonetic": "si'kjuә",
+      "forms": [
+        "secured"
+      ],
+      "example": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "council",
+      "headword": "council",
+      "kind": "word",
+      "zh": "n. 会议, 委员会\n[经] 委员会",
+      "en": "n. a body serving in an administrative capacity\nn. (Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine\nn. a meeting of people for consultation",
+      "phonetic": "'kaunsәl",
+      "forms": [
+        "council"
+      ],
+      "example": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "grant",
+      "headword": "grant",
+      "kind": "word",
+      "zh": "n. 授予, 授予物, 允许\nvt. 允许, 承认, 授与\n[计] 授权命令",
+      "en": "n. any monetary aid\nn. the act of providing a subsidy\nn. (law) a transfer of property by deed of conveyance\nn. Scottish painter; cousin of Lytton Strachey and member of the Bloomsbury Group (1885-1978)",
+      "phonetic": "grænt",
+      "forms": [
+        "grant"
+      ],
+      "example": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "public",
+      "headword": "public",
+      "kind": "word",
+      "zh": "n. 公众, 民众\na. 公众的, 公共的, 公立的, 公用的",
+      "en": "n. a body of people sharing some common interest\na. not private; open to or concerning the people as a whole\ns. affecting the people or community as a whole",
+      "phonetic": "'pʌblik",
+      "forms": [
+        "public"
+      ],
+      "example": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "barton",
+      "headword": "barton",
+      "kind": "word",
+      "zh": "n. 庄园内的农场, 农家庭院",
+      "en": "n. The demesne lands of a manor; also, the manor itself.\nn. A farmyard.",
+      "phonetic": "'bɑ:tn",
+      "forms": [
+        "barton"
+      ],
+      "example": "Literary academic Anna Barton has observed that in As You Like It, “the Forest of Arden is a place of freedom, transformation and love – but also hardship for the shepherds who work there”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "observed",
+      "headword": "observe",
+      "kind": "word",
+      "zh": "vt. 觉察到, 遵守, 注意到, 庆祝\nvi. 注意, 评论",
+      "en": "v. watch attentively\nv. behave as expected during of holidays or rites\nv. stick to correctly or closely\nv. conform one's action or practice to",
+      "phonetic": "әb'zә:v",
+      "forms": [
+        "observed"
+      ],
+      "example": "Literary academic Anna Barton has observed that in As You Like It, “the Forest of Arden is a place of freedom, transformation and love – but also hardship for the shepherds who work there”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "transformation",
+      "headword": "transformation",
+      "kind": "word",
+      "zh": "n. 变形, 变质, 变化, 改革, 变换\n[化] 转化; 变换",
+      "en": "n. a qualitative change\nn. (mathematics) a function that changes the position or direction of the axes of a coordinate system\nn. a rule describing the conversion of one syntactic structure into another related syntactic structure",
+      "phonetic": ".trænsfә'meiʃәn",
+      "forms": [
+        "transformation"
+      ],
+      "example": "Literary academic Anna Barton has observed that in As You Like It, “the Forest of Arden is a place of freedom, transformation and love – but also hardship for the shepherds who work there”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "hardship",
+      "headword": "hardship",
+      "kind": "word",
+      "zh": "n. 艰难, 辛苦, 苦难\n[法] 受苦, 吃苦, 苦难",
+      "en": "n. something that causes or entails suffering",
+      "phonetic": "'hɑ:dʃip",
+      "forms": [
+        "hardship"
+      ],
+      "example": "Literary academic Anna Barton has observed that in As You Like It, “the Forest of Arden is a place of freedom, transformation and love – but also hardship for the shepherds who work there”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "shepherds",
+      "headword": "shepherd",
+      "kind": "word",
+      "zh": "n. 牧羊人, 牧羊犬, 牧师, 保护者\nvt. 看守, 领导, 指导, 牧羊",
+      "en": "n. a clergyman who watches over a group of people\nv. watch over like a shepherd, as a teacher of her pupils\nv. tend as a shepherd, as of sheep or goats",
+      "phonetic": "'ʃepәd",
+      "forms": [
+        "shepherds"
+      ],
+      "example": "Literary academic Anna Barton has observed that in As You Like It, “the Forest of Arden is a place of freedom, transformation and love – but also hardship for the shepherds who work there”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "inspiration",
+      "headword": "inspiration",
+      "kind": "word",
+      "zh": "n. 灵感, 鼓舞人心的人或物, 妙计, 吸气\n[医] 吸[气]",
+      "en": "n. arousal of the mind to special unusual activity or creativity\nn. a product of your creative thinking and work\nn. a sudden intuition as part of solving a problem",
+      "phonetic": ".inspә'reiʃәn",
+      "forms": [
+        "inspiration"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "scholar",
+      "headword": "scholar",
+      "kind": "word",
+      "zh": "n. 学者, 奖学金获得者, 有文化者, 学习者",
+      "en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\nn. a student who holds a scholarship",
+      "phonetic": "'skɒlә",
+      "forms": [
+        "scholar"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "romantic",
+      "headword": "romantic",
+      "kind": "word",
+      "zh": "a. 浪漫的, 风流的, 传奇性的, 夸大的, 空想的, 浪漫派的",
+      "en": "n. a soulful or amorous idealist\na. belonging to or characteristic of Romanticism or the Romantic Movement in the arts",
+      "phonetic": "rәu'mæntik",
+      "forms": [
+        "romantic"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "motivation",
+      "headword": "motivation",
+      "kind": "word",
+      "zh": "n. 动机, 刺激, 推动\n[医] 促动, 推动, 诱导",
+      "en": "n. the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior\nn. the condition of being motivated\nn. the act of motivating; providing incentive",
+      "phonetic": ".mәuti'veiʃәn",
+      "forms": [
+        "motivation"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "john",
+      "headword": "john",
+      "kind": "word",
+      "zh": "n. 盥洗室, 厕所, 嫖客",
+      "en": "n. youngest son of Henry II; King of England from 1199 to 1216; succeeded to the throne on the death of his brother Richard I; lost his French possessions; in 1215 John was compelled by the barons to sign the Magna Carta (1167-1216)\nn. (New Testament) disciple of Jesus; traditionally said to be the author of the 4th Gospel and three epistles and the book of Revelation\nn. the last of the four Gospels in the New Testament",
+      "phonetic": "dʒɔn",
+      "forms": [
+        "john"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "keats",
+      "headword": "keats",
+      "kind": "word",
+      "zh": "n. 济慈（英国诗人）",
+      "en": "n. Englishman and romantic poet (1795-1821)",
+      "phonetic": "ki:ts",
+      "forms": [
+        "keats"
+      ],
+      "example": "But if Shakespeare was the inspiration for Chernaik, a scholar of Romantic poetry, the motivation came from her study of Percy Bysshe Shelley and John Keats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "amid",
+      "headword": "amid",
+      "kind": "word",
+      "zh": "prep. 在其间, 在其中\n[经] 在...中",
+      "en": "prep. See Amidst.\nprep. In the midst or middle of; surrounded or encompassed by;\n   among.",
+      "phonetic": "ә'mid",
+      "forms": [
+        "amid"
+      ],
+      "example": "Finding meaning amid the tumult",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "tumult",
+      "headword": "tumult",
+      "kind": "word",
+      "zh": "n. 骚动, 吵闹, 混乱\n[法] 骚乱, 骚动, 暴乱",
+      "en": "n. a state of commotion and noise and confusion\nn. violent agitation",
+      "phonetic": "'tju:mʌlt",
+      "forms": [
+        "tumult"
+      ],
+      "example": "Finding meaning amid the tumult",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "shelly",
+      "headword": "shelly",
+      "kind": "word",
+      "zh": "a. 多壳的, 壳一般的, 有壳的",
+      "en": "a. Abounding with shells; consisting of shells, or of a shell.",
+      "phonetic": "'ʃeli",
+      "forms": [
+        "shelly"
+      ],
+      "example": "Keats, who died at just 26, worried in his letters whether he would be read, while Shelly believed poetry had the power to change the world.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "accomplish",
+      "headword": "accomplish",
+      "kind": "word",
+      "zh": "vt. 完成, 达到, 实现, 使完美",
+      "en": "v put in effect\nv to gain with effort",
+      "phonetic": "ә'kʌmpliʃ",
+      "forms": [
+        "accomplish"
+      ],
+      "example": "Here was a project that could accomplish both things.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "initiative",
+      "headword": "initiative",
+      "kind": "word",
+      "zh": "n. 主动行动, 首创精神, 主动权\na. 自发的, 起始的",
+      "en": "n readiness to embark on bold new ventures\nn the first of a series of actions\ns serving to set in motion",
+      "phonetic": "i'niʃiәtiv",
+      "forms": [
+        "initiative"
+      ],
+      "example": "Indeed, joined by Gerard Benson and Cicley Herbert who became co-founders of the initiative, the three brought to millions of passengers a wide range of poetry from the past and present, and written by poets from all over the world.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "millions",
+      "headword": "millions",
+      "kind": "word",
+      "zh": "n. 数百万",
+      "en": "n the number that is represented as a one followed by 6 zeros\nn a very large indefinite number (usually hyperbole)",
+      "phonetic": "",
+      "forms": [
+        "millions"
+      ],
+      "example": "Indeed, joined by Gerard Benson and Cicley Herbert who became co-founders of the initiative, the three brought to millions of passengers a wide range of poetry from the past and present, and written by poets from all over the world.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "passengers",
+      "headword": "passenger",
+      "kind": "word",
+      "zh": "n. 乘客, 旅客\n[经] 乘客, 旅客",
+      "en": "n. a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+      "phonetic": "'pæsindʒә",
+      "forms": [
+        "passengers"
+      ],
+      "example": "Indeed, joined by Gerard Benson and Cicley Herbert who became co-founders of the initiative, the three brought to millions of passengers a wide range of poetry from the past and present, and written by poets from all over the world.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "replicated",
+      "headword": "replicate",
+      "kind": "word",
+      "zh": "vt. 折叠, 折转, 复制\nn. 复现试验, 复制品, 高八度音\na. 复现的, 复制的, 折转的, 弯回的",
+      "en": "v. reproduce or make an exact copy of",
+      "phonetic": "'replikeit",
+      "forms": [
+        "replicated"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v103",
+      "term": "beijing",
+      "headword": "Beijing",
+      "kind": "word",
+      "zh": "[经] 北京",
+      "en": "n. capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city",
+      "phonetic": "beidʒiŋ",
+      "forms": [
+        "beijing"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "dublin",
+      "headword": "Dublin",
+      "kind": "word",
+      "zh": "n. 都柏林",
+      "en": "n. capital and largest city and major port of the Irish Republic",
+      "phonetic": "'dʌblin",
+      "forms": [
+        "dublin"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "moscow",
+      "headword": "Moscow",
+      "kind": "word",
+      "zh": "n. 莫斯科",
+      "en": "n. a city of central European Russia; formerly capital of both the Soviet Union and Soviet Russia; since 1991 the capital of the Russian Federation",
+      "phonetic": "'mɒskau",
+      "forms": [
+        "moscow"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "shanghai",
+      "headword": "Shanghai",
+      "kind": "word",
+      "zh": "n. 上海, 浦东鸡\na. 上海的, 上海时行的, 上海风格的\nvt. 拐骗, 胁迫",
+      "en": "n. the largest city of China; located in the east on the Pacific; one of the largest ports in the world\nv. take (someone) against his will for compulsory service, especially on board a ship",
+      "phonetic": "'ʃæŋhai",
+      "forms": [
+        "shanghai"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "warsaw",
+      "headword": "warsaw",
+      "kind": "word",
+      "zh": "n. 华沙（波兰首都）",
+      "en": "n the capital and largest city of Poland; located in central Poland",
+      "phonetic": "'wɔ:sɔ:",
+      "forms": [
+        "warsaw"
+      ],
+      "example": "The programme has been so successful it has been replicated in cities such as New York, Paris, Beijing, Dublin, Moscow, Shanghai and Warsaw.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "rumbles",
+      "headword": "rumble",
+      "kind": "word",
+      "zh": "n. 隆隆声, 辘辘声\nvi. 发隆隆声, 辘辘响\nvt. 使隆隆响, 低沉地说",
+      "en": "n. a loud low dull continuous noise\nn. a servant's seat (or luggage compartment) in the rear of a carriage\nn. a fight between rival gangs of adolescents\nv. make a low noise",
+      "phonetic": "'rʌmbl",
+      "forms": [
+        "rumbles"
+      ],
+      "example": "In London, the tube rumbles to the rhythm of the best poetry in the world.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "favourites",
+      "headword": "favourite",
+      "kind": "word",
+      "zh": "n. 喜欢的事物\na. 喜爱的, 宠爱的",
+      "en": "n a competitor thought likely to win\nn a special loved one\nn something regarded with special favor or liking\ns appealing to the general public\ns preferred above all others and treated with partiality",
+      "phonetic": "'feivәrit",
+      "forms": [
+        "favourites"
+      ],
+      "example": "One of my favourites is Oscar Wilde’s Symphony in Yellow, a poem first published in 1889.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "oscar",
+      "headword": "Oscar",
+      "kind": "word",
+      "zh": "n. 奥斯卡金像奖, 钱, 现金",
+      "en": "n an annual award by the Academy of Motion Picture Arts and Sciences for achievements in motion picture production and performance",
+      "phonetic": "'ɔskә",
+      "forms": [
+        "oscar"
+      ],
+      "example": "One of my favourites is Oscar Wilde’s Symphony in Yellow, a poem first published in 1889.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "symphony",
+      "headword": "symphony",
+      "kind": "word",
+      "zh": "n. 交响乐, 交响曲",
+      "en": "n. a long and complex sonata for symphony orchestra",
+      "phonetic": "'simfәni",
+      "forms": [
+        "symphony"
+      ],
+      "example": "One of my favourites is Oscar Wilde’s Symphony in Yellow, a poem first published in 1889.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "yellow",
+      "headword": "yellow",
+      "kind": "word",
+      "zh": "n. 黄色\na. 黄色的",
+      "en": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age",
+      "phonetic": "'jelәu",
+      "forms": [
+        "yellow"
+      ],
+      "example": "One of my favourites is Oscar Wilde’s Symphony in Yellow, a poem first published in 1889.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "omnibus",
+      "headword": "omnibus",
+      "kind": "word",
+      "zh": "n. 公共汽车, 公共马车, 精选集, 汇编\na. 综合性的, 总括的, 作多种用途的",
+      "en": "n. an anthology of articles on a related subject or an anthology of the works of a single author\ns. providing for many things at once",
+      "phonetic": "'ɒmnibәs",
+      "forms": [
+        "omnibus"
+      ],
+      "example": "In the 19th century, omnibus routes were colour coded – how ingenious of Wilde to sing of the bus as a yellow butterfly.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "bridge",
+      "headword": "bridge",
+      "kind": "word",
+      "zh": "n. 桥, 舰桥, 桥梁, 桥牌\nvt. 架桥于, 跨越\n[计] 桥, 网桥, 桥接器",
+      "en": "n. a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.\nn. a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected\nn. something resembling a bridge in form or function\nn. the hard ridge that forms the upper part of the nose",
+      "phonetic": "bridʒ",
+      "forms": [
+        "bridge"
+      ],
+      "example": "An omnibus across the bridge",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "crawls",
+      "headword": "crawl",
+      "kind": "word",
+      "zh": "n. 爬行, 匍匐而行, 养鱼池\nv. 爬行",
+      "en": "n. a very slow movement\nn. a swimming stroke; arms are moved alternately overhead accompanied by a flutter kick\nn. a slow mode of locomotion on hands and knees or dragging the body\nv. move slowly; in the case of people or animals with the body near the ground",
+      "phonetic": "krɒ:l",
+      "forms": [
+        "crawls"
+      ],
+      "example": "Crawls like a yellow butterfly,",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "butterfly",
+      "headword": "butterfly",
+      "kind": "word",
+      "zh": "n. 蝴蝶\n[医] 蝶式棉块, 翼形皮癣, 纸蝶",
+      "en": "n. diurnal insect typically having a slender body with knobbed antennae and broad colorful wings\nn. a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down\nv. flutter like a butterfly\nv. cut and spread open, as in preparation for cooking",
+      "phonetic": "'bʌtәflai",
+      "forms": [
+        "butterfly"
+      ],
+      "example": "In the 19th century, omnibus routes were colour coded – how ingenious of Wilde to sing of the bus as a yellow butterfly.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "passer-by",
+      "headword": "passer-by",
+      "kind": "word",
+      "zh": "n. 过路人; 经过者",
+      "en": "n. a person who passes by casually or by chance",
+      "phonetic": "'pɑ:sə baɪ",
+      "forms": [
+        "passer-by"
+      ],
+      "example": "And, here and there, a passer-by",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "restless",
+      "headword": "restless",
+      "kind": "word",
+      "zh": "a. 不安静的, 慌张的, 休息不充分的\n[医] 不安静的, 不宁的",
+      "en": "s. worried and uneasy\ns. ceaselessly in motion\na. lacking or not affording physical or mental rest",
+      "phonetic": "'restlis",
+      "forms": [
+        "restless"
+      ],
+      "example": "Shows like a little restless midge.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "midge",
+      "headword": "midge",
+      "kind": "word",
+      "zh": "n. 蠓, 侏儒\n[医] 蠓, 蚋",
+      "en": "n. minute two-winged mosquito-like fly lacking biting mouthparts; appear in dancing swarms especially near water",
+      "phonetic": "midʒ",
+      "forms": [
+        "midge"
+      ],
+      "example": "Shows like a little restless midge.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "routes",
+      "headword": "route",
+      "kind": "word",
+      "zh": "n. 路径, 途径, 路线\nvt. 确定路线, 按规定路线发送\n[计] 传递, 路由设定程序",
+      "en": "v. send documents or materials to appropriate destinations\nv. send via a specific route\nv. divert in a specified direction",
+      "phonetic": "ru:t",
+      "forms": [
+        "routes"
+      ],
+      "example": "In the 19th century, omnibus routes were colour coded – how ingenious of Wilde to sing of the bus as a yellow butterfly.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "coded",
+      "headword": "code",
+      "kind": "word",
+      "zh": "n. 代码, 密码, 法规, 法典\nvt. 把...编码\n[计] 代码",
+      "en": "n. a set of rules or principles or laws (especially written ones)\nn. a coding system used for transmitting messages requiring brevity or secrecy\nn. (computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions\nv. attach a code to",
+      "phonetic": "kәud",
+      "forms": [
+        "coded"
+      ],
+      "example": "In the 19th century, omnibus routes were colour coded – how ingenious of Wilde to sing of the bus as a yellow butterfly.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "ingenious",
+      "headword": "ingenious",
+      "kind": "word",
+      "zh": "a. 灵敏的, 精巧的, 聪明的",
+      "en": "s showing inventiveness and skill",
+      "phonetic": "in'dʒi:njәs",
+      "forms": [
+        "ingenious"
+      ],
+      "example": "In the 19th century, omnibus routes were colour coded – how ingenious of Wilde to sing of the bus as a yellow butterfly.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "illustration",
+      "headword": "illustration",
+      "kind": "word",
+      "zh": "n. 例证, 插图\n[化] 插图",
+      "en": "n. artwork that helps make something clear or attractive\nn. a visual representation (a picture or diagram) that is used make some subject more pleasing or easier to understand",
+      "phonetic": ".ilә'streiʃәn",
+      "forms": [
+        "illustration"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "depicting",
+      "headword": "depict",
+      "kind": "word",
+      "zh": "vt. 描述, 描写",
+      "en": "v show in, or as in, a picture\nv give a description of\nv make a portrait of",
+      "phonetic": "di'pikt",
+      "forms": [
+        "depicting"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "aware",
+      "headword": "aware",
+      "kind": "word",
+      "zh": "a. 知道的, 有觉悟的",
+      "en": "a. (sometimes followed by `of') having or showing knowledge or understanding or realization or perception",
+      "phonetic": "ә'wєә",
+      "forms": [
+        "aware"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "aspect",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspect"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "visual",
+      "headword": "visual",
+      "kind": "word",
+      "zh": "a. 视觉的\n[医] 视觉的, 视力的, 视觉性记忆优势者",
+      "en": "a relating to or using sight\ns visible; give me the ocular proof\"- Shakespeare",
+      "phonetic": "'viʒuәl",
+      "forms": [
+        "visual"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "typography",
+      "headword": "typography",
+      "kind": "word",
+      "zh": "n. 凸版印刷术, 排印, 印刷版面式样",
+      "en": "n. the craft of composing type and printing from it\nn. art and technique of printing with movable type",
+      "phonetic": "tai'pɒgrәfi",
+      "forms": [
+        "typography"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "layout",
+      "headword": "layout",
+      "kind": "word",
+      "zh": "n. 布局, 陈列, 规划图, 页面布局, 版面编排\n[计] 页面布局, 版面",
+      "en": "n. a plan or design of something that is laid out\nn. the act of laying out (as by making plans for something)",
+      "phonetic": "'leiaut",
+      "forms": [
+        "layout"
+      ],
+      "example": "The design for the poem, which included an illustration depicting Oscar Wilde himself, made me aware of another aspect of the Poems on the Underground: their visual impact that comes from beautiful typography, use of colour and layout.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "creatures",
+      "headword": "creature",
+      "kind": "word",
+      "zh": "n. 人, 动物, 创造物, 生物",
+      "en": "n. a human being; `wight' is an archaic term\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else",
+      "phonetic": "'kri:tʃә",
+      "forms": [
+        "creatures"
+      ],
+      "example": "The poet Arthur Symons wrote in 1909 of the dehumanisation of passengers travelling on the Underground: “The creatures that we see now in the machines are hardly to be called human beings, so are they disfigured out of all recognition, in order that they may go fast enough not to see anything themselves.”",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "hardly",
+      "headword": "hardly",
+      "kind": "word",
+      "zh": "adv. 刚刚, 几乎不, 勉强是",
+      "en": "r. almost not",
+      "phonetic": "'hɑ:dli",
+      "forms": [
+        "hardly"
+      ],
+      "example": "The poet Arthur Symons wrote in 1909 of the dehumanisation of passengers travelling on the Underground: “The creatures that we see now in the machines are hardly to be called human beings, so are they disfigured out of all recognition, in order that they may go fast enough not to see anything themselves.”",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "disfigured",
+      "headword": "disfigure",
+      "kind": "word",
+      "zh": "vt. 毁损...的外形, 玷污, 损害, 毁损...的容貌\n[法] 损毁容颜, 破相",
+      "en": "v mar or spoil the appearance of",
+      "phonetic": "dis'fi^ә",
+      "forms": [
+        "disfigured"
+      ],
+      "example": "The poet Arthur Symons wrote in 1909 of the dehumanisation of passengers travelling on the Underground: “The creatures that we see now in the machines are hardly to be called human beings, so are they disfigured out of all recognition, in order that they may go fast enough not to see anything themselves.”",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "recognition",
+      "headword": "recognition",
+      "kind": "word",
+      "zh": "n. 赞誉, 认得, 识别, 承认, 认可, 认识\n[电] 认识",
+      "en": "n. the state or quality of being recognized or acknowledged\nn. the process of recognizing something or someone by remembering\nn. approval\nn. (biology) the ability of one molecule to attach to another molecule that has a complementary shape",
+      "phonetic": ".rekәg'niʃәn",
+      "forms": [
+        "recognition"
+      ],
+      "example": "The poet Arthur Symons wrote in 1909 of the dehumanisation of passengers travelling on the Underground: “The creatures that we see now in the machines are hardly to be called human beings, so are they disfigured out of all recognition, in order that they may go fast enough not to see anything themselves.”",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "For the last 40 years, Poems on the Underground has done the exact opposite: it has continually reminded passengers of their humanity.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "opposite",
+      "headword": "opposite",
+      "kind": "word",
+      "zh": "a. 相对的, 相反的, 对面的\nprep. 对面\nn. 对立面",
+      "en": "s. being directly across from each other; facing\na. of leaves etc; growing in pairs on either side of a stem\ns. moving or facing away from each other\ns. the other one of a complementary pair",
+      "phonetic": "'ɒpәzit",
+      "forms": [
+        "opposite"
+      ],
+      "example": "For the last 40 years, Poems on the Underground has done the exact opposite: it has continually reminded passengers of their humanity.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "continually",
+      "headword": "continually",
+      "kind": "word",
+      "zh": "adv. 不断地, 频繁地",
+      "en": "r. seemingly without interruption",
+      "phonetic": "kәn'tinjuәli",
+      "forms": [
+        "continually"
+      ],
+      "example": "For the last 40 years, Poems on the Underground has done the exact opposite: it has continually reminded passengers of their humanity.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "humanity",
+      "headword": "humanity",
+      "kind": "word",
+      "zh": "n. 人性, 人类, 博爱",
+      "en": "n. the quality of being humane",
+      "phonetic": "hju:'mæniti",
+      "forms": [
+        "humanity"
+      ],
+      "example": "For the last 40 years, Poems on the Underground has done the exact opposite: it has continually reminded passengers of their humanity.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "thrilled",
+      "headword": "thrill",
+      "kind": "word",
+      "zh": "n. 震颤, 激动, 刺激性, 一阵激动\nvi. 震颤, 颤抖, 激动\nvt. 使激动, 使颤动",
+      "en": "n. something that causes you to experience a sudden intense feeling or sensation\nv. cause to be thrilled by some perceptual input\nv. feel sudden intense sensation or emotion",
+      "phonetic": "θril",
+      "forms": [
+        "thrilled"
+      ],
+      "example": "And Symons would probably have been thrilled to know A Tune (1899), his poem about the persistence of memory, would one day be displayed on the tube.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "tune",
+      "headword": "tune",
+      "kind": "word",
+      "zh": "n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度\nvt. 为...调音, 调整, 调谐, 使一致\nvi. 协调, 调谐",
+      "en": "n. a succession of notes forming a distinctive sequence\nn. the property of producing accurately a note of a given pitch\nn. the adjustment of a radio receiver or other circuit to a required frequency\nv. adjust for (better) functioning",
+      "phonetic": "tju:n",
+      "forms": [
+        "tune"
+      ],
+      "example": "And Symons would probably have been thrilled to know A Tune (1899), his poem about the persistence of memory, would one day be displayed on the tube.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "persistence",
+      "headword": "persistence",
+      "kind": "word",
+      "zh": "n. 固执, 坚持不懈, 持续(性), 存留(状态)\n[电] 持久",
+      "en": "n the property of a continuous and connected period of time\nn persistent determination\nn the act of persisting or persevering; continuing or repeating behavior",
+      "phonetic": "pә'sistәns",
+      "forms": [
+        "persistence"
+      ],
+      "example": "And Symons would probably have been thrilled to know A Tune (1899), his poem about the persistence of memory, would one day be displayed on the tube.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "admire",
+      "headword": "admire",
+      "kind": "word",
+      "zh": "vt. 赞美, 钦佩, 爱慕\nvi. 称赞, 惊奇",
+      "en": "v. feel admiration for\nv. look at with admiration",
+      "phonetic": "әd'maiә",
+      "forms": [
+        "admire"
+      ],
+      "example": "Seamus Heaney, one of the first poets to be featured, wrote to Chernaik in 1999 to say: “I admire you for keeping the underground poems a priority; it is worth doing and has made a difference, I am sure, to the life-worth of poetry for many people.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "priority",
+      "headword": "priority",
+      "kind": "word",
+      "zh": "n. 优先权, 优先\n[计] 优先级",
+      "en": "n. preceding in time",
+      "phonetic": "prai'ɒriti",
+      "forms": [
+        "priority"
+      ],
+      "example": "Seamus Heaney, one of the first poets to be featured, wrote to Chernaik in 1999 to say: “I admire you for keeping the underground poems a priority; it is worth doing and has made a difference, I am sure, to the life-worth of poetry for many people.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "blessings",
+      "headword": "blessings",
+      "kind": "word",
+      "zh": "n. （上帝的）祝福( blessing的复数形式 ); 好事; 福分; 因祸得福",
+      "en": "n. the formal act of approving\nn. a desirable state\nn. a short prayer of thanks before a meal",
+      "phonetic": "ˈblesɪŋz",
+      "forms": [
+        "blessings"
+      ],
+      "example": "Seamus Heaney, one of the first poets to be featured, wrote to Chernaik in 1999 to say: “I admire you for keeping the underground poems a priority; it is worth doing and has made a difference, I am sure, to the life-worth of poetry for many people. Blessings on the work.”",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "archive",
+      "headword": "archive",
+      "kind": "word",
+      "zh": "vt. 把...存档\nn. 档案馆, 档案文件\n[计] 挡案库, 存档",
+      "en": "n. a depository containing historical records and documents\nv. put into an archive",
+      "phonetic": "'ɑ:kaiv",
+      "forms": [
+        "archive"
+      ],
+      "example": "As the Poems on the Underground archive at the University of Cambridge attests, the project is much loved by the public and poets alike.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "cambridge",
+      "headword": "Cambridge",
+      "kind": "word",
+      "zh": "n. 剑桥",
+      "en": "n. a city in Massachusetts just to the north of Boston; site of Harvard University and the Massachusetts Institute of Technology\nn. a city in eastern England on the River Cam; site of Cambridge University",
+      "phonetic": "'keimbridʒ",
+      "forms": [
+        "cambridge"
+      ],
+      "example": "As the Poems on the Underground archive at the University of Cambridge attests, the project is much loved by the public and poets alike.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "attests",
+      "headword": "attest",
+      "kind": "word",
+      "zh": "vi. 证明, 表明, 作证\nvt. 为...作证",
+      "en": "v. provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes\nv. authenticate, affirm to be true, genuine, or correct, as in an official capacity\nv. establish or verify the usage of",
+      "phonetic": "ә'test",
+      "forms": [
+        "attests"
+      ],
+      "example": "As the Poems on the Underground archive at the University of Cambridge attests, the project is much loved by the public and poets alike.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "uplifting",
+      "headword": "uplift",
+      "kind": "word",
+      "zh": "n. 抬起, 道德的向上, 精神的高涨\nvt. 提高, 抬起\nvi. 上升",
+      "en": "n. a brassiere that lifts and supports the breasts\nv. lift up from the earth, as by geologic forces\nv. lift up or elevate",
+      "phonetic": "ʌp'lift",
+      "forms": [
+        "uplifting"
+      ],
+      "example": "It is a powerful example of the uplifting effect of the arts, and how bringing art into everyday public spaces can transform the experience of the people using them.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "everyday",
+      "headword": "everyday",
+      "kind": "word",
+      "zh": "a. 每天的, 日常的, 平常的",
+      "en": "s. found in the ordinary course of events\ns. commonplace and ordinary",
+      "phonetic": "'evri'dei",
+      "forms": [
+        "everyday"
+      ],
+      "example": "It is a powerful example of the uplifting effect of the arts, and how bringing art into everyday public spaces can transform the experience of the people using them.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "transform",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transform"
+      ],
+      "example": "It is a powerful example of the uplifting effect of the arts, and how bringing art into everyday public spaces can transform the experience of the people using them.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      2,
+      8
+    ],
+    "wordBank": [
+      "invited",
+      "secured",
+      "yearning",
+      "brainchild",
+      "reshaped",
+      "charmed",
+      "travellers",
+      "befriended",
+      "notion",
+      "masses"
+    ],
+    "parts": [
+      {
+        "text": "These poems are often unexpected, delightful and poignant. They remind commuters of our humanness and offer "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " small moments of respite. Whether on an empty platform or in a crowded carriage, Londoners and tourists alike can be moved by the rhythms of poetry.\n\n“I love dis great, polluted place,” says Benjamin Zephaniah in The London Breed (2001). “I sing of a world "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ",” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981). In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”. A melancholic "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.\n\nThis year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ". The first poems to be displayed were Up in the Morning Early (1788) by Robert Burns; The Railway Children (1984) by Seamus Heaney; Like a Beacon (1984) by Grace Nichols; Ozymandias (1818) by Percy Bysshe Shelley; and This Is Just To Say (1934) by William Carlos Williams.\n\nThe project was the "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children. The couple "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle. The Barrow poets were a group of writers and folk musicians who got their name from selling poems from handbarrows in local markets.\n\nThe couple were "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It. Chernaik was "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " by the figure of Orlando, who hangs poems in the trees of the Forest of Arden for his love, Rosalind.\n\nImagining the London Underground as a real-life contemporary Forest of Arden, she asked her friends what they thought of her idea to hang some poems in the advertising spaces on the tube. Delighted by the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ", they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).\n\nTo her amazement London Transport replied and was interested in her proposal. She "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "travellers",
+        "vocabularyId": "v17",
+        "explanation": "原文此处使用 travellers（traveller）。结合上下文辨认词义与词形。",
+        "evidence": "They remind commuters of our humanness and offer travellers small moments of respite.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "reshaped",
+        "vocabularyId": "v32",
+        "explanation": "原文此处使用 reshaped（reshape）。结合上下文辨认词义与词形。",
+        "evidence": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+        "paragraph": 3
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "yearning",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 yearning（yearn）。结合上下文辨认词义与词形。",
+        "evidence": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "masses",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 masses（mass）。结合上下文辨认词义与词形。",
+        "evidence": "This year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting masses.",
+        "paragraph": 4
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "brainchild",
+        "vocabularyId": "v54",
+        "explanation": "原文此处使用 brainchild（brainchild）。结合上下文辨认词义与词形。",
+        "evidence": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
+        "paragraph": 5
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "befriended",
+        "vocabularyId": "v58",
+        "explanation": "原文此处使用 befriended（befriend）。结合上下文辨认词义与词形。",
+        "evidence": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
+        "paragraph": 5
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "invited",
+        "vocabularyId": "v65",
+        "explanation": "原文此处使用 invited（invite）。结合上下文辨认词义与词形。",
+        "evidence": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+        "paragraph": 6
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "charmed",
+        "vocabularyId": "v69",
+        "explanation": "原文此处使用 charmed（charm）。结合上下文辨认词义与词形。",
+        "evidence": "Chernaik was charmed by the figure of Orlando, who hangs poems in the trees of the Forest of Arden for his love, Rosalind.",
+        "paragraph": 6
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "notion",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 notion（notion）。结合上下文辨认词义与词形。",
+        "evidence": "Delighted by the notion, they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).",
+        "paragraph": 7
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "secured",
+        "vocabularyId": "v79",
+        "explanation": "原文此处使用 secured（secure）。结合上下文辨认词义与词形。",
+        "evidence": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+        "paragraph": 8
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Ancient disputes over mapmaking illuminate debates about how the world is represented.",
+          "Horror filmmakers exploit features of human vision to create frightening effects.",
+          "Denmark's reputation for open-mindedness has a more complicated history than stereotypes suggest.",
+          "A public poetry project connects Shakespeare's influence with everyday journeys on the Underground."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
+        "paragraph": 8
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which poet is associated with I Sing of Change in the article?",
+        "options": [
+          "William Shakespeare",
+          "Niyi Osundare",
+          "Tove Jansson",
+          "Ernest Shackleton"
+        ],
+        "answer": 1,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 6?",
+        "options": [
+          "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
+          "In A Bunch of Consolation (2023), Maura Dooley urges us “to love, to speak up, to hold steady”.",
+          "It is a powerful example of the uplifting effect of the arts, and how bringing art into everyday public spaces can transform the experience of the people using them.",
+          "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It."
+        ],
+        "answer": 3,
+        "explanation": "定位第 6 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
+        "paragraph": 6
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Keats, who died at just 26, worried in his letters whether he would be read, while Shelly believed poetry had the power to change the world.”",
+        "options": [
+          "Paragraph 20",
+          "Paragraph 11",
+          "Paragraph 6",
+          "Paragraph 13"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 11 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Keats, who died at just 26, worried in his letters whether he would be read, while Shelly believed poetry had the power to change the world.",
+        "paragraph": 11
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In London, the tube rumbles to the rhythm of the best poetry in the world.”",
+        "options": [
+          "Paragraph 7",
+          "Paragraph 18",
+          "Paragraph 13",
+          "Paragraph 4"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In London, the tube rumbles to the rhythm of the best poetry in the world.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "revision": "679dbd7f504db86c34649ef163451102661547fe0431318350f3895b2ec8d0ab"
+}

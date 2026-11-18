@@ -1,0 +1,719 @@
+{
+  "dictionary": {
+    "name": "ECDICT",
+    "url": "https://github.com/skywind3000/ECDICT",
+    "license": "MIT",
+    "licenseFile": "ECDICT-LICENSE.txt",
+    "csvSha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc"
+  },
+  "editorial": "Main ideas and supplementary phrase glossary: scripts/reading-study-editorial.mjs.",
+  "exercises": "Independently created supplementary practice. Cloze excerpts retain original wording; reading questions reference actual article paragraphs. Not official IELTS questions or scoring.",
+  "articles": [
+    {
+      "folder": "001",
+      "words": 124,
+      "phrases": 22,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "002",
+      "words": 116,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "003",
+      "words": 113,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "004",
+      "words": 150,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "005",
+      "words": 98,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "006",
+      "words": 108,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "007",
+      "words": 140,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "008",
+      "words": 116,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "009",
+      "words": 112,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "010",
+      "words": 139,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "011",
+      "words": 112,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "012",
+      "words": 112,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "013",
+      "words": 197,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "014",
+      "words": 106,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "015",
+      "words": 129,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "016",
+      "words": 138,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "017",
+      "words": 102,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "018",
+      "words": 151,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "019",
+      "words": 117,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "020",
+      "words": 140,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "021",
+      "words": 156,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "022",
+      "words": 112,
+      "phrases": 12,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "023",
+      "words": 105,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "024",
+      "words": 165,
+      "phrases": 15,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "025",
+      "words": 170,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "026",
+      "words": 129,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "027",
+      "words": 160,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "028",
+      "words": 169,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "029",
+      "words": 169,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "030",
+      "words": 192,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "031",
+      "words": 125,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "032",
+      "words": 158,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "033",
+      "words": 114,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "034",
+      "words": 180,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "035",
+      "words": 104,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "036",
+      "words": 132,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "037",
+      "words": 109,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "038",
+      "words": 162,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "039",
+      "words": 117,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "040",
+      "words": 104,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "041",
+      "words": 85,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "042",
+      "words": 143,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "043",
+      "words": 89,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "044",
+      "words": 110,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "045",
+      "words": 109,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "046",
+      "words": 70,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "047",
+      "words": 149,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "048",
+      "words": 102,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "049",
+      "words": 85,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "050",
+      "words": 120,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "051",
+      "words": 153,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "052",
+      "words": 182,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "053",
+      "words": 121,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "054",
+      "words": 120,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "055",
+      "words": 92,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "056",
+      "words": 59,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "057",
+      "words": 104,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "058",
+      "words": 89,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "059",
+      "words": 114,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "060",
+      "words": 90,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "061",
+      "words": 149,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "062",
+      "words": 100,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "063",
+      "words": 112,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "064",
+      "words": 150,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "065",
+      "words": 106,
+      "phrases": 13,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "066",
+      "words": 81,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "067",
+      "words": 118,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "068",
+      "words": 94,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "069",
+      "words": 66,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "070",
+      "words": 97,
+      "phrases": 7,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "071",
+      "words": 175,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "072",
+      "words": 142,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "073",
+      "words": 118,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "074",
+      "words": 156,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "075",
+      "words": 146,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "076",
+      "words": 198,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "077",
+      "words": 139,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "078",
+      "words": 116,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "079",
+      "words": 150,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "080",
+      "words": 182,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "081",
+      "words": 134,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "082",
+      "words": 159,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "083",
+      "words": 101,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "084",
+      "words": 146,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "085",
+      "words": 111,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "086",
+      "words": 166,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "087",
+      "words": 136,
+      "phrases": 3,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "088",
+      "words": 113,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "089",
+      "words": 110,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "090",
+      "words": 67,
+      "phrases": 6,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "091",
+      "words": 227,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "092",
+      "words": 92,
+      "phrases": 8,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "093",
+      "words": 150,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "094",
+      "words": 133,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "095",
+      "words": 81,
+      "phrases": 5,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "096",
+      "words": 94,
+      "phrases": 9,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "097",
+      "words": 215,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "098",
+      "words": 99,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "099",
+      "words": 107,
+      "phrases": 4,
+      "cloze": 10,
+      "reading": 5
+    },
+    {
+      "folder": "100",
+      "words": 77,
+      "phrases": 10,
+      "cloze": 10,
+      "reading": 5
+    }
+  ],
+  "totals": {
+    "words": 12651,
+    "phrases": 661,
+    "cloze": 1000,
+    "reading": 500
+  }
+}

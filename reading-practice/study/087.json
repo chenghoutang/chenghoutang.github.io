@@ -1,0 +1,2357 @@
+{
+  "schemaVersion": 1,
+  "folder": "087",
+  "articleSha256": "2c4c837e1e1a6e25849d3150a75243cee0a841962d76d6e5c7a3cc78c9f77f09",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "bonfire",
+      "headword": "bonfire",
+      "kind": "word",
+      "zh": "n. 大篝火, 营火",
+      "en": "n. a large outdoor fire that is lighted as a signal or in celebration",
+      "phonetic": "'bɒnfaiә",
+      "forms": [
+        "bonfire",
+        "bonfires"
+      ],
+      "example": "Every Bonfire Night, people pay for a box of fireworks so their friends and family can enjoy the colourful display.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "fireworks",
+      "headword": "firework",
+      "kind": "word",
+      "zh": "n. 烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现",
+      "en": "n. (usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc.",
+      "phonetic": "",
+      "forms": [
+        "fireworks"
+      ],
+      "example": "Every Bonfire Night, people pay for a box of fireworks so their friends and family can enjoy the colourful display.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "colourful",
+      "headword": "colourful",
+      "kind": "word",
+      "zh": "a. 颜色丰富的, 鲜艳的, 艳丽的, 多色的, 丰富多彩的, 吸引人的, 引人入胜的\n[计] 有色的",
+      "en": "a striking in variety and interest\na having striking color",
+      "phonetic": "'kʌlәful",
+      "forms": [
+        "colourful"
+      ],
+      "example": "Every Bonfire Night, people pay for a box of fireworks so their friends and family can enjoy the colourful display.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "display",
+      "headword": "display",
+      "kind": "word",
+      "zh": "n. 显示, 陈列, 炫耀, 显示器\nvt. 陈列, 显示, 表现, 夸示\n[计] 显示器; 显示",
+      "en": "n. something intended to communicate a particular impression\nn. something shown to the public\nn. a visual representation of something\nn. behavior that makes your feelings public",
+      "phonetic": "dis'plei",
+      "forms": [
+        "display",
+        "displays"
+      ],
+      "example": "Every Bonfire Night, people pay for a box of fireworks so their friends and family can enjoy the colourful display.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "minutes",
+      "headword": "minute",
+      "kind": "word",
+      "zh": "n. 分, 分钟, 片刻, 备忘录, 笔记\nvt. 记录, 摘录, 测定时间\na. 微小的, 详细的",
+      "en": "n. a unit of time equal to 60 seconds or 1/60th of an hour\nn. a unit of angular distance equal to a 60th of a degree\nn. a short note\ns. characterized by painstaking care and detailed examination",
+      "phonetic": "'minit. mai'nju:t",
+      "forms": [
+        "minutes"
+      ],
+      "example": "Every Bonfire Night, people pay for a box of fireworks so their friends and family can enjoy the colourful display. Within a few minutes, it’s all over. But the price on the box doesn’t reflect the hidden costs. The smoke inhaled by neighbours, the animals disturbed or the public services called out when things go wrong.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "hidden",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hidden"
+      ],
+      "example": "But the price on the box doesn’t reflect the hidden costs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "hidden costs",
+      "headword": "hidden costs",
+      "kind": "phrase",
+      "zh": "隐性成本",
+      "en": "costs that are not immediately obvious",
+      "forms": [
+        "hidden costs"
+      ],
+      "example": "But the price on the box doesn’t reflect the hidden costs.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v8",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "But the price on the box doesn’t reflect the hidden costs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "smoke",
+      "headword": "smoke",
+      "kind": "word",
+      "zh": "n. 烟, 雾气, 烟熏剂, 抽烟, 烟色\nvi. 吸烟, 冒烟, 弥漫\nvt. 以烟熏, 抽烟而导致...",
+      "en": "n. a cloud of fine particles suspended in a gas\nn. a hot vapor containing fine particles of carbon being produced by combustion\nn. an indication of some hidden activity\nn. something with no concrete substance",
+      "phonetic": "smәuk",
+      "forms": [
+        "smoke"
+      ],
+      "example": "The smoke inhaled by neighbours, the animals disturbed or the public services called out when things go wrong.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "inhaled",
+      "headword": "inhale",
+      "kind": "word",
+      "zh": "vt. 吸入\nvi. 吸气",
+      "en": "v. draw deep into the lungs in by breathing\nv. draw in (air)",
+      "phonetic": "in'heil",
+      "forms": [
+        "inhaled"
+      ],
+      "example": "The smoke inhaled by neighbours, the animals disturbed or the public services called out when things go wrong.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "neighbours",
+      "headword": "neighbour",
+      "kind": "word",
+      "zh": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
+      "en": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighbours"
+      ],
+      "example": "The smoke inhaled by neighbours, the animals disturbed or the public services called out when things go wrong.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "disturbed",
+      "headword": "disturb",
+      "kind": "word",
+      "zh": "vt. 扰乱, 妨碍, 使不安\n[法] 滋扰, 扰乱",
+      "en": "v. move deeply\nv. damage as if by shaking or jarring",
+      "phonetic": "dis'tә:b",
+      "forms": [
+        "disturbed"
+      ],
+      "example": "The smoke inhaled by neighbours, the animals disturbed or the public services called out when things go wrong.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "celebrations",
+      "headword": "celebration",
+      "kind": "word",
+      "zh": "n. 庆祝, 庆典",
+      "en": "n. a joyful occasion for special festivities to mark some happy event\nn. any joyous diversion\nn. the public performance of a sacrament or solemn ceremony with all appropriate ritual",
+      "phonetic": ".seli'breiʃәn",
+      "forms": [
+        "celebrations",
+        "celebration"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "enjoyable",
+      "headword": "enjoyable",
+      "kind": "word",
+      "zh": "a. 可从中得到乐趣的, 令人愉快的",
+      "en": "s. affording satisfaction or pleasure",
+      "phonetic": "in'dʒɒiәbl",
+      "forms": [
+        "enjoyable"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "aware",
+      "headword": "aware",
+      "kind": "word",
+      "zh": "a. 知道的, 有觉悟的",
+      "en": "a. (sometimes followed by `of') having or showing knowledge or understanding or realization or perception",
+      "phonetic": "ә'wєә",
+      "forms": [
+        "aware"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "economists",
+      "headword": "economist",
+      "kind": "word",
+      "zh": "n. 经济学者, 经济家\n[经] 经济学家",
+      "en": "n. an expert in the science of economics",
+      "phonetic": "i:'kɒnәmist",
+      "forms": [
+        "economists"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost. Economists call this a “negative externality”. A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction. Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife. As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "negative",
+      "headword": "negative",
+      "kind": "word",
+      "zh": "n. 否定, 否定语, 负数, 底片\na. 否定的, 消极的, 负的, 阴性的\nn. 负数, 负值\n[计] 负数, 负值",
+      "en": "n. a reply of denial\nn. a piece of photographic film showing an image with light and shade or colors reversed\na. characterized by or displaying negation or denial or opposition or resistance; having no positive features\na. expressing or consisting of a negation or refusal or denial",
+      "phonetic": "'negәtiv",
+      "forms": [
+        "negative"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost. Economists call this a “negative externality”. A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction. Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife. As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "negative externality",
+      "headword": "negative externality",
+      "kind": "phrase",
+      "zh": "负外部性",
+      "en": "a cost imposed on people outside a transaction",
+      "forms": [
+        "negative externality"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost. Economists call this a “negative externality”. A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction. Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife. As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v19",
+      "term": "externality",
+      "headword": "externality",
+      "kind": "word",
+      "zh": "n. 外形, 外在性",
+      "en": "n the quality or state of being outside or directed toward or relating to the outside or exterior",
+      "phonetic": ".ekstә:'næliti",
+      "forms": [
+        "externality"
+      ],
+      "example": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost. Economists call this a “negative externality”. A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction. Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife. As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "purchase",
+      "headword": "purchase",
+      "kind": "word",
+      "zh": "n. 购买, 购买品, 紧握, 绞辘\nvt. 购买, 赢得, 努力取得, 用滑轮起(锚等)",
+      "en": "n. the acquisition of something for payment\nn. something acquired by purchase\nn. a means of exerting influence or gaining advantage",
+      "phonetic": "'pә:tʃәs",
+      "forms": [
+        "purchase"
+      ],
+      "example": "A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "buyer",
+      "headword": "buyer",
+      "kind": "word",
+      "zh": "n. 买主, 买方\n[经] 买主, 买方, 买手",
+      "en": "n. a person who buys",
+      "phonetic": "'baiә",
+      "forms": [
+        "buyer"
+      ],
+      "example": "A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "seller",
+      "headword": "seller",
+      "kind": "word",
+      "zh": "n. 销售者\n[化] 卖方",
+      "en": "n. someone who promotes or exchanges goods or services for money",
+      "phonetic": "'selә",
+      "forms": [
+        "seller"
+      ],
+      "example": "A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "transaction",
+      "headword": "transaction",
+      "kind": "word",
+      "zh": "n. 交易, 办理, 学报, 和解协议\n[计] 事务处理",
+      "en": "n. the act of transacting within or between groups (as carrying on commercial activities)",
+      "phonetic": "træn'sækʃәn",
+      "forms": [
+        "transaction"
+      ],
+      "example": "A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "visible",
+      "headword": "visible",
+      "kind": "word",
+      "zh": "a. 看得见的, 明显的, 显然的\nn. 可见物",
+      "en": "a. capable of being seen; or open to easy view\ns. obvious to the eye\ns. present and easily available",
+      "phonetic": "'vizәbl",
+      "forms": [
+        "visible"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "enjoyment",
+      "headword": "enjoyment",
+      "kind": "word",
+      "zh": "n. 享乐, 快乐, 享受\n[经] 使用权",
+      "en": "n. the pleasure felt when having a good time\nn. act of receiving pleasure from something",
+      "phonetic": "in'dʒɒimәnt",
+      "forms": [
+        "enjoyment"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "concentrated",
+      "headword": "concentrate",
+      "kind": "word",
+      "zh": "n. 浓缩, 精选\nv. 集中, 专心",
+      "en": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something",
+      "phonetic": "'kɒnsәntreit",
+      "forms": [
+        "concentrated"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "consequences",
+      "headword": "consequence",
+      "kind": "word",
+      "zh": "n. 结果, 重要性\n[法] 结果, 后果, 推断",
+      "en": "n. a phenomenon that follows and is caused by some previous phenomenon\nn. the outcome of an event especially as relative to an individual\nn. having important effects or influence",
+      "phonetic": "'kɒnsikwәns",
+      "forms": [
+        "consequences"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "spread",
+      "headword": "spread",
+      "kind": "word",
+      "zh": "n. 传播, 散布, 伸展\na. 双唇展开的, 伸展的\nvt. 展开, 铺开, 传播, 推广, 伸出, 涂, 敷, 延伸\nvi. 展开, 扩大, 传开, 延伸\n[计] 展开",
+      "en": "n. process or result of distributing or extending over a wide expanse of space\nn. a tasty mixture to be spread on bread or crackers or used in preparing other dishes\nn. two facing pages of a book or other publication\nn. the expansion of a person's girth (especially at middle age)",
+      "phonetic": "spred",
+      "forms": [
+        "spread"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "households",
+      "headword": "household",
+      "kind": "word",
+      "zh": "n. 一家人, 家庭, 家族, 王室\na. 家庭的, 家常的, 王室的",
+      "en": "n a social unit living together",
+      "phonetic": "'haushәuld",
+      "forms": [
+        "households"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "wildlife",
+      "headword": "wildlife",
+      "kind": "word",
+      "zh": "n. 野生动植物",
+      "en": "n. all living things (except people) that are undomesticated",
+      "phonetic": "'waildlaif",
+      "forms": [
+        "wildlife"
+      ],
+      "example": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "finance",
+      "headword": "finance",
+      "kind": "word",
+      "zh": "n. 财政, 财务\nvt. 供给...经费, 负担经费\nvi. 筹措资金",
+      "en": "n. the commercial activity of providing funds and capital\nn. the branch of economics that studies the management of money and other assets\nn. the management of money and credit and banking and investments\nv. obtain or provide money for",
+      "phonetic": "fai'næns",
+      "forms": [
+        "finance"
+      ],
+      "example": "As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "overlooked",
+      "headword": "overlook",
+      "kind": "word",
+      "zh": "vt. 俯瞰, 远眺, 没注意到\nn. 眺望, 俯瞰到的景色",
+      "en": "n. a high place affording a good view\nv. look past, fail to notice\nv. watch over",
+      "phonetic": ".әuvә'luk",
+      "forms": [
+        "overlooked"
+      ],
+      "example": "As a finance researcher, I think this concept is overlooked in the fireworks debate.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "injuries",
+      "headword": "injury",
+      "kind": "word",
+      "zh": "n. 伤害, 侮辱\n[医] 伤, 损伤",
+      "en": "n. any physical damage to the body caused by violence or accident or fracture etc.\nn. an accident that results in physical damage or hurt\nn. an act that causes someone or something to receive physical damage\nn. wrongdoing that violates another's rights and is unjustly inflicted",
+      "phonetic": "'indʒәri",
+      "forms": [
+        "injuries"
+      ],
+      "example": "Preventing such injuries may not cut the NHS budget, but it can free clinical time for other patients.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "admissions",
+      "headword": "admission",
+      "kind": "word",
+      "zh": "n. 准许进入, 入场费, 录用, 承认\n[经] 加入, 入股",
+      "en": "n. the act of admitting someone to enter\nn. an acknowledgment of the truth of something",
+      "phonetic": "әd'miʃәn",
+      "forms": [
+        "admissions",
+        "admission"
+      ],
+      "example": "Figures show that 123 hospital admissions in England attributed to fireworks in 2024–25.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "attributed",
+      "headword": "attribute",
+      "kind": "word",
+      "zh": "n. 属性, 标志, 定语\nvt. 把...归于, 认为...属于\n[计] 属性",
+      "en": "n. an abstraction belonging to or characteristic of an entity",
+      "phonetic": "ә'tribju:t",
+      "forms": [
+        "attributed"
+      ],
+      "example": "Figures show that 123 hospital admissions in England attributed to fireworks in 2024–25.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "count",
+      "headword": "count",
+      "kind": "word",
+      "zh": "vt. 计算, 视为\nvi. 计数\nn. 计算, 合计, 计数, 伯爵\n[计] 计数",
+      "en": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of",
+      "phonetic": "kaunt",
+      "forms": [
+        "count"
+      ],
+      "example": "That is not a count of everyone injured: cases treated without hospital admission are excluded.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "injured",
+      "headword": "injure",
+      "kind": "word",
+      "zh": "vt. 伤害, 损害, 使受冤屈\n[医] 损伤",
+      "en": "v. cause injuries or bodily harm to",
+      "phonetic": "'indʒә",
+      "forms": [
+        "injured"
+      ],
+      "example": "That is not a count of everyone injured: cases treated without hospital admission are excluded.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "excluded",
+      "headword": "exclude",
+      "kind": "word",
+      "zh": "vt. 除外, 排除, 排斥\n[医] 除外(诊断)",
+      "en": "v. prevent from being included or considered or accepted\nv. prevent from entering; shut out\nv. lack or fail to include",
+      "phonetic": "iks'klu:d",
+      "forms": [
+        "excluded"
+      ],
+      "example": "That is not a count of everyone injured: cases treated without hospital admission are excluded.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "clinical",
+      "headword": "clinical",
+      "kind": "word",
+      "zh": "a. 临床的, 门诊部的\n[医] 临床的, 临证的",
+      "en": "a. relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients\ns. scientifically detached; unemotional",
+      "phonetic": "'klinikәl",
+      "forms": [
+        "clinical"
+      ],
+      "example": "Preventing such injuries may not cut the NHS budget, but it can free clinical time for other patients.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "overstretched",
+      "headword": "overstretch",
+      "kind": "word",
+      "zh": "vt 延伸过长",
+      "en": "v strain abnormally",
+      "phonetic": "'әuvә'stretʃ",
+      "forms": [
+        "overstretched"
+      ],
+      "example": "In an overstretched health service, that is an economic benefit even if it never appears as a saving in the Treasury’s accounts.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "economic",
+      "headword": "economic",
+      "kind": "word",
+      "zh": "a. 经济上的, 实用的, 节省的\n[经] 经济的",
+      "en": "a. of or relating to an economy, the system of production and management of material wealth\na. of or relating to the science of economics\ns. using the minimum of time or resources necessary for effectiveness\ns. concerned with worldly necessities of life (especially money)",
+      "phonetic": ".i:kә'nɒmik",
+      "forms": [
+        "economic"
+      ],
+      "example": "In an overstretched health service, that is an economic benefit even if it never appears as a saving in the Treasury’s accounts.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "pollution",
+      "headword": "pollution",
+      "kind": "word",
+      "zh": "n. 污染, 玷污\n[化] 污染",
+      "en": "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities",
+      "phonetic": "pә'lu:ʃәn",
+      "forms": [
+        "pollution"
+      ],
+      "example": "Treating avoidable injuries and clearing pollution may involve paid work without making society better off.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "unpriced",
+      "headword": "unpriced",
+      "kind": "word",
+      "zh": "a. 未定价的, 未标价的, 贵重的",
+      "en": "a. Not priced; being without a fixed or certain value; also,\n   priceless.",
+      "phonetic": ".ʌn'praist",
+      "forms": [
+        "unpriced"
+      ],
+      "example": "Pollution creates another unpriced cost. The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses. The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation. This is not a figure for fireworks: calculating that would require information about their emissions and who is exposed. It does show why a product can have an environmental cost that never appears on its receipt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "monitoring",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitoring"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "short-lived",
+      "headword": "short-lived",
+      "kind": "word",
+      "zh": "a. 短命的, 短暂的\n[经] 短暂的",
+      "en": "s lasting a very short time",
+      "phonetic": "",
+      "forms": [
+        "short-lived"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "spikes",
+      "headword": "spike",
+      "kind": "word",
+      "zh": "n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗\nvt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用\n[计] 尖峰信号",
+      "en": "n. a transient variation in voltage or current\nn. sports equipment consisting of a sharp point on the sole of a shoe worn by athletes\nn. (botany) an indeterminate inflorescence bearing sessile flowers on an unbranched axis\nn. a sharp rise followed by a sharp decline",
+      "phonetic": "spaik",
+      "forms": [
+        "spikes"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "particles",
+      "headword": "particle",
+      "kind": "word",
+      "zh": "n. 颗粒, 粒子, 质点, 极小量\n[化] 粒子; 质点",
+      "en": "n. a body having finite mass and internal structure but negligible dimensions\nn. a function word that can be used in English to form phrasal verbs",
+      "phonetic": "'pɑ:tikl",
+      "forms": [
+        "particles"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "contribute",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contribute"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "disperses",
+      "headword": "disperse",
+      "kind": "word",
+      "zh": "vt. 分散, 传播, 散开\nvi. 分散\na. 分散的\n[计] 分散",
+      "en": "v. to cause to separate and go in different directions\nv. move away from each other; \nv. separate (light) into spectral rays",
+      "phonetic": "dis'pә:s",
+      "forms": [
+        "disperses"
+      ],
+      "example": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "rural",
+      "headword": "rural",
+      "kind": "word",
+      "zh": "a. 乡下的, 田园的, 乡村风味的\n[法] 农村的, 乡村的, 有关农业的",
+      "en": "a. living in or characteristic of farming or country life\na. of or relating to the countryside as opposed to the city",
+      "phonetic": "'ruәrәl",
+      "forms": [
+        "rural"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "affairs",
+      "headword": "affair",
+      "kind": "word",
+      "zh": "n. 事件, 事务, 恋爱事件",
+      "en": "n. a usually secretive or illicit sexual relationship\nn. a vaguely specified social event",
+      "phonetic": "ә'fєә",
+      "forms": [
+        "affairs"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "assigns",
+      "headword": "assign",
+      "kind": "word",
+      "zh": "vt. 分配, 指派, 赋值\n[计] 赋值",
+      "en": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme",
+      "phonetic": "ә'sain",
+      "forms": [
+        "assigns"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "estimated",
+      "headword": "estimate",
+      "kind": "word",
+      "zh": "n. 估计, 判断\nvt. 估计, 评价, 判断\nvi. 估计",
+      "en": "n. an approximate calculation of quantity or degree or worth\nn. a judgment of the qualities of something or somebody\nn. a statement indicating the likely cost of some job\nn. the respect with which a person is held",
+      "phonetic": "'estimeit",
+      "forms": [
+        "estimated",
+        "estimates"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "tonne",
+      "headword": "tonne",
+      "kind": "word",
+      "zh": "n. 吨, 公吨\n[经] 吨",
+      "en": "n a unit of weight equivalent to 1000 kilograms",
+      "phonetic": "tʌn",
+      "forms": [
+        "tonne"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "particulate",
+      "headword": "particulate",
+      "kind": "word",
+      "zh": "n. 微粒\na. 微粒的",
+      "en": "n. a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid emissions (usually considered to be an atmospheric pollutant)\na. composed of distinct particles",
+      "phonetic": "pә'tikjulit",
+      "forms": [
+        "particulate"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "emissions",
+      "headword": "emission",
+      "kind": "word",
+      "zh": "n. 发射, 射出, 发行\n[医] 发射, 遗精",
+      "en": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)",
+      "phonetic": "i'miʃәn",
+      "forms": [
+        "emissions"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "expressed",
+      "headword": "express",
+      "kind": "word",
+      "zh": "n. 快车, 快递, 专使\na. 明确的, 丝毫不差的, 专门的, 快的\nvt. 表达, 表示, 表露",
+      "en": "n. mail that is distributed by a rapid and efficient system\nn. public transport consisting of a fast train or bus that makes only a few scheduled stops\nn. rapid transport of goods\nv. give expression to",
+      "phonetic": "ik'spres",
+      "forms": [
+        "expressed"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "account for",
+      "headword": "account for",
+      "kind": "phrase",
+      "zh": "解释；占……比例",
+      "en": "to explain something or constitute a proportion",
+      "forms": [
+        "account for"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v61",
+      "term": "inflation",
+      "headword": "inflation",
+      "kind": "word",
+      "zh": "n. 胀大, 夸张, 通货膨胀\n[化] 充气吹胀; 膨胀",
+      "en": "n. a general and progressive increase in prices\nn. (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang\nn. the act of filling something with air",
+      "phonetic": "in'fleiʃәn",
+      "forms": [
+        "inflation"
+      ],
+      "example": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "calculating",
+      "headword": "calculate",
+      "kind": "word",
+      "zh": "v. 计算, 预测, 计划, 打算",
+      "en": "v. make a mathematical calculation or computation\nv. judge to be probable\nv. specifically design a product, event, or activity for a certain public",
+      "phonetic": "'kælkjuleit",
+      "forms": [
+        "calculating",
+        "calculated"
+      ],
+      "example": "This is not a figure for fireworks: calculating that would require information about their emissions and who is exposed.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "exposed",
+      "headword": "expose",
+      "kind": "word",
+      "zh": "vt. 使暴露, 使曝光, 揭穿, 陈列\n[医] 暴露, 露置",
+      "en": "n. the exposure of an impostor or a fraud\nv. expose or make accessible to some action or influence\nv. to show, make visible or apparent\nv. expose to light, of photographic film",
+      "phonetic": "ik'spәuz",
+      "forms": [
+        "exposed"
+      ],
+      "example": "This is not a figure for fireworks: calculating that would require information about their emissions and who is exposed.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "environmental",
+      "headword": "environmental",
+      "kind": "word",
+      "zh": "a. 周围的, 环境的\n[经] 环境的, 环保的",
+      "en": "a. of or relating to the external conditions or surroundings\na. concerned with the ecological effects of altering the environment",
+      "phonetic": "in.vaiәrәn'mentәl",
+      "forms": [
+        "environmental"
+      ],
+      "example": "It does show why a product can have an environmental cost that never appears on its receipt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "receipt",
+      "headword": "receipt",
+      "kind": "word",
+      "zh": "n. 收据, 收入, 收到\nvt. 开...的收据",
+      "en": "n. an acknowledgment (usually tangible) that payment has been made\nv. mark or stamp as paid",
+      "phonetic": "ri'si:t",
+      "forms": [
+        "receipt",
+        "receipts"
+      ],
+      "example": "It does show why a product can have an environmental cost that never appears on its receipt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "belongs",
+      "headword": "belong",
+      "kind": "word",
+      "zh": "vi. 属于, 合适",
+      "en": "v. be owned by; be in the possession of\nv. be suitable or acceptable\nv. be in the right place or situation\nv. be rightly classified in a class or category",
+      "phonetic": "bi'lɒŋ",
+      "forms": [
+        "belongs"
+      ],
+      "example": "Nature belongs on the balance sheet",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "balance",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balance"
+      ],
+      "example": "Yet putting nature on an economic balance sheet requires care.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "sheet",
+      "headword": "sheet",
+      "kind": "word",
+      "zh": "n. 床单, 张, 纸张, 印刷品, 裹尸布, 薄片\nvt. 盖上被单, 遍布\nvi. 大片落下\na. 片状的, 成薄片的\n[计] 工作表",
+      "en": "n. any broad thin expanse or surface\nn. paper used for writing or printing\nn. bed linen consisting of a large rectangular piece of cotton or linen cloth; used in pairs\nn. a flat artifact that is thin relative to its length and width",
+      "phonetic": "ʃi:t",
+      "forms": [
+        "sheet"
+      ],
+      "example": "Yet putting nature on an economic balance sheet requires care.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "limited",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limited"
+      ],
+      "example": "The damage is not limited to human health.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "dutch",
+      "headword": "Dutch",
+      "kind": "word",
+      "zh": "n. 荷兰人, 荷兰语\na. 荷兰的",
+      "en": "n. the people of the Netherlands\nn. the West Germanic language of the Netherlands\na. of or relating to the Netherlands or its people or culture",
+      "phonetic": "dʌtʃ",
+      "forms": [
+        "dutch"
+      ],
+      "example": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "approximately",
+      "headword": "approximately",
+      "kind": "word",
+      "zh": "adv. 大约, 大致, 近于\n[经] 大约, 近似",
+      "en": "r. (of quantities) imprecise but fairly close to correct",
+      "phonetic": "ә'prɒksimәtli",
+      "forms": [
+        "approximately"
+      ],
+      "example": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "ordinary",
+      "headword": "ordinary",
+      "kind": "word",
+      "zh": "a. 平常的, 普通的, 平凡的\nn. 平常的人(或事)",
+      "en": "n. a judge of a probate court\nn. the expected or commonplace condition or situation\nn. a clergyman appointed to prepare condemned prisoners for death\nn. an early bicycle with a very large front wheel and small back wheel",
+      "phonetic": "'ɒ:dinәri",
+      "forms": [
+        "ordinary"
+      ],
+      "example": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "disruption",
+      "headword": "disruption",
+      "kind": "word",
+      "zh": "n. 分裂, 崩溃, 瓦解",
+      "en": "n. the act of causing disorder",
+      "phonetic": "dis'rʌpʃәn",
+      "forms": [
+        "disruption"
+      ],
+      "example": "The disruption extended several miles from the displays.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "extended",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extended"
+      ],
+      "example": "The disruption extended several miles from the displays.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "The exact scale cannot be transferred to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "scale",
+      "headword": "scale",
+      "kind": "word",
+      "zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢\nvt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤\nvi. 剥落, 生水垢, 重量为, 攀登, 衡量\n[计] 刻度",
+      "en": "n. an ordered reference standard\nn. relative magnitude\nn. the ratio between the size of something and a representation of it\nn. a specialized leaf or bract that protects a bud or catkin",
+      "phonetic": "skeil",
+      "forms": [
+        "scale"
+      ],
+      "example": "The exact scale cannot be transferred to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "transferred",
+      "headword": "transfer",
+      "kind": "word",
+      "zh": "n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车\nvt. 使转移, 调转, 调任, 改变, 传递, 转让\nvi. 转移, 转学, 转职, 换车\n[计] 传送",
+      "en": "n. someone who transfers or is transferred from one position to another\nn. the act of transfering something from one form to another\nn. a ticket that allows a passenger to change conveyances\nn. application of a skill learned in one situation to a different but similar situation",
+      "phonetic": "træns'fә:",
+      "forms": [
+        "transferred"
+      ],
+      "example": "The exact scale cannot be transferred to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "sudden",
+      "headword": "sudden",
+      "kind": "word",
+      "zh": "n. 突然, 忽然\na. 突然的, 意外的, 快速的",
+      "en": "a. happening without warning or in a short space of time",
+      "phonetic": "'sʌdn",
+      "forms": [
+        "sudden"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "flight",
+      "headword": "flight",
+      "kind": "word",
+      "zh": "n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝\nvi. 迁徙\nvt. 射击(飞禽), 为(箭)装上羽毛, 使惊飞",
+      "en": "n. a formation of aircraft in flight\nn. an instance of traveling by air\nn. a stairway (set of steps) between one floor or landing and the next\nn. an air force unit smaller than a squadron",
+      "phonetic": "flait",
+      "forms": [
+        "flight"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "expend",
+      "headword": "expend",
+      "kind": "word",
+      "zh": "vt. 花费, 消耗, 用光",
+      "en": "v use up, consume fully\nv pay out",
+      "phonetic": "ik'spend",
+      "forms": [
+        "expend"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "pets",
+      "headword": "pet",
+      "kind": "word",
+      "zh": "n. 宠物, 受宠爱的人, 宠坏的孩子, 不悦, 生气\na. 宠爱的, 表示亲昵的, 养着观赏的, 特别珍爱的, 格外的\nvt. 宠爱, 溺爱, 抚摸\nvi. 拥抱, 爱抚, 生气, 发脾气",
+      "en": "n. a domesticated animal kept for companionship or amusement\nn. a fit of petulance or sulkiness (especially at what is felt to be a slight)\nv. stroke or caress gently\nv. stroke or caress in an erotic manner, as during lovemaking",
+      "phonetic": "pet",
+      "forms": [
+        "pets"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest. Pets and livestock may also be distressed. Alongside noise and smoke, spent casings and other waste leave a physical footprint. Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "livestock",
+      "headword": "livestock",
+      "kind": "word",
+      "zh": "n. 家畜\n[经] 牲畜, 家畜",
+      "en": "n. any animals kept for use or profit",
+      "phonetic": "'laivstɒk",
+      "forms": [
+        "livestock"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest. Pets and livestock may also be distressed. Alongside noise and smoke, spent casings and other waste leave a physical footprint. Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "distressed",
+      "headword": "distress",
+      "kind": "word",
+      "zh": "n. 苦恼, 贫困, 痛苦\nvt. 使苦恼\na. 亏本出售的",
+      "en": "n. psychological suffering\nn. a state of adversity (danger or affliction or need)\nn. extreme physical pain\nn. the seizure and holding of property as security for payment of a debt or satisfaction of a claim",
+      "phonetic": "di'stres",
+      "forms": [
+        "distressed"
+      ],
+      "example": "Birds forced into sudden flight expend energy and lose opportunities to rest. Pets and livestock may also be distressed. Alongside noise and smoke, spent casings and other waste leave a physical footprint. Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "noise",
+      "headword": "noise",
+      "kind": "word",
+      "zh": "n. 噪音, 杂音, 响声, 喧闹\nvt. 谣传\nvi. 喧闹\n[计] 噪声",
+      "en": "n. sound of any kind (especially unintelligible or dissonant sound)\nn. the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience\nn. electrical or acoustic activity that can disturb communication\nn. a loud outcry of protest or complaint",
+      "phonetic": "nɒiz",
+      "forms": [
+        "noise"
+      ],
+      "example": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "casings",
+      "headword": "casings",
+      "kind": "word",
+      "zh": "n. 框( casing的名词复数 ); 壳; 罩; 套",
+      "en": "n. pl. Dried dung of cattle used as fuel.",
+      "phonetic": "'keɪsɪŋz",
+      "forms": [
+        "casings"
+      ],
+      "example": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "waste",
+      "headword": "waste",
+      "kind": "word",
+      "zh": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\na. 废弃的, 荒芜的, 多余的\nvt. 浪费, 消耗, 使荒芜\nvi. 浪费, 消耗, 变消瘦",
+      "en": "n. any materials unused and rejected as worthless or unwanted\nn. useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\nn. (law) reduction in the value of an estate caused by act or neglect\nv. spend thoughtlessly; throw away",
+      "phonetic": "weist",
+      "forms": [
+        "waste"
+      ],
+      "example": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "footprint",
+      "headword": "footprint",
+      "kind": "word",
+      "zh": "n. 足迹\n[计] 印迹",
+      "en": "n. a mark of a foot or shoe on a surface\nn. a trace suggesting that something was once present or felt or otherwise important\nn. the area taken up by some object",
+      "phonetic": "'futprint",
+      "forms": [
+        "footprint"
+      ],
+      "example": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "sustainability",
+      "headword": "sustainability",
+      "kind": "word",
+      "zh": "n. 持续性, 能维持性, 永续性",
+      "en": "n. the property of being sustainable",
+      "phonetic": "sə,stenə'bɪlɪti",
+      "forms": [
+        "sustainability"
+      ],
+      "example": "Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "carbon",
+      "headword": "carbon",
+      "kind": "word",
+      "zh": "n. 碳, 副本, 复写纸\n[化] 碳",
+      "en": "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\nn. a copy made with carbon paper",
+      "phonetic": "'kɑ:bәn",
+      "forms": [
+        "carbon"
+      ],
+      "example": "Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "emits",
+      "headword": "emit",
+      "kind": "word",
+      "zh": "vt. 发出, 放射, 发表(意见等), 散发, 发行\n[化] 放射",
+      "en": "v. expel (gases or odors)\nv. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",
+      "phonetic": "i'mit",
+      "forms": [
+        "emits"
+      ],
+      "example": "Sustainability means considering these effects, not simply asking how much carbon a celebration emits.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "putting",
+      "headword": "putt",
+      "kind": "word",
+      "zh": "vt. 击球入洞\nvi. 轻击高尔夫球\nn. 轻轻一击(入洞)",
+      "en": "n. hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\"\nv. strike (a golf ball) lightly, with a putter\nv. hit a putt",
+      "phonetic": "pʌt",
+      "forms": [
+        "putting"
+      ],
+      "example": "Yet putting nature on an economic balance sheet requires care.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "ecosystems",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystems"
+      ],
+      "example": "The value of healthy ecosystems is real, but we should not invent a monetary figure for fireworks-related wildlife damage when credible national estimates are lacking.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "invent",
+      "headword": "invent",
+      "kind": "word",
+      "zh": "vt. 发明, 创作, 虚构\n[机] 发明",
+      "en": "v. come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+      "phonetic": "in'vent",
+      "forms": [
+        "invent"
+      ],
+      "example": "The value of healthy ecosystems is real, but we should not invent a monetary figure for fireworks-related wildlife damage when credible national estimates are lacking.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "monetary",
+      "headword": "monetary",
+      "kind": "word",
+      "zh": "a. 货币的, 金钱的\n[经] 货币的, 金融的",
+      "en": "a. relating to or involving money",
+      "phonetic": "'mʌnitәri",
+      "forms": [
+        "monetary"
+      ],
+      "example": "The value of healthy ecosystems is real, but we should not invent a monetary figure for fireworks-related wildlife damage when credible national estimates are lacking.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "credible",
+      "headword": "credible",
+      "kind": "word",
+      "zh": "a. 可信的, 可靠的\n[法] 可信的, 可靠的",
+      "en": "a. capable of being believed\ns. (a common but incorrect usage where `credulous' would be appropriate) credulous\ns. appearing to merit belief or acceptance",
+      "phonetic": "'kredәbl",
+      "forms": [
+        "credible"
+      ],
+      "example": "The value of healthy ecosystems is real, but we should not invent a monetary figure for fireworks-related wildlife damage when credible national estimates are lacking.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "lacking",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lacking"
+      ],
+      "example": "The value of healthy ecosystems is real, but we should not invent a monetary figure for fireworks-related wildlife damage when credible national estimates are lacking.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "quantified",
+      "headword": "quantify",
+      "kind": "word",
+      "zh": "vt. 定量, 用数量表示, 测量",
+      "en": "v. use as a quantifier\nv. express as a number or measure or quantity",
+      "phonetic": "'kwɒntifai",
+      "forms": [
+        "quantified"
+      ],
+      "example": "Some effects can be quantified; others must still inform decisions even without an exact price.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "inform",
+      "headword": "inform",
+      "kind": "word",
+      "zh": "vt. 通知, 使了解, 使充满\nvi. 提供资料, 告发",
+      "en": "v. impart knowledge of some fact, state or affairs, or event to\nv. give character or essence to\nv. act as an informer",
+      "phonetic": "in'fɒ:m",
+      "forms": [
+        "inform"
+      ],
+      "example": "Some effects can be quantified; others must still inform decisions even without an exact price.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "retailers",
+      "headword": "retailer",
+      "kind": "word",
+      "zh": "n. 零售商人, 传播的人\n[经] 零售商",
+      "en": "n. a merchant who sells goods at retail",
+      "phonetic": "'ri:teilә",
+      "forms": [
+        "retailers"
+      ],
+      "example": "They support retailers, display organisers and cultural celebrations, including Bonfire Night, Diwali and New Year.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "organisers",
+      "headword": "organiser",
+      "kind": "word",
+      "zh": "[经] 组织者, 创立人, 发起人",
+      "en": "n someone who enlists workers to join a union\nn a person who brings order and organization to an enterprise\nn a lightweight consumer electronic device that looks like a hand-held computer but instead performs specific tasks; can serve as a diary or a personal database or a telephone or an alarm clock etc.",
+      "phonetic": "",
+      "forms": [
+        "organisers"
+      ],
+      "example": "They support retailers, display organisers and cultural celebrations, including Bonfire Night, Diwali and New Year.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "consultation",
+      "headword": "consultation",
+      "kind": "word",
+      "zh": "n. 请教, 咨询, 磋商会\n[医] 会诊",
+      "en": "n. a conference (usually with someone important)\nn. a conference between two or more people to consider a particular question",
+      "phonetic": ".kɒnsәl'teiʃәn",
+      "forms": [
+        "consultation"
+      ],
+      "example": "The UK government’s 2026 consultation reports that fireworks imports averaged £27 million a year from 2021 to 2024.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "imports",
+      "headword": "import",
+      "kind": "word",
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性\nvt. 输入, 引入, 进口, 含...的意思, 重要\nvi. 有关系\n[计] 引入",
+      "en": "n. commodities (goods or services) bought from a foreign country\nn. an imported person brought from a foreign country\nv. bring in from abroad\nv. transfer (electronic data) into a database or document",
+      "phonetic": "im'pɒ:t",
+      "forms": [
+        "imports"
+      ],
+      "example": "The UK government’s 2026 consultation reports that fireworks imports averaged £27 million a year from 2021 to 2024.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "averaged",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "averaged"
+      ],
+      "example": "The UK government’s 2026 consultation reports that fireworks imports averaged £27 million a year from 2021 to 2024.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "sales",
+      "headword": "sales",
+      "kind": "word",
+      "zh": "a. 销售的\n[计] 销售",
+      "en": "n income (at invoice values) received for goods and services over some given period of time\nn a particular instance of selling\nn the general activity of selling\nn an occasion (usually brief) for buying at specially reduced prices\nn the state of being purchasable; offered or exhibited for selling\nn an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer)",
+      "phonetic": "",
+      "forms": [
+        "sales"
+      ],
+      "example": "That is the value of imports, not total industry sales and certainly not what Britain would save by banning them.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "banning",
+      "headword": "ban",
+      "kind": "word",
+      "zh": "n. 禁令\nvt. 禁止, 取缔",
+      "en": "n. 100 bani equal 1 leu in Moldova\nn. 100 bani equal 1 leu in Romania\nn. an official prohibition or edict against something\nv. forbid the public distribution of ( a movie or a newspaper)",
+      "phonetic": "bæn",
+      "forms": [
+        "banning"
+      ],
+      "example": "That is the value of imports, not total industry sales and certainly not what Britain would save by banning them.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "If households bought fewer fireworks, they might spend on a local community event, food or another kind of entertainment instead.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "entertainment",
+      "headword": "entertainment",
+      "kind": "word",
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "en": "n. an activity that is diverting and that holds the attention",
+      "phonetic": ".entә'teinmәnt",
+      "forms": [
+        "entertainment"
+      ],
+      "example": "If households bought fewer fireworks, they might spend on a local community event, food or another kind of entertainment instead.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "equally",
+      "headword": "equally",
+      "kind": "word",
+      "zh": "adv. 相等地, 同样地, 平等地",
+      "en": "r. to the same degree (often followed by `as')",
+      "phonetic": "'i:kwәli",
+      "forms": [
+        "equally"
+      ],
+      "example": "If households bought fewer fireworks, they might spend on a local community event, food or another kind of entertainment instead. They might equally save the money. There is no basis for promising that fewer fireworks would automatically increase jobs, GDP or tax receipts.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "basis",
+      "headword": "basis",
+      "kind": "word",
+      "zh": "n. 基础, 主要成分\n[化] 基底",
+      "en": "n. the fundamental assumptions from which something is begun or developed or calculated or explained\nn. the most important or necessary part of something",
+      "phonetic": "'beisis",
+      "forms": [
+        "basis"
+      ],
+      "example": "There is no basis for promising that fewer fireworks would automatically increase jobs, GDP or tax receipts.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "promising",
+      "headword": "promise",
+      "kind": "word",
+      "zh": "n. 诺言, 约定的事情, 有指望\nvt. 允诺, 约定, 预示\nvi. 允诺, 有前途, 有指望",
+      "en": "n. a verbal commitment by one person to another agreeing to do (or not to do) something in the future\nn. grounds for feeling hopeful about the future\nv. make a promise or commitment\nv. promise to undertake or give",
+      "phonetic": "'prɒmis",
+      "forms": [
+        "promising"
+      ],
+      "example": "There is no basis for promising that fewer fireworks would automatically increase jobs, GDP or tax receipts.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "automatically",
+      "headword": "automatically",
+      "kind": "word",
+      "zh": "adv. 自动地, 机械地",
+      "en": "r. in a reflex manner",
+      "phonetic": ".ɒ:tә'mætikli",
+      "forms": [
+        "automatically"
+      ],
+      "example": "There is no basis for promising that fewer fireworks would automatically increase jobs, GDP or tax receipts.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "wellbeing",
+      "headword": "wellbeing",
+      "kind": "word",
+      "zh": "n. 健康, 幸福, 福利, 舒适, 安宁",
+      "en": "n. a contented state of being happy and healthy and prosperous",
+      "phonetic": "",
+      "forms": [
+        "wellbeing"
+      ],
+      "example": "But GDP and wellbeing are not the same thing.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "avoidable",
+      "headword": "avoidable",
+      "kind": "word",
+      "zh": "a. 可避免的\n[法] 可作为无效的, 可回避的, 可避免的",
+      "en": "a capable of being avoided or warded off",
+      "phonetic": "ә'vɒidәbl",
+      "forms": [
+        "avoidable"
+      ],
+      "example": "Treating avoidable injuries and clearing pollution may involve paid work without making society better off.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "relevant",
+      "headword": "relevant",
+      "kind": "word",
+      "zh": "a. 有关联的, 有关系的, 适当的, 相应的\n[法] 有关的, 相关的",
+      "en": "a. having a bearing on or connection with the subject at issue",
+      "phonetic": "'relivәnt",
+      "forms": [
+        "relevant"
+      ],
+      "example": "The relevant comparison is between the enjoyment fireworks provide and the harm, resources and opportunities their use consumes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "comparison",
+      "headword": "comparison",
+      "kind": "word",
+      "zh": "n. 比较, 对照, 比喻\n[经] 比较, 对比",
+      "en": "n. the act of examining resemblances\nn. relation based on similarities and differences\nn. qualities that are comparable",
+      "phonetic": "kәm'pærisn",
+      "forms": [
+        "comparison"
+      ],
+      "example": "The relevant comparison is between the enjoyment fireworks provide and the harm, resources and opportunities their use consumes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "provide",
+      "headword": "provide",
+      "kind": "word",
+      "zh": "vt. 提供, 供应, 规定, 预备\nvi. 作准备, 抚养, 规定",
+      "en": "v. give what is desired or needed, especially support, food or sustenance\nv. determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation\nv. supply means of subsistence; earn a living\nv. take measures in preparation for",
+      "phonetic": "prә'vaid",
+      "forms": [
+        "provide"
+      ],
+      "example": "The relevant comparison is between the enjoyment fireworks provide and the harm, resources and opportunities their use consumes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "harm",
+      "headword": "harm",
+      "kind": "word",
+      "zh": "n. 伤害, 害处\nvt. 伤害, 损害",
+      "en": "v. cause or do harm to",
+      "phonetic": "hɑ:m",
+      "forms": [
+        "harm"
+      ],
+      "example": "The relevant comparison is between the enjoyment fireworks provide and the harm, resources and opportunities their use consumes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "consumes",
+      "headword": "consume",
+      "kind": "word",
+      "zh": "vt. 消耗, 消费, 消灭\nvi. 耗尽, 毁灭",
+      "en": "v. serve oneself to, or consume regularly\nv. spend extravagantly\nv. destroy completely\nv. use up (resources or materials)",
+      "phonetic": "kәn'sju:m",
+      "forms": [
+        "consumes"
+      ],
+      "example": "The relevant comparison is between the enjoyment fireworks provide and the harm, resources and opportunities their use consumes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "The practical question is not simply whether to completely ban fireworks and take the joy out of Bonfire Night.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "launches",
+      "headword": "launch",
+      "kind": "word",
+      "zh": "n. 下水, 汽艇, 发射\nvt. 使下水, 发射, 发动\nvi. 起飞, 下水, 投入, 开始",
+      "en": "n. a motorboat with an open deck or a half deck\nv. propel with force\nv. launch for the first time; launch on a maiden voyage\nv. get going; give impetus to",
+      "phonetic": "lɒ:ntʃ",
+      "forms": [
+        "launches"
+      ],
+      "example": "Organised displays, fewer private launches, predictable timings and wildlife-sensitive locations could change that balance.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "predictable",
+      "headword": "predictable",
+      "kind": "word",
+      "zh": "a. 可预言的",
+      "en": "a. capable of being foretold",
+      "phonetic": "pri'diktәbl",
+      "forms": [
+        "predictable"
+      ],
+      "example": "Organised displays, fewer private launches, predictable timings and wildlife-sensitive locations could change that balance.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "timings",
+      "headword": "timings",
+      "kind": "word",
+      "zh": "n. 时间控制；时间安排；[计量] 计时（timing的复数）",
+      "en": "n. the time when something happens\nn. the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "phonetic": "",
+      "forms": [
+        "timings"
+      ],
+      "example": "Organised displays, fewer private launches, predictable timings and wildlife-sensitive locations could change that balance.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations"
+      ],
+      "example": "Organised displays, fewer private launches, predictable timings and wildlife-sensitive locations could change that balance.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "drone",
+      "headword": "drone",
+      "kind": "word",
+      "zh": "n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船)\nvi. 嗡嗡作声, 混日子\nvt. 低沉地说",
+      "en": "n. stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen\nn. an aircraft without a pilot that is operated by remote control\nn. a pipe of the bagpipe that is tuned to produce a single continuous tone\nv. make a monotonous low dull sound",
+      "phonetic": "drәun",
+      "forms": [
+        "drone"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "laser",
+      "headword": "laser",
+      "kind": "word",
+      "zh": "n. 激光\n[计] 激光器",
+      "en": "n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light",
+      "phonetic": "'leizә",
+      "forms": [
+        "laser"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "alternatives",
+      "headword": "alternative",
+      "kind": "word",
+      "zh": "n. 两者择一, 供替代的选择\na. 两者择一的, 供选择的\n[计] 选择对象",
+      "en": "s. necessitating a choice between mutually exclusive possibilities\ns. pertaining to unconventional choices",
+      "phonetic": "ɒ:l'tә:nәtiv",
+      "forms": [
+        "alternatives"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "electricity",
+      "headword": "electricity",
+      "kind": "word",
+      "zh": "n. 电, 电流, 电学, 热情, 电力供应\n[化] 电学; 电",
+      "en": "n. a physical phenomenon associated with stationary or moving electrons and protons\nn. energy made available by the flow of electric charge through a conductor\nn. keen and shared excitement",
+      "phonetic": ".ilek'trisiti",
+      "forms": [
+        "electricity"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "equipment",
+      "headword": "equipment",
+      "kind": "word",
+      "zh": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置",
+      "en": "n. an instrumentality needed for an undertaking or to perform a service",
+      "phonetic": "i'kwipmәnt",
+      "forms": [
+        "equipment"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "assessed",
+      "headword": "assess",
+      "kind": "word",
+      "zh": "vt. 估定, 对...征税, 评定\n[经] 估计, 估价, 确定(税款罚款等)的金额",
+      "en": "v. charge (a person or a property) with a payment, such as a tax or a fine\nv. estimate the value of (property) for taxation",
+      "phonetic": "ә'ses",
+      "forms": [
+        "assessed",
+        "assess"
+      ],
+      "example": "Drone and laser shows might offer alternatives, but they also require electricity and equipment; their sustainability should be assessed, not assumed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "timely",
+      "headword": "timely",
+      "kind": "word",
+      "zh": "a. 及时的, 适时的\nadv. 及时地",
+      "en": "s. before a time limit expires\ns. done or happening at the appropriate or proper time",
+      "phonetic": "'taili",
+      "forms": [
+        "timely"
+      ],
+      "example": "This is especially timely. The government’s fireworks consultation closed in October 2026 after receiving more than 140,000 responses from members of the public, businesses, charities and other stakeholders.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "charities",
+      "headword": "charity",
+      "kind": "word",
+      "zh": "n. 慈悲, 博爱, 慈善团体, 施舍\n[法] 宽大, 宽恕, 慈善机关",
+      "en": "n. a foundation created to promote the public good (not for assistance to any particular individuals)\nn. a kindly and lenient attitude toward people\nn. an activity or gift that benefits the public at large\nn. an institution set up to provide help to the needy",
+      "phonetic": "'tʃæriti",
+      "forms": [
+        "charities"
+      ],
+      "example": "The government’s fireworks consultation closed in October 2026 after receiving more than 140,000 responses from members of the public, businesses, charities and other stakeholders.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "stakeholders",
+      "headword": "stakeholder",
+      "kind": "word",
+      "zh": "n. 赌金保管者\n[法] 赌款保存人, 保存保证金的人",
+      "en": "n. someone entrusted to hold the stakes for two or more persons betting against one another; must deliver the stakes to the winner",
+      "phonetic": "'steikhәuldә",
+      "forms": [
+        "stakeholders"
+      ],
+      "example": "The government’s fireworks consultation closed in October 2026 after receiving more than 140,000 responses from members of the public, businesses, charities and other stakeholders.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "policymakers",
+      "headword": "policymaker",
+      "kind": "word",
+      "zh": "n. 政策制定者；决策人",
+      "en": "",
+      "phonetic": "'pɔlisi.meikә",
+      "forms": [
+        "policymakers"
+      ],
+      "example": "Policymakers now have an opportunity to assess the social costs alongside safety, business impacts and cultural value.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "assessment",
+      "headword": "assessment",
+      "kind": "word",
+      "zh": "n. 评估, 估定, 评定的款额\n[化] 评估",
+      "en": "n. an amount determined as payable\nn. the market value set on assets",
+      "phonetic": "ә'sesmәnt",
+      "forms": [
+        "assessment"
+      ],
+      "example": "A credible assessment would be honest about what the evidence shows, and about the nationwide economic savings that cannot yet be calculated.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "honest",
+      "headword": "honest",
+      "kind": "word",
+      "zh": "a. 诚实的, 坦直的, 可靠的",
+      "en": "a. not disposed to cheat or defraud; not deceptive or fraudulent\ns. without dissimulation; frank\ns. without pretensions\ns. marked by truth",
+      "phonetic": "'ɒnist",
+      "forms": [
+        "honest"
+      ],
+      "example": "A credible assessment would be honest about what the evidence shows, and about the nationwide economic savings that cannot yet be calculated.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "nationwide",
+      "headword": "nationwide",
+      "kind": "word",
+      "zh": "a. 全国性的\n[法] 全国的, 全国范围的",
+      "en": "s occurring or extending throughout a country or nation\nr extending throughout an entire nation",
+      "phonetic": "'neiʃәnwaid",
+      "forms": [
+        "nationwide"
+      ],
+      "example": "A credible assessment would be honest about what the evidence shows, and about the nationwide economic savings that cannot yet be calculated.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "savings",
+      "headword": "savings",
+      "kind": "word",
+      "zh": "n. 储蓄, 存款\n[经] 储金, 储蓄",
+      "en": "n. a fund of money put by as a reserve",
+      "phonetic": "'seiviŋz",
+      "forms": [
+        "savings"
+      ],
+      "example": "A credible assessment would be honest about what the evidence shows, and about the nationwide economic savings that cannot yet be calculated.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "bill",
+      "headword": "bill",
+      "kind": "word",
+      "zh": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据\nvt. 开帐单, (用招贴)宣布",
+      "en": "n. a statute in draft before it becomes law\nn. an itemized statement of money owed for goods shipped or services rendered\nn. a piece of paper money (especially one issued by a central bank)\nn. the entertainment offered at a public presentation",
+      "phonetic": "bil",
+      "forms": [
+        "bill"
+      ],
+      "example": "Because when a fireworks celebration leaves a bill for people who never attended, its market price only tells part of the story.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      2,
+      7
+    ],
+    "wordBank": [
+      "admissions",
+      "damage",
+      "aware",
+      "transferred",
+      "short-lived",
+      "footprint",
+      "exposed",
+      "enjoyment",
+      "approximately",
+      "clinical"
+    ],
+    "parts": [
+      {
+        "text": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " of – or actually paying for – their full cost. Economists call this a “negative externality”. A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction. Fireworks offer a particularly visible example because the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " is concentrated in time while the consequences are spread among households, public services and wildlife. As a finance researcher, I think this concept is overlooked in the fireworks debate.\n\nConsider injuries. Figures show that 123 hospital "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " in England attributed to fireworks in 2024–25. That is not a count of everyone injured: cases treated without hospital admission are excluded. Preventing such injuries may not cut the NHS budget, but it can free "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " time for other patients. In an overstretched health service, that is an economic benefit even if it never appears as a saving in the Treasury’s accounts.\n\nPollution creates another unpriced cost. The UK’s official air-quality monitoring has recorded "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses. The Department for Environment, Food and Rural Affairs assigns a central estimated "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation. This is not a figure for fireworks: calculating that would require information about their emissions and who is "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ". It does show why a product can have an environmental cost that never appears on its receipt.\n\nNature belongs on the balance sheet\n\nThe damage is not limited to human health. In a peer-reviewed Dutch study, researchers found that "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights. The disruption extended several miles from the displays. The exact scale cannot be "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.\n\nBirds forced into sudden flight expend energy and lose opportunities to rest. Pets and livestock may also be distressed. Alongside noise and smoke, spent casings and other waste leave a physical "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": ". Sustainability means considering these effects, not simply asking how much carbon a celebration emits."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "aware",
+        "vocabularyId": "v15",
+        "explanation": "原文此处使用 aware（aware）。结合上下文辨认词义与词形。",
+        "evidence": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "enjoyment",
+        "vocabularyId": "v25",
+        "explanation": "原文此处使用 enjoyment（enjoyment）。结合上下文辨认词义与词形。",
+        "evidence": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
+        "paragraph": 2
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "admissions",
+        "vocabularyId": "v34",
+        "explanation": "原文此处使用 admissions（admission）。结合上下文辨认词义与词形。",
+        "evidence": "Figures show that 123 hospital admissions in England attributed to fireworks in 2024–25.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "clinical",
+        "vocabularyId": "v39",
+        "explanation": "原文此处使用 clinical（clinical）。结合上下文辨认词义与词形。",
+        "evidence": "Preventing such injuries may not cut the NHS budget, but it can free clinical time for other patients.",
+        "paragraph": 3
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "short-lived",
+        "vocabularyId": "v45",
+        "explanation": "原文此处使用 short-lived（short-lived）。结合上下文辨认词义与词形。",
+        "evidence": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
+        "paragraph": 4
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "damage",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 damage（damage）。结合上下文辨认词义与词形。",
+        "evidence": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
+        "paragraph": 4
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "exposed",
+        "vocabularyId": "v63",
+        "explanation": "原文此处使用 exposed（expose）。结合上下文辨认词义与词形。",
+        "evidence": "This is not a figure for fireworks: calculating that would require information about their emissions and who is exposed.",
+        "paragraph": 4
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "approximately",
+        "vocabularyId": "v71",
+        "explanation": "原文此处使用 approximately（approximately）。结合上下文辨认词义与词形。",
+        "evidence": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
+        "paragraph": 6
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "transferred",
+        "vocabularyId": "v77",
+        "explanation": "原文此处使用 transferred（transfer）。结合上下文辨认词义与词形。",
+        "evidence": "The exact scale cannot be transferred to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.",
+        "paragraph": 6
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "footprint",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 footprint（footprint）。结合上下文辨认词义与词形。",
+        "evidence": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
+        "paragraph": 7
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Victorian spiritualism turned the desire to communicate beyond death into commercial opportunities.",
+          "Consumers' ideas about organic food do not always match what labels and standards communicate.",
+          "Climate-related risks discourage investment in poorer countries and can also harm corporations.",
+          "Fireworks create environmental and economic costs that outlast the celebrations."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What economic issue is central to the fireworks discussion?",
+        "options": [
+          "Whether every celebration should last the same number of minutes",
+          "Whether the seller's displayed price captures every social cost automatically",
+          "Whether users bear the full costs imposed by their enjoyment",
+          "Whether fireworks are colourful enough to photograph"
+        ],
+        "answer": 2,
+        "explanation": "第 2 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
+        "paragraph": 2
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 6?",
+        "options": [
+          "There is no basis for promising that fewer fireworks would automatically increase jobs, GDP or tax receipts.",
+          "Policymakers now have an opportunity to assess the social costs alongside safety, business impacts and cultural value.",
+          "A purchase benefits the buyer and seller, but some of its costs fall on people outside that transaction.",
+          "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights."
+        ],
+        "answer": 3,
+        "explanation": "定位第 6 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
+        "paragraph": 6
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“They support retailers, display organisers and cultural celebrations, including Bonfire Night, Diwali and New Year.”",
+        "options": [
+          "Paragraph 14",
+          "Paragraph 12",
+          "Paragraph 10",
+          "Paragraph 3"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 10 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "They support retailers, display organisers and cultural celebrations, including Bonfire Night, Diwali and New Year.",
+        "paragraph": 10
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The practical question is not simply whether to completely ban fireworks and take the joy out of Bonfire Night.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 1",
+          "Paragraph 6",
+          "Paragraph 14"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The practical question is not simply whether to completely ban fireworks and take the joy out of Bonfire Night.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "revision": "02ac9dd90ddd9cd02776f8d8fcb0e064549aaab52d41107aebc228eb2f6fa447"
+}

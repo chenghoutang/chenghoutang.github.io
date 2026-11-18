@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fff5f9">
+    <title>英语阅读 · DengDuck の 小窝</title>
+    <link rel="icon" type="image/png" href="../icon.png">
+    <link rel="stylesheet" href="reading.css">
+    <script src="study.js" defer></script>
+    <script src="reading.js" defer></script>
+</head>
+<body>
+    <header class="topbar">
+        <a class="pill" href="../index.html">← 回到小窝</a>
+        <span>学习 / 英语阅读</span>
+    </header>
+    <main class="page">
+        <section class="intro" aria-labelledby="pageTitle">
+            <span class="eyebrow">READ A LITTLE, EVERY DAY</span>
+            <h1 id="pageTitle">英语阅读收藏夹 <span aria-hidden="true">📑</span></h1>
+            <p>100 篇英文，慢慢读，也慢慢积累。(｡•̀ᴗ-)✧</p>
+            <p class="note">英文正文 · 中英词汇 · 完形填空 · 阅读理解 · 面向雅思 8 分的课外练习</p>
+        </section>
+        <section class="catalog" aria-label="文章目录">
+            <form class="filters" role="search">
+                <label>找一篇文章<input id="search" type="search" placeholder="搜索英文标题、作者…" autocomplete="off"></label>
+                <label>阅读主题<select id="topic"><option value="all">全部主题</option></select></label>
+            </form>
+            <div class="catalog-heading"><h2>阅读清单</h2><p id="resultCount" role="status" aria-live="polite">正在整理书页…</p></div>
+            <p id="catalogMessage" class="message" hidden></p>
+            <button id="retryCatalog" class="pill" type="button" hidden>重新加载</button>
+            <div id="articleList" class="article-list"></div>
+            <noscript><p class="message">请开启 JavaScript 预览文章，也可以根据 <a href="IELTS-8-100/metadata.json">文章目录 JSON</a> 打开对应的 TXT 文件。</p></noscript>
+        </section>
+    </main>
+    <footer class="page-footer">收起一点新知识，再带着好奇心出发。<span aria-hidden="true">( ˶ˆᗜˆ˵ )</span></footer>
+    <dialog id="reader" aria-labelledby="readerTitle">
+        <div class="reader-toolbar">
+            <span id="readerNumber"></span>
+            <button id="closeReader" class="pill" type="button" autofocus>关闭预览 ×</button>
+        </div>
+        <div id="readerScroll" class="reader-scroll">
+            <header class="article-header">
+                <p id="readerTopic" class="eyebrow"></p>
+                <h2 id="readerTitle" lang="en"></h2>
+                <p id="readerInfo" class="note"></p>
+            </header>
+            <div id="readerTabs" class="reader-tabs" role="tablist" aria-label="文章学习内容">
+                <button id="tabBody" type="button" role="tab" aria-selected="true" aria-controls="bodyPanel" tabindex="0" data-tab="bodyPanel">正文</button>
+                <button id="tabVocabulary" type="button" role="tab" aria-selected="false" aria-controls="vocabularyPanel" tabindex="-1" data-tab="vocabularyPanel">单词短语</button>
+                <button id="tabCloze" type="button" role="tab" aria-selected="false" aria-controls="clozePanel" tabindex="-1" data-tab="clozePanel">完形填空</button>
+                <button id="tabReading" type="button" role="tab" aria-selected="false" aria-controls="readingPanel" tabindex="-1" data-tab="readingPanel">阅读理解</button>
+            </div>
+            <section id="bodyPanel" role="tabpanel" aria-labelledby="tabBody">
+            <p id="readerStatus" class="message" role="status" aria-live="polite"></p>
+            <button id="retryArticle" class="pill" type="button" hidden>重新加载正文</button>
+            <article id="articleBody" lang="en" aria-label="英文正文"></article>
+            </section>
+            <section id="vocabularyPanel" class="study-panel" role="tabpanel" aria-labelledby="tabVocabulary" hidden>
+                <div class="study-loading" role="status">正在整理单词短语…</div>
+                <div id="vocabularyContent" hidden>
+                    <h3>把词句一点点收藏起来 <span aria-hidden="true">(｡•̀ᴗ-)✧</span></h3>
+                    <p class="note">学术词、主题术语与常用搭配。显示词典释义和原文例句，多义词请结合例句辨义。</p>
+                    <div class="vocabulary-filters">
+                        <label class="sr-only" for="vocabularySearch">搜索单词、短语或中文释义</label>
+                        <input id="vocabularySearch" type="search" placeholder="搜索单词、短语或中文…">
+                        <label class="sr-only" for="vocabularyKind">词汇类型</label>
+                        <select id="vocabularyKind"><option value="all">全部词汇</option><option value="word">单词</option><option value="phrase">短语搭配</option></select>
+                    </div>
+                    <p id="vocabularyCount" class="note" role="status" aria-live="polite"></p>
+                    <div id="vocabularyList"></div>
+                    <p class="note dictionary-credit">词典：<a href="https://github.com/skywind3000/ECDICT" target="_blank" rel="noopener noreferrer">ECDICT</a>（<a href="study/ECDICT-LICENSE.txt" target="_blank" rel="noopener noreferrer">MIT 授权</a>）；主题搭配另附编写释义。</p>
+                </div>
+            </section>
+            <section id="clozePanel" class="study-panel" role="tabpanel" aria-labelledby="tabCloze" hidden>
+                <div class="study-loading" role="status">正在翻开完形填空…</div>
+                <div id="clozeContent" hidden></div>
+            </section>
+            <section id="readingPanel" class="study-panel" role="tabpanel" aria-labelledby="tabReading" hidden>
+                <div class="study-loading" role="status">正在准备阅读理解…</div>
+                <div id="readingContent" hidden></div>
+            </section>
+            <footer class="article-footer">
+                <p id="readerAuthors" lang="en"></p>
+                <p><a id="sourceLink" target="_blank" rel="noopener noreferrer">原文 · The Conversation ↗</a> · <a id="licenseLink" href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-ND 4.0</a></p>
+                <details id="disclosures" hidden><summary>作者披露声明</summary><div id="disclosureText" lang="en"></div></details>
+                <a id="downloadArticle" class="pill" download>下载正文 TXT ↓</a>
+            </footer>
+        </div>
+        <nav class="reader-navigation" aria-label="切换文章">
+            <button id="previousArticle" class="pill" type="button">← 上一篇</button>
+            <button id="nextArticle" class="pill" type="button">下一篇 →</button>
+        </nav>
+    </dialog>
+</body>
+</html>

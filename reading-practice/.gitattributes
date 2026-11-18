@@ -1,0 +1,6 @@
+# Keep generated article checksums stable on Windows checkouts.
+IELTS-8-100/** text eol=lf
+study/** text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf

@@ -1,0 +1,3753 @@
+{
+  "schemaVersion": 1,
+  "folder": "091",
+  "articleSha256": "6df5b3d320bbdf0e8b7e10f2ffc0fcf5210598e075c9bd35d5ad311387c33640",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "death",
+      "headword": "death",
+      "kind": "word",
+      "zh": "n. 死亡\n[医] 死亡",
+      "en": "n. the event of dying or departure from life\nn. the permanent end of all life functions in an organism or part of an organism\nn. the absence of life or state of being dead\nn. the time when something ends",
+      "phonetic": "deθ",
+      "forms": [
+        "death"
+      ],
+      "example": "Death has never entirely stopped the living from trying to continue a conversation with their loved ones.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "entirely",
+      "headword": "entirely",
+      "kind": "word",
+      "zh": "adv. 完全, 全然, 一概",
+      "en": "r. without any others being included or involved",
+      "phonetic": "in'taiәli",
+      "forms": [
+        "entirely"
+      ],
+      "example": "Death has never entirely stopped the living from trying to continue a conversation with their loved ones.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "grief",
+      "headword": "grief",
+      "kind": "word",
+      "zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
+      "en": "n. intense sorrow caused by loss of a loved one (especially by death)\nn. something that causes great unhappiness",
+      "phonetic": "gri:f",
+      "forms": [
+        "grief"
+      ],
+      "example": "Today, AI-powered deathbots and a growing range of “grief tech” bring to market several ways that consumers can recreate the voices of the deceased.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "tech",
+      "headword": "tech",
+      "kind": "word",
+      "zh": "n. 技术学院或学校",
+      "en": "n a school teaching mechanical and industrial arts and the applied sciences",
+      "phonetic": "tek",
+      "forms": [
+        "tech"
+      ],
+      "example": "Today, AI-powered deathbots and a growing range of “grief tech” bring to market several ways that consumers can recreate the voices of the deceased.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "recreate",
+      "headword": "recreate",
+      "kind": "word",
+      "zh": "v. (使)得到休养, (使)得到娱乐, 再创造",
+      "en": "v. create anew",
+      "phonetic": "'rekrieit",
+      "forms": [
+        "recreate"
+      ],
+      "example": "Today, AI-powered deathbots and a growing range of “grief tech” bring to market several ways that consumers can recreate the voices of the deceased.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "deceased",
+      "headword": "decease",
+      "kind": "word",
+      "zh": "n. 死亡\nvi. 死亡",
+      "en": "n the event of dying or departure from life\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "phonetic": "di'si:s",
+      "forms": [
+        "deceased"
+      ],
+      "example": "Today, AI-powered deathbots and a growing range of “grief tech” bring to market several ways that consumers can recreate the voices of the deceased.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "commercial opportunities",
+      "headword": "commercial opportunities",
+      "kind": "phrase",
+      "zh": "商业机会",
+      "en": "possibilities for earning money through business",
+      "forms": [
+        "commercial opportunities"
+      ],
+      "example": "They open new commercial opportunities and experiences alongside uncomfortable questions about whether grief should be profitable.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v8",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "They open new commercial opportunities and experiences alongside uncomfortable questions about whether grief should be profitable.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "uncomfortable",
+      "headword": "uncomfortable",
+      "kind": "word",
+      "zh": "a. 不舒服的, 不自在的, 不安的",
+      "en": "a. conducive to or feeling mental discomfort\na. providing or experiencing physical discomfort",
+      "phonetic": ".ʌn'kʌmfәtәbl",
+      "forms": [
+        "uncomfortable"
+      ],
+      "example": "They open new commercial opportunities and experiences alongside uncomfortable questions about whether grief should be profitable.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "profitable",
+      "headword": "profitable",
+      "kind": "word",
+      "zh": "a. 有利润的, 有利益的, 赚钱的\n[经] 有利(可图)的, 合算的",
+      "en": "a. yielding material gain or profit",
+      "phonetic": "'prɒfitәbl",
+      "forms": [
+        "profitable"
+      ],
+      "example": "They open new commercial opportunities and experiences alongside uncomfortable questions about whether grief should be profitable.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "simulate",
+      "headword": "simulate",
+      "kind": "word",
+      "zh": "vt. 模拟, 假装, 模仿\n[法] 伪装的, 模拟的; 假装的, 伪装的, 冒充",
+      "en": "v. make a pretence of",
+      "phonetic": "'simjuleit",
+      "forms": [
+        "simulate"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "premium",
+      "headword": "premium",
+      "kind": "word",
+      "zh": "n. 额外补贴, 奖金, 奖赏, 保险费\n[医] 保险费",
+      "en": "n. payment for insurance\nn. the amount that something in scarce supply is valued above its nominal value\nn. a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.\ns. having or reflecting superior quality or value",
+      "phonetic": "'pri:miәm",
+      "forms": [
+        "premium"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "spiritualist",
+      "headword": "spiritualist",
+      "kind": "word",
+      "zh": "n. 唯灵论者, 迷信招魂术者",
+      "en": "n someone who serves as an intermediary between the living and the dead\na of or relating to or connected with spiritualism",
+      "phonetic": "'spiritjjәlist,-tʃjә-",
+      "forms": [
+        "spiritualist",
+        "spiritualists"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "swept",
+      "headword": "sweep",
+      "kind": "word",
+      "zh": "n. 扫除, 打扫, 肃清, 视野, 范围, 全胜\nvt. 扫除, 掸去, 猛拉, 扫荡, 肃清, 冲走, 刮起, 环视, 掠过, 扫射\nvi. 扫, 打扫, 袭击, 席卷, 扫视, 掠过",
+      "en": "n. a wide scope\nn. a long oar used in an open boat\nn. a movement in an arc\nv. move with sweeping, effortless, gliding motions",
+      "phonetic": "swi:p",
+      "forms": [
+        "swept"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "victorian",
+      "headword": "Victorian",
+      "kind": "word",
+      "zh": "a. 英国维多利亚女王时代的, 笃信宗教的, 讲究体面的\nn. 维多利亚女王时代的英国人",
+      "en": "n. a person who lived during the reign of Victoria\na. of or relating to Queen Victoria of Great Britain or to the age in which she ruled\ns. typical of the moral standards or conduct of the age of Queen Victoria",
+      "phonetic": "vik'tɔ:riәn",
+      "forms": [
+        "victorian",
+        "victorians"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "negotiated",
+      "headword": "negotiate",
+      "kind": "word",
+      "zh": "vi. 商议, 谈判, 交涉\nvt. 谈妥, 转让, 处理",
+      "en": "v. succeed in passing through, around, or over",
+      "phonetic": "ni'gәuʃieit",
+      "forms": [
+        "negotiated"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "credibility",
+      "headword": "credibility",
+      "kind": "word",
+      "zh": "n. 可信用, 确实性, 可靠\n[法] 证据能力, 可信程度, 确实性",
+      "en": "n. the quality of being believable or trustworthy",
+      "phonetic": ".kredi'biliti",
+      "forms": [
+        "credibility"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "authenticity",
+      "headword": "authenticity",
+      "kind": "word",
+      "zh": "n. 可靠性, 真实性\n[经] 确实性, 真实性",
+      "en": "n. undisputed credibility",
+      "phonetic": ".ɒ:θen'tisiti",
+      "forms": [
+        "authenticity"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "commercial exploitation",
+      "headword": "commercial exploitation",
+      "kind": "phrase",
+      "zh": "商业开发；商业利用",
+      "en": "using something to make money",
+      "forms": [
+        "commercial exploitation"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v21",
+      "term": "exploitation",
+      "headword": "exploitation",
+      "kind": "word",
+      "zh": "n. 开发, 开采, 剥削\n[经] 开发, 剥削, 宜传",
+      "en": "n. the act of making some area of land or water more profitable or productive or useful\nn. an act that exploits or victimizes someone (treats them unfairly)",
+      "phonetic": ".eksplɒi'teiʃәn",
+      "forms": [
+        "exploitation"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "transforming",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transforming",
+        "transformed"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "enduring",
+      "headword": "endure",
+      "kind": "word",
+      "zh": "vt. 忍受, 忍耐, 容忍, 耐\nvi. (正式)持久, 持续\n[计] 仍能工作, 继续工作",
+      "en": "v put up with something or somebody unpleasant\nv face and withstand with courage\nv continue to live through hardship or adversity\nv undergo or be subjected to\nv last and be usable\nv persist for a specified period of time\nv continue to exist",
+      "phonetic": "in'djuә",
+      "forms": [
+        "enduring"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "desires",
+      "headword": "desire",
+      "kind": "word",
+      "zh": "n. 欲望, 要求\nvt. 想要, 请求\nvi. 渴望",
+      "en": "n. the feeling that accompanies an unsatisfied state\nn. an inclination to want things\nn. something that is desired\nv. feel or have a desire for; want strongly",
+      "phonetic": "di'zaiә",
+      "forms": [
+        "desires",
+        "desire"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "marketable",
+      "headword": "marketable",
+      "kind": "word",
+      "zh": "a. 可销售的, 销路好的, 市场的\n[经] 有销路的, 可销售的",
+      "en": "s. being in demand by especially employers\ns. fit to be offered for sale\ns. capable of being marketed",
+      "phonetic": "'mɑ:kitәbl",
+      "forms": [
+        "marketable"
+      ],
+      "example": "Yet long before AI made it possible to simulate (and charge a premium for) a familiar voice, the spiritualist movement that swept across Victorian Britain negotiated issues of credibility, authenticity and commercial exploitation while transforming one of humanity’s most enduring desires into something marketable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "spiritualism",
+      "headword": "spiritualism",
+      "kind": "word",
+      "zh": "n. 唯灵论",
+      "en": "n. (theology) any doctrine that asserts the separate existence of God\nn. the belief that the spirits of dead people can communicate with people who are still alive (especially via a medium)",
+      "phonetic": "'spiritjjәlizәm,-tʃjә-",
+      "forms": [
+        "spiritualism"
+      ],
+      "example": "Our research into the business history of spiritualism in 19th-century Britain suggests that the similarities go deeper than a shared fascination with communicating with the dead.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "similarities",
+      "headword": "similarity",
+      "kind": "word",
+      "zh": "n. 类似, 类似处\n[法] 类似, 相似, 类似事例",
+      "en": "n. the quality of being similar\nn. a Gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit",
+      "phonetic": ".simi'læriti",
+      "forms": [
+        "similarities"
+      ],
+      "example": "Our research into the business history of spiritualism in 19th-century Britain suggests that the similarities go deeper than a shared fascination with communicating with the dead.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "fascination",
+      "headword": "fascination",
+      "kind": "word",
+      "zh": "n. 令人着迷的事物, 入迷, 魅力",
+      "en": "n. the state of being intensely interested (as by awe or terror)\nn. the capacity to attract intense interest",
+      "phonetic": ".fæsi'neiʃәn",
+      "forms": [
+        "fascination"
+      ],
+      "example": "Our research into the business history of spiritualism in 19th-century Britain suggests that the similarities go deeper than a shared fascination with communicating with the dead.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "communicating",
+      "headword": "communicate",
+      "kind": "word",
+      "zh": "vt. 显露, 传达, 感染\nvi. 通讯",
+      "en": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas",
+      "phonetic": "kә'mju:nikeit",
+      "forms": [
+        "communicating",
+        "communicated"
+      ],
+      "example": "Our research into the business history of spiritualism in 19th-century Britain suggests that the similarities go deeper than a shared fascination with communicating with the dead.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "industrial",
+      "headword": "industrial",
+      "kind": "word",
+      "zh": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
+      "en": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear",
+      "phonetic": "in'dʌstriәl",
+      "forms": [
+        "industrial"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "progress",
+      "headword": "progress",
+      "kind": "word",
+      "zh": "n. 进步, 发展, 前进\nvi. 进步, 进行",
+      "en": "n. the act of moving forward (as toward a goal)\nn. a movement forward\nv. develop in a positive way",
+      "phonetic": "'prәugres",
+      "forms": [
+        "progress"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "scientific",
+      "headword": "scientific",
+      "kind": "word",
+      "zh": "a. 科学的, 系统的, 符合科学规律的\n[计] 科学记数法",
+      "en": "a. of or relating to the practice of science\na. conforming with the principles or methods used in science",
+      "phonetic": ".saiәn'tifik",
+      "forms": [
+        "scientific"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "discovery",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discovery"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "astonishing",
+      "headword": "astonish",
+      "kind": "word",
+      "zh": "vt. 使惊讶",
+      "en": "v affect with wonder",
+      "phonetic": "ә'stɒniʃ",
+      "forms": [
+        "astonishing"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "feats",
+      "headword": "feat",
+      "kind": "word",
+      "zh": "n. 壮举, 功绩, 技艺表演\na. 灵巧的, 合适的, 整洁的",
+      "en": "n. a notable achievement",
+      "phonetic": "fi:t",
+      "forms": [
+        "feats"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "engineering",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineering"
+      ],
+      "example": "Victorian Britain is often remembered as an age of industrial progress, scientific discovery and astonishing feats of engineering.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "arcades",
+      "headword": "arcade",
+      "kind": "word",
+      "zh": "n. 拱廊, 拱形建筑物, 有拱廊的街道\n[医] 弓形组织, 连拱",
+      "en": "n. a covered passageway with shops and stalls on either side\nn. a structure composed of a series of arches supported by columns",
+      "phonetic": "ɑ:'keid",
+      "forms": [
+        "arcades"
+      ],
+      "example": "Department stores, arcades and luxury brands fed a growing appetite for shopping.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "luxury",
+      "headword": "luxury",
+      "kind": "word",
+      "zh": "n. 奢侈, 豪华\na. 奢侈的, 豪华的",
+      "en": "n. something that is an indulgence rather than a necessity\nn. wealth as evidenced by sumptuous living",
+      "phonetic": "'lʌkʃәri",
+      "forms": [
+        "luxury"
+      ],
+      "example": "Department stores, arcades and luxury brands fed a growing appetite for shopping.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "brands",
+      "headword": "brand",
+      "kind": "word",
+      "zh": "n. 商标, 牌子, 烙印\nvt. 打烙印于",
+      "en": "n. a recognizable kind\nn. identification mark on skin, made by burning\nn. a piece of wood that has been burned or is burning\nv. burn with a branding iron to indicate ownership; of animals",
+      "phonetic": "brænd",
+      "forms": [
+        "brands",
+        "brand"
+      ],
+      "example": "Department stores, arcades and luxury brands fed a growing appetite for shopping.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "appetite",
+      "headword": "appetite",
+      "kind": "word",
+      "zh": "n. 食欲, 欲望, 爱好\n[医] 食欲",
+      "en": "n. a feeling of craving something",
+      "phonetic": "'æpitait",
+      "forms": [
+        "appetite"
+      ],
+      "example": "Department stores, arcades and luxury brands fed a growing appetite for shopping.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "shopping",
+      "headword": "shop",
+      "kind": "word",
+      "zh": "n. 商店, 工厂, 车间\nvi. 购物, 到处寻找\nvt. 选购",
+      "en": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying",
+      "phonetic": "ʃɒp",
+      "forms": [
+        "shopping"
+      ],
+      "example": "Department stores, arcades and luxury brands fed a growing appetite for shopping.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "fascinated",
+      "headword": "fascinate",
+      "kind": "word",
+      "zh": "vt. 令人入神, 使着迷\nvi. 入迷",
+      "en": "v. to render motionless, as with a fixed stare or by arousing terror or awe",
+      "phonetic": "'fæsineit",
+      "forms": [
+        "fascinated"
+      ],
+      "example": "Yet the Victorians were also fascinated by ghosts, the supernatural and the macabre.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "ghosts",
+      "headword": "ghost",
+      "kind": "word",
+      "zh": "n. 鬼, 灵魂, 幻影, 一丝, 一点\nv. 鬼似地游荡",
+      "en": "n. a mental representation of some haunting experience\nn. the visible disembodied soul of a dead person\nv. move like a ghost\nv. write for someone else",
+      "phonetic": "gәust",
+      "forms": [
+        "ghosts",
+        "ghost"
+      ],
+      "example": "Yet the Victorians were also fascinated by ghosts, the supernatural and the macabre.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "supernatural",
+      "headword": "supernatural",
+      "kind": "word",
+      "zh": "a. 超自然的, 神奇的\n[医] 超自然的",
+      "en": "n. supernatural forces and events and beings collectively\na. not existing in nature or subject to explanation according to natural laws; not physical or material",
+      "phonetic": ".sju:pә'nætʃәrәl",
+      "forms": [
+        "supernatural"
+      ],
+      "example": "Yet the Victorians were also fascinated by ghosts, the supernatural and the macabre.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "macabre",
+      "headword": "macabre",
+      "kind": "word",
+      "zh": "a. 以死亡为主题的, 可怕的",
+      "en": "s shockingly repellent; inspiring horror",
+      "phonetic": "mә'kɑ:brә",
+      "forms": [
+        "macabre"
+      ],
+      "example": "Yet the Victorians were also fascinated by ghosts, the supernatural and the macabre.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "tendencies",
+      "headword": "tendency",
+      "kind": "word",
+      "zh": "n. 趋向, 倾向\n[医] 趋向, 趋势",
+      "en": "n. a characteristic likelihood of or natural disposition toward a certain condition or character or effect\nn. a general direction in which something tends to move",
+      "phonetic": "'tendәnsi",
+      "forms": [
+        "tendencies"
+      ],
+      "example": "These tendencies might first be written off as a contradiction – the perseverance of premodern supernaturalism among an increasingly modern society.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "contradiction",
+      "headword": "contradiction",
+      "kind": "word",
+      "zh": "n. 反驳, 矛盾\n[法] 矛盾, 否认, 反驳",
+      "en": "n. opposition between two conflicting forces or ideas\nn. (logic) a statement that is necessarily false\nn. the speech act of contradicting someone",
+      "phonetic": ".kɒntrә'dikʃәn",
+      "forms": [
+        "contradiction"
+      ],
+      "example": "These tendencies might first be written off as a contradiction – the perseverance of premodern supernaturalism among an increasingly modern society.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "perseverance",
+      "headword": "perseverance",
+      "kind": "word",
+      "zh": "n. 毅力, 忍耐, 锲而不舍, 不屈不挠",
+      "en": "n. the act of persisting or persevering; continuing or repeating behavior",
+      "phonetic": "pә:si'viәrәns",
+      "forms": [
+        "perseverance"
+      ],
+      "example": "These tendencies might first be written off as a contradiction – the perseverance of premodern supernaturalism among an increasingly modern society.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "supernaturalism",
+      "headword": "supernaturalism",
+      "kind": "word",
+      "zh": "n. 超自然性, 超自然主义",
+      "en": "n. a belief in forces beyond ordinary human understanding\nn. the quality of being attributed to power that seems to violate or go beyond natural forces",
+      "phonetic": ",sju:pә'nætʃәrәlizәm",
+      "forms": [
+        "supernaturalism"
+      ],
+      "example": "These tendencies might first be written off as a contradiction – the perseverance of premodern supernaturalism among an increasingly modern society.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "These tendencies might first be written off as a contradiction – the perseverance of premodern supernaturalism among an increasingly modern society.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "commerce",
+      "headword": "commerce",
+      "kind": "word",
+      "zh": "n. 商业, 商务, 贸易\n[经] 商业, 贸易, 商务",
+      "en": "n. transactions (sales and purchases) having the objective of supplying commodities (goods and services)\nn. social exchange, especially of opinions, attitudes, etc.",
+      "phonetic": "'kɒmә:s",
+      "forms": [
+        "commerce"
+      ],
+      "example": "But a closer look reveals that the technologies that transformed Victorian commerce and entertainment also helped make ghosts visible, reproducible and profitable.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "entertainment",
+      "headword": "entertainment",
+      "kind": "word",
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "en": "n. an activity that is diverting and that holds the attention",
+      "phonetic": ".entә'teinmәnt",
+      "forms": [
+        "entertainment"
+      ],
+      "example": "But a closer look reveals that the technologies that transformed Victorian commerce and entertainment also helped make ghosts visible, reproducible and profitable.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "visible",
+      "headword": "visible",
+      "kind": "word",
+      "zh": "a. 看得见的, 明显的, 显然的\nn. 可见物",
+      "en": "a. capable of being seen; or open to easy view\ns. obvious to the eye\ns. present and easily available",
+      "phonetic": "'vizәbl",
+      "forms": [
+        "visible"
+      ],
+      "example": "But a closer look reveals that the technologies that transformed Victorian commerce and entertainment also helped make ghosts visible, reproducible and profitable.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "reproducible",
+      "headword": "reproducible",
+      "kind": "word",
+      "zh": "a. 可再生的, 可复写的, 能繁殖的",
+      "en": "a. capable of being reproduced",
+      "phonetic": ".ri:prә'dju:sәbl",
+      "forms": [
+        "reproducible"
+      ],
+      "example": "But a closer look reveals that the technologies that transformed Victorian commerce and entertainment also helped make ghosts visible, reproducible and profitable.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "large-scale",
+      "headword": "large-scale",
+      "kind": "word",
+      "zh": "a. 大规模的, 大范围的, 大比例尺的",
+      "en": "s. unusually large in scope\ns. constructed or drawn to a big scale",
+      "phonetic": "",
+      "forms": [
+        "large-scale"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "plate",
+      "headword": "plate",
+      "kind": "word",
+      "zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)\nvt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版",
+      "en": "n. a sheet of metal or wood or glass or plastic\nn. a full-page illustration (usually on slick paper)\nn. dish on which food is served or from which food is eaten\nn. the quantity contained in a plate",
+      "phonetic": "pleit",
+      "forms": [
+        "plate"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "advances",
+      "headword": "advance",
+      "kind": "word",
+      "zh": "n. 前进, 进展, 行过的路程\nvi. 前进, 进展, 提高, 上涨\nvt. 使前进, 促进, 提出, 提高, 使提前, 预付\na. 前面的, 预先的",
+      "en": "n. an amount paid before it is earned\nn. increase in price or value\nv. move forward, also in the metaphorical sense\nv. bring forward for consideration or acceptance",
+      "phonetic": "әd'vɑ:ns",
+      "forms": [
+        "advances"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "illumination",
+      "headword": "illumination",
+      "kind": "word",
+      "zh": "n. 照明, 阐明, 启发\n[医] 照明, 映光",
+      "en": "n. the degree of visibility of your environment",
+      "phonetic": "i.lju:mi'neiʃәn",
+      "forms": [
+        "illumination"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "optical",
+      "headword": "optical",
+      "kind": "word",
+      "zh": "a. 眼睛的, 视觉的, 光学的\n[机] 光学上的, 光学的",
+      "en": "a. of or relating to or involving light or optics",
+      "phonetic": "'ɒptikl",
+      "forms": [
+        "optical"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "physics",
+      "headword": "physics",
+      "kind": "word",
+      "zh": "n. 物理学, 物理过程, 物理现象\n[化] 物理; 物理学",
+      "en": "n. the science of matter and energy and their interactions\nn. the physical properties, phenomena, and laws of something",
+      "phonetic": "'fiziks",
+      "forms": [
+        "physics"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "behaves",
+      "headword": "behave",
+      "kind": "word",
+      "zh": "vi. 举止端正, 行为规矩\nvt. 检点(自己的)行为, 使表现好",
+      "en": "v. behave in a certain manner\nv. behave well or properly",
+      "phonetic": "bi'heiv",
+      "forms": [
+        "behaves"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "interacts",
+      "headword": "interact",
+      "kind": "word",
+      "zh": "vi. 互相影响, 交互作用\nn. 幕间剧, 幕间休息",
+      "en": "v. act together or towards others or with others",
+      "phonetic": ".intәr'ækt",
+      "forms": [
+        "interacts"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "phantasmagorical",
+      "headword": "phantasmagorical",
+      "kind": "word",
+      "zh": "a. 变化无常的；梦幻般的",
+      "en": "s characterized by fantastic imagery and incongruous juxtapositions",
+      "phonetic": "ˌfæntæzmə'ɡɒrɪkl",
+      "forms": [
+        "phantasmagorical"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "illusions",
+      "headword": "illusion",
+      "kind": "word",
+      "zh": "n. 幻影, 错觉, 幻想\n[医] 错觉",
+      "en": "n. an erroneous mental representation\nn. something many people believe that is false",
+      "phonetic": "i'lju:ʒәn",
+      "forms": [
+        "illusions"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "photography",
+      "headword": "photography",
+      "kind": "word",
+      "zh": "n. 摄影, 摄影术\n[化] 照相术",
+      "en": "n. the act of taking and printing photographs\nn. the process of producing images of objects on photosensitive surfaces\nn. the occupation of taking and printing photographs or making movies",
+      "phonetic": "fә'tɒgrәfi",
+      "forms": [
+        "photography"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "capture",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "capture"
+      ],
+      "example": "Large-scale plate glass production, advances in illumination, and optical physics (the scientific study of how light behaves and interacts with matter around us) allowed for the staging of phantasmagorical illusions like Pepper’s Ghost, while photography could apparently capture the dead.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "gothic",
+      "headword": "gothic",
+      "kind": "word",
+      "zh": "n. 哥特风格\na. 哥特式的, 野蛮的",
+      "en": "n. extinct East Germanic language of the ancient Goths; the only surviving record being fragments of a 4th-century translation of the Bible by Bishop Ulfilas\nn. a heavy typeface in use from 15th to 18th centuries\nn. a style of architecture developed in northern France that spread throughout Europe between the 12th and 16th centuries; characterized by slender vertical piers and counterbalancing buttresses and by vaulting and pointed arches\na. characteristic of the style of type commonly used for printing German",
+      "phonetic": "'gɒθik",
+      "forms": [
+        "gothic"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "fiction",
+      "headword": "fiction",
+      "kind": "word",
+      "zh": "n. 小说, 虚构故事\n[法] 虚构的事实, 捏造, 拟制",
+      "en": "n. a literary work based on the imagination and not necessarily on fact",
+      "phonetic": "'fikʃәn",
+      "forms": [
+        "fiction"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "prospered",
+      "headword": "prosper",
+      "kind": "word",
+      "zh": "vi. 繁荣, 兴隆, 成功\nvt. 使成功, 使昌盛",
+      "en": "v make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+      "phonetic": "'prɒspә",
+      "forms": [
+        "prospered"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "cheap",
+      "headword": "cheap",
+      "kind": "word",
+      "zh": "a. 便宜的, 不值钱的, 可鄙的\nadv. 便宜地",
+      "en": "a. relatively low in price or charging low prices\ns. embarrassingly stingy",
+      "phonetic": "tʃi:p",
+      "forms": [
+        "cheap"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "paperbacks",
+      "headword": "paperback",
+      "kind": "word",
+      "zh": "n. 平装本, 纸面本",
+      "en": "s. (of books) having a flexible binding",
+      "phonetic": "'peipәbæk",
+      "forms": [
+        "paperbacks"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "penny",
+      "headword": "penny",
+      "kind": "word",
+      "zh": "n. 便士, 一分, 小钱, 点滴\n[经] 便士",
+      "en": "n. a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound\nn. a coin worth one-hundredth of the value of the basic unit",
+      "phonetic": "'peni",
+      "forms": [
+        "penny"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "heavily",
+      "headword": "heavily",
+      "kind": "word",
+      "zh": "adv. 很重地, 严重地, 难以忍受地",
+      "en": "r. to a considerable degree\nr. in a heavy-footed manner\nr. with great force\nr. in a manner designed for heavy duty",
+      "phonetic": "'hevili",
+      "forms": [
+        "heavily"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "tales",
+      "headword": "tale",
+      "kind": "word",
+      "zh": "n. 故事, 谎言, 谣言, 陈述, 叙述\n[法] 虚语, 诽语, 谣言",
+      "en": "n a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program\nn a trivial lie",
+      "phonetic": "teil",
+      "forms": [
+        "tales"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sordid",
+      "headword": "sordid",
+      "kind": "word",
+      "zh": "a. 肮脏的, 贪婪的, 卑鄙的, 恶劣的, 暗淡的\n[医] 污色的",
+      "en": "s. meanly avaricious and mercenary",
+      "phonetic": "'sɒ:did",
+      "forms": [
+        "sordid"
+      ],
+      "example": "Gothic fiction prospered and cheap paperbacks called penny dreadfuls traded heavily in tales of the strange, the sordid and the supernatural.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "surviving",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "surviving"
+      ],
+      "example": "The supernatural was not simply surviving on the margins of industrial modernity; it was finding new opportunities within it.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "margins",
+      "headword": "margin",
+      "kind": "word",
+      "zh": "n. 页边的空白, 边缘, 界限, 余裕, 差数, 差额, 保证金\nvt. 加边于, 加旁注于\n[计] 页边距",
+      "en": "n. the boundary line or the area immediately inside the boundary\nn. an amount beyond the minimum necessary\nn. the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities\nn. the blank space that surrounds the text on a page",
+      "phonetic": "'mɑ:dʒin",
+      "forms": [
+        "margins"
+      ],
+      "example": "The supernatural was not simply surviving on the margins of industrial modernity; it was finding new opportunities within it.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "modernity",
+      "headword": "modernity",
+      "kind": "word",
+      "zh": "n. 现代性, 现代状态, 现代东西",
+      "en": "n. the quality of being current or of the present",
+      "phonetic": "mɒ'dә:nәti",
+      "forms": [
+        "modernity"
+      ],
+      "example": "The supernatural was not simply surviving on the margins of industrial modernity; it was finding new opportunities within it.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "philosopher",
+      "headword": "philosopher",
+      "kind": "word",
+      "zh": "n. 哲学家, 哲人, 思想开创人, 达观的人\n[法] 哲学家, 哲学研究者",
+      "en": "n. a specialist in philosophy\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
+      "phonetic": "fi'lɒsәfә",
+      "forms": [
+        "philosopher"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "sustained",
+      "headword": "sustain",
+      "kind": "word",
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许\n[电] 持续",
+      "en": "v. supply with necessities and support\nv. admit as valid",
+      "phonetic": "sә'stein",
+      "forms": [
+        "sustained",
+        "sustain"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "partly",
+      "headword": "partly",
+      "kind": "word",
+      "zh": "adv. 部分地, 在一定程度上",
+      "en": "r in part; in some degree; not wholly",
+      "phonetic": "'pɑ:tli",
+      "forms": [
+        "partly"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "underside",
+      "headword": "underside",
+      "kind": "word",
+      "zh": "n. 下面, 下侧, 底面",
+      "en": "n the lower side of anything",
+      "phonetic": "'ʌndәsaid",
+      "forms": [
+        "underside"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "contradict",
+      "headword": "contradict",
+      "kind": "word",
+      "zh": "vt. 反驳, 与...抵触, 与...矛盾\nvi. 反驳",
+      "en": "v. be in contradiction with\nv. deny the truth of",
+      "phonetic": ".kɒntrә'dikt",
+      "forms": [
+        "contradict"
+      ],
+      "example": "The philosopher Slavoj Žižek offers a useful explanation, arguing that societies are sustained partly through an “underside” of practices and desires that appears to contradict their official values.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "outlets",
+      "headword": "outlet",
+      "kind": "word",
+      "zh": "n. 出口, 发泄方法, 市场\n[医] 出口",
+      "en": "n a place of business for retailing goods\nn receptacle providing a place in a wiring system where current can be taken to run electrical devices\nn an opening that permits escape or release\nn activity that frees or expresses creative energy or emotion",
+      "phonetic": "'autlet",
+      "forms": [
+        "outlets"
+      ],
+      "example": "This underside can provide outlets for what the official values exclude, helping people live with the wider social order.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "exclude",
+      "headword": "exclude",
+      "kind": "word",
+      "zh": "vt. 除外, 排除, 排斥\n[医] 除外(诊断)",
+      "en": "v. prevent from being included or considered or accepted\nv. prevent from entering; shut out\nv. lack or fail to include",
+      "phonetic": "iks'klu:d",
+      "forms": [
+        "exclude"
+      ],
+      "example": "This underside can provide outlets for what the official values exclude, helping people live with the wider social order.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "obscene",
+      "headword": "obscene",
+      "kind": "word",
+      "zh": "a. 淫秽的, 猥亵的, 讨人厌的, 可憎的\n[法] 猥亵的, 海洋的, 污秽的",
+      "en": "s. designed to incite to indecency or lust",
+      "phonetic": "ɒb'si:n",
+      "forms": [
+        "obscene"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "supplement",
+      "headword": "supplement",
+      "kind": "word",
+      "zh": "n. 补充物, 增刊, 补充, 补遗, 补编, 附录, 补角\nvt. 补充, 增补",
+      "en": "n. a quantity added (e.g. to make up for a deficiency)\nv. add as a supplement to what seems insufficient\nv. serve as a supplement to",
+      "phonetic": "'sʌplimәnt",
+      "forms": [
+        "supplement"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "provocative",
+      "headword": "provocative",
+      "kind": "word",
+      "zh": "a. 激发感情的, 挑拨的, 刺激的\nn. 刺激物, 挑拨物, 兴奋剂",
+      "en": "a. serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy\ns. exciting sexual desire",
+      "phonetic": "prә'vɒkәtiv",
+      "forms": [
+        "provocative"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "discomforting",
+      "headword": "discomfort",
+      "kind": "word",
+      "zh": "n. 困苦, 不适\n[医] 不舒适, 不舒, 烦闷, 不快活",
+      "en": "n. the state of being tense and feeling pain\nn. an uncomfortable feeling of mental painfulness or distress",
+      "phonetic": "dis'kʌmfәt",
+      "forms": [
+        "discomforting"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "underbelly",
+      "headword": "underbelly",
+      "kind": "word",
+      "zh": "n. 下腹部, 薄弱部分",
+      "en": "n. lower side\nn. the soft belly or underside of an animal's body\nn. the quality of being weak or unprotected",
+      "phonetic": "'ʌndә.beli",
+      "forms": [
+        "underbelly"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "struggles",
+      "headword": "struggle",
+      "kind": "word",
+      "zh": "n. 斗争, 努力, 奋斗\nvi. 努力, 奋斗, 挣扎",
+      "en": "n. an energetic attempt to achieve something\nn. strenuous effort\nv. to exert strenuous effort against opposition",
+      "phonetic": "'strʌgl",
+      "forms": [
+        "struggles"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "acknowledge",
+      "headword": "acknowledge",
+      "kind": "word",
+      "zh": "vt. 承认, 告知收悉, 答谢, 报偿\n[经] 承认, 答谢, 收到的通知",
+      "en": "v. report the receipt of\nv. express obligation, thanks, or gratitude for\nv. accept as legally binding and valid\nv. accept (someone) to be what is claimed or accept his power and authority",
+      "phonetic": "әk'nɒlidʒ",
+      "forms": [
+        "acknowledge"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "relying",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "relying"
+      ],
+      "example": "Žižek calls this the “obscene supplement”: the provocative and discomforting underbelly that a society struggles to acknowledge even while relying on it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "commercially",
+      "headword": "commercially",
+      "kind": "word",
+      "zh": "adv. 商业上；通商上",
+      "en": "r. in a commercial manner",
+      "phonetic": "",
+      "forms": [
+        "commercially"
+      ],
+      "example": "Victorian spiritualism helps us understand how this obscene supplement could become commercially productive.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "productive",
+      "headword": "productive",
+      "kind": "word",
+      "zh": "a. 能生产的, 有生产价值的, 多产的\n[医] 产出性的, 产生性的",
+      "en": "a. producing or capable of producing (especially abundantly)\ns. yielding positive results",
+      "phonetic": "prә'dʌktiv",
+      "forms": [
+        "productive"
+      ],
+      "example": "Victorian spiritualism helps us understand how this obscene supplement could become commercially productive.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "belief",
+      "headword": "belief",
+      "kind": "word",
+      "zh": "n. 信念, 相信, 信仰",
+      "en": "n. any cognitive content held as true",
+      "phonetic": "bi'li:f",
+      "forms": [
+        "belief"
+      ],
+      "example": "Spiritualism is the belief that the dead can be contacted through people known as mediums.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "contacted",
+      "headword": "contact",
+      "kind": "word",
+      "zh": "n. 联系, 交际, 熟人, 接触\nvi. 接触, 联系\nvt. 使接触",
+      "en": "n. close interaction\nn. the act of touching physically\nn. the state or condition of touching or of being in immediate proximity\nn. the physical coming together of two or more things",
+      "phonetic": "'kɒntækt",
+      "forms": [
+        "contacted"
+      ],
+      "example": "Spiritualism is the belief that the dead can be contacted through people known as mediums.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "mediums",
+      "headword": "medium",
+      "kind": "word",
+      "zh": "n. 媒体, 方法, 媒介\na. 半生熟的, 中间的\n[计] 媒体, 中",
+      "en": "n. a means or instrumentality for storing or communicating information\nn. the surrounding environment\nn. an intervening substance through which signals can travel as a means for communication\nn. a liquid with which pigment is mixed by a painter",
+      "phonetic": "'mi:diәm",
+      "forms": [
+        "mediums",
+        "medium"
+      ],
+      "example": "Spiritualism is the belief that the dead can be contacted through people known as mediums.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "emerged",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerged"
+      ],
+      "example": "It emerged in the US in the late 1840s, following claims from self-styled mediums the Fox sisters that spirits communicated with them through mysterious knocks.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "self-styled",
+      "headword": "self-styled",
+      "kind": "word",
+      "zh": "a. 自称的, 自任的",
+      "en": "s. as claimed by and for yourself often without justification",
+      "phonetic": "'self'staild",
+      "forms": [
+        "self-styled"
+      ],
+      "example": "It emerged in the US in the late 1840s, following claims from self-styled mediums the Fox sisters that spirits communicated with them through mysterious knocks.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "mysterious",
+      "headword": "mysterious",
+      "kind": "word",
+      "zh": "a. 神秘的, 难解的, 不可思议的",
+      "en": "s. having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding",
+      "phonetic": "mis'tiәriәs",
+      "forms": [
+        "mysterious"
+      ],
+      "example": "It emerged in the US in the late 1840s, following claims from self-styled mediums the Fox sisters that spirits communicated with them through mysterious knocks.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "knocks",
+      "headword": "knock",
+      "kind": "word",
+      "zh": "n. 敲, 敲打, 敲门\nv. 敲击, 互撞, 攻击",
+      "en": "n. the sound of knocking (as on a door or in an engine or bearing)\nn. negative criticism\nn. a vigorous blow\nn. a bad experience",
+      "phonetic": "nɒk",
+      "forms": [
+        "knocks"
+      ],
+      "example": "It emerged in the US in the late 1840s, following claims from self-styled mediums the Fox sisters that spirits communicated with them through mysterious knocks.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "seances",
+      "headword": "seance",
+      "kind": "word",
+      "zh": "n. 会议, 降神会",
+      "en": "n. a meeting of spiritualists",
+      "phonetic": "'seiɒns",
+      "forms": [
+        "seances",
+        "seance"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "demonstrations",
+      "headword": "demonstration",
+      "kind": "word",
+      "zh": "n. 示范, 实证\n[医] 示教, 实物教授",
+      "en": "n. a show of military force or preparedness\nn. a public display of group feelings (usually of a political nature)\nn. proof by a process of argument or a series of proposition proving an asserted conclusion\nn. a visual presentation showing how something works",
+      "phonetic": ".demәn'streiʃәn",
+      "forms": [
+        "demonstrations"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "specialist",
+      "headword": "specialist",
+      "kind": "word",
+      "zh": "n. 专门医师, 专家\na. 专业的, 专家的",
+      "en": "n. an expert who is devoted to one occupation or branch of learning\nn. practices one branch of medicine",
+      "phonetic": "'speiʃәlist",
+      "forms": [
+        "specialist"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "publications",
+      "headword": "publication",
+      "kind": "word",
+      "zh": "n. 出版物, 出版, 公布\n[经] 发布",
+      "en": "n. a copy of a printed work offered for distribution\nn. the communication of something to the public; making information generally known\nn. the business of issuing printed matter for sale or distribution",
+      "phonetic": ".pʌbli'keiʃәn",
+      "forms": [
+        "publications"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v110",
+      "term": "cabinets",
+      "headword": "cabinet",
+      "kind": "word",
+      "zh": "n. 橱柜, 内阁\na. 内阁的, 细木工做的\n[计] 机柜",
+      "en": "n. a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display\nn. persons appointed by a head of state to head executive departments of government and act as official advisers\nn. a storage compartment for clothes and valuables; usually it has a lock\nn. housing for electronic instruments, as radio or television",
+      "phonetic": "'kæbinit",
+      "forms": [
+        "cabinets"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "create",
+      "headword": "create",
+      "kind": "word",
+      "zh": "vt. 创造, 建造, 引起, 任命",
+      "en": "v. bring into existence\nv. pursue a creative activity; be engaged in a creative activity\nv. invest with a new title, office, or rank\nv. create by artistic means",
+      "phonetic": "kri:'eit",
+      "forms": [
+        "create"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "celebrities",
+      "headword": "celebrity",
+      "kind": "word",
+      "zh": "n. 名声, 名人",
+      "en": "n. a widely known person",
+      "phonetic": "si'lebrti",
+      "forms": [
+        "celebrities"
+      ],
+      "example": "Seances, public demonstrations, specialist publications and objects such as “spirit cabinets” helped create a movement with its own celebrities and commercial networks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "expressing",
+      "headword": "express",
+      "kind": "word",
+      "zh": "n. 快车, 快递, 专使\na. 明确的, 丝毫不差的, 专门的, 快的\nvt. 表达, 表示, 表露",
+      "en": "n. mail that is distributed by a rapid and efficient system\nn. public transport consisting of a fast train or bus that makes only a few scheduled stops\nn. rapid transport of goods\nv. give expression to",
+      "phonetic": "ik'spres",
+      "forms": [
+        "expressing"
+      ],
+      "example": "An article appeared in The Times in 1872 expressing surprise that among “a generation which boasts itself to be one of exact science”, spiritualism had developed such interest.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "surprise",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprise"
+      ],
+      "example": "An article appeared in The Times in 1872 expressing surprise that among “a generation which boasts itself to be one of exact science”, spiritualism had developed such interest.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "boasts",
+      "headword": "boast",
+      "kind": "word",
+      "zh": "n. 吹牛\nvi. 吹牛, 自夸\nvt. 夸口说, 自恃有",
+      "en": "n. speaking of yourself in superlatives\nv. show off",
+      "phonetic": "bәust",
+      "forms": [
+        "boasts"
+      ],
+      "example": "An article appeared in The Times in 1872 expressing surprise that among “a generation which boasts itself to be one of exact science”, spiritualism had developed such interest.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "An article appeared in The Times in 1872 expressing surprise that among “a generation which boasts itself to be one of exact science”, spiritualism had developed such interest.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "interpretation",
+      "headword": "interpretation",
+      "kind": "word",
+      "zh": "n. 解释, 演出, 翻译\n[计] 插值; 插值法; 解释",
+      "en": "n. a mental representation of the meaning or significance of something\nn. an explanation that results from interpreting something\nn. an explanation of something that is not immediately obvious",
+      "phonetic": "in.tә:pri'teiʃәn",
+      "forms": [
+        "interpretation"
+      ],
+      "example": "In our interpretation, spiritualism offered access to something apparently missing from a society increasingly focused on producing, acquiring and displaying “things”: evidence that there was more to life than the material world.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "acquiring",
+      "headword": "acquire",
+      "kind": "word",
+      "zh": "vt. 获得, 学到\n[电] 目标锁定",
+      "en": "v. locate (a moving entity) by means of a tracking system such as radar\nv. win something through one's efforts",
+      "phonetic": "ә'kwaiә",
+      "forms": [
+        "acquiring"
+      ],
+      "example": "In our interpretation, spiritualism offered access to something apparently missing from a society increasingly focused on producing, acquiring and displaying “things”: evidence that there was more to life than the material world.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "displaying",
+      "headword": "display",
+      "kind": "word",
+      "zh": "n. 显示, 陈列, 炫耀, 显示器\nvt. 陈列, 显示, 表现, 夸示\n[计] 显示器; 显示",
+      "en": "n. something intended to communicate a particular impression\nn. something shown to the public\nn. a visual representation of something\nn. behavior that makes your feelings public",
+      "phonetic": "dis'plei",
+      "forms": [
+        "displaying"
+      ],
+      "example": "In our interpretation, spiritualism offered access to something apparently missing from a society increasingly focused on producing, acquiring and displaying “things”: evidence that there was more to life than the material world.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "encounters",
+      "headword": "encounter",
+      "kind": "word",
+      "zh": "n. 相会, 相遇, 遭遇\nvt. 遇见, 邂逅, 会战\nvi. 偶然相遇",
+      "en": "n. a casual meeting with a person or thing",
+      "phonetic": "in'kauntә",
+      "forms": [
+        "encounters"
+      ],
+      "example": "Yet spiritualism seemed to make that offer through more things: paid encounters, purchasable photographs and advertised products.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "purchasable",
+      "headword": "purchasable",
+      "kind": "word",
+      "zh": "a. 可买的, 可收买的",
+      "en": "s. available for purchase",
+      "phonetic": "'pә:tʃәsәbl",
+      "forms": [
+        "purchasable"
+      ],
+      "example": "Yet spiritualism seemed to make that offer through more things: paid encounters, purchasable photographs and advertised products.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "photographs",
+      "headword": "photograph",
+      "kind": "word",
+      "zh": "n. 相片, 照片, 逼真的描绘\nv. 照相, 摄影",
+      "en": "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\nv. record on photographic film\nv. undergo being photographed in a certain way",
+      "phonetic": "'fәutәgrɑ:f",
+      "forms": [
+        "photographs"
+      ],
+      "example": "Yet spiritualism seemed to make that offer through more things: paid encounters, purchasable photographs and advertised products.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "advertised",
+      "headword": "advertise",
+      "kind": "word",
+      "zh": "vt. 做广告, 通知, 公布\nvi. 做广告",
+      "en": "v. call attention to\nv. make publicity for; try to sell (a product)",
+      "phonetic": "'ædvәtaiz",
+      "forms": [
+        "advertised"
+      ],
+      "example": "Yet spiritualism seemed to make that offer through more things: paid encounters, purchasable photographs and advertised products.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "This is where Žižek’s obscene supplement becomes revealing.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "apparent",
+      "headword": "apparent",
+      "kind": "word",
+      "zh": "a. 清晰可见的, 显然的, 表面上的\n[电] 外在的",
+      "en": "s. clearly revealed to the mind or the senses or judgment\ns. appearing as such but not necessarily so",
+      "phonetic": "ә'pærәnt",
+      "forms": [
+        "apparent"
+      ],
+      "example": "A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "opposites",
+      "headword": "opposite",
+      "kind": "word",
+      "zh": "a. 相对的, 相反的, 对面的\nprep. 对面\nn. 对立面",
+      "en": "s. being directly across from each other; facing\na. of leaves etc; growing in pairs on either side of a stem\ns. moving or facing away from each other\ns. the other one of a complementary pair",
+      "phonetic": "'ɒpәzit",
+      "forms": [
+        "opposites"
+      ],
+      "example": "A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "demands",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demands"
+      ],
+      "example": "A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "fundamentally",
+      "headword": "fundamentally",
+      "kind": "word",
+      "zh": "adv. 基础, 首要, 主要, 十分重要, 基本, 根本, 原始, 基频, 基音, 基谐波",
+      "en": "r in essence; at bottom or by one's (or its) very nature",
+      "phonetic": "fʌndә'mentәli",
+      "forms": [
+        "fundamentally"
+      ],
+      "example": "A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "escape",
+      "headword": "escape",
+      "kind": "word",
+      "zh": "n. 逃亡, 避难设备, 逃跑\nvi. 逃脱, 避开, 溜走\nvt. 逃避, 避免, 被...忘掉",
+      "en": "n. the act of escaping physically\nn. an inclination to retreat from unpleasant realities through diversion or fantasy\nn. an avoidance of danger or difficulty\nn. a means or way of escaping",
+      "phonetic": "i'skeip",
+      "forms": [
+        "escape"
+      ],
+      "example": "Spiritualism offered an escape from Victorian commercial culture while drawing people into new forms of consumption.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "consumption",
+      "headword": "consumption",
+      "kind": "word",
+      "zh": "n. 消费, 消费量, 痨病\n[化] 消耗量; 耗量",
+      "en": "n. the process of taking food into the body through the mouth (as by eating)\nn. (economics) the utilization of economic goods to satisfy needs or in manufacturing\nn. the act of consuming something",
+      "phonetic": "kәn'sʌmpʃәn",
+      "forms": [
+        "consumption"
+      ],
+      "example": "Spiritualism offered an escape from Victorian commercial culture while drawing people into new forms of consumption.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "convincing",
+      "headword": "convince",
+      "kind": "word",
+      "zh": "vt. 说服, 使相信\n[法] 使确信, 使信服, 使人认识错误",
+      "en": "v make (someone) agree, understand, or realize the truth or validity of something",
+      "phonetic": "kәn'vins",
+      "forms": [
+        "convincing"
+      ],
+      "example": "This is where Žižek’s obscene supplement becomes revealing. A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them. Spiritualism offered an escape from Victorian commercial culture while drawing people into new forms of consumption. Making that offer convincing required careful management.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "careful",
+      "headword": "careful",
+      "kind": "word",
+      "zh": "a. 小心的, 谨慎的",
+      "en": "a. exercising caution or showing care or attention\ns. cautiously attentive\ns. unhurried and with care and dignity\ns. full of cares or anxiety",
+      "phonetic": "'kєәful",
+      "forms": [
+        "careful"
+      ],
+      "example": "This is where Žižek’s obscene supplement becomes revealing. A society’s apparent opposites can provide ways of living with its demands without fundamentally changing them. Spiritualism offered an escape from Victorian commercial culture while drawing people into new forms of consumption. Making that offer convincing required careful management.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "impossible",
+      "headword": "impossible",
+      "kind": "word",
+      "zh": "a. 不可能的, 难以置信的, 令人无法忍受的",
+      "en": "n. something that cannot be done\na. not capable of occurring or being accomplished or dealt with\ns. totally unlikely\ns. used of persons or their behavior",
+      "phonetic": "im'pɒsәbl",
+      "forms": [
+        "impossible"
+      ],
+      "example": "Making the impossible marketable",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "warned",
+      "headword": "warn",
+      "kind": "word",
+      "zh": "vt. 警告, 提醒, 通知\nvi. 发出警告",
+      "en": "v. notify of danger, potential harm, or risk\nv. admonish or counsel in terms of someone's behavior\nv. ask to go away\nv. notify, usually in advance",
+      "phonetic": "wɒ:n",
+      "forms": [
+        "warned",
+        "warning"
+      ],
+      "example": "Spiritualist publications warned that mediumship could not be bought.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "nevertheless",
+      "headword": "nevertheless",
+      "kind": "word",
+      "zh": "adv. 然而, 虽然如此\nconj. 然而",
+      "en": "r despite anything to the contrary (usually following a concession)",
+      "phonetic": ".nevәðә'les",
+      "forms": [
+        "nevertheless"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "livelihoods",
+      "headword": "livelihood",
+      "kind": "word",
+      "zh": "n. 生计, 营生, 生活",
+      "en": "n the financial means whereby one lives",
+      "phonetic": "'laivlihud",
+      "forms": [
+        "livelihoods"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "publishers",
+      "headword": "publisher",
+      "kind": "word",
+      "zh": "n. 出版者, 发行人\n[法] 发行人, 出版者, 报刊发行者",
+      "en": "n. a firm in the publishing business\nn. a person engaged in publishing periodicals or books or music\nn. the proprietor of a newspaper",
+      "phonetic": "'pʌbliʃә",
+      "forms": [
+        "publishers"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "subscribers",
+      "headword": "subscriber",
+      "kind": "word",
+      "zh": "n. 签署者, 捐献者, 订户\n[经] 定户",
+      "en": "n. someone who expresses strong approval\nn. someone who contracts to receive and pay for a service or a certain number of issues of a publication\nn. someone who contributes (or promises to contribute) a sum of money",
+      "phonetic": "sʌbs'kraibә",
+      "forms": [
+        "subscribers"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "organisers",
+      "headword": "organiser",
+      "kind": "word",
+      "zh": "[经] 组织者, 创立人, 发起人",
+      "en": "n someone who enlists workers to join a union\nn a person who brings order and organization to an enterprise\nn a lightweight consumer electronic device that looks like a hand-held computer but instead performs specific tasks; can serve as a diary or a personal database or a telephone or an alarm clock etc.",
+      "phonetic": "",
+      "forms": [
+        "organisers"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "exhausting",
+      "headword": "exhaust",
+      "kind": "word",
+      "zh": "n. 排气, 排气装置, 废气\nvt. 抽完, 用尽, 耗尽, 使精疲力尽\nvi. 排气",
+      "en": "n. gases ejected from an engine as waste products\nn. system consisting of the parts of an engine through which burned gases or steam are discharged\nv. wear out completely\nv. use up the whole supply of",
+      "phonetic": "ig'zɒ:st",
+      "forms": [
+        "exhausting"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "dangerous",
+      "headword": "dangerous",
+      "kind": "word",
+      "zh": "a. 危险的\n[法] 危险的, 危害的",
+      "en": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm",
+      "phonetic": "'deindʒәrәs",
+      "forms": [
+        "dangerous"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "duty",
+      "headword": "duty",
+      "kind": "word",
+      "zh": "n. 责任, 关税, 职务, 尊敬\n[化] 职责",
+      "en": "n. the social force that binds you to the courses of action demanded by that force; every opportunity, an obligation; every possession, a duty\"- John D.Rockefeller Jr\nn. work that you are obliged to perform for moral or legal reasons\nn. a government tax on imports or exports",
+      "phonetic": "'dju:ti",
+      "forms": [
+        "duty"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "selfless",
+      "headword": "selfless",
+      "kind": "word",
+      "zh": "a. 不顾自己的, 无私的",
+      "en": "a showing unselfish concern for the welfare of others",
+      "phonetic": "'selflis",
+      "forms": [
+        "selfless"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "practitioners",
+      "headword": "practitioner",
+      "kind": "word",
+      "zh": "n. 从业者, 开业者\n[医] 行医者, 医师",
+      "en": "n. someone who practices a learned profession",
+      "phonetic": "præk'tiʃәnә",
+      "forms": [
+        "practitioners"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "deserved",
+      "headword": "deserve",
+      "kind": "word",
+      "zh": "vt. 该得到, 值得\nvi. 应得报答",
+      "en": "v. be worthy or deserving",
+      "phonetic": "di'zә:v",
+      "forms": [
+        "deserved"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "fairly",
+      "headword": "fairly",
+      "kind": "word",
+      "zh": "adv. 美观地, 公平地, 相当地, 清楚地",
+      "en": "r. without favoring one party, in a fair evenhanded manner\nr. in conformity with the rules or laws and without fraud or cheating",
+      "phonetic": "'fєәli",
+      "forms": [
+        "fairly"
+      ],
+      "example": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "publicly",
+      "headword": "publicly",
+      "kind": "word",
+      "zh": "adv. 公然地, 以公众名义",
+      "en": "r. in a manner accessible to or observable by the public; openly\nr. by the public or the people generally",
+      "phonetic": "'pʌblikli",
+      "forms": [
+        "publicly"
+      ],
+      "example": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "refuse",
+      "headword": "refuse",
+      "kind": "word",
+      "zh": "vt. 拒绝, 谢绝\nvi. 拒绝\nn. 废物\na. 扔掉的, 无用的",
+      "en": "v. show unwillingness towards\nv. refuse to accept",
+      "phonetic": "ri'fju:z",
+      "forms": [
+        "refuse"
+      ],
+      "example": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "direct",
+      "headword": "direct",
+      "kind": "word",
+      "zh": "a. 直接的, 坦白的\nvt. 指示, 指挥, 命令, 导演\nvi. 指导, 指挥\nadv. 直接地",
+      "en": "v. command with authority\nv. guide the actors in (plays and films)\nv. be in charge of\nv. give directions to; point somebody into a certain direction",
+      "phonetic": "di'rekt",
+      "forms": [
+        "direct"
+      ],
+      "example": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "payment",
+      "headword": "payment",
+      "kind": "word",
+      "zh": "n. 付款, 支付的款项(或实物), 偿还, 报应, 惩罚\n[经] 支付, 缴纳, 支付款额",
+      "en": "n. a sum of money paid or a claim discharged\nn. the act of paying money",
+      "phonetic": "'peimәnt",
+      "forms": [
+        "payment"
+      ],
+      "example": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "hospitality",
+      "headword": "hospitality",
+      "kind": "word",
+      "zh": "n. 款待, 亲切, 殷勤",
+      "en": "n kindness in welcoming guests or strangers",
+      "phonetic": ".hɒspi'tæliti",
+      "forms": [
+        "hospitality"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "wealthy",
+      "headword": "wealthy",
+      "kind": "word",
+      "zh": "a. 富有的, 丰裕的, 充分的",
+      "en": "s having an abundant supply of money or possessions of value",
+      "phonetic": "'welθi",
+      "forms": [
+        "wealthy"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "patrons",
+      "headword": "patron",
+      "kind": "word",
+      "zh": "n. 赞助人, 顾客, 保护人\n[法] 保护人, 庇护人, 赞助人",
+      "en": "n. a regular customer\nn. the proprietor of an inn\nn. someone who supports or champions something",
+      "phonetic": "'peitrәn",
+      "forms": [
+        "patrons"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "requested",
+      "headword": "request",
+      "kind": "word",
+      "zh": "n. 请求, 需要, 申请书\nvt. 请求, 要求, 邀请\n[计] 请求",
+      "en": "n. a formal message requesting something that is submitted to an authority\nn. the verbal act of requesting\nv. express the need or desire for; ask for\nv. ask (a person) to do something",
+      "phonetic": "ri'kwest",
+      "forms": [
+        "requested"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "expenses",
+      "headword": "expense",
+      "kind": "word",
+      "zh": "n. 费用, 代价, 开支, 损失\n[经] 费用, 开支, 将支出转为费用",
+      "en": "n. amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)\nn. a detriment or sacrifice\nn. money spent to perform work and usually reimbursed by an employer\nv. reduce the estimated value of something",
+      "phonetic": "ik'spens",
+      "forms": [
+        "expenses"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "moderate",
+      "headword": "moderate",
+      "kind": "word",
+      "zh": "a. 适度的, 稳健的, 中等的, 节制的\nvt. 节制, 减轻, 使缓和\nvi. 变缓和, 主持会议",
+      "en": "v. preside over\nv. make less fast or intense\na. being within reasonable or average limits; not excessive or extreme\ns. not extreme",
+      "phonetic": "'mɒdәrәt",
+      "forms": [
+        "moderate"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "proportionate",
+      "headword": "proportionate",
+      "kind": "word",
+      "zh": "a. 相称的, 成比例的, 适当的\nvt. 使相称, 使成比例",
+      "en": "a. being in due proportion\ns. agreeing in amount, magnitude, or degree",
+      "phonetic": "prә'pɒ:ʃәnit",
+      "forms": [
+        "proportionate"
+      ],
+      "example": "Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "tension",
+      "headword": "tension",
+      "kind": "word",
+      "zh": "n. 紧张, 不安, 拉紧, 张力, 压力, 电压\nvt. 拉紧, 使紧张",
+      "en": "n. (psychology) a state of mental or emotional strain or suspense\nn. the physical condition of being stretched or strained\nn. a balance between and interplay of opposing elements or tendencies (especially in art or literature)\nn. (physics) a stress that produces an elongation of an elastic physical body",
+      "phonetic": "'tenʃәn",
+      "forms": [
+        "tension"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "periodicals",
+      "headword": "periodical",
+      "kind": "word",
+      "zh": "n. 期刊\na. 定期出版的, (有关)期刊的, 间歇(性的), 周期的, 定期的",
+      "en": "n. a publication that appears at fixed intervals",
+      "phonetic": ".piәri'ɒdikl",
+      "forms": [
+        "periodicals"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "daybreak",
+      "headword": "daybreak",
+      "kind": "word",
+      "zh": "n. 黎明",
+      "en": "n the first light of day",
+      "phonetic": "'deibreik",
+      "forms": [
+        "daybreak"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "devote",
+      "headword": "devote",
+      "kind": "word",
+      "zh": "vt. 投入于, 献身",
+      "en": "v. set aside or apart for a specific purpose or use",
+      "phonetic": "di'vәut",
+      "forms": [
+        "devote"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "condemning",
+      "headword": "condemn",
+      "kind": "word",
+      "zh": "vt. 判刑, 责备, 谴责\n[法] 定罪, 判刑, 宣告有罪",
+      "en": "v. express strong disapproval of\nv. declare or judge unfit for use or habitation\nv. compel or force into a particular state or activity\nv. demonstrate the guilt of (someone)",
+      "phonetic": "kәn'dem",
+      "forms": [
+        "condemning"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "materialism",
+      "headword": "materialism",
+      "kind": "word",
+      "zh": "n. 唯物主义",
+      "en": "n. a desire for wealth and material possessions with little interest in ethical or spiritual matters\nn. (philosophy) the philosophical theory that matter is the only reality",
+      "phonetic": "mә'tiәriәlizm",
+      "forms": [
+        "materialism"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "readers",
+      "headword": "reader",
+      "kind": "word",
+      "zh": "n. 读者, 读物, 文选, 校对人, 讲师\n[计] 阅读程序; 阅读器",
+      "en": "n. a person who enjoys reading\nn. a person who can read; a literate person\nn. one of a series of texts for students learning to read",
+      "phonetic": "'ri:dә",
+      "forms": [
+        "readers"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "excessive",
+      "headword": "excessive",
+      "kind": "word",
+      "zh": "a. 过度的, 过多的, 极端的\n[法] 过度的, 过分的, 额外的",
+      "en": "s. beyond normal limits\ns. unrestrained, especially with regard to feelings",
+      "phonetic": "ik'sesiv",
+      "forms": [
+        "excessive"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "attachment",
+      "headword": "attachment",
+      "kind": "word",
+      "zh": "n. 连接, 附属物, 连接物, 爱慕\n[计] 附加, 附件",
+      "en": "n. a feeling of affection for a person or an institution\nn. a supplementary part or accessory\nn. a writ authorizing the seizure of property that may be needed for the payment of a judgment in a judicial proceeding",
+      "phonetic": "ә'tʃætʃmәnt",
+      "forms": [
+        "attachment"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "worldly",
+      "headword": "worldly",
+      "kind": "word",
+      "zh": "a. 世间的, 世俗的, 世上的",
+      "en": "a. characteristic of or devoted to the temporal world as opposed to the spiritual world",
+      "phonetic": "'wә:ldli",
+      "forms": [
+        "worldly"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "possessions",
+      "headword": "possession",
+      "kind": "word",
+      "zh": "n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷\n[经] 占有, 持有",
+      "en": "n. the act of having and controlling property\nn. anything owned or possessed\nn. being controlled by passion or the supernatural\nn. a territory that is controlled by a ruling state",
+      "phonetic": "pә'zeʃәn",
+      "forms": [
+        "possessions"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "advertisements",
+      "headword": "advertisement",
+      "kind": "word",
+      "zh": "n. 广告, 启事, 广告宣传\n[法] 广告, 公告, 告示",
+      "en": "n a public promotion of some product or service",
+      "phonetic": ".ædvә'taizmәnt",
+      "forms": [
+        "advertisements"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "dubious",
+      "headword": "dubious",
+      "kind": "word",
+      "zh": "a. 可疑的, 不确定的",
+      "en": "s. not convinced",
+      "phonetic": "'dju:biәs",
+      "forms": [
+        "dubious"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "remedies",
+      "headword": "remedy",
+      "kind": "word",
+      "zh": "n. 药物, 治疗法, 治疗, 补救, 赔偿\nvt. 治疗, 补救, 矫正, 改善, 修补, 修缮",
+      "en": "n. a medicine or therapy that cures disease or relieve pain\nv. provide relief for",
+      "phonetic": "'remidi",
+      "forms": [
+        "remedies"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "elixirs",
+      "headword": "elixir",
+      "kind": "word",
+      "zh": "n. 炼金药, 不老长寿药, 万能药\n[化] 酏剂",
+      "en": "n. a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste\nn. a substance believed to cure all ills",
+      "phonetic": "i'liksә",
+      "forms": [
+        "elixirs"
+      ],
+      "example": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "critique",
+      "headword": "critique",
+      "kind": "word",
+      "zh": "n. 评论文章, 评论",
+      "en": "n an essay or article that gives a critical evaluation (as of a book or play)\nn a serious examination and judgment of something\nv appraise critically",
+      "phonetic": "kri'ti:k",
+      "forms": [
+        "critique"
+      ],
+      "example": "Spiritualism’s critique of consumer culture actually helped generate further opportunities for consumption.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "generate",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generate"
+      ],
+      "example": "Spiritualism’s critique of consumer culture actually helped generate further opportunities for consumption.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "balancing",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balancing"
+      ],
+      "example": "Scientific credibility also required balancing. Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "involvement",
+      "headword": "involvement",
+      "kind": "word",
+      "zh": "n. 卷入, 牵连, 包含, 困窘\n[经] 财政困难, 经济上的困窘",
+      "en": "n. a connection of inclusion or containment",
+      "phonetic": "in'vɔlvmәnt",
+      "forms": [
+        "involvement"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "approximated",
+      "headword": "approximate",
+      "kind": "word",
+      "zh": "a. 大约的, 接近的, 近似的\nvt. 接近, 使接近, 粗略估计\nvi. 接近于",
+      "en": "v. be close or similar\ns. not quite exact or correct\ns. very close in resemblance\ns. located close together",
+      "phonetic": "ә'prɒksimәt",
+      "forms": [
+        "approximated"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "philosophical",
+      "headword": "philosophical",
+      "kind": "word",
+      "zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
+      "en": "s. characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
+      "phonetic": ".filә'sɒfikl",
+      "forms": [
+        "philosophical"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "technical",
+      "headword": "technical",
+      "kind": "word",
+      "zh": "a. 技术上的, 专门的, 工业的, 严格根据法律的\n[化] 技巧",
+      "en": "n. a pickup truck with a gun mounted on it\na. of or relating to technique or proficiency in a practical skill\na. characterizing or showing skill in or specialized knowledge of applied arts and sciences\na. of or relating to a practical subject that is organized according to scientific principles",
+      "phonetic": "'teknikl",
+      "forms": [
+        "technical"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v181",
+      "term": "equipment",
+      "headword": "equipment",
+      "kind": "word",
+      "zh": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置",
+      "en": "n. an instrumentality needed for an undertaking or to perform a service",
+      "phonetic": "i'kwipmәnt",
+      "forms": [
+        "equipment"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "extraordinary",
+      "headword": "extraordinary",
+      "kind": "word",
+      "zh": "a. 非常的, 特别的, 非凡的\n[经] 非常的, 特别的, 临时的",
+      "en": "a. beyond what is ordinary or usual; highly unusual or exceptional or remarkable\ns. far more than usual or expected\ns. (of an official) serving an unusual or special function in addition to those of the regular officials",
+      "phonetic": "ik'strɒ:dәnәri",
+      "forms": [
+        "extraordinary"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "worthy",
+      "headword": "worthy",
+      "kind": "word",
+      "zh": "n. 杰出人物\na. 有价值的, 可敬的, 值得的",
+      "en": "n. an important, honorable person (word is often used humorously)\na. having worth or merit or value; being honorable or admirable\ns. having qualities or abilities that merit recognition in some way",
+      "phonetic": "'wә:ði",
+      "forms": [
+        "worthy"
+      ],
+      "example": "Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "supposedly",
+      "headword": "supposedly",
+      "kind": "word",
+      "zh": "adv. 想象上, 看上去像, 被认为是, 恐怕, 按照推测",
+      "en": "r believed or reputed to be the case",
+      "phonetic": "sә'pәuzidli",
+      "forms": [
+        "supposedly"
+      ],
+      "example": "A supposedly objective technology could produce images presented as evidence of spirits.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v185",
+      "term": "objective",
+      "headword": "objective",
+      "kind": "word",
+      "zh": "n. 目的, 目标, 宗旨, 宾格, 实物\na. 客观的, 如实的, 无偏见的, 宾格的",
+      "en": "n. the lens or system of lenses in a telescope or microscope that is nearest the object being viewed\na. undistorted by emotion or personal bias; based on observable phenomena\na. serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes\ns. emphasizing or expressing things as perceived without distortion of personal feelings, insertion of fictional matter, or interpretation",
+      "phonetic": "әb'dʒektiv",
+      "forms": [
+        "objective"
+      ],
+      "example": "A supposedly objective technology could produce images presented as evidence of spirits.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v186",
+      "term": "dependence",
+      "headword": "dependence",
+      "kind": "word",
+      "zh": "n. 依赖, 依存, 信赖\n[医] 依赖(如对药物的依赖,即瘾或癖), 从属, 偏利共生",
+      "en": "n. the state of relying on or being controlled by someone or something else",
+      "phonetic": "di'pendәns",
+      "forms": [
+        "dependence"
+      ],
+      "example": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v187",
+      "term": "darkroom",
+      "headword": "darkroom",
+      "kind": "word",
+      "zh": "n. 暗房\n[医] 暗室",
+      "en": "n. a room in which photographs are developed",
+      "phonetic": "'dɑ:krum",
+      "forms": [
+        "darkroom"
+      ],
+      "example": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v188",
+      "term": "supplied",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supplied"
+      ],
+      "example": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v189",
+      "term": "analogy",
+      "headword": "analogy",
+      "kind": "word",
+      "zh": "n. 相似, 类似\n[计] 模拟",
+      "en": "n. an inference that if things agree in some respects they probably agree in others\nn. drawing a comparison in order to show a similarity in some respect",
+      "phonetic": "ә'nælәdʒi",
+      "forms": [
+        "analogy"
+      ],
+      "example": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v190",
+      "term": "darkness",
+      "headword": "darkness",
+      "kind": "word",
+      "zh": "n. 黑暗, 暗, 深色, 隐密, 模糊, 无知",
+      "en": "n. an unilluminated area\nn. having a dark or somber color\nn. a swarthy complexion",
+      "phonetic": "'dɑ:knis",
+      "forms": [
+        "darkness"
+      ],
+      "example": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v191",
+      "term": "photographic",
+      "headword": "photographic",
+      "kind": "word",
+      "zh": "a. 照相的, 摄影用的, 详细记录的, 逼真的, 酷似的",
+      "en": "a. relating to photography or obtained by using photography\ns. representing people or nature with the exactness and fidelity of a photograph",
+      "phonetic": ".fәutә'græfik",
+      "forms": [
+        "photographic"
+      ],
+      "example": "An account in Medium and Daybreak described a photographic seance near Newcastle in 1880.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v192",
+      "term": "correspondent",
+      "headword": "correspondent",
+      "kind": "word",
+      "zh": "n. 通讯记者, 通信者\n[经] 客户, 代理商行, 代理银行",
+      "en": "n. someone who communicates by means of letters\nn. a journalist employed to provide news stories for newspapers or broadcast media",
+      "phonetic": ".kɒri'spɒndәnt",
+      "forms": [
+        "correspondent"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v193",
+      "term": "alludes",
+      "headword": "allude",
+      "kind": "word",
+      "zh": "vi. 暗指, 提及",
+      "en": "v. make a more or less disguised reference to",
+      "phonetic": "ә'lu:d",
+      "forms": [
+        "alludes"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v194",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v195",
+      "term": "conceal",
+      "headword": "conceal",
+      "kind": "word",
+      "zh": "vt. 隐藏, 掩盖, 隐瞒\n[法] 隐瞒, 隐匿, 保守秘密",
+      "en": "v. hold back; keep from being perceived by others",
+      "phonetic": "kәn'si:l",
+      "forms": [
+        "conceal"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v196",
+      "term": "trickery",
+      "headword": "trickery",
+      "kind": "word",
+      "zh": "n. 欺骗, 欺诈, 诡计\n[法] 诡计, 奸计, 诈骗",
+      "en": "n. verbal misrepresentation intended to take advantage of you in some way\nn. the use of tricks to deceive someone (usually to extract money from them)",
+      "phonetic": "'trikәri",
+      "forms": [
+        "trickery"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v197",
+      "term": "mitigate",
+      "headword": "mitigate",
+      "kind": "word",
+      "zh": "vt. 温和, 缓和, 减轻\n[医] 缓和, 减轻",
+      "en": "v. make less severe or harsh",
+      "phonetic": "'mitigeit",
+      "forms": [
+        "mitigate"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v198",
+      "term": "daylight",
+      "headword": "daylight",
+      "kind": "word",
+      "zh": "n. 白昼, 日光\nvt. 使沐浴于日光\nvi. 享有日光",
+      "en": "n. light during the daytime",
+      "phonetic": "'deilait",
+      "forms": [
+        "daylight"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v199",
+      "term": "materialisation",
+      "headword": "materialisation",
+      "kind": "word",
+      "zh": "物质化",
+      "en": "n. the process of coming into being; becoming reality\nn. an appearance in bodily form (as of a disembodied spirit)\nn. something that comes into existence as a result",
+      "phonetic": "",
+      "forms": [
+        "materialisation"
+      ],
+      "example": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v200",
+      "term": "capitalism",
+      "headword": "capitalism",
+      "kind": "word",
+      "zh": "n. 资本主义\n[经] 资本主义",
+      "en": "n. an economic system based on private ownership of capital",
+      "phonetic": "'kæpitәlizәm",
+      "forms": [
+        "capitalism"
+      ],
+      "example": "The ghosts of Victorian capitalism, it seems, have never quite stopped doing business.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v201",
+      "term": "haunt",
+      "headword": "haunt",
+      "kind": "word",
+      "zh": "n. 常到的地方, 生息地\nvt. 常到, 出没于, 萦绕于\nvi. 出没, 作祟",
+      "en": "n. a frequently visited place\nv. follow stealthily or recur constantly and spontaneously to\nv. haunt like a ghost; pursue",
+      "phonetic": "hɒ:nt",
+      "forms": [
+        "haunt"
+      ],
+      "example": "The ghosts of Victorian capitalism still haunt us",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v202",
+      "term": "grave",
+      "headword": "grave",
+      "kind": "word",
+      "zh": "n. 墓穴, 坟墓, 终结, 死亡\na. 庄重的, 严肃的, 重大的, 低沉的\nvt. 雕刻",
+      "en": "n. death of a person\nn. a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)\ns. dignified and somber in manner or character and committed to keeping promises\ns. of great gravity or crucial import; requiring serious thought",
+      "phonetic": "greiv",
+      "forms": [
+        "grave"
+      ],
+      "example": "The Victorian fascination with communicating beyond the grave may seem distant from our technologically sophisticated present.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v203",
+      "term": "distant",
+      "headword": "distant",
+      "kind": "word",
+      "zh": "a. 远的, 疏远的\n[经] 远期的",
+      "en": "a. separated in space or coming from or going to a distance\na. far apart in relevance or relationship or kinship\ns. separate or apart in time\ns. located far away spatially",
+      "phonetic": "'distәnt",
+      "forms": [
+        "distant"
+      ],
+      "example": "The Victorian fascination with communicating beyond the grave may seem distant from our technologically sophisticated present.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v204",
+      "term": "technologically",
+      "headword": "technologically",
+      "kind": "word",
+      "zh": "adv. 技术上地；科技地",
+      "en": "r. by means of technology",
+      "phonetic": "teknә'lɔdʒikәli",
+      "forms": [
+        "technologically"
+      ],
+      "example": "The Victorian fascination with communicating beyond the grave may seem distant from our technologically sophisticated present.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v205",
+      "term": "sophisticated",
+      "headword": "sophisticate",
+      "kind": "word",
+      "zh": "n. 久经世故的人, 精于...之道的人\nvt. 篡改, 曲解, 使变得世故, 掺合, 弄复杂\nvi. 诡辩",
+      "en": "n. a worldly-wise person\nv. make less natural or innocent\nv. alter and make impure, as with the intention to deceive",
+      "phonetic": "sә'fistikeit",
+      "forms": [
+        "sophisticated"
+      ],
+      "example": "The Victorian fascination with communicating beyond the grave may seem distant from our technologically sophisticated present.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v206",
+      "term": "contemporary",
+      "headword": "contemporary",
+      "kind": "word",
+      "zh": "n. 同时代的人\na. 同时代的, 属于同一时期的",
+      "en": "n. a person of nearly the same age as another\ns. characteristic of the present\ns. belonging to the present time",
+      "phonetic": "kәn'tempәrәri",
+      "forms": [
+        "contemporary"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v207",
+      "term": "digital",
+      "headword": "digital",
+      "kind": "word",
+      "zh": "a. 数字显示的, 数字的\nn. 数字仪表, 数字式电子表(或时钟)\n[计] 数字, 数字式",
+      "en": "a. displaying numbers rather than scale positions\na. relating to or performed with the fingers\na. of a circuit or device that represents magnitudes in digits",
+      "phonetic": "'didʒitәl",
+      "forms": [
+        "digital"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v208",
+      "term": "necromancy",
+      "headword": "necromancy",
+      "kind": "word",
+      "zh": "n. 巫术",
+      "en": "n. conjuring up the dead, especially for prophesying",
+      "phonetic": "'nekrәumænsi",
+      "forms": [
+        "necromancy"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v209",
+      "term": "remarkably",
+      "headword": "remarkably",
+      "kind": "word",
+      "zh": "adv. 显著地, 引人注目地, 非常地",
+      "en": "r to a remarkable degree or extent\nr in a signal manner",
+      "phonetic": "ri'mɑ:kәbli",
+      "forms": [
+        "remarkably"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v210",
+      "term": "transcend",
+      "headword": "transcend",
+      "kind": "word",
+      "zh": "vt. 超越, 胜过",
+      "en": "v be greater in scope or size than some standard\nv be superior or better than some standard",
+      "phonetic": "træn'send",
+      "forms": [
+        "transcend"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v211",
+      "term": "limits",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limits"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v212",
+      "term": "existence",
+      "headword": "existence",
+      "kind": "word",
+      "zh": "n. 存在, 生存\n[法] 存在, 存在状态, 实体",
+      "en": "n the state or fact of existing\nn everything that exists anywhere",
+      "phonetic": "ig'zistәns",
+      "forms": [
+        "existence"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v213",
+      "term": "streams",
+      "headword": "stream",
+      "kind": "word",
+      "zh": "n. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流",
+      "en": "n. a natural body of running water flowing on or under the earth\nn. dominant course (suggestive of running water) of successive events or ideas\nn. something that resembles a flowing stream in moving continuously\nv. to extend, wave or float outward, as if in the wind",
+      "phonetic": "stri:m",
+      "forms": [
+        "streams"
+      ],
+      "example": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v214",
+      "term": "entrepreneurs",
+      "headword": "entrepreneur",
+      "kind": "word",
+      "zh": "n. 企业家, 主办人\n[经] 承包商, 企业家",
+      "en": "n. someone who organizes a business venture and assumes the risk for it",
+      "phonetic": ".ɒntrәprә'nә:",
+      "forms": [
+        "entrepreneurs"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v215",
+      "term": "operate",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operate"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v216",
+      "term": "delicate",
+      "headword": "delicate",
+      "kind": "word",
+      "zh": "a. 细致优雅的, 微妙的, 美味的\n[医] 柔弱的",
+      "en": "a. exquisitely fine and subtle and pleasing; susceptible to injury\ns. marked by great skill especially in meticulous technique\ns. easily broken or damaged or destroyed\ns. easily hurt",
+      "phonetic": "'delikәt",
+      "forms": [
+        "delicate"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v217",
+      "term": "emotional",
+      "headword": "emotional",
+      "kind": "word",
+      "zh": "a. 情绪的, 情感的\n[医] 情绪的",
+      "en": "a. determined or actuated by emotion rather than reason\na. of more than usual emotion\na. of or pertaining to emotion",
+      "phonetic": "i'mәuʃәnәl",
+      "forms": [
+        "emotional"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v218",
+      "term": "technological",
+      "headword": "technological",
+      "kind": "word",
+      "zh": "a. 技术的\n[经] 工艺的, 技术的",
+      "en": "s. based in scientific and industrial progress",
+      "phonetic": ".teknә'lɒdʒikl",
+      "forms": [
+        "technological"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v219",
+      "term": "legitimacy",
+      "headword": "legitimacy",
+      "kind": "word",
+      "zh": "n. 合法, 正统, 正当\n[法] 合法性, 正统性, 婚生",
+      "en": "n. lawfulness by virtue of being authorized or in accordance with law",
+      "phonetic": "li'dʒitimәsi",
+      "forms": [
+        "legitimacy"
+      ],
+      "example": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v220",
+      "term": "promise",
+      "headword": "promise",
+      "kind": "word",
+      "zh": "n. 诺言, 约定的事情, 有指望\nvt. 允诺, 约定, 预示\nvi. 允诺, 有前途, 有指望",
+      "en": "n. a verbal commitment by one person to another agreeing to do (or not to do) something in the future\nn. grounds for feeling hopeful about the future\nv. make a promise or commitment\nv. promise to undertake or give",
+      "phonetic": "'prɒmis",
+      "forms": [
+        "promise"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v221",
+      "term": "connection",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connection"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v222",
+      "term": "sincerely",
+      "headword": "sincerely",
+      "kind": "word",
+      "zh": "adv. 真诚地",
+      "en": "r. with sincerity; without pretense\nr. written formula for ending a letter",
+      "phonetic": "sin'siәli",
+      "forms": [
+        "sincerely"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v223",
+      "term": "deeply",
+      "headword": "deeply",
+      "kind": "word",
+      "zh": "adv. 深刻地, 在深处, 深沉地",
+      "en": "r. to a great depth; far down",
+      "phonetic": "'di:pli",
+      "forms": [
+        "deeply"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v224",
+      "term": "meaningful",
+      "headword": "meaningful",
+      "kind": "word",
+      "zh": "a. 意味深长的",
+      "en": "a. having a meaning or purpose",
+      "phonetic": "'mi:niŋful",
+      "forms": [
+        "meaningful"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v225",
+      "term": "profit",
+      "headword": "profit",
+      "kind": "word",
+      "zh": "n. 利润, 赢利, 利益\nvi. 有益, 获利, 赚钱\nvt. 有益于",
+      "en": "n. the advantageous quality of being beneficial\nv. derive a benefit from\nv. make a profit; gain money or materially",
+      "phonetic": "'prɒfit",
+      "forms": [
+        "profit"
+      ],
+      "example": "The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v226",
+      "term": "unsettling",
+      "headword": "unsettle",
+      "kind": "word",
+      "zh": "vt. 使移动, 搅乱, 使动摇, 使不安宁\nvi. 动荡不定, 离开固定位置",
+      "en": "v disturb the composure of",
+      "phonetic": ".ʌn'setl",
+      "forms": [
+        "unsettling"
+      ],
+      "example": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v227",
+      "term": "legacy",
+      "headword": "legacy",
+      "kind": "word",
+      "zh": "n. 祖先传下来之物, 遗赠物\n[经] 遗产, 遗赠物",
+      "en": "n (law) a gift of personal property by will",
+      "phonetic": "'legәsi",
+      "forms": [
+        "legacy"
+      ],
+      "example": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v228",
+      "term": "dominant",
+      "headword": "dominant",
+      "kind": "word",
+      "zh": "a. 占优势的, 支配的\n[医] 优性的, 显性的",
+      "en": "n. (music) the fifth note of the diatonic scale\na. exercising influence or control\na. (of genes) producing the same phenotype whether its allele is identical or dissimilar",
+      "phonetic": "'dɒminәnt",
+      "forms": [
+        "dominant"
+      ],
+      "example": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v229",
+      "term": "in fact",
+      "headword": "in fact",
+      "kind": "phrase",
+      "zh": "事实上",
+      "en": "used to emphasise what is actually true",
+      "forms": [
+        "in fact"
+      ],
+      "example": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+      "paragraph": 25,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v230",
+      "term": "resist",
+      "headword": "resist",
+      "kind": "word",
+      "zh": "v. 抵抗, 耐得住, 抵制, 反抗\nn. 防染材料",
+      "en": "v. stand up or offer resistance to somebody or something\nv. withstand the force of something\nv. resist immunologically the introduction of some foreign tissue or organ\nv. refuse to comply",
+      "phonetic": "ri'zist",
+      "forms": [
+        "resist"
+      ],
+      "example": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v231",
+      "term": "Rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "Rather than"
+      ],
+      "example": "Rather than unsettling the established order, they can create new opportunities for its continued flourishing.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v232",
+      "term": "flourishing",
+      "headword": "flourish",
+      "kind": "word",
+      "zh": "vi. 繁荣, 茂盛, 活跃, 手舞足蹈\nvt. 挥舞, 夸耀\nn. 挥舞, 炫耀, 茂盛, 兴旺, 华丽词藻",
+      "en": "n. a showy gesture\nn. an ornamental embellishment in writing\nn. a display of ornamental speech or language\nn. the act of waving",
+      "phonetic": "'flʌriʃ",
+      "forms": [
+        "flourishing"
+      ],
+      "example": "Rather than unsettling the established order, they can create new opportunities for its continued flourishing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      16,
+      25
+    ],
+    "wordBank": [
+      "importance",
+      "desires",
+      "Commerce",
+      "publicly",
+      "publishers",
+      "contemporary",
+      "balancing",
+      "objective",
+      "emotional",
+      "possessions"
+    ],
+    "parts": [
+      {
+        "text": "Making the impossible marketable\n\nSpiritualist publications warned that mediumship could not be bought. Nevertheless, mediums had livelihoods, "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " needed subscribers and organisers needed to cover costs. Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.\n\nTo protect the movement’s brand, mediums such as Daniel Dunglas Home would "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " refuse direct payment for seances. Instead, he accepted gifts, hospitality, travel opportunities and material support from wealthy patrons, while other mediums requested expenses and a moderate fee proportionate to their clients’ means. "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " became easier to accept when presented as support for a higher calling.\n\nThe same tension appeared in spiritualist publishing. Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ", only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers. Spiritualism’s critique of consumer culture actually helped generate further opportunities for consumption.\n\nScientific credibility also required "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": ". Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.\n\nPhotography was particularly useful. A supposedly "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " technology could produce images presented as evidence of spirits. Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness. An account in Medium and Daybreak described a photographic seance near Newcastle in 1880. The correspondent alludes to the "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.\n\nThe ghosts of Victorian capitalism still haunt us\n\nThe Victorian fascination with communicating beyond the grave may seem distant from our technologically sophisticated present. Yet "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.\n\nAs with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " need, technological credibility and commercial legitimacy. The promise of connection may be sincerely offered and deeply meaningful to those who seek it, even as that same promise becomes a source of profit.\n\nPerhaps this is the more unsettling legacy of Victorian spiritualism: "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "publishers",
+        "vocabularyId": "v137",
+        "explanation": "原文此处使用 publishers（publisher）。结合上下文辨认词义与词形。",
+        "evidence": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
+        "paragraph": 17
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "publicly",
+        "vocabularyId": "v148",
+        "explanation": "原文此处使用 publicly（publicly）。结合上下文辨认词义与词形。",
+        "evidence": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
+        "paragraph": 18
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "Commerce",
+        "vocabularyId": "v51",
+        "explanation": "原文此处使用 Commerce（commerce）。结合上下文辨认词义与词形。",
+        "evidence": "Commerce became easier to accept when presented as support for a higher calling.",
+        "paragraph": 18
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "possessions",
+        "vocabularyId": "v169",
+        "explanation": "原文此处使用 possessions（possession）。结合上下文辨认词义与词形。",
+        "evidence": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+        "paragraph": 19
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "balancing",
+        "vocabularyId": "v176",
+        "explanation": "原文此处使用 balancing（balance）。结合上下文辨认词义与词形。",
+        "evidence": "Scientific credibility also required balancing. Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
+        "paragraph": 20
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "objective",
+        "vocabularyId": "v185",
+        "explanation": "原文此处使用 objective（objective）。结合上下文辨认词义与词形。",
+        "evidence": "A supposedly objective technology could produce images presented as evidence of spirits.",
+        "paragraph": 21
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "importance",
+        "vocabularyId": "v194",
+        "explanation": "原文此处使用 importance（importance）。结合上下文辨认词义与词形。",
+        "evidence": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
+        "paragraph": 21
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "contemporary",
+        "vocabularyId": "v206",
+        "explanation": "原文此处使用 contemporary（contemporary）。结合上下文辨认词义与词形。",
+        "evidence": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
+        "paragraph": 23
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "emotional",
+        "vocabularyId": "v217",
+        "explanation": "原文此处使用 emotional（emotional）。结合上下文辨认词义与词形。",
+        "evidence": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
+        "paragraph": 24
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "desires",
+        "vocabularyId": "v24",
+        "explanation": "原文此处使用 desires（desire）。结合上下文辨认词义与词形。",
+        "evidence": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
+        "paragraph": 25
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Anticipating problems at work can create stress even before those problems occur.",
+          "Shopping early can provide practical benefits for both consumers and retailers.",
+          "State responses to childcare funding cuts offer lessons for future policy.",
+          "Victorian spiritualism turned the desire to communicate beyond death into commercial opportunities."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Spiritualism offered an escape from Victorian commercial culture while drawing people into new forms of consumption.",
+        "paragraph": 15
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What perspective guides the research on Victorian spiritualism?",
+        "options": [
+          "Only the engineering of Roman forts",
+          "A study limited to the chemistry of perfume",
+          "Its business history and commercial parallels with modern practices",
+          "An investigation of reptile camouflage"
+        ],
+        "answer": 2,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Our research into the business history of spiritualism in 19th-century Britain suggests that the similarities go deeper than a shared fascination with communicating with the dead.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
+          "Spiritualism is the belief that the dead can be contacted through people known as mediums.",
+          "It emerged in the US in the late 1840s, following claims from self-styled mediums the Fox sisters that spirits communicated with them through mysterious knocks.",
+          "This underside can provide outlets for what the official values exclude, helping people live with the wider social order."
+        ],
+        "answer": 3,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "This underside can provide outlets for what the official values exclude, helping people live with the wider social order.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.”",
+        "options": [
+          "Paragraph 18",
+          "Paragraph 17",
+          "Paragraph 2",
+          "Paragraph 24"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Mediumship was therefore presented as an exhausting and often dangerous duty whose selfless practitioners deserved to be paid fairly for their services.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.”",
+        "options": [
+          "Paragraph 21",
+          "Paragraph 1",
+          "Paragraph 8",
+          "Paragraph 7"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 21 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Its dependence on darkroom processes also supplied a useful analogy for why seances required darkness.",
+        "paragraph": 21
+      }
+    ]
+  },
+  "revision": "3821740e3716b50888189a177a881670c4a485a6fb757ebe0729f896ac737c98"
+}

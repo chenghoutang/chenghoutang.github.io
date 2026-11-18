@@ -1,0 +1,2546 @@
+{
+  "schemaVersion": 1,
+  "folder": "061",
+  "articleSha256": "65450fd56566e7deadba648431cecb514a3535939713a32e427dc1c62a88b468",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "cast",
+      "headword": "cast",
+      "kind": "word",
+      "zh": "n. 演员阵容, 投掷, 铸件, 预测, 特性\nvt. 投, 掷, 抛, 脱落, 铸, 使弯曲, 计算\nvi. 投, 计算, 浇铸成型",
+      "en": "n. the actors in a play\nn. the distinctive form in which a thing is made\nn. bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal\nn. object formed by a mold",
+      "phonetic": "kɑ:st. kæst",
+      "forms": [
+        "cast"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "secondary",
+      "headword": "secondary",
+      "kind": "word",
+      "zh": "a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的\n[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二",
+      "en": "n. the defensive football players who line up behind the linemen\na. being of second rank or importance or value; not direct or immediate\ns. depending on or incidental to what is original or primary\ns. not of major importance",
+      "phonetic": "'sekәndәri",
+      "forms": [
+        "secondary"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "classroom",
+      "headword": "classroom",
+      "kind": "word",
+      "zh": "n. 教室",
+      "en": "n. a room in a school where lessons take place",
+      "phonetic": "'klɑ:sru:m",
+      "forms": [
+        "classroom"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "fiery",
+      "headword": "fiery",
+      "kind": "word",
+      "zh": "a. 炽热的, 热烈的, 暴躁的",
+      "en": "s. like or suggestive of fire\ns. very intense",
+      "phonetic": "'faiәri",
+      "forms": [
+        "fiery"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "glow",
+      "headword": "glow",
+      "kind": "word",
+      "zh": "n. 赤热, 光辉, 热情, 热烈, 红光\nvi. 发红光, 红光焕发, 发热, 洋溢, 激动",
+      "en": "n. a feeling of considerable warmth\nn. a steady even light without flames\nv. emit a steady even light without flames\nv. have a complexion with a strong bright color, such as red or pink",
+      "phonetic": "glәu",
+      "forms": [
+        "glow"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "bunsen",
+      "headword": "bunsen",
+      "kind": "word",
+      "zh": "n. 本生（1811 - 1899, 德国化学家）；本生灯",
+      "en": "n. German chemist who with Kirchhoff pioneered spectrum analysis but is remembered mainly for his invention of the Bunsen burner (1811-1899)",
+      "phonetic": "'bʌnsn",
+      "forms": [
+        "bunsen"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "burners",
+      "headword": "burner",
+      "kind": "word",
+      "zh": "n. 火炉, 烧火的人\n[化] 灯; 灯头; 烧嘴炉; 燃烧器; 燃烧炉",
+      "en": "n. an apparatus for burning fuel (or refuse)\nn. the heating elements of a stove or range on which pots and pans are placed for cooking",
+      "phonetic": "'bә:nә",
+      "forms": [
+        "burners"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "scratched",
+      "headword": "scratch",
+      "kind": "word",
+      "zh": "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线\nvt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉\nvi. 搔, 抓, 发刮擦声, 勉强糊口\na. 碰巧的, 凑合的, 打草稿用的\n[计] 擦除",
+      "en": "n. a competitor who has withdrawn from competition\nn. (golf) a handicap of zero strokes\nn. an indication of damage\nv. cut the surface of; wear away the surface of",
+      "phonetic": "skrætʃ",
+      "forms": [
+        "scratched"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "goggles",
+      "headword": "goggle",
+      "kind": "word",
+      "zh": "n. 眼睛瞪视, 护目镜\na. 突出的, 瞪眼的\nvi. 瞪眼看, 眼珠转动\nvt. 使瞪眼, 使眼珠转动",
+      "en": "v. look with amazement; look stupidly",
+      "phonetic": "'gɒgl",
+      "forms": [
+        "goggles"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "periodic",
+      "headword": "periodic",
+      "kind": "word",
+      "zh": "a. 周期的, 定期的, 间歇(性)的, 循环的, 用完整句的, 高碘的\n[医] 周期性的",
+      "en": "a. happening or recurring at regular intervals\ns. recurring or reappearing from time to time",
+      "phonetic": ".piәri'ɒdik",
+      "forms": [
+        "periodic"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "periodic table",
+      "headword": "periodic table",
+      "kind": "phrase",
+      "zh": "元素周期表",
+      "en": "a table organising the chemical elements",
+      "forms": [
+        "periodic table"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v13",
+      "term": "pinned",
+      "headword": "pin",
+      "kind": "word",
+      "zh": "n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位)\nvt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于\na. 针的, 销子的, 闩的",
+      "en": "n. a piece of jewelry that is pinned onto the wearer's garment\nn. informal terms for the leg\nn. cylindrical tumblers consisting of two parts that are held in place by springs; when they are aligned with a key the bolt can be thrown\nn. flagpole used to mark the position of the hole on a golf green",
+      "phonetic": "pin",
+      "forms": [
+        "pinned"
+      ],
+      "example": "Cast your mind back to your secondary school science classroom: the fiery glow of Bunsen burners, scratched safety goggles that never quite fit, and a giant periodic table pinned to the wall.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "breakthroughs",
+      "headword": "breakthrough",
+      "kind": "word",
+      "zh": "n. 突破\n[经] 突破, 新发现, 新进展",
+      "en": "n. making an important discovery\nn. a penetration of a barrier such as an enemy's defense",
+      "phonetic": "'breikθru:",
+      "forms": [
+        "breakthroughs"
+      ],
+      "example": "When you learned about the breakthroughs that shaped our world and the people who made them, whose names were attached?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "shaped",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shaped"
+      ],
+      "example": "When you learned about the breakthroughs that shaped our world and the people who made them, whose names were attached?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "attached",
+      "headword": "attach",
+      "kind": "word",
+      "zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\nvi. 附属, 归属, 联系在一起\n[计] 挂接服务器命令, 关联, 挂接, 附加",
+      "en": "v. cause to be attached\nv. be attached; be in contact with\nv. become attached",
+      "phonetic": "ә'tætʃ",
+      "forms": [
+        "attached"
+      ],
+      "example": "When you learned about the breakthroughs that shaped our world and the people who made them, whose names were attached?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "selection",
+      "headword": "selection",
+      "kind": "word",
+      "zh": "n. 选择, 选文, 精选品\n[医] 选择, 淘汰",
+      "en": "n. an assortment of things from which a choice can be made",
+      "phonetic": "si'lekʃәn",
+      "forms": [
+        "selection"
+      ],
+      "example": "From Newton’s laws to Darwin’s theory of natural selection, the ones you remember are almost certainly male.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "male",
+      "headword": "male",
+      "kind": "word",
+      "zh": "n. 男人, 雄性动物\na. 男性的, 雄性的, 有力的",
+      "en": "n. an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\nn. a person who belongs to the sex that cannot have babies\nn. the capital of Maldives in the center of the islands\na. being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
+      "phonetic": "meil",
+      "forms": [
+        "male"
+      ],
+      "example": "From Newton’s laws to Darwin’s theory of natural selection, the ones you remember are almost certainly male.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "gcse",
+      "headword": "gcse",
+      "kind": "word",
+      "zh": "abbr. 普通中等教育证书(General Certificate of Secondary Education)",
+      "en": "n the basic level of a subject taken in school",
+      "phonetic": "ˌdʒi: si: es ˈi:",
+      "forms": [
+        "gcse",
+        "gcses"
+      ],
+      "example": "It was and still is written into official GCSE and A-level course specifications.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "a-level",
+      "headword": "a-level",
+      "kind": "word",
+      "zh": "<英>英语学校里某一课程结束时举行的高深考试, 高深级考试及格",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "a-level"
+      ],
+      "example": "It was and still is written into official GCSE and A-level course specifications.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "specifications",
+      "headword": "specification",
+      "kind": "word",
+      "zh": "n. 规格, 详述, 详细说明书\n[计] 规范; 形式说明; 说明; 说明书; 规格",
+      "en": "n. a detailed description of design criteria for a piece of work\nn. naming explicitly\nn. (patent law) a document drawn up by the applicant for a patent of invention that provides an explicit and detailed description of the nature and use of an invention",
+      "phonetic": ".spesifi'keiʃәn",
+      "forms": [
+        "specifications"
+      ],
+      "example": "It was and still is written into official GCSE and A-level course specifications.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "foundation",
+      "headword": "foundation",
+      "kind": "word",
+      "zh": "n. 基础, 根据, 建立\n[化] 地基",
+      "en": "n. the basis on which something is grounded\nn. an institution supported by an endowment\nn. lowest support of a structure\nn. education or instruction in the fundamentals of a field of knowledge",
+      "phonetic": "faun'deiʃәn",
+      "forms": [
+        "foundation"
+      ],
+      "example": "Because these early stages form the foundation of our science education, their omissions stick with us for life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "science education",
+      "headword": "science education",
+      "kind": "phrase",
+      "zh": "科学教育",
+      "en": "teaching and learning about science",
+      "forms": [
+        "science education"
+      ],
+      "example": "Because these early stages form the foundation of our science education, their omissions stick with us for life.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "omissions",
+      "headword": "omission",
+      "kind": "word",
+      "zh": "n. 省略, 遗漏, 疏忽\n[化] 省略",
+      "en": "n. a mistake resulting from neglect\nn. something that has been omitted\nn. any process whereby sounds or words are left out of spoken words or phrases\nn. neglecting to do something; leaving out or passing over something",
+      "phonetic": "әu'miʃәn",
+      "forms": [
+        "omissions"
+      ],
+      "example": "Because these early stages form the foundation of our science education, their omissions stick with us for life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "stick",
+      "headword": "stick",
+      "kind": "word",
+      "zh": "n. 棍, 棒, 刺, 枯枝, 茎, 条状物\nvt. 插进, 刺入, 钉住, 伸出, 粘贴, 停止\nvi. 粘住, 停留, 坚持, 陷住, 伸出",
+      "en": "n. an implement consisting of a length of wood\nn. a small thin branch of a tree\nn. a lever used by a pilot to control the ailerons and elevators of an airplane\nn. a rectangular quarter pound block of butter or margarine",
+      "phonetic": "stik",
+      "forms": [
+        "stick"
+      ],
+      "example": "Because these early stages form the foundation of our science education, their omissions stick with us for life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "women",
+      "headword": "woman",
+      "kind": "word",
+      "zh": "n. 女人, 妇女, 女仆\na. 女用的, 女性的, 妇女的\nvt. 贬称...为女人, 使成女人腔",
+      "en": "n. an adult female person (as opposed to a man)\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man",
+      "phonetic": "'wumәn",
+      "forms": [
+        "women"
+      ],
+      "example": "Leaving women out of national specifications sends an implicit message about who science is really for.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "implicit",
+      "headword": "implicit",
+      "kind": "word",
+      "zh": "a. 暗示的, 含蓄的, 固有的, 绝对的\n[经] 不讲明的, 含蓄的",
+      "en": "a. implied though not directly expressed; inherent in the nature of something\ns. being without doubt or reserve",
+      "phonetic": "im'plisit",
+      "forms": [
+        "implicit"
+      ],
+      "example": "Leaving women out of national specifications sends an implicit message about who science is really for.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "cambridge",
+      "headword": "Cambridge",
+      "kind": "word",
+      "zh": "n. 剑桥",
+      "en": "n. a city in Massachusetts just to the north of Boston; site of Harvard University and the Massachusetts Institute of Technology\nn. a city in eastern England on the River Cam; site of Cambridge University",
+      "phonetic": "'keimbridʒ",
+      "forms": [
+        "cambridge"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "collaborative",
+      "headword": "collaborative",
+      "kind": "word",
+      "zh": "a. 合作的, 协作的",
+      "en": "s. accomplished by collaboration",
+      "phonetic": "kә'læbәreitiv",
+      "forms": [
+        "collaborative"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "representation",
+      "headword": "representation",
+      "kind": "word",
+      "zh": "n. 表示法, 表现, 陈述, 代表\n[计] 表示法指定",
+      "en": "n. a presentation to the mind in the form of an idea or image\nn. a creation that is a visual or tangible rendering of someone or something\nn. the act of representing; standing in for someone or some group and speaking with authority in their behalf\nn. the state of serving as an official and authorized delegate or agent",
+      "phonetic": ".reprizen'teiʃәn",
+      "forms": [
+        "representation"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "analysed",
+      "headword": "analyse",
+      "kind": "word",
+      "zh": "vt. 分析, 细察, 分解\n[经] 分析",
+      "en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\nv break down into components or essential features\nv make a mathematical, chemical, or grammatical analysis of; break down into components or essential features\nv subject to psychoanalytic treatment",
+      "phonetic": "'ænәlaiz",
+      "forms": [
+        "analysed"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "exams",
+      "headword": "exam",
+      "kind": "word",
+      "zh": "n. 考试, 测验",
+      "en": "n a set of questions or exercises evaluating skill or knowledge",
+      "phonetic": "ig'zæm",
+      "forms": [
+        "exams",
+        "exam"
+      ],
+      "example": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "highers",
+      "headword": "Highers",
+      "kind": "word",
+      "zh": "a. high的变形",
+      "en": "",
+      "phonetic": "ˈhaɪə(r)",
+      "forms": [
+        "highers"
+      ],
+      "example": "We examined the specifications for six main exam boards for Key Stage 4 (GCSEs) and Key Stage 5 (A-levels), and for Scotland’s National 5s and Highers.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "australian",
+      "headword": "Australian",
+      "kind": "word",
+      "zh": "n. 澳大利亚人\na. 澳大利亚的, 澳洲的, 澳洲人的",
+      "en": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages",
+      "phonetic": "ɒ'streiljәn",
+      "forms": [
+        "australian"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "astrophysicist",
+      "headword": "astrophysicist",
+      "kind": "word",
+      "zh": "n. 天体物理学家",
+      "en": "n. an astronomer who studies the physical properties of celestial bodies",
+      "phonetic": ".æstrәu'fizisist",
+      "forms": [
+        "astrophysicist"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "ross",
+      "headword": "ross",
+      "kind": "word",
+      "zh": "n. 罗丝（女性名）",
+      "en": "n. Scottish explorer who led Arctic expeditions that yielded geographic discoveries while searching for the Northwest Passage (1777-1856)\nn. British explorer of the Arctic and Antarctic; located the north magnetic pole in 1831; discovered the Ross Sea in Antarctica; nephew of Sir John Ross (1800-1862)\nn. British physician who discovered that mosquitos transmit malaria (1857-1932)",
+      "phonetic": "rɔs",
+      "forms": [
+        "ross"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "uncovered",
+      "headword": "uncover",
+      "kind": "word",
+      "zh": "vt. 揭露, 揭开, 暴露, 脱帽致敬\nvi. 脱帽致敬, 揭去盖子",
+      "en": "v. make visible\nv. remove all or part of one's clothes to show one's body",
+      "phonetic": ".ʌn'kʌvә",
+      "forms": [
+        "uncovered"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "female",
+      "headword": "female",
+      "kind": "word",
+      "zh": "n. 女性, 女人, 雌性动物\na. 女性的, 女子的",
+      "en": "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\nn. a person who belongs to the sex that can have babies\na. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop\ns. characteristic of or peculiar to a woman",
+      "phonetic": "'fi:meil",
+      "forms": [
+        "female"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "curricula",
+      "headword": "curriculum",
+      "kind": "word",
+      "zh": "n. 课程\n[医] 课程, 学程",
+      "en": "n an integrated course of academic studies",
+      "phonetic": "kә'rikjulәm",
+      "forms": [
+        "curricula"
+      ],
+      "example": "Our work builds on an earlier Australian study led by astrophysicist Dr Kat Ross, which uncovered a striking lack of female scientists in high school curricula.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "set out",
+      "headword": "set out",
+      "kind": "phrase",
+      "zh": "着手；阐明",
+      "en": "to begin an undertaking or state something clearly",
+      "forms": [
+        "set out"
+      ],
+      "example": "We set out to investigate whether UK specifications have similar omissions.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v43",
+      "term": "investigate",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigate"
+      ],
+      "example": "We set out to investigate whether UK specifications have similar omissions.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "Across 224 unique scientists referenced in UK specifications, discoveries are taught almost exclusively through concepts named after men, with only three mentioning women in total.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "referenced",
+      "headword": "reference",
+      "kind": "word",
+      "zh": "n. 参考, 索引, 参照\nvt. 给...加上参考资料\nvt. 引用\nvi. 引用\n[计] 引用",
+      "en": "n. the most direct or specific meaning of a word or expression; the class of objects that an expression refers to\nn. the act of referring or consulting\nn. a publication (or a passage from a publication) that is referred to\nn. the relation between a word or phrase and the object or idea it refers to",
+      "phonetic": "'refәrәns",
+      "forms": [
+        "referenced"
+      ],
+      "example": "Across 224 unique scientists referenced in UK specifications, discoveries are taught almost exclusively through concepts named after men, with only three mentioning women in total.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "discoveries",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discoveries"
+      ],
+      "example": "Across 224 unique scientists referenced in UK specifications, discoveries are taught almost exclusively through concepts named after men, with only three mentioning women in total.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "exclusively",
+      "headword": "exclusively",
+      "kind": "word",
+      "zh": "adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地",
+      "en": "r without any others being included or involved",
+      "phonetic": "ik'sklu:sivli",
+      "forms": [
+        "exclusively"
+      ],
+      "example": "Across 224 unique scientists referenced in UK specifications, discoveries are taught almost exclusively through concepts named after men, with only three mentioning women in total.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "solid",
+      "headword": "solid",
+      "kind": "word",
+      "zh": "n. 固体\na. 坚硬的, 稳固的, 固体的, 实心的, 纯质的, 立体的, 立方的\n[计] 原色",
+      "en": "n. matter that is solid at room temperature and pressure\nn. the state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape\nn. a three-dimensional shape\ns. characterized by good substantial quality",
+      "phonetic": "'sɒlid",
+      "forms": [
+        "solid"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "inner",
+      "headword": "inner",
+      "kind": "word",
+      "zh": "a. 内部的, 内心的\nn. 内部",
+      "en": "s. located inward\na. located or occurring within or closer to a center\ns. innermost or essential\ns. exclusive to a center; especially a center of influence",
+      "phonetic": "'inә",
+      "forms": [
+        "inner"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "core",
+      "headword": "CORE",
+      "kind": "word",
+      "zh": "n. 核心, 果心, 要点\nvt. 挖...的核\n[计] 内核, 核心网",
+      "en": "n. a small group of indispensable persons or things\nn. the center of an object\nn. the central part of the Earth\nn. a cylindrical sample of soil or rock obtained with a hollow drill",
+      "phonetic": "kɒ:",
+      "forms": [
+        "core"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "surrounded",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounded"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "outer",
+      "headword": "outer",
+      "kind": "word",
+      "zh": "a. 外部的, 外面的, 在外的, 远离中心的\n[机] 外部的, 外面的, 外侧的",
+      "en": "a. being on the outside or further from a center\ns. located outside\ns. being on or toward the outside of the body",
+      "phonetic": "'autә",
+      "forms": [
+        "outer"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "cited",
+      "headword": "cite",
+      "kind": "word",
+      "zh": "vt. 引用, 引证, 表彰\n[建] 引证, 指引",
+      "en": "n a short note recognizing a source of information or of a quoted passage\nv make reference to\nv commend\nv refer to\nv repeat a passage from\nv refer to for illustration or proof\nv advance evidence for\nv call in an official matter, such as to attend court",
+      "phonetic": "sait",
+      "forms": [
+        "cited"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "geology",
+      "headword": "geology",
+      "kind": "word",
+      "zh": "n. 地质学, 地质情况",
+      "en": "n. a science that deals with the history of the earth as recorded in rocks",
+      "phonetic": "dʒi'ɒlәdʒi",
+      "forms": [
+        "geology"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "discontinuity",
+      "headword": "discontinuity",
+      "kind": "word",
+      "zh": "n. 间断, 中断, 不连续\n[电] 间断性",
+      "en": "n. lack of connection or continuity",
+      "phonetic": ".diskәnti'nju:iti",
+      "forms": [
+        "discontinuity"
+      ],
+      "example": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "mapped",
+      "headword": "map",
+      "kind": "word",
+      "zh": "n. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议",
+      "en": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences",
+      "phonetic": "mæp",
+      "forms": [
+        "mapped"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "mid-atlantic",
+      "headword": "mid-atlantic",
+      "kind": "word",
+      "zh": "a. 中大西洋的(兼有英美特征或影响的), 大西洋两岸都接受的",
+      "en": "s of a region of the United States generally including Delaware; Maryland; Virginia; and usually New York; Pennsylvania; New Jersey",
+      "phonetic": ",midæt'læntik",
+      "forms": [
+        "mid-atlantic"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "ridge",
+      "headword": "ridge",
+      "kind": "word",
+      "zh": "n. 脊, 山脊, 山脉\n[医] 嵴, 脊, 棱线",
+      "en": "n. a long narrow natural elevation or striation\nn. any long raised strip\nn. a long narrow natural elevation on the floor of the ocean\nn. a long narrow range of hills",
+      "phonetic": "ridʒ",
+      "forms": [
+        "ridge"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "rift",
+      "headword": "rift",
+      "kind": "word",
+      "zh": "n. 裂口, 空隙\nvi. 裂开\nvt. 使分开, 使割开",
+      "en": "n. a gap between cloud masses\nn. a narrow fissure in rock",
+      "phonetic": "rift",
+      "forms": [
+        "rift"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "valley",
+      "headword": "valley",
+      "kind": "word",
+      "zh": "n. 山谷, 溪谷, 流域, 凹地\n[医] 谷",
+      "en": "n. a long depression in the surface of the land that usually contains a river",
+      "phonetic": "'væli",
+      "forms": [
+        "valley"
+      ],
+      "example": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "continental",
+      "headword": "continental",
+      "kind": "word",
+      "zh": "a. 大陆的, 洲的\nn. 欧洲大陆人",
+      "en": "a. of or pertaining to or typical of Europe\na. of or relating to or concerning the American colonies during and immediately after the American Revolutionary War\na. of or relating to or characteristic of a continent\na. being or concerning or limited to a continent especially the continents of North America or Europe",
+      "phonetic": ".kɒnti'nentl",
+      "forms": [
+        "continental"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "drift",
+      "headword": "drift",
+      "kind": "word",
+      "zh": "n. 漂流物, 漂流, 动向\nv. (使)漂流",
+      "en": "n. a force that moves something along\nn. the gradual departure from an intended course due to external influences (as a ship or plane)\nn. a process of linguistic change over a period of time\nn. a large mass of material that is heaped up by the wind or by water currents",
+      "phonetic": "drift",
+      "forms": [
+        "drift"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "prohibited",
+      "headword": "prohibit",
+      "kind": "word",
+      "zh": "vt. 禁止, 阻止\n[经] 禁止",
+      "en": "v command against",
+      "phonetic": "prә'hibit",
+      "forms": [
+        "prohibited"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "vessels",
+      "headword": "vessel",
+      "kind": "word",
+      "zh": "n. 船, 容器, 脉管\n[医] 管, 脉管, (容)器",
+      "en": "n. a tube in which a body fluid circulates\nn. a craft designed for water transportation\nn. an object used as a container (especially for liquids)",
+      "phonetic": "'vesl",
+      "forms": [
+        "vessels"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "dismissed",
+      "headword": "dismiss",
+      "kind": "word",
+      "zh": "vt. 解散, 开除, 解职\nvi. 解散\n[计] 解散",
+      "en": "v. bar from attention or consideration\nv. cease to consider; put out of judicial consideration\nv. stop associating with\nv. end one's encounter with somebody by causing or permitting the person to leave",
+      "phonetic": "dis'mis",
+      "forms": [
+        "dismissed"
+      ],
+      "example": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "franklin",
+      "headword": "Franklin",
+      "kind": "word",
+      "zh": "[计] 富兰克林",
+      "en": "n. United States historian noted for studies of Black American history (born in 1915)\nn. printer whose success as an author led him to take up politics; he helped draw up the Declaration of Independence and the Constitution; he played a major role in the American Revolution and negotiated French support for the colonists; as a scientist he is remembered particularly for his research in electricity (1706-1790)\nn. a landowner (14th and 15th centuries) who was free but not of noble birth",
+      "phonetic": "'fræŋklin",
+      "forms": [
+        "franklin"
+      ],
+      "example": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "biology",
+      "headword": "biology",
+      "kind": "word",
+      "zh": "n. 生物学\n[化] 生物; 生物学",
+      "en": "n. the science that studies living organisms\nn. characteristic life processes and phenomena of living organisms",
+      "phonetic": "bai'ɒlәdʒi",
+      "forms": [
+        "biology"
+      ],
+      "example": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "x-ray",
+      "headword": "x-ray",
+      "kind": "word",
+      "zh": "a. X射线的\nvt. 用X光检查, 照X光\nvi. 使用X光",
+      "en": "v. examine by taking x-rays\nv. take an x-ray of something or somebody",
+      "phonetic": "'eks'rei",
+      "forms": [
+        "x-ray"
+      ],
+      "example": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "crystallography",
+      "headword": "crystallography",
+      "kind": "word",
+      "zh": "n. 结晶学\n[化] 晶体学; 结晶学",
+      "en": "n. the branch of science that studies the formation and structure of crystals",
+      "phonetic": ".kristә'lɒgrәfi",
+      "forms": [
+        "crystallography"
+      ],
+      "example": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "Her essential data was used without attribution during her lifetime.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "attribution",
+      "headword": "attribution",
+      "kind": "word",
+      "zh": "n. 归因\n[法] 归因, 归属, 属性",
+      "en": "n. assigning some quality or character to a person or thing\nn. assigning to a cause or source",
+      "phonetic": "әtri'bju:ʃәn",
+      "forms": [
+        "attribution"
+      ],
+      "example": "Her essential data was used without attribution during her lifetime.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "lifetime",
+      "headword": "lifetime",
+      "kind": "word",
+      "zh": "n. 一生, 终生\na. 一生的, 终生的",
+      "en": "n the period during which something is functional (as between birth and death)",
+      "phonetic": "'laiftaim",
+      "forms": [
+        "lifetime"
+      ],
+      "example": "Her essential data was used without attribution during her lifetime.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "compulsory",
+      "headword": "compulsory",
+      "kind": "word",
+      "zh": "a. 被强制的, 强迫的, 义务的\n[经] 强迫的, 强制的",
+      "en": "s. required by rule",
+      "phonetic": "kәm'pʌlsәri",
+      "forms": [
+        "compulsory"
+      ],
+      "example": "At GCSE level, when science is compulsory for all students, Franklin is the only woman mentioned.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "solely",
+      "headword": "solely",
+      "kind": "word",
+      "zh": "adv. 仅仅, 单独地",
+      "en": "r without any others being included or involved",
+      "phonetic": "'sәulli",
+      "forms": [
+        "solely"
+      ],
+      "example": "At A-level, Lehmann and Tharp appear solely in geology, a subject taken by less than 2% of science students.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "institutional",
+      "headword": "institutional",
+      "kind": "word",
+      "zh": "a. 制度的, 公共机构的, 学会的\n[法] 组织机构的, 制度的, 公共机构的",
+      "en": "a. relating to or constituting or involving an institution\na. organized as or forming an institution",
+      "phonetic": ".insti'tju:ʃәnәl",
+      "forms": [
+        "institutional"
+      ],
+      "example": "For centuries, social, economic, and institutional barriers limited women’s formal participation in science.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "barriers",
+      "headword": "barrier",
+      "kind": "word",
+      "zh": "n. 障碍, 栅栏\n[化] 势垒; 阻片; 阻挡层",
+      "en": "n. a structure or object that impedes free movement\nn. any condition that makes it difficult to make progress or to achieve an objective\nn. anything serving to maintain separation by obstructing vision or access",
+      "phonetic": "'bæriә",
+      "forms": [
+        "barriers"
+      ],
+      "example": "For centuries, social, economic, and institutional barriers limited women’s formal participation in science.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "limited",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limited"
+      ],
+      "example": "For centuries, social, economic, and institutional barriers limited women’s formal participation in science.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "formal",
+      "headword": "formal",
+      "kind": "word",
+      "zh": "a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的\nn. 正式的社交活动",
+      "en": "a. being in accord with established forms and conventions and requirements (as e.g. of formal dress)\ns. characteristic of or befitting a person in authority\na. (of spoken and written language) adhering to traditional standards of correctness and without casual, contracted, and colloquial forms\ns. logically deductive",
+      "phonetic": "'fɒ:mәl",
+      "forms": [
+        "formal"
+      ],
+      "example": "For centuries, social, economic, and institutional barriers limited women’s formal participation in science.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "participation",
+      "headword": "participation",
+      "kind": "word",
+      "zh": "n. 参与, 分享\n[经] 参与, 参股",
+      "en": "n. the condition of sharing in common with others (as fellows or partners etc.)",
+      "phonetic": ".pɑ:tisi'peiʃәn",
+      "forms": [
+        "participation"
+      ],
+      "example": "For centuries, social, economic, and institutional barriers limited women’s formal participation in science.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "numerous",
+      "headword": "numerous",
+      "kind": "word",
+      "zh": "a. 很多的, 数目众多的, 多数的\n[机] 多数的, 甚多的",
+      "en": "s. amounting to a large indefinite number",
+      "phonetic": "'nju:mәrәs",
+      "forms": [
+        "numerous"
+      ],
+      "example": "Despite this, women made numerous key breakthroughs, and these are already taught to UK 14–18-year-olds.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "diversity",
+      "headword": "diversity",
+      "kind": "word",
+      "zh": "n. 差异, 多样性\n[化] 多样性",
+      "en": "n. the condition or result of being changeable",
+      "phonetic": "dai'vә:siti",
+      "forms": [
+        "diversity"
+      ],
+      "example": "Diversity within scientific fields drives creativity and innovation, benefiting all of society.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "scientific",
+      "headword": "scientific",
+      "kind": "word",
+      "zh": "a. 科学的, 系统的, 符合科学规律的\n[计] 科学记数法",
+      "en": "a. of or relating to the practice of science\na. conforming with the principles or methods used in science",
+      "phonetic": ".saiәn'tifik",
+      "forms": [
+        "scientific"
+      ],
+      "example": "Diversity within scientific fields drives creativity and innovation, benefiting all of society.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "creativity",
+      "headword": "creativity",
+      "kind": "word",
+      "zh": "n. 创造力, 创造性",
+      "en": "n. the ability to create",
+      "phonetic": ".kri:ei'tiviti",
+      "forms": [
+        "creativity"
+      ],
+      "example": "Diversity within scientific fields drives creativity and innovation, benefiting all of society.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "innovation",
+      "headword": "innovation",
+      "kind": "word",
+      "zh": "n. 改革, 创新\n[法] 创新, 改革, 刷新",
+      "en": "n a creation (a new device or process) resulting from study and experimentation\nn the creation of something in the mind\nn the act of starting something for the first time; introducing something new",
+      "phonetic": ".inәu'veiʃәn",
+      "forms": [
+        "innovation"
+      ],
+      "example": "Diversity within scientific fields drives creativity and innovation, benefiting all of society.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "underrepresented",
+      "headword": "underrepresented",
+      "kind": "word",
+      "zh": "a. 未被充分代表的",
+      "en": "",
+      "phonetic": "'ʌndә,repri'zentid",
+      "forms": [
+        "underrepresented"
+      ],
+      "example": "Diversity within scientific fields drives creativity and innovation, benefiting all of society. Yet women remain underrepresented. They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "workforce",
+      "headword": "workforce",
+      "kind": "word",
+      "zh": "n. 劳动力；工人总数, 职工总数",
+      "en": "n the force of workers available",
+      "phonetic": "",
+      "forms": [
+        "workforce"
+      ],
+      "example": "They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "disparity",
+      "headword": "disparity",
+      "kind": "word",
+      "zh": "n. 不一致\n[医] 差异, 不等",
+      "en": "n. inequality or difference in some respect",
+      "phonetic": "dis'pæriti",
+      "forms": [
+        "disparity"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "uptake",
+      "headword": "uptake",
+      "kind": "word",
+      "zh": "n. 举起, 拿起, 理解, 上风井, 摄入, 吸收\n[化] 摄取",
+      "en": "n. a process of taking up or using up or consuming",
+      "phonetic": "'ʌpteik",
+      "forms": [
+        "uptake"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "balanced",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balanced"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "physics",
+      "headword": "physics",
+      "kind": "word",
+      "zh": "n. 物理学, 物理过程, 物理现象\n[化] 物理; 物理学",
+      "en": "n. the science of matter and energy and their interactions\nn. the physical properties, phenomena, and laws of something",
+      "phonetic": "'fiziks",
+      "forms": [
+        "physics"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "mathematics",
+      "headword": "mathematics",
+      "kind": "word",
+      "zh": "n. 数学\n[机] 数学",
+      "en": "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement",
+      "phonetic": ".mæθә'mætiks",
+      "forms": [
+        "mathematics"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "respectively",
+      "headword": "respectively",
+      "kind": "word",
+      "zh": "adv. 各自地, 独自地, 个别地, 分别地",
+      "en": "r. in the order given",
+      "phonetic": "ri'spektivli",
+      "forms": [
+        "respectively"
+      ],
+      "example": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "imbalance",
+      "headword": "imbalance",
+      "kind": "word",
+      "zh": "n. 不平衡, 不均衡\n[医] 不平衡, 失调",
+      "en": "n. a lack of balance or state of disequilibrium",
+      "phonetic": "im'bælәns",
+      "forms": [
+        "imbalance"
+      ],
+      "example": "This imbalance continues into university, where women make up roughly 25% of physics undergraduate students in the UK.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "This imbalance continues into university, where women make up roughly 25% of physics undergraduate students in the UK.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "undergraduate",
+      "headword": "undergraduate",
+      "kind": "word",
+      "zh": "n. 大学本科生, 大学肄业生\na. 大学生的",
+      "en": "n. a university student who has not yet received a first degree",
+      "phonetic": ".ʌndә'grædjuit",
+      "forms": [
+        "undergraduate"
+      ],
+      "example": "This imbalance continues into university, where women make up roughly 25% of physics undergraduate students in the UK.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "introducing",
+      "headword": "introduce",
+      "kind": "word",
+      "zh": "vt. 介绍, 引入, 采用, 输入\n[法] 引进, 输入, 介绍",
+      "en": "v. cause to come to know personally\nv. bring something new to an environment\nv. bring in or establish in a new place or environment\nv. bring before the public for the first time, as of an actor, song, etc.",
+      "phonetic": ".intrә'dju:s",
+      "forms": [
+        "introducing"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "relatable",
+      "headword": "relatable",
+      "kind": "word",
+      "zh": "有关系的(relate的形容词形式)",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "relatable"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "boosts",
+      "headword": "boost",
+      "kind": "word",
+      "zh": "n. 推进, 吹捧\nvt. 推进, 提高, 宣扬, 促进",
+      "en": "n. the act of giving hope or support to someone\nn. the act of giving a push\nv. give a boost to; be beneficial to\nv. increase or raise",
+      "phonetic": "bu:st",
+      "forms": [
+        "boosts"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "confidence",
+      "headword": "confidence",
+      "kind": "word",
+      "zh": "n. 信心\n[电] 可靠",
+      "en": "n. a feeling of trust (in someone or something)\nn. a state of confident hopefulness that events will be favorable\nn. a trustful relationship\nn. a secret that is confided or entrusted to another",
+      "phonetic": "'kɒnfidәns",
+      "forms": [
+        "confidence"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "fosters",
+      "headword": "foster",
+      "kind": "word",
+      "zh": "a. 收养的, 养育的\nvt. 养育, 抚育, 培养, 鼓励, 抱(希望)",
+      "en": "n. United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864)\nv. promote the growth of\nv. bring up under fosterage; of children\nv. help develop, help grow",
+      "phonetic": "'fɒstә",
+      "forms": [
+        "fosters"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "dictate",
+      "headword": "dictate",
+      "kind": "word",
+      "zh": "vi. 听写, 口述, 口授\nvt. 口述, 使听写, 命令\nn. 命令, 指挥, 指令",
+      "en": "n. an authoritative rule\nn. a guiding principle\nv. say out loud for the purpose of recording\nv. rule as a dictator",
+      "phonetic": "'dikteit",
+      "forms": [
+        "dictate"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "mandatory",
+      "headword": "mandatory",
+      "kind": "word",
+      "zh": "a. 命令的, 托管的\n[经] 受托者, 命令者",
+      "en": "n the recipient of a mandate\nn a territory surrendered by Turkey or Germany after World War I and put under the tutelage of some other European power until they are able to stand by themselves\ns required by rule",
+      "phonetic": "'mændәtәri",
+      "forms": [
+        "mandatory"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "busy",
+      "headword": "busy",
+      "kind": "word",
+      "zh": "a. 忙碌的, 热闹的, 没空的\nvt. 使忙\nvi. 忙碌\n[计] 忙; 忙碌",
+      "en": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity",
+      "phonetic": "'bizi",
+      "forms": [
+        "busy"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "workloads",
+      "headword": "workload",
+      "kind": "word",
+      "zh": "n. 工作量\n[化] 工作量",
+      "en": "n. work that a person is expected to do in a specified time",
+      "phonetic": "'wә:klәud",
+      "forms": [
+        "workloads"
+      ],
+      "example": "But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "targeted",
+      "headword": "target",
+      "kind": "word",
+      "zh": "n. 目标, 靶子, 指标\nvt. 对准, 订指标",
+      "en": "n. a reference point to shoot at\nn. the location of the target that is to be hit\nn. sports equipment consisting of an object set up for a marksman or archer to aim at\nv. intend (something) to move towards a certain goal",
+      "phonetic": "'tɑ:git",
+      "forms": [
+        "targeted"
+      ],
+      "example": "By making small, targeted changes directly to national specifications, we can make inclusion standard practice across all schools.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "inclusion",
+      "headword": "inclusion",
+      "kind": "word",
+      "zh": "n. 包含, 内含物\n[计] 蕴含",
+      "en": "n. the state of being included\nn. the relation of comprising something\nn. the act of including",
+      "phonetic": "in'kluʒәn",
+      "forms": [
+        "inclusion"
+      ],
+      "example": "By making small, targeted changes directly to national specifications, we can make inclusion standard practice across all schools.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "propose",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "propose"
+      ],
+      "example": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "inserting",
+      "headword": "insert",
+      "kind": "word",
+      "zh": "n. 插入物\nvt. 插入, 把(人造卫星)射入(轨道), 添写\nvi. 附着\n[计] 插入",
+      "en": "n. a folded section placed between the leaves of another publication\nn. an artifact that is inserted or is to be inserted\nv. put or introduce into something\nv. introduce",
+      "phonetic": "in'sә:t",
+      "forms": [
+        "inserting"
+      ],
+      "example": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "topics",
+      "headword": "topic",
+      "kind": "word",
+      "zh": "n. 主题, 论题, 话题",
+      "en": "n. some situation or event that is thought about",
+      "phonetic": "'tɒpik",
+      "forms": [
+        "topics"
+      ],
+      "example": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "missing",
+      "headword": "miss",
+      "kind": "word",
+      "zh": "n. 失误, 避免, 失败, 小姐\nvt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念\nvi. 失败, 击不中",
+      "en": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of",
+      "phonetic": "mis",
+      "forms": [
+        "missing"
+      ],
+      "example": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "coined",
+      "headword": "coin",
+      "kind": "word",
+      "zh": "n. 硬币, 金钱, 货币\nvt. 铸币, 创造, 杜撰",
+      "en": "n. a flat metal piece (usually a disc) used as money\nv. make up",
+      "phonetic": "kɒin",
+      "forms": [
+        "coined"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "radioactivity",
+      "headword": "radioactivity",
+      "kind": "word",
+      "zh": "n. 放射性\n[化] 放射性",
+      "en": "n the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay",
+      "phonetic": ".reidiәuæk'tiviti",
+      "forms": [
+        "radioactivity"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "polonium",
+      "headword": "polonium",
+      "kind": "word",
+      "zh": "n. 钋\n[化] 钋Po",
+      "en": "n. a radioactive metallic element that is similar to tellurium and bismuth; occurs in uranium ores but can be produced by bombarding bismuth with neutrons in a nuclear reactor",
+      "phonetic": "pә'lәuniәm",
+      "forms": [
+        "polonium"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "radium",
+      "headword": "radium",
+      "kind": "word",
+      "zh": "n. 镭\n[化] 镭Ra",
+      "en": "n. an intensely radioactive metallic element that occurs in minute amounts in uranium ores",
+      "phonetic": "'reidiәm",
+      "forms": [
+        "radium"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "atomic",
+      "headword": "atomic",
+      "kind": "word",
+      "zh": "a. 原子的, 原子能的\n[医] 原子的",
+      "en": "a. of or relating to or comprising atoms\ns. immeasurably small",
+      "phonetic": "ә'tɒmik",
+      "forms": [
+        "atomic"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "lise",
+      "headword": "lise",
+      "kind": "word",
+      "zh": "n. 丽丝（库肯霍夫郁金香公园名）",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "lise"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "theoretical",
+      "headword": "theoretical",
+      "kind": "word",
+      "zh": "a. 理论的, 理论上的, 假设的, 推理的\n[计] 理论的",
+      "en": "a. concerned primarily with theories or hypotheses rather than practical considerations\na. concerned with theories rather than their practical applications",
+      "phonetic": "θiә'retikәl",
+      "forms": [
+        "theoretical"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "fission",
+      "headword": "fission",
+      "kind": "word",
+      "zh": "n. 裂开, 分裂, 分体\n[化] 裂变",
+      "en": "n. reproduction of some unicellular organisms by division of the cell into two more or less equal parts\nn. a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy",
+      "phonetic": "'fiʃәn",
+      "forms": [
+        "fission"
+      ],
+      "example": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "astronomy",
+      "headword": "astronomy",
+      "kind": "word",
+      "zh": "n. 天文学",
+      "en": "n. the branch of physics that studies celestial bodies and the universe as a whole",
+      "phonetic": "ә'strɒnәmi",
+      "forms": [
+        "astronomy"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "bell",
+      "headword": "bell",
+      "kind": "word",
+      "zh": "n. 铃, 钟\n[计] 响铃命令",
+      "en": "n. a hollow device made of metal that makes a ringing sound when struck\nn. the sound of a bell being struck\nn. (nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.\nn. the shape of a bell",
+      "phonetic": "bel",
+      "forms": [
+        "bell"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "pulsars",
+      "headword": "pulsar",
+      "kind": "word",
+      "zh": "n. 脉冲星",
+      "en": "n. a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation",
+      "phonetic": "'pʌlsɑ:",
+      "forms": [
+        "pulsars"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "rotating",
+      "headword": "rotate",
+      "kind": "word",
+      "zh": "a. 辐状的\nvt. 使旋转, 使转动, 使轮流\nvi. 旋转, 循环\n[计] 旋转",
+      "en": "v. exchange on a regular basis\nv. perform a job or duty on a rotating basis\nv. cause to turn on an axis or center",
+      "phonetic": "'rәuteit",
+      "forms": [
+        "rotating"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "neutron",
+      "headword": "neutron",
+      "kind": "word",
+      "zh": "n. 中子\n[化] 中子",
+      "en": "n. an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleus",
+      "phonetic": "'nju:trɒn",
+      "forms": [
+        "neutron"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "cosmic",
+      "headword": "cosmic",
+      "kind": "word",
+      "zh": "a. 宇宙的, 宇宙航行的, 无限的, 有秩序的\n[医] 宇宙的",
+      "en": "a. of or from or pertaining to or characteristic of the cosmos or universe\ns. inconceivably extended in space or time",
+      "phonetic": "'kɒzmik",
+      "forms": [
+        "cosmic"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "clocks",
+      "headword": "clock",
+      "kind": "word",
+      "zh": "n. 时钟, 计时器, (袜子上的)绣花边花\nvt. 绣花样, 记时, 记录\nvi. 记录时间\n[计] 时钟",
+      "en": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "phonetic": "klɒk",
+      "forms": [
+        "clocks"
+      ],
+      "example": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "hodgkin",
+      "headword": "hodgkin",
+      "kind": "word",
+      "zh": "n. 霍奇金（英国生理学家、生物物理学家, 曾获1963年诺贝尔生理学-医学奖）；霍奇金（英国女化学家, 曾获1964年诺贝尔化学奖）",
+      "en": "n. English physician who first described Hodgkin's disease (1798-1866)\nn. English chemist (born in Egypt) who used crystallography to study the structure of organic compounds (1910-1994)\nn. English physiologist who, with Andrew Huxley, discovered the role of potassium and sodium atoms in the transmission of the nerve impulse (1914-1998)",
+      "phonetic": "'hɔdʒkin",
+      "forms": [
+        "hodgkin"
+      ],
+      "example": "Biology teaching can include Dorothy Hodgkin on protein structure, the only British female Nobel laureate in science, and Tu Youyou, a Nobel laureate whose work led to the development of an antimalarial drug.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "Biology teaching can include Dorothy Hodgkin on protein structure, the only British female Nobel laureate in science, and Tu Youyou, a Nobel laureate whose work led to the development of an antimalarial drug.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "nobel",
+      "headword": "Nobel",
+      "kind": "word",
+      "zh": "n. 诺贝尔",
+      "en": "n. Swedish chemist remembered for his invention of dynamite and for the bequest that created the Nobel prizes (1833-1896)",
+      "phonetic": "'nәubel",
+      "forms": [
+        "nobel"
+      ],
+      "example": "Biology teaching can include Dorothy Hodgkin on protein structure, the only British female Nobel laureate in science, and Tu Youyou, a Nobel laureate whose work led to the development of an antimalarial drug.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "laureate",
+      "headword": "laureate",
+      "kind": "word",
+      "zh": "a. 戴桂冠的, 用月桂树枝编织成的, 荣誉的\nn. 桂冠诗人\nvt. 使戴桂冠",
+      "en": "n. someone honored for great achievements; figuratively someone crowned with a laurel wreath\ns. worthy of the greatest honor or distinction",
+      "phonetic": "'lɒ:riәt",
+      "forms": [
+        "laureate"
+      ],
+      "example": "Biology teaching can include Dorothy Hodgkin on protein structure, the only British female Nobel laureate in science, and Tu Youyou, a Nobel laureate whose work led to the development of an antimalarial drug.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "antimalarial",
+      "headword": "antimalarial",
+      "kind": "word",
+      "zh": "[化] 抗疟的; 抗疟药\n[医] 抗疟的, 防治疟疾的",
+      "en": "n. a medicinal drug used to prevent or treat malaria",
+      "phonetic": ",æntimә'leәriәl",
+      "forms": [
+        "antimalarial"
+      ],
+      "example": "Biology teaching can include Dorothy Hodgkin on protein structure, the only British female Nobel laureate in science, and Tu Youyou, a Nobel laureate whose work led to the development of an antimalarial drug.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "chemistry",
+      "headword": "chemistry",
+      "kind": "word",
+      "zh": "n. 化学, 化学过程\n[化] 化学",
+      "en": "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions\nn. the chemical composition and properties of a substance or object\nn. the way two individuals relate to each other",
+      "phonetic": "'kemistri",
+      "forms": [
+        "chemistry"
+      ],
+      "example": "In chemistry, schools can teach about Stephanie Kwolek, the inventor of Kevlar, when covering polymers.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "inventor",
+      "headword": "inventor",
+      "kind": "word",
+      "zh": "n. 发明家\n[法] 发明人, 发明家, 创造者",
+      "en": "n. someone who is the first to think of or make something",
+      "phonetic": "in'ventә",
+      "forms": [
+        "inventor"
+      ],
+      "example": "In chemistry, schools can teach about Stephanie Kwolek, the inventor of Kevlar, when covering polymers.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "kevlar",
+      "headword": "Kevlar",
+      "kind": "word",
+      "zh": "[化] 凯芙拉",
+      "en": "",
+      "phonetic": "'kevlɑ:(r)",
+      "forms": [
+        "kevlar"
+      ],
+      "example": "In chemistry, schools can teach about Stephanie Kwolek, the inventor of Kevlar, when covering polymers.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "polymers",
+      "headword": "polymer",
+      "kind": "word",
+      "zh": "n. 聚合物, 聚合体\n[化] 多聚体; 高分子; 大分子; 聚合物",
+      "en": "n. a naturally occurring or synthetic compound consisting of large molecules made up of a linked series of repeated simple monomers",
+      "phonetic": "'pɒlimә",
+      "forms": [
+        "polymers"
+      ],
+      "example": "In chemistry, schools can teach about Stephanie Kwolek, the inventor of Kevlar, when covering polymers.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "cannon",
+      "headword": "cannon",
+      "kind": "word",
+      "zh": "n. 大炮, 加农炮\nv. 炮轰",
+      "en": "n. a large artillery gun that is usually on wheels\nn. heavy gun fired from a tank\nn. (Middle Ages) a cylindrical piece of armor plate to protect the arm\nn. heavy automatic gun fired from an airplane",
+      "phonetic": "'kænәn",
+      "forms": [
+        "cannon"
+      ],
+      "example": "For physics, they can include Annie Jump Cannon when describing the classification of stars.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "classification",
+      "headword": "classification",
+      "kind": "word",
+      "zh": "n. 分类, 分级\n[化] 分级; 分粒; 分类",
+      "en": "n. a group of people or things arranged by class or category\nn. the basic cognitive process of arranging into classes or categories\nn. restriction imposed by the government on documents or weapons that are available only to certain authorized people",
+      "phonetic": ".klæsifi'keiʃәn",
+      "forms": [
+        "classification"
+      ],
+      "example": "For physics, they can include Annie Jump Cannon when describing the classification of stars.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "pivotal",
+      "headword": "pivotal",
+      "kind": "word",
+      "zh": "a. 枢轴的, 关键的, 起中心作用的",
+      "en": "s. being of crucial importance",
+      "phonetic": "'pivәtәl",
+      "forms": [
+        "pivotal"
+      ],
+      "example": "And in environmental science, classes can discuss the pivotal work of Susan Solomon for understanding Antarctic ozone depletion.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "solomon",
+      "headword": "Solomon",
+      "kind": "word",
+      "zh": "n. 所罗门(古以色列国王), 聪明人, 贤人\n[计] 所罗门阵列处理机",
+      "en": "n. (Old Testament) son of David and king of Israel noted for his wisdom (10th century BC)",
+      "phonetic": "'sɒlәmәn",
+      "forms": [
+        "solomon"
+      ],
+      "example": "And in environmental science, classes can discuss the pivotal work of Susan Solomon for understanding Antarctic ozone depletion.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "antarctic",
+      "headword": "antarctic",
+      "kind": "word",
+      "zh": "a. 南极的, 南极地带的\nn. 南极地区",
+      "en": "n. the region around the south pole: Antarctica and surrounding waters",
+      "phonetic": "ænt'ɑ:ktik",
+      "forms": [
+        "antarctic"
+      ],
+      "example": "And in environmental science, classes can discuss the pivotal work of Susan Solomon for understanding Antarctic ozone depletion.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "ozone",
+      "headword": "ozone",
+      "kind": "word",
+      "zh": "n. 新鲜的空气, 臭氧, 使人愉快的影响\n[化] 臭氧",
+      "en": "n. a colorless gas (O3) soluble in alkalis and cold water; a strong oxidizing agent; can be produced by electric discharge in oxygen or by the action of ultraviolet radiation on oxygen in the stratosphere (where it acts as a screen for ultraviolet radiation)",
+      "phonetic": "'әuzәun",
+      "forms": [
+        "ozone"
+      ],
+      "example": "And in environmental science, classes can discuss the pivotal work of Susan Solomon for understanding Antarctic ozone depletion.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "depletion",
+      "headword": "depletion",
+      "kind": "word",
+      "zh": "n. 消耗, 耗尽, 放血\n[医] 排除, 缺失(液体), 衰竭[状态](由于缺液)",
+      "en": "n. the act of decreasing something markedly\nn. the state of being depleted",
+      "phonetic": "di'pli:ʃәn",
+      "forms": [
+        "depletion"
+      ],
+      "example": "And in environmental science, classes can discuss the pivotal work of Susan Solomon for understanding Antarctic ozone depletion.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "additions",
+      "headword": "addition",
+      "kind": "word",
+      "zh": "n. 加法, 增加的人(或物)\n[计] 加法",
+      "en": "n. a component that is added to something to improve it\nn. the act of adding one thing to another\nn. a quantity that is added\nn. a suburban area laid out in streets and lots for a future residential area",
+      "phonetic": "ә'diʃәn",
+      "forms": [
+        "additions"
+      ],
+      "example": "By making these simple additions to science specifications, we can change the message we send to the next generation.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "whoever",
+      "headword": "whoever",
+      "kind": "word",
+      "zh": "pron. 任何人, 无论谁",
+      "en": "pron. Whatever person; any person who; be or she who; any one\n   who; as, he shall be punished, whoever he may be.",
+      "phonetic": "hu'evә",
+      "forms": [
+        "whoever"
+      ],
+      "example": "Whoever they are, every student sitting in a classroom deserves to know that the story of science belongs to them too.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "deserves",
+      "headword": "deserve",
+      "kind": "word",
+      "zh": "vt. 该得到, 值得\nvi. 应得报答",
+      "en": "v. be worthy or deserving",
+      "phonetic": "di'zә:v",
+      "forms": [
+        "deserves"
+      ],
+      "example": "Whoever they are, every student sitting in a classroom deserves to know that the story of science belongs to them too.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "belongs",
+      "headword": "belong",
+      "kind": "word",
+      "zh": "vi. 属于, 合适",
+      "en": "v. be owned by; be in the possession of\nv. be suitable or acceptable\nv. be in the right place or situation\nv. be rightly classified in a class or category",
+      "phonetic": "bi'lɒŋ",
+      "forms": [
+        "belongs"
+      ],
+      "example": "Whoever they are, every student sitting in a classroom deserves to know that the story of science belongs to them too.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      9,
+      18
+    ],
+    "wordBank": [
+      "vital",
+      "mathematics",
+      "solely",
+      "classroom",
+      "astronomy",
+      "crystallography",
+      "underrepresented",
+      "targeted",
+      "missing",
+      "breakthroughs"
+    ],
+    "parts": [
+      {
+        "text": "Marie Tharp, who mapped the ocean floor and identified the Mid-Atlantic Ridge rift valley, is also mentioned in A-level geology. She provided "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.\n\nFinally, Rosalind Franklin is included in two biology specifications for her X-ray "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " work revealing the double-helix structure of DNA. Her essential data was used without attribution during her lifetime.\n\nAt GCSE level, when science is compulsory for all students, Franklin is the only woman mentioned. At A-level, Lehmann and Tharp appear "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " in geology, a subject taken by less than 2% of science students.\n\nFor centuries, social, economic, and institutional barriers limited women’s formal participation in science. Despite this, women made numerous key "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ", and these are already taught to UK 14–18-year-olds. But the names of the women behind them did not make it onto the page.\n\nWhy representation matters\n\nDiversity within scientific fields drives creativity and innovation, benefiting all of society. Yet women remain "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": ". They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.\n\nThis disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025. This imbalance continues into university, where women make up roughly 25% of physics undergraduate students in the UK.\n\nIntroducing relatable female role models into the "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " directly boosts girls’ confidence and fosters positive attitudes towards scientific careers. But because specifications dictate mandatory exam content, teachers currently have to go out of their way to add female figures on top of busy workloads. By making small, "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " changes directly to national specifications, we can make inclusion standard practice across all schools.\n\nWe propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ".\n\nThis means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept. GCSE "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "vital",
+        "vocabularyId": "v63",
+        "explanation": "原文此处使用 vital（vital）。结合上下文辨认词义与词形。",
+        "evidence": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
+        "paragraph": 9
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "crystallography",
+        "vocabularyId": "v72",
+        "explanation": "原文此处使用 crystallography（crystallography）。结合上下文辨认词义与词形。",
+        "evidence": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
+        "paragraph": 10
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "solely",
+        "vocabularyId": "v77",
+        "explanation": "原文此处使用 solely（solely）。结合上下文辨认词义与词形。",
+        "evidence": "At A-level, Lehmann and Tharp appear solely in geology, a subject taken by less than 2% of science students.",
+        "paragraph": 11
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "breakthroughs",
+        "vocabularyId": "v14",
+        "explanation": "原文此处使用 breakthroughs（breakthrough）。结合上下文辨认词义与词形。",
+        "evidence": "Despite this, women made numerous key breakthroughs, and these are already taught to UK 14–18-year-olds.",
+        "paragraph": 12
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "underrepresented",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 underrepresented（underrepresented）。结合上下文辨认词义与词形。",
+        "evidence": "Diversity within scientific fields drives creativity and innovation, benefiting all of society. Yet women remain underrepresented. They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.",
+        "paragraph": 14
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "mathematics",
+        "vocabularyId": "v94",
+        "explanation": "原文此处使用 mathematics（mathematics）。结合上下文辨认词义与词形。",
+        "evidence": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
+        "paragraph": 15
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "classroom",
+        "vocabularyId": "v3",
+        "explanation": "原文此处使用 classroom（classroom）。结合上下文辨认词义与词形。",
+        "evidence": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
+        "paragraph": 16
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "targeted",
+        "vocabularyId": "v111",
+        "explanation": "原文此处使用 targeted（target）。结合上下文辨认词义与词形。",
+        "evidence": "By making small, targeted changes directly to national specifications, we can make inclusion standard practice across all schools.",
+        "paragraph": 16
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "missing",
+        "vocabularyId": "v116",
+        "explanation": "原文此处使用 missing（miss）。结合上下文辨认词义与词形。",
+        "evidence": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
+        "paragraph": 17
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "astronomy",
+        "vocabularyId": "v126",
+        "explanation": "原文此处使用 astronomy（astronomy）。结合上下文辨认词义与词形。",
+        "evidence": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
+        "paragraph": 18
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Better preparation for teachers is central to supporting pupils with dyslexia.",
+          "Regular park visits are associated with measurable differences in children's mental health.",
+          "Science curricula often overlook women whose work helped shape scientific knowledge.",
+          "A long-term study links public prekindergarten attendance to better later educational outcomes."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "In our new study, led by researchers at the University of Cambridge alongside IncludeHer, a collaborative project working to improve the representation of women in school science education, we analysed over 40 science specifications: the knowledge required to pass exams.",
+        "paragraph": 5
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why do omissions in early science courses matter?",
+        "options": [
+          "Curriculum content has no effect on perceptions of scientists.",
+          "Students never remember anything from school.",
+          "Later science learning is completely unrelated to earlier learning.",
+          "These courses form foundations that can influence people for life."
+        ],
+        "answer": 3,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Because these early stages form the foundation of our science education, their omissions stick with us for life.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 8?",
+        "options": [
+          "For physics, they can include Annie Jump Cannon when describing the classification of stars.",
+          "Leaving women out of national specifications sends an implicit message about who science is really for.",
+          "By making small, targeted changes directly to national specifications, we can make inclusion standard practice across all schools.",
+          "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”."
+        ],
+        "answer": 3,
+        "explanation": "定位第 8 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Inge Lehmann, who discovered that the Earth has a solid inner core surrounded by a liquid outer core, is cited in A-level Geology via the “Lehmann discontinuity”.",
+        "paragraph": 8
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 4",
+          "Paragraph 7",
+          "Paragraph 14"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.",
+        "paragraph": 14
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.”",
+        "options": [
+          "Paragraph 18",
+          "Paragraph 5",
+          "Paragraph 1",
+          "Paragraph 3"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "This means introducing Marie Skłodowska-Curie, who coined the term radioactivity and discovered polonium and radium, when teaching atomic structure and radioactivity, and Lise Meitner, who provided the first theoretical explanation of nuclear fission, when discussing this concept.",
+        "paragraph": 18
+      }
+    ]
+  },
+  "revision": "77f977353d1e161d36812b68a9479eff527c3cdf94eb8dada51c460449a5fea6"
+}

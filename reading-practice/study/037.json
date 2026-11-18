@@ -1,0 +1,2040 @@
+{
+  "schemaVersion": 1,
+  "folder": "037",
+  "articleSha256": "90bf2ee440e38e3430868e782da4e05bf4475958a4f690b9b4c49dc889327d4e",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "reptile",
+      "headword": "reptile",
+      "kind": "word",
+      "zh": "n. 爬行动物, 爬虫, 卑鄙的人\na. 爬行的, 爬虫类的, 卑鄙的",
+      "en": "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms",
+      "phonetic": "'reptail",
+      "forms": [
+        "reptile",
+        "reptiles"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "lover",
+      "headword": "lover",
+      "kind": "word",
+      "zh": "n. 爱人, 爱好者",
+      "en": "n. a person who loves someone or is loved by someone\nn. a significant other to whom you are not related by marriage",
+      "phonetic": "'lʌvә",
+      "forms": [
+        "lover"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "cold-blooded",
+      "headword": "cold-blooded",
+      "kind": "word",
+      "zh": "a. 冷血的, (贬)无情的, 残酷的\n[医] 冷血的",
+      "en": "a. having cold blood (in animals whose body temperature is not internally regulated)",
+      "phonetic": "kәjld'blʌdid",
+      "forms": [
+        "cold-blooded"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "creature",
+      "headword": "creature",
+      "kind": "word",
+      "zh": "n. 人, 动物, 创造物, 生物",
+      "en": "n. a human being; `wight' is an archaic term\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else",
+      "phonetic": "'kri:tʃә",
+      "forms": [
+        "creature"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "rocky",
+      "headword": "rocky",
+      "kind": "word",
+      "zh": "a. 岩石的, 多石的, 像岩石的, 无情的, 摇动的, 摇晃的",
+      "en": "s. abounding in rocks or stones\ns. liable to rock\ns. full of hardship or trials",
+      "phonetic": "'rɒki",
+      "forms": [
+        "rocky"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "outcrop",
+      "headword": "outcrop",
+      "kind": "word",
+      "zh": "n. 露出, 露头, 爆发\nvi. 露出地表, 出现",
+      "en": "n. the part of a rock formation that appears above the surface of the surrounding land\nv. appear on the surface, come to the surface on the ground",
+      "phonetic": "'autkrɒp",
+      "forms": [
+        "outcrop",
+        "outcrops"
+      ],
+      "example": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "closely",
+      "headword": "closely",
+      "kind": "word",
+      "zh": "adv. 接近地",
+      "en": "r. in a close relation or position in time or space\nr. in a close manner",
+      "phonetic": "'klәusli",
+      "forms": [
+        "closely"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "snake",
+      "headword": "snake",
+      "kind": "word",
+      "zh": "n. 蛇, 阴险的人\nvi. 曲折行进\nvt. 迂回, 拉, 急抽",
+      "en": "n. limbless scaly elongate reptile; some are venomous\nn. a deceitful or treacherous person\nn. a tributary of the Columbia River that rises in Wyoming and flows westward; discovered in 1805 by the Lewis and Clark Expedition\nn. something long, thin, and flexible that resembles a snake",
+      "phonetic": "sneik",
+      "forms": [
+        "snake",
+        "snakes"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "lizard",
+      "headword": "lizard",
+      "kind": "word",
+      "zh": "n. 蜥蜴\n[医] 蜥蜴",
+      "en": "n. relatively long-bodied reptile with usually two pairs of legs and a tapering tail",
+      "phonetic": "'lizәd",
+      "forms": [
+        "lizard",
+        "lizards"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "basking",
+      "headword": "bask",
+      "kind": "word",
+      "zh": "vi. 晒太阳, 感到舒适",
+      "en": "v. be exposed",
+      "phonetic": "bɑ:sk",
+      "forms": [
+        "basking"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "boulder",
+      "headword": "boulder",
+      "kind": "word",
+      "zh": "n. 大圆石\n[机] 圆石, 漂石",
+      "en": "n. a large smooth mass of rock detached from its place of origin\nn. a town in north central Colorado; Rocky Mountains resort center and university town",
+      "phonetic": "'bәuldә",
+      "forms": [
+        "boulder"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "sheltering",
+      "headword": "shelter",
+      "kind": "word",
+      "zh": "n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽\nvt. 庇护, 保护, 隐匿\nvi. 躲避",
+      "en": "n. a structure that provides privacy and protection from danger\nn. protective covering that provides protection from the weather\nn. temporary housing for homeless or displaced persons\nv. provide shelter for",
+      "phonetic": "'ʃeltә",
+      "forms": [
+        "sheltering"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "narrow",
+      "headword": "narrow",
+      "kind": "word",
+      "zh": "n. 狭窄部分, 隘路\na. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的\nvi. 变窄\nvt. 使变狭窄",
+      "en": "n. a narrow strait connecting two bodies of water\nv. make or become more narrow or restricted\na. not wide\ns. limited in size or scope",
+      "phonetic": "'nærәu",
+      "forms": [
+        "narrow"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "crevice",
+      "headword": "crevice",
+      "kind": "word",
+      "zh": "n. 裂缝\n[医] 缝",
+      "en": "n. a long narrow depression in a surface",
+      "phonetic": "'krevis",
+      "forms": [
+        "crevice"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "loose",
+      "headword": "loose",
+      "kind": "word",
+      "zh": "n. 发射, 放任, 放纵\na. 宽松的, 松的, 宽的, 不牢固的, 散漫的, 自由的, 不精确的\nvt. 释放, 放枪, 开船\nvi. 变松, 开火\nadv. 松散地",
+      "en": "a. not compact or dense in structure or arrangement\ns. (of a ball in sport) not in the possession or control of any player\na. not tight; not closely constrained or constricted or constricting\ns. not tense or taut",
+      "phonetic": "lu:s",
+      "forms": [
+        "loose"
+      ],
+      "example": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "Rocky habitats",
+      "headword": "rocky habitats",
+      "kind": "phrase",
+      "zh": "岩石生境",
+      "en": "living environments characterised by rocks",
+      "forms": [
+        "Rocky habitats"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v17",
+      "term": "habitats",
+      "headword": "habitat",
+      "kind": "word",
+      "zh": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+      "en": "n. the type of environment in which an organism or group normally lives or occurs",
+      "phonetic": "'hæbitæt",
+      "forms": [
+        "habitats",
+        "habitat"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature",
+        "temperatures"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "escape",
+      "headword": "escape",
+      "kind": "word",
+      "zh": "n. 逃亡, 避难设备, 逃跑\nvi. 逃脱, 避开, 溜走\nvt. 逃避, 避免, 被...忘掉",
+      "en": "n. the act of escaping physically\nn. an inclination to retreat from unpleasant realities through diversion or fantasy\nn. an avoidance of danger or difficulty\nn. a means or way of escaping",
+      "phonetic": "i'skeip",
+      "forms": [
+        "escape"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "predators",
+      "headword": "predator",
+      "kind": "word",
+      "zh": "n. 食肉动物, 掠夺者\n[医] 捕食者",
+      "en": "n. any animal that lives by preying on other animals",
+      "phonetic": "'predәtә",
+      "forms": [
+        "predators"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "survive",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "survive"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "harsh",
+      "headword": "harsh",
+      "kind": "word",
+      "zh": "a. 粗糙的, 刺耳的, 严厉的\n[法] 粗糙的, 严厉的, 苛刻的",
+      "en": "s. unpleasantly stern\ns. disagreeable to the senses\ns. unkind or cruel or uncivil\ns. severe",
+      "phonetic": "hɑ:ʃ",
+      "forms": [
+        "harsh"
+      ],
+      "example": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "refuge",
+      "headword": "refuge",
+      "kind": "word",
+      "zh": "n. 避难所, 安全地带, 避难, 庇护\nvi. 躲避\nvt. 给予...庇护",
+      "en": "n. a shelter from danger or hardship",
+      "phonetic": "'refju:dʒ",
+      "forms": [
+        "refuge",
+        "refuges"
+      ],
+      "example": "They are also a refuge where reptiles can socialise, lay eggs and find food.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "socialise",
+      "headword": "socialise",
+      "kind": "word",
+      "zh": "vt. 使社会化, 使社会主义化, 使适合社会需要\nvi. (美)(非正式)参加社交活动, 发生社交往来",
+      "en": "v take part in social activities; interact with others\nv train for a social environment\nv prepare for social life\nv make conform to socialist ideas and philosophies",
+      "phonetic": "'sәjʃәlaiz",
+      "forms": [
+        "socialise"
+      ],
+      "example": "They are also a refuge where reptiles can socialise, lay eggs and find food.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "struggle",
+      "headword": "struggle",
+      "kind": "word",
+      "zh": "n. 斗争, 努力, 奋斗\nvi. 努力, 奋斗, 挣扎",
+      "en": "n. an energetic attempt to achieve something\nn. strenuous effort\nv. to exert strenuous effort against opposition",
+      "phonetic": "'strʌgl",
+      "forms": [
+        "struggle"
+      ],
+      "example": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "putting",
+      "headword": "putt",
+      "kind": "word",
+      "zh": "vt. 击球入洞\nvi. 轻击高尔夫球\nn. 轻轻一击(入洞)",
+      "en": "n. hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\"\nv. strike (a golf ball) lightly, with a putter\nv. hit a putt",
+      "phonetic": "pʌt",
+      "forms": [
+        "putting"
+      ],
+      "example": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "ecosystems",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystems"
+      ],
+      "example": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "at risk",
+      "headword": "at risk",
+      "kind": "phrase",
+      "zh": "处于风险中",
+      "en": "in danger of being harmed",
+      "forms": [
+        "at risk"
+      ],
+      "example": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v29",
+      "term": "collapse",
+      "headword": "collapse",
+      "kind": "word",
+      "zh": "n. 崩溃, 倒塌, 虚脱\nvi. 倒塌, 崩溃, 瓦解\nvt. 使倒塌, 折叠\n[计] 折叠",
+      "en": "n. an abrupt failure of function or complete physical exhaustion\nn. a natural event caused by something suddenly falling down or caving in\nv. break down, literally or metaphorically\nv. fold or close up",
+      "phonetic": "kә'læps",
+      "forms": [
+        "collapse"
+      ],
+      "example": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "depend",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depend"
+      ],
+      "example": "But how many reptile species actually depend on rocky habitats?",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "aimed",
+      "headword": "aim",
+      "kind": "word",
+      "zh": "n. 目标, 瞄准, 击中目标的能力\nvi. 对准目标, 致力, 打算\nvt. 瞄准\n[计] 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+      "en": "n. the goal intended to be attained (and which is believed to be attainable)\nn. the action of directing something at an object\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv. propose or intend",
+      "phonetic": "eim",
+      "forms": [
+        "aimed"
+      ],
+      "example": "Our new study aimed both to answer this question and identify what threats rock-dwelling species face.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "continent",
+      "headword": "continent",
+      "kind": "word",
+      "zh": "n. 大陆, 洲\na. 自制的",
+      "en": "n. one of the large landmasses of the earth\nn. the European mainland\na. having control over urination and defecation",
+      "phonetic": "'kɒntinәnt",
+      "forms": [
+        "continent"
+      ],
+      "example": "Rocky habitats are found on every continent, ranging from cliff faces to outcrops and even areas covered with loose, scattered rocks.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "cliff",
+      "headword": "cliff",
+      "kind": "word",
+      "zh": "n. 悬崖, 绝壁",
+      "en": "n. a steep high face of rock",
+      "phonetic": "klif",
+      "forms": [
+        "cliff"
+      ],
+      "example": "Rocky habitats are found on every continent, ranging from cliff faces to outcrops and even areas covered with loose, scattered rocks.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "scattered",
+      "headword": "scatter",
+      "kind": "word",
+      "zh": "n. 消散, 分散, 散播, 散射, 散布, 酒馆\nvi. 散布, 散播, 消散\nvt. 使消散, 使分散, 撒, 散布, 散播, 散射\n[计] 散点图",
+      "en": "n. a haphazard distribution in all directions\nn. the act of scattering\nv. distribute loosely\nv. sow by scattering",
+      "phonetic": "'skætә",
+      "forms": [
+        "scattered"
+      ],
+      "example": "Rocky habitats are found on every continent, ranging from cliff faces to outcrops and even areas covered with loose, scattered rocks.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "Rocky habitats may seem relatively indestructible compared to forests or other living habitats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "indestructible",
+      "headword": "indestructible",
+      "kind": "word",
+      "zh": "a. 不能破坏的, 不可毁灭的",
+      "en": "a. not easily destroyed",
+      "phonetic": ".indi'strʌktәbl",
+      "forms": [
+        "indestructible"
+      ],
+      "example": "Rocky habitats may seem relatively indestructible compared to forests or other living habitats.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "damaged",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damaged"
+      ],
+      "example": "In reality, they are easily damaged or destroyed and, once lost, may take centuries or even millenia to reform.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "destroyed",
+      "headword": "destroy",
+      "kind": "word",
+      "zh": "vt. 破坏, 毁坏, 消灭",
+      "en": "v. do away with, cause the destruction or undoing of\nv. destroy completely; damage irreparably\nv. put (an animal) to death",
+      "phonetic": "di'strɒi",
+      "forms": [
+        "destroyed"
+      ],
+      "example": "In reality, they are easily damaged or destroyed and, once lost, may take centuries or even millenia to reform.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "extinction",
+      "headword": "extinction",
+      "kind": "word",
+      "zh": "n. 消失, 消灭, 废止\n[化] 消光; 熄灭",
+      "en": "n. no longer active; extinguished\nn. no longer in existence\nn. the reduction of the intensity of radiation as a consequence of absorption and radiation",
+      "phonetic": "ik'stiŋkʃәn",
+      "forms": [
+        "extinction"
+      ],
+      "example": "Today, one in five reptile species is at risk of extinction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "Habitat loss",
+      "headword": "habitat loss",
+      "kind": "phrase",
+      "zh": "生境丧失",
+      "en": "the destruction or disappearance of living environments",
+      "forms": [
+        "Habitat loss"
+      ],
+      "example": "Habitat loss is the most pressing threat to reptile populations worldwide.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v41",
+      "term": "worldwide",
+      "headword": "worldwide",
+      "kind": "word",
+      "zh": "a. 全世界的",
+      "en": "s. spanning or extending throughout the entire world",
+      "phonetic": "'wә:ldwaid",
+      "forms": [
+        "worldwide"
+      ],
+      "example": "Habitat loss is the most pressing threat to reptile populations worldwide.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Rocky areas are under pressure from threats such as mining, quarrying and urbanisation.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v43",
+      "term": "mining",
+      "headword": "mine",
+      "kind": "word",
+      "zh": "n. 矿, 矿藏, 地雷\nvt. 挖掘, 开采, 在...布雷, 破坏\nvi. 开矿, 埋设地雷\npron. 我的",
+      "en": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines",
+      "phonetic": "main",
+      "forms": [
+        "mining"
+      ],
+      "example": "Rocky areas are under pressure from threats such as mining, quarrying and urbanisation.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "quarrying",
+      "headword": "quarry",
+      "kind": "word",
+      "zh": "n. 采石场, 方形石, 猎物, 被追求物, 来源\nvt. 挖出, 努力挖掘\nvi. 费力地找",
+      "en": "v. extract (something such as stones) from or as if from a quarry",
+      "phonetic": "'kwɒri",
+      "forms": [
+        "quarrying"
+      ],
+      "example": "Rocky areas are under pressure from threats such as mining, quarrying and urbanisation.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "arab",
+      "headword": "Arab",
+      "kind": "word",
+      "zh": "n. 阿拉伯人, 阿拉伯马\na. 阿拉伯人的, 阿拉伯的",
+      "en": "n. a member of a Semitic people originally from the Arabian peninsula and surrounding territories who speaks Arabic and who inhabits much of the Middle East and northern Africa",
+      "phonetic": "'ærәb",
+      "forms": [
+        "arab"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "emirates",
+      "headword": "emirate",
+      "kind": "word",
+      "zh": "n. 埃米尔的地位, 酋长国",
+      "en": "n. the domain controlled by an emir\nn. the office of an emir",
+      "phonetic": "e'miәrit",
+      "forms": [
+        "emirates"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "for instance",
+      "headword": "for instance",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "for example",
+      "forms": [
+        "for instance"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v49",
+      "term": "instance",
+      "headword": "instance",
+      "kind": "word",
+      "zh": "n. 建议, 情况, 例子, 场合\nvt. 引以为例, 举例说明",
+      "en": "n an occurrence of something\nn an item of information that is typical of a class or group\nv clarify by giving an example of",
+      "phonetic": "'instәns",
+      "forms": [
+        "instance"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "rapid",
+      "headword": "rapid",
+      "kind": "word",
+      "zh": "a. 迅速的, 飞快的, 急促的, 陡的\nn. 急流",
+      "en": "n. a part of a river where the current is very fast\ns. done or occurring in a brief period of time\ns. characterized by speed; moving with or capable of moving with high speed",
+      "phonetic": "'ræpid",
+      "forms": [
+        "rapid"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "urban development",
+      "headword": "urban development",
+      "kind": "phrase",
+      "zh": "城市开发",
+      "en": "the construction and expansion of urban areas",
+      "forms": [
+        "urban development"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v52",
+      "term": "threatens",
+      "headword": "threaten",
+      "kind": "word",
+      "zh": "vt. 恐吓, 威胁, 预示...的凶兆\nvi. 威胁, 恫吓, 可能来临",
+      "en": "v. to utter intentions of injury or punishment against:\"He threatened me when I tried to call the police\"\nv. to be a menacing indication of something:\"The clouds threaten rain\"",
+      "phonetic": "'θretn",
+      "forms": [
+        "threatens",
+        "threatening",
+        "threatened"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "isolated",
+      "headword": "isolate",
+      "kind": "word",
+      "zh": "vt. 使隔离, 使孤立, 使绝缘\nn. 隔离种群",
+      "en": "v. place or set apart\nv. obtain in pure form\nv. separate (experiences) from the emotions relating to them",
+      "phonetic": "'aisәleit",
+      "forms": [
+        "isolated"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "formation",
+      "headword": "formation",
+      "kind": "word",
+      "zh": "n. 形成, 构造, 编队\n[医] 形成, 结构",
+      "en": "n. an arrangement of people or things acting as a unit\nn. the act of fabricating something in a particular shape\nn. a particular spatial arrangement\nn. natural process that causes something to form",
+      "phonetic": "fɒ:'meiʃәn",
+      "forms": [
+        "formation"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "critically",
+      "headword": "critically",
+      "kind": "word",
+      "zh": "adv. 批评性地, 审慎地, 精密地",
+      "en": "r. in a critical manner",
+      "phonetic": "'kritikәli",
+      "forms": [
+        "critically"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "endangered",
+      "headword": "endanger",
+      "kind": "word",
+      "zh": "vt. 危及\n[法] 使危险, 危及",
+      "en": "v. pose a threat to; present a danger to",
+      "phonetic": "in'deindʒә",
+      "forms": [
+        "endangered"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "gecko",
+      "headword": "gecko",
+      "kind": "word",
+      "zh": "n. 壁虎\n[医] 蛤蚧",
+      "en": "n. any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless",
+      "phonetic": "'gekәu",
+      "forms": [
+        "gecko",
+        "geckos"
+      ],
+      "example": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "crushing",
+      "headword": "crush",
+      "kind": "word",
+      "zh": "n. 压碎, 粉碎, 群众, 迷恋\nvt. 压破, 征服, 塞, 弄皱, 榨出\nvi. 被压碎, 起皱, 挤",
+      "en": "n. a dense crowd of people\nn. the act of crushing\nv. break into small pieces\nv. humiliate or depress completely",
+      "phonetic": "krʌʃ",
+      "forms": [
+        "crushing",
+        "crush"
+      ],
+      "example": "In Australia, new rock crushing machinery can clear and crush surface rocks at rates of up to one hectare per hour.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "specialised",
+      "headword": "specialise",
+      "kind": "word",
+      "zh": "vt. 特加指明, 列举, 使专门化, 限定...的范围\nvt.vi. (使)特化, (使)专化\nvi. 成为专家, 专务, 专攻, 专门研究, 逐条详述",
+      "en": "v devote oneself to a special area of work\nv be specific about\nv suit to a special purpose\nv become more focus on an area of activity or field of study\nv evolve so as to lead to a new species or develop in a way most suited to the environment",
+      "phonetic": "'speʃә,laiz",
+      "forms": [
+        "specialised"
+      ],
+      "example": "It involves using specialised machinery to turn boulderfields and other rocky habitats into farmland.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "machinery",
+      "headword": "machinery",
+      "kind": "word",
+      "zh": "n. 机器, 机械装置, 机构\n[化] 机械",
+      "en": "n. machines or machine systems collectively\nn. a system of means and activities whereby a social institution functions",
+      "phonetic": "mә'ʃi:nәri",
+      "forms": [
+        "machinery"
+      ],
+      "example": "It involves using specialised machinery to turn boulderfields and other rocky habitats into farmland.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "farmland",
+      "headword": "farmland",
+      "kind": "word",
+      "zh": "n. 农田",
+      "en": "n. a rural area where farming is practiced",
+      "phonetic": "'fɑ:mlænd",
+      "forms": [
+        "farmland"
+      ],
+      "example": "It involves using specialised machinery to turn boulderfields and other rocky habitats into farmland.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "australia",
+      "headword": "Australia",
+      "kind": "word",
+      "zh": "n. 澳洲, 澳大利亚",
+      "en": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean",
+      "phonetic": "ɒ'streiljә",
+      "forms": [
+        "australia"
+      ],
+      "example": "In Australia, new rock crushing machinery can clear and crush surface rocks at rates of up to one hectare per hour.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "hectare",
+      "headword": "hectare",
+      "kind": "word",
+      "zh": "n. 公顷\n[经] 公顷",
+      "en": "n. (abbreviated `ha') a unit of surface area equal to 100 ares (or 10,000 square meters)",
+      "phonetic": "'hektɑ:",
+      "forms": [
+        "hectare"
+      ],
+      "example": "In Australia, new rock crushing machinery can clear and crush surface rocks at rates of up to one hectare per hour.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "These methods are increasingly being used in agricultural areas in Western Australia, South Australia and western Victoria, threatening the habitat of several threatened reptile species.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "agricultural",
+      "headword": "agricultural",
+      "kind": "word",
+      "zh": "a. 农业的\n[法] 农业的, 耕作的",
+      "en": "a. relating to or used in or promoting agriculture or farming",
+      "phonetic": ".ægri'kʌltʃәrәl",
+      "forms": [
+        "agricultural"
+      ],
+      "example": "These methods are increasingly being used in agricultural areas in Western Australia, South Australia and western Victoria, threatening the habitat of several threatened reptile species.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "overlooked",
+      "headword": "overlook",
+      "kind": "word",
+      "zh": "vt. 俯瞰, 远眺, 没注意到\nn. 眺望, 俯瞰到的景色",
+      "en": "n. a high place affording a good view\nv. look past, fail to notice\nv. watch over",
+      "phonetic": ".әuvә'luk",
+      "forms": [
+        "overlooked"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "conservation",
+      "headword": "conservation",
+      "kind": "word",
+      "zh": "n. 保护, 保存\n[医] 保存",
+      "en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change\nn. the preservation and careful management of the environment and of natural resources\nn. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+      "phonetic": ".kɒnsә'veiʃәn",
+      "forms": [
+        "conservation"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "initiatives",
+      "headword": "initiative",
+      "kind": "word",
+      "zh": "n. 主动行动, 首创精神, 主动权\na. 自发的, 起始的",
+      "en": "n readiness to embark on bold new ventures\nn the first of a series of actions\ns serving to set in motion",
+      "phonetic": "i'niʃiәtiv",
+      "forms": [
+        "initiatives"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "union",
+      "headword": "union",
+      "kind": "word",
+      "zh": "n. 联盟, 联合, 结合, 工会\n[化] 联合; 联管节; 活接头",
+      "en": "n. an organization of employees formed to bargain with the employer\nn. the United States (especially the northern states during the American Civil War)\nn. the state of being joined or united or linked\nn. healing process involving the growing together of the edges of a wound or the growing together of broken bones",
+      "phonetic": "'ju:njәn",
+      "forms": [
+        "union"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "iucn",
+      "headword": "IUCN",
+      "kind": "word",
+      "zh": "国际自然保护联盟",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "iucn"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "classification",
+      "headword": "classification",
+      "kind": "word",
+      "zh": "n. 分类, 分级\n[化] 分级; 分粒; 分类",
+      "en": "n. a group of people or things arranged by class or category\nn. the basic cognitive process of arranging into classes or categories\nn. restriction imposed by the government on documents or weapons that are available only to certain authorized people",
+      "phonetic": ".klæsifi'keiʃәn",
+      "forms": [
+        "classification",
+        "classifications"
+      ],
+      "example": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "reviewed",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "reviewed"
+      ],
+      "example": "We reviewed IUCN data and found over a quarter of the world’s terrestrial snakes, lizards and worm-lizards like the pink-tailed worm-lizard (Aprasia parapulchella) use rock habitats.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "quarter",
+      "headword": "quarter",
+      "kind": "word",
+      "zh": "n. 四分之一, 一刻钟, 季度, 地区\nvt. 四等分, 肢解\nvi. 驻扎, 住宿",
+      "en": "n. a district of a city having some distinguishing character\nn. (football, professional basketball) one of four divisions into which some games are divided\nn. a unit of time equal to 15 minutes or a quarter of an hour\nn. one of four periods into which the school year is divided",
+      "phonetic": "'kwɒ:tә",
+      "forms": [
+        "quarter"
+      ],
+      "example": "We reviewed IUCN data and found over a quarter of the world’s terrestrial snakes, lizards and worm-lizards like the pink-tailed worm-lizard (Aprasia parapulchella) use rock habitats.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "terrestrial",
+      "headword": "terrestrial",
+      "kind": "word",
+      "zh": "n. 地球上的人\na. 地球的, 陆生的, 陆地的, 人间的",
+      "en": "a. operating or living or growing on land",
+      "phonetic": "tә'restriәl",
+      "forms": [
+        "terrestrial"
+      ],
+      "example": "We reviewed IUCN data and found over a quarter of the world’s terrestrial snakes, lizards and worm-lizards like the pink-tailed worm-lizard (Aprasia parapulchella) use rock habitats.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "More than 1,000 species – roughly 10% of the world’s reptile species – completely depend on rocky habitats for their survival.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "survival",
+      "headword": "survival",
+      "kind": "word",
+      "zh": "n. 生存, 残存, 幸存者\na. 赖以生存的",
+      "en": "n. a state of surviving; remaining alive\nn. a natural process resulting in the evolution of organisms best adapted to the environment\nn. something that survives",
+      "phonetic": "sә'vaivәl",
+      "forms": [
+        "survival"
+      ],
+      "example": "More than 1,000 species – roughly 10% of the world’s reptile species – completely depend on rocky habitats for their survival.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "geographic",
+      "headword": "geographic",
+      "kind": "word",
+      "zh": "a. 地理(学)的, 地区(性)的",
+      "en": "a. of or relating to the science of geography\na. determined by geography",
+      "phonetic": ",dʒiә'^ræfik",
+      "forms": [
+        "geographic"
+      ],
+      "example": "We found rock-dependent species had geographic ranges that were 68% smaller, on average, than species that don’t rely on rocky habitats.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "We found rock-dependent species had geographic ranges that were 68% smaller, on average, than species that don’t rely on rocky habitats.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "rely",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "rely"
+      ],
+      "example": "We found rock-dependent species had geographic ranges that were 68% smaller, on average, than species that don’t rely on rocky habitats.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "rely on",
+      "headword": "rely on",
+      "kind": "phrase",
+      "zh": "依靠；依赖",
+      "en": "to depend on",
+      "forms": [
+        "rely on"
+      ],
+      "example": "We found rock-dependent species had geographic ranges that were 68% smaller, on average, than species that don’t rely on rocky habitats.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v82",
+      "term": "classified",
+      "headword": "classify",
+      "kind": "word",
+      "zh": "vt. 分类, 归类, 分等\n[建] 分类, 分级, 分粒",
+      "en": "v. arrange or order by classes or categories\nv. declare unavailable, as for security reasons",
+      "phonetic": "'klæsifai",
+      "forms": [
+        "classified"
+      ],
+      "example": "They were also 51% more likely to be classified as critically endangered.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "evolutionary",
+      "headword": "evolutionary",
+      "kind": "word",
+      "zh": "a. 展开的, 进化论的, 进化的, 发展的\n[计] 进化的, 改良的, 发展的",
+      "en": "a. of or relating to or produced by evolution",
+      "phonetic": ",i:vә'lu:ʃәnәri",
+      "forms": [
+        "evolutionary"
+      ],
+      "example": "From an evolutionary perspective, these species are also unique.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "perspective",
+      "headword": "perspective",
+      "kind": "word",
+      "zh": "n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图\na. 透视的, 透视法的\n[计] 透视",
+      "en": "n. the appearance of things relative to one another as determined by their distance from the viewer",
+      "phonetic": "pә'spektiv",
+      "forms": [
+        "perspective"
+      ],
+      "example": "From an evolutionary perspective, these species are also unique.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "From an evolutionary perspective, these species are also unique.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "independently",
+      "headword": "independently",
+      "kind": "word",
+      "zh": "adv. 独立地, 自立地",
+      "en": "r. on your own; without outside help\nr. apart from others",
+      "phonetic": ".indi'pendәntli",
+      "forms": [
+        "independently"
+      ],
+      "example": "Species across the reptile family tree, from worm-lizards to geckos and snakes, have independently adapted to rocky environments.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "adapted",
+      "headword": "adapt",
+      "kind": "word",
+      "zh": "vt. 使适应, 改编\nvi. 适应",
+      "en": "v. make fit for, or change to suit a new purpose",
+      "phonetic": "ә'dæpt",
+      "forms": [
+        "adapted"
+      ],
+      "example": "Species across the reptile family tree, from worm-lizards to geckos and snakes, have independently adapted to rocky environments.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "restricted",
+      "headword": "restrict",
+      "kind": "word",
+      "zh": "vt. 限制, 限定, 约束\n[医] 限制",
+      "en": "v. place restrictions on\nv. place under restrictions; limit access to\nv. place limits on (extent or access)",
+      "phonetic": "ri'strikt",
+      "forms": [
+        "restricted"
+      ],
+      "example": "But many rock-dependent reptiles are restricted to extremely isolated habitats so, if these areas are damaged or destroyed, they have few places to go.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "extremely",
+      "headword": "extremely",
+      "kind": "word",
+      "zh": "adv. 极端地, 非常地",
+      "en": "r. to an extreme degree",
+      "phonetic": "ik'stri:mli",
+      "forms": [
+        "extremely"
+      ],
+      "example": "But many rock-dependent reptiles are restricted to extremely isolated habitats so, if these areas are damaged or destroyed, they have few places to go.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "importantly",
+      "headword": "importantly",
+      "kind": "word",
+      "zh": "adv. 重要地；大量地；有名望地；自命不凡地",
+      "en": "r. in an important way or to an important degree\nr. in an important way",
+      "phonetic": "",
+      "forms": [
+        "importantly"
+      ],
+      "example": "Importantly, we found more than twice as many reptiles live in rocky areas than is captured under current classifications.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "Importantly, we found more than twice as many reptiles live in rocky areas than is captured under current classifications.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "proper",
+      "headword": "proper",
+      "kind": "word",
+      "zh": "a. 适当的, 固有的, 高尚的, 专属的\nadv. 完全地, 彻底地",
+      "en": "a. marked by suitability or rightness or appropriateness\ns. having all the qualities typical of the thing specified; not just a snack\"\ns. limited to the thing specified\ns. appropriate for a condition or purpose or occasion or a person's character, needs",
+      "phonetic": "'prɒpә",
+      "forms": [
+        "proper"
+      ],
+      "example": "This matters because without proper recognition, these habitats are less likely to be prioritised for conservation.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "recognition",
+      "headword": "recognition",
+      "kind": "word",
+      "zh": "n. 赞誉, 认得, 识别, 承认, 认可, 认识\n[电] 认识",
+      "en": "n. the state or quality of being recognized or acknowledged\nn. the process of recognizing something or someone by remembering\nn. approval\nn. (biology) the ability of one molecule to attach to another molecule that has a complementary shape",
+      "phonetic": ".rekәg'niʃәn",
+      "forms": [
+        "recognition"
+      ],
+      "example": "This matters because without proper recognition, these habitats are less likely to be prioritised for conservation.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "prioritised",
+      "headword": "prioritise",
+      "kind": "word",
+      "zh": "vt. 给予…优先权; 按优先顺序处理; 出轻重缓急\nvi. 把事情按优先顺序排好（等于prioritize）",
+      "en": "v assign a priority to",
+      "phonetic": "praɪ'ɒrəˌtaɪz",
+      "forms": [
+        "prioritised"
+      ],
+      "example": "This matters because without proper recognition, these habitats are less likely to be prioritised for conservation.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "biodiversity",
+      "headword": "biodiversity",
+      "kind": "word",
+      "zh": "n. 生物多样性",
+      "en": "n. the diversity of plant and animal life in a particular habitat (or in the world as a whole)",
+      "phonetic": "",
+      "forms": [
+        "biodiversity"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "hotspots",
+      "headword": "hotspot",
+      "kind": "word",
+      "zh": "n. 热区；热点",
+      "en": "n a place of political unrest and potential violence\nn a point of relatively intense heat or radiation\nn a lively entertainment spot",
+      "phonetic": "",
+      "forms": [
+        "hotspots"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "warms",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warms"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "crucial",
+      "headword": "crucial",
+      "kind": "word",
+      "zh": "a. 决定性的, 重要的, 严厉的\n[医] 十字形的; 决断的, 定局的",
+      "en": "a. of extreme importance; vital to the resolution of a crisis\ns. having crucial relevance",
+      "phonetic": "'kru:ʃәl",
+      "forms": [
+        "crucial"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "drought",
+      "headword": "drought",
+      "kind": "word",
+      "zh": "n. 干旱, 缺乏",
+      "en": "n. a shortage of rainfall\nn. a prolonged shortage",
+      "phonetic": "draut",
+      "forms": [
+        "drought"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "extreme",
+      "headword": "extreme",
+      "kind": "word",
+      "zh": "n. 极端, 末端\na. 极端的, 尽头的, 极度的, 偏激的",
+      "en": "n. the furthest or highest degree of something\ns. of the greatest possible degree or extent or intensity\ns. far beyond a norm in quantity or amount or degree; to an utmost degree\ns. beyond a norm in views or actions",
+      "phonetic": "ik'stri:m",
+      "forms": [
+        "extreme"
+      ],
+      "example": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "undervalued",
+      "headword": "undervalue",
+      "kind": "word",
+      "zh": "vt. 低估...之价值, 低估, 看轻\n[经] 低估, 降低...价值",
+      "en": "v. assign too low a value to\nv. esteem lightly",
+      "phonetic": ".ʌndә'vælju:",
+      "forms": [
+        "undervalued"
+      ],
+      "example": "Yet, rocky areas are often undervalued as habitat and are rarely protected or managed.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "rarely",
+      "headword": "rarely",
+      "kind": "word",
+      "zh": "adv. 很少地, 罕有地",
+      "en": "r. not often",
+      "phonetic": "'rєәli",
+      "forms": [
+        "rarely"
+      ],
+      "example": "Yet, rocky areas are often undervalued as habitat and are rarely protected or managed.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, scientists don’t know how quickly these habitats are disappearing.",
+      "paragraph": 22,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v105",
+      "term": "disappearing",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappearing"
+      ],
+      "example": "As a result, scientists don’t know how quickly these habitats are disappearing.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "australian",
+      "headword": "Australian",
+      "kind": "word",
+      "zh": "n. 澳大利亚人\na. 澳大利亚的, 澳洲的, 澳洲人的",
+      "en": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages",
+      "phonetic": "ɒ'streiljәn",
+      "forms": [
+        "australian"
+      ],
+      "example": "Our earlier research on Australian farms found that adding surface rocks back into cleared landscapes immediately benefits local wildlife.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "farms",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farms"
+      ],
+      "example": "Our earlier research on Australian farms found that adding surface rocks back into cleared landscapes immediately benefits local wildlife.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "landscapes",
+      "headword": "landscape",
+      "kind": "word",
+      "zh": "n. 风景, 山水, 风景画\nvi. 从事景观美化\nvt. 美化...景观\n[计] 横向",
+      "en": "n. an expanse of scenery that can be seen in a single view\nn. painting depicting an expanse of natural scenery\nn. a genre of art dealing with the depiction of natural scenery\nn. an extensive mental viewpoint",
+      "phonetic": "'lændskeip",
+      "forms": [
+        "landscapes"
+      ],
+      "example": "Our earlier research on Australian farms found that adding surface rocks back into cleared landscapes immediately benefits local wildlife.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "wildlife",
+      "headword": "wildlife",
+      "kind": "word",
+      "zh": "n. 野生动植物",
+      "en": "n. all living things (except people) that are undomesticated",
+      "phonetic": "'waildlaif",
+      "forms": [
+        "wildlife"
+      ],
+      "example": "Our earlier research on Australian farms found that adding surface rocks back into cleared landscapes immediately benefits local wildlife.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "restored",
+      "headword": "restore",
+      "kind": "word",
+      "zh": "vt. 回复, 恢复, 归还, 修补, 修复\nvt. 还原\nvi. 还原\n[计] 还原; DOS外部命令:从备份盘中取回文件",
+      "en": "v. return to its original or usable and functioning condition\nv. give or bring back\nv. bring back into original existence, use, function, or position",
+      "phonetic": "ri'stɒ:",
+      "forms": [
+        "restored"
+      ],
+      "example": "Within a year, restored rocky areas supported more reptiles and a greater diversity of species, compared to areas without added rock.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "diversity",
+      "headword": "diversity",
+      "kind": "word",
+      "zh": "n. 差异, 多样性\n[化] 多样性",
+      "en": "n. the condition or result of being changeable",
+      "phonetic": "dai'vә:siti",
+      "forms": [
+        "diversity"
+      ],
+      "example": "Within a year, restored rocky areas supported more reptiles and a greater diversity of species, compared to areas without added rock.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "sustain",
+      "headword": "sustain",
+      "kind": "word",
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许\n[电] 持续",
+      "en": "v. supply with necessities and support\nv. admit as valid",
+      "phonetic": "sә'stein",
+      "forms": [
+        "sustain"
+      ],
+      "example": "We still know very little about rocky habitats and the life they sustain.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "In fact",
+      "headword": "in fact",
+      "kind": "phrase",
+      "zh": "事实上",
+      "en": "used to emphasise what is actually true",
+      "forms": [
+        "In fact"
+      ],
+      "example": "We still know very little about rocky habitats and the life they sustain. In fact,\nnew rock-dependent species are constantly being unearthed. So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v114",
+      "term": "constantly",
+      "headword": "constantly",
+      "kind": "word",
+      "zh": "adv. 不变地, 不断地, 时常地",
+      "en": "r. without variation or change, in every case\nr. without interruption",
+      "phonetic": "'kɒnstәntli",
+      "forms": [
+        "constantly"
+      ],
+      "example": "We still know very little about rocky habitats and the life they sustain. In fact,\nnew rock-dependent species are constantly being unearthed. So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "unearthed",
+      "headword": "unearth",
+      "kind": "word",
+      "zh": "vt. 发掘, 掘出, 从洞中赶出, 揭露, 发现",
+      "en": "v. bring to light",
+      "phonetic": ".ʌn'ә:θ",
+      "forms": [
+        "unearthed"
+      ],
+      "example": "We still know very little about rocky habitats and the life they sustain. In fact,\nnew rock-dependent species are constantly being unearthed. So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "protecting",
+      "headword": "protect",
+      "kind": "word",
+      "zh": "vt. 防卫, 保护, 警戒\n[法] 庇护, 保护, 警戒",
+      "en": "v. shield from danger, injury, destruction, or damage\nv. use tariffs to favor domestic industry",
+      "phonetic": "prә'tekt",
+      "forms": [
+        "protecting"
+      ],
+      "example": "So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "rugged",
+      "headword": "rugged",
+      "kind": "word",
+      "zh": "a. 高低不平的, 崎岖的, 粗糙的",
+      "en": "a. sturdy and strong in constitution or construction; enduring\ns. very difficult; severely testing stamina or resolution",
+      "phonetic": "'rʌgid",
+      "forms": [
+        "rugged"
+      ],
+      "example": "So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "So protecting these rich and rugged landscapes is vital to protecting not only species we know, but those yet to be discovered.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      13
+    ],
+    "wordBank": [
+      "struggle",
+      "indestructible",
+      "closely",
+      "initiatives",
+      "agricultural",
+      "extinction",
+      "threatens",
+      "machinery",
+      "habitats",
+      "aimed"
+    ],
+    "parts": [
+      {
+        "text": "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.\n\nLook "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.\n\nFor reptiles, these rocks are not simply somewhere to hang out.\n\nRocky "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " help reptiles control their body temperature, escape predators and survive harsh winters. They are also a refuge where reptiles can socialise, lay eggs and find food.\n\nWithout rocky habitats, many reptile species would "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " to survive, putting wider ecosystems at risk of collapse. But how many reptile species actually depend on rocky habitats?\n\nOur new study "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " both to answer this question and identify what threats rock-dwelling species face.\n\nRocky habitats at risk\n\nRocky habitats are found on every continent, ranging from cliff faces to outcrops and even areas covered with loose, scattered rocks.\n\nRocky habitats may seem relatively "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " compared to forests or other living habitats. In reality, they are easily damaged or destroyed and, once lost, may take centuries or even millenia to reform.\n\nToday, one in five reptile species is at risk of "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ". Habitat loss is the most pressing threat to reptile populations worldwide.\n\nRocky areas are under pressure from threats such as mining, quarrying and urbanisation. In the United Arab Emirates, for instance, rapid urban development "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).\n\nRock crushing is another problem. It involves using specialised "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " to turn boulderfields and other rocky habitats into farmland. In Australia, new rock crushing machinery can clear and crush surface rocks at rates of up to one hectare per hour. These methods are increasingly being used in "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " areas in Western Australia, South Australia and western Victoria, threatening the habitat of several threatened reptile species.\n\nDespite their importance, rocky habitats are often overlooked in conservation plans and "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": ", such as the International Union for Conservation of Nature’s (IUCN) habitat classification system."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "closely",
+        "vocabularyId": "v7",
+        "explanation": "原文此处使用 closely（closely）。结合上下文辨认词义与词形。",
+        "evidence": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "habitats",
+        "vocabularyId": "v17",
+        "explanation": "原文此处使用 habitats（habitat）。结合上下文辨认词义与词形。",
+        "evidence": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+        "paragraph": 4
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "struggle",
+        "vocabularyId": "v25",
+        "explanation": "原文此处使用 struggle（struggle）。结合上下文辨认词义与词形。",
+        "evidence": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
+        "paragraph": 5
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "aimed",
+        "vocabularyId": "v31",
+        "explanation": "原文此处使用 aimed（aim）。结合上下文辨认词义与词形。",
+        "evidence": "Our new study aimed both to answer this question and identify what threats rock-dwelling species face.",
+        "paragraph": 6
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "indestructible",
+        "vocabularyId": "v36",
+        "explanation": "原文此处使用 indestructible（indestructible）。结合上下文辨认词义与词形。",
+        "evidence": "Rocky habitats may seem relatively indestructible compared to forests or other living habitats.",
+        "paragraph": 9
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "extinction",
+        "vocabularyId": "v39",
+        "explanation": "原文此处使用 extinction（extinction）。结合上下文辨认词义与词形。",
+        "evidence": "Today, one in five reptile species is at risk of extinction.",
+        "paragraph": 10
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "threatens",
+        "vocabularyId": "v52",
+        "explanation": "原文此处使用 threatens（threaten）。结合上下文辨认词义与词形。",
+        "evidence": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "machinery",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 machinery（machinery）。结合上下文辨认词义与词形。",
+        "evidence": "It involves using specialised machinery to turn boulderfields and other rocky habitats into farmland.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "agricultural",
+        "vocabularyId": "v65",
+        "explanation": "原文此处使用 agricultural（agricultural）。结合上下文辨认词义与词形。",
+        "evidence": "These methods are increasingly being used in agricultural areas in Western Australia, South Australia and western Victoria, threatening the habitat of several threatened reptile species.",
+        "paragraph": 12
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "initiatives",
+        "vocabularyId": "v69",
+        "explanation": "原文此处使用 initiatives（initiative）。结合上下文辨认词义与词形。",
+        "evidence": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Condor conservation illustrates the importance of deciding whose voices shape species protection.",
+          "Studying starling murmurations may reveal how spectacular flocking displays change as bird numbers fall.",
+          "Rocky habitats support many reptile species but are often overlooked in conservation.",
+          "Humidity increases the danger of heatwaves and deserves greater attention in public warnings."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
+        "paragraph": 13
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why are rocky habitats useful to reptiles?",
+        "options": [
+          "They prevent any other species from entering an ecosystem.",
+          "They remove reptiles' need for shelter or food.",
+          "They guarantee a constant temperature in every season.",
+          "They help regulate temperature, avoid predators and survive harsh conditions."
+        ],
+        "answer": 3,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "Ask any reptile lover where to find a cold-blooded creature and chances are they will point to a rocky outcrop.",
+          "Without greater recognition and action, we risk losing both these habitats and the species that depend on them.",
+          "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
+          "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus)."
+        ],
+        "answer": 3,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“We reviewed IUCN data and found over a quarter of the world’s terrestrial snakes, lizards and worm-lizards like the pink-tailed worm-lizard (Aprasia parapulchella) use rock habitats.”",
+        "options": [
+          "Paragraph 4",
+          "Paragraph 18",
+          "Paragraph 1",
+          "Paragraph 16"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 16 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "We reviewed IUCN data and found over a quarter of the world’s terrestrial snakes, lizards and worm-lizards like the pink-tailed worm-lizard (Aprasia parapulchella) use rock habitats.",
+        "paragraph": 16
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.”",
+        "options": [
+          "Paragraph 24",
+          "Paragraph 5",
+          "Paragraph 21",
+          "Paragraph 6"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 21 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Rocky areas are biodiversity hotspots that will only become more important as the world warms, serving as crucial climate refuges that protect animals from drought and extreme temperatures.",
+        "paragraph": 21
+      }
+    ]
+  },
+  "revision": "c9e1593206230cdd3d89fb6e559ea5fc6cb99424bc631111724c41a35f7ef5ca"
+}

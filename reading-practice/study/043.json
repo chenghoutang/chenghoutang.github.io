@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 1,
+  "folder": "043",
+  "articleSha256": "bcc5c431aa8f35c3ec75feeec3a0c4508fe2edbbee595cebab967a7728184896",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "ovarian",
+      "headword": "ovarian",
+      "kind": "word",
+      "zh": "a. 子房的, 卵巢的, 果核的\n[医] 卵巢的",
+      "en": "a. of or involving the ovaries",
+      "phonetic": "әu'vєәriәn",
+      "forms": [
+        "ovarian"
+      ],
+      "example": "The most common type of ovarian cancer tends to grow quickly.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "ovarian cancer",
+      "headword": "ovarian cancer",
+      "kind": "phrase",
+      "zh": "卵巢癌",
+      "en": "cancer affecting the ovaries",
+      "forms": [
+        "ovarian cancer"
+      ],
+      "example": "The most common type of ovarian cancer tends to grow quickly.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "cancer",
+      "headword": "cancer",
+      "kind": "word",
+      "zh": "n. 癌, 恶性肿瘤\n[医] 癌",
+      "en": "n. any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream\nn. (astrology) a person who is born while the sun is in Cancer\nn. a small zodiacal constellation in the northern hemisphere; between Leo and Gemini\nn. the fourth sign of the zodiac; the sun is in this sign from about June 21 to July 22",
+      "phonetic": "'kænsә",
+      "forms": [
+        "cancer"
+      ],
+      "example": "The most common type of ovarian cancer tends to grow quickly.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "high-grade",
+      "headword": "high-grade",
+      "kind": "word",
+      "zh": "a. 高级的, 纯度高的",
+      "en": "s. surpassing in quality",
+      "phonetic": "'hai'^reid",
+      "forms": [
+        "high-grade"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "serous",
+      "headword": "serous",
+      "kind": "word",
+      "zh": "a. 如水的, 浆液的, 血清的\n[医] 血清的; 浆液的",
+      "en": "a. of or producing or containing serum",
+      "phonetic": "'siәrәs",
+      "forms": [
+        "serous"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "fallopian",
+      "headword": "fallopian",
+      "kind": "word",
+      "zh": "n. 输卵管, 喇叭管",
+      "en": "a. Pertaining to, or discovered by, Fallopius; as, the\n   Fallopian tubes or oviducts, the ducts or canals which conduct the ova\n   from the ovaries to the uterus.",
+      "phonetic": "",
+      "forms": [
+        "fallopian"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "fallopian tube",
+      "headword": "fallopian tube",
+      "kind": "phrase",
+      "zh": "输卵管",
+      "en": "a tube carrying eggs from an ovary towards the womb",
+      "forms": [
+        "fallopian tube"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v8",
+      "term": "tube",
+      "headword": "tube",
+      "kind": "word",
+      "zh": "n. 管, 软管, 隧道\nvt. 把...装管, 使通过管子\n[计] 管子",
+      "en": "n. conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases\nn. electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope\nn. (anatomy) any hollow cylindrical body structure\nv. provide with a tube or insert a tube into",
+      "phonetic": "tju:b",
+      "forms": [
+        "tube",
+        "tubes"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "ovaries",
+      "headword": "ovary",
+      "kind": "word",
+      "zh": "n. 卵巢, 子房, 果核\n[医] 卵巢, 子房",
+      "en": "n. the organ that bears the ovules of a flower\nn. (vertebrates) one of usually two organs that produce ova and secrete estrogen and progesterone",
+      "phonetic": "'әuvәri",
+      "forms": [
+        "ovaries"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "womb",
+      "headword": "womb",
+      "kind": "word",
+      "zh": "n. 子宫, 发源地\n[医] 子宫",
+      "en": "n a hollow muscular organ in the pelvic cavity of females; contains the developing fetus",
+      "phonetic": "wu:m",
+      "forms": [
+        "womb"
+      ],
+      "example": "It’s called high-grade serous ovarian cancer and often starts in a fallopian tube, one of the tubes that carry eggs from the ovaries towards the womb.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "changes",
+      "headword": "change",
+      "kind": "word",
+      "zh": "n. 变化, 找回的零钱, 找头, 更换\nvt. 改变, 更换, 兑换",
+      "en": "n. an event that occurs when something passes from one state or phase to another\nn. a relational difference between states; especially between states before and after some event\nn. the action of changing something\nn. the result of alteration or modification",
+      "phonetic": "tʃeindʒ",
+      "forms": [
+        "changes"
+      ],
+      "example": "The first changes can be so small that they’re usually found only when a specialist examines the tube under a microscope after surgery.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "specialist",
+      "headword": "specialist",
+      "kind": "word",
+      "zh": "n. 专门医师, 专家\na. 专业的, 专家的",
+      "en": "n. an expert who is devoted to one occupation or branch of learning\nn. practices one branch of medicine",
+      "phonetic": "'speiʃәlist",
+      "forms": [
+        "specialist"
+      ],
+      "example": "The first changes can be so small that they’re usually found only when a specialist examines the tube under a microscope after surgery.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "microscope",
+      "headword": "microscope",
+      "kind": "word",
+      "zh": "n. 显微镜\n[化] 显微镜",
+      "en": "n. magnifier of the image of small objects",
+      "phonetic": "'maikrәuskәup",
+      "forms": [
+        "microscope"
+      ],
+      "example": "The first changes can be so small that they’re usually found only when a specialist examines the tube under a microscope after surgery.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "surgery",
+      "headword": "surgery",
+      "kind": "word",
+      "zh": "n. 外科, 手术, 手术室, 换球术",
+      "en": "n. the branch of medical science that treats disease or injury by operative procedures\nn. a room where a doctor or dentist can be consulted",
+      "phonetic": "'sә:dʒәri",
+      "forms": [
+        "surgery"
+      ],
+      "example": "The first changes can be so small that they’re usually found only when a specialist examines the tube under a microscope after surgery.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "leave",
+      "headword": "leave",
+      "kind": "word",
+      "zh": "n. 许可, 告别, 请假, 休假\nvt. 离开, 剩下, 遗忘, 委托, 丢弃\nvi. 出发, 离开, 生叶",
+      "en": "n. the period of time during which you are absent from work or duty\nn. permission to do something\nv. go away from a place\nv. go and leave behind, either intentionally or by neglect or forgetfulness",
+      "phonetic": "li:v",
+      "forms": [
+        "leave"
+      ],
+      "example": "Now, a new study suggests that some of those changes may leave a trace in the blood.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "trace",
+      "headword": "trace",
+      "kind": "word",
+      "zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳\nvt. 追踪, 回溯, 描绘\nvi. 追溯, 沿路走",
+      "en": "n. a just detectable amount\nn. an indication that something has been present\nn. either of two lines that connect a horse's harness to a wagon or other vehicle or to a whiffletree\nn. a visible mark (as a footprint) left by the passage of person or animal or vehicle",
+      "phonetic": "treis",
+      "forms": [
+        "trace"
+      ],
+      "example": "Now, a new study suggests that some of those changes may leave a trace in the blood.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "blood",
+      "headword": "blood",
+      "kind": "word",
+      "zh": "n. 血, 血统, 流血, 气质, 生命\nvt. 使出血, 用血涂",
+      "en": "n. the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets\nn. temperament or disposition\nn. people viewed as members of a group\nv. smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill",
+      "phonetic": "blʌd",
+      "forms": [
+        "blood"
+      ],
+      "example": "Now, a new study suggests that some of those changes may leave a trace in the blood.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "molecule",
+      "headword": "molecule",
+      "kind": "word",
+      "zh": "n. 分子, 些微\n[化] 分子",
+      "en": "n. (physics and chemistry) the simplest structural unit of an element or compound",
+      "phonetic": "'mɒlikju:l",
+      "forms": [
+        "molecule",
+        "molecules"
+      ],
+      "example": "The researchers looked for a molecule called Tu-stroma in stored blood samples.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "blood samples",
+      "headword": "blood samples",
+      "kind": "phrase",
+      "zh": "血液样本",
+      "en": "samples of blood collected for testing",
+      "forms": [
+        "blood samples"
+      ],
+      "example": "The researchers looked for a molecule called Tu-stroma in stored blood samples.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v21",
+      "term": "samples",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "samples"
+      ],
+      "example": "The researchers looked for a molecule called Tu-stroma in stored blood samples.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "early",
+      "headword": "early",
+      "kind": "word",
+      "zh": "a. 早的, 早熟的\nadv. 很早, 初",
+      "en": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\na. being or occurring at an early stage of development\ns. belonging to the distant past\ns. very young",
+      "phonetic": "'ә:li",
+      "forms": [
+        "early"
+      ],
+      "example": "They found higher levels in people with early cancer that had begun growing into nearby tissue.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "nearby",
+      "headword": "nearby",
+      "kind": "word",
+      "zh": "a. 附近的, 近旁的\nadv. 在附近, 近旁地\nprep. 在...附近",
+      "en": "s. close at hand\nr. not far away in relative terms",
+      "phonetic": "'niәbai",
+      "forms": [
+        "nearby"
+      ],
+      "example": "They found higher levels in people with early cancer that had begun growing into nearby tissue.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "tissue",
+      "headword": "tissue",
+      "kind": "word",
+      "zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\n[化] 组织",
+      "en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper",
+      "phonetic": "'tiʃu:",
+      "forms": [
+        "tissue"
+      ],
+      "example": "They found higher levels in people with early cancer that had begun growing into nearby tissue.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "Levels were also higher in people with a tiny patch of abnormal cells still confined to the lining of the fallopian tube.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "patch",
+      "headword": "patch",
+      "kind": "word",
+      "zh": "n. 片, 补缀, 碎片, 斑, 傻瓜\nvt. 补缀, 掩饰, 拼凑, 平息\n[计] 修补; 拼凑",
+      "en": "n. a piece of cloth used as decoration or to mend or cover a hole\nn. a short set of commands to correct a bug in a computer program\nv. to join or unite the pieces of\nv. provide with a patch; also used metaphorically",
+      "phonetic": "pætʃ",
+      "forms": [
+        "patch",
+        "patches"
+      ],
+      "example": "Levels were also higher in people with a tiny patch of abnormal cells still confined to the lining of the fallopian tube.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "abnormal",
+      "headword": "abnormal",
+      "kind": "word",
+      "zh": "a. 反常的, 不规则的, 变态的, 畸形的\nn. 畸形的人",
+      "en": "a. not normal; not typical or usual or regular or conforming to a norm\na. departing from the normal in e.g. intelligence and development\ns. much greater than the normal",
+      "phonetic": "æb'nɒ:mәl",
+      "forms": [
+        "abnormal"
+      ],
+      "example": "Levels were also higher in people with a tiny patch of abnormal cells still confined to the lining of the fallopian tube.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "confined",
+      "headword": "confine",
+      "kind": "word",
+      "zh": "vt. 限制, 使不外出, 禁闭\nvi. 邻接, 交界\nn. 边缘, 范围, 区域",
+      "en": "v. prevent from leaving or from being removed\nv. deprive of freedom; take into confinement",
+      "phonetic": "kәn'fain",
+      "forms": [
+        "confined"
+      ],
+      "example": "Levels were also higher in people with a tiny patch of abnormal cells still confined to the lining of the fallopian tube.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "tubal",
+      "headword": "tubal",
+      "kind": "word",
+      "zh": "a. 管的, 输卵管的\n[医] 管的",
+      "en": "a. of or relating to occurring in a tube such as e.g. the Fallopian tube or Eustachian tube",
+      "phonetic": "'tju:bl",
+      "forms": [
+        "tubal"
+      ],
+      "example": "This patch, known as serous tubal intraepithelial carcinoma (Stic for short), can be an early step towards this type of ovarian cancer.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "intraepithelial",
+      "headword": "intraepithelial",
+      "kind": "word",
+      "zh": "a. 上皮内的",
+      "en": "",
+      "phonetic": "'intrә,epi'θi:liәl",
+      "forms": [
+        "intraepithelial"
+      ],
+      "example": "This patch, known as serous tubal intraepithelial carcinoma (Stic for short), can be an early step towards this type of ovarian cancer.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "carcinoma",
+      "headword": "carcinoma",
+      "kind": "word",
+      "zh": "n. 癌\n[医] 癌",
+      "en": "n. any malignant tumor derived from epithelial tissue; one of the four major types of cancer",
+      "phonetic": ".kɑ:si'nәumә",
+      "forms": [
+        "carcinoma"
+      ],
+      "example": "This patch, known as serous tubal intraepithelial carcinoma (Stic for short), can be an early step towards this type of ovarian cancer.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "signal",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signal"
+      ],
+      "example": "The next step is to follow people over time to find out when the signal first appears.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "symptoms",
+      "headword": "symptom",
+      "kind": "word",
+      "zh": "n. 症状, 征候, 征兆\n[医] 症状",
+      "en": "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease\nn. anything that accompanies X and is regarded as an indication of X's existence",
+      "phonetic": "'simptәm",
+      "forms": [
+        "symptoms"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v35",
+      "term": "persistent",
+      "headword": "persistent",
+      "kind": "word",
+      "zh": "a. 固执的, 坚持的, 持续的, 作用持久的\n[法] 坚持的, 固执的, 持续的",
+      "en": "s. never-ceasing\na. retained; not shed",
+      "phonetic": "pә'sistәnt",
+      "forms": [
+        "persistent"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "bloating",
+      "headword": "bloat",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 腌制, 使自大\nvi. 膨胀, 肿起\nn. 肿胀病人",
+      "en": "n. swelling of the rumen or intestinal tract of domestic animals caused by excessive gas\nv. become bloated or swollen or puff up\nv. make bloated or swollen",
+      "phonetic": "blәut",
+      "forms": [
+        "bloating"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "tummy",
+      "headword": "tummy",
+      "kind": "word",
+      "zh": "n. 胃, 肚子",
+      "en": "n slang for a paunch\nn an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion",
+      "phonetic": "'tʌmi",
+      "forms": [
+        "tummy"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "hips",
+      "headword": "hip",
+      "kind": "word",
+      "zh": "n. 臀部, 蔷薇果, 忧郁\na. 熟悉内情的\nvt. 使忧郁, 给(屋顶)造屋脊\ninterj. 喝彩声",
+      "en": "n. either side of the body below the waist and above the thigh\nn. the ball-and-socket joint between the head of the femur and the acetabulum\nn. (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof\nn. the fruit of a rose plant",
+      "phonetic": "hip",
+      "forms": [
+        "hips"
+      ],
+      "example": "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "persist",
+      "headword": "persist",
+      "kind": "word",
+      "zh": "vi. 坚持, 固执, 持续, 坚称\n[经] 持续",
+      "en": "v. stay behind",
+      "phonetic": "pә'sist",
+      "forms": [
+        "persist"
+      ],
+      "example": "If they persist or keep coming back, it’s worth getting them checked by a GP.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "coming",
+      "headword": "coming",
+      "kind": "word",
+      "zh": "n. 来临\na. 就要来的, 接着的",
+      "en": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future",
+      "phonetic": "'kʌmiŋ",
+      "forms": [
+        "coming"
+      ],
+      "example": "If they persist or keep coming back, it’s worth getting them checked by a GP.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "investigating",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigating"
+      ],
+      "example": "When investigating symptoms, doctors may use a blood test for CA125, a protein whose level can rise when ovarian cancer is present.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "When investigating symptoms, doctors may use a blood test for CA125, a protein whose level can rise when ovarian cancer is present.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "endometriosis",
+      "headword": "endometriosis",
+      "kind": "word",
+      "zh": "[医] 子宫内膜异位",
+      "en": "n. the presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea",
+      "phonetic": ",endәu,mi:tri'әusis",
+      "forms": [
+        "endometriosis"
+      ],
+      "example": "Other conditions can raise it too, including endometriosis, in which tissue similar to the womb lining grows elsewhere in the body.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "Other conditions can raise it too, including endometriosis, in which tissue similar to the womb lining grows elsewhere in the body.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "routine",
+      "headword": "routine",
+      "kind": "word",
+      "zh": "n. 常规, 日常工作, 惯例, 例行公事\na. 日常的, 常规的\n[计] 例程",
+      "en": "n. an unvarying or habitual method or procedure\nn. a set sequence of steps, part of larger computer program",
+      "phonetic": "ru:'ti:n",
+      "forms": [
+        "routine"
+      ],
+      "example": "The UK has no routine screening programme to check people without symptoms for ovarian cancer.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "screening",
+      "headword": "screen",
+      "kind": "word",
+      "zh": "n. 幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子\nvt. 掩蔽, 放映, 拍摄, 掩护, 筛, 甄别\nvi. 拍电影\n[计] 筛选; 屏幕",
+      "en": "n. a white or silvered surface where pictures can be projected for viewing\nn. the display that is electronically created on the surface of the large end of a cathode-ray tube\nn. a covering that serves to conceal or shelter something\nn. a protective covering consisting of netting; can be mounted in a frame",
+      "phonetic": "skri:n",
+      "forms": [
+        "screening"
+      ],
+      "example": "The UK has no routine screening programme to check people without symptoms for ovarian cancer.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "packages",
+      "headword": "package",
+      "kind": "word",
+      "zh": "n. 包裹, 套装软件, 包, 包装用物, 程序包\nvt. 包装, 打包\na. 一揽子的\n[计] 包, 软件包, 包装",
+      "en": "n. a collection of things wrapped or boxed together\nn. a wrapped container",
+      "phonetic": "'pækidʒ",
+      "forms": [
+        "packages"
+      ],
+      "example": "Earlier research showed that ovarian cancer cells can release Tu-stroma in tiny packages called extracellular vesicles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "extracellular",
+      "headword": "extracellular",
+      "kind": "word",
+      "zh": "a. 细胞外的\n[医] 细胞外的",
+      "en": "a. located or occurring outside a cell or cells",
+      "phonetic": ",ekstrә'seljulә",
+      "forms": [
+        "extracellular"
+      ],
+      "example": "Earlier research showed that ovarian cancer cells can release Tu-stroma in tiny packages called extracellular vesicles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "vesicles",
+      "headword": "vesicle",
+      "kind": "word",
+      "zh": "n. 囊, 泡, 水疱\n[化] 小穴",
+      "en": "n. a small anatomically normal sac or bladderlike structure (especially one containing fluid)",
+      "phonetic": "'vesikl",
+      "forms": [
+        "vesicles"
+      ],
+      "example": "Earlier research showed that ovarian cancer cells can release Tu-stroma in tiny packages called extracellular vesicles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "microscopic",
+      "headword": "microscopic",
+      "kind": "word",
+      "zh": "a. 显微镜的, 用显微镜可见的, 微观的, (非正式)极微小的, 细微的\n[计] 微观的",
+      "en": "a. of or relating to or used in microscopy\ns. visible under a microscope; using a microscope\ns. extremely precise with great attention to details\ns. so small as to be invisible without a microscope",
+      "phonetic": "maikrә'skɔpik",
+      "forms": [
+        "microscopic"
+      ],
+      "example": "Think of these as microscopic parcels carrying messages from one cell to another.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "parcels",
+      "headword": "parcel",
+      "kind": "word",
+      "zh": "n. 包裹, 部分, 片\nvt. 分配, 打包\na. 部分的\nadv. 局部地",
+      "en": "n. the allotment of some amount by dividing something\nv. divide into parts\nv. cover with strips of canvas\nv. make into a wrapped container",
+      "phonetic": "'pɑ:sl",
+      "forms": [
+        "parcels"
+      ],
+      "example": "Think of these as microscopic parcels carrying messages from one cell to another.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "analysed",
+      "headword": "analyse",
+      "kind": "word",
+      "zh": "vt. 分析, 细察, 分解\n[经] 分析",
+      "en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\nv break down into components or essential features\nv make a mathematical, chemical, or grammatical analysis of; break down into components or essential features\nv subject to psychoanalytic treatment",
+      "phonetic": "'ænәlaiz",
+      "forms": [
+        "analysed"
+      ],
+      "example": "They analysed samples from 506 people, including 43 with Stic alone.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "In a separate group used to check how well the test worked, it picked up Stic in about 92% of those who had it.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "comparison",
+      "headword": "comparison",
+      "kind": "word",
+      "zh": "n. 比较, 对照, 比喻\n[经] 比较, 对比",
+      "en": "n. the act of examining resemblances\nn. relation based on similarities and differences\nn. qualities that are comparable",
+      "phonetic": "kәm'pærisn",
+      "forms": [
+        "comparison"
+      ],
+      "example": "The test showed no signs of Stic in about 98% of people in the healthy comparison group.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "apart",
+      "headword": "apart",
+      "kind": "word",
+      "zh": "adv. 成零碎, 成距离, 分别地, 分离着\na. 分离的",
+      "en": "s. remote and separate physically or socially\ns. having characteristics not shared by others\nr. separated or at a distance in place or position or time\nr. not taken into account or excluded from consideration",
+      "phonetic": "ә'pɑ:t",
+      "forms": [
+        "apart"
+      ],
+      "example": "In these samples, Tu-stroma did a better job than CA125 of telling people with Stic apart from people who were healthy or had non-cancerous growths around the ovaries or fallopian tubes.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "diagnoses",
+      "headword": "diagnosis",
+      "kind": "word",
+      "zh": "n. 诊断\n[计] 诊断",
+      "en": "n. identifying the nature or cause of some phenomenon",
+      "phonetic": ".daiәg'nәusis",
+      "forms": [
+        "diagnoses"
+      ],
+      "example": "The researchers were working with samples from people whose diagnoses were already known.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "Only a small number had Stic, so the results are still uncertain.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "uncertain",
+      "headword": "uncertain",
+      "kind": "word",
+      "zh": "a. 不确定的, 无常的, 不确信的, 不可预测的\n[法] 不确定的, 未定的, 不确信的",
+      "en": "a. lacking or indicating lack of confidence or assurance\na. not established beyond doubt; still undecided or unknown\na. not certain to occur; not inevitable\ns. not consistent or dependable",
+      "phonetic": ".ʌn'sә:tn",
+      "forms": [
+        "uncertain"
+      ],
+      "example": "Only a small number had Stic, so the results are still uncertain.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "widely",
+      "headword": "widely",
+      "kind": "word",
+      "zh": "adv. 广泛地",
+      "en": "r. to a great degree\nr. so as to leave much space or distance between",
+      "phonetic": "'waidli",
+      "forms": [
+        "widely"
+      ],
+      "example": "If the test were offered widely to people without symptoms, very few would be likely to have these patches of abnormal cells.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "proportion",
+      "headword": "proportion",
+      "kind": "word",
+      "zh": "n. 比例, 比率, 均衡, 部分, 面积\nvt. 使成比例, 使均衡",
+      "en": "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole\nn. magnitude or extent\nn. the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree\nn. harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "phonetic": "prә'pɒ:ʃәn",
+      "forms": [
+        "proportion"
+      ],
+      "example": "Even a small proportion of false alarms could send many people for unnecessary tests or even surgery.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "false",
+      "headword": "false",
+      "kind": "word",
+      "zh": "a. 错误的, 虚伪的, 假的, 不老实的\nadv. 不准确地, 欺诈地",
+      "en": "a. not in accordance with the fact or reality or actuality\ns. arising from error\ns. erroneous and usually accidental\ns. deliberately deceptive",
+      "phonetic": "fɒ:ls",
+      "forms": [
+        "false"
+      ],
+      "example": "Even a small proportion of false alarms could send many people for unnecessary tests or even surgery.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "alarms",
+      "headword": "alarm",
+      "kind": "word",
+      "zh": "n. 惊恐, 警报, 警钟\nvt. 使惊恐, 警告\n[计] 报警信号",
+      "en": "n. fear resulting from the awareness of danger\nn. a device that signals the occurrence of some undesirable event\nn. an automatic signal (usually a sound) warning of danger\nv. warn or arouse to a sense of danger or call to a state of preparedness",
+      "phonetic": "ә'lɑ:m",
+      "forms": [
+        "alarms"
+      ],
+      "example": "Even a small proportion of false alarms could send many people for unnecessary tests or even surgery.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "unnecessary",
+      "headword": "unnecessary",
+      "kind": "word",
+      "zh": "a. 不必要的",
+      "en": "a. not necessary",
+      "phonetic": ".ʌn'nesәsәri",
+      "forms": [
+        "unnecessary"
+      ],
+      "example": "Even a small proportion of false alarms could send many people for unnecessary tests or even surgery.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "genes",
+      "headword": "gene",
+      "kind": "word",
+      "zh": "n. 基因\n[化] 基因(遗传因子)",
+      "en": "n. (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity",
+      "phonetic": "dʒi:n",
+      "forms": [
+        "genes",
+        "gene"
+      ],
+      "example": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "repair",
+      "headword": "repair",
+      "kind": "word",
+      "zh": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
+      "en": "n. the act of putting something in working order again\nn. a formal way of referring to the condition of something\nv. restore by replacing a part or putting together what is torn or broken\nv. move, travel, or proceed toward some place",
+      "phonetic": "ri'pєә",
+      "forms": [
+        "repair"
+      ],
+      "example": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "genetic",
+      "headword": "genetic",
+      "kind": "word",
+      "zh": "a. 创始的, 遗传的, 起源的, 遗传学的\n[医] 生殖的, 遗传的",
+      "en": "a. pertaining to or referring to origin\na. of or relating to the science of genetics",
+      "phonetic": "dʒi'netik",
+      "forms": [
+        "genetic"
+      ],
+      "example": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "instructions",
+      "headword": "instruction",
+      "kind": "word",
+      "zh": "n. 指令, 教导, 命令\n[计] 指令",
+      "en": "n. (computer science) a line of code written as part of a computer program",
+      "phonetic": "in'strʌkʃәn",
+      "forms": [
+        "instructions"
+      ],
+      "example": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "inherit",
+      "headword": "inherit",
+      "kind": "word",
+      "zh": "vt. 继承, 遗传\nvi. 接受遗产",
+      "en": "v. obtain from someone after their death\nv. receive from a predecessor\nv. receive by genetic transmission",
+      "phonetic": "in'herit",
+      "forms": [
+        "inherit",
+        "inherited"
+      ],
+      "example": "People who inherit a harmful change in either gene have a higher risk of ovarian cancer.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "harmful",
+      "headword": "harmful",
+      "kind": "word",
+      "zh": "a. 有害的, 伤害的",
+      "en": "a. causing or capable of causing harm",
+      "phonetic": "'hɑ:mful",
+      "forms": [
+        "harmful"
+      ],
+      "example": "People who inherit a harmful change in either gene have a higher risk of ovarian cancer.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "advised",
+      "headword": "advise",
+      "kind": "word",
+      "zh": "vt. 劝告, 给...出主意, 通知, 建议\nvi. 提意见, 商量",
+      "en": "v. inform (somebody) of something",
+      "phonetic": "әd'vaiz",
+      "forms": [
+        "advised",
+        "advises"
+      ],
+      "example": "They may be advised to consider surgery to remove their ovaries and fallopian tubes once they have finished having children or if they do not plan to have them.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "pregnant",
+      "headword": "pregnant",
+      "kind": "word",
+      "zh": "a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的\n[医] 妊娠的, 有孕的",
+      "en": "a. carrying developing offspring within the body or being about to produce new life",
+      "phonetic": "'pregnәnt",
+      "forms": [
+        "pregnant"
+      ],
+      "example": "The operation lowers their risk, but it ends their ability to get pregnant without fertility treatment.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "fertility",
+      "headword": "fertility",
+      "kind": "word",
+      "zh": "n. 肥沃, 丰饶, 生产力\n[医] 生育力",
+      "en": "n. the state of being fertile; capable of producing offspring",
+      "phonetic": "fә'tiliti",
+      "forms": [
+        "fertility"
+      ],
+      "example": "The operation lowers their risk, but it ends their ability to get pregnant without fertility treatment.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "menopause",
+      "headword": "menopause",
+      "kind": "word",
+      "zh": "n. 绝经期\n[医] 绝经",
+      "en": "n. the time in a woman's life in which the menstrual cycle ends",
+      "phonetic": "'menәupɒ:z",
+      "forms": [
+        "menopause"
+      ],
+      "example": "If they haven’t yet reached menopause, the sudden drop in hormones after surgery brings it on straight away.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sudden",
+      "headword": "sudden",
+      "kind": "word",
+      "zh": "n. 突然, 忽然\na. 突然的, 意外的, 快速的",
+      "en": "a. happening without warning or in a short space of time",
+      "phonetic": "'sʌdn",
+      "forms": [
+        "sudden"
+      ],
+      "example": "If they haven’t yet reached menopause, the sudden drop in hormones after surgery brings it on straight away.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "hormones",
+      "headword": "hormone",
+      "kind": "word",
+      "zh": "n. 荷尔蒙\n[化] 激素(旧称荷尔蒙)",
+      "en": "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "phonetic": "'hɒ:mәun",
+      "forms": [
+        "hormones"
+      ],
+      "example": "If they haven’t yet reached menopause, the sudden drop in hormones after surgery brings it on straight away.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "straight",
+      "headword": "straight",
+      "kind": "word",
+      "zh": "n. 直线, 直\na. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的\nadv. 直接地, 立即, 不断地",
+      "en": "n. a poker hand with 5 consecutive cards (regardless of suit)\ns. successive (without a break)\na. having no deviations\na. (of hair) having no waves or curls",
+      "phonetic": "streit",
+      "forms": [
+        "straight"
+      ],
+      "example": "If they haven’t yet reached menopause, the sudden drop in hormones after surgery brings it on straight away.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "institute",
+      "headword": "institute",
+      "kind": "word",
+      "zh": "n. 学会, 学院, 协会\nvt. 创立, 开始, 制定, 任命",
+      "en": "n. an association organized to promote art or science or education\nv. advance or set forth in court",
+      "phonetic": "'institju:t",
+      "forms": [
+        "institute"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "excellence",
+      "headword": "excellence",
+      "kind": "word",
+      "zh": "n. 优秀, 卓越, 优点",
+      "en": "n. the quality of excelling; possessing good qualities in high degree\nn. an outstanding feature; something in which something or someone excels",
+      "phonetic": "'ekslәns",
+      "forms": [
+        "excellence"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "regular",
+      "headword": "regular",
+      "kind": "word",
+      "zh": "a. 规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的\nn. 正规军, 正式队员\nadv. 经常地\nn. 正常体\n[计] 正常体",
+      "en": "n. a regular patron\nn. a soldier in the regular army\nn. a dependable follower (especially in party politics)\nn. a garment size for persons of average height and weight",
+      "phonetic": "'regjulә",
+      "forms": [
+        "regular"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "delay",
+      "headword": "delay",
+      "kind": "word",
+      "zh": "n. 耽搁, 迟滞\nv. 耽搁, 延迟\n[计] 延迟, 延时",
+      "en": "n. time during which some action is awaited\nn. the act of delaying; inactivity resulting in something being put off until a later time\nv. cause to be slowed down or delayed\nv. act later than planned, scheduled, or required",
+      "phonetic": "di'lei",
+      "forms": [
+        "delay"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "decline",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "decline"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "monitoring",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitoring"
+      ],
+      "example": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery. Tu-stroma might one day improve that monitoring. For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "experimental",
+      "headword": "experimental",
+      "kind": "word",
+      "zh": "a. 实验的, 根据实验的\n[医] 实验的",
+      "en": "a. relating to or based on experiment\ns. relying on observation or experiment\ns. of the nature of or undergoing an experiment",
+      "phonetic": "ik.speri'mentәl",
+      "forms": [
+        "experimental"
+      ],
+      "example": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "warning",
+      "headword": "warn",
+      "kind": "word",
+      "zh": "vt. 警告, 提醒, 通知\nvi. 发出警告",
+      "en": "v. notify of danger, potential harm, or risk\nv. admonish or counsel in terms of someone's behavior\nv. ask to go away\nv. notify, usually in advance",
+      "phonetic": "wɒ:n",
+      "forms": [
+        "warning"
+      ],
+      "example": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "basis",
+      "headword": "basis",
+      "kind": "word",
+      "zh": "n. 基础, 主要成分\n[化] 基底",
+      "en": "n. the fundamental assumptions from which something is begun or developed or calculated or explained\nn. the most important or necessary part of something",
+      "phonetic": "'beisis",
+      "forms": [
+        "basis"
+      ],
+      "example": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "postpone",
+      "headword": "postpone",
+      "kind": "word",
+      "zh": "vt. 延迟, 使延期, 缓办, 搁延\nvi. 延缓, 延缓发作",
+      "en": "v. hold back to a later time",
+      "phonetic": "pәust'pәun",
+      "forms": [
+        "postpone"
+      ],
+      "example": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "recommended",
+      "headword": "recommend",
+      "kind": "word",
+      "zh": "vt. 推荐, 介绍, 劝告, 使受欢迎, 托付\n[经] 建议, 推荐",
+      "en": "v. push for something\nv. make attractive or acceptable",
+      "phonetic": ".rekә'mend",
+      "forms": [
+        "recommended"
+      ],
+      "example": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "follow-up",
+      "headword": "follow-up",
+      "kind": "word",
+      "zh": "a. 继续的, 作为重复的",
+      "en": "n. a piece of work that exploits or builds on earlier work\nn. an activity that continues something that has already begun or that repeats something that has already been done\nn. a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "phonetic": "",
+      "forms": [
+        "follow-up"
+      ],
+      "example": "Even after years of follow-up, there was no clear evidence that fewer people died from those cancers.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "Even after years of follow-up, there was no clear evidence that fewer people died from those cancers.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "flags",
+      "headword": "flag",
+      "kind": "word",
+      "zh": "n. 标志, 旗标, 旗子, 信号旗, 菖蒲\nvt. 悬旗, 打旗号, 铺石板\nvi. 无力地下垂\n[计] 标志; 属性标记命令",
+      "en": "n. emblem usually consisting of a rectangular piece of cloth of distinctive design\nn. a rectangular piece of fabric used as a signalling device\nn. stratified stone that splits into pieces suitable as paving stones\nn. a conspicuously marked or shaped tail",
+      "phonetic": "flæg",
+      "forms": [
+        "flags"
+      ],
+      "example": "They also need to work out what to do if the blood test flags a problem but a scan shows nothing.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "scan",
+      "headword": "scan",
+      "kind": "word",
+      "zh": "n. 审视, 浏览, 扫描, 细查\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\nvi. 押韵, 扫描\n[计] 网络软件目录, 编码与分析系统",
+      "en": "n. the act of scanning; systematic examination of a prescribed region\nn. an image produced by scanning\nv. examine minutely or intensely\nv. examine hastily",
+      "phonetic": "skæn",
+      "forms": [
+        "scan"
+      ],
+      "example": "They also need to work out what to do if the blood test flags a problem but a scan shows nothing.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "ultimately",
+      "headword": "ultimately",
+      "kind": "word",
+      "zh": "adv. 最后, 最终\n[法] 最后, 终究, 总之",
+      "en": "r. as the end result of a succession or process",
+      "phonetic": "'ʌltimәtli",
+      "forms": [
+        "ultimately"
+      ],
+      "example": "The question a screening trial would ultimately have to answer is whether acting on that result saves lives.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      9,
+      13
+    ],
+    "wordBank": [
+      "diagnoses",
+      "experimental",
+      "fertility",
+      "early",
+      "nearby",
+      "abnormal",
+      "repair",
+      "specialist",
+      "ultimately",
+      "ovaries"
+    ],
+    "parts": [
+      {
+        "text": "There’s an important catch. The researchers were working with samples from people whose "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " were already known. Only a small number had Stic, so the results are still uncertain. If the test were offered widely to people without symptoms, very few would be likely to have these patches of "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " cells. Even a small proportion of false alarms could send many people for unnecessary tests or even surgery.\n\nWhat it could mean for people at higher risk\n\nBRCA1 and BRCA2 are genes that help "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " damage to DNA, the genetic instructions in our cells. People who inherit a harmful change in either gene have a higher risk of ovarian cancer. They may be advised to consider surgery to remove their "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " and fallopian tubes once they have finished having children or if they do not plan to have them. The operation lowers their risk, but it ends their ability to get pregnant without "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " treatment. If they haven’t yet reached menopause, the sudden drop in hormones after surgery brings it on straight away.\n\nThe National Institute for Health and Care Excellence (Nice) advises that "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery. Tu-stroma might one day improve that monitoring. For now, even if the "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.\n\nA large UK trial found that screening with CA125 picked up more ovarian and fallopian tube cancers at an "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " stage. Even after years of follow-up, there was no clear evidence that fewer people died from those cancers. With Tu-stroma, researchers still need to find out how often the abnormal cells in the tube lining start growing into "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " tissue. They also need to work out what to do if the blood test flags a problem but a scan shows nothing. The question a screening trial would "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " have to answer is whether acting on that result saves lives."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "diagnoses",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 diagnoses（diagnosis）。结合上下文辨认词义与词形。",
+        "evidence": "The researchers were working with samples from people whose diagnoses were already known.",
+        "paragraph": 9
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "abnormal",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 abnormal（abnormal）。结合上下文辨认词义与词形。",
+        "evidence": "If the test were offered widely to people without symptoms, very few would be likely to have these patches of abnormal cells.",
+        "paragraph": 9
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "repair",
+        "vocabularyId": "v65",
+        "explanation": "原文此处使用 repair（repair）。结合上下文辨认词义与词形。",
+        "evidence": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+        "paragraph": 11
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "ovaries",
+        "vocabularyId": "v9",
+        "explanation": "原文此处使用 ovaries（ovary）。结合上下文辨认词义与词形。",
+        "evidence": "They may be advised to consider surgery to remove their ovaries and fallopian tubes once they have finished having children or if they do not plan to have them.",
+        "paragraph": 11
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "fertility",
+        "vocabularyId": "v73",
+        "explanation": "原文此处使用 fertility（fertility）。结合上下文辨认词义与词形。",
+        "evidence": "The operation lowers their risk, but it ends their ability to get pregnant without fertility treatment.",
+        "paragraph": 11
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "specialist",
+        "vocabularyId": "v13",
+        "explanation": "原文此处使用 specialist（specialist）。结合上下文辨认词义与词形。",
+        "evidence": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
+        "paragraph": 12
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "experimental",
+        "vocabularyId": "v84",
+        "explanation": "原文此处使用 experimental（experimental）。结合上下文辨认词义与词形。",
+        "evidence": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
+        "paragraph": 12
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "early",
+        "vocabularyId": "v22",
+        "explanation": "原文此处使用 early（early）。结合上下文辨认词义与词形。",
+        "evidence": "A large UK trial found that screening with CA125 picked up more ovarian and fallopian tube cancers at an early stage.",
+        "paragraph": 13
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "nearby",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 nearby（nearby）。结合上下文辨认词义与词形。",
+        "evidence": "With Tu-stroma, researchers still need to find out how often the abnormal cells in the tube lining start growing into nearby tissue.",
+        "paragraph": 13
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "ultimately",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 ultimately（ultimately）。结合上下文辨认词义与词形。",
+        "evidence": "The question a screening trial would ultimately have to answer is whether acting on that result saves lives.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The physical properties of foods explain why freezing and thawing affect their textures differently.",
+          "Managing blood sugar requires understanding which strategies actually reduce glucose spikes.",
+          "Evidence about fluoride helps explain the differences between natural and conventional toothpaste.",
+          "Blood changes may provide clues to very early processes associated with ovarian cancer."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "This patch, known as serous tubal intraepithelial carcinoma (Stic for short), can be an early step towards this type of ovarian cancer.",
+        "paragraph": 3
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How are the earliest changes discussed usually identified?",
+        "options": [
+          "By measuring the temperature outdoors",
+          "By a specialist examining tissue under a microscope",
+          "By reading an ordinary food label",
+          "By asking patients to estimate their height"
+        ],
+        "answer": 1,
+        "explanation": "第 2 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The first changes can be so small that they’re usually found only when a specialist examines the tube under a microscope after surgery.",
+        "paragraph": 2
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 5?",
+        "options": [
+          "They found higher levels in people with early cancer that had begun growing into nearby tissue.",
+          "Ovarian cancer can cause symptoms such as persistent bloating and pain in the tummy or low down between the hips.",
+          "Levels were also higher in people with a tiny patch of abnormal cells still confined to the lining of the fallopian tube.",
+          "When investigating symptoms, doctors may use a blood test for CA125, a protein whose level can rise when ovarian cancer is present."
+        ],
+        "answer": 3,
+        "explanation": "定位第 5 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "When investigating symptoms, doctors may use a blood test for CA125, a protein whose level can rise when ovarian cancer is present.",
+        "paragraph": 5
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In a separate group used to check how well the test worked, it picked up Stic in about 92% of those who had it.”",
+        "options": [
+          "Paragraph 5",
+          "Paragraph 3",
+          "Paragraph 8",
+          "Paragraph 9"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 8 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In a separate group used to check how well the test worked, it picked up Stic in about 92% of those who had it.",
+        "paragraph": 8
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.”",
+        "options": [
+          "Paragraph 11",
+          "Paragraph 8",
+          "Paragraph 2",
+          "Paragraph 13"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 11 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
+        "paragraph": 11
+      }
+    ]
+  },
+  "revision": "323665233868f5feb5229b0a533930c96bd39ac30a426d91e11cd3a2e6999866"
+}

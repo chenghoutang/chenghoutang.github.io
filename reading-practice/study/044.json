@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": 1,
+  "folder": "044",
+  "articleSha256": "f8715894fb4f77773d6f89f750213b2e3c3184711f467f22a83cfd66d5c389d4",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "baths",
+      "headword": "bath",
+      "kind": "word",
+      "zh": "n. 沐浴, 浴室\n[医] 浴",
+      "en": "n. a vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)\nn. you soak and wash your body in a bathtub\nn. an ancient Hebrew liquid measure equal to about 10 gallons\nn. a town in southwestern England on the River Avon; famous for its hot springs and Roman remains",
+      "phonetic": "bæθ.bɑ:θ",
+      "forms": [
+        "baths"
+      ],
+      "example": "Ice baths have become one of the most popular recovery strategies in sport.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "recovery",
+      "headword": "recovery",
+      "kind": "word",
+      "zh": "n. 恢复, 复原, 痊愈, 重获\n[计] 恢复",
+      "en": "n. return to an original state\nn. the act of regaining or saving something lost (or in danger of becoming lost)",
+      "phonetic": "ri'kʌvәri",
+      "forms": [
+        "recovery"
+      ],
+      "example": "Ice baths have become one of the most popular recovery strategies in sport.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "elite",
+      "headword": "elite",
+      "kind": "word",
+      "zh": "n. 精华, 精锐, 中坚分子",
+      "en": "n. a group or class of persons enjoying superior intellectual or social or economic status",
+      "phonetic": "ei'li:t",
+      "forms": [
+        "elite"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "athletes",
+      "headword": "athlete",
+      "kind": "word",
+      "zh": "n. 运动员, 运动选手\n[医] 运动员",
+      "en": "n. a person trained to compete in sports",
+      "phonetic": "'æθli:t",
+      "forms": [
+        "athletes"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "recreational",
+      "headword": "recreational",
+      "kind": "word",
+      "zh": "a. 消遣的, 娱乐的",
+      "en": "a. of or relating to recreation",
+      "phonetic": ".rekri'eiʃәnәl",
+      "forms": [
+        "recreational"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "soreness",
+      "headword": "soreness",
+      "kind": "word",
+      "zh": "n. 痛苦, 悲伤, 愤慨",
+      "en": "n a pain that is felt (as when the area is touched)\nn an uncomfortable feeling of mental painfulness or distress",
+      "phonetic": "'sɒ:nis",
+      "forms": [
+        "soreness"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "recuperate",
+      "headword": "recuperate",
+      "kind": "word",
+      "zh": "vt. 恢复, 使复原, 使恢复健康, 使恢复精神\nvi. 复原, 恢复健康, 挽回损失",
+      "en": "v. restore to good health or strength\nv. get over an illness or shock",
+      "phonetic": "ri'kju:pәreit",
+      "forms": [
+        "recuperate"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "exercising",
+      "headword": "exercise",
+      "kind": "word",
+      "zh": "n. 行使, 执行, 运动, 练习, 作业\nvt. 运用, 练习, 运动\nvi. 练习, 锻炼",
+      "en": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches",
+      "phonetic": "'eksәsaiz",
+      "forms": [
+        "exercising",
+        "exercise",
+        "exercises"
+      ],
+      "example": "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "repair",
+      "headword": "repair",
+      "kind": "word",
+      "zh": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
+      "en": "n. the act of putting something in working order again\nn. a formal way of referring to the condition of something\nv. restore by replacing a part or putting together what is torn or broken\nv. move, travel, or proceed toward some place",
+      "phonetic": "ri'pєә",
+      "forms": [
+        "repair",
+        "repairs"
+      ],
+      "example": "It has often been claimed that ice baths help to reduce pain and repair the muscle damage that intense exercise can cause.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "muscle",
+      "headword": "muscle",
+      "kind": "word",
+      "zh": "n. 肌肉, 臂力\n[医] 肌",
+      "en": "n. one of the contractile organs of the body\nn. animal tissue consisting predominantly of contractile cells\nn. authority or power or force (especially when used in a coercive way)\nv. make one's way by force",
+      "phonetic": "'mʌsl",
+      "forms": [
+        "muscle",
+        "muscles"
+      ],
+      "example": "It has often been claimed that ice baths help to reduce pain and repair the muscle damage that intense exercise can cause.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage",
+        "damaged"
+      ],
+      "example": "It has often been claimed that ice baths help to reduce pain and repair the muscle damage that intense exercise can cause.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "intense",
+      "headword": "intense",
+      "kind": "word",
+      "zh": "a. 非常的, 强烈的, 紧张的, 热情的\n[医] 强的",
+      "en": "a. possessing or displaying a distinctive feature to a heightened degree\ns. (of color) having the highest saturation",
+      "phonetic": "in'tens",
+      "forms": [
+        "intense"
+      ],
+      "example": "It has often been claimed that ice baths help to reduce pain and repair the muscle damage that intense exercise can cause.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "recover",
+      "headword": "recover",
+      "kind": "word",
+      "zh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉\n[计] 恢复",
+      "en": "v. get or find back; recover the use of\nv. regain a former condition after a financial loss\nv. regain or make up for\nv. cover anew",
+      "phonetic": "ri'kʌvә",
+      "forms": [
+        "recover",
+        "recovered"
+      ],
+      "example": "Yet when we look at the evidence, it isn’t clear that ice baths really are the best way to recover post exercise.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "post",
+      "headword": "post",
+      "kind": "word",
+      "zh": "n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营\nvt. 张帖, 邮递, 公布, 登入帐, 使熟悉, 布置\nvi. 快速行进\nadv. 急速地\n[计] 记入; 登记, 上电自检",
+      "en": "n. the position where someone (as a guard or sentry) stands or is assigned to stand\nn. an upright consisting of a piece of timber or metal fixed firmly in an upright position\nn. United States aviator who in 1933 made the first solo flight around the world (1899-1935)\nn. United States female author who wrote a book and a syndicated newspaper column on etiquette (1872-1960)",
+      "phonetic": "pәust",
+      "forms": [
+        "post"
+      ],
+      "example": "Yet when we look at the evidence, it isn’t clear that ice baths really are the best way to recover post exercise.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "In a recent study, my colleagues and I compared ice baths against heat-based recovery methods.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "What we found suggests recovery is far more complex than simply cooling things down.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "strenuous",
+      "headword": "strenuous",
+      "kind": "word",
+      "zh": "a. 奋发的, 费劲的, 艰苦的",
+      "en": "s. characterized by or performed with much energy or force",
+      "phonetic": "'strenjuәs",
+      "forms": [
+        "strenuous"
+      ],
+      "example": "Strenuous or unfamiliar exercise can cause damage to our muscle fibres.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "unfamiliar",
+      "headword": "unfamiliar",
+      "kind": "word",
+      "zh": "a. 不熟悉的",
+      "en": "a. not known or well known",
+      "phonetic": ".ʌnfә'miljә",
+      "forms": [
+        "unfamiliar"
+      ],
+      "example": "Strenuous or unfamiliar exercise can cause damage to our muscle fibres.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "fibres",
+      "headword": "fibre",
+      "kind": "word",
+      "zh": "n. 纤维, 构造, 纤维制品\n[化] 纤维",
+      "en": "n a slender and greatly elongated substance capable of being spun into yarn\nn any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)\nn the inherent complex of attributes that determines a persons moral and ethical actions and reactions\nn a leatherlike material made by compressing layers of paper or cloth",
+      "phonetic": "'faibә",
+      "forms": [
+        "fibres"
+      ],
+      "example": "Strenuous or unfamiliar exercise can cause damage to our muscle fibres.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "eccentric",
+      "headword": "eccentric",
+      "kind": "word",
+      "zh": "n. 怪人, 偏心圆\na. 古怪的, 反常的, 不同圆心的",
+      "en": "n. a person with an unusual or odd personality\na. not having a common center; not concentric",
+      "phonetic": "ik'sentrik",
+      "forms": [
+        "eccentric"
+      ],
+      "example": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "lengthen",
+      "headword": "lengthen",
+      "kind": "word",
+      "zh": "vt. 加长, 使延长\nvi. 变长",
+      "en": "v. make longer\nv. become long or longer",
+      "phonetic": "'leŋθәn",
+      "forms": [
+        "lengthen"
+      ],
+      "example": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "generating",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generating"
+      ],
+      "example": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "downhill",
+      "headword": "downhill",
+      "kind": "word",
+      "zh": "a. 下坡的\nadv. 下坡, 向下",
+      "en": "n. the downward slope of a hill\nn. a ski race down a trail\nr. toward a lower or inferior state\nr. toward the bottom of a hill",
+      "phonetic": "'daun'hil",
+      "forms": [
+        "downhill"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "running",
+      "headword": "running",
+      "kind": "word",
+      "zh": "n. 赛跑, 流出, 运转\na. 流动的, 跑着的, 连续的",
+      "en": "n. the state of being in operation\nn. the act of administering or being in charge of something\na. (of fluids) moving or issuing in a stream\ns. continually repeated over a period of time",
+      "phonetic": "'rʌniŋ",
+      "forms": [
+        "running"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "descending",
+      "headword": "descend",
+      "kind": "word",
+      "zh": "vi. 下降, 世代相传, 屈尊, 袭击\nvt. 下降",
+      "en": "v. move downward and lower, but not necessarily all the way",
+      "phonetic": "di'send",
+      "forms": [
+        "descending"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "stairs",
+      "headword": "stairs",
+      "kind": "word",
+      "zh": "n. 楼梯",
+      "en": "n. a flight of stairs or a flight of steps",
+      "phonetic": "",
+      "forms": [
+        "stairs"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "lowering",
+      "headword": "lowering",
+      "kind": "word",
+      "zh": "a. 皱眉的, 愠怒的, 昏暗的",
+      "en": "n. the act of causing to become less\nn. the act of causing something to move to a lower level",
+      "phonetic": "'lәuәriŋ",
+      "forms": [
+        "lowering"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "barbell",
+      "headword": "barbell",
+      "kind": "word",
+      "zh": "n. 杠铃",
+      "en": "n. a bar to which heavy discs are attached at each end; used in weightlifting",
+      "phonetic": "'bɑ:bel",
+      "forms": [
+        "barbell"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "squat",
+      "headword": "squat",
+      "kind": "word",
+      "zh": "n. 蹲, 窝\na. 蹲着的, 矮胖的\nvi. 蹲下, 蹲坐, 蹲伏\nvt. 使蹲下, 擅自占有",
+      "en": "n. the act of assuming or maintaining a crouching position with the knees bent and the buttocks near the heels\nv. sit on one's heels\nv. be close to the earth, or be disproportionately wide\nv. occupy (a dwelling) illegally",
+      "phonetic": "skwɒt",
+      "forms": [
+        "squat"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "for instance",
+      "headword": "for instance",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "for example",
+      "forms": [
+        "for instance"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v32",
+      "term": "instance",
+      "headword": "instance",
+      "kind": "word",
+      "zh": "n. 建议, 情况, 例子, 场合\nvt. 引以为例, 举例说明",
+      "en": "n an occurrence of something\nn an item of information that is typical of a class or group\nv clarify by giving an example of",
+      "phonetic": "'instәns",
+      "forms": [
+        "instance"
+      ],
+      "example": "Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "sore",
+      "headword": "sore",
+      "kind": "word",
+      "zh": "a. 悲伤的, 痛的, 引起痛苦的\nn. 痛处, 溃疡, 疮",
+      "en": "n. an open skin infection",
+      "phonetic": "sɒ:",
+      "forms": [
+        "sore"
+      ],
+      "example": "This exercise-induced muscle damage can leave your muscles feeling sore and weak.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "weak",
+      "headword": "weak",
+      "kind": "word",
+      "zh": "a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的\n[经] 疲软的",
+      "en": "a. wanting in physical strength\ns. tending downward in price\ns. deficient or lacking in some skill\ns. (used of verbs) having standard (or regular) inflection",
+      "phonetic": "wi:k",
+      "forms": [
+        "weak"
+      ],
+      "example": "This exercise-induced muscle damage can leave your muscles feeling sore and weak.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "triggers",
+      "headword": "trigger",
+      "kind": "word",
+      "zh": "n. 触发器, 扳机\nvt. 触发, 发射, 引起\nvi. 松开扳柄\n[计] 切换开关",
+      "en": "n. a device that activates or releases or causes something to happen\nn. an act that sets in motion some course of events\nv. release or pull the trigger on",
+      "phonetic": "'trigә",
+      "forms": [
+        "triggers"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "inflammatory",
+      "headword": "inflammatory",
+      "kind": "word",
+      "zh": "a. 激动的, 煽动的, 炎症性的\n[医] 炎的, 炎性的",
+      "en": "s. characterized or caused by inflammation",
+      "phonetic": "in'flæmәtәri",
+      "forms": [
+        "inflammatory"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "immune",
+      "headword": "immune",
+      "kind": "word",
+      "zh": "a. 免疫的, 免除的, 不受影响的\nn. 免疫者",
+      "en": "n. a person who is immune to a particular infection\na. relating to the condition of immunity\ns. secure against\ns. relating to or conferring immunity (to disease or infection)",
+      "phonetic": "i'mju:n",
+      "forms": [
+        "immune"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "tissue",
+      "headword": "tissue",
+      "kind": "word",
+      "zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\n[化] 组织",
+      "en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper",
+      "phonetic": "'tiʃu:",
+      "forms": [
+        "tissue"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "cellular",
+      "headword": "cellular",
+      "kind": "word",
+      "zh": "a. 细胞的\n[医] 细胞的",
+      "en": "a. relating to cells\na. characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)",
+      "phonetic": "'seljulә",
+      "forms": [
+        "cellular"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "stimulate",
+      "headword": "stimulate",
+      "kind": "word",
+      "zh": "vt. 刺激, 激励, 鼓舞\nvi. 起刺激作用",
+      "en": "v. act as a stimulant\nv. stir the feelings, emotions, or peace of\nv. cause to be alert and energetic\nv. stir feelings in",
+      "phonetic": "'stimjuleit",
+      "forms": [
+        "stimulate",
+        "stimulating"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "regeneration",
+      "headword": "regeneration",
+      "kind": "word",
+      "zh": "n. 再生, 重建\n[化] 再生作用",
+      "en": "n. (biology) growth anew of lost tissue or destroyed parts or organs\nn. the activity of spiritual or physical renewal",
+      "phonetic": "ri.dʒenә'reiʃәn",
+      "forms": [
+        "regeneration"
+      ],
+      "example": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "molecules",
+      "headword": "molecule",
+      "kind": "word",
+      "zh": "n. 分子, 些微\n[化] 分子",
+      "en": "n. (physics and chemistry) the simplest structural unit of an element or compound",
+      "phonetic": "'mɒlikju:l",
+      "forms": [
+        "molecules"
+      ],
+      "example": "Other molecules are also released to help coordinate repair.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "coordinate",
+      "headword": "coordinate",
+      "kind": "word",
+      "zh": "n. 同等的人(或物), 坐标\na. 同等的, 并列的\nv. (使)协调",
+      "en": "n. a number that identifies a position relative to an axis\nv. bring into common action, movement, or condition\nv. be co-ordinated\ns. of equal importance, rank, or degree",
+      "phonetic": "kәu'ɒ:dineit",
+      "forms": [
+        "coordinate"
+      ],
+      "example": "Other molecules are also released to help coordinate repair.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "sensitivity",
+      "headword": "sensitivity",
+      "kind": "word",
+      "zh": "n. 敏感, 灵敏度\n[计] 灵敏度",
+      "en": "n. (physiology) responsiveness to external stimuli; the faculty of sensation\nn. the ability to respond to physical stimuli or to register small physical amounts or differences\nn. sensitivity to emotional feelings (of self and others)",
+      "phonetic": ".sensә'tiviti",
+      "forms": [
+        "sensitivity"
+      ],
+      "example": "However, these molecules can also increase the sensitivity of pain receptors, which may further contribute to the muscle soreness that people experience up to 72 hours after an intense workout.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "receptors",
+      "headword": "receptor",
+      "kind": "word",
+      "zh": "n. 受体, 感觉器官\n[化] 接受器; 受体",
+      "en": "n. a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response",
+      "phonetic": "ri'septә",
+      "forms": [
+        "receptors"
+      ],
+      "example": "However, these molecules can also increase the sensitivity of pain receptors, which may further contribute to the muscle soreness that people experience up to 72 hours after an intense workout.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "contribute",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contribute"
+      ],
+      "example": "However, these molecules can also increase the sensitivity of pain receptors, which may further contribute to the muscle soreness that people experience up to 72 hours after an intense workout.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "workout",
+      "headword": "workout",
+      "kind": "word",
+      "zh": "n. 试验, 试用, 锻炼",
+      "en": "n the activity of exerting your muscles in various ways to keep fit",
+      "phonetic": "'wә:kaut",
+      "forms": [
+        "workout"
+      ],
+      "example": "However, these molecules can also increase the sensitivity of pain receptors, which may further contribute to the muscle soreness that people experience up to 72 hours after an intense workout.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "These responses are an important part of how the body repairs itself and becomes stronger.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "recruited",
+      "headword": "recruit",
+      "kind": "word",
+      "zh": "n. 新兵, 新手, 新会员, 补给品\nvt. 恢复, 补充, 充实, 征募\nvi. 征募新兵, 复原, 得到补充",
+      "en": "n. a recently enlisted soldier\nn. any new member or supporter (as in the armed forces)\nv. seek to employ\nv. cause to assemble or enlist in the military",
+      "phonetic": "ri'kru:t",
+      "forms": [
+        "recruited"
+      ],
+      "example": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "physically",
+      "headword": "physically",
+      "kind": "word",
+      "zh": "adv. 按自然规律, 完全地, 实际上, 真正地, 身体上地",
+      "en": "r. in accord with physical laws",
+      "phonetic": "'fizikli",
+      "forms": [
+        "physically"
+      ],
+      "example": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "active",
+      "headword": "active",
+      "kind": "word",
+      "zh": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的\nn. 主动语态, 积极分子",
+      "en": "n. a person who is a participating member of an organization\na. tending to become more severe or wider in scope\ns. engaged in or ready for military or naval operations\na. disposed to take action or effectuate change",
+      "phonetic": "'æktiv",
+      "forms": [
+        "active"
+      ],
+      "example": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "complete",
+      "headword": "complete",
+      "kind": "word",
+      "zh": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+      "en": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form",
+      "phonetic": "kәm'pli:t",
+      "forms": [
+        "complete",
+        "completed"
+      ],
+      "example": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "repeatedly",
+      "headword": "repeatedly",
+      "kind": "word",
+      "zh": "adv. 重复地, 再三地",
+      "en": "r. several time",
+      "phonetic": "ri'pi:tidli",
+      "forms": [
+        "repeatedly"
+      ],
+      "example": "This involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "targeting",
+      "headword": "target",
+      "kind": "word",
+      "zh": "n. 目标, 靶子, 指标\nvt. 对准, 订指标",
+      "en": "n. a reference point to shoot at\nn. the location of the target that is to be hit\nn. sports equipment consisting of an object set up for a marksman or archer to aim at\nv. intend (something) to move towards a certain goal",
+      "phonetic": "'tɑ:git",
+      "forms": [
+        "targeting"
+      ],
+      "example": "This involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "thigh",
+      "headword": "thigh",
+      "kind": "word",
+      "zh": "n. 大腿, 股\n[医] 股, 大腿",
+      "en": "n. the part of the leg between the hip and the knee",
+      "phonetic": "θai",
+      "forms": [
+        "thigh"
+      ],
+      "example": "This involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "specialised",
+      "headword": "specialise",
+      "kind": "word",
+      "zh": "vt. 特加指明, 列举, 使专门化, 限定...的范围\nvt.vi. (使)特化, (使)专化\nvi. 成为专家, 专务, 专攻, 专门研究, 逐条详述",
+      "en": "v devote oneself to a special area of work\nv be specific about\nv suit to a special purpose\nv become more focus on an area of activity or field of study\nv evolve so as to lead to a new species or develop in a way most suited to the environment",
+      "phonetic": "'speʃә,laiz",
+      "forms": [
+        "specialised"
+      ],
+      "example": "This involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "strength",
+      "headword": "strength",
+      "kind": "word",
+      "zh": "n. 力量, 实力, 强度, 浓度, 人数, 抵抗力\n[化] 强度",
+      "en": "n. the property of being physically or mentally strong\nn. the condition of financial success",
+      "phonetic": "streŋθ",
+      "forms": [
+        "strength"
+      ],
+      "example": "This involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "temporary",
+      "headword": "temporary",
+      "kind": "word",
+      "zh": "a. 暂时的, 临时的\nn. 临时工, 临时雇员\n[计] 临时",
+      "en": "n a worker (especially in an office) hired on a temporary basis\na not permanent; not lasting\ns lacking continuity or regularity",
+      "phonetic": "'tempәrәri",
+      "forms": [
+        "temporary"
+      ],
+      "example": "This particular movement is known to cause temporary muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "This particular movement is known to cause temporary muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "influence",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influence"
+      ],
+      "example": "This particular movement is known to cause temporary muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "randomly",
+      "headword": "randomly",
+      "kind": "word",
+      "zh": "adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地\n[计] 随机地",
+      "en": "r. in a random manner",
+      "phonetic": "",
+      "forms": [
+        "randomly"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "assigned",
+      "headword": "assign",
+      "kind": "word",
+      "zh": "vt. 分配, 指派, 赋值\n[计] 赋值",
+      "en": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme",
+      "phonetic": "ә'sain",
+      "forms": [
+        "assigned"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "immersion",
+      "headword": "immersion",
+      "kind": "word",
+      "zh": "n. 沉浸, 专心, 陷入\n[医] 浸, 浸渍",
+      "en": "n. a form of baptism in which part or all of a person's body is submerged",
+      "phonetic": "i'mә:ʃәn",
+      "forms": [
+        "immersion"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "exposure",
+      "headword": "exposure",
+      "kind": "word",
+      "zh": "n. 暴露, 揭发, 揭露\n[化] 曝光量; 照射; 照射量",
+      "en": "n. vulnerability to the elements; to the action of heat or cold or wind or rain; \nn. the act of subjecting someone to an influencing experience\nn. the disclosure of something secret\nn. aspect resulting from the direction a building or window faces",
+      "phonetic": "ik'spәuʒә",
+      "forms": [
+        "exposure"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "sauna",
+      "headword": "sauna",
+      "kind": "word",
+      "zh": "n. 桑拿浴",
+      "en": "n. a Finnish steam bath; steam is produced by pouring water over heated rocks",
+      "phonetic": "'saunә",
+      "forms": [
+        "sauna"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "passive",
+      "headword": "passive",
+      "kind": "word",
+      "zh": "a. 消极的, 被动的, 冷漠的, 顺从的, 无源的\n[医] 被动的",
+      "en": "a. lacking in energy or will\ns. peacefully resistant in response to injustice\na. expressing that the subject of the sentence is the patient of the action denoted by the verb",
+      "phonetic": "'pæsiv",
+      "forms": [
+        "passive"
+      ],
+      "example": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "carried out",
+      "headword": "carried out",
+      "kind": "phrase",
+      "zh": "开展了；执行了",
+      "en": "performed a task or investigation",
+      "forms": [
+        "carried out"
+      ],
+      "example": "Each method was carried out immediately after the workout.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v68",
+      "term": "monitored",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitored"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "biological",
+      "headword": "biological",
+      "kind": "word",
+      "zh": "a. 生物学的\n[医] 生物学的",
+      "en": "a. pertaining to biology or to life and living things\na. of parents and children; related by blood",
+      "phonetic": ".baiәu'lɒdʒikәl",
+      "forms": [
+        "biological"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "markers",
+      "headword": "marker",
+      "kind": "word",
+      "zh": "n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记\n[计] 标记",
+      "en": "n. some conspicuous object used to distinguish or mark something\nn. a distinguishing symbol\nn. a writing implement for making a mark",
+      "phonetic": "'mɑ:kә",
+      "forms": [
+        "markers"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v74",
+      "term": "inflammation",
+      "headword": "inflammation",
+      "kind": "word",
+      "zh": "n. 怒火, 发火, 燃烧, 发炎\n[医] 炎[症]",
+      "en": "n. a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat\nn. arousal to violent emotion",
+      "phonetic": ".inflә'meiʃәn",
+      "forms": [
+        "inflammation"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "stress",
+      "headword": "stress",
+      "kind": "word",
+      "zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力\nvt. 加压力于, 着重, 重读",
+      "en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)\nn. special emphasis attached to something\nn. difficulty that causes worry or emotional tension\nn. (physics) force that produces strain on a physical body",
+      "phonetic": "stres",
+      "forms": [
+        "stress"
+      ],
+      "example": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "declined",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "declined"
+      ],
+      "example": "Strength declined immediately after exercise and soreness increased.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "techniques",
+      "headword": "technique",
+      "kind": "word",
+      "zh": "n. 技巧, 技术, 方法\n[化] 工艺方法; 技巧",
+      "en": "n. a practical method or art applied to some particular task",
+      "phonetic": "tek'ni:k",
+      "forms": [
+        "techniques"
+      ],
+      "example": "But when we looked at the effects of the recovery techniques, we were surprised to find that none of them restored muscle strength significantly faster than the others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "surprised",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprised"
+      ],
+      "example": "But when we looked at the effects of the recovery techniques, we were surprised to find that none of them restored muscle strength significantly faster than the others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "restored",
+      "headword": "restore",
+      "kind": "word",
+      "zh": "vt. 回复, 恢复, 归还, 修补, 修复\nvt. 还原\nvi. 还原\n[计] 还原; DOS外部命令:从备份盘中取回文件",
+      "en": "v. return to its original or usable and functioning condition\nv. give or bring back\nv. bring back into original existence, use, function, or position",
+      "phonetic": "ri'stɒ:",
+      "forms": [
+        "restored"
+      ],
+      "example": "But when we looked at the effects of the recovery techniques, we were surprised to find that none of them restored muscle strength significantly faster than the others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "significantly",
+      "headword": "significantly",
+      "kind": "word",
+      "zh": "adv. 值得注目地；意味深长地",
+      "en": "r. in a statistically significant way\nr. in a significant manner",
+      "phonetic": "",
+      "forms": [
+        "significantly"
+      ],
+      "example": "But when we looked at the effects of the recovery techniques, we were surprised to find that none of them restored muscle strength significantly faster than the others.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "outcome",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcome"
+      ],
+      "example": "If strength had been the only outcome measured, we might have concluded the recovery methods made little difference.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "concluded",
+      "headword": "conclude",
+      "kind": "word",
+      "zh": "vt. 结束, 作结论, 推断\nvi. 结束, 推断",
+      "en": "v. bring to a close\nv. reach a conclusion after a discussion or deliberation\nv. come to a close\nv. reach agreement on",
+      "phonetic": "kәn'klu:d",
+      "forms": [
+        "concluded"
+      ],
+      "example": "If strength had been the only outcome measured, we might have concluded the recovery methods made little difference.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "physiological",
+      "headword": "physiological",
+      "kind": "word",
+      "zh": "a. 生理学的, 生理学上的, 生理机能的\n[医] 生理学的, 生理的",
+      "en": "a. of or relating to the biological study of physiology",
+      "phonetic": ".fiziә'lɒdʒikl",
+      "forms": [
+        "physiological"
+      ],
+      "example": "But the physiological data told a different story.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "substance",
+      "headword": "substance",
+      "kind": "word",
+      "zh": "n. 物质, 实质, 主旨, 资产, 本质, 牢固\n[化] 物质",
+      "en": "n. the real physical matter of which a person or thing consists\nn. material of a particular kind or constitution\nn. a particular kind or species of matter with uniform properties",
+      "phonetic": "'sʌbstәns",
+      "forms": [
+        "substance"
+      ],
+      "example": "Participants who completed hot-water immersion were shown to have higher levels of a substance called “heat shock protein 72” (HSP72) which acts as a cellular maintenance and protection system, supporting repair processes and protecting cells during periods of physiological stress.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "shock",
+      "headword": "shock",
+      "kind": "word",
+      "zh": "n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗\nvt. 使震动, 使休克, 使受电击, 震惊得\nvi. 震动, 吓人\na. 蓬乱浓密的",
+      "en": "n. the violent interaction of individuals or groups entering into combat\nn. (pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor\nn. an instance of agitation of the earth's crust\nn. an unpleasant or disappointing surprise",
+      "phonetic": "ʃɒk",
+      "forms": [
+        "shock"
+      ],
+      "example": "Participants who completed hot-water immersion were shown to have higher levels of a substance called “heat shock protein 72” (HSP72) which acts as a cellular maintenance and protection system, supporting repair processes and protecting cells during periods of physiological stress.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "Participants who completed hot-water immersion were shown to have higher levels of a substance called “heat shock protein 72” (HSP72) which acts as a cellular maintenance and protection system, supporting repair processes and protecting cells during periods of physiological stress.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "maintenance",
+      "headword": "maintenance",
+      "kind": "word",
+      "zh": "n. 维护, 保持, 维修, 生活费用, 坚持, 扶养\n[计] 维护; 维修",
+      "en": "n. means of maintenance of a family or group\nn. the unauthorized interference in a legal action by a person having no interest in it (as by helping one party with money or otherwise to continue the action) so as to obstruct justice or promote unnecessary litigation or unsettle the peace of the community",
+      "phonetic": "'meintәnәns",
+      "forms": [
+        "maintenance"
+      ],
+      "example": "Participants who completed hot-water immersion were shown to have higher levels of a substance called “heat shock protein 72” (HSP72) which acts as a cellular maintenance and protection system, supporting repair processes and protecting cells during periods of physiological stress.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "protection",
+      "headword": "protection",
+      "kind": "word",
+      "zh": "n. 保护, 防卫, 贸易保护制度\n[计] 保护",
+      "en": "n. the activity of protecting someone or something\nn. the condition of being protected\nn. the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition\nn. payment extorted by gangsters on threat of violence",
+      "phonetic": "prә'tekʃәn",
+      "forms": [
+        "protection"
+      ],
+      "example": "Participants who completed hot-water immersion were shown to have higher levels of a substance called “heat shock protein 72” (HSP72) which acts as a cellular maintenance and protection system, supporting repair processes and protecting cells during periods of physiological stress.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "widely",
+      "headword": "widely",
+      "kind": "word",
+      "zh": "adv. 广泛地",
+      "en": "r. to a great degree\nr. so as to leave much space or distance between",
+      "phonetic": "'waidli",
+      "forms": [
+        "widely"
+      ],
+      "example": "It’s widely believed that HSP72 plays an important role in recovery and adaptation following exercise.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "adaptation",
+      "headword": "adaptation",
+      "kind": "word",
+      "zh": "n. 适应, 改编, 改编本\n[医] 适应[作用]",
+      "en": "n. a written work (as a novel) that has been recast in a new form\nn. the process of adapting to something (such as environmental conditions)\nn. (physiology) the responsive adjustment of a sense organ (as the eye) to varying conditions (as of light)",
+      "phonetic": ".ædæp'teiʃәn",
+      "forms": [
+        "adaptation"
+      ],
+      "example": "It’s widely believed that HSP72 plays an important role in recovery and adaptation following exercise.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "The heat-based recovery methods were also associated with more favourable changes in biological markers linked to muscle damage and inflammation.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "The heat-based recovery methods were also associated with more favourable changes in biological markers linked to muscle damage and inflammation.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v93",
+      "term": "favourable",
+      "headword": "favourable",
+      "kind": "word",
+      "zh": "a. 有用的, 良好的, 赞成的, 顺利的\n[医] 良好的, 顺利的",
+      "en": "a encouraging or approving or pleasing\na (of winds or weather) tending to promote or facilitate\ns occurring at a convenient or suitable time\ns presaging or likely to bring good luck",
+      "phonetic": "'feivәrәbl",
+      "forms": [
+        "favourable"
+      ],
+      "example": "The heat-based recovery methods were also associated with more favourable changes in biological markers linked to muscle damage and inflammation.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "perceptions",
+      "headword": "perception",
+      "kind": "word",
+      "zh": "n. 知觉, 感觉, 领悟力, 获取\n[医] 知觉",
+      "en": "n. a way of conceiving something\nn. the process of perceiving\nn. knowledge gained by perceiving",
+      "phonetic": "pә'sepʃәn",
+      "forms": [
+        "perceptions"
+      ],
+      "example": "But cold-water immersion appeared more effective at reducing perceptions of muscle soreness.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "highlights",
+      "headword": "highlight",
+      "kind": "word",
+      "zh": "n. 加亮区, 精彩场面\nvt. 加亮, 使显著, 以强光照射, 突出\n[计] 突出",
+      "en": "n. the most interesting or memorable part\nn. an area of lightness in a picture\nv. apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "phonetic": "'hailait",
+      "forms": [
+        "highlights"
+      ],
+      "example": "This highlights how feeling recovered and actually being physiologically recovered are not always the same thing.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "physiologically",
+      "headword": "physiologically",
+      "kind": "word",
+      "zh": "adv. 生理学方面",
+      "en": "r. of or relating to physiological processes; with respect to physiology",
+      "phonetic": "",
+      "forms": [
+        "physiologically"
+      ],
+      "example": "This highlights how feeling recovered and actually being physiologically recovered are not always the same thing.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "interpreted",
+      "headword": "interpret",
+      "kind": "word",
+      "zh": "vt. 解释, 演出, 翻译, 理解\nvi. 翻译, 解释",
+      "en": "v. make sense of; assign a meaning to\nv. give an interpretation or rendition of",
+      "phonetic": "in'tә:prit",
+      "forms": [
+        "interpreted"
+      ],
+      "example": "These findings should be interpreted with some caution, however.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "caution",
+      "headword": "caution",
+      "kind": "word",
+      "zh": "n. 小心, 慎重, 警示\nvt. 警告\n[计] 警告",
+      "en": "n. the trait of being cautious; being attentive to possible danger\nn. a warning against certain acts\nn. judiciousness in avoiding harm or danger\nv. warn strongly; put on guard",
+      "phonetic": "'kɒ:ʃәn",
+      "forms": [
+        "caution"
+      ],
+      "example": "These findings should be interpreted with some caution, however.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "intervention",
+      "headword": "intervention",
+      "kind": "word",
+      "zh": "n. 插入, 介入, 调停\n[经] 干预",
+      "en": "n. the act of intervening (as to mediate a dispute, etc.)\nn. a policy of intervening in the affairs of other countries\nn. (law) a proceeding that permits a person to enter into a lawsuit already in progress; admission of person not an original party to the suit so that person can protect some right or interest that is allegedly affected by the proceedings",
+      "phonetic": ".intә'venʃәn",
+      "forms": [
+        "intervention",
+        "interventions"
+      ],
+      "example": "The study involved 40 healthy, physically active adults – with just ten participants in each intervention group.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "adjusted",
+      "headword": "adjust",
+      "kind": "word",
+      "zh": "vt. 调整, 使适应于, 校准\nvi. 适应于, 被调节, 相互熟悉而适应",
+      "en": "v. alter or regulate so as to achieve accuracy or conform to a standard\nv. adapt or conform oneself to new or different conditions\nv. make correspondent or conformable\nv. decide how much is to be paid on an insurance claim",
+      "phonetic": "ә'dʒʌst",
+      "forms": [
+        "adjusted"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "detect",
+      "headword": "detect",
+      "kind": "word",
+      "zh": "vt. 发现, 察觉, 探测\n[法] 发现, 查明, 探测",
+      "en": "v. discover or determine the existence, presence, or fact of",
+      "phonetic": "di'tekt",
+      "forms": [
+        "detect"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "moderate",
+      "headword": "moderate",
+      "kind": "word",
+      "zh": "a. 适度的, 稳健的, 中等的, 节制的\nvt. 节制, 减轻, 使缓和\nvi. 变缓和, 主持会议",
+      "en": "v. preside over\nv. make less fast or intense\na. being within reasonable or average limits; not excessive or extreme\ns. not extreme",
+      "phonetic": "'mɒdәrәt",
+      "forms": [
+        "moderate"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "sample",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "sample"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "explore",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explore"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "While the study was adjusted to detect moderate effects, the sample size wasn’t large enough to explore potential differences between men and women.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "function",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "function"
+      ],
+      "example": "A person may feel less sore but may still have reduced muscle function.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "immediate",
+      "headword": "immediate",
+      "kind": "word",
+      "zh": "a. 立即的, 直接的, 接近的\n[医] 直接的, 立即的",
+      "en": "s. of the present time and place\na. having no intervening medium\ns. immediately before or after as in a chain of cause and effect\ns. performed with little or no delay",
+      "phonetic": "i'mi:diәt",
+      "forms": [
+        "immediate"
+      ],
+      "example": "Also, important repair processes may be occurring inside the body without producing immediate improvements in performance.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "improvements",
+      "headword": "improvement",
+      "kind": "word",
+      "zh": "n. 进步, 改善, 利用\n[医] 改善, 好转, 进步",
+      "en": "n. a change for the better; progress in development\nn. the act of improving something\nn. a condition superior to an earlier condition",
+      "phonetic": "im'pru:vmәnt",
+      "forms": [
+        "improvements"
+      ],
+      "example": "Also, important repair processes may be occurring inside the body without producing immediate improvements in performance.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "distinction",
+      "headword": "distinction",
+      "kind": "word",
+      "zh": "n. 区别",
+      "en": "n. a distinguishing quality\nn. a distinguishing difference",
+      "phonetic": "dis'tiŋkʃәn",
+      "forms": [
+        "distinction"
+      ],
+      "example": "This distinction may help explain why recovery research has produced mixed findings over the years.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "aspects",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspects"
+      ],
+      "example": "Different interventions may influence different aspects of recovery.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "priority",
+      "headword": "priority",
+      "kind": "word",
+      "zh": "n. 优先权, 优先\n[计] 优先级",
+      "en": "n. preceding in time",
+      "phonetic": "prai'ɒriti",
+      "forms": [
+        "priority"
+      ],
+      "example": "If your priority is reducing how sore you feel after a workout, cold-water immersion may be the most beneficial.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "beneficial",
+      "headword": "beneficial",
+      "kind": "word",
+      "zh": "a. 有益的, 受益的\n[经] 有使用权的, 可享利益的",
+      "en": "s. promoting or enhancing well-being",
+      "phonetic": ".beni'fiʃәl",
+      "forms": [
+        "beneficial"
+      ],
+      "example": "If your priority is reducing how sore you feel after a workout, cold-water immersion may be the most beneficial.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "adapt",
+      "headword": "adapt",
+      "kind": "word",
+      "zh": "vt. 使适应, 改编\nvi. 适应",
+      "en": "v. make fit for, or change to suit a new purpose",
+      "phonetic": "ә'dæpt",
+      "forms": [
+        "adapt"
+      ],
+      "example": "But if your goal is to influence the biological processes that help your muscles to repair and adapt, heat-based recovery may be a better choice.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "ineffective",
+      "headword": "ineffective",
+      "kind": "word",
+      "zh": "a. 无效的\n[法] 失效的, 无效的, 效率低的",
+      "en": "a. not producing an intended effect\ns. lacking in power or forcefulness\ns. lacking the ability or skill to perform effectively; inadequate",
+      "phonetic": ".ini'fektiv",
+      "forms": [
+        "ineffective"
+      ],
+      "example": "Our findings don’t suggest that ice baths are completely ineffective.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "far more than",
+      "headword": "far more than",
+      "kind": "phrase",
+      "zh": "远远多于",
+      "en": "to a substantially greater extent than",
+      "forms": [
+        "far more than"
+      ],
+      "example": "What our study shows is that recovery is about far more than how you feel the next day.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v116",
+      "term": "beneath",
+      "headword": "beneath",
+      "kind": "word",
+      "zh": "prep. 在...下方\nadv. 在...下方",
+      "en": "r in or to a place that is lower",
+      "phonetic": "bi'ni:θ",
+      "forms": [
+        "beneath"
+      ],
+      "example": "Sometimes the most important changes are happening beneath the surface.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      5,
+      15
+    ],
+    "wordBank": [
+      "outcome",
+      "lengthen",
+      "temporary",
+      "monitored",
+      "becomes",
+      "complete",
+      "immersion",
+      "molecules",
+      "repair",
+      "declined"
+    ],
+    "parts": [
+      {
+        "text": "Strenuous or unfamiliar exercise can cause damage to our muscle fibres. This is particularly the case after doing “eccentric exercises”, where muscles "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " while generating force. Activities such as downhill running, descending the stairs or lowering a weight under control (while doing a barbell squat for instance) are all examples of eccentric exercise.\n\nThis exercise-induced muscle damage can leave your muscles feeling sore and weak. To "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.\n\nOther "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " are also released to help coordinate repair. However, these molecules can also increase the sensitivity of pain receptors, which may further contribute to the muscle soreness that people experience up to 72 hours after an intense workout.\n\nThese responses are an important part of how the body repairs itself and "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " stronger.\n\nWe wanted to better understand what effect different recovery methods had on this repair process after a strenuous workout. So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " a specific exercise.\n\nThis involved repeatedly targeting the quadriceps – the large muscles at the front of the thigh – using a specialised machine that allowed us to carefully control the movement and measure muscle strength. This particular movement is known to cause "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.\n\nParticipants were then randomly assigned to one of four recovery methods: cold-water "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes. Each method was carried out immediately after the workout.\n\nOver the following 72 hours, we "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.\n\nAll participants showed the expected signs of exercise-induced muscle damage. Strength "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " immediately after exercise and soreness increased.\n\nBut when we looked at the effects of the recovery techniques, we were surprised to find that none of them restored muscle strength significantly faster than the others.\n\nIf strength had been the only "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " measured, we might have concluded the recovery methods made little difference. But the physiological data told a different story."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "lengthen",
+        "vocabularyId": "v21",
+        "explanation": "原文此处使用 lengthen（lengthen）。结合上下文辨认词义与词形。",
+        "evidence": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
+        "paragraph": 5
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "repair",
+        "vocabularyId": "v9",
+        "explanation": "原文此处使用 repair（repair）。结合上下文辨认词义与词形。",
+        "evidence": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
+        "paragraph": 6
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "molecules",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 molecules（molecule）。结合上下文辨认词义与词形。",
+        "evidence": "Other molecules are also released to help coordinate repair.",
+        "paragraph": 7
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "becomes",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 becomes（becomes）。结合上下文辨认词义与词形。",
+        "evidence": "These responses are an important part of how the body repairs itself and becomes stronger.",
+        "paragraph": 8
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "complete",
+        "vocabularyId": "v52",
+        "explanation": "原文此处使用 complete（complete）。结合上下文辨认词义与词形。",
+        "evidence": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
+        "paragraph": 9
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "temporary",
+        "vocabularyId": "v58",
+        "explanation": "原文此处使用 temporary（temporary）。结合上下文辨认词义与词形。",
+        "evidence": "This particular movement is known to cause temporary muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.",
+        "paragraph": 10
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "immersion",
+        "vocabularyId": "v63",
+        "explanation": "原文此处使用 immersion（immersion）。结合上下文辨认词义与词形。",
+        "evidence": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "monitored",
+        "vocabularyId": "v68",
+        "explanation": "原文此处使用 monitored（monitor）。结合上下文辨认词义与词形。",
+        "evidence": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "declined",
+        "vocabularyId": "v76",
+        "explanation": "原文此处使用 declined（decline）。结合上下文辨认词义与词形。",
+        "evidence": "Strength declined immediately after exercise and soreness increased.",
+        "paragraph": 13
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "outcome",
+        "vocabularyId": "v81",
+        "explanation": "原文此处使用 outcome（outcome）。结合上下文辨认词义与词形。",
+        "evidence": "If strength had been the only outcome measured, we might have concluded the recovery methods made little difference.",
+        "paragraph": 15
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Managing blood sugar requires understanding which strategies actually reduce glucose spikes.",
+          "The history of the food pyramid shows how nutrition advice and its presentation have changed.",
+          "Research compares heat and cold as approaches to recovery after exercise.",
+          "Early biological mechanisms help babies distinguish between day and night."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+        "paragraph": 11
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What defines an eccentric exercise in the article?",
+        "options": [
+          "A muscle lengthens while producing force.",
+          "The person must remain completely motionless.",
+          "The exercise must always involve freezing temperatures.",
+          "A muscle produces no force at any time."
+        ],
+        "answer": 0,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "This distinction may help explain why recovery research has produced mixed findings over the years.",
+          "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+          "They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+          "It also showed the slowest recovery, with strength returning to around 82% of pre-exercise levels after 72 hours, compared with 88-89% in the other groups."
+        ],
+        "answer": 1,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The heat-based recovery methods were also associated with more favourable changes in biological markers linked to muscle damage and inflammation.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 3",
+          "Paragraph 10",
+          "Paragraph 1"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The heat-based recovery methods were also associated with more favourable changes in biological markers linked to muscle damage and inflammation.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“One of the most important lessons from our study is that recovery cannot be measured using a single outcome.”",
+        "options": [
+          "Paragraph 19",
+          "Paragraph 20",
+          "Paragraph 23",
+          "Paragraph 5"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 23 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "One of the most important lessons from our study is that recovery cannot be measured using a single outcome.",
+        "paragraph": 23
+      }
+    ]
+  },
+  "revision": "a0a0723826c47ecfda251fe466ab82a362048359fcddd2d05ceeb4d173f53bfa"
+}

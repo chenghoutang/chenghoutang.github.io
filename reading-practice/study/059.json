@@ -1,0 +1,2038 @@
+{
+  "schemaVersion": 1,
+  "folder": "059",
+  "articleSha256": "5cc294f1b631a3d4c36c5f03f4f313541de3052a77193ee9a403895f20b53933",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "public",
+      "headword": "public",
+      "kind": "word",
+      "zh": "n. 公众, 民众\na. 公众的, 公共的, 公立的, 公用的",
+      "en": "n. a body of people sharing some common interest\na. not private; open to or concerning the people as a whole\ns. affecting the people or community as a whole",
+      "phonetic": "'pʌblik",
+      "forms": [
+        "public"
+      ],
+      "example": "Public libraries remain a vital part of community life, providing free information and reading materials to everyone.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "Public libraries",
+      "headword": "public libraries",
+      "kind": "phrase",
+      "zh": "公共图书馆",
+      "en": "libraries providing services to the general public",
+      "forms": [
+        "Public libraries"
+      ],
+      "example": "Public libraries remain a vital part of community life, providing free information and reading materials to everyone.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "libraries",
+      "headword": "library",
+      "kind": "word",
+      "zh": "n. 图书馆, 藏书, 库\n[计] 库",
+      "en": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+      "phonetic": "'laibrәri",
+      "forms": [
+        "libraries",
+        "library"
+      ],
+      "example": "Public libraries remain a vital part of community life, providing free information and reading materials to everyone.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "Public libraries remain a vital part of community life, providing free information and reading materials to everyone.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "Public libraries remain a vital part of community life, providing free information and reading materials to everyone.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "amid",
+      "headword": "amid",
+      "kind": "word",
+      "zh": "prep. 在其间, 在其中\n[经] 在...中",
+      "en": "prep. See Amidst.\nprep. In the midst or middle of; surrounded or encompassed by;\n   among.",
+      "phonetic": "ә'mid",
+      "forms": [
+        "amid"
+      ],
+      "example": "Their role is particularly important amid a long-term decline in reading for pleasure among children and young people.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "decline",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "decline"
+      ],
+      "example": "Their role is particularly important amid a long-term decline in reading for pleasure among children and young people.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "pleasure",
+      "headword": "pleasure",
+      "kind": "word",
+      "zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望\nv. (使)高兴",
+      "en": "n. a fundamental feeling that is hard to define but that people desire to experience\nn. a formal expression\nn. an activity that affords enjoyment\nn. sexual gratification",
+      "phonetic": "'pleʒә",
+      "forms": [
+        "pleasure"
+      ],
+      "example": "Their role is particularly important amid a long-term decline in reading for pleasure among children and young people.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "hollowed",
+      "headword": "hollow",
+      "kind": "word",
+      "zh": "n. 洞, 窟窿, 山谷\na. 空的, 虚伪的, 空腹的, 凹的\nvi. 形成空洞\nvt. 挖空",
+      "en": "n. a cavity or space in something\nn. a small valley between mountains\nv. remove the interior of\na. not solid; having a space or gap or cavity",
+      "phonetic": "'hɒlәu",
+      "forms": [
+        "hollowed"
+      ],
+      "example": "But our research indicates that England’s public library collections are being hollowed out through long-term underinvestment.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "minister",
+      "headword": "minister",
+      "kind": "word",
+      "zh": "n. 部长, 牧师, 公使\nvi. 服侍, 救助, 主持宗教仪式",
+      "en": "n. a person appointed to a high office in the government\nn. a diplomat representing one government to another; ranks below ambassador\nn. the job of a head of a government department\nv. attend to the wants and needs of others",
+      "phonetic": "'ministә",
+      "forms": [
+        "minister"
+      ],
+      "example": "In June 2026, former libraries minister Baroness Twycross confirmed that the government is developing a national strategy for libraries and reading in England, setting out ambitions for the next five years.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "baroness",
+      "headword": "baroness",
+      "kind": "word",
+      "zh": "n. 男爵夫人, 女性男爵",
+      "en": "n. a noblewoman who holds the rank of baron or who is the wife or widow of a baron",
+      "phonetic": "'bærәnis",
+      "forms": [
+        "baroness"
+      ],
+      "example": "In June 2026, former libraries minister Baroness Twycross confirmed that the government is developing a national strategy for libraries and reading in England, setting out ambitions for the next five years.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "confirmed",
+      "headword": "confirm",
+      "kind": "word",
+      "zh": "vt. 证实, 确定, 批准, 使巩固\n[计] 确认",
+      "en": "v. establish or strengthen as with new evidence or facts\nv. strengthen or make more firm\nv. make more firm\nv. support a person for a position",
+      "phonetic": "kәn'fә:m",
+      "forms": [
+        "confirmed"
+      ],
+      "example": "In June 2026, former libraries minister Baroness Twycross confirmed that the government is developing a national strategy for libraries and reading in England, setting out ambitions for the next five years.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "setting",
+      "headword": "setting",
+      "kind": "word",
+      "zh": "n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具\n[计] 设置",
+      "en": "n. the context and environment in which something is set\nn. the state of the environment in which a situation exists\nn. the physical position of something",
+      "phonetic": "'setiŋ",
+      "forms": [
+        "setting"
+      ],
+      "example": "In June 2026, former libraries minister Baroness Twycross confirmed that the government is developing a national strategy for libraries and reading in England, setting out ambitions for the next five years.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "ambitions",
+      "headword": "ambition",
+      "kind": "word",
+      "zh": "n. 野心, 志向",
+      "en": "n. a cherished desire\nn. a strong drive for success\nv. have as one's ambition",
+      "phonetic": "æm'biʃәn",
+      "forms": [
+        "ambitions"
+      ],
+      "example": "In June 2026, former libraries minister Baroness Twycross confirmed that the government is developing a national strategy for libraries and reading in England, setting out ambitions for the next five years.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "expectation",
+      "headword": "expectation",
+      "kind": "word",
+      "zh": "n. 期待, 指望, 展望\n[化] 期望值",
+      "en": "n. belief about (or mental picture of) the future\nn. the feeling that something is about to happen",
+      "phonetic": ".ekspek'teiʃәn",
+      "forms": [
+        "expectation",
+        "expectations"
+      ],
+      "example": "The expectation was that the Department for Culture, Media and Sport would publish it over the summer.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "overdue",
+      "headword": "overdue",
+      "kind": "word",
+      "zh": "a. 过期的, 未兑的, 迟到的, 早就成熟的\n[经] 过期未付的",
+      "en": "s past due; not paid at the scheduled time",
+      "phonetic": "'әuvә'dju:",
+      "forms": [
+        "overdue"
+      ],
+      "example": "A national strategy is long overdue. England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964. Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "previous",
+      "headword": "previous",
+      "kind": "word",
+      "zh": "a. 早先的, 前面的, 过急的\n[法] 以前的, 生前的, 前述的",
+      "en": "s. just preceding something else in time or order\ns. too soon or too hasty",
+      "phonetic": "'pri:viәs",
+      "forms": [
+        "previous"
+      ],
+      "example": "England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "legislation",
+      "headword": "legislation",
+      "kind": "word",
+      "zh": "n. 立法, 法律\n[医] 立法, 法规",
+      "en": "n. law enacted by a legislative body\nn. the act of making or enacting laws",
+      "phonetic": ".ledʒis'leiʃәn",
+      "forms": [
+        "legislation"
+      ],
+      "example": "England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "underpinning",
+      "headword": "underpin",
+      "kind": "word",
+      "zh": "vt. 从下面支承, 支撑, 支持\n[经] 支撑",
+      "en": "v. support from beneath",
+      "phonetic": ".ʌndә'pin",
+      "forms": [
+        "underpinning"
+      ],
+      "example": "England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "dates",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "dates"
+      ],
+      "example": "England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "museums",
+      "headword": "museum",
+      "kind": "word",
+      "zh": "n. 博物馆",
+      "en": "n. a depository for collecting and displaying objects having scientific or historical or artistic value",
+      "phonetic": "mju:'ziәm",
+      "forms": [
+        "museums"
+      ],
+      "example": "Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "relevant",
+      "headword": "relevant",
+      "kind": "word",
+      "zh": "a. 有关联的, 有关系的, 适当的, 相应的\n[法] 有关的, 相关的",
+      "en": "a. having a bearing on or connection with the subject at issue",
+      "phonetic": "'relivәnt",
+      "forms": [
+        "relevant"
+      ],
+      "example": "Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "sufficient",
+      "headword": "sufficient",
+      "kind": "word",
+      "zh": "a. 充分的, 足够的\n[法] 充分的, 足够的",
+      "en": "a. of a quantity that can fulfill a need or requirement but without being abundant",
+      "phonetic": "sә'fiʃәnt",
+      "forms": [
+        "sufficient"
+      ],
+      "example": "Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "clarity",
+      "headword": "clarity",
+      "kind": "word",
+      "zh": "n. 清楚, 明晰\n[化] 透明度; 透明性; 清晰性",
+      "en": "n. free from obscurity and easy to understand; the comprehensibility of clear expression",
+      "phonetic": "'klærәti",
+      "forms": [
+        "clarity"
+      ],
+      "example": "Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "systemic",
+      "headword": "systemic",
+      "kind": "word",
+      "zh": "a. 系统的, 体系的, 全身的\n[医] 系统的, 全身的",
+      "en": "s. affecting an entire system",
+      "phonetic": "si'stemik",
+      "forms": [
+        "systemic"
+      ],
+      "example": "The national strategy matters because many of the challenges facing public libraries are systemic and cannot be addressed by individual services alone.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "complicated",
+      "headword": "complicate",
+      "kind": "word",
+      "zh": "vt. 弄复杂, 使错综, 使恶化\nvi. 变复杂",
+      "en": "v. make more complicated\nv. make more complex, intricate, or richer",
+      "phonetic": "'kɒmplikeit",
+      "forms": [
+        "complicated"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "expensive",
+      "headword": "expensive",
+      "kind": "word",
+      "zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
+      "en": "a. high in price or charging high prices",
+      "phonetic": "ik'spensiv",
+      "forms": [
+        "expensive"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "digital",
+      "headword": "digital",
+      "kind": "word",
+      "zh": "a. 数字显示的, 数字的\nn. 数字仪表, 数字式电子表(或时钟)\n[计] 数字, 数字式",
+      "en": "a. displaying numbers rather than scale positions\na. relating to or performed with the fingers\na. of a circuit or device that represents magnitudes in digits",
+      "phonetic": "'didʒitәl",
+      "forms": [
+        "digital"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "borrowers",
+      "headword": "borrower",
+      "kind": "word",
+      "zh": "n. 借用人, 剽窃者\n[经] 借款人, 借用人",
+      "en": "n. someone who receives something on the promise to return it or its equivalent",
+      "phonetic": "'bɒrәuә",
+      "forms": [
+        "borrowers"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "workforce",
+      "headword": "workforce",
+      "kind": "word",
+      "zh": "n. 劳动力；工人总数, 职工总数",
+      "en": "n the force of workers available",
+      "phonetic": "",
+      "forms": [
+        "workforce"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "capacity",
+      "headword": "capacity",
+      "kind": "word",
+      "zh": "n. 容量, 能力, 才能, 资格\n[计] 容量",
+      "en": "n. capability to perform or produce\nn. the amount that can be contained\nn. the maximum production possible\nn. a specified function",
+      "phonetic": "kә'pæsiti",
+      "forms": [
+        "capacity"
+      ],
+      "example": "Library services are reporting a decline in funds to buy and maintain books and other resources, complicated and expensive approaches to accessing digital reading materials for their borrowers, and continued pressures on workforce capacity.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "At the same time, they are being expected to take on an ever-broadening range of roles as the government increasingly sees libraries as partners in delivering wider public policy.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "delivering",
+      "headword": "deliver",
+      "kind": "word",
+      "zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付\n[经] 交运",
+      "en": "v. deliver (a speech, oration, or idea)\nv. bring to a destination, make a delivery\nv. utter (an exclamation, noise, etc.)\nv. save from sins",
+      "phonetic": "di'livә",
+      "forms": [
+        "delivering"
+      ],
+      "example": "At the same time, they are being expected to take on an ever-broadening range of roles as the government increasingly sees libraries as partners in delivering wider public policy.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "inclusion",
+      "headword": "inclusion",
+      "kind": "word",
+      "zh": "n. 包含, 内含物\n[计] 蕴含",
+      "en": "n. the state of being included\nn. the relation of comprising something\nn. the act of including",
+      "phonetic": "in'kluʒәn",
+      "forms": [
+        "inclusion"
+      ],
+      "example": "This ranges from improving digital inclusion and promoting reading to supporting public health and helping people use the NHS App.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "promoting",
+      "headword": "promote",
+      "kind": "word",
+      "zh": "vt. 促进, 晋升, 创办, 推销\n[经] 促进, 推广, 推销",
+      "en": "v. contribute to the progress or growth of\nv. give a promotion to or assign to a higher position\nv. be changed for a superior chess or checker piece\nv. change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+      "phonetic": "prәu'mәut",
+      "forms": [
+        "promoting"
+      ],
+      "example": "This ranges from improving digital inclusion and promoting reading to supporting public health and helping people use the NHS App.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "public health",
+      "headword": "public health",
+      "kind": "phrase",
+      "zh": "公共卫生",
+      "en": "the protection and improvement of health across communities",
+      "forms": [
+        "public health"
+      ],
+      "example": "This ranges from improving digital inclusion and promoting reading to supporting public health and helping people use the NHS App.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v37",
+      "term": "misplaced",
+      "headword": "misplace",
+      "kind": "word",
+      "zh": "vt. 放错地方",
+      "en": "v. place (something) where one cannot find it again\nv. place or position wrongly; put in the wrong position",
+      "phonetic": "mis'pleis",
+      "forms": [
+        "misplaced"
+      ],
+      "example": "These ambitions are not misplaced. Public libraries are trusted local institutions with an impressive record of adapting to changing social needs. If libraries can help people access healthcare, develop digital skills and connect with public services, that should be celebrated.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "trusted",
+      "headword": "trust",
+      "kind": "word",
+      "zh": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯\na. 信托的, 托拉斯的\nvt. 信赖, 信任, 相信, 盼望, 赊卖给\nvi. 相信, 信赖, 依靠\n[计] 委托, 信任",
+      "en": "n. something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)\nn. the trait of believing in the honesty and reliability of others\nn. a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service\nv. have confidence or faith in",
+      "phonetic": "trʌst",
+      "forms": [
+        "trusted"
+      ],
+      "example": "Public libraries are trusted local institutions with an impressive record of adapting to changing social needs.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "impressive",
+      "headword": "impressive",
+      "kind": "word",
+      "zh": "a. 给人深刻印象的, 威严的",
+      "en": "a. making a strong or vivid impression\ns. producing a strong effect",
+      "phonetic": "im'presiv",
+      "forms": [
+        "impressive"
+      ],
+      "example": "Public libraries are trusted local institutions with an impressive record of adapting to changing social needs.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "adapting",
+      "headword": "adapt",
+      "kind": "word",
+      "zh": "vt. 使适应, 改编\nvi. 适应",
+      "en": "v. make fit for, or change to suit a new purpose",
+      "phonetic": "ә'dæpt",
+      "forms": [
+        "adapting"
+      ],
+      "example": "Public libraries are trusted local institutions with an impressive record of adapting to changing social needs.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "healthcare",
+      "headword": "healthcare",
+      "kind": "word",
+      "zh": "n. 医疗保健；卫生保健；健康护理, 健康服务",
+      "en": "n. the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+      "phonetic": "'helθkεә",
+      "forms": [
+        "healthcare"
+      ],
+      "example": "If libraries can help people access healthcare, develop digital skills and connect with public services, that should be celebrated.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "connect",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connect"
+      ],
+      "example": "If libraries can help people access healthcare, develop digital skills and connect with public services, that should be celebrated.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "celebrated",
+      "headword": "celebrate",
+      "kind": "word",
+      "zh": "v. 庆祝, 祝贺, 举行",
+      "en": "v. have a celebration",
+      "phonetic": "'selibreit",
+      "forms": [
+        "celebrated",
+        "celebrates"
+      ],
+      "example": "If libraries can help people access healthcare, develop digital skills and connect with public services, that should be celebrated.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "partnership",
+      "headword": "partnership",
+      "kind": "word",
+      "zh": "n. 合伙, 合股, 合作关系\n[经] 合伙(合作)关系, 全体合伙人",
+      "en": "n. the members of a business venture created by contract\nn. a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal\nn. a contract between two or more persons who agree to pool talent and money and share profits or losses",
+      "phonetic": "'pɑ:tnәʃip",
+      "forms": [
+        "partnership",
+        "partnerships"
+      ],
+      "example": "The NHS App partnership illustrates both the opportunity and the challenge.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "illustrates",
+      "headword": "illustrate",
+      "kind": "word",
+      "zh": "vt. 举例说明, 作图解, 阐明\nvi. 举例说明",
+      "en": "v. depict with an illustration\nv. supply with illustrations",
+      "phonetic": "'ilәstreit",
+      "forms": [
+        "illustrates"
+      ],
+      "example": "The NHS App partnership illustrates both the opportunity and the challenge.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "reliable",
+      "headword": "reliable",
+      "kind": "word",
+      "zh": "a. 可靠的, 可信赖的\n[法] 可靠的, 可信赖的, 确实的",
+      "en": "a. worthy of reliance or trust",
+      "phonetic": "ri'laiәbl",
+      "forms": [
+        "reliable"
+      ],
+      "example": "NHS England is right to recognise that libraries are spaces where people can receive help accessing digital health services and reliable health information.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "demonstrates",
+      "headword": "demonstrate",
+      "kind": "word",
+      "zh": "vt. 示范, 证明\nvi. 示威",
+      "en": "v. march in protest; take part in a demonstration",
+      "phonetic": "'demәnstreit",
+      "forms": [
+        "demonstrates"
+      ],
+      "example": "It is exactly the kind of partnership that demonstrates their continuing relevance.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "relevance",
+      "headword": "relevance",
+      "kind": "word",
+      "zh": "n. 中肯；关联；相关性",
+      "en": "n. the relation of something to the matter at hand",
+      "phonetic": "'relivәns",
+      "forms": [
+        "relevance"
+      ],
+      "example": "It is exactly the kind of partnership that demonstrates their continuing relevance.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "rely",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "rely"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "rely on",
+      "headword": "rely on",
+      "kind": "phrase",
+      "zh": "依靠；依赖",
+      "en": "to depend on",
+      "forms": [
+        "rely on"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v51",
+      "term": "skilled",
+      "headword": "skilled",
+      "kind": "word",
+      "zh": "a. 熟练的\n[经] 熟练的, 有技能的",
+      "en": "a. having or showing or requiring special skill",
+      "phonetic": "'skild",
+      "forms": [
+        "skilled"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "buildings",
+      "headword": "buildings",
+      "kind": "word",
+      "zh": "n. 建筑物（building的复数）",
+      "en": "n a structure that has a roof and walls and stands more or less permanently in one place\nn the act of constructing something\nn the commercial activity involved in repairing old structures or constructing new ones\nn the occupants of a building\nv make by combining materials and parts\nv form or accumulate steadily\nv build or establish something abstract\nv improve the cleansing action of\nv order, supervise, or finance the construction of\nv give form to, according to a plan\nv be engaged in building\nv found or ground\nv bolster or strengthen\nv develop and grow",
+      "phonetic": "",
+      "forms": [
+        "buildings"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "up-to-date",
+      "headword": "up-to-date",
+      "kind": "word",
+      "zh": "a. 直到现在的, 最近的, 现代化的\n[化] 最新的",
+      "en": "s. reflecting the latest information or changes\ns. in accord with the most fashionable ideas or style",
+      "phonetic": "'ʌptә'deit",
+      "forms": [
+        "up-to-date"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "sustainable",
+      "headword": "sustainable",
+      "kind": "word",
+      "zh": "a. 足可支撑的, 养得起的, 可以忍受的",
+      "en": "a. capable of being sustained",
+      "phonetic": "sә'steinәbl",
+      "forms": [
+        "sustainable"
+      ],
+      "example": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "resilience",
+      "headword": "resilience",
+      "kind": "word",
+      "zh": "n. 弹回, 有弹力, 恢复力\n[化] 回弹; 弹性; 弹回性; 回能; 弹能",
+      "en": "n. the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit\nn. an occurrence of rebounding or springing back",
+      "phonetic": "ri'ziliәns",
+      "forms": [
+        "resilience"
+      ],
+      "example": "Libraries’ resilience has often masked the cumulative effects of sustained underinvestment.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "masked",
+      "headword": "mask",
+      "kind": "word",
+      "zh": "n. 面具, 假面具, 掩饰, 石膏面模\nvt. 戴面具, 掩饰, 使模糊\nvi. 化装, 戴面具, 掩饰, 参加化装舞会\n[计] 屏蔽; 掩码",
+      "en": "n. a covering to disguise or conceal the face\nn. activity that tries to conceal something\nn. a protective covering worn over the face\nv. put a mask on or cover with a mask",
+      "phonetic": "mæsk",
+      "forms": [
+        "masked"
+      ],
+      "example": "Libraries’ resilience has often masked the cumulative effects of sustained underinvestment.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "cumulative",
+      "headword": "cumulative",
+      "kind": "word",
+      "zh": "a. 累积的\n[医] 蓄积的, 累积的",
+      "en": "s increasing by successive addition",
+      "phonetic": "'kju:mjulәtiv",
+      "forms": [
+        "cumulative"
+      ],
+      "example": "Libraries’ resilience has often masked the cumulative effects of sustained underinvestment.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "sustained",
+      "headword": "sustain",
+      "kind": "word",
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许\n[电] 持续",
+      "en": "v. supply with necessities and support\nv. admit as valid",
+      "phonetic": "sә'stein",
+      "forms": [
+        "sustained"
+      ],
+      "example": "Libraries’ resilience has often masked the cumulative effects of sustained underinvestment.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "reorganisation",
+      "headword": "reorganisation",
+      "kind": "word",
+      "zh": "n. 重组（等于reorganization）",
+      "en": "n the imposition of a new organization; organizing differently (often involving extensive and drastic changes)",
+      "phonetic": "'ri:,ɔ:gənai'zeiʃən",
+      "forms": [
+        "reorganisation"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "ongoing",
+      "headword": "ongoing",
+      "kind": "word",
+      "zh": "a. 前进的, 进行的, 不间断的\nn. 前进, 发展",
+      "en": "s. currently happening",
+      "phonetic": "'ɒngәuiŋ",
+      "forms": [
+        "ongoing"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "county",
+      "headword": "county",
+      "kind": "word",
+      "zh": "n. 县, 郡",
+      "en": "n. (United Kingdom) a region created by territorial division for the purpose of local government\nn. (United States) the largest administrative district within a state",
+      "phonetic": "'kaunti",
+      "forms": [
+        "county"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "district",
+      "headword": "district",
+      "kind": "word",
+      "zh": "n. 区域, 地方\n[医] 地区, 地段",
+      "en": "n. a region marked off for administrative or other purposes",
+      "phonetic": "'distrikt",
+      "forms": [
+        "district"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "councils",
+      "headword": "council",
+      "kind": "word",
+      "zh": "n. 会议, 委员会\n[经] 委员会",
+      "en": "n. a body serving in an administrative capacity\nn. (Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine\nn. a meeting of people for consultation",
+      "phonetic": "'kaunsәl",
+      "forms": [
+        "councils"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "unitary",
+      "headword": "unitary",
+      "kind": "word",
+      "zh": "a. 单位的, 单一的, 归一的, 整体的\n[化] 幺正; 幺正的",
+      "en": "a. relating to or characterized by or aiming toward unity\na. of or pertaining to or involving the use of units\na. characterized by or constituting a form of government in which power is held by one central authority",
+      "phonetic": "'ju:nitәri",
+      "forms": [
+        "unitary"
+      ],
+      "example": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "It has the potential to reshape many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "reshape",
+      "headword": "reshape",
+      "kind": "word",
+      "zh": "vt. 改造, 使成新的形状, 打开新局面\nvt. 整形\nvi. 整形\n[计] 整形",
+      "en": "v. shape anew or differently\nv. shape again or shape differently",
+      "phonetic": "ri:'ʃeip",
+      "forms": [
+        "reshape"
+      ],
+      "example": "It has the potential to reshape many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "legacy",
+      "headword": "legacy",
+      "kind": "word",
+      "zh": "n. 祖先传下来之物, 遗赠物\n[经] 遗产, 遗赠物",
+      "en": "n (law) a gift of personal property by will",
+      "phonetic": "'legәsi",
+      "forms": [
+        "legacy"
+      ],
+      "example": "It has the potential to reshape many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "halted",
+      "headword": "halt",
+      "kind": "word",
+      "zh": "n. 停止, 立定, 休息\nvt. 使停止, 使立定\nvi. 立定, 停止, 蹒跚, 踌躇, 有缺点\n[计] 停止",
+      "en": "v. cause to stop",
+      "phonetic": "hɒ:lt",
+      "forms": [
+        "halted"
+      ],
+      "example": "In September, the reorganisation was halted while the government carries out a review, including reconsidering decisions already made in some areas.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "review",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "review"
+      ],
+      "example": "In September, the reorganisation was halted while the government carries out a review, including reconsidering decisions already made in some areas.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "reconsidering",
+      "headword": "reconsider",
+      "kind": "word",
+      "zh": "v. 再考虑, 重新考虑",
+      "en": "v. consider again; give new consideration to; usually with a view to changing\nv. consider again (a bill) that had been voted upon before, with a view to altering it",
+      "phonetic": ".ri:kәn'sidә",
+      "forms": [
+        "reconsidering"
+      ],
+      "example": "In September, the reorganisation was halted while the government carries out a review, including reconsidering decisions already made in some areas.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "communities",
+      "headword": "community",
+      "kind": "word",
+      "zh": "n. 社区, 公众, 共有, 共同体\n[经] 公众, 共有, 社会",
+      "en": "n. a group of people living in a particular local area\nn. common ownership\nn. a group of nations having common interests\nn. agreement as to goals",
+      "phonetic": "kә'mju:niti",
+      "forms": [
+        "communities"
+      ],
+      "example": "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "simultaneously",
+      "headword": "simultaneously",
+      "kind": "word",
+      "zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+      "en": "r. at the same instant",
+      "phonetic": "simәl'teiniәsly; (?@) saim-",
+      "forms": [
+        "simultaneously"
+      ],
+      "example": "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "structural",
+      "headword": "structural",
+      "kind": "word",
+      "zh": "a. 结构的, 建筑的\n[医] 结构的",
+      "en": "a. relating to or caused by structure, especially political or economic structure\na. relating to or having or characterized by structure\ns. affecting or involved in structure or construction; not ornamental elements\"\ns. concerned with systematic structure in a particular field of study",
+      "phonetic": "'strʌktʃәrәl",
+      "forms": [
+        "structural"
+      ],
+      "example": "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "forthcoming",
+      "headword": "forthcoming",
+      "kind": "word",
+      "zh": "a. 即将来临的\nn. 来临",
+      "en": "s. available when required or as promised",
+      "phonetic": "'fɒ:θ'kʌmɑŋ",
+      "forms": [
+        "forthcoming"
+      ],
+      "example": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "strengthening",
+      "headword": "strengthen",
+      "kind": "word",
+      "zh": "vt. 加强, 变坚固\nvi. 变强, 股票上涨",
+      "en": "v. make strong or stronger\nv. gain strength",
+      "phonetic": "'streŋθәn",
+      "forms": [
+        "strengthening"
+      ],
+      "example": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "core",
+      "headword": "CORE",
+      "kind": "word",
+      "zh": "n. 核心, 果心, 要点\nvt. 挖...的核\n[计] 内核, 核心网",
+      "en": "n. a small group of indispensable persons or things\nn. the center of an object\nn. the central part of the Earth\nn. a cylindrical sample of soil or rock obtained with a hollow drill",
+      "phonetic": "kɒ:",
+      "forms": [
+        "core"
+      ],
+      "example": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "expand",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expand"
+      ],
+      "example": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "support",
+      "headword": "support",
+      "kind": "word",
+      "zh": "n. 支持, 支撑, 援助, 供养, 支撑物\nvt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实\n[计] 后援; 支持",
+      "en": "n. the activity of providing for or maintaining by supplying with money or necessities\nn. aiding the cause or policy or interests of\nn. something providing immaterial assistance to a person or cause or interest\nn. a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission",
+      "phonetic": "sә'pɒ:t",
+      "forms": [
+        "support"
+      ],
+      "example": "The capacity of libraries to support wider government priorities depends on the health of the library service itself.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "priorities",
+      "headword": "priority",
+      "kind": "word",
+      "zh": "n. 优先权, 优先\n[计] 优先级",
+      "en": "n. preceding in time",
+      "phonetic": "prai'ɒriti",
+      "forms": [
+        "priorities"
+      ],
+      "example": "The capacity of libraries to support wider government priorities depends on the health of the library service itself.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "depends",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depends"
+      ],
+      "example": "The capacity of libraries to support wider government priorities depends on the health of the library service itself.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "comics",
+      "headword": "comic",
+      "kind": "word",
+      "zh": "n. 连环漫画, 喜剧演员, 滑稽的人\na. 滑稽的, 有趣的, 喜剧的",
+      "en": "a. of or relating to or characteristic of comedy",
+      "phonetic": "'kɒmik",
+      "forms": [
+        "comics"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "graphic",
+      "headword": "graphic",
+      "kind": "word",
+      "zh": "a. 生动的, 轮廓分明的, 绘画似的, 图解的\n[计] 图形的",
+      "en": "n. an image that is generated by a computer\ns. written or drawn or engraved\ns. describing nudity or sexual activity in graphic detail\na. of or relating to the graphic arts",
+      "phonetic": "'græfik",
+      "forms": [
+        "graphic"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "novels",
+      "headword": "novel",
+      "kind": "word",
+      "zh": "n. 小说, 长篇故事\na. 新奇的, 异常的",
+      "en": "n. an extended fictional work in prose; usually in the form of a story\nn. a printed and bound book that is an extended work of fiction\ns. pleasantly new or different",
+      "phonetic": "'nɒvl",
+      "forms": [
+        "novels"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "audiobooks",
+      "headword": "audiobook",
+      "kind": "word",
+      "zh": "n. 有声读物（把文字录制成语音的“有声书”）",
+      "en": "",
+      "phonetic": "'ɔ:di:əubuk",
+      "forms": [
+        "audiobooks"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "shrink",
+      "headword": "shrink",
+      "kind": "word",
+      "zh": "n. 收缩, 萎缩, 回避\nvi. 收缩, 退缩, 萎缩, 缩小, 回避\nvt. 使收缩, 使缩小",
+      "en": "v. reduce in size; reduce physically\nv. become smaller or draw together\nv. decrease in size, range, or extent",
+      "phonetic": "ʃriŋk",
+      "forms": [
+        "shrink"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "persistently",
+      "headword": "persistently",
+      "kind": "word",
+      "zh": "adv. 坚持地; 固执地; 一个劲儿",
+      "en": "r. in a persistent manner\nr. with persistence",
+      "phonetic": "pə'sɪstəntlɪ",
+      "forms": [
+        "persistently"
+      ],
+      "example": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "loan",
+      "headword": "loan",
+      "kind": "word",
+      "zh": "n. 贷款, 借出\nv. 借, 供应货款, 借给",
+      "en": "n. the temporary provision of money (usually at interest)",
+      "phonetic": "lәun",
+      "forms": [
+        "loan"
+      ],
+      "example": "Physical items that libraries loan are not an optional extra.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "optional",
+      "headword": "optional",
+      "kind": "word",
+      "zh": "a. 可选择的, 随意的\n[化] 选购的",
+      "en": "a. possible but not necessary; left to personal choice",
+      "phonetic": "'ɒpʃәnl",
+      "forms": [
+        "optional"
+      ],
+      "example": "Physical items that libraries loan are not an optional extra.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "Physical items that libraries loan are not an optional extra.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "fundamental",
+      "headword": "fundamental",
+      "kind": "word",
+      "zh": "n. 基本原理, 原则, 基波\na. 基本的, 重要的, 原音的",
+      "en": "n. any factor that could be considered important to the understanding of a particular business\nn. the lowest tone of a harmonic series\ns. being or involving basic facts or principles\ns. far-reaching and thoroughgoing in effect especially on the nature of something",
+      "phonetic": ".fʌndә'mentәl",
+      "forms": [
+        "fundamental"
+      ],
+      "example": "They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "literacy",
+      "headword": "literacy",
+      "kind": "word",
+      "zh": "n. 读写能力, 识字, 精通文学",
+      "en": "n. the ability to read and write",
+      "phonetic": "'litәrәsi",
+      "forms": [
+        "literacy"
+      ],
+      "example": "They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "lifelong",
+      "headword": "lifelong",
+      "kind": "word",
+      "zh": "a. 终身的, 毕生的",
+      "en": "s. continuing through life",
+      "phonetic": "'laiflɒŋ",
+      "forms": [
+        "lifelong"
+      ],
+      "example": "They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "distinctive",
+      "headword": "distinctive",
+      "kind": "word",
+      "zh": "a. 有特色的, 出众的",
+      "en": "s. of a feature that helps to distinguish a person or thing",
+      "phonetic": "di'stiŋktiv",
+      "forms": [
+        "distinctive"
+      ],
+      "example": "They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "identity",
+      "headword": "identity",
+      "kind": "word",
+      "zh": "n. 身份, 相同, 一致, 特性, 恒等式\n[计] (打)标记, 标识",
+      "en": "n. the distinct personality of an individual regarded as a persisting entity\nn. the individual characteristics by which a thing or person is recognized or known\nn. an operator that leaves unchanged the element on which it operates\nn. exact sameness",
+      "phonetic": "ai'dentiti",
+      "forms": [
+        "identity"
+      ],
+      "example": "They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "contribution",
+      "headword": "contribution",
+      "kind": "word",
+      "zh": "n. 捐助, 捐助之物, 贡献\n[经] 贡献, 捐款, 补助品",
+      "en": "n. the part played by a person in bringing about a result\nn. a voluntary gift (as of money or service or ideas) made to some worthwhile cause\nn. act of giving in common with others for a common purpose especially to a charity\nn. an amount of money contributed",
+      "phonetic": ".kɒntri'bju:ʃәn",
+      "forms": [
+        "contribution"
+      ],
+      "example": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "functions",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "functions"
+      ],
+      "example": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "symptoms",
+      "headword": "symptom",
+      "kind": "word",
+      "zh": "n. 症状, 征候, 征兆\n[医] 症状",
+      "en": "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease\nn. anything that accompanies X and is regarded as an indication of X's existence",
+      "phonetic": "'simptәm",
+      "forms": [
+        "symptoms"
+      ],
+      "example": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v99",
+      "term": "engage",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engage",
+        "engaged"
+      ],
+      "example": "The government has recently published research into what stops people using libraries and followed it with research examining how to engage people who don’t use libraries.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "It’s encouraging that the government wants to understand why many people do not currently use libraries and how participation might be broadened.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "participation",
+      "headword": "participation",
+      "kind": "word",
+      "zh": "n. 参与, 分享\n[经] 参与, 参股",
+      "en": "n. the condition of sharing in common with others (as fellows or partners etc.)",
+      "phonetic": ".pɑ:tisi'peiʃәn",
+      "forms": [
+        "participation"
+      ],
+      "example": "It’s encouraging that the government wants to understand why many people do not currently use libraries and how participation might be broadened.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "broadened",
+      "headword": "broaden",
+      "kind": "word",
+      "zh": "vi. 变宽, 扩大\nvt. 放宽, 使扩大",
+      "en": "v. make broader\nv. become broader",
+      "phonetic": "'brɒ:dn",
+      "forms": [
+        "broadened"
+      ],
+      "example": "It’s encouraging that the government wants to understand why many people do not currently use libraries and how participation might be broadened.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "follow-up",
+      "headword": "follow-up",
+      "kind": "word",
+      "zh": "a. 继续的, 作为重复的",
+      "en": "n. a piece of work that exploits or builds on earlier work\nn. an activity that continues something that has already begun or that repeats something that has already been done\nn. a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "phonetic": "",
+      "forms": [
+        "follow-up"
+      ],
+      "example": "This follow-up study, however, reveals a missed opportunity.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "actively",
+      "headword": "actively",
+      "kind": "word",
+      "zh": "adv. 活跃地, 积极地",
+      "en": "r. in an active manner",
+      "phonetic": "'æktivli",
+      "forms": [
+        "actively"
+      ],
+      "example": "While the project actively engaged with library non-users to understand the barriers to using a library, when it came to finding solutions, the library non-users were not involved.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "barriers",
+      "headword": "barrier",
+      "kind": "word",
+      "zh": "n. 障碍, 栅栏\n[化] 势垒; 阻片; 阻挡层",
+      "en": "n. a structure or object that impedes free movement\nn. any condition that makes it difficult to make progress or to achieve an objective\nn. anything serving to maintain separation by obstructing vision or access",
+      "phonetic": "'bæriә",
+      "forms": [
+        "barriers"
+      ],
+      "example": "While the project actively engaged with library non-users to understand the barriers to using a library, when it came to finding solutions, the library non-users were not involved.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "solutions",
+      "headword": "solution",
+      "kind": "word",
+      "zh": "n. 解决, 解答, 溶液\n[化] 溶液",
+      "en": "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution\nn. a statement that solves a problem or explains how to solve the problem\nn. a method for solving a problem\nn. the set of values that give a true statement when substituted into an equation",
+      "phonetic": "sә'lu:ʃәn",
+      "forms": [
+        "solutions"
+      ],
+      "example": "While the project actively engaged with library non-users to understand the barriers to using a library, when it came to finding solutions, the library non-users were not involved.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "criticism",
+      "headword": "criticism",
+      "kind": "word",
+      "zh": "n. 批评, 评论, 非难\n[法] 批判, 批评, 评论",
+      "en": "n. disapproval expressed by pointing out faults or shortcomings\nn. a serious examination and judgment of something\nn. a written evaluation of a work of literature",
+      "phonetic": "'kritisizm",
+      "forms": [
+        "criticism"
+      ],
+      "example": "That is not a criticism of the expertise of library staff, which is indispensable.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "expertise",
+      "headword": "expertise",
+      "kind": "word",
+      "zh": "n. 专家意见, 专门技术\n[法] 专门知识, 专家意见",
+      "en": "n skillfulness by virtue of possessing special knowledge",
+      "phonetic": ".ekspә:'ti:z",
+      "forms": [
+        "expertise"
+      ],
+      "example": "That is not a criticism of the expertise of library staff, which is indispensable.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "indispensable",
+      "headword": "indispensable",
+      "kind": "word",
+      "zh": "n. 不可缺少之物\na. 不可缺少的, 责无旁贷的, 绝对必要的",
+      "en": "a. not to be dispensed with; essential\ns. unavoidable",
+      "phonetic": ".indis'pensәbl",
+      "forms": [
+        "indispensable"
+      ],
+      "example": "That is not a criticism of the expertise of library staff, which is indispensable.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "repeatedly",
+      "headword": "repeatedly",
+      "kind": "word",
+      "zh": "adv. 重复地, 再三地",
+      "en": "r. several time",
+      "phonetic": "ri'pi:tidli",
+      "forms": [
+        "repeatedly"
+      ],
+      "example": "This is something our research has repeatedly shown.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "optimism",
+      "headword": "optimism",
+      "kind": "word",
+      "zh": "n. 乐观主义, 乐观, 乐天\n[医] 乐观主义, 乐观",
+      "en": "n. the optimistic feeling that all is going to turn out well\nn. a general disposition to expect the best in all things",
+      "phonetic": "'ɒptimizm",
+      "forms": [
+        "optimism"
+      ],
+      "example": "There are reasons for optimism. Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "sector",
+      "headword": "sector",
+      "kind": "word",
+      "zh": "n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段\nvt. 把...分成扇形\n[计] 扇面; 扇区; 段; 区段",
+      "en": "n. a plane figure bounded by two radii and the included arc of a circle\nn. a social group that forms part of the society or the economy\nn. a particular aspect of life or activity\nn. the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes",
+      "phonetic": "'sektә",
+      "forms": [
+        "sector"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "launched",
+      "headword": "launch",
+      "kind": "word",
+      "zh": "n. 下水, 汽艇, 发射\nvt. 使下水, 发射, 发动\nvi. 起飞, 下水, 投入, 开始",
+      "en": "n. a motorboat with an open deck or a half deck\nv. propel with force\nv. launch for the first time; launch on a maiden voyage\nv. get going; give impetus to",
+      "phonetic": "lɒ:ntʃ",
+      "forms": [
+        "launched"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "alliance",
+      "headword": "alliance",
+      "kind": "word",
+      "zh": "n. 联盟, 联合\n[法] 同盟, 联盟, 联姻",
+      "en": "n. the state of being allied or confederated\nn. a connection based on kinship or marriage or common interest\nn. an organization of people (or countries) involved in a pact or treaty\nn. a formal agreement establishing an association or alliance between nations or other groups to achieve a particular aim",
+      "phonetic": "ә'laiәns",
+      "forms": [
+        "alliance"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "user",
+      "headword": "user",
+      "kind": "word",
+      "zh": "n. 使用者\n[计] 用户",
+      "en": "n. a person who makes use of a thing; someone who uses or employs something",
+      "phonetic": "'ju:zә",
+      "forms": [
+        "user"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "trends",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trends"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour"
+      ],
+      "example": "Alongside the forthcoming national strategy, the public library sector has launched the Library Alliance, published a new workforce strategy and continues to develop evidence on public library user trends and behaviour.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      13
+    ],
+    "wordBank": [
+      "reshape",
+      "comics",
+      "adapting",
+      "illustrates",
+      "skilled",
+      "strengthening",
+      "optional",
+      "delivering",
+      "contribution",
+      "reorganisation"
+    ],
+    "parts": [
+      {
+        "text": "These ambitions are not misplaced. Public libraries are trusted local institutions with an impressive record of "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " to changing social needs. If libraries can help people access healthcare, develop digital skills and connect with public services, that should be celebrated.\n\nThe NHS App partnership "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " both the opportunity and the challenge. NHS England is right to recognise that libraries are spaces where people can receive help accessing digital health services and reliable health information. It is exactly the kind of partnership that demonstrates their continuing relevance. But partnerships like these rely on "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " staff, welcoming buildings, up-to-date collections and sustainable services. Libraries’ resilience has often masked the cumulative effects of sustained underinvestment.\n\nWhat’s more, public libraries are entering one of the most significant periods of change in decades. Local government "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " is an ongoing process of replacing existing county and district councils with new unitary authorities. It has the potential to "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.\n\nIn September, the reorganisation was halted while the government carries out a review, including reconsidering decisions already made in some areas. This leaves libraries "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " services for their communities while simultaneously planning for structural changes, which may or may not happen.\n\nWhat libraries need\n\nThe question, then, is whether the forthcoming strategy will focus on "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " libraries and their core offer or simply continue to expand what libraries are expected to do for others. The capacity of libraries to support wider government priorities depends on the health of the library service itself.\n\nOur recent research shows why this matters. Physical collections – books, "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": ", graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services. Physical items that libraries loan are not an "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " extra. They remain fundamental to reading for pleasure, literacy, lifelong learning, access to information and the distinctive identity of the public library itself.\n\nA strategy that celebrates libraries’ "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "adapting",
+        "vocabularyId": "v40",
+        "explanation": "原文此处使用 adapting（adapt）。结合上下文辨认词义与词形。",
+        "evidence": "Public libraries are trusted local institutions with an impressive record of adapting to changing social needs.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "illustrates",
+        "vocabularyId": "v45",
+        "explanation": "原文此处使用 illustrates（illustrate）。结合上下文辨认词义与词形。",
+        "evidence": "The NHS App partnership illustrates both the opportunity and the challenge.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "skilled",
+        "vocabularyId": "v51",
+        "explanation": "原文此处使用 skilled（skilled）。结合上下文辨认词义与词形。",
+        "evidence": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
+        "paragraph": 7
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "reorganisation",
+        "vocabularyId": "v59",
+        "explanation": "原文此处使用 reorganisation（reorganisation）。结合上下文辨认词义与词形。",
+        "evidence": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
+        "paragraph": 8
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "reshape",
+        "vocabularyId": "v66",
+        "explanation": "原文此处使用 reshape（reshape）。结合上下文辨认词义与词形。",
+        "evidence": "It has the potential to reshape many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.",
+        "paragraph": 8
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "delivering",
+        "vocabularyId": "v33",
+        "explanation": "原文此处使用 delivering（deliver）。结合上下文辨认词义与词形。",
+        "evidence": "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
+        "paragraph": 9
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "strengthening",
+        "vocabularyId": "v75",
+        "explanation": "原文此处使用 strengthening（strengthen）。结合上下文辨认词义与词形。",
+        "evidence": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "comics",
+        "vocabularyId": "v81",
+        "explanation": "原文此处使用 comics（comic）。结合上下文辨认词义与词形。",
+        "evidence": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "optional",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 optional（optional）。结合上下文辨认词义与词形。",
+        "evidence": "Physical items that libraries loan are not an optional extra.",
+        "paragraph": 12
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "contribution",
+        "vocabularyId": "v95",
+        "explanation": "原文此处使用 contribution（contribution）。结合上下文辨认词义与词形。",
+        "evidence": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Science curricula often overlook women whose work helped shape scientific knowledge.",
+          "School recess supports children's development in ways that extend beyond entertainment.",
+          "Better preparation for teachers is central to supporting pupils with dyslexia.",
+          "Public libraries support communities in many ways and need resources to sustain that work."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Asking libraries to do more for their communities must go hand in hand with strengthening the collections, workforce and financial support that allow them to do it.",
+        "paragraph": 18
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "From which year does the legislation underpinning England's public-library service date?",
+        "options": [
+          "1848",
+          "1974",
+          "1964",
+          "2026"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "England’s previous strategy for public libraries covered the period from 2016 to 2021, while the legislation underpinning the service dates from 1964.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 7?",
+        "options": [
+          "Asking libraries to do more for their communities must go hand in hand with strengthening the collections, workforce and financial support that allow them to do it.",
+          "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
+          "Our research has shown that although the Public Libraries and Museums Act remains relevant, it no longer provides sufficient clarity about the purpose and expectations of a modern library service.",
+          "NHS England is right to recognise that libraries are spaces where people can receive help accessing digital health services and reliable health information."
+        ],
+        "answer": 3,
+        "explanation": "定位第 7 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "NHS England is right to recognise that libraries are spaces where people can receive help accessing digital health services and reliable health information.",
+        "paragraph": 7
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 7",
+          "Paragraph 12",
+          "Paragraph 3"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 12 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
+        "paragraph": 12
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“While the project actively engaged with library non-users to understand the barriers to using a library, when it came to finding solutions, the library non-users were not involved.”",
+        "options": [
+          "Paragraph 14",
+          "Paragraph 18",
+          "Paragraph 15",
+          "Paragraph 9"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 15 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "While the project actively engaged with library non-users to understand the barriers to using a library, when it came to finding solutions, the library non-users were not involved.",
+        "paragraph": 15
+      }
+    ]
+  },
+  "revision": "59477c74b6cee55b99958caeccace3ddd8d15f00d7a1f4142064cfcab9bcb9b5"
+}

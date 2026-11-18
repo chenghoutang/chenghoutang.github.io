@@ -1,0 +1,63 @@
+With their spindly legs and geometric heads, they look more like miniature spacecraft than anything living on Earth. But bacteriophages, or simply phages, are among the most abundant biological entities on the planet.
+
+These microscopic agents are viruses that can infect and kill bacteria, offering an intriguing alternative to antibiotics at a time that drug-resistant infections are threatening global health.
+
+Despite decades of research, however, scientists still know surprisingly little about how most phages work. Many of their genes have functions that remain a mystery, limiting their potential in medicine and elsewhere.
+
+Now, our new research offers a way to investigate them in greater detail. We’ve developed a method to pinpoint which genes phages need to function, and to insert new genetic material into their genomes within days.
+
+This might eventually help researchers engineer phages that are better at attacking harmful bacteria – opening up possibilities for treating infections that conventional antibiotics struggle against.
+
+Why phages are making a comeback
+
+Long before antibiotics became the standard treatment for bacterial infections, doctors were using phages to fight them.
+
+Phages were first used in this way a century ago. But with the arrival of antibiotics, inconsistent results from early phage treatments and the onset of the Cold War, their medical use declined in Western countries.
+
+In his 1945 Nobel Prize lecture, Alexander Fleming, who discovered penicillin, warned that bacteria could develop resistance to antibiotics. His warning proved prescient.
+
+As new antibiotics were developed, resistant bacteria emerged, helped by the overuse and misuse of these drugs. Today, antibiotic resistance is projected to contribute to more than eight million deaths annually by 2050, prompting renewed interest in phage-based treatments.
+
+Despite their growing use in medicine and agriculture, much of what we know about phages comes from a small number of well-studied examples. Their vast diversity, and the functions of many of their genes, remain largely unexplored.
+
+Like humans, phages have genomes containing genes that carry instructions for making proteins. These proteins determine how the viruses function, including how they infect bacteria and reproduce.
+
+To investigate phage gene function, scientists need tools that can boost our understanding and turn new knowledge into practical applications.
+
+Bridging the knowledge gap
+
+Current methods for studying and modifying phages can be time-consuming, work only with certain bacteria, or require detailed knowledge of the phage’s genome.
+
+We wanted to overcome these limitations by developing a method that could work across different phages and their bacterial hosts. To do this, we harnessed transposons – mobile pieces of DNA that insert themselves into random positions in a genome and disrupt gene function.
+
+Our approach, called Phage Tn-seq (transposon sequencing), combines these insertions with DNA sequencing, allowing us to pinpoint where mutations occur and how they affect the phage.
+
+Since the late 2000s, similar techniques have helped scientists understand bacterial gene function. Typically, transposons carry an antibiotic resistance gene, allowing bacteria that receive them to survive antibiotic treatment.
+
+But this doesn’t work directly with phages, which aren’t affected by antibiotics. Instead, we exploited what has been described as a molecular “arms race” between bacteria and the phages that infect them.
+
+Bacteria have evolved CRISPR-Cas immune systems, which recognise and cut up invading viral DNA, to defend themselves against phages. In turn, some phages have developed anti-CRISPR proteins that overcome these defences.
+
+We used one of these proteins, carried on the transposon, instead of an antibiotic resistance gene. By applying CRISPR-Cas selection, we could eliminate phages that hadn’t received the transposon. This left us with a pool of phages carrying different mutations, which we could study to identify the function of their genes.
+
+Disrupting a phage gene might have no noticeable effect, reduce the phage’s ability to function, or prevent it from replicating. By sequencing the DNA, we can locate these mutations and see which ones are rare or absent.
+
+These gaps tell us which genes are essential for the phage to reproduce, allowing us to map the genes it needs to successfully infect bacteria.
+
+Building better phages
+
+Having developed a way to identify which genes phages need, we wanted to see whether the same technique could give them new abilities.
+
+Our method automatically selects phages that survive transposon insertion. We tested whether we could use this process to introduce additional “cargo” genes into their genomes.
+
+We then added a gene encoding green fluorescent protein, causing infected bacterial cells to glow bright green under a microscope. While this served as a demonstration, the technique could potentially introduce genes that make phages more effective at killing bacteria.
+
+In this space, one promising application involves biofilms – communities of bacteria that clump together inside protective, sugar-based shells, making infections difficult to treat with antibiotics.
+
+Using Phage Tn-seq, researchers might engineer phages to produce proteins that break down these layers while attacking the bacteria themselves. This could also make antibiotics, often used alongside phages, more effective.
+
+Several countries, including the United States and some European Union members, have introduced programmes offering personalised phage therapy to selected patients, sometimes using genetically modified phages.
+
+In New Zealand, however, phage therapy is not routinely available as a treatment option, partly because of regulatory hurdles and gaps in our understanding of these viruses.
+
+Our research won’t overcome those barriers overnight. But by giving scientists new tools to understand and modify phages, it could lay the groundwork for a wider range of applications.

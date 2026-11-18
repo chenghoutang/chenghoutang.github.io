@@ -1,0 +1,2011 @@
+{
+  "schemaVersion": 1,
+  "folder": "006",
+  "articleSha256": "3e42b7e0f01e609221fa6743f886dc717cc604779b314d805b9214d975ab1cf2",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "plate",
+      "headword": "plate",
+      "kind": "word",
+      "zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)\nvt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版",
+      "en": "n. a sheet of metal or wood or glass or plastic\nn. a full-page illustration (usually on slick paper)\nn. dish on which food is served or from which food is eaten\nn. the quantity contained in a plate",
+      "phonetic": "pleit",
+      "forms": [
+        "plate",
+        "plates"
+      ],
+      "example": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "Plate tectonics",
+      "headword": "plate tectonics",
+      "kind": "phrase",
+      "zh": "板块构造学说",
+      "en": "the theory that Earth's outer shell is divided into moving plates",
+      "forms": [
+        "Plate tectonics"
+      ],
+      "example": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "tectonics",
+      "headword": "tectonic",
+      "kind": "word",
+      "zh": "a. 构造的, 建筑的\n[医] 整形的, 整复的, 成形的",
+      "en": "a. pertaining to the structure or movement of the earth's crust\na. of or pertaining to construction or architecture",
+      "phonetic": "tek'tɒnik",
+      "forms": [
+        "tectonics",
+        "tectonic"
+      ],
+      "example": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "planetary",
+      "headword": "planetary",
+      "kind": "word",
+      "zh": "a. 行星的, 流浪的, 迁移不定的, 地球上的, 现世的",
+      "en": "a. of or relating to or characteristic of the planet Earth or its inhabitants",
+      "phonetic": "'plænitri",
+      "forms": [
+        "planetary"
+      ],
+      "example": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "neighbours",
+      "headword": "neighbour",
+      "kind": "word",
+      "zh": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
+      "en": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighbours"
+      ],
+      "example": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "chunks",
+      "headword": "chunk",
+      "kind": "word",
+      "zh": "n. 大块, 矮胖的人(或物)\n[经] 定样",
+      "en": "n. a substantial amount",
+      "phonetic": "tʃʌŋk",
+      "forms": [
+        "chunks"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "crust",
+      "headword": "crust",
+      "kind": "word",
+      "zh": "n. 外壳, 坚硬外皮, 面包皮\nvt. 盖以硬皮\nvi. 结硬皮",
+      "en": "n. the outer layer of the Earth\nn. a hard outer layer that covers something\nn. the trait of being rude and impertinent; inclined to take liberties\nv. form a crust or form into a crust",
+      "phonetic": "krʌst",
+      "forms": [
+        "crust"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "mountain",
+      "headword": "mountain",
+      "kind": "word",
+      "zh": "n. 山, 山脉, 大堆",
+      "en": "n. a land mass that projects well above its surroundings; higher than a hill",
+      "phonetic": "'mauntin",
+      "forms": [
+        "mountain",
+        "mountains"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "triggers",
+      "headword": "trigger",
+      "kind": "word",
+      "zh": "n. 触发器, 扳机\nvt. 触发, 发射, 引起\nvi. 松开扳柄\n[计] 切换开关",
+      "en": "n. a device that activates or releases or causes something to happen\nn. an act that sets in motion some course of events\nv. release or pull the trigger on",
+      "phonetic": "'trigә",
+      "forms": [
+        "triggers",
+        "triggered"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "earthquakes",
+      "headword": "earthquake",
+      "kind": "word",
+      "zh": "n. 地震",
+      "en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity\nn. a disturbance that is extremely disruptive",
+      "phonetic": "'ә:θkweik",
+      "forms": [
+        "earthquakes"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "shapes",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shapes"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "oceans",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "oceans"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "continents",
+      "headword": "continent",
+      "kind": "word",
+      "zh": "n. 大陆, 洲\na. 自制的",
+      "en": "n. one of the large landmasses of the earth\nn. the European mainland\na. having control over urination and defecation",
+      "phonetic": "'kɒntinәnt",
+      "forms": [
+        "continents"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "regulate",
+      "headword": "regulate",
+      "kind": "word",
+      "zh": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+      "en": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+      "phonetic": "'regjuleit",
+      "forms": [
+        "regulate"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "magnetic",
+      "headword": "magnetic",
+      "kind": "word",
+      "zh": "a. 有磁性的, 有吸引力的, 催眠术的\n[医] 磁[性]的",
+      "en": "a. of or relating to or caused by magnetism\na. having the properties of a magnet; i.e. of attracting iron or steel\na. capable of being magnetized\na. determined by earth's magnetic fields",
+      "phonetic": "mæg'netik",
+      "forms": [
+        "magnetic"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "magnetic field",
+      "headword": "magnetic field",
+      "kind": "phrase",
+      "zh": "磁场",
+      "en": "the region where magnetic forces act",
+      "forms": [
+        "magnetic field"
+      ],
+      "example": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v20",
+      "term": "sustaining",
+      "headword": "sustain",
+      "kind": "word",
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许\n[电] 持续",
+      "en": "v. supply with necessities and support\nv. admit as valid",
+      "phonetic": "sә'stein",
+      "forms": [
+        "sustaining"
+      ],
+      "example": "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "habitability",
+      "headword": "habitability",
+      "kind": "word",
+      "zh": "n. 可居住性, 适于居住",
+      "en": "n. suitability for living in or on",
+      "phonetic": ",hæbitә'bilәti",
+      "forms": [
+        "habitability"
+      ],
+      "example": "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "evolve",
+      "headword": "evolve",
+      "kind": "word",
+      "zh": "vi. 进展, 进化, 展开\nvt. 使发展, 使推断出, 使进化",
+      "en": "v. work out\nv. undergo development or evolution",
+      "phonetic": "i'vɒlv",
+      "forms": [
+        "evolve"
+      ],
+      "example": "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "began",
+      "headword": "begin",
+      "kind": "word",
+      "zh": "v. 开始\n[计] 开始",
+      "en": "n. Israeli statesman (born in Russia) who (as prime minister of Israel) negotiated a peace treaty with Anwar Sadat (then the president of Egypt) (1913-1992)\nv. have a beginning, in a temporal, spatial, or evaluative sense\nv. set in motion, cause to start\nv. begin to speak or say",
+      "phonetic": "bi'gin",
+      "forms": [
+        "began"
+      ],
+      "example": "But exactly when it began has been a long-standing mystery.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "long-standing",
+      "headword": "long-standing",
+      "kind": "word",
+      "zh": "a. 长期存在的",
+      "en": "",
+      "phonetic": "'lɔŋstædiŋ",
+      "forms": [
+        "long-standing"
+      ],
+      "example": "But exactly when it began has been a long-standing mystery.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "mystery",
+      "headword": "mystery",
+      "kind": "word",
+      "zh": "n. 秘密, 神秘, 奥秘",
+      "en": "n. something that baffles understanding and cannot be explained\nn. a story about a crime (usually murder) presented as a novel or play or movie",
+      "phonetic": "'mistәri",
+      "forms": [
+        "mystery"
+      ],
+      "example": "But exactly when it began has been a long-standing mystery.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "fingerprints",
+      "headword": "fingerprint",
+      "kind": "word",
+      "zh": "n. 指纹\nvt. 采指纹",
+      "en": "n. a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations\nn. a generic term for any identifying characteristic\nv. take an impression of a person's fingerprints",
+      "phonetic": "'fiŋgәprint",
+      "forms": [
+        "fingerprints",
+        "fingerprint"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "rocks",
+      "headword": "rock",
+      "kind": "word",
+      "zh": "n. 岩石, 岩礁, 石头, 基石, 暗礁, 摇动, 摇滚乐\nvt. 摇摆, 摇动, 使摇晃, 使动摇\nvi. 摇, 摇动",
+      "en": "n. a lump or mass of hard consolidated mineral matter\nn. material consisting of the aggregate of minerals like those making up the Earth's crust\nn. United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)\nn. (figurative) someone who is strong and stable and dependable",
+      "phonetic": "rɒk",
+      "forms": [
+        "rocks"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "clues",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clues"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "remarkable",
+      "headword": "remarkable",
+      "kind": "word",
+      "zh": "a. 不平常的, 值得注意的, 显著的",
+      "en": "s. unusual or striking",
+      "phonetic": "ri'mɑ:kәbl",
+      "forms": [
+        "remarkable"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "shift",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shift",
+        "shifting",
+        "shifted"
+      ],
+      "example": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "stability",
+      "headword": "stability",
+      "kind": "word",
+      "zh": "n. 安定, 稳定性, 坚实, 巩固\n[化] 稳定性",
+      "en": "n. the quality or attribute of being firm and steadfast\nn. a stable order (especially of society)",
+      "phonetic": "stә'biliti",
+      "forms": [
+        "stability"
+      ],
+      "example": "Many scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "unlike",
+      "headword": "unlike",
+      "kind": "word",
+      "zh": "a. 不像的, 不同的\nprep. 不像, 和...不同",
+      "en": "a. marked by dissimilarity\na. not equal in amount",
+      "phonetic": ".ʌn'laik",
+      "forms": [
+        "unlike"
+      ],
+      "example": "Many scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Many scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v36",
+      "term": "venus",
+      "headword": "Venus",
+      "kind": "word",
+      "zh": "n. 维纳斯(爱与美的女神), 金星",
+      "en": "n. the second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the Earth and all other planets except Uranus); it is visible from Earth as an early `morning star' or an `evening star'\nn. goddess of love; counterpart of Greek Aphrodite\nn. type genus of the family Veneridae: genus of edible clams with thick oval shells",
+      "phonetic": "'vi:nәs",
+      "forms": [
+        "venus"
+      ],
+      "example": "Many scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "mars",
+      "headword": "mar",
+      "kind": "word",
+      "zh": "vt. 损毁, 损伤, 糟蹋\nn. 三月",
+      "en": "v. make imperfect",
+      "phonetic": "mɑ:",
+      "forms": [
+        "mars"
+      ],
+      "example": "Many scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "raged",
+      "headword": "rage",
+      "kind": "word",
+      "zh": "n. 愤怒, 情绪激动, 狂暴\nvi. 大怒, 狂吹, 流行",
+      "en": "n. a state of extreme anger\nn. something that is desired intensely\nn. violent state of the elements\nv. be violent; as of fires and storms",
+      "phonetic": "reidʒ",
+      "forms": [
+        "raged"
+      ],
+      "example": "But debate has raged over when this process began: has it run throughout Earth’s entire 4.5-billion-year history, or did it “switch on” at some point along the way?",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "billion",
+      "headword": "billion",
+      "kind": "word",
+      "zh": "num. 十亿, 十亿个",
+      "en": "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen\nn. the number that is represented as a one followed by 9 zeros\ns. denoting a quantity consisting of one thousand million items or units in the United States\ns. denoting a quantity consisting of one million million items or units in Great Britain",
+      "phonetic": "'biljәn",
+      "forms": [
+        "billion"
+      ],
+      "example": "But debate has raged over when this process began: has it run throughout Earth’s entire 4.5-billion-year history, or did it “switch on” at some point along the way?",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "switch",
+      "headword": "switch",
+      "kind": "word",
+      "zh": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔\nvt. 转变, 切换, 摆动, 转换, 使转轨\nvi. 转换, 变换, 摆动\n[计] 开关; 翻转; 转移",
+      "en": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit\nn. hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure\nn. railroad track having two movable rails and necessary connections; used to turn a train from one track to another or to store rolling stock\nn. a flexible implement used as an instrument of punishment",
+      "phonetic": "switʃ",
+      "forms": [
+        "switch"
+      ],
+      "example": "But debate has raged over when this process began: has it run throughout Earth’s entire 4.5-billion-year history, or did it “switch on” at some point along the way?",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "mostly",
+      "headword": "mostly",
+      "kind": "word",
+      "zh": "adv. 大概, 大部分, 主要\n[经] 大部份",
+      "en": "r in large part; mainly or chiefly\nr usually; as a rule",
+      "phonetic": "'mәustli",
+      "forms": [
+        "mostly"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "colliding",
+      "headword": "collide",
+      "kind": "word",
+      "zh": "vi. 碰撞, 互撞, 抵触",
+      "en": "v. cause to collide\nv. crash together with violent impact",
+      "phonetic": "kә'laid",
+      "forms": [
+        "colliding",
+        "collide"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "in turn",
+      "headword": "in turn",
+      "kind": "phrase",
+      "zh": "进而；依次",
+      "en": "as a further consequence or in sequence",
+      "forms": [
+        "in turn"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v44",
+      "term": "erode",
+      "headword": "erode",
+      "kind": "word",
+      "zh": "vt. 腐蚀, 侵蚀\nvi. 受腐蚀",
+      "en": "v. become ground down or deteriorate\nv. remove soil or rock",
+      "phonetic": "i'rәud",
+      "forms": [
+        "erode",
+        "eroding"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "supplying",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supplying"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "nutrients",
+      "headword": "nutrient",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+      "en": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+      "phonetic": "'nju:triәnt",
+      "forms": [
+        "nutrients"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "marine",
+      "headword": "marine",
+      "kind": "word",
+      "zh": "n. 舰队, 水兵, 海景画\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+      "en": "n. a member of the United States Marine Corps\nn. a soldier who serves both on shipboard and on land\na. of or relating to the sea\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+      "phonetic": "mә'ri:n",
+      "forms": [
+        "marine"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "marine life",
+      "headword": "marine life",
+      "kind": "phrase",
+      "zh": "海洋生物",
+      "en": "organisms living in the sea",
+      "forms": [
+        "marine life"
+      ],
+      "example": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v50",
+      "term": "settle",
+      "headword": "settle",
+      "kind": "word",
+      "zh": "n. 有背长椅\nvt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算\nvi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家",
+      "en": "n. a long wooden bench with a back\nv. settle into a position, usually on a surface or ground\nv. settle conclusively; come to terms\nv. take up residence and become established",
+      "phonetic": "'setl",
+      "forms": [
+        "settle"
+      ],
+      "example": "The question is hard to settle because plate tectonics are very good at destroying the evidence.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "destroying",
+      "headword": "destroy",
+      "kind": "word",
+      "zh": "vt. 破坏, 毁坏, 消灭",
+      "en": "v. do away with, cause the destruction or undoing of\nv. destroy completely; damage irreparably\nv. put (an animal) to death",
+      "phonetic": "di'strɒi",
+      "forms": [
+        "destroying"
+      ],
+      "example": "The question is hard to settle because plate tectonics are very good at destroying the evidence.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "dragged",
+      "headword": "drag",
+      "kind": "word",
+      "zh": "n. 拖, 拖累\nv. 拖累, 拖拉, 沉重缓慢地走, 拖动\n[计] 拖动",
+      "en": "n. the phenomenon of resistance to motion through a fluid\nn. something that slows or delays progress\nn. something tedious and boring\nn. clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)",
+      "phonetic": "dræg",
+      "forms": [
+        "dragged"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "mantle",
+      "headword": "mantle",
+      "kind": "word",
+      "zh": "n. 斗篷, 罩子, 披风\nvt. 罩住, 覆盖\nvi. 覆盖, 脸红",
+      "en": "n. the cloak as a symbol of authority\nn. United States baseball player (1931-1997)\nn. the layer of the earth between the crust and the core\nn. (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell",
+      "phonetic": "'mæntl",
+      "forms": [
+        "mantle"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "thrust",
+      "headword": "thrust",
+      "kind": "word",
+      "zh": "n. 插, 戳, 刺, 猛推, 口头攻击, 推力\nvt. 插入, 猛推, 刺, 戳, 强加, 延伸\nvi. 插, 刺, 戳, 延伸, (用力)推",
+      "en": "n. verbal criticism\nv. push forcefully\nv. press or force\nv. force (molten rock) into pre-existing rock",
+      "phonetic": "θrʌst",
+      "forms": [
+        "thrust"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "upward",
+      "headword": "upward",
+      "kind": "word",
+      "zh": "a. 向上的\nadv. 以上",
+      "en": "s. directed up",
+      "phonetic": "'ʌpwәd",
+      "forms": [
+        "upward"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "erases",
+      "headword": "erase",
+      "kind": "word",
+      "zh": "vt. 抹去, 擦掉\n[计] 清洗; 擦除; 抹除; DOS内部命令:从磁盘上删除一个或多个文件",
+      "en": "v. remove from memory or existence\nv. remove by or as if by rubbing or erasing\nv. wipe out digitally or magnetically recorded information",
+      "phonetic": "i'reis",
+      "forms": [
+        "erases"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "geological",
+      "headword": "geological",
+      "kind": "word",
+      "zh": "a. 地质学的, 地质的",
+      "en": "a. of or relating to or based on geology",
+      "phonetic": ".dʒiәu'lɒdʒikәl",
+      "forms": [
+        "geological"
+      ],
+      "example": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "survives",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "survives",
+        "survive"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "preserved",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserved"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "endured",
+      "headword": "endure",
+      "kind": "word",
+      "zh": "vt. 忍受, 忍耐, 容忍, 耐\nvi. (正式)持久, 持续\n[计] 仍能工作, 继续工作",
+      "en": "v put up with something or somebody unpleasant\nv face and withstand with courage\nv continue to live through hardship or adversity\nv undergo or be subjected to\nv last and be usable\nv persist for a specified period of time\nv continue to exist",
+      "phonetic": "in'djuә",
+      "forms": [
+        "endured"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "billions",
+      "headword": "billions",
+      "kind": "word",
+      "zh": "n. 十亿（billion的复数形式）",
+      "en": "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen\nn. a very large indefinite number (usually hyperbole)\nn. the number that is represented as a one followed by 9 zeros",
+      "phonetic": "'bɪljənz",
+      "forms": [
+        "billions"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "odds",
+      "headword": "odds",
+      "kind": "word",
+      "zh": "n. 可能性, 几率, 机会, 胜算, 不平等",
+      "en": "n. the likelihood of a thing occurring rather than not occurring\nn. the ratio by which one better's wager is greater than that of another",
+      "phonetic": "ɒdz",
+      "forms": [
+        "odds"
+      ],
+      "example": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "Reading the fingerprints in rocks",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "continental",
+      "headword": "continental",
+      "kind": "word",
+      "zh": "a. 大陆的, 洲的\nn. 欧洲大陆人",
+      "en": "a. of or pertaining to or typical of Europe\na. of or relating to or concerning the American colonies during and immediately after the American Revolutionary War\na. of or relating to or characteristic of a continent\na. being or concerning or limited to a continent especially the continents of North America or Europe",
+      "phonetic": ".kɒnti'nentl",
+      "forms": [
+        "continental"
+      ],
+      "example": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "continental crust",
+      "headword": "continental crust",
+      "kind": "phrase",
+      "zh": "大陆地壳",
+      "en": "the part of Earth's outer layer forming the continents",
+      "forms": [
+        "continental crust"
+      ],
+      "example": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v67",
+      "term": "ground",
+      "headword": "grind",
+      "kind": "word",
+      "zh": "n. 磨, 碾, 苦差, 摩擦声, 用功的学生\nvt. 磨擦, 磨碎, 磨光, 折磨, 压榨\nvi. 磨, 磨碎, 苦干",
+      "en": "n. the grade of particle fineness to which a substance is ground\nn. the act of grinding to a powder or dust\nv. dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced\nv. reduce to small pieces or particles by pounding or abrading",
+      "phonetic": "graind",
+      "forms": [
+        "ground"
+      ],
+      "example": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "crystallising",
+      "headword": "crystallise",
+      "kind": "word",
+      "zh": "vi.vt. (使)结晶, (使)定形, 明朗化, (使)具体化\nvt. 给裹上糖屑",
+      "en": "v make free from confusion or ambiguity; make clear\nv cause to form crystals or assume crystalline form\nv cause to take on a definite and clear shape",
+      "phonetic": "'kristәlaiz",
+      "forms": [
+        "crystallising"
+      ],
+      "example": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "magma",
+      "headword": "magma",
+      "kind": "word",
+      "zh": "n. 岩浆, 糊剂, 乳浆剂\n[化] 晶浆",
+      "en": "n. molten rock in the earth's crust",
+      "phonetic": "'mægmә",
+      "forms": [
+        "magma"
+      ],
+      "example": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "melting",
+      "headword": "melt",
+      "kind": "word",
+      "zh": "n. 熔化, 熔化物, 溶解\nv. (使)熔化, (使)溶解, (使)消散, (使)变软",
+      "en": "v. reduce or cause to be reduced from a solid to a liquid state, usually by heating\nv. lose its distinct outline or shape; blend gradually\nv. become less intense and fade away gradually",
+      "phonetic": "melt",
+      "forms": [
+        "melting",
+        "melted"
+      ],
+      "example": "Often it’s made from melting older rock that was already sitting inside existing crust.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "trace",
+      "headword": "trace",
+      "kind": "word",
+      "zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳\nvt. 追踪, 回溯, 描绘\nvi. 追溯, 沿路走",
+      "en": "n. a just detectable amount\nn. an indication that something has been present\nn. either of two lines that connect a horse's harness to a wagon or other vehicle or to a whiffletree\nn. a visible mark (as a footprint) left by the passage of person or animal or vehicle",
+      "phonetic": "treis",
+      "forms": [
+        "trace"
+      ],
+      "example": "That process leaves a lasting chemical trace in the new rocks, a bit like the DNA a child inherits from their parents.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "inherits",
+      "headword": "inherit",
+      "kind": "word",
+      "zh": "vt. 继承, 遗传\nvi. 接受遗产",
+      "en": "v. obtain from someone after their death\nv. receive from a predecessor\nv. receive by genetic transmission",
+      "phonetic": "in'herit",
+      "forms": [
+        "inherits"
+      ],
+      "example": "That process leaves a lasting chemical trace in the new rocks, a bit like the DNA a child inherits from their parents.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "minerals",
+      "headword": "mineral",
+      "kind": "word",
+      "zh": "n. 矿物, 无机物, 苏打水\na. 矿物的, 似矿物的",
+      "en": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition\na. relating to minerals\ns. composed of matter other than plant or animal",
+      "phonetic": "'minәrәl",
+      "forms": [
+        "minerals"
+      ],
+      "example": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "feldspar",
+      "headword": "feldspar",
+      "kind": "word",
+      "zh": "n. 长石\n[化] 长石",
+      "en": "n. any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium",
+      "phonetic": "'feldspɑ:",
+      "forms": [
+        "feldspar"
+      ],
+      "example": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sulfide",
+      "headword": "sulfide",
+      "kind": "word",
+      "zh": "n. 硫化物\n[化] 硫化物",
+      "en": "n. a compound of sulphur and some other element that is more electropositive",
+      "phonetic": "'sʌlfaid",
+      "forms": [
+        "sulfide"
+      ],
+      "example": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "undisturbed",
+      "headword": "undisturbed",
+      "kind": "word",
+      "zh": "a. 未被扰乱的, 安静的, 镇定的",
+      "en": "s. untroubled by interference or disturbance",
+      "phonetic": ".ʌndi'stә:bd",
+      "forms": [
+        "undisturbed"
+      ],
+      "example": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "analysed",
+      "headword": "analyse",
+      "kind": "word",
+      "zh": "vt. 分析, 细察, 分解\n[经] 分析",
+      "en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\nv break down into components or essential features\nv make a mathematical, chemical, or grammatical analysis of; break down into components or essential features\nv subject to psychoanalytic treatment",
+      "phonetic": "'ænәlaiz",
+      "forms": [
+        "analysed"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "newly",
+      "headword": "newly",
+      "kind": "word",
+      "zh": "adv. 重新, 最近",
+      "en": "r. very recently",
+      "phonetic": "'nju:li",
+      "forms": [
+        "newly"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "compiled",
+      "headword": "compile",
+      "kind": "word",
+      "zh": "vt. 编译, 编辑, 编纂, 收集\n[计] 编译",
+      "en": "v. use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed",
+      "phonetic": "kәm'pail",
+      "forms": [
+        "compiled"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "landmasses",
+      "headword": "landmass",
+      "kind": "word",
+      "zh": "n. 陆块",
+      "en": "n. a large continuous extent of land",
+      "phonetic": "'lændmæs",
+      "forms": [
+        "landmasses"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "australia",
+      "headword": "Australia",
+      "kind": "word",
+      "zh": "n. 澳洲, 澳大利亚",
+      "en": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean",
+      "phonetic": "ɒ'streiljә",
+      "forms": [
+        "australia"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "africa",
+      "headword": "Africa",
+      "kind": "word",
+      "zh": "n. 非洲",
+      "en": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean",
+      "phonetic": "'æfrikә",
+      "forms": [
+        "africa"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "spanning",
+      "headword": "spanning",
+      "kind": "word",
+      "zh": "[计] 生成",
+      "en": "v to cover or extend over an area or time period",
+      "phonetic": "'spæniŋ",
+      "forms": [
+        "spanning"
+      ],
+      "example": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "vanishing",
+      "headword": "vanish",
+      "kind": "word",
+      "zh": "vi. 消失, 不见, 成为零",
+      "en": "v. become invisible or unnoticeable\nv. cease to exist\nv. decrease rapidly and disappear",
+      "phonetic": "'væniʃ",
+      "forms": [
+        "vanishing",
+        "vanishes"
+      ],
+      "example": "We think the vanishing of this fingerprint marks a fundamental reorganisation in how Earth builds continents.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "signal",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signal"
+      ],
+      "example": "The vanishing signal",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "unmistakable",
+      "headword": "unmistakable",
+      "kind": "word",
+      "zh": "a. 不会弄错的, 不会被误解的, 不会搞错的, 明白无误的, 清楚明白的",
+      "en": "s. clearly evident to the mind",
+      "phonetic": "'ʌnmis'teikәbl",
+      "forms": [
+        "unmistakable"
+      ],
+      "example": "Rocks older than about 2.5 billion years carried the unmistakable signature of very ancient crust, which appears to have formed about four billion years ago.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "signature",
+      "headword": "signature",
+      "kind": "word",
+      "zh": "n. 签字, 识别标志, 调号\n[计] 签名附件",
+      "en": "n. your name written in your own handwriting\nn. a melody used to identify a performer or a dance band or radio/tv program\nn. a sheet with several pages printed on it; it folds to page size and is bound with other signatures to form a book",
+      "phonetic": "'signәtʃә",
+      "forms": [
+        "signature"
+      ],
+      "example": "Rocks older than about 2.5 billion years carried the unmistakable signature of very ancient crust, which appears to have formed about four billion years ago.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "repeatedly",
+      "headword": "repeatedly",
+      "kind": "word",
+      "zh": "adv. 重复地, 再三地",
+      "en": "r. several time",
+      "phonetic": "ri'pi:tidli",
+      "forms": [
+        "repeatedly"
+      ],
+      "example": "This ancient crust material was melted and remelted repeatedly, for well over a billion years, to produce the granite-like rocks that made up much of Earth’s earliest continents.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "abruptly",
+      "headword": "abruptly",
+      "kind": "word",
+      "zh": "adv. 突然地, 唐突地",
+      "en": "r. quickly and without warning",
+      "phonetic": "ә'brʌptli",
+      "forms": [
+        "abruptly"
+      ],
+      "example": "Then, around 2.5 billion years ago, that fingerprint vanishes abruptly.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "searched",
+      "headword": "search",
+      "kind": "word",
+      "zh": "n. 搜寻, 查究\nv. 搜寻, 搜查, 探求, 调查, 搜索\n[计] 搜索, 路径检索程序",
+      "en": "n. the activity of looking thoroughly in order to find something or someone\nn. an investigation seeking answers\nn. an operation that determines whether one or more of a set of items has a specified property\nn. the examination of alternative hypotheses",
+      "phonetic": "sә:tʃ",
+      "forms": [
+        "searched"
+      ],
+      "example": "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "hundreds",
+      "headword": "hundreds",
+      "kind": "word",
+      "zh": "n. 数百",
+      "en": "n ten 10s",
+      "phonetic": "",
+      "forms": [
+        "hundreds"
+      ],
+      "example": "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "distinctive",
+      "headword": "distinctive",
+      "kind": "word",
+      "zh": "a. 有特色的, 出众的",
+      "en": "s. of a feature that helps to distinguish a person or thing",
+      "phonetic": "di'stiŋktiv",
+      "forms": [
+        "distinctive"
+      ],
+      "example": "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "crustal",
+      "headword": "crustal",
+      "kind": "word",
+      "zh": "a. 地壳的\n[医] 痂的; 壳的",
+      "en": "a. of or relating to or characteristic of the crust of the earth or moon",
+      "phonetic": "'krʌstәl",
+      "forms": [
+        "crustal"
+      ],
+      "example": "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "reservoirs",
+      "headword": "reservoir",
+      "kind": "word",
+      "zh": "n. 贮水池, 贮藏处, 贮备, 水库\nvt. 储藏",
+      "en": "n. a large or extra supply of something\nn. lake used to store water for community use\nn. tank used for collecting and storing a liquid (as water or oil)\nn. anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies",
+      "phonetic": "'rezәvwɑ:",
+      "forms": [
+        "reservoirs"
+      ],
+      "example": "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "fundamental",
+      "headword": "fundamental",
+      "kind": "word",
+      "zh": "n. 基本原理, 原则, 基波\na. 基本的, 重要的, 原音的",
+      "en": "n. any factor that could be considered important to the understanding of a particular business\nn. the lowest tone of a harmonic series\ns. being or involving basic facts or principles\ns. far-reaching and thoroughgoing in effect especially on the nature of something",
+      "phonetic": ".fʌndә'mentәl",
+      "forms": [
+        "fundamental"
+      ],
+      "example": "We think the vanishing of this fingerprint marks a fundamental reorganisation in how Earth builds continents.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "reorganisation",
+      "headword": "reorganisation",
+      "kind": "word",
+      "zh": "n. 重组（等于reorganization）",
+      "en": "n the imposition of a new organization; organizing differently (often involving extensive and drastic changes)",
+      "phonetic": "'ri:,ɔ:gənai'zeiʃən",
+      "forms": [
+        "reorganisation"
+      ],
+      "example": "We think the vanishing of this fingerprint marks a fundamental reorganisation in how Earth builds continents.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "input",
+      "headword": "input",
+      "kind": "word",
+      "zh": "n. 输入, 输入电路\nvt. 输入\n[计] 输入",
+      "en": "n. a component of production; something that goes into the production of output\nv. enter (data or a program) into a computer",
+      "phonetic": "'input",
+      "forms": [
+        "input"
+      ],
+      "example": "Before 2.5 billion years ago, our results suggest the same ancient continental material was melted over and over again, with little input from other sources.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "Instead of",
+      "headword": "instead of",
+      "kind": "phrase",
+      "zh": "代替；而不是",
+      "en": "in place of something else",
+      "forms": [
+        "Instead of"
+      ],
+      "example": "Instead of melting ancient rocks to form new crust, the planet started producing crust from a mix of old and new sources.",
+      "paragraph": 23,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v100",
+      "term": "volcanoes",
+      "headword": "volcanoes",
+      "kind": "word",
+      "zh": "n. 火山( volcano的名词复数 )",
+      "en": "pl.  of Volcano",
+      "phonetic": "vɔlˈkeinəuz",
+      "forms": [
+        "volcanoes"
+      ],
+      "example": "This is something we still see happening today at the edge of tectonic plates, where volcanoes bring fresh molten rock up from the mantle while older crust is also being recycled.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "molten",
+      "headword": "molten",
+      "kind": "word",
+      "zh": "a. 熔化的, 炽热的, 铸造的\nmelt的过去分词",
+      "en": "s. reduced to liquid form by heating",
+      "phonetic": "'mәultәn",
+      "forms": [
+        "molten"
+      ],
+      "example": "This is something we still see happening today at the edge of tectonic plates, where volcanoes bring fresh molten rock up from the mantle while older crust is also being recycled.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "recycled",
+      "headword": "recycle",
+      "kind": "word",
+      "zh": "vt. 使再循环, 重新利用, 再制\nn. 再循环",
+      "en": "v. cause to repeat a cycle\nv. use again after processing",
+      "phonetic": ".ri:'saikl",
+      "forms": [
+        "recycled"
+      ],
+      "example": "This is something we still see happening today at the edge of tectonic plates, where volcanoes bring fresh molten rock up from the mantle while older crust is also being recycled.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, the fingerprint of the ancient crust disappeared.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v104",
+      "term": "disappeared",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappeared"
+      ],
+      "example": "As a result, the fingerprint of the ancient crust disappeared.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "chemistry",
+      "headword": "chemistry",
+      "kind": "word",
+      "zh": "n. 化学, 化学过程\n[化] 化学",
+      "en": "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions\nn. the chemical composition and properties of a substance or object\nn. the way two individuals relate to each other",
+      "phonetic": "'kemistri",
+      "forms": [
+        "chemistry"
+      ],
+      "example": "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "alterations",
+      "headword": "alteration",
+      "kind": "word",
+      "zh": "n. 变更, 改动\n[医] 变更",
+      "en": "n. the act of making something different (as e.g. the size of a garment)",
+      "phonetic": ".ɒ:ltә'reiʃәn",
+      "forms": [
+        "alterations"
+      ],
+      "example": "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "thickness",
+      "headword": "thickness",
+      "kind": "word",
+      "zh": "n. 厚度, 密度, 愚钝, 含混不清\n[医] 厚度",
+      "en": "n. the dimension through an object as opposed to its length or width\nn. indistinct articulation\nn. used of a line or mark\nn. resistance to flow",
+      "phonetic": "'θiknis",
+      "forms": [
+        "thickness"
+      ],
+      "example": "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "composition",
+      "headword": "composition",
+      "kind": "word",
+      "zh": "n. 作文, 创作, 组成\n[化] 成分; 组成",
+      "en": "n. the spatial property resulting from the arrangement of parts in relation to each other and to the whole\nn. a mixture of ingredients\nn. an essay (especially one written as an assignment)\nn. something that is created by arranging several things to form a unified whole",
+      "phonetic": "kɒmpә'ziʃәn",
+      "forms": [
+        "composition"
+      ],
+      "example": "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "supercontinent",
+      "headword": "supercontinent",
+      "kind": "word",
+      "zh": "n. [地]超大陆",
+      "en": "",
+      "phonetic": ",sju:pә'kɔntinәnt",
+      "forms": [
+        "supercontinent"
+      ],
+      "example": "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "flourish",
+      "headword": "flourish",
+      "kind": "word",
+      "zh": "vi. 繁荣, 茂盛, 活跃, 手舞足蹈\nvt. 挥舞, 夸耀\nn. 挥舞, 炫耀, 茂盛, 兴旺, 华丽词藻",
+      "en": "n. a showy gesture\nn. an ornamental embellishment in writing\nn. a display of ornamental speech or language\nn. the act of waving",
+      "phonetic": "'flʌriʃ",
+      "forms": [
+        "flourish"
+      ],
+      "example": "And as a result, Earth’s surface developed the environment life needed to flourish.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "chase",
+      "headword": "chase",
+      "kind": "word",
+      "zh": "n. 追求, 狩猎, 追逐\nvt. 追捕, 追逐, 雕刻, 在...上镶嵌宝石\nvi. 追赶, 奔跑",
+      "en": "n. United States politician and jurist who served as chief justice of the United States Supreme Court (1808-1873)\nn. a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time\nv. go after with the intent to catch\nv. pursue someone sexually or romantically",
+      "phonetic": "tʃeis",
+      "forms": [
+        "chase"
+      ],
+      "example": "We still don’t know exactly what triggered the start of plate tectonics, but we’re continuing to chase an answer.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "puzzle",
+      "headword": "puzzle",
+      "kind": "word",
+      "zh": "n. 难题, 迷惑\nvt. 使困惑, 使为难\nvi. 迷惑, 苦思",
+      "en": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide",
+      "phonetic": "'pʌzl",
+      "forms": [
+        "puzzle"
+      ],
+      "example": "For now, our results offer another piece of the puzzle of when Earth’s unique tectonic engine kicked into gear.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "For now, our results offer another piece of the puzzle of when Earth’s unique tectonic engine kicked into gear.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "engine",
+      "headword": "engine",
+      "kind": "word",
+      "zh": "n. 引擎, 发动机, 机车\nvt. 安装发动机于",
+      "en": "n. motor that converts thermal energy to mechanical work\nn. something used to achieve a purpose\nn. an instrument or machine that is used in warfare, such as a battering ram, catapult, artillery piece, etc.",
+      "phonetic": "'endʒin",
+      "forms": [
+        "engine"
+      ],
+      "example": "For now, our results offer another piece of the puzzle of when Earth’s unique tectonic engine kicked into gear.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "kicked",
+      "headword": "kick",
+      "kind": "word",
+      "zh": "n. 踢, 反冲, 后座力, 凹底\nvi. 踢, 反抗, 反冲\nvt. 踢, 反冲",
+      "en": "n. the act of delivering a blow with the foot\nn. the sudden stimulation provided by strong drink (or certain drugs)\nn. a rhythmic thrusting movement of the legs as in swimming or calisthenics\nv. drive or propel with the foot",
+      "phonetic": "kik",
+      "forms": [
+        "kicked"
+      ],
+      "example": "For now, our results offer another piece of the puzzle of when Earth’s unique tectonic engine kicked into gear.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "gear",
+      "headword": "gear",
+      "kind": "word",
+      "zh": "n. 齿轮, 工具\nvt. 以齿轮连起, 开动, 使适应, 安排\nvi. 连接上, 适合",
+      "en": "n. a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion\nn. a mechanism for transmitting motion for some specific purpose (as the steering gear of a vehicle)\nn. equipment consisting of miscellaneous articles needed for a particular operation or sport etc.\nv. set the level or character of",
+      "phonetic": "giә",
+      "forms": [
+        "gear"
+      ],
+      "example": "For now, our results offer another piece of the puzzle of when Earth’s unique tectonic engine kicked into gear.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      17
+    ],
+    "wordBank": [
+      "habitability",
+      "landmasses",
+      "billions",
+      "dragged",
+      "melting",
+      "chunks",
+      "shift",
+      "colliding",
+      "raged",
+      "feldspar"
+    ],
+    "parts": [
+      {
+        "text": "Plate tectonics is one of the reasons Earth looks so different from its planetary neighbours.\n\nThe movement of enormous "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.\n\nThis process may also be key to sustaining the kind of long-term "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " that allowed complex life to evolve. But exactly when it began has been a long-standing mystery.\n\nIn new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " occurred.\n\nWhy plate tectonics matters\n\nMany scientists believe plate tectonics provides the long-term stability that keeps our planet life-friendly, unlike tectonically “dead” worlds such as Venus and Mars.\n\nBut debate has "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " over when this process began: has it run throughout Earth’s entire 4.5-billion-year history, or did it “switch on” at some point along the way?\n\nFor much of its early history, Earth may have been mostly covered by oceans, without the shifting, "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.\n\nThe question is hard to settle because plate tectonics are very good at destroying the evidence. Where plates collide, some old crust is "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.\n\nOften, all that survives are chemical fingerprints preserved in ancient rocks that have endured for "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " of years, against the odds.\n\nReading the fingerprints in rocks\n\nIn our new study, we studied one such fingerprint.\n\nNew continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma. Often it’s made from "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " older rock that was already sitting inside existing crust.\n\nThat process leaves a lasting chemical trace in the new rocks, a bit like the DNA a child inherits from their parents. This is the fingerprint we studied.\n\nIn some minerals ("
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.\n\nWe analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.\n\nThe vanishing signal"
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "chunks",
+        "vocabularyId": "v7",
+        "explanation": "原文此处使用 chunks（chunk）。结合上下文辨认词义与词形。",
+        "evidence": "The movement of enormous chunks of our planet’s crust builds mountain ranges, triggers earthquakes, shapes our oceans and continents, and helps regulate Earth’s climate and magnetic field over deep time.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "habitability",
+        "vocabularyId": "v21",
+        "explanation": "原文此处使用 habitability（habitability）。结合上下文辨认词义与词形。",
+        "evidence": "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve.",
+        "paragraph": 3
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "shift",
+        "vocabularyId": "v32",
+        "explanation": "原文此处使用 shift（shift）。结合上下文辨认词义与词形。",
+        "evidence": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+        "paragraph": 4
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "raged",
+        "vocabularyId": "v38",
+        "explanation": "原文此处使用 raged（rage）。结合上下文辨认词义与词形。",
+        "evidence": "But debate has raged over when this process began: has it run throughout Earth’s entire 4.5-billion-year history, or did it “switch on” at some point along the way?",
+        "paragraph": 7
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "colliding",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 colliding（collide）。结合上下文辨认词义与词形。",
+        "evidence": "For much of its early history, Earth may have been mostly covered by oceans, without the shifting, colliding plates that build tall mountains – which in turn erode away, supplying the nutrients to feed marine life.",
+        "paragraph": 8
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "dragged",
+        "vocabularyId": "v52",
+        "explanation": "原文此处使用 dragged（drag）。结合上下文辨认词义与词形。",
+        "evidence": "Where plates collide, some old crust is dragged back down into the mantle, and the crust that is thrust upward to form mountains also starts eroding away, which erases the geological record.",
+        "paragraph": 9
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "billions",
+        "vocabularyId": "v62",
+        "explanation": "原文此处使用 billions（billions）。结合上下文辨认词义与词形。",
+        "evidence": "Often, all that survives are chemical fingerprints preserved in ancient rocks that have endured for billions of years, against the odds.",
+        "paragraph": 10
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "melting",
+        "vocabularyId": "v70",
+        "explanation": "原文此处使用 melting（melt）。结合上下文辨认词义与词形。",
+        "evidence": "Often it’s made from melting older rock that was already sitting inside existing crust.",
+        "paragraph": 13
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "feldspar",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 feldspar（feldspar）。结合上下文辨认词义与词形。",
+        "evidence": "In some minerals (feldspar and some sulfide minerals, in our case) this fingerprint can survive largely undisturbed for billions of years.",
+        "paragraph": 15
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "landmasses",
+        "vocabularyId": "v81",
+        "explanation": "原文此处使用 landmasses（landmass）。结合上下文辨认词义与词形。",
+        "evidence": "We analysed over 1,200 rocks, some newly analysed by us, others compiled from earlier studies, from ancient landmasses across Australia, Africa, North America and Europe, spanning nearly four billion years of Earth’s history.",
+        "paragraph": 16
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Chemical evidence in ancient rocks helps scientists date the beginnings of plate tectonics.",
+          "Antarctic microorganisms reveal a rich but often overlooked dimension of biodiversity.",
+          "New Zealand's distinctive natural history makes a case for a museum devoted to evolution and geology.",
+          "A compass works by aligning a magnetised needle with Earth's magnetic field."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+        "paragraph": 4
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How did the researchers seek evidence for the geological transition?",
+        "options": [
+          "By analysing chemical fingerprints in over a thousand rocks",
+          "By tracking the movements of living cranes",
+          "By measuring only today's ocean temperature",
+          "By asking people to describe recent earthquakes"
+        ],
+        "answer": 0,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In new research, we studied chemical fingerprints in more than 1,000 rocks to look for clues – and found clear evidence for when this remarkable shift occurred.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 13?",
+        "options": [
+          "There were more changes in rock chemistry and alterations in the thickness and composition of the crust, and Earth’s first supercontinent also formed in this era.",
+          "We searched through hundreds of younger rocks without ever finding the distinctive signature of those ancient crustal reservoirs again.",
+          "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+          "This process may also be key to sustaining the kind of long-term habitability that allowed complex life to evolve."
+        ],
+        "answer": 2,
+        "explanation": "定位第 13 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "New continental crust – the ground we stand on – doesn’t always form fresh from crystallising mantle magma.",
+        "paragraph": 13
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“This ancient crust material was melted and remelted repeatedly, for well over a billion years, to produce the granite-like rocks that made up much of Earth’s earliest continents.”",
+        "options": [
+          "Paragraph 4",
+          "Paragraph 2",
+          "Paragraph 19",
+          "Paragraph 15"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "This ancient crust material was melted and remelted repeatedly, for well over a billion years, to produce the granite-like rocks that made up much of Earth’s earliest continents.",
+        "paragraph": 19
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“So we believe this shift 2.5 billion years ago was when plate tectonics may have begun.”",
+        "options": [
+          "Paragraph 23",
+          "Paragraph 3",
+          "Paragraph 9",
+          "Paragraph 24"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 24 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "So we believe this shift 2.5 billion years ago was when plate tectonics may have begun.",
+        "paragraph": 24
+      }
+    ]
+  },
+  "revision": "3ad428920630713117144404fd12e1f0064d0faf0465e92b9582bc575e87149a"
+}

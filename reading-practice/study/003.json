@@ -1,0 +1,2068 @@
+{
+  "schemaVersion": 1,
+  "folder": "003",
+  "articleSha256": "b1821b6606b2709269b3eab41bc3e44d1a012b551e4db97c198c52949b2532e9",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "compass",
+      "headword": "compass",
+      "kind": "word",
+      "zh": "n. 指南针, 范围, 音域\nvt. 包围, 达到, 图谋, 理解",
+      "en": "n. navigational instrument for finding directions\nn. the limit of capability\nn. drafting instrument used for drawing circles\nv. bring about; accomplish",
+      "phonetic": "'kʌmpәs",
+      "forms": [
+        "compass",
+        "compasses"
+      ],
+      "example": "If you’re like me, when you pick up a compass you can’t help but spin it this way and that, to see if you can trick it.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "spin",
+      "headword": "spin",
+      "kind": "word",
+      "zh": "n. 旋转, 自旋, 疾驰, 情绪低落\nvt. 纺织, 纺, 使旋转, 编造\nvi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+      "en": "n. a swift whirling motion (usually of a missile)\nn. the act of rotating rapidly\nn. a short drive in a car\nn. a distinctive interpretation (especially as used by politicians to sway public opinion)",
+      "phonetic": "spin",
+      "forms": [
+        "spin",
+        "spins"
+      ],
+      "example": "If you’re like me, when you pick up a compass you can’t help but spin it this way and that, to see if you can trick it.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "trick",
+      "headword": "trick",
+      "kind": "word",
+      "zh": "n. 诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍\nvt. 愚弄, 欺骗, 装饰\nvi. 哄骗, 戏弄\na. 有决窍的, 特技的, 欺诈的, 漂亮的, 靠不住的",
+      "en": "n. a cunning or deceitful action or device\nn. a period of work or duty\nn. an attempt to get you to do something foolish or imprudent\nn. (card games) in a single round, the sequence of cards played by all the players; the high card is the winner",
+      "phonetic": "trik",
+      "forms": [
+        "trick"
+      ],
+      "example": "If you’re like me, when you pick up a compass you can’t help but spin it this way and that, to see if you can trick it.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "resist",
+      "headword": "resist",
+      "kind": "word",
+      "zh": "v. 抵抗, 耐得住, 抵制, 反抗\nn. 防染材料",
+      "en": "v. stand up or offer resistance to somebody or something\nv. withstand the force of something\nv. resist immunologically the introduction of some foreign tissue or organ\nv. refuse to comply",
+      "phonetic": "ri'zist",
+      "forms": [
+        "resist"
+      ],
+      "example": "It’s hard to resist experimenting with a spooky force we can’t see or feel ourselves.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "experimenting",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experimenting"
+      ],
+      "example": "It’s hard to resist experimenting with a spooky force we can’t see or feel ourselves.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "spooky",
+      "headword": "spooky",
+      "kind": "word",
+      "zh": "a. 幽灵一般的, 吓人的, 令人毛骨悚然的",
+      "en": "s unpredictably excitable (especially of horses)",
+      "phonetic": "'spu:ki",
+      "forms": [
+        "spooky"
+      ],
+      "example": "It’s hard to resist experimenting with a spooky force we can’t see or feel ourselves.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "needle",
+      "headword": "needle",
+      "kind": "word",
+      "zh": "n. 针, 尖\nvt. 用针缝\nvi. 缝纫\n[计] 探针",
+      "en": "n. a slender pointer for indicating the reading on the scale of a measuring instrument\nn. a sharp pointed implement (usually steel)\nv. goad or provoke,as by constant criticism\nv. prick with a needle",
+      "phonetic": "'ni:dl",
+      "forms": [
+        "needle"
+      ],
+      "example": "Yet it always turns the compass needle back towards north.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "Yet it always turns the compass needle back towards north.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "high-tech",
+      "headword": "high-tech",
+      "kind": "word",
+      "zh": "n. 高科技",
+      "en": "a. resembling or making use of highly advanced technology or devices",
+      "phonetic": "",
+      "forms": [
+        "high-tech"
+      ],
+      "example": "Even in today’s high-tech world, compasses are useful navigation tools.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "Even in today’s high-tech world, compasses are useful navigation tools.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "navigation",
+      "headword": "navigation",
+      "kind": "word",
+      "zh": "n. 航行, 航海, 导航\n[经] 航空, 航海, 航船",
+      "en": "n. the guidance of ships or airplanes from place to place\nn. ship traffic",
+      "phonetic": ".nævi'geiʃәn",
+      "forms": [
+        "navigation"
+      ],
+      "example": "Even in today’s high-tech world, compasses are useful navigation tools.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "tools",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tools"
+      ],
+      "example": "Even in today’s high-tech world, compasses are useful navigation tools.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "unlike",
+      "headword": "unlike",
+      "kind": "word",
+      "zh": "a. 不像的, 不同的\nprep. 不像, 和...不同",
+      "en": "a. marked by dissimilarity\na. not equal in amount",
+      "phonetic": ".ʌn'laik",
+      "forms": [
+        "unlike"
+      ],
+      "example": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "opposed",
+      "headword": "oppose",
+      "kind": "word",
+      "zh": "vt. 反对, 以...对抗, 抗争\nvi. 反对",
+      "en": "v. be against; express opposition to\nv. contrast with equal weight or force\nv. be resistant to",
+      "phonetic": "ә'pәuz",
+      "forms": [
+        "opposed"
+      ],
+      "example": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "landmarks",
+      "headword": "landmark",
+      "kind": "word",
+      "zh": "n. 陆标, 划时代的事, 地界标\n[医] 界标",
+      "en": "n. the position of a prominent or well-known object in a particular landscape\nn. an event marking a unique or important historical change of course or one on which important developments depend\nn. a mark showing the boundary of a piece of land\nn. an anatomical structure used as a point of origin in locating other anatomical structures (as in surgery) or as point from which measurements can be taken",
+      "phonetic": "'lændmɑ:k",
+      "forms": [
+        "landmarks"
+      ],
+      "example": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "phenomena",
+      "headword": "phenomenon",
+      "kind": "word",
+      "zh": "n. 现象, 迹象, 表现, 奇迹, 奇才\n[化] 现象",
+      "en": "n. any state or process known through the senses rather than by intuition or reasoning\nn. a remarkable development",
+      "phonetic": "fi'nɒminәn",
+      "forms": [
+        "phenomena"
+      ],
+      "example": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "magic",
+      "headword": "magic",
+      "kind": "word",
+      "zh": "n. 魔术, 魔法\na. 魔术的, 有魔力的, 不可思议的",
+      "en": "n. any art that invokes supernatural powers",
+      "phonetic": "'mædʒik",
+      "forms": [
+        "magic"
+      ],
+      "example": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "physics",
+      "headword": "physics",
+      "kind": "word",
+      "zh": "n. 物理学, 物理过程, 物理现象\n[化] 物理; 物理学",
+      "en": "n. the science of matter and energy and their interactions\nn. the physical properties, phenomena, and laws of something",
+      "phonetic": "'fiziks",
+      "forms": [
+        "physics"
+      ],
+      "example": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "aspect",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspect"
+      ],
+      "example": "And people have been making use of this particular aspect of physics for more than 2,000 years.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "lodestone",
+      "headword": "lodestone",
+      "kind": "word",
+      "zh": "n. 天然磁石, 吸引人的东西\n[化] 极磁铁矿; 天然磁石",
+      "en": "n. a permanent magnet consisting of magnetite that possess polarity and has the power to attract as well as to be attracted magnetically",
+      "phonetic": "'lәudstәun",
+      "forms": [
+        "lodestone",
+        "lodestones"
+      ],
+      "example": "In modern compasses, a magnetised metal needle has replaced the lodestone spoon.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "spoon",
+      "headword": "spoon",
+      "kind": "word",
+      "zh": "n. 匙, 调羹, 匙形工具\nvt. 以匙舀起, 调情, 使成匙状",
+      "en": "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food\nn. as much as a spoon will hold\nn. formerly a golfing wood with an elevated face\nv. scoop up or take up with a spoon",
+      "phonetic": "spu:n",
+      "forms": [
+        "spoon"
+      ],
+      "example": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "The earliest versions of the compass were developed in ancient China.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "china",
+      "headword": "China",
+      "kind": "word",
+      "zh": "n. 中国, 瓷器\na. 中国的",
+      "en": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China",
+      "phonetic": "'tʃainә",
+      "forms": [
+        "china"
+      ],
+      "example": "The earliest versions of the compass were developed in ancient China.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "naturally",
+      "headword": "naturally",
+      "kind": "word",
+      "zh": "adv. 自然地, 以自然力, 天生地",
+      "en": "r. as might be expected\nr. according to nature; by natural means; without artificial help\nr. through inherent nature\nr. in a natural or normal manner",
+      "phonetic": "'nætʃәrәli",
+      "forms": [
+        "naturally"
+      ],
+      "example": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "magnetic",
+      "headword": "magnetic",
+      "kind": "word",
+      "zh": "a. 有磁性的, 有吸引力的, 催眠术的\n[医] 磁[性]的",
+      "en": "a. of or relating to or caused by magnetism\na. having the properties of a magnet; i.e. of attracting iron or steel\na. capable of being magnetized\na. determined by earth's magnetic fields",
+      "phonetic": "mæg'netik",
+      "forms": [
+        "magnetic"
+      ],
+      "example": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "mineral",
+      "headword": "mineral",
+      "kind": "word",
+      "zh": "n. 矿物, 无机物, 苏打水\na. 矿物的, 似矿物的",
+      "en": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition\na. relating to minerals\ns. composed of matter other than plant or animal",
+      "phonetic": "'minәrәl",
+      "forms": [
+        "mineral"
+      ],
+      "example": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "magnetite",
+      "headword": "magnetite",
+      "kind": "word",
+      "zh": "n. 磁铁矿\n[医] 磁铁矿",
+      "en": "n. an oxide of iron that is strongly attracted by magnets",
+      "phonetic": "'mægnitait",
+      "forms": [
+        "magnetite"
+      ],
+      "example": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "rotate",
+      "headword": "rotate",
+      "kind": "word",
+      "zh": "a. 辐状的\nvt. 使旋转, 使转动, 使轮流\nvi. 旋转, 循环\n[计] 旋转",
+      "en": "v. exchange on a regular basis\nv. perform a job or duty on a rotating basis\nv. cause to turn on an axis or center",
+      "phonetic": "'rәuteit",
+      "forms": [
+        "rotate"
+      ],
+      "example": "When allowed to rotate freely, the spoon handle would align itself with a particular direction (north–south).",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "freely",
+      "headword": "freely",
+      "kind": "word",
+      "zh": "adv. 自由地, 随意地, 无拘束地, 直率地, 坦白地, 慷慨地, 免费地, 大量地\n[计] 浮动地",
+      "en": "r. in a free manner",
+      "phonetic": "'fri:li",
+      "forms": [
+        "freely"
+      ],
+      "example": "When allowed to rotate freely, the spoon handle would align itself with a particular direction (north–south).",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "handle",
+      "headword": "handle",
+      "kind": "word",
+      "zh": "n. 柄, 把手, 把柄, 柄状物, 手感\nvt. 触摸, 运用, 买卖, 处理, 操作\nvi. 搬运, 易于操纵\nn. 句柄\n[计] 句柄",
+      "en": "n. the appendage to an object that is designed to be held in order to use or move it\nv. touch, lift, or hold with the hands\nv. show and train",
+      "phonetic": "hændl",
+      "forms": [
+        "handle"
+      ],
+      "example": "When allowed to rotate freely, the spoon handle would align itself with a particular direction (north–south).",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "align",
+      "headword": "align",
+      "kind": "word",
+      "zh": "vi. 排列, 排成一行, 结盟\nvt. 使结盟, 使成一行, 校正",
+      "en": "v. place in a line or arrange so as to be parallel or straight\nv. be or come into adjustment with\nv. align oneself with a group or a way of thinking\nv. bring (components or parts) into proper or desirable coordination correlation",
+      "phonetic": "ә'lain",
+      "forms": [
+        "align"
+      ],
+      "example": "When allowed to rotate freely, the spoon handle would align itself with a particular direction (north–south).",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "harmonise",
+      "headword": "harmonise",
+      "kind": "word",
+      "zh": "vi.vt. 以和声歌唱/演奏, (使)协调, (使)一致, (使)相称, (使)调和",
+      "en": "v go together\nv write a harmony for\nv sing or play in harmony\nv bring (several things) into consonance or relate harmoniously\nv bring into consonance or accord\nv bring into consonance, harmony, or accord while making music or singing",
+      "phonetic": "'hɑ:mәnaiz",
+      "forms": [
+        "harmonise"
+      ],
+      "example": "This was used to organise and harmonise environments, as part of a practice you might know as feng shui.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "attract",
+      "headword": "attract",
+      "kind": "word",
+      "zh": "vt. 吸引, 诱惑\nvi. 有吸引力",
+      "en": "v. direct toward itself or oneself by means of some psychological power or physical attributes\nv. be attractive to\nv. exert a force on (a body) causing it to approach or prevent it from moving away",
+      "phonetic": "ә'trækt",
+      "forms": [
+        "attract"
+      ],
+      "example": "At the time, it was known that some materials were naturally magnetic – able to attract one another.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "physicist",
+      "headword": "physicist",
+      "kind": "word",
+      "zh": "n. 物理学家, 机械唯物论者, 自然科学家\n[医] 菲西克氏手术(虹膜圆片切除)",
+      "en": "n. a scientist trained in physics",
+      "phonetic": "'fizisist",
+      "forms": [
+        "physicist"
+      ],
+      "example": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "deduced",
+      "headword": "deduce",
+      "kind": "word",
+      "zh": "vt. 推论, 演绎出\n[法] 推断, 推出, 演绎",
+      "en": "v. reason by deduction; establish by deduction\nv. conclude by reasoning; in logic",
+      "phonetic": "di'dju:s",
+      "forms": [
+        "deduced"
+      ],
+      "example": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "magnet",
+      "headword": "magnet",
+      "kind": "word",
+      "zh": "n. 磁铁, 有吸引力之人, 有吸引力之物\n[化] 磁体",
+      "en": "n. (physics) a device that attracts iron and produces a magnetic field",
+      "phonetic": "'mægnit",
+      "forms": [
+        "magnet",
+        "magnets"
+      ],
+      "example": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "invisible",
+      "headword": "invisible",
+      "kind": "word",
+      "zh": "a. 看不见的, 无形的\n[经] 无形的, 表面上看不见的, 未列在公开帐目的",
+      "en": "a. impossible or nearly impossible to see; imperceptible by the eye",
+      "phonetic": "in'vizәbl",
+      "forms": [
+        "invisible"
+      ],
+      "example": "Like all magnets, Earth generates a magnetic field – an invisible region within which its magnetic forces act.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "generates",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generates",
+        "generated"
+      ],
+      "example": "Like all magnets, Earth generates a magnetic field – an invisible region within which its magnetic forces act.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "magnetic field",
+      "headword": "magnetic field",
+      "kind": "phrase",
+      "zh": "磁场",
+      "en": "the region where magnetic forces act",
+      "forms": [
+        "magnetic field"
+      ],
+      "example": "Like all magnets, Earth generates a magnetic field – an invisible region within which its magnetic forces act.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v43",
+      "term": "electricity",
+      "headword": "electricity",
+      "kind": "word",
+      "zh": "n. 电, 电流, 电学, 热情, 电力供应\n[化] 电学; 电",
+      "en": "n. a physical phenomenon associated with stationary or moving electrons and protons\nn. energy made available by the flow of electric charge through a conductor\nn. keen and shared excitement",
+      "phonetic": ".ilek'trisiti",
+      "forms": [
+        "electricity"
+      ],
+      "example": "Electricity and magnetism are closely connected. Together, they form one of the fundamental interactions in physics: electromagnetism. Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "magnetism",
+      "headword": "magnetism",
+      "kind": "word",
+      "zh": "n. 磁性, 吸引力, 磁学, 催眠术\n[化] 磁学",
+      "en": "n. attraction for iron; associated with electric currents as well as magnets; characterized by fields of force\nn. the branch of science that studies magnetism",
+      "phonetic": "'mægnitizm",
+      "forms": [
+        "magnetism"
+      ],
+      "example": "Electricity and magnetism are closely connected. Together, they form one of the fundamental interactions in physics: electromagnetism. Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "closely",
+      "headword": "closely",
+      "kind": "word",
+      "zh": "adv. 接近地",
+      "en": "r. in a close relation or position in time or space\nr. in a close manner",
+      "phonetic": "'klәusli",
+      "forms": [
+        "closely"
+      ],
+      "example": "Electricity and magnetism are closely connected. Together, they form one of the fundamental interactions in physics: electromagnetism. Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "connected",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connected"
+      ],
+      "example": "Electricity and magnetism are closely connected. Together, they form one of the fundamental interactions in physics: electromagnetism. Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "fundamental",
+      "headword": "fundamental",
+      "kind": "word",
+      "zh": "n. 基本原理, 原则, 基波\na. 基本的, 重要的, 原音的",
+      "en": "n. any factor that could be considered important to the understanding of a particular business\nn. the lowest tone of a harmonic series\ns. being or involving basic facts or principles\ns. far-reaching and thoroughgoing in effect especially on the nature of something",
+      "phonetic": ".fʌndә'mentәl",
+      "forms": [
+        "fundamental"
+      ],
+      "example": "Together, they form one of the fundamental interactions in physics: electromagnetism.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "interactions",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interactions"
+      ],
+      "example": "Together, they form one of the fundamental interactions in physics: electromagnetism.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "electromagnetism",
+      "headword": "electromagnetism",
+      "kind": "word",
+      "zh": "n. 电磁, 电磁学\n[化] 电磁学",
+      "en": "n. magnetism produced by an electric current\nn. the branch of physics concerned with electromagnetic phenomena",
+      "phonetic": "ilektrәj'mæ^nitiz(ә)m",
+      "forms": [
+        "electromagnetism"
+      ],
+      "example": "Together, they form one of the fundamental interactions in physics: electromagnetism.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "electric",
+      "headword": "electric",
+      "kind": "word",
+      "zh": "a. 电的, 导电的, 电动的\n[医] 电的",
+      "en": "n. a car that is powered by electricity\na. using or providing or producing or transmitting or operated by electricity\ns. (of a situation) exceptionally tense\ns. affected by emotion as if by electricity; thrilling",
+      "phonetic": "i'lektik",
+      "forms": [
+        "electric"
+      ],
+      "example": "Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "particles",
+      "headword": "particle",
+      "kind": "word",
+      "zh": "n. 颗粒, 粒子, 质点, 极小量\n[化] 粒子; 质点",
+      "en": "n. a body having finite mass and internal structure but negligible dimensions\nn. a function word that can be used in English to form phrasal verbs",
+      "phonetic": "'pɑ:tikl",
+      "forms": [
+        "particles"
+      ],
+      "example": "Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "induce",
+      "headword": "induce",
+      "kind": "word",
+      "zh": "vt. 引诱, 招致, 归纳出, 感应\n[医] 诱导, 感应",
+      "en": "v. cause to arise\nv. cause to do; cause to act in a specified manner\nv. cause to occur rapidly\nv. reason or establish by induction",
+      "phonetic": "in'dju:s",
+      "forms": [
+        "induce"
+      ],
+      "example": "Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "electrical",
+      "headword": "electrical",
+      "kind": "word",
+      "zh": "a. 电的, 有关电的\n[医] 电的",
+      "en": "a. relating to or concerned with electricity",
+      "phonetic": "i'lektrikәl",
+      "forms": [
+        "electrical"
+      ],
+      "example": "Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "axis",
+      "headword": "axis",
+      "kind": "word",
+      "zh": "n. 轴\n[计] 坐标轴",
+      "en": "n. a straight line through a body or figure that satisfies certain conditions\nn. the main stem or central part about which plant organs or plant parts such as branches are arranged\nn. in World War II the alliance of Germany and Italy in 1936 which later included Japan and other nations\nn. the 2nd cervical vertebra; serves as a pivot for turning the head",
+      "phonetic": "'æksis",
+      "forms": [
+        "axis"
+      ],
+      "example": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "cycle",
+      "headword": "cycle",
+      "kind": "word",
+      "zh": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
+      "en": "n. an interval during which a recurring sequence of events occurs\nn. a series of poems or songs on the same theme\nn. a periodically repeated sequence of events\nn. a single complete execution of a periodically repeated phenomenon",
+      "phonetic": "'saikl",
+      "forms": [
+        "cycle"
+      ],
+      "example": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "North Pole",
+      "headword": "north pole",
+      "kind": "phrase",
+      "zh": "北极",
+      "en": "the northern end of Earth's axis or of a magnet",
+      "forms": [
+        "North Pole"
+      ],
+      "example": "The end points of this axis are the North Pole and the South Pole.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v59",
+      "term": "pole",
+      "headword": "Pole",
+      "kind": "word",
+      "zh": "n. 波兰人, 极点, 磁极, 电极, 杆, 竿, 相反的极端\nvt. 用竿支撑\nvi. 撑篙",
+      "en": "n. a long (usually round) rod of wood or metal or plastic\nn. a native or inhabitant of Poland\nn. one of two divergent or mutually exclusive opinions\nn. one of two points of intersection of the Earth's axis and the celestial sphere",
+      "phonetic": "pәul",
+      "forms": [
+        "pole",
+        "poles"
+      ],
+      "example": "The end points of this axis are the North Pole and the South Pole.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "beneath",
+      "headword": "beneath",
+      "kind": "word",
+      "zh": "prep. 在...下方\nadv. 在...下方",
+      "en": "r in or to a place that is lower",
+      "phonetic": "bi'ni:θ",
+      "forms": [
+        "beneath"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "outer",
+      "headword": "outer",
+      "kind": "word",
+      "zh": "a. 外部的, 外面的, 在外的, 远离中心的\n[机] 外部的, 外面的, 外侧的",
+      "en": "a. being on the outside or further from a center\ns. located outside\ns. being on or toward the outside of the body",
+      "phonetic": "'autә",
+      "forms": [
+        "outer"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "core",
+      "headword": "CORE",
+      "kind": "word",
+      "zh": "n. 核心, 果心, 要点\nvt. 挖...的核\n[计] 内核, 核心网",
+      "en": "n. a small group of indispensable persons or things\nn. the center of an object\nn. the central part of the Earth\nn. a cylindrical sample of soil or rock obtained with a hollow drill",
+      "phonetic": "kɒ:",
+      "forms": [
+        "core"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "electrically",
+      "headword": "electrically",
+      "kind": "word",
+      "zh": "adv. 电力地；有关电地",
+      "en": "r. by electricity",
+      "phonetic": "i'lektrikәli",
+      "forms": [
+        "electrically"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "metals",
+      "headword": "metal",
+      "kind": "word",
+      "zh": "n. 金属, 金属制品, 合金, 本质, 质料\na. 金属制的\nvt. 以金属覆盖",
+      "en": "v. cover with metal",
+      "phonetic": "'metәl",
+      "forms": [
+        "metals",
+        "metal"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "circulate",
+      "headword": "circulate",
+      "kind": "word",
+      "zh": "v. (使)流通, (使)循环, (使)传播",
+      "en": "v. cause to become widely known\nv. cause be distributed\nv. move through a space, circuit or system, returning to the starting point\nv. cause to move in a circuit or system",
+      "phonetic": "'sә:kjuleit",
+      "forms": [
+        "circulate"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "convective",
+      "headword": "convective",
+      "kind": "word",
+      "zh": "a. 传送性的, 对流的",
+      "en": "a. Caused or accomplished by convection; as, a convective\n   discharge of electricity.",
+      "phonetic": "kәn'vektiv",
+      "forms": [
+        "convective"
+      ],
+      "example": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "paired",
+      "headword": "pair",
+      "kind": "word",
+      "zh": "n. 一双, 一对, 一副\nv. (使)成对",
+      "en": "n. a set of two similar things considered as a unit\nn. two people considered as a unit\nn. a poker hand with 2 cards of the same value\nv. form a pair or pairs",
+      "phonetic": "pєә",
+      "forms": [
+        "paired"
+      ],
+      "example": "Paired with Earth’s rotation around its axis, these currents maintain a global-scale magnetic field.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "rotation",
+      "headword": "rotation",
+      "kind": "word",
+      "zh": "n. 旋转, 循环, 轮流\n[计] 旋转",
+      "en": "n. the act of rotating as if on an axis\nn. (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin\nn. a single complete turn (axial or orbital)",
+      "phonetic": "rәu'teiʃәn",
+      "forms": [
+        "rotation"
+      ],
+      "example": "Paired with Earth’s rotation around its axis, these currents maintain a global-scale magnetic field.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "extends",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extends"
+      ],
+      "example": "It extends out into space like a giant, invisible bubble, known as the magnetosphere.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "bubble",
+      "headword": "bubble",
+      "kind": "word",
+      "zh": "n. 泡沫\nvi. 冒泡, 沸腾\nvt. 使冒泡, 滔滔不绝地说",
+      "en": "n. a hollow globule of gas (e.g., air or carbon dioxide)\nn. an impracticable and illusory idea\nn. a dome-shaped covering made of transparent glass or plastic\nv. form, produce, or emit bubbles",
+      "phonetic": "'bʌbl",
+      "forms": [
+        "bubble"
+      ],
+      "example": "It extends out into space like a giant, invisible bubble, known as the magnetosphere.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "magnetosphere",
+      "headword": "magnetosphere",
+      "kind": "word",
+      "zh": "n. 磁层\n[电] 磁动层",
+      "en": "n. the magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field",
+      "phonetic": "mæg'ni:tәsfiә",
+      "forms": [
+        "magnetosphere"
+      ],
+      "example": "It extends out into space like a giant, invisible bubble, known as the magnetosphere.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "magnetised",
+      "headword": "magnetise",
+      "kind": "word",
+      "zh": "vt. 使磁化, 使有磁力, 使生磁性, 使醉迷, 吸引",
+      "en": "v attract strongly, as if with a magnet\nv make magnetic",
+      "phonetic": "'mæ^nitaiz",
+      "forms": [
+        "magnetised"
+      ],
+      "example": "In modern compasses, a magnetised metal needle has replaced the lodestone spoon.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "mounted",
+      "headword": "mount",
+      "kind": "word",
+      "zh": "n. 乘骑用马, 框, 衬纸, 山\nvi. 乘马, 爬上, 增长\nvt. 爬上, 使上马, 装上, 装裱, 安放, 制作...的标本, 设置, 上演\n[计] 安装",
+      "en": "n. a mounting consisting of a piece of metal (as in a ring or other jewelry) that holds a gem in place\nv. attach to a support\nv. fix onto a backing, setting, or support\nv. put up or launch",
+      "phonetic": "maunt",
+      "forms": [
+        "mounted"
+      ],
+      "example": "That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "pivot",
+      "headword": "pivot",
+      "kind": "word",
+      "zh": "n. 枢轴, 支点, 旋转运动, 中枢, 关键人物\na. 枢轴的, (如)在枢轴上转动的\nvi. 在枢轴上转动, 随着转移\nvt. 装枢轴于, 以...为中心旋转\n[计] 程序员交互验证和编制工具, 数据透视表",
+      "en": "n. the person in a rank around whom the others wheel and maneuver\nn. axis consisting of a short shaft that supports something that turns\nn. the act of turning on (or as if on) a pivot\nv. turn on a pivot",
+      "phonetic": "'pivәt",
+      "forms": [
+        "pivot"
+      ],
+      "example": "That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "minimal",
+      "headword": "minimal",
+      "kind": "word",
+      "zh": "a. 最小的, 极微的, 最小限度的\n[医] 最小的, 最低的",
+      "en": "a. the least possible",
+      "phonetic": "'miniml",
+      "forms": [
+        "minimal"
+      ],
+      "example": "That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "resistance",
+      "headword": "resistance",
+      "kind": "word",
+      "zh": "n. 抵抗力, 反抗, 耐力, 阻力, 电阻\n[化] 抵抗; 抗性; 阻力; 抗药性; 电阻",
+      "en": "n. the action of opposing something that you disapprove or disagree with\nn. any mechanical force that tends to retard or oppose motion\nn. the military action of resisting the enemy's advance\nn. the capacity of an organism to defend itself against harmful environmental agents",
+      "phonetic": "ri'zistәns",
+      "forms": [
+        "resistance"
+      ],
+      "example": "That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "external",
+      "headword": "external",
+      "kind": "word",
+      "zh": "n. 外部, 外面\na. 外部的, 客观的, 表面的",
+      "en": "n. outward features\na. happening or arising or located outside or beyond some limits or especially surface\ns. coming from the outside\ns. from or between other countries",
+      "phonetic": "ik'stә:nl",
+      "forms": [
+        "external"
+      ],
+      "example": "That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v80",
+      "term": "unless",
+      "headword": "unless",
+      "kind": "word",
+      "zh": "conj. 除非\nprep. 除...之外",
+      "en": "conj. Upon any less condition than (the fact or thing stated\n   in the sentence or clause which follows); if not; supposing that not;\n   if it be not; were it not that; except; as, we shall fail unless we are\n   industrious.",
+      "phonetic": ".ʌn'les",
+      "forms": [
+        "unless"
+      ],
+      "example": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "nearby",
+      "headword": "nearby",
+      "kind": "word",
+      "zh": "a. 附近的, 近旁的\nadv. 在附近, 近旁地\nprep. 在...附近",
+      "en": "s. close at hand\nr. not far away in relative terms",
+      "phonetic": "'niәbai",
+      "forms": [
+        "nearby"
+      ],
+      "example": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "magnetic north",
+      "headword": "magnetic north",
+      "kind": "phrase",
+      "zh": "磁北",
+      "en": "the northward direction indicated by Earth's magnetic field",
+      "forms": [
+        "magnetic north"
+      ],
+      "example": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v83",
+      "term": "perfectly",
+      "headword": "perfectly",
+      "kind": "word",
+      "zh": "adv. 完全地, 无瑕疵地, 完整地",
+      "en": "r. in a perfect or faultless way",
+      "phonetic": "'pә:fiktli",
+      "forms": [
+        "perfectly"
+      ],
+      "example": "If you’ve ever found that a compass needle didn’t perfectly align with north–south, it might be because it detected a localised magnetic field.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "detected",
+      "headword": "detect",
+      "kind": "word",
+      "zh": "vt. 发现, 察觉, 探测\n[法] 发现, 查明, 探测",
+      "en": "v. discover or determine the existence, presence, or fact of",
+      "phonetic": "di'tekt",
+      "forms": [
+        "detected"
+      ],
+      "example": "If you’ve ever found that a compass needle didn’t perfectly align with north–south, it might be because it detected a localised magnetic field.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "localised",
+      "headword": "localise",
+      "kind": "word",
+      "zh": "vt.vi. 使地方化, 使具有地方性, 使限制于局部, 确定起源, 集中, 局限",
+      "en": "v identify the location or place of\nv concentrate on a particular place or spot\nv restrict something to a particular area\nv locate",
+      "phonetic": "'lәjkәlaiz",
+      "forms": [
+        "localised"
+      ],
+      "example": "If you’ve ever found that a compass needle didn’t perfectly align with north–south, it might be because it detected a localised magnetic field.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "devices",
+      "headword": "device",
+      "kind": "word",
+      "zh": "n. 装置, 设计, 策略, 发明物, 设备\n[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
+      "en": "n. an instrumentality invented for a particular purpose\nn. something in an artistic work designed to achieve a particular effect\nn. any clever maneuver\nn. any ornamental pattern or design (as in embroidery)",
+      "phonetic": "di'vais",
+      "forms": [
+        "devices"
+      ],
+      "example": "Electrical devices such as your phone produce weak magnetic fields.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Electrical devices such as your phone produce weak magnetic fields.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v88",
+      "term": "weak",
+      "headword": "weak",
+      "kind": "word",
+      "zh": "a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的\n[经] 疲软的",
+      "en": "a. wanting in physical strength\ns. tending downward in price\ns. deficient or lacking in some skill\ns. (used of verbs) having standard (or regular) inflection",
+      "phonetic": "wi:k",
+      "forms": [
+        "weak"
+      ],
+      "example": "Electrical devices such as your phone produce weak magnetic fields.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "deviate",
+      "headword": "deviate",
+      "kind": "word",
+      "zh": "vi. 脱离, 偏离\nvt. 使偏离\na. 脱离常规的\nn. 脱离常规的人",
+      "en": "v. turn aside; turn away from\nv. be at variance with; be out of line with\nv. cause to turn away from a previous or expected course",
+      "phonetic": "'di:vieit",
+      "forms": [
+        "deviate"
+      ],
+      "example": "These can affect a compass, causing it to deviate from Earth’s magnetic field.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "opposite",
+      "headword": "opposite",
+      "kind": "word",
+      "zh": "a. 相对的, 相反的, 对面的\nprep. 对面\nn. 对立面",
+      "en": "s. being directly across from each other; facing\na. of leaves etc; growing in pairs on either side of a stem\ns. moving or facing away from each other\ns. the other one of a complementary pair",
+      "phonetic": "'ɒpәzit",
+      "forms": [
+        "opposite",
+        "opposites"
+      ],
+      "example": "All magnets have two opposite points – a “north” pole and a “south” pole.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "confusing",
+      "headword": "confuse",
+      "kind": "word",
+      "zh": "vt. 使混乱, 使狼狈, 使困惑\n[法] 混淆",
+      "en": "v. mistake one thing for another\nv. be confusing or perplexing to; cause to be unable to think clearly\nv. cause to feel embarrassment\nv. make unclear, indistinct, or blurred",
+      "phonetic": "kәn'fju:z",
+      "forms": [
+        "confusing"
+      ],
+      "example": "The next bit will seem a little confusing, but it’s key to understand why compasses point towards the geographic north.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "geographic",
+      "headword": "geographic",
+      "kind": "word",
+      "zh": "a. 地理(学)的, 地区(性)的",
+      "en": "a. of or relating to the science of geography\na. determined by geography",
+      "phonetic": ",dʒiә'^ræfik",
+      "forms": [
+        "geographic"
+      ],
+      "example": "The next bit will seem a little confusing, but it’s key to understand why compasses point towards the geographic north.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "arrow",
+      "headword": "arrow",
+      "kind": "word",
+      "zh": "n. 箭, 箭状物, 箭头记号",
+      "en": "n. a mark to indicate a direction or relation\nn. a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow",
+      "phonetic": "'ærәu",
+      "forms": [
+        "arrow"
+      ],
+      "example": "Because opposites attract, the “north” arrow on a compass points towards the “south” pole of Earth’s global-scale magnetic field – the area where field lines point down into Earth’s surface.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "polarity",
+      "headword": "polarity",
+      "kind": "word",
+      "zh": "n. 极性, 截然相反\n[医] 极性, 极性现象",
+      "en": "n. having an indicated pole (as the distinction between positive and negative electric charges)",
+      "phonetic": "pәu'læriti",
+      "forms": [
+        "polarity"
+      ],
+      "example": "Despite it having a magnetic polarity of “south”, we call this spot the north magnetic pole because it’s located close to the geographic North Pole in the Arctic.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "spot",
+      "headword": "spot",
+      "kind": "word",
+      "zh": "n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量\na. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的\nvt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射\nvi. 玷污, (从空中)侦察敌方目标",
+      "en": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment",
+      "phonetic": "spɒt",
+      "forms": [
+        "spot"
+      ],
+      "example": "Despite it having a magnetic polarity of “south”, we call this spot the north magnetic pole because it’s located close to the geographic North Pole in the Arctic.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "located",
+      "headword": "locate",
+      "kind": "word",
+      "zh": "vt. 找出, 设于, 位于\nvi. 定居",
+      "en": "v. discover the location of; determine the place of; find by searching or examining\nv. assign a location to",
+      "phonetic": "'lәukeit",
+      "forms": [
+        "located"
+      ],
+      "example": "Despite it having a magnetic polarity of “south”, we call this spot the north magnetic pole because it’s located close to the geographic North Pole in the Arctic.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "arctic",
+      "headword": "arctic",
+      "kind": "word",
+      "zh": "a. 北极的, 极寒的\nn. 北极圈, 北极",
+      "en": "n. the regions to the north of the Arctic Circle centered on the North Pole\nn. a waterproof overshoe that protects shoes from water or snow\ns. extremely cold",
+      "phonetic": "'ɑ:ktik",
+      "forms": [
+        "arctic"
+      ],
+      "example": "Despite it having a magnetic polarity of “south”, we call this spot the north magnetic pole because it’s located close to the geographic North Pole in the Arctic.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "antarctica",
+      "headword": "Antarctica",
+      "kind": "word",
+      "zh": "n. 南极洲",
+      "en": "n. an extremely cold continent at the south pole almost entirely below the Antarctic Circle; covered by an ice cap up to 13,000 feet deep",
+      "phonetic": "ænt'ɑ:ktikә",
+      "forms": [
+        "antarctica"
+      ],
+      "example": "Earth also has a magnetic south pole, and you guessed it – it’s located near the South Pole in Antarctica, while being the “north” counterpart of Earth’s magnetic field.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "counterpart",
+      "headword": "counterpart",
+      "kind": "word",
+      "zh": "n. 副本, 复本, 配对物, 相应物\n[经] 副本, 正副二份中之一",
+      "en": "n. a person or thing having the same function or characteristics as another\nn. a duplicate copy",
+      "phonetic": "'kauntәpɑ:t",
+      "forms": [
+        "counterpart"
+      ],
+      "example": "Earth also has a magnetic south pole, and you guessed it – it’s located near the South Pole in Antarctica, while being the “north” counterpart of Earth’s magnetic field.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "rotational",
+      "headword": "rotational",
+      "kind": "word",
+      "zh": "a. 转动的, 轮流的",
+      "en": "a. of or pertaining to rotation",
+      "phonetic": "rәu'teiʃәnәl",
+      "forms": [
+        "rotational"
+      ],
+      "example": "The magnetic poles don’t align perfectly with the poles of Earth’s rotational axis.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "dynamic",
+      "headword": "dynamic",
+      "kind": "word",
+      "zh": "a. 动态的, 有活力的, 有力的, 动力的, 不断变化的\nn. 动力, 动态\n[计] 动态的",
+      "en": "a. characterized by action or forcefulness or force of personality\na. of or relating to dynamics",
+      "phonetic": "dai'næmik",
+      "forms": [
+        "dynamic"
+      ],
+      "example": "The reason for this is that Earth’s magnetic field is dynamic.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "ever-changing",
+      "headword": "ever-changing",
+      "kind": "word",
+      "zh": "a. 千变万化的, 变幻无穷的, 日新月异的",
+      "en": "s marked by continuous change or effective action",
+      "phonetic": "'evərtʃ'eɪndʒɪŋ",
+      "forms": [
+        "ever-changing"
+      ],
+      "example": "The ever-changing motion of liquid metal in Earth’s outer core means the global magnetic field changes, too.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "motion",
+      "headword": "motion",
+      "kind": "word",
+      "zh": "n. 移动, 手势, 动作, 意向, 请求, 提议\nv. 打手势",
+      "en": "n. a change of position that does not entail a change of location\nn. a state of change\nn. a formal proposal for action made to a deliberative assembly for discussion and vote\nn. the act of changing location from one place to another",
+      "phonetic": "'mәuʃәn",
+      "forms": [
+        "motion"
+      ],
+      "example": "The ever-changing motion of liquid metal in Earth’s outer core means the global magnetic field changes, too.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "In fact",
+      "headword": "in fact",
+      "kind": "phrase",
+      "zh": "事实上",
+      "en": "used to emphasise what is actually true",
+      "forms": [
+        "In fact"
+      ],
+      "example": "In fact, the magnetic north and south poles slowly change their locations, and the entire magnetic field has even flipped its polarity in the past, making the two switch places.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v105",
+      "term": "slowly",
+      "headword": "slowly",
+      "kind": "word",
+      "zh": "adv. 慢慢地, 迟缓地",
+      "en": "r. without speed (`slow' is sometimes used informally for `slowly')",
+      "phonetic": "'slәuli",
+      "forms": [
+        "slowly"
+      ],
+      "example": "In fact, the magnetic north and south poles slowly change their locations, and the entire magnetic field has even flipped its polarity in the past, making the two switch places.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations"
+      ],
+      "example": "In fact, the magnetic north and south poles slowly change their locations, and the entire magnetic field has even flipped its polarity in the past, making the two switch places.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "flipped",
+      "headword": "flip",
+      "kind": "word",
+      "zh": "vt. 掷, 弹, 轻击, 空翻\nvi. 用指轻弹, 抽打, 蹦跳\nn. 抛, 弹, 筋斗\na. 无礼的\n[计] 翻转",
+      "en": "n. hot or cold alcoholic mixed drink containing a beaten egg\nn. a sudden, quick movement\nn. the act of flipping a coin\nn. a dive in which the diver somersaults before entering the water",
+      "phonetic": "flip",
+      "forms": [
+        "flipped"
+      ],
+      "example": "In fact, the magnetic north and south poles slowly change their locations, and the entire magnetic field has even flipped its polarity in the past, making the two switch places.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "switch",
+      "headword": "switch",
+      "kind": "word",
+      "zh": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔\nvt. 转变, 切换, 摆动, 转换, 使转轨\nvi. 转换, 变换, 摆动\n[计] 开关; 翻转; 转移",
+      "en": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit\nn. hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure\nn. railroad track having two movable rails and necessary connections; used to turn a train from one track to another or to store rolling stock\nn. a flexible implement used as an instrument of punishment",
+      "phonetic": "switʃ",
+      "forms": [
+        "switch"
+      ],
+      "example": "In fact, the magnetic north and south poles slowly change their locations, and the entire magnetic field has even flipped its polarity in the past, making the two switch places.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "protective",
+      "headword": "protective",
+      "kind": "word",
+      "zh": "a. 给予保护的, 保护的\n[医] 保护的, 防护的, 保护剂, 保护物, 油绸",
+      "en": "a. intended or adapted to afford protection of some kind\ns. showing care\ns. (usually followed by `of') solicitously caring or mindful",
+      "phonetic": "prә'tektiv",
+      "forms": [
+        "protective"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "barrier",
+      "headword": "barrier",
+      "kind": "word",
+      "zh": "n. 障碍, 栅栏\n[化] 势垒; 阻片; 阻挡层",
+      "en": "n. a structure or object that impedes free movement\nn. any condition that makes it difficult to make progress or to achieve an objective\nn. anything serving to maintain separation by obstructing vision or access",
+      "phonetic": "'bæriә",
+      "forms": [
+        "barrier"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "constant",
+      "headword": "constant",
+      "kind": "word",
+      "zh": "n. 常数, 恒量\na. 不变的, 一定的, 时常的\n[计] 常量; 常数; 恒值",
+      "en": "n. a quantity that does not vary\nn. a number representing a quantity assumed to have a fixed value in a specified mathematical context\na. steadfast in purpose or devotion or affection",
+      "phonetic": "'kɒnstәnt",
+      "forms": [
+        "constant"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "stream",
+      "headword": "stream",
+      "kind": "word",
+      "zh": "n. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流",
+      "en": "n. a natural body of running water flowing on or under the earth\nn. dominant course (suggestive of running water) of successive events or ideas\nn. something that resembles a flowing stream in moving continuously\nv. to extend, wave or float outward, as if in the wind",
+      "phonetic": "stri:m",
+      "forms": [
+        "stream"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "coming",
+      "headword": "coming",
+      "kind": "word",
+      "zh": "n. 来临\na. 就要来的, 接着的",
+      "en": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future",
+      "phonetic": "'kʌmiŋ",
+      "forms": [
+        "coming"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "solar",
+      "headword": "solar",
+      "kind": "word",
+      "zh": "a. 太阳的, 日光的, 源自太阳的\n[医] 太阳的; 腹腔丛的",
+      "en": "a. relating to or derived from the sun or utilizing the energies of the sun",
+      "phonetic": "'sәulә",
+      "forms": [
+        "solar"
+      ],
+      "example": "Earth’s magnetic field also acts as a protective barrier from space weather generated by our Sun: there’s a constant stream of charged particles coming our way, known as solar wind.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "shield",
+      "headword": "shield",
+      "kind": "word",
+      "zh": "n. 盾, 防卫物, 保护者, 屏蔽\nvt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开\nvi. 起保护作用",
+      "en": "n. a protective covering or structure\nn. armor carried on the arm to intercept blows\nv. protect, hide, or conceal from danger or harm",
+      "phonetic": "'ʃi:ld",
+      "forms": [
+        "shield"
+      ],
+      "example": "The global magnetic field helps to shield Earth and our atmosphere.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "atmosphere",
+      "headword": "atmosphere",
+      "kind": "word",
+      "zh": "n. 大气, 空气, 气氛\n[医] 大气; 大气压",
+      "en": "n. a particular environment or surrounding influence\nn. the mass of air surrounding the Earth\nn. the weather or climate at some place\nn. the envelope of gases surrounding any celestial body",
+      "phonetic": "'ætmәsfiә",
+      "forms": [
+        "atmosphere"
+      ],
+      "example": "The global magnetic field helps to shield Earth and our atmosphere.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "mars",
+      "headword": "mar",
+      "kind": "word",
+      "zh": "vt. 损毁, 损伤, 糟蹋\nn. 三月",
+      "en": "v. make imperfect",
+      "phonetic": "mɑ:",
+      "forms": [
+        "mars"
+      ],
+      "example": "Mars, by contrast, no longer has a strong global-scale magnetic field to act as a protective shield.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "by contrast",
+      "headword": "by contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to highlight a difference",
+      "forms": [
+        "by contrast"
+      ],
+      "example": "Mars, by contrast, no longer has a strong global-scale magnetic field to act as a protective shield.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v119",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "Mars, by contrast, no longer has a strong global-scale magnetic field to act as a protective shield.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "contributed",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contributed"
+      ],
+      "example": "Interactions with solar wind have, over time, contributed to the loss of much of Mars’ atmosphere.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      2,
+      15
+    ],
+    "wordBank": [
+      "magnetosphere",
+      "roughly",
+      "magnetic",
+      "physics",
+      "unless",
+      "convective",
+      "deduced",
+      "interactions",
+      "weather",
+      "attract"
+    ],
+    "parts": [
+      {
+        "text": "Even in today’s high-tech world, compasses are useful navigation tools. A compass works without power, unlike GPS, and in any "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " and lighting conditions, as opposed to navigation using the Sun, stars or landmarks. If you know which way north is, you can determine any direction.\n\nLike all cool phenomena, the explanation of how a compass works is not magic – it’s "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ". And people have been making use of this particular aspect of physics for more than 2,000 years.\n\nA lodestone spoon\n\nThe earliest versions of the compass were developed in ancient China. They were spoon-shaped and made of lodestones, pieces of the naturally "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " mineral magnetite.\n\nWhen allowed to rotate freely, the spoon handle would align itself with a particular direction (north–south). This was used to organise and harmonise environments, as part of a practice you might know as feng shui.\n\nAt the time, it was known that some materials were naturally magnetic – able to "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " one another. However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " that Earth itself acted as a giant magnet.\n\nAn invisible field\n\nLike all magnets, Earth generates a magnetic field – an invisible region within which its magnetic forces act.\n\nElectricity and magnetism are closely connected. Together, they form one of the fundamental "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " in physics: electromagnetism. Magnetic fields can be created by electric currents, which are the movements of charged particles; a changing magnetic field can also induce an electrical current.\n\nOur planet spins around an axis once "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " every 24 hours, which is why we have a night and day cycle. The end points of this axis are the North Pole and the South Pole.\n\nBeneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " currents. This movement generates electrical currents. Paired with Earth’s rotation around its axis, these currents maintain a global-scale magnetic field. It extends out into space like a giant, invisible bubble, known as the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ".\n\nAnd it’s this global-scale magnetic field that allows a compass to work.\n\nIn modern compasses, a magnetised metal needle has replaced the lodestone spoon. That needle is mounted on a low-friction pivot so it has minimal resistance to the effects of external magnetic fields.\n\nAs a result, "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "weather",
+        "vocabularyId": "v14",
+        "explanation": "原文此处使用 weather（weather）。结合上下文辨认词义与词形。",
+        "evidence": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "physics",
+        "vocabularyId": "v20",
+        "explanation": "原文此处使用 physics（physics）。结合上下文辨认词义与词形。",
+        "evidence": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
+        "paragraph": 3
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "magnetic",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 magnetic（magnetic）。结合上下文辨认词义与词形。",
+        "evidence": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+        "paragraph": 5
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "attract",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 attract（attract）。结合上下文辨认词义与词形。",
+        "evidence": "At the time, it was known that some materials were naturally magnetic – able to attract one another.",
+        "paragraph": 7
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "deduced",
+        "vocabularyId": "v37",
+        "explanation": "原文此处使用 deduced（deduce）。结合上下文辨认词义与词形。",
+        "evidence": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
+        "paragraph": 7
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "interactions",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 interactions（interaction）。结合上下文辨认词义与词形。",
+        "evidence": "Together, they form one of the fundamental interactions in physics: electromagnetism.",
+        "paragraph": 10
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "roughly",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 roughly（roughly）。结合上下文辨认词义与词形。",
+        "evidence": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "convective",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 convective（convective）。结合上下文辨认词义与词形。",
+        "evidence": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "magnetosphere",
+        "vocabularyId": "v72",
+        "explanation": "原文此处使用 magnetosphere（magnetosphere）。结合上下文辨认词义与词形。",
+        "evidence": "It extends out into space like a giant, invisible bubble, known as the magnetosphere.",
+        "paragraph": 12
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "unless",
+        "vocabularyId": "v80",
+        "explanation": "原文此处使用 unless（unless）。结合上下文辨认词义与词形。",
+        "evidence": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
+        "paragraph": 15
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Antarctic microorganisms reveal a rich but often overlooked dimension of biodiversity.",
+          "An ancient Arabian lakeshore provides evidence of human life in a landscape once much greener than today.",
+          "A new CERN experiment could deepen understanding of the electron and fundamental physics.",
+          "A compass works by aligning a magnetised needle with Earth's magnetic field."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Because opposites attract, the “north” arrow on a compass points towards the “south” pole of Earth’s global-scale magnetic field – the area where field lines point down into Earth’s surface.",
+        "paragraph": 20
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What property made lodestone useful in early compasses?",
+        "options": [
+          "It remains perfectly weightless.",
+          "It is naturally magnetic.",
+          "It produces its own light.",
+          "It dissolves in cold water."
+        ],
+        "answer": 1,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
+          "Like all magnets, Earth generates a magnetic field – an invisible region within which its magnetic forces act.",
+          "At the time, it was known that some materials were naturally magnetic – able to attract one another.",
+          "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle."
+        ],
+        "answer": 3,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“If you have two magnets, opposite poles (north–south) will pull towards each other, while the same poles (south–south or north–north) will push away.”",
+        "options": [
+          "Paragraph 26",
+          "Paragraph 18",
+          "Paragraph 19",
+          "Paragraph 5"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "If you have two magnets, opposite poles (north–south) will pull towards each other, while the same poles (south–south or north–north) will push away.",
+        "paragraph": 18
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The ever-changing motion of liquid metal in Earth’s outer core means the global magnetic field changes, too.”",
+        "options": [
+          "Paragraph 23",
+          "Paragraph 6",
+          "Paragraph 10",
+          "Paragraph 21"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 23 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The ever-changing motion of liquid metal in Earth’s outer core means the global magnetic field changes, too.",
+        "paragraph": 23
+      }
+    ]
+  },
+  "revision": "19b6d0f784fd535b75d1a1be4b3821bab0bf0b4ba8acbb35a77debd5dd1a666f"
+}

@@ -1,0 +1,2182 @@
+{
+  "schemaVersion": 1,
+  "folder": "054",
+  "articleSha256": "c8720154e9e220db3cfb864a27997960333bd4876eb3cf8e067dc48315df7935",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "bulk",
+      "headword": "bulk",
+      "kind": "word",
+      "zh": "n. 大小, 体积, 大块, 大多数\nvt. 显得大, 显得重要",
+      "en": "n. the property of something that is great in magnitude\nn. the property possessed by a large mass\nv. stick out or up",
+      "phonetic": "bʌlk",
+      "forms": [
+        "bulk"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "freezing",
+      "headword": "freeze",
+      "kind": "word",
+      "zh": "vi. 冻结, 冷冻, 僵硬, 楞住\nvt. 使结冰, 使冻住, 使呆住\nn. 结冰, 凝固\n[计] 冻结",
+      "en": "n. the withdrawal of heat to change something from a liquid to a solid\nn. weather cold enough to cause freezing\nn. an interruption or temporary suspension of progress or movement\nn. fixing (of prices or wages etc) at a particular level",
+      "phonetic": "fri:z",
+      "forms": [
+        "freezing",
+        "freeze",
+        "frozen",
+        "freezes"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "leftovers",
+      "headword": "leftover",
+      "kind": "word",
+      "zh": "n. 剩货, 残留物, 剩饭\na. 残余的",
+      "en": "n. a small part or portion that remains after the main part no longer exists\ns. not used up",
+      "phonetic": "'leftәuvә",
+      "forms": [
+        "leftovers"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "waste",
+      "headword": "waste",
+      "kind": "word",
+      "zh": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\na. 废弃的, 荒芜的, 多余的\nvt. 浪费, 消耗, 使荒芜\nvi. 浪费, 消耗, 变消瘦",
+      "en": "n. any materials unused and rejected as worthless or unwanted\nn. useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\nn. (law) reduction in the value of an estate caused by act or neglect\nv. spend thoughtlessly; throw away",
+      "phonetic": "weist",
+      "forms": [
+        "waste"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "convenient",
+      "headword": "convenient",
+      "kind": "word",
+      "zh": "a. 方便的, 合宜的\n[法] 适当的, 合理而可行的, 方便的",
+      "en": "a. suited to your comfort or purpose or needs",
+      "phonetic": "kәn'vi:njәnt",
+      "forms": [
+        "convenient"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "weeknight",
+      "headword": "weeknight",
+      "kind": "word",
+      "zh": "n. 周日夜晚(指周末休息日以外的每个夜晚)",
+      "en": "n. any night of the week except Saturday or Sunday",
+      "phonetic": "'wi:knait",
+      "forms": [
+        "weeknight"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "meals",
+      "headword": "meal",
+      "kind": "word",
+      "zh": "n. 一餐, 膳食, 粗粉\nvi. 进餐",
+      "en": "n. the food served and eaten at one time\nn. any of the occasions for eating food that occur by custom or habit at more or less fixed times\nn. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
+      "phonetic": "mi:l",
+      "forms": [
+        "meals"
+      ],
+      "example": "Bulk cooking and freezing your leftovers can be a great way to save money – while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "foods",
+      "headword": "food",
+      "kind": "word",
+      "zh": "n. 食物, 养料\n[医] 食物, 食品",
+      "en": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking",
+      "phonetic": "fu:d",
+      "forms": [
+        "foods"
+      ],
+      "example": "But which foods freeze and thaw well, and which end up a soggy mess?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "thaw",
+      "headword": "thaw",
+      "kind": "word",
+      "zh": "n. 融解, 融化, 解冻时期\nvt. 使融解, 使缓和\nvi. 融化, 解冻",
+      "en": "n. the process whereby heat changes something from a solid to a liquid\nn. warm weather following a freeze; snow and ice melt\nn. a relaxation or slackening of tensions or reserve; becoming less hostile",
+      "phonetic": "θɒ:",
+      "forms": [
+        "thaw",
+        "thawed",
+        "thawing"
+      ],
+      "example": "But which foods freeze and thaw well, and which end up a soggy mess?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "end up",
+      "headword": "end up",
+      "kind": "phrase",
+      "zh": "最终处于",
+      "en": "to reach a situation as an eventual result",
+      "forms": [
+        "end up"
+      ],
+      "example": "But which foods freeze and thaw well, and which end up a soggy mess?",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v11",
+      "term": "soggy",
+      "headword": "soggy",
+      "kind": "word",
+      "zh": "a. 浸水的, 沉闷的\n[化] 欠硫; 硫化不足",
+      "en": "s (of soil) soft and watery\ns having the consistency of dough because of insufficient leavening or improper cooking; it's a doughy mess\"\ns slow and apathetic",
+      "phonetic": "'sɒgi",
+      "forms": [
+        "soggy"
+      ],
+      "example": "But which foods freeze and thaw well, and which end up a soggy mess?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "mess",
+      "headword": "mess",
+      "kind": "word",
+      "zh": "n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境\nvt. 将...弄糟, 妨碍, 使紊乱, 使就餐\nvi. 陷入困境, 搞乱, 用膳",
+      "en": "n. a state of confusion and disorderliness\nn. soft semiliquid food\nn. a meal eaten in a mess hall by service personnel\nn. a (large) military dining room where service personnel eat or relax",
+      "phonetic": "mes",
+      "forms": [
+        "mess"
+      ],
+      "example": "But which foods freeze and thaw well, and which end up a soggy mess?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "thumb",
+      "headword": "thumb",
+      "kind": "word",
+      "zh": "n. 拇指\nvt. 以拇指拨弄, 笨拙地摆弄, 用拇指翻旧, 迅速翻阅, 作搭车手势",
+      "en": "n. the thick short innermost digit of the forelimb\nn. the part of a glove that provides a covering for the thumb",
+      "phonetic": "θʌm",
+      "forms": [
+        "thumb"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "rely",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "rely"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "rely on",
+      "headword": "rely on",
+      "kind": "phrase",
+      "zh": "依靠；依赖",
+      "en": "to depend on",
+      "forms": [
+        "rely on"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v16",
+      "term": "crisp",
+      "headword": "crisp",
+      "kind": "word",
+      "zh": "a. 脆的, 新鲜的, 活泼的\nv. (使)烘脆, (使)拳曲, (使)起皱\nn. 松脆物",
+      "en": "s. (of something seen or heard) clearly defined\ns. tender and brittle\ns. pleasantly cold and invigorating\ns. pleasingly firm and fresh",
+      "phonetic": "krisp",
+      "forms": [
+        "crisp"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "texture",
+      "headword": "texture",
+      "kind": "word",
+      "zh": "n. (织物的)密度, (材料等的)结构, 纹理\n[化] 纹理",
+      "en": "n. the feel of a surface or a fabric\nn. the essential quality of something\nn. the musical pattern created by parts being played or sung together\nn. the characteristic appearance of a surface having a tactile quality",
+      "phonetic": "'tekstʃә",
+      "forms": [
+        "texture"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "poorly",
+      "headword": "poorly",
+      "kind": "word",
+      "zh": "adv. 贫穷地, 不充分地, 贫乏地\na. 身体不舒服的",
+      "en": "s somewhat ill or prone to illness\nr (`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well",
+      "phonetic": "'puәli",
+      "forms": [
+        "poorly"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "cucumber",
+      "headword": "cucumber",
+      "kind": "word",
+      "zh": "n. 黄瓜\n[医] 黄瓜, 胡瓜",
+      "en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit\nn. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
+      "phonetic": "'kju:kәmbә",
+      "forms": [
+        "cucumber",
+        "cucumbers"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "soft",
+      "headword": "soft",
+      "kind": "word",
+      "zh": "a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的\nn. 柔软的东西, 笨人, 纸币\nadv. 柔软地, 温和地",
+      "en": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)",
+      "phonetic": "sɒft",
+      "forms": [
+        "soft"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "explore",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explore"
+      ],
+      "example": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well. Let’s explore why.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "survive",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "survive"
+      ],
+      "example": "Which foods won’t survive the freezer?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "freezer",
+      "headword": "freezer",
+      "kind": "word",
+      "zh": "n. 冰库, 冰箱, 冷冻库",
+      "en": "n electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time",
+      "phonetic": "fri:zә",
+      "forms": [
+        "freezer"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "ice crystals",
+      "headword": "ice crystals",
+      "kind": "phrase",
+      "zh": "冰晶",
+      "en": "crystalline structures formed when water freezes",
+      "forms": [
+        "ice crystals"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v26",
+      "term": "crystals",
+      "headword": "crystal",
+      "kind": "word",
+      "zh": "n. 水晶, 水晶装饰品, 结晶\na. 水晶的, 水晶一样的, 透明的",
+      "en": "n. a solid formed by the solidification of a chemical and having a highly regular atomic structure\nn. a crystalline element used as a component in various electronic devices\nn. a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces\nn. glassware made of quartz",
+      "phonetic": "'kristl",
+      "forms": [
+        "crystals"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage",
+        "damaged"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v29",
+      "term": "berries",
+      "headword": "berry",
+      "kind": "word",
+      "zh": "n. 浆果\nvi. 采集浆果",
+      "en": "n. any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves\nn. a small fruit having any of various structures, e.g., simple (grape or blueberry) or aggregate (blackberry or raspberry)\nn. United States rock singer (born in 1931)\nv. pick or gather berries",
+      "phonetic": "'beri",
+      "forms": [
+        "berries"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "lettuce",
+      "headword": "lettuce",
+      "kind": "word",
+      "zh": "n. 莴苣, 生菜, 纸币\n[医] 莴苣",
+      "en": "n. any of various plants of the genus Lactuca\nn. leaves of any of various plants of Lactuca sativa",
+      "phonetic": "'letis",
+      "forms": [
+        "lettuce"
+      ],
+      "example": "During freezing, ice crystals can damage these cells, particularly in foods that rely on them for their crisp texture, such as berries, cucumbers and lettuce.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "moisture",
+      "headword": "moisture",
+      "kind": "word",
+      "zh": "n. 湿气, 水分, 降雨\n[化] 含水量; 含湿量",
+      "en": "n. wetness caused by water",
+      "phonetic": "'mɒistʃә",
+      "forms": [
+        "moisture"
+      ],
+      "example": "When thawed, moisture leaks from the damaged cells, resulting in a soggy texture.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "leaks",
+      "headword": "leak",
+      "kind": "word",
+      "zh": "n. 漏洞, 漏处, 漏出, 泄漏\nvi. 漏, 泄漏\nvt. 使渗漏",
+      "en": "n. an accidental hole that allows something (fluid or light etc.) to enter or escape\nn. soft watery rot in fruits and vegetables caused by fungi\nn. a euphemism for urination\nn. unauthorized (especially deliberate) disclosure of confidential information",
+      "phonetic": "li:k",
+      "forms": [
+        "leaks"
+      ],
+      "example": "When thawed, moisture leaks from the damaged cells, resulting in a soggy texture.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "commercially",
+      "headword": "commercially",
+      "kind": "word",
+      "zh": "adv. 商业上；通商上",
+      "en": "r. in a commercial manner",
+      "phonetic": "",
+      "forms": [
+        "commercially"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "fruits",
+      "headword": "fruit",
+      "kind": "word",
+      "zh": "n. 水果, 果类, 结果\n[医] 果实, 种实",
+      "en": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit",
+      "phonetic": "fru:t",
+      "forms": [
+        "fruits"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "vegetables",
+      "headword": "vegetable",
+      "kind": "word",
+      "zh": "n. 蔬菜, 植物, 无精打采之人\na. 蔬菜的, 植物的",
+      "en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
+      "phonetic": "'vedʒәtәbl",
+      "forms": [
+        "vegetables"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "retain",
+      "headword": "retain",
+      "kind": "word",
+      "zh": "vt. 保持, 保有, 留住, 记得, 付定金聘请\n[经] 保留, 留存",
+      "en": "v. hold back within\nv. allow to remain in a place or position or maintain a property or feature\nv. secure and keep for possible future use or application\nv. keep in one's mind",
+      "phonetic": "ri'tein",
+      "forms": [
+        "retain",
+        "retains"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "industrial",
+      "headword": "industrial",
+      "kind": "word",
+      "zh": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
+      "en": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear",
+      "phonetic": "in'dʌstriәl",
+      "forms": [
+        "industrial"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "rapidly",
+      "headword": "rapidly",
+      "kind": "word",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
+      "en": "r with rapid movements",
+      "phonetic": "'ræpidli",
+      "forms": [
+        "rapidly"
+      ],
+      "example": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "dairy",
+      "headword": "dairy",
+      "kind": "word",
+      "zh": "n. 牛奶公司, 乳品店, 乳牛场",
+      "en": "n. a farm where dairy products are produced",
+      "phonetic": "'dєәri",
+      "forms": [
+        "dairy"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "milk",
+      "headword": "milk",
+      "kind": "word",
+      "zh": "n. 奶, 乳状物\nvt. 挤乳, 榨取\nvi. 产乳",
+      "en": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids",
+      "phonetic": "milk",
+      "forms": [
+        "milk"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "mayonnaise",
+      "headword": "mayonnaise",
+      "kind": "word",
+      "zh": "n. 蛋黄酱",
+      "en": "n. egg yolks and oil and vinegar",
+      "phonetic": "meiә'neiz",
+      "forms": [
+        "mayonnaise"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "cream",
+      "headword": "cream",
+      "kind": "word",
+      "zh": "n. 乳酪, 奶油, 面霜\n[医] 乳油, 乳皮; 乳膏, 霜",
+      "en": "n. the best people or things in a group\nn. the part of milk containing the butterfat\nn. toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin\nv. make creamy by beating",
+      "phonetic": "kri:m",
+      "forms": [
+        "cream"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "taste",
+      "headword": "taste",
+      "kind": "word",
+      "zh": "n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量\nvt. 尝, 察觉...的味道, 体会\nvi. 品尝, 察觉味道, 有某种味道",
+      "en": "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus\nn. delicate discrimination (especially of aesthetic values)\nn. a brief experience of something\nn. a small amount eaten or drunk",
+      "phonetic": "teist",
+      "forms": [
+        "taste"
+      ],
+      "example": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "problematic",
+      "headword": "problematic",
+      "kind": "word",
+      "zh": "a. 成问题的, 未定的, 疑难的, 有疑问的, 盖然性的, 或然性的",
+      "en": "s open to doubt or debate\ns making great mental demands; hard to comprehend or solve or believe",
+      "phonetic": "prɔblә'mætik",
+      "forms": [
+        "problematic"
+      ],
+      "example": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "emulsion",
+      "headword": "emulsion",
+      "kind": "word",
+      "zh": "n. 乳状液, 乳剂\n[化] 乳化作用; 乳剂; 乳液; 乳状液; 乳浊液",
+      "en": "n. (chemistry) a colloid in which both phases are liquids\nn. a light-sensitive coating on paper or film; consists of fine grains of silver bromide suspended in a gelatin",
+      "phonetic": "i'mʌʃәn",
+      "forms": [
+        "emulsion"
+      ],
+      "example": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "mixture",
+      "headword": "mixture",
+      "kind": "word",
+      "zh": "n. 混合, 混淆, 混合物\n[化] 混合物",
+      "en": "n. (chemistry) a substance consisting of two or more substances mixed together (not in fixed proportions and not with chemical bonding)",
+      "phonetic": "'mikstʃә",
+      "forms": [
+        "mixture"
+      ],
+      "example": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "ingredients",
+      "headword": "ingredient",
+      "kind": "word",
+      "zh": "n. 成分, 因素\n[化] 配合剂; 拼料; 成分; 组分",
+      "en": "n. a component of a mixture or compound\nn. food that is a component of a mixture in cooking",
+      "phonetic": "in'gri:diәnt",
+      "forms": [
+        "ingredients"
+      ],
+      "example": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "yolk",
+      "headword": "yolk",
+      "kind": "word",
+      "zh": "n. 蛋黄, 卵黄\n[医] 卵黄, 羊毛脂",
+      "en": "n. nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)",
+      "phonetic": "jәuk",
+      "forms": [
+        "yolk"
+      ],
+      "example": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "disrupt",
+      "headword": "disrupt",
+      "kind": "word",
+      "zh": "a. 分裂的, 中断的\nvt. 使分裂, 使瓦解",
+      "en": "v. throw into disorder",
+      "phonetic": "dis'rʌpt",
+      "forms": [
+        "disrupt"
+      ],
+      "example": "Ice crystals can disrupt this emulsion, causing the mixture to separate during thawing.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "intact",
+      "headword": "intact",
+      "kind": "word",
+      "zh": "a. 尚未被人碰过的, 原封不动的, 完整的\n[医] 完整的, 无伤的",
+      "en": "s. (of a woman) having the hymen unbroken\ns. undamaged in any way",
+      "phonetic": "in'tækt",
+      "forms": [
+        "intact"
+      ],
+      "example": "Foods that don’t rely on intact cells generally freeze well.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "Foods that don’t rely on intact cells generally freeze well.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "rice",
+      "headword": "rice",
+      "kind": "word",
+      "zh": "n. 米, 米饭, 稻\nvt. 将...压成米粒状",
+      "en": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)",
+      "phonetic": "rais",
+      "forms": [
+        "rice"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "pasta",
+      "headword": "pasta",
+      "kind": "word",
+      "zh": "n. 意大利面食\n[医] 糊剂, 泥膏剂",
+      "en": "n. a dish that contains pasta as its main ingredient\nn. shaped and dried dough made from flour and water and sometimes egg",
+      "phonetic": "'pæstә",
+      "forms": [
+        "pasta"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "bread",
+      "headword": "bread",
+      "kind": "word",
+      "zh": "n. 面包, 生计, 食物\nvt. 裹以面包屑",
+      "en": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs",
+      "phonetic": "bred",
+      "forms": [
+        "bread"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "soups",
+      "headword": "soup",
+      "kind": "word",
+      "zh": "n. 汤, 马力\nvt. 加速, 增加马力",
+      "en": "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food\nn. any composition having a consistency suggestive of soup\nn. an unfortunate situation\nv. dope (a racehorse)",
+      "phonetic": "su:p",
+      "forms": [
+        "soups"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "sauces",
+      "headword": "sauce",
+      "kind": "word",
+      "zh": "n. 酱油, 调味汁, 酱\nvt. 给...调味, 使增加趣味",
+      "en": "n. flavorful relish or dressing or topping served as an accompaniment to food\nv. behave saucily or impudently towards\nv. dress (food) with a relish\nv. add zest or flavor to, make more interesting",
+      "phonetic": "sɒ:s",
+      "forms": [
+        "sauces",
+        "sauce"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "stews",
+      "headword": "stew",
+      "kind": "word",
+      "zh": "n. 炖, 烦恼, 热浴, 妓院, 鱼塘\nvi. 炖, 焖, 忧虑\nvt. 炖, 焖, 使焦虑",
+      "en": "n. food prepared by stewing especially meat or fish with vegetables\nv. bear a grudge; harbor ill feelings\nv. cook slowly and for a long time in liquid",
+      "phonetic": "stju:",
+      "forms": [
+        "stews"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "cookie",
+      "headword": "cookie",
+      "kind": "word",
+      "zh": "n. 饼干, 小甜点\n[建] 糕点",
+      "en": "n. any of various small flat sweet cakes (`biscuit' is the British term)\nn. the cook on a ranch or at a camp\nn. a short line of text that a web site puts on your computer's hard drive when you access the web site",
+      "phonetic": "'kuki",
+      "forms": [
+        "cookie"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "dough",
+      "headword": "dough",
+      "kind": "word",
+      "zh": "n. 生面团\n[化] 捏塑体; 生面团",
+      "en": "n. a flour mixture stiff enough to knead or roll",
+      "phonetic": "dәu",
+      "forms": [
+        "dough"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "pastry",
+      "headword": "pastry",
+      "kind": "word",
+      "zh": "n. 油酥点心, 面粉糕饼",
+      "en": "n. a dough of flour and water and shortening\nn. any of various baked foods made of dough or batter",
+      "phonetic": "'peistri",
+      "forms": [
+        "pastry"
+      ],
+      "example": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "meat",
+      "headword": "meat",
+      "kind": "word",
+      "zh": "n. 肉, 餐, 食物\n[经] 肉类",
+      "en": "n. the flesh of animals (including fishes and birds and snails) used as food",
+      "phonetic": "mi:t",
+      "forms": [
+        "meat"
+      ],
+      "example": "Freezing raw meat to later thaw and cook retains the overall quality very well.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Freezing raw meat to later thaw and cook retains the overall quality very well.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "dishes",
+      "headword": "dish",
+      "kind": "word",
+      "zh": "n. 盘子, 碟, 菜肴\n[医] 皿, 碟",
+      "en": "n. a piece of dishware normally used as a container for holding or serving food\nn. a particular item of prepared food\nn. the quantity that a dish will hold\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation",
+      "phonetic": "diʃ",
+      "forms": [
+        "dishes"
+      ],
+      "example": "However, this is less of an issue for meat in dishes where it is surrounded by liquid, such as sauces or stews.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "surrounded",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounded"
+      ],
+      "example": "However, this is less of an issue for meat in dishes where it is surrounded by liquid, such as sauces or stews.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "curries",
+      "headword": "curry",
+      "kind": "word",
+      "zh": "n. 咖哩粉, 咖哩饭菜\nvt. 用咖哩粉调味, 用马梳梳, 制革",
+      "en": "n. (East Indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice\nv. season with a mixture of spices; typical of Indian cooking\nv. treat by incorporating fat",
+      "phonetic": "'kʌri. 'kә:ri",
+      "forms": [
+        "curries",
+        "curry"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "casseroles",
+      "headword": "casserole",
+      "kind": "word",
+      "zh": "n. 餐桌上用有盖的焙盘, 砂锅菜\n[化] 勺皿",
+      "en": "n. food cooked and served in a casserole\nn. large deep dish in which food can be cooked and served",
+      "phonetic": "'kæsәrәul",
+      "forms": [
+        "casseroles"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "chilli",
+      "headword": "chilli",
+      "kind": "word",
+      "zh": "n. 红辣椒",
+      "en": "n very hot and finely tapering pepper of special pungency",
+      "phonetic": "'tʃili",
+      "forms": [
+        "chilli"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "corn",
+      "headword": "corn",
+      "kind": "word",
+      "zh": "n. 玉蜀黍, 谷类, 谷粒, 鸡眼\nvt. 使成颗粒, 腌",
+      "en": "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times\nn. the dried grains or kernels or corn used as animal feed or ground for meal\nn. ears of corn that can be prepared and served for human food\nn. a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes",
+      "phonetic": "kɒ:n",
+      "forms": [
+        "corn"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "carne",
+      "headword": "carne",
+      "kind": "word",
+      "zh": "n. 肉（西班牙语）",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "carne"
+      ],
+      "example": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "fibre",
+      "headword": "fibre",
+      "kind": "word",
+      "zh": "n. 纤维, 构造, 纤维制品\n[化] 纤维",
+      "en": "n a slender and greatly elongated substance capable of being spun into yarn\nn any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)\nn the inherent complex of attributes that determines a persons moral and ethical actions and reactions\nn a leatherlike material made by compressing layers of paper or cloth",
+      "phonetic": "'faibә",
+      "forms": [
+        "fibre"
+      ],
+      "example": "Vegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "carrots",
+      "headword": "carrot",
+      "kind": "word",
+      "zh": "n. 胡萝卜\n[医] 胡萝卜",
+      "en": "n. deep orange edible root of the cultivated carrot plant\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\nn. orange root; important source of carotene\nn. promise of reward as in \"carrot and stick\";",
+      "phonetic": "'kærәt",
+      "forms": [
+        "carrots"
+      ],
+      "example": "Vegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "peas",
+      "headword": "pea",
+      "kind": "word",
+      "zh": "n. 豌豆, 似豌豆的东西",
+      "en": "n. seed of a pea plant used for food\nn. the fruit or seed of a pea plant\nn. a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+      "phonetic": "pi:",
+      "forms": [
+        "peas"
+      ],
+      "example": "Vegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "dependent",
+      "headword": "dependent",
+      "kind": "word",
+      "zh": "n. 依赖他人者\na. 依赖的, 从属的",
+      "en": "a. relying on or requiring a person or thing for support, supply, or what is needed\ns. contingent on something else\na. (of a clause) unable to stand alone syntactically as a complete sentence",
+      "phonetic": "di'pendәnt",
+      "forms": [
+        "dependent"
+      ],
+      "example": "Cooked vegetables also freeze and thaw well because the cooking process changes their structure and the texture is no longer dependent upon intact water-filled cells.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "contribute",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contribute"
+      ],
+      "example": "Cooking also helps to stop processes that contribute to food deteriorating.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "deteriorating",
+      "headword": "deteriorate",
+      "kind": "word",
+      "zh": "v. (使)恶化",
+      "en": "v. become worse or disintegrate",
+      "phonetic": "di'tiәriәreit",
+      "forms": [
+        "deteriorating"
+      ],
+      "example": "Cooking also helps to stop processes that contribute to food deteriorating.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "herbs",
+      "headword": "herb",
+      "kind": "word",
+      "zh": "n. 药草, 香草\n[医] 草, 草本, 草药",
+      "en": "n. a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests\nn. aromatic potherb used in cookery for its savory qualities",
+      "phonetic": "hә:b",
+      "forms": [
+        "herbs",
+        "herb"
+      ],
+      "example": "Herbs freeze very well and retain much of their flavour.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "flavour",
+      "headword": "flavour",
+      "kind": "word",
+      "zh": "n. 味, 调味香料, 滋味, 香味, 气味, 风味, 情味, 情趣, 风韵\nvt. 给...调味, 给...增添风趣, 加香料, 加味于",
+      "en": "n the general atmosphere of a place or situation and the effect that it has on people\nn (physics) the six kinds of quarks\nn the taste experience when a savoury condiment is taken into the mouth\nv lend flavor to",
+      "phonetic": "'fleivә",
+      "forms": [
+        "flavour"
+      ],
+      "example": "Herbs freeze very well and retain much of their flavour.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "suited",
+      "headword": "suit",
+      "kind": "word",
+      "zh": "n. 套装, 诉讼, 请求, 起诉, 套, 组\nvt. 适合, 使适应\nvi. 合适, 相称",
+      "en": "n. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color\nn. (slang) a businessman dressed in a business suit\nn. a petition or appeal made to a person of superior status or rank\nn. playing card in any of four sets of 13 cards in a pack; each set has its own symbol and color",
+      "phonetic": "sju:t. su:t",
+      "forms": [
+        "suited"
+      ],
+      "example": "However, they tend to lose their crisp texture after thawing, making them better suited to cooked dishes than garnishes.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "garnishes",
+      "headword": "garnish",
+      "kind": "word",
+      "zh": "n. 装饰, 装饰品\nvt. 装饰",
+      "en": "n. something (such as parsley) added to a dish for flavor or decoration\nn. any decoration added as a trimming or adornment",
+      "phonetic": "'gɑ:niʃ",
+      "forms": [
+        "garnishes"
+      ],
+      "example": "However, they tend to lose their crisp texture after thawing, making them better suited to cooked dishes than garnishes.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "wash",
+      "headword": "wash",
+      "kind": "word",
+      "zh": "n. 洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地\nvt. 洗, 洗涤, 洗清, 用水冲洗, 流过, 弄湿, 粉刷, 镀金属薄层于\nvi. 洗涤, 洗澡, 被冲蚀, 漂浮",
+      "en": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other",
+      "phonetic": "wɒʃ",
+      "forms": [
+        "wash"
+      ],
+      "example": "Wash and thoroughly dry herbs before freezing them whole, or put them in ice cube trays with a little water or oil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "thoroughly",
+      "headword": "thoroughly",
+      "kind": "word",
+      "zh": "adv. 彻底地, 绝对地, 透彻地, 详尽地, 周到地, 完全地, 完善地, 全面地",
+      "en": "r. in an exhaustive manner\nr. completely and absolutely (`good' is sometimes used informally for `thoroughly')",
+      "phonetic": "'θʌrәli",
+      "forms": [
+        "thoroughly"
+      ],
+      "example": "Wash and thoroughly dry herbs before freezing them whole, or put them in ice cube trays with a little water or oil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "cube",
+      "headword": "cube",
+      "kind": "word",
+      "zh": "n. 立方体, 立方\n[机] 立方体, 立方",
+      "en": "n. a hexahedron with six equal squares as faces\nn. the product of three equal terms\nn. any of several tropical American woody plants of the genus Lonchocarpus whose roots are used locally as a fish poison and commercially as a source of rotenone\nn. a block in the (approximate) shape of a cube",
+      "phonetic": "kju:b",
+      "forms": [
+        "cube",
+        "cubes"
+      ],
+      "example": "Wash and thoroughly dry herbs before freezing them whole, or put them in ice cube trays with a little water or oil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "trays",
+      "headword": "tray",
+      "kind": "word",
+      "zh": "n. 托盘, 公文盘, 满盘, 发射箱\n[化] 淋盘",
+      "en": "n. an open receptacle for holding or displaying or serving articles or food",
+      "phonetic": "trei",
+      "forms": [
+        "trays"
+      ],
+      "example": "Wash and thoroughly dry herbs before freezing them whole, or put them in ice cube trays with a little water or oil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "transfer",
+      "headword": "transfer",
+      "kind": "word",
+      "zh": "n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车\nvt. 使转移, 调转, 调任, 改变, 传递, 转让\nvi. 转移, 转学, 转职, 换车\n[计] 传送",
+      "en": "n. someone who transfers or is transferred from one position to another\nn. the act of transfering something from one form to another\nn. a ticket that allows a passenger to change conveyances\nn. application of a skill learned in one situation to a different but similar situation",
+      "phonetic": "træns'fә:",
+      "forms": [
+        "transfer",
+        "transferred"
+      ],
+      "example": "Once frozen, transfer the herb cubes to airtight containers or freezer bags, and add them directly to cooking without thawing first.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "airtight",
+      "headword": "airtight",
+      "kind": "word",
+      "zh": "a. 气密的, 不透气的, 无懈可击的\n[机] 气密, 不透气",
+      "en": "s. having no weak points\ns. not allowing air or gas to pass in or out",
+      "phonetic": "'єәtait",
+      "forms": [
+        "airtight"
+      ],
+      "example": "Once frozen, transfer the herb cubes to airtight containers or freezer bags, and add them directly to cooking without thawing first.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "containers",
+      "headword": "container",
+      "kind": "word",
+      "zh": "n. 容器, 集装箱\n[化] 集装箱; 贮存箱; 容器(任何一种)",
+      "en": "n. any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+      "phonetic": "kәn'teinә",
+      "forms": [
+        "containers",
+        "container"
+      ],
+      "example": "Once frozen, transfer the herb cubes to airtight containers or freezer bags, and add them directly to cooking without thawing first.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "nutrition",
+      "headword": "nutrition",
+      "kind": "word",
+      "zh": "n. 营养, 营养学\n[医] 营养, 营养品",
+      "en": "n. (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance\nn. the scientific study of food and drink (especially in humans)",
+      "phonetic": "nju:'triʃәn",
+      "forms": [
+        "nutrition"
+      ],
+      "example": "Does freezing affect nutrition?",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "necessarily",
+      "headword": "necessarily",
+      "kind": "word",
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "en": "r. in an essential manner\nr. as a highly likely consequence",
+      "phonetic": "'nesisәrili",
+      "forms": [
+        "necessarily"
+      ],
+      "example": "Freezing does not necessarily make food less nutritious.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "nutritious",
+      "headword": "nutritious",
+      "kind": "word",
+      "zh": "a. 滋养的, 营养的\n[医] 有营养的",
+      "en": "s of or providing nourishment",
+      "phonetic": "nju:'triʃәs",
+      "forms": [
+        "nutritious"
+      ],
+      "example": "Freezing does not necessarily make food less nutritious.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "In fact",
+      "headword": "in fact",
+      "kind": "phrase",
+      "zh": "事实上",
+      "en": "used to emphasise what is actually true",
+      "forms": [
+        "In fact"
+      ],
+      "example": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+      "paragraph": 19,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v92",
+      "term": "nutrients",
+      "headword": "nutrient",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+      "en": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+      "phonetic": "'nju:triәnt",
+      "forms": [
+        "nutrients",
+        "nutrient"
+      ],
+      "example": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical"
+      ],
+      "example": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "reactions",
+      "headword": "reaction",
+      "kind": "word",
+      "zh": "n. 反应, 反作用, 反动\n[医] 反应",
+      "en": "n. an idea evoked by some experience\nn. a bodily process occurring due to the effect of some antecedent stimulus or agent\nn. (mechanics) the equal and opposite force that is produced when any force is applied to a body\nn. a response that reveals a person's feelings or attitude",
+      "phonetic": "ri'ækʃәn",
+      "forms": [
+        "reactions"
+      ],
+      "example": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "otherwise",
+      "headword": "otherwise",
+      "kind": "word",
+      "zh": "adv. 否则, 不同地, 别的方式",
+      "en": "s. other than as supposed or expected\nr. in other respects or ways",
+      "phonetic": "'ʌðәwaiz",
+      "forms": [
+        "otherwise"
+      ],
+      "example": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "packaging",
+      "headword": "package",
+      "kind": "word",
+      "zh": "n. 包裹, 套装软件, 包, 包装用物, 程序包\nvt. 包装, 打包\na. 一揽子的\n[计] 包, 软件包, 包装",
+      "en": "n. a collection of things wrapped or boxed together\nn. a wrapped container",
+      "phonetic": "'pækidʒ",
+      "forms": [
+        "packaging"
+      ],
+      "example": "To help retain quality, foods should be frozen in a leak-proof container, freezer bag or other airtight packaging.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "freshness",
+      "headword": "freshness",
+      "kind": "word",
+      "zh": "n. 新, 新鲜, 精神饱满",
+      "en": "n. the property of being pure and fresh (as if newly made); not stale or deteriorated\nn. originality by virtue of being refreshingly novel\nn. an alert and refreshed state",
+      "phonetic": "'freʃnis",
+      "forms": [
+        "freshness"
+      ],
+      "example": "It’s also best to freeze foods as soon as possible after cooking to help retain freshness and nutrient content.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content",
+        "contents"
+      ],
+      "example": "It’s also best to freeze foods as soon as possible after cooking to help retain freshness and nutrient content.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "ideally",
+      "headword": "ideally",
+      "kind": "word",
+      "zh": "adv. 完美地, 理想地",
+      "en": "r. in an ideal manner",
+      "phonetic": "ai'diәli",
+      "forms": [
+        "ideally"
+      ],
+      "example": "Ideally, food should be transferred into shallow containers as this helps it cool and freeze more quickly.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "shallow",
+      "headword": "shallow",
+      "kind": "word",
+      "zh": "n. 水浅的地方, 浅滩\na. 浅的, 肤浅的\nv. (使)变浅",
+      "en": "v. make shallow\nv. become shallow\na. lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center\na. not deep or strong; not affecting one deeply",
+      "phonetic": "'ʃælәu",
+      "forms": [
+        "shallow"
+      ],
+      "example": "Ideally, food should be transferred into shallow containers as this helps it cool and freeze more quickly.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "steaming",
+      "headword": "steam",
+      "kind": "word",
+      "zh": "n. 蒸汽, 精力\na. 蒸汽的\nvi. 蒸发, 行驶, 发怒\nvt. 蒸, 煮, 散发",
+      "en": "n. water at boiling temperature diffused in the atmosphere\nv. emit steam\nv. rise as vapor\nv. get very angry",
+      "phonetic": "sti:m",
+      "forms": [
+        "steaming"
+      ],
+      "example": "Waiting until food stops steaming before putting it in the freezer is a good rule of thumb, so that you don’t raise the temperature of the freezer too much.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "putting",
+      "headword": "putt",
+      "kind": "word",
+      "zh": "vt. 击球入洞\nvi. 轻击高尔夫球\nn. 轻轻一击(入洞)",
+      "en": "n. hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\"\nv. strike (a golf ball) lightly, with a putter\nv. hit a putt",
+      "phonetic": "pʌt",
+      "forms": [
+        "putting"
+      ],
+      "example": "Waiting until food stops steaming before putting it in the freezer is a good rule of thumb, so that you don’t raise the temperature of the freezer too much.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature"
+      ],
+      "example": "Waiting until food stops steaming before putting it in the freezer is a good rule of thumb, so that you don’t raise the temperature of the freezer too much.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "warm",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warm"
+      ],
+      "example": "It’s fine to put warm food straight into the freezer, you don’t need to refrigerate it first.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "straight",
+      "headword": "straight",
+      "kind": "word",
+      "zh": "n. 直线, 直\na. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的\nadv. 直接地, 立即, 不断地",
+      "en": "n. a poker hand with 5 consecutive cards (regardless of suit)\ns. successive (without a break)\na. having no deviations\na. (of hair) having no waves or curls",
+      "phonetic": "streit",
+      "forms": [
+        "straight"
+      ],
+      "example": "It’s fine to put warm food straight into the freezer, you don’t need to refrigerate it first.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "refrigerate",
+      "headword": "refrigerate",
+      "kind": "word",
+      "zh": "vt. 使冷却, 使清凉, 冷藏\n[机] 冷冻",
+      "en": "v. preserve by chilling\nv. cool or chill in or as if in a refrigerator",
+      "phonetic": "ri'fridʒәreit",
+      "forms": [
+        "refrigerate",
+        "refrigerated"
+      ],
+      "example": "It’s fine to put warm food straight into the freezer, you don’t need to refrigerate it first.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "bacterial",
+      "headword": "bacterial",
+      "kind": "word",
+      "zh": "a. 细菌的\n[医] 细菌的, [无芽胞]杆菌的",
+      "en": "a. relating to or caused by bacteria",
+      "phonetic": "bæk'tiәriәl",
+      "forms": [
+        "bacterial"
+      ],
+      "example": "To avoid food safety issues (such as bacterial growth), food should be refrigerated or frozen within two hours of cooking, so avoid leaving it on the bench for longer than two hours while it cools.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "bench",
+      "headword": "bench",
+      "kind": "word",
+      "zh": "n. 长椅子\n[机] 台",
+      "en": "n. a long seat for more than one person\nn. the magistrate or judge or judges sitting in court in judicial capacity to compose the court collectively\nn. the reserve players on a team\nn. (law) the seat for judges in a courtroom",
+      "phonetic": "bentʃ",
+      "forms": [
+        "bench"
+      ],
+      "example": "To avoid food safety issues (such as bacterial growth), food should be refrigerated or frozen within two hours of cooking, so avoid leaving it on the bench for longer than two hours while it cools.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "Rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "Rather than"
+      ],
+      "example": "Rather than putting a big batch of leftovers in a large container, consider measuring it out into multiple smaller containers.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v110",
+      "term": "batch",
+      "headword": "batch",
+      "kind": "word",
+      "zh": "n. 一次所烘的面包, 一次所制之量, 一组, 批, 成批, 分批\nv. 成批, 分批处理\n[计] 一批",
+      "en": "n. all the loaves of bread baked at the same time\nn. (often followed by `of') a large number or amount or extent\nn. a collection of things or persons to be handled together\nv. batch together; assemble or process as a batch",
+      "phonetic": "bætʃ",
+      "forms": [
+        "batch"
+      ],
+      "example": "Rather than putting a big batch of leftovers in a large container, consider measuring it out into multiple smaller containers.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "multiple",
+      "headword": "multiple",
+      "kind": "word",
+      "zh": "n. 倍数, 并联\na. 多样的, 许多的, 多功能的",
+      "en": "n. the product of a quantity by an integer\na. having or involving or consisting of more than one part or entity or individual",
+      "phonetic": "'mʌltipl",
+      "forms": [
+        "multiple"
+      ],
+      "example": "Rather than putting a big batch of leftovers in a large container, consider measuring it out into multiple smaller containers.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "minimise",
+      "headword": "minimise",
+      "kind": "word",
+      "zh": "vt. 使减到最少/最小, 使降到最低限度, 使缩到最小, 极度轻视",
+      "en": "v represent as less significant or important\nv make small or insignificant",
+      "phonetic": "",
+      "forms": [
+        "minimise"
+      ],
+      "example": "This helps the food to freeze faster, which helps minimise the size of ice crystals formed and can improve food quality after thawing.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "cycles",
+      "headword": "cycle",
+      "kind": "word",
+      "zh": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
+      "en": "n. an interval during which a recurring sequence of events occurs\nn. a series of poems or songs on the same theme\nn. a periodically repeated sequence of events\nn. a single complete execution of a periodically repeated phenomenon",
+      "phonetic": "'saikl",
+      "forms": [
+        "cycles"
+      ],
+      "example": "It also means you only need to thaw the amount you want to eat, helping to reduce waste and freeze-thaw cycles.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "tips",
+      "headword": "tip",
+      "kind": "word",
+      "zh": "n. 顶, 尖端, 梢, 末端, 倾斜, 垃圾场, 小费, 轻击, 指点, 秘密消息\nvt. 装顶端, 使倾斜, 使翻倒, 泄露, 告诫, 暗示, 给...小费, 轻击\nvi. 倾斜, 翻倒, 倾覆, 踮脚走, 给小费\n[计] 终端接口处理器, 提示, 技巧",
+      "en": "n. the extreme end of something; especially something pointed\nn. an indication of potential opportunity\nv. cause to tilt\nv. mark with a tip",
+      "phonetic": "tip",
+      "forms": [
+        "tips"
+      ],
+      "example": "Food safety tips for freezing and thawing",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "preserves",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserves"
+      ],
+      "example": "Freezing preserves food by slowing microbial growth, but it does not kill most bacteria.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "microbial",
+      "headword": "microbial",
+      "kind": "word",
+      "zh": "a. 微生物的, 由细菌引起的\n[医] 微生物的",
+      "en": "a. of or involving or caused by or being microbes",
+      "phonetic": "mai'krәubiәl",
+      "forms": [
+        "microbial"
+      ],
+      "example": "Freezing preserves food by slowing microbial growth, but it does not kill most bacteria.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "bacteria",
+      "headword": "bacterium",
+      "kind": "word",
+      "zh": "n. 细菌\n[医] [无芽胞]杆菌属",
+      "en": "n (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
+      "phonetic": "bæk'tiәriәm",
+      "forms": [
+        "bacteria"
+      ],
+      "example": "Freezing preserves food by slowing microbial growth, but it does not kill most bacteria.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "cleaning",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "cleaning"
+      ],
+      "example": "Good food safety practices, such as cleaning containers before freezing, still matter.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "Generally, food can last in the freezer for at least six weeks.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v120",
+      "term": "labelling",
+      "headword": "label",
+      "kind": "word",
+      "zh": "n. 标签, 称号, 商标, 标志\nvt. 贴标签于, 标注\n[计] 标志; 标注; DOS外部命令:用于建立改变或删除磁盘卷标号",
+      "en": "n. a brief description given for purposes of identification\nn. trade name of a company that produces musical recordings\nn. a radioactive isotope that is used in a compound in order to trace the mechanism of a chemical reaction\nn. an identifying or descriptive marker that is attached to an object",
+      "phonetic": "'leibl",
+      "forms": [
+        "labelling"
+      ],
+      "example": "Labelling containers with the contents and date frozen can help you keep track of frozen items.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "date",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "date"
+      ],
+      "example": "Labelling containers with the contents and date frozen can help you keep track of frozen items.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "refrigerator",
+      "headword": "refrigerator",
+      "kind": "word",
+      "zh": "n. 电冰箱, 冷藏库\n[计] 冷冻机; 致冷器",
+      "en": "n. white goods in which food can be stored at low temperatures",
+      "phonetic": "ri'fridʒәreitә",
+      "forms": [
+        "refrigerator"
+      ],
+      "example": "Thawing food in the refrigerator, microwave or during cooking is generally safer than thawing at room temperature.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "microwave",
+      "headword": "microwave",
+      "kind": "word",
+      "zh": "n. 微波\n[计] 微波",
+      "en": "n. a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data\nn. kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food\nv. cook or heat in a microwave oven",
+      "phonetic": "'maikrәuweiv",
+      "forms": [
+        "microwave"
+      ],
+      "example": "Thawing food in the refrigerator, microwave or during cooking is generally safer than thawing at room temperature.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "safely",
+      "headword": "safely",
+      "kind": "word",
+      "zh": "adv. 安全地, 确实地",
+      "en": "r. with safety; in a safe manner",
+      "phonetic": "'seifli",
+      "forms": [
+        "safely"
+      ],
+      "example": "Food thawed safely in the refrigerator can generally be refrozen.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "repeated",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeated"
+      ],
+      "example": "But repeated thawing and refreezing may reduce quality.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "danger",
+      "headword": "danger",
+      "kind": "word",
+      "zh": "n. 危险, 威胁\n[法] 危险, 危险物, 危机",
+      "en": "n. the condition of being susceptible to harm or injury\nn. a cause of pain or injury or loss\nn. a dangerous place",
+      "phonetic": "'deindʒә",
+      "forms": [
+        "danger"
+      ],
+      "example": "And any time spent in the temperature danger zone (5–60°C) increases the risk of bacterial growth.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "zone",
+      "headword": "zone",
+      "kind": "word",
+      "zh": "n. 地带, 带, 地区\nvt. 环绕, 使分成地带\nvi. 分成区\n[计] 卡片顶部的三行区; 区; 区域",
+      "en": "n. a locally circumscribed place characterized by some distinctive features\nn. any of the regions of the surface of the Earth loosely divided according to latitude or longitude\nn. an area or region distinguished from adjacent parts by a distinctive feature or characteristic\nn. (anatomy) any encircling or beltlike structure",
+      "phonetic": "zәun",
+      "forms": [
+        "zone"
+      ],
+      "example": "And any time spent in the temperature danger zone (5–60°C) increases the risk of bacterial growth.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      19
+    ],
+    "wordBank": [
+      "freezer",
+      "ingredients",
+      "cookie",
+      "commercially",
+      "mayonnaise",
+      "dependent",
+      "crisp",
+      "nutrients",
+      "dishes",
+      "airtight"
+    ],
+    "parts": [
+      {
+        "text": "The faster foods are frozen, the smaller the ice crystals that form, resulting in less damage to the cells. That is why "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.\n\nCertain dairy products, including milk, and high-fat foods, such as "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.\n\nMayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " such as egg yolk. Ice crystals can disrupt this emulsion, causing the mixture to separate during thawing.\n\nWhat freezes well?\n\nFoods that don’t rely on intact cells generally freeze well. These include rice, pasta, bread, soups, sauces, stews, "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " dough and pastry.\n\nFreezing raw meat to later thaw and cook retains the overall quality very well.\n\nBut cooked meat can become drier after freezing, because moisture has been lost during cooking. However, this is less of an issue for meat in "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " where it is surrounded by liquid, such as sauces or stews.\n\nMixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": "-friendly because the ingredients are already cooked and surrounded by liquid or sauce.\n\nVegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.\n\nCooked vegetables also freeze and thaw well because the cooking process changes their structure and the texture is no longer "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " upon intact water-filled cells. Cooking also helps to stop processes that contribute to food deteriorating.\n\nHerbs freeze very well and retain much of their flavour. However, they tend to lose their "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " texture after thawing, making them better suited to cooked dishes than garnishes.\n\nWash and thoroughly dry herbs before freezing them whole, or put them in ice cube trays with a little water or oil. Once frozen, transfer the herb cubes to "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " containers or freezer bags, and add them directly to cooking without thawing first.\n\nDoes freezing affect nutrition?\n\nFreezing does not necessarily make food less nutritious. In fact, frozen fruits and vegetables can retain most of their "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " because freezing slows the chemical reactions that would otherwise cause nutrient losses over time."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "commercially",
+        "vocabularyId": "v33",
+        "explanation": "原文此处使用 commercially（commercially）。结合上下文辨认词义与词形。",
+        "evidence": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "mayonnaise",
+        "vocabularyId": "v41",
+        "explanation": "原文此处使用 mayonnaise（mayonnaise）。结合上下文辨认词义与词形。",
+        "evidence": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "ingredients",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 ingredients（ingredient）。结合上下文辨认词义与词形。",
+        "evidence": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
+        "paragraph": 8
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "cookie",
+        "vocabularyId": "v59",
+        "explanation": "原文此处使用 cookie（cookie）。结合上下文辨认词义与词形。",
+        "evidence": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
+        "paragraph": 10
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "dishes",
+        "vocabularyId": "v64",
+        "explanation": "原文此处使用 dishes（dish）。结合上下文辨认词义与词形。",
+        "evidence": "However, this is less of an issue for meat in dishes where it is surrounded by liquid, such as sauces or stews.",
+        "paragraph": 12
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "freezer",
+        "vocabularyId": "v24",
+        "explanation": "原文此处使用 freezer（freezer）。结合上下文辨认词义与词形。",
+        "evidence": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
+        "paragraph": 13
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "dependent",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 dependent（dependent）。结合上下文辨认词义与词形。",
+        "evidence": "Cooked vegetables also freeze and thaw well because the cooking process changes their structure and the texture is no longer dependent upon intact water-filled cells.",
+        "paragraph": 15
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "crisp",
+        "vocabularyId": "v16",
+        "explanation": "原文此处使用 crisp（crisp）。结合上下文辨认词义与词形。",
+        "evidence": "However, they tend to lose their crisp texture after thawing, making them better suited to cooked dishes than garnishes.",
+        "paragraph": 16
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "airtight",
+        "vocabularyId": "v86",
+        "explanation": "原文此处使用 airtight（airtight）。结合上下文辨认词义与词形。",
+        "evidence": "Once frozen, transfer the herb cubes to airtight containers or freezer bags, and add them directly to cooking without thawing first.",
+        "paragraph": 17
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "nutrients",
+        "vocabularyId": "v92",
+        "explanation": "原文此处使用 nutrients（nutrient）。结合上下文辨认词义与词形。",
+        "evidence": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
+        "paragraph": 19
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Research compares heat and cold as approaches to recovery after exercise.",
+          "Mammograms may reveal information about cardiovascular health as well as breast cancer.",
+          "The physical properties of foods explain why freezing and thawing affect their textures differently.",
+          "Blood changes may provide clues to very early processes associated with ovarian cancer."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "A simple rule of thumb: foods that rely on being crisp for their texture tend to freeze poorly – think of a cucumber – while foods that are already soft, cooked, mixed or liquid often freeze well.",
+        "paragraph": 3
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why can faster freezing help preserve food texture?",
+        "options": [
+          "It makes all foods chemically identical.",
+          "It ensures that thawing can never occur.",
+          "It produces smaller ice crystals and less cell damage.",
+          "It prevents water from existing inside food."
+        ],
+        "answer": 2,
+        "explanation": "第 6 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The faster foods are frozen, the smaller the ice crystals that form, resulting in less damage to the cells.",
+        "paragraph": 6
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 14?",
+        "options": [
+          "To help retain quality, foods should be frozen in a leak-proof container, freezer bag or other airtight packaging.",
+          "Vegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.",
+          "The faster foods are frozen, the smaller the ice crystals that form, resulting in less damage to the cells.",
+          "It’s fine to put warm food straight into the freezer, you don’t need to refrigerate it first."
+        ],
+        "answer": 1,
+        "explanation": "定位第 14 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Vegetables that are higher in fibre, such as carrots and peas, retain their texture quite well after freezing and thawing.",
+        "paragraph": 14
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“To help retain quality, foods should be frozen in a leak-proof container, freezer bag or other airtight packaging.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 1",
+          "Paragraph 20",
+          "Paragraph 19"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 20 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "To help retain quality, foods should be frozen in a leak-proof container, freezer bag or other airtight packaging.",
+        "paragraph": 20
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“It is okay to freeze different types of food (such as curry and rice) in the same container, especially if that’s how they’ll be eaten.”",
+        "options": [
+          "Paragraph 15",
+          "Paragraph 17",
+          "Paragraph 3",
+          "Paragraph 25"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 25 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "It is okay to freeze different types of food (such as curry and rice) in the same container, especially if that’s how they’ll be eaten.",
+        "paragraph": 25
+      }
+    ]
+  },
+  "revision": "2b8d61b71d253a70553b57833d7d1471d3fd49c4dc1f28a75da16b35ee50fa58"
+}

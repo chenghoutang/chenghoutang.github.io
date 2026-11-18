@@ -1,0 +1,3138 @@
+{
+  "schemaVersion": 1,
+  "folder": "052",
+  "articleSha256": "80010b79c2167b73c76a82fe0b26240726739f859b546a5ca43dc625fdcdb0c9",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "exposed",
+      "headword": "expose",
+      "kind": "word",
+      "zh": "vt. 使暴露, 使曝光, 揭穿, 陈列\n[医] 暴露, 露置",
+      "en": "n. the exposure of an impostor or a fraud\nv. expose or make accessible to some action or influence\nv. to show, make visible or apparent\nv. expose to light, of photographic film",
+      "phonetic": "ik'spәuz",
+      "forms": [
+        "exposed"
+      ],
+      "example": "A family of five is exposed to the flu virus, but only two of them get sick.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "virus",
+      "headword": "virus",
+      "kind": "word",
+      "zh": "n. 病毒, 滤过性病毒, 毒害\n[化] 病毒",
+      "en": "n. (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein\nn. a harmful or corrupting agency\nn. a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
+      "phonetic": "'vaiәrәs",
+      "forms": [
+        "virus",
+        "viruses"
+      ],
+      "example": "A family of five is exposed to the flu virus, but only two of them get sick.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "sick",
+      "headword": "sick",
+      "kind": "word",
+      "zh": "n. 病人\na. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的\nvt. 呕吐, 追击, 使(狗)去攻击",
+      "en": "n. people who are sick\ns. deeply affected by a strong feeling",
+      "phonetic": "sik",
+      "forms": [
+        "sick"
+      ],
+      "example": "A family of five is exposed to the flu virus, but only two of them get sick.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "lifelong",
+      "headword": "lifelong",
+      "kind": "word",
+      "zh": "a. 终身的, 毕生的",
+      "en": "s. continuing through life",
+      "phonetic": "'laiflɒŋ",
+      "forms": [
+        "lifelong"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "chain-smoker",
+      "headword": "chain-smoker",
+      "kind": "word",
+      "zh": "n. 一支接一支抽烟的人",
+      "en": "n. a heavy smoker (usually of cigarettes) who lights one off of another",
+      "phonetic": "tʃein ˈsməʊkə",
+      "forms": [
+        "chain-smoker"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "athlete",
+      "headword": "athlete",
+      "kind": "word",
+      "zh": "n. 运动员, 运动选手\n[医] 运动员",
+      "en": "n. a person trained to compete in sports",
+      "phonetic": "'æθli:t",
+      "forms": [
+        "athlete"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "prime",
+      "headword": "prime",
+      "kind": "word",
+      "zh": "n. 最佳部分, 初期, 全盛期\na. 主要的, 最初的, 根本的\nv. 加油启动, 灌注, 填装",
+      "en": "n. a number that has no factor but itself and 1\nn. the second canonical hour; about 6 a.m.\nn. the time of maturity when power and vigor are greatest\nv. insert a primer into (a gun, mine, or charge) preparatory to detonation or firing",
+      "phonetic": "praim",
+      "forms": [
+        "prime"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "unexpected",
+      "headword": "unexpected",
+      "kind": "word",
+      "zh": "a. 料想不到的, 突然的, 意外的\n[法] 不能预料的, 意外的",
+      "en": "a. not expected or anticipated",
+      "phonetic": ".ʌnik'spektid",
+      "forms": [
+        "unexpected"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "heart attack",
+      "headword": "heart attack",
+      "kind": "phrase",
+      "zh": "心脏病发作；心肌梗死",
+      "en": "damage caused by interruption of blood flow to heart muscle",
+      "forms": [
+        "heart attack"
+      ],
+      "example": "A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v10",
+      "term": "clinical",
+      "headword": "clinical",
+      "kind": "word",
+      "zh": "a. 临床的, 门诊部的\n[医] 临床的, 临证的",
+      "en": "a. relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients\ns. scientifically detached; unemotional",
+      "phonetic": "'klinikәl",
+      "forms": [
+        "clinical"
+      ],
+      "example": "A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "due to",
+      "headword": "due to",
+      "kind": "phrase",
+      "zh": "由于",
+      "en": "because of",
+      "forms": [
+        "due to"
+      ],
+      "example": "A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v12",
+      "term": "harmful",
+      "headword": "harmful",
+      "kind": "word",
+      "zh": "a. 有害的, 伤害的",
+      "en": "a. causing or capable of causing harm",
+      "phonetic": "'hɑ:mful",
+      "forms": [
+        "harmful"
+      ],
+      "example": "A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "subset",
+      "headword": "subset",
+      "kind": "word",
+      "zh": "n. 子集\n[计] 子集; 子设备",
+      "en": "n. a set whose members are members of another set; a set contained within another set",
+      "phonetic": "'sʌbset",
+      "forms": [
+        "subset"
+      ],
+      "example": "A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "scenarios",
+      "headword": "scenario",
+      "kind": "word",
+      "zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态\n[计] 方案",
+      "en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\nn. a setting for a work of art or literature\nn. a postulated sequence of possible events",
+      "phonetic": "si'nɑ:riәu",
+      "forms": [
+        "scenarios"
+      ],
+      "example": "Could any of these scenarios have been predicted?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "predicted",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predicted",
+        "predict"
+      ],
+      "example": "Could any of these scenarios have been predicted?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "biomarkers",
+      "headword": "biomarker",
+      "kind": "word",
+      "zh": "生物标记",
+      "en": "",
+      "phonetic": "'baɪɒmɑ:kər",
+      "forms": [
+        "biomarkers",
+        "biomarker"
+      ],
+      "example": "The simple answer is not yet – but perhaps soon with the help of biomarkers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "measurable",
+      "headword": "measurable",
+      "kind": "word",
+      "zh": "a. 可测量的, 不久的, 重要的",
+      "en": "a. capable of being measured\ns. of distinguished importance",
+      "phonetic": "'meʒәrәbl",
+      "forms": [
+        "measurable"
+      ],
+      "example": "A biomarker is anything measurable in the body that gives clinicians insight into someone’s current or future health.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "clinicians",
+      "headword": "clinician",
+      "kind": "word",
+      "zh": "[医] 临床医师, 临证医师",
+      "en": "n. a practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments",
+      "phonetic": "kli'niʃәn",
+      "forms": [
+        "clinicians"
+      ],
+      "example": "A biomarker is anything measurable in the body that gives clinicians insight into someone’s current or future health.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "insight",
+      "headword": "insight",
+      "kind": "word",
+      "zh": "n. 察看, 洞察力, 见识\n[医] 自知力, 洞察, 顿悟",
+      "en": "n. a feeling of understanding\nn. the clear (and often sudden) understanding of a complex situation\nn. grasping the inner nature of things intuitively",
+      "phonetic": "'insait",
+      "forms": [
+        "insight"
+      ],
+      "example": "A biomarker is anything measurable in the body that gives clinicians insight into someone’s current or future health.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "health",
+      "headword": "health",
+      "kind": "word",
+      "zh": "n. 健康, 卫生, 蓬勃, 健康状态\n[医] 健康",
+      "en": "n. a healthy state of wellbeing free from disease\nn. the general condition of body and mind",
+      "phonetic": "'helθ",
+      "forms": [
+        "health"
+      ],
+      "example": "A biomarker is anything measurable in the body that gives clinicians insight into someone’s current or future health.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "medicine",
+      "headword": "medicine",
+      "kind": "word",
+      "zh": "n. 药, 医学, 内科\nvt. 给...用药",
+      "en": "n. the branches of medical science that deal with nonsurgical techniques\nn. (medicine) something that treats or prevents or alleviates the symptoms of disease\nn. the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries",
+      "phonetic": "'medisin",
+      "forms": [
+        "medicine"
+      ],
+      "example": "Biomarkers come in many forms and play a critical role in modern medicine by shedding light on the inner workings of the human body.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "shedding",
+      "headword": "shedding",
+      "kind": "word",
+      "zh": "n. 脱落, 蜕落, 蜕落物, 流出, 散发, 梭口, 梭道\n[医] 脱落",
+      "en": "n. the process whereby something is shed",
+      "phonetic": "'ʃediŋ",
+      "forms": [
+        "shedding"
+      ],
+      "example": "Biomarkers come in many forms and play a critical role in modern medicine by shedding light on the inner workings of the human body.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "inner",
+      "headword": "inner",
+      "kind": "word",
+      "zh": "a. 内部的, 内心的\nn. 内部",
+      "en": "s. located inward\na. located or occurring within or closer to a center\ns. innermost or essential\ns. exclusive to a center; especially a center of influence",
+      "phonetic": "'inә",
+      "forms": [
+        "inner"
+      ],
+      "example": "Biomarkers come in many forms and play a critical role in modern medicine by shedding light on the inner workings of the human body.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "workings",
+      "headword": "workings",
+      "kind": "word",
+      "zh": "n. 工作方式, 作用, 活动方式",
+      "en": "n the internal mechanism of a device\nn a mine or quarry that is being or has been worked\nn a mine or quarry that is being or has been worked\nv exert oneself by doing mental or physical work for a purpose or out of necessity\nv be employed\nv have an effect or outcome; often the one desired or expected\nv perform as expected when applied\nv shape, form, or improve a material\nv give a workout to\nv proceed along a path\nv operate in a certain place, area, or specialty\nv proceed towards a goal or along a path or through an activity\nv move in an agitated manner\nv cause to happen or to occur as a consequence\nv cause to work\nv prepare for crops\nv behave in a certain way when handled\nv have and exert influence or effect\nv operate in or through\nv cause to operate or function\nv provoke or excite\nv gratify and charm, usually in order to influence\nv make something, usually for a specific function\nv move into or onto\nv make uniform\nv use or manipulate to one's advantage\nv find the solution to (a problem or question) or understand the meaning of\nv cause to undergo fermentation\nv go sour or spoil\nv arrive at a certain condition through repeated motion",
+      "phonetic": "",
+      "forms": [
+        "workings"
+      ],
+      "example": "Biomarkers come in many forms and play a critical role in modern medicine by shedding light on the inner workings of the human body.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "routine",
+      "headword": "routine",
+      "kind": "word",
+      "zh": "n. 常规, 日常工作, 惯例, 例行公事\na. 日常的, 常规的\n[计] 例程",
+      "en": "n. an unvarying or habitual method or procedure\nn. a set sequence of steps, part of larger computer program",
+      "phonetic": "ru:'ti:n",
+      "forms": [
+        "routine"
+      ],
+      "example": "Many biomarkers are measured during routine procedures at the doctor’s office, including through blood tests and vital signs.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "procedures",
+      "headword": "procedure",
+      "kind": "word",
+      "zh": "n. 程序, 过程, 手续\n[计] 规程; 过程",
+      "en": "n. a particular course of action intended to achieve a result\nn. a mode of conducting legal and parliamentary proceedings",
+      "phonetic": "prә'si:dʒә",
+      "forms": [
+        "procedures"
+      ],
+      "example": "Many biomarkers are measured during routine procedures at the doctor’s office, including through blood tests and vital signs.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "blood tests",
+      "headword": "blood tests",
+      "kind": "phrase",
+      "zh": "血液检测",
+      "en": "tests performed on a blood sample",
+      "forms": [
+        "blood tests"
+      ],
+      "example": "Many biomarkers are measured during routine procedures at the doctor’s office, including through blood tests and vital signs.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v28",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "Many biomarkers are measured during routine procedures at the doctor’s office, including through blood tests and vital signs.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "physiological",
+      "headword": "physiological",
+      "kind": "word",
+      "zh": "a. 生理学的, 生理学上的, 生理机能的\n[医] 生理学的, 生理的",
+      "en": "a. of or relating to the biological study of physiology",
+      "phonetic": ".fiziә'lɒdʒikl",
+      "forms": [
+        "physiological"
+      ],
+      "example": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "oxygen",
+      "headword": "oxygen",
+      "kind": "word",
+      "zh": "n. 氧\n[化] 氧O-2",
+      "en": "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust",
+      "phonetic": "'ɒksәdʒәn",
+      "forms": [
+        "oxygen"
+      ],
+      "example": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "functioning",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "functioning"
+      ],
+      "example": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "cellular",
+      "headword": "cellular",
+      "kind": "word",
+      "zh": "a. 细胞的\n[医] 细胞的",
+      "en": "a. relating to cells\na. characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)",
+      "phonetic": "'seljulә",
+      "forms": [
+        "cellular"
+      ],
+      "example": "Cellular biomarkers such as white blood cell count provide useful information on the activity of your immune system.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "count",
+      "headword": "count",
+      "kind": "word",
+      "zh": "vt. 计算, 视为\nvi. 计数\nn. 计算, 合计, 计数, 伯爵\n[计] 计数",
+      "en": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of",
+      "phonetic": "kaunt",
+      "forms": [
+        "count"
+      ],
+      "example": "Cellular biomarkers such as white blood cell count provide useful information on the activity of your immune system.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "Cellular biomarkers such as white blood cell count provide useful information on the activity of your immune system.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "immune",
+      "headword": "immune",
+      "kind": "word",
+      "zh": "a. 免疫的, 免除的, 不受影响的\nn. 免疫者",
+      "en": "n. a person who is immune to a particular infection\na. relating to the condition of immunity\ns. secure against\ns. relating to or conferring immunity (to disease or infection)",
+      "phonetic": "i'mju:n",
+      "forms": [
+        "immune"
+      ],
+      "example": "Cellular biomarkers such as white blood cell count provide useful information on the activity of your immune system.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "genetic",
+      "headword": "genetic",
+      "kind": "word",
+      "zh": "a. 创始的, 遗传的, 起源的, 遗传学的\n[医] 生殖的, 遗传的",
+      "en": "a. pertaining to or referring to origin\na. of or relating to the science of genetics",
+      "phonetic": "dʒi'netik",
+      "forms": [
+        "genetic"
+      ],
+      "example": "Genetic biomarkers are parts of your DNA that provide clues about your inherent risk of developing a particular disease or how likely you are to respond to a treatment.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "clues",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clues"
+      ],
+      "example": "Genetic biomarkers are parts of your DNA that provide clues about your inherent risk of developing a particular disease or how likely you are to respond to a treatment.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "inherent",
+      "headword": "inherent",
+      "kind": "word",
+      "zh": "a. 固有的, 与生俱来的\n[医] 固有的, 生来的",
+      "en": "s existing as an essential constituent or characteristic\ns in the nature of something though not readily apparent",
+      "phonetic": "in'hiәrәnt",
+      "forms": [
+        "inherent"
+      ],
+      "example": "Genetic biomarkers are parts of your DNA that provide clues about your inherent risk of developing a particular disease or how likely you are to respond to a treatment.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "devising",
+      "headword": "devise",
+      "kind": "word",
+      "zh": "vt. 设计, 发明, 图谋, 遗赠给\nn. 遗赠",
+      "en": "n. a will disposing of real property\nn. (law) a gift of real property by will\nv. give by will, especially real property",
+      "phonetic": "di'vaiz",
+      "forms": [
+        "devising"
+      ],
+      "example": "There are still many more biomarkers to be discovered, and researchers are devising unique ways to identify a person’s risk of disease.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "There are still many more biomarkers to be discovered, and researchers are devising unique ways to identify a person’s risk of disease.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "biological",
+      "headword": "biological",
+      "kind": "word",
+      "zh": "a. 生物学的\n[医] 生物学的",
+      "en": "a. pertaining to biology or to life and living things\na. of parents and children; related by blood",
+      "phonetic": ".baiәu'lɒdʒikәl",
+      "forms": [
+        "biological"
+      ],
+      "example": "The traditional way researchers identify biomarkers is by asking which biological features differ between two or more groups.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "differ",
+      "headword": "differ",
+      "kind": "word",
+      "zh": "vi. 不一致, 不同\n[机] 差异, 不同",
+      "en": "v. be different",
+      "phonetic": "'difә",
+      "forms": [
+        "differ"
+      ],
+      "example": "The traditional way researchers identify biomarkers is by asking which biological features differ between two or more groups.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "volunteers",
+      "headword": "volunteer",
+      "kind": "word",
+      "zh": "n. 志愿者\na. 志愿的\nv. 自愿",
+      "en": "n. (military) a person who freely enlists for service\nn. a person who performs voluntary work\nv. tell voluntarily\nv. agree freely",
+      "phonetic": ".vɒlәn'tiә",
+      "forms": [
+        "volunteers"
+      ],
+      "example": "This might look like comparing patients with a specific disease with healthy volunteers, people who respond to a drug with people who don’t, or the same group of people at two different points in time.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "discoveries",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discoveries"
+      ],
+      "example": "Many biomarker discoveries started with observations made in laboratories.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "Many biomarker discoveries started with observations made in laboratories.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "laboratories",
+      "headword": "laboratory",
+      "kind": "word",
+      "zh": "n. 实验室, 研究室, 化工厂\n[医] 实验室, 检验室, 化验室",
+      "en": "n a workplace for the conduct of scientific research\nn a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
+      "phonetic": "'læbrәtәri",
+      "forms": [
+        "laboratories",
+        "laboratory"
+      ],
+      "example": "Many biomarker discoveries started with observations made in laboratories.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, doctors use hemoglobin A1c levels in the blood to test for diabetes.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v49",
+      "term": "doctors",
+      "headword": "doctor",
+      "kind": "word",
+      "zh": "n. 医生, 博士\nvt. 授以博士学位, 诊断, 修改\nvi. 行医",
+      "en": "n. a licensed medical practitioner\nn. children take the roles of physician or patient or nurse and pretend they are at the physician's office\nn. a person who holds Ph.D. degree (or the equivalent) from an academic institution\nv. give medical treatment to",
+      "phonetic": "'dɒktә",
+      "forms": [
+        "doctors"
+      ],
+      "example": "For example, doctors use hemoglobin A1c levels in the blood to test for diabetes.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "hemoglobin",
+      "headword": "hemoglobin",
+      "kind": "word",
+      "zh": "n. 血色素\n[化] 血红蛋白",
+      "en": "n. a hemoprotein composed of globin and heme that gives red blood cells their characteristic color; function primarily to transport oxygen from the lungs to the body tissues",
+      "phonetic": ".hi:mәu'glәubin",
+      "forms": [
+        "hemoglobin"
+      ],
+      "example": "For example, doctors use hemoglobin A1c levels in the blood to test for diabetes.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "diabetes",
+      "headword": "diabetes",
+      "kind": "word",
+      "zh": "n. 糖尿病, 多尿症\n[医] 糖尿病; 多尿症",
+      "en": "n. a polygenic disease characterized by abnormally high glucose levels in the blood; any of several metabolic disorders marked by excessive urination and persistent thirst",
+      "phonetic": "daiә'bi:ti:z",
+      "forms": [
+        "diabetes"
+      ],
+      "example": "For example, doctors use hemoglobin A1c levels in the blood to test for diabetes.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "origins",
+      "headword": "origin",
+      "kind": "word",
+      "zh": "n. 起源, 起因, 出身, 开端\n[计] 原点; 起始地址; 信件来源的相关数据",
+      "en": "n. properties attributable to your ancestry\nn. an event that is a beginning; a first part or stage of subsequent events\nn. the point of intersection of coordinate axes; where the values of the coordinates are all zero\nn. the source of something's existence or from which it derives or is derived",
+      "phonetic": "'ɒridʒin",
+      "forms": [
+        "origins"
+      ],
+      "example": "The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "date",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "date"
+      ],
+      "example": "The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "abnormally",
+      "headword": "abnormally",
+      "kind": "word",
+      "zh": "adv. 不正常, 异常, (贬)不同寻常, 不规则, 变态, 反常",
+      "en": "r. in an abnormal manner",
+      "phonetic": "",
+      "forms": [
+        "abnormally"
+      ],
+      "example": "The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "diabetics",
+      "headword": "diabetic",
+      "kind": "word",
+      "zh": "a. 糖尿病的\nn. 糖尿病患者",
+      "en": "n. someone who has diabetes\na. of or relating to or causing diabetes\ns. suffering from diabetes",
+      "phonetic": "daiә'betik",
+      "forms": [
+        "diabetics"
+      ],
+      "example": "The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "repeated",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeated"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "clinic",
+      "headword": "clinic",
+      "kind": "word",
+      "zh": "n. 诊所, 临床教学\n[医] 诊所(门诊部); 临床(讲解); 临床(学)科",
+      "en": "n. a medical establishment run by a group of medical specialists\nn. meeting for diagnosis of problems and instruction or remedial work in a particular activity\nn. a healthcare facility for outpatient care",
+      "phonetic": "'klinik",
+      "forms": [
+        "clinic"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "confirmed",
+      "headword": "confirm",
+      "kind": "word",
+      "zh": "vt. 证实, 确定, 批准, 使巩固\n[计] 确认",
+      "en": "v. establish or strengthen as with new evidence or facts\nv. strengthen or make more firm\nv. make more firm\nv. support a person for a position",
+      "phonetic": "kәn'fә:m",
+      "forms": [
+        "confirmed"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "culminating",
+      "headword": "culminate",
+      "kind": "word",
+      "zh": "vi. 到绝顶, 达于极点, 达到高潮\nvt. 使到绝顶, 使达到高潮",
+      "en": "v. end, especially to reach a final or climactic stage\nv. bring to a head or to the highest point\nv. reach the highest or most decisive point\nv. reach the highest altitude or the meridian, of a celestial body",
+      "phonetic": "'kʌlmineit",
+      "forms": [
+        "culminating"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "approving",
+      "headword": "approve",
+      "kind": "word",
+      "zh": "vt. 赞同, 核准, 为...提供证据\nvi. 赞许",
+      "en": "v. give sanction to\nv. judge to be right or commendable; think well of",
+      "phonetic": "ә'pru:v",
+      "forms": [
+        "approving"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "diagnostic",
+      "headword": "diagnostic",
+      "kind": "word",
+      "zh": "a. 诊断的, 有助于诊断的, 特征的\nn. 诊断, 病的征候, 诊断法\n[计] 诊断的",
+      "en": "a. concerned with diagnosis; used for furthering diagnosis\ns. characteristic or indicative of a disease",
+      "phonetic": "daiәg'nɒstik",
+      "forms": [
+        "diagnostic"
+      ],
+      "example": "Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "screening",
+      "headword": "screen",
+      "kind": "word",
+      "zh": "n. 幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子\nvt. 掩蔽, 放映, 拍摄, 掩护, 筛, 甄别\nvi. 拍电影\n[计] 筛选; 屏幕",
+      "en": "n. a white or silvered surface where pictures can be projected for viewing\nn. the display that is electronically created on the surface of the large end of a cathode-ray tube\nn. a covering that serves to conceal or shelter something\nn. a protective covering consisting of netting; can be mounted in a frame",
+      "phonetic": "skri:n",
+      "forms": [
+        "screening"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "colorectal",
+      "headword": "colorectal",
+      "kind": "word",
+      "zh": "a. [解]结肠直肠的",
+      "en": "a. relating to or affecting the colon and the rectum",
+      "phonetic": ",kәjlә'rektәl",
+      "forms": [
+        "colorectal"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "metabolism",
+      "headword": "metabolism",
+      "kind": "word",
+      "zh": "n. 新陈代谢, 变态\n[化] 新陈代谢; 代谢",
+      "en": "n. the organic processes (in a cell or organism) that are necessary for life",
+      "phonetic": "mi'tæbәlizm",
+      "forms": [
+        "metabolism"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "inherited",
+      "headword": "inherit",
+      "kind": "word",
+      "zh": "vt. 继承, 遗传\nvi. 接受遗产",
+      "en": "v. obtain from someone after their death\nv. receive from a predecessor\nv. receive by genetic transmission",
+      "phonetic": "in'herit",
+      "forms": [
+        "inherited"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "metabolic",
+      "headword": "metabolic",
+      "kind": "word",
+      "zh": "a. 变化的, 变形的, 新陈代谢的\n[医] [新陈]代谢的",
+      "en": "a. of or relating to metabolism\na. undergoing metamorphosis",
+      "phonetic": ".metә'bɒlik",
+      "forms": [
+        "metabolic"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "newborns",
+      "headword": "newborn",
+      "kind": "word",
+      "zh": "n. 婴儿\na. 新生的",
+      "en": "s. recently born\ns. having just or recently arisen or come into existence",
+      "phonetic": "'nju:bɒ:n",
+      "forms": [
+        "newborns"
+      ],
+      "example": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "scanning",
+      "headword": "scan",
+      "kind": "word",
+      "zh": "n. 审视, 浏览, 扫描, 细查\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\nvi. 押韵, 扫描\n[计] 网络软件目录, 编码与分析系统",
+      "en": "n. the act of scanning; systematic examination of a prescribed region\nn. an image produced by scanning\nv. examine minutely or intensely\nv. examine hastily",
+      "phonetic": "skæn",
+      "forms": [
+        "scanning",
+        "scans"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "genomes",
+      "headword": "genome",
+      "kind": "word",
+      "zh": "[化] 基因组\n[医] 染色体组",
+      "en": "n. the ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism",
+      "phonetic": "'dʒi:nәum",
+      "forms": [
+        "genomes",
+        "genome"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "millions",
+      "headword": "millions",
+      "kind": "word",
+      "zh": "n. 数百万",
+      "en": "n the number that is represented as a one followed by 6 zeros\nn a very large indefinite number (usually hyperbole)",
+      "phonetic": "",
+      "forms": [
+        "millions"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "variants",
+      "headword": "variant",
+      "kind": "word",
+      "zh": "n. 变体, 异体\na. 不同的, 有差别的\n[计] 变体型",
+      "en": "s. differing from a norm or standard\ns. exhibiting variation and change",
+      "phonetic": "'vєәriәnt",
+      "forms": [
+        "variants",
+        "variant"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked",
+        "links"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v77",
+      "term": "trait",
+      "headword": "trait",
+      "kind": "word",
+      "zh": "n. 特征, 特性, 一笔, 少许",
+      "en": "n. a distinguishing feature of your personal nature",
+      "phonetic": "treit",
+      "forms": [
+        "trait"
+      ],
+      "example": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "association",
+      "headword": "association",
+      "kind": "word",
+      "zh": "n. 协会\n[计] 关联",
+      "en": "n. a formal organization of people or groups of people\nn. the act of consorting with or joining with others\nn. the state of being connected together as in memory or imagination\nn. the process of bringing ideas or events together in memory or imagination",
+      "phonetic": "ә.sәuʃә'eiʃәn",
+      "forms": [
+        "association"
+      ],
+      "example": "This approach is called a genomewide association study.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "guidance",
+      "headword": "guidance",
+      "kind": "word",
+      "zh": "n. 指导, 领导\n[医] 导",
+      "en": "n. something that provides direction or advice as to a decision or course of action\nn. the act of guiding or showing the way",
+      "phonetic": "'gaidns",
+      "forms": [
+        "guidance"
+      ],
+      "example": "This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "heart disease",
+      "headword": "heart disease",
+      "kind": "phrase",
+      "zh": "心脏病",
+      "en": "a condition affecting the heart",
+      "forms": [
+        "heart disease"
+      ],
+      "example": "This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v81",
+      "term": "age-related",
+      "headword": "age-related",
+      "kind": "word",
+      "zh": "增龄性",
+      "en": "s changing (increasing or decreasing) as an individual's age increases",
+      "phonetic": "",
+      "forms": [
+        "age-related"
+      ],
+      "example": "This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "vision",
+      "headword": "vision",
+      "kind": "word",
+      "zh": "n. 视觉, 眼光, 视力, 幻想\nvt. 梦见, 想象, 显示",
+      "en": "n. a vivid mental image\nn. the perceptual experience of seeing\nn. a religious or mystical experience of a supernatural appearance",
+      "phonetic": "'viʒәn",
+      "forms": [
+        "vision"
+      ],
+      "example": "This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "liver",
+      "headword": "liver",
+      "kind": "word",
+      "zh": "n. 肝脏, 生活者, 居民\n[医] 肝",
+      "en": "n. large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes\nn. liver of an animal used as meat\nn. a person who has a special life style\nn. someone who lives in a place",
+      "phonetic": "'livә",
+      "forms": [
+        "liver"
+      ],
+      "example": "This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "limitation",
+      "headword": "limitation",
+      "kind": "word",
+      "zh": "n. 限制, 缺陷, 限额\n[医] 限界, 限制, 限度",
+      "en": "n. the quality of being limited or restricted\nn. (law) a time period after which suits cannot be brought\nn. an act of limiting or restricting (as by regulation)",
+      "phonetic": ".limi'teiʃәn",
+      "forms": [
+        "limitation"
+      ],
+      "example": "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "tissue",
+      "headword": "tissue",
+      "kind": "word",
+      "zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\n[化] 组织",
+      "en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper",
+      "phonetic": "'tiʃu:",
+      "forms": [
+        "tissue",
+        "tissues"
+      ],
+      "example": "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "relevant",
+      "headword": "relevant",
+      "kind": "word",
+      "zh": "a. 有关联的, 有关系的, 适当的, 相应的\n[法] 有关的, 相关的",
+      "en": "a. having a bearing on or connection with the subject at issue",
+      "phonetic": "'relivәnt",
+      "forms": [
+        "relevant"
+      ],
+      "example": "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack"
+      ],
+      "example": "This lack of cellular information could be solved with cell cultures that allow researchers to study specific cell types under controlled conditions outside the body.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "solved",
+      "headword": "solve",
+      "kind": "word",
+      "zh": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解",
+      "en": "v. find the solution to (a problem or question) or understand the meaning of",
+      "phonetic": "sɒlv",
+      "forms": [
+        "solved"
+      ],
+      "example": "This lack of cellular information could be solved with cell cultures that allow researchers to study specific cell types under controlled conditions outside the body.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "dish",
+      "headword": "dish",
+      "kind": "word",
+      "zh": "n. 盘子, 碟, 菜肴\n[医] 皿, 碟",
+      "en": "n. a piece of dishware normally used as a container for holding or serving food\nn. a particular item of prepared food\nn. the quantity that a dish will hold\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation",
+      "phonetic": "diʃ",
+      "forms": [
+        "dish"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "neuroscientist",
+      "headword": "neuroscientist",
+      "kind": "word",
+      "zh": "[医]神经科学家：神经科学各分支的专家",
+      "en": "n. a neurobiologist who specializes in the study of the brain",
+      "phonetic": "'njʊərəʊsaɪəntɪst",
+      "forms": [
+        "neuroscientist"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "geneticist",
+      "headword": "geneticist",
+      "kind": "word",
+      "zh": "n. 遗传学家\n[医] 遗传学家",
+      "en": "n. a biologist who specializes in genetics",
+      "phonetic": "dʒi'netisist",
+      "forms": [
+        "geneticist"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "cells",
+      "headword": "cell",
+      "kind": "word",
+      "zh": "n. 单元, 细胞, 电池\n[计] 单元",
+      "en": "n. any small compartment\nn. (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals\nn. a device that delivers an electric current as the result of a chemical reaction\nn. a small unit serving as part of or as the nucleus of a larger political movement",
+      "phonetic": "sel",
+      "forms": [
+        "cells"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "encounter",
+      "headword": "encounter",
+      "kind": "word",
+      "zh": "n. 相会, 相遇, 遭遇\nvt. 遇见, 邂逅, 会战\nvi. 偶然相遇",
+      "en": "n. a casual meeting with a person or thing",
+      "phonetic": "in'kauntә",
+      "forms": [
+        "encounter"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "exposures",
+      "headword": "exposure",
+      "kind": "word",
+      "zh": "n. 暴露, 揭发, 揭露\n[化] 曝光量; 照射; 照射量",
+      "en": "n. vulnerability to the elements; to the action of heat or cold or wind or rain; \nn. the act of subjecting someone to an influencing experience\nn. the disclosure of something secret\nn. aspect resulting from the direction a building or window faces",
+      "phonetic": "ik'spәuʒә",
+      "forms": [
+        "exposures",
+        "exposure"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "toxins",
+      "headword": "toxin",
+      "kind": "word",
+      "zh": "n. 毒素\n[化] 毒素",
+      "en": "n. a poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species",
+      "phonetic": "'tɒksin",
+      "forms": [
+        "toxins",
+        "toxin"
+      ],
+      "example": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "blocks",
+      "headword": "block",
+      "kind": "word",
+      "zh": "n. 街区, 木块, 石块, 块\nvt. 阻塞, 封锁, 使成块状\n[计] 块, 数据块",
+      "en": "n. a solid piece of something (usually having flat rectangular sides)\nn. a rectangular area in a city surrounded by streets and usually containing several buildings\nn. a three-dimensional shape with six square or rectangular sides\nn. a number or quantity of related things dealt with as a unit",
+      "phonetic": "blɒk",
+      "forms": [
+        "blocks"
+      ],
+      "example": "Cells are the building blocks of all human tissues and organ systems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "organ",
+      "headword": "organ",
+      "kind": "word",
+      "zh": "n. 风琴, 器官, 元件, 机构, 机关\n[电] 风琴",
+      "en": "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function\nn. a government agency or instrument devoted to the performance of some specific function\nn. a periodical that is published by a special interest group\nn. wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard",
+      "phonetic": "'ɒ:gәn",
+      "forms": [
+        "organ"
+      ],
+      "example": "Cells are the building blocks of all human tissues and organ systems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "sensitive",
+      "headword": "sensitive",
+      "kind": "word",
+      "zh": "a. 敏感的, 易感的, 灵敏的, 感光的\n[机] 敏感的, 灵敏的, 感度高的",
+      "en": "a. responsive to physical stimuli\na. being susceptible to the attitudes, feelings, or circumstances of others\ns. hurting\ns. of or pertaining to classified information or matters affecting national security",
+      "phonetic": "'sensitiv",
+      "forms": [
+        "sensitive"
+      ],
+      "example": "How sensitive they are to different environmental factors can greatly affect a person’s health and disease risk.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "greatly",
+      "headword": "greatly",
+      "kind": "word",
+      "zh": "adv. 很, 非常",
+      "en": "r. to an extraordinary extent or degree",
+      "phonetic": "'greitli",
+      "forms": [
+        "greatly"
+      ],
+      "example": "How sensitive they are to different environmental factors can greatly affect a person’s health and disease risk.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "revolutions",
+      "headword": "revolution",
+      "kind": "word",
+      "zh": "n. 革命, 大变革, 旋转, 转数, 循环\n[化] 回转",
+      "en": "n. a drastic and far-reaching change in ways of thinking and behaving\nn. the overthrow of a government by those who are governed",
+      "phonetic": ".revә'lu:ʃәn",
+      "forms": [
+        "revolutions"
+      ],
+      "example": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "stem",
+      "headword": "stem",
+      "kind": "word",
+      "zh": "n. 茎, 干, 柄, 船首, 血统, 堵塞物\nvt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行\nvi. 堵住, 逆行",
+      "en": "n. the tube of a tobacco pipe\nv. grow out of, have roots in, originate in\nv. cause to point inward\nv. stop the flow of a liquid",
+      "phonetic": "stem",
+      "forms": [
+        "stem"
+      ],
+      "example": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "impossible",
+      "headword": "impossible",
+      "kind": "word",
+      "zh": "a. 不可能的, 难以置信的, 令人无法忍受的",
+      "en": "n. something that cannot be done\na. not capable of occurring or being accomplished or dealt with\ns. totally unlikely\ns. used of persons or their behavior",
+      "phonetic": "im'pɒsәbl",
+      "forms": [
+        "impossible"
+      ],
+      "example": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "irreversible",
+      "headword": "irreversible",
+      "kind": "word",
+      "zh": "a. 不可逆的, 不可改变的, 不能倒置的, 不能翻转的, 不能倒转的, 不可撤销的\n[计] 不可逆的",
+      "en": "a. incapable of being reversed",
+      "phonetic": ",iri'vә:sәbl,-sib-",
+      "forms": [
+        "irreversible"
+      ],
+      "example": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "obtain",
+      "headword": "obtain",
+      "kind": "word",
+      "zh": "vt. 获得, 达到\nvi. 流行, 得到公认",
+      "en": "v. come into possession of",
+      "phonetic": "әb'tein",
+      "forms": [
+        "obtain"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "stem cells",
+      "headword": "stem cells",
+      "kind": "phrase",
+      "zh": "干细胞",
+      "en": "cells able to develop into specialised cell types",
+      "forms": [
+        "stem cells"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v108",
+      "term": "donors",
+      "headword": "donor",
+      "kind": "word",
+      "zh": "n. 捐赠人\n[化] 给体; 供体",
+      "en": "n. person who makes a gift of property\nn. (medicine) someone who gives blood or tissue or an organ to be used in another person (the host)",
+      "phonetic": "'dәunә",
+      "forms": [
+        "donors"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "convert",
+      "headword": "convert",
+      "kind": "word",
+      "zh": "n. 皈依者, 改变宗教信仰者\nvt. 使改变信仰, 转换, 兑换, 倒置\nvi. 皈依\n[计] 转换",
+      "en": "n. a person who has been converted to another religious or political belief\nv. change from one system to another or to a new plan or policy\nv. change the nature, purpose, or function of something\nv. change religious beliefs, or adopt a religious belief",
+      "phonetic": "kәn'vә:t",
+      "forms": [
+        "convert"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "experiments",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiments"
+      ],
+      "example": "Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "handful",
+      "headword": "handful",
+      "kind": "word",
+      "zh": "n. 少数, 一把, 棘手事",
+      "en": "n. a small number or amount\nn. the quantity that can be held in the hand",
+      "phonetic": "'hændful",
+      "forms": [
+        "handful"
+      ],
+      "example": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "stressors",
+      "headword": "stressor",
+      "kind": "word",
+      "zh": "[医] 紧张性刺激; 应激物",
+      "en": "n. any agent that causes stress to an organism",
+      "phonetic": "'stresә",
+      "forms": [
+        "stressors"
+      ],
+      "example": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "mainly",
+      "headword": "mainly",
+      "kind": "word",
+      "zh": "adv. 主要地, 大抵",
+      "en": "r for the most part",
+      "phonetic": "'meinli",
+      "forms": [
+        "mainly"
+      ],
+      "example": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "scale",
+      "headword": "scale",
+      "kind": "word",
+      "zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢\nvt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤\nvi. 剥落, 生水垢, 重量为, 攀登, 衡量\n[计] 刻度",
+      "en": "n. an ordered reference standard\nn. relative magnitude\nn. the ratio between the size of something and a representation of it\nn. a specialized leaf or bract that protects a bud or catkin",
+      "phonetic": "skeil",
+      "forms": [
+        "scale"
+      ],
+      "example": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "petri",
+      "headword": "petri",
+      "kind": "word",
+      "zh": "abbr. petroleum 石油",
+      "en": "",
+      "phonetic": "pɛtrə",
+      "forms": [
+        "petri"
+      ],
+      "example": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "traditionally",
+      "headword": "traditionally",
+      "kind": "word",
+      "zh": "adv. 传统上；传说上；习惯上",
+      "en": "r. according to tradition; in a traditional manner",
+      "phonetic": "",
+      "forms": [
+        "traditionally"
+      ],
+      "example": "To know whose cells are in a dish, researchers traditionally needed to handle and maintain cells from different people separately.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "handle",
+      "headword": "handle",
+      "kind": "word",
+      "zh": "n. 柄, 把手, 把柄, 柄状物, 手感\nvt. 触摸, 运用, 买卖, 处理, 操作\nvi. 搬运, 易于操纵\nn. 句柄\n[计] 句柄",
+      "en": "n. the appendage to an object that is designed to be held in order to use or move it\nv. touch, lift, or hold with the hands\nv. show and train",
+      "phonetic": "hændl",
+      "forms": [
+        "handle"
+      ],
+      "example": "To know whose cells are in a dish, researchers traditionally needed to handle and maintain cells from different people separately.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "separately",
+      "headword": "separately",
+      "kind": "word",
+      "zh": "adv. [表]分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂\n[计] 分离地",
+      "en": "r apart from others",
+      "phonetic": "'sepәrәtli",
+      "forms": [
+        "separately"
+      ],
+      "example": "To know whose cells are in a dish, researchers traditionally needed to handle and maintain cells from different people separately.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "requirement",
+      "headword": "requirement",
+      "kind": "word",
+      "zh": "n. 需求, 必要条件, 要求\n[化] 要求; 合同要求",
+      "en": "n. required activity",
+      "phonetic": "ri'kwaiәmәnt",
+      "forms": [
+        "requirement"
+      ],
+      "example": "This requirement adds considerable time, effort and cost for every new cell line included in the experimental design.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "considerable",
+      "headword": "considerable",
+      "kind": "word",
+      "zh": "a. 相当的, 可观的, 重要的",
+      "en": "a. large or relatively large in number or amount or extent or degree",
+      "phonetic": "kәn'sidәrәbl",
+      "forms": [
+        "considerable"
+      ],
+      "example": "This requirement adds considerable time, effort and cost for every new cell line included in the experimental design.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "experimental",
+      "headword": "experimental",
+      "kind": "word",
+      "zh": "a. 实验的, 根据实验的\n[医] 实验的",
+      "en": "a. relating to or based on experiment\ns. relying on observation or experiment\ns. of the nature of or undergoing an experiment",
+      "phonetic": "ik.speri'mentәl",
+      "forms": [
+        "experimental"
+      ],
+      "example": "This requirement adds considerable time, effort and cost for every new cell line included in the experimental design.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "limit",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limit"
+      ],
+      "example": "Because these issues limit the scale of experiments, studies aren’t able to capture the natural diversity of people and therefore cannot answer questions about why an exposure might make one person sick but have no effect on another.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "capture",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "capture"
+      ],
+      "example": "Because these issues limit the scale of experiments, studies aren’t able to capture the natural diversity of people and therefore cannot answer questions about why an exposure might make one person sick but have no effect on another.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "diversity",
+      "headword": "diversity",
+      "kind": "word",
+      "zh": "n. 差异, 多样性\n[化] 多样性",
+      "en": "n. the condition or result of being changeable",
+      "phonetic": "dai'vә:siti",
+      "forms": [
+        "diversity"
+      ],
+      "example": "Because these issues limit the scale of experiments, studies aren’t able to capture the natural diversity of people and therefore cannot answer questions about why an exposure might make one person sick but have no effect on another.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "tackles",
+      "headword": "tackle",
+      "kind": "word",
+      "zh": "n. 工具, 复滑车, 滑车, 装备, 扭倒\nvt. 固定, 处理, 抓住\nvi. 扭倒",
+      "en": "n. the person who plays that position on a football team\nn. (American football) a position on the line of scrimmage\nn. (American football) grasping an opposing player with the intention of stopping by throwing to the ground\nv. seize and throw down an opponent player, who usually carries the ball",
+      "phonetic": "'tækl",
+      "forms": [
+        "tackles"
+      ],
+      "example": "My laboratory tackles this problem by pooling stem cell-derived brain cells from dozens to hundreds of people into the same culture dish – what my team calls a cell village.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "pooling",
+      "headword": "pool",
+      "kind": "word",
+      "zh": "n. 池, 水塘, 石油层, 联营\nvt. 合伙经营, 共享, 采掘, 汇聚成\nvi. 汇合成塘, 淤积, 联营",
+      "en": "n. an excavation that is (usually) filled with water\nn. an organization of people or resources that can be shared\nn. any communal combination of funds\nn. a small body of standing water (rainwater) or other liquid",
+      "phonetic": "pu:l",
+      "forms": [
+        "pooling"
+      ],
+      "example": "My laboratory tackles this problem by pooling stem cell-derived brain cells from dozens to hundreds of people into the same culture dish – what my team calls a cell village.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "hundreds",
+      "headword": "hundreds",
+      "kind": "word",
+      "zh": "n. 数百",
+      "en": "n ten 10s",
+      "phonetic": "",
+      "forms": [
+        "hundreds"
+      ],
+      "example": "My laboratory tackles this problem by pooling stem cell-derived brain cells from dozens to hundreds of people into the same culture dish – what my team calls a cell village.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "village",
+      "headword": "village",
+      "kind": "word",
+      "zh": "n. 村庄\na. 乡村的, 村庄的",
+      "en": "n. a community of people smaller than a town\nn. a settlement smaller than a town",
+      "phonetic": "'vilidʒ",
+      "forms": [
+        "village",
+        "villages"
+      ],
+      "example": "My laboratory tackles this problem by pooling stem cell-derived brain cells from dozens to hundreds of people into the same culture dish – what my team calls a cell village.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "donated",
+      "headword": "donate",
+      "kind": "word",
+      "zh": "v. 捐赠",
+      "en": "v. give to a charity or good cause",
+      "phonetic": "'dәuneit",
+      "forms": [
+        "donated"
+      ],
+      "example": "We use the genomes of these cells as natural barcodes to determine who donated each one.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "perturbations",
+      "headword": "perturbation",
+      "kind": "word",
+      "zh": "n. 不安, 扰乱, 紊乱, 烦扰\n[化] 摄动; 微扰",
+      "en": "n. (physics) a secondary influence on a system that causes it to deviate slightly\nn. activity that is a malfunction, intrusion, or interruption\nn. a disposition that is confused or nervous and upset",
+      "phonetic": ",pә:tә:'beiʃәn",
+      "forms": [
+        "perturbations"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "pathogens",
+      "headword": "pathogen",
+      "kind": "word",
+      "zh": "n. 病原体\n[医] 病原体",
+      "en": "n. any disease-producing agent (especially a virus or bacterium or other microorganism)",
+      "phonetic": "'pæθәdʒ(ә)n",
+      "forms": [
+        "pathogens",
+        "pathogen"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical",
+        "chemicals"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "pollutants",
+      "headword": "pollutant",
+      "kind": "word",
+      "zh": "n. 污染物质\n[法] 污染物",
+      "en": "n. waste matter that contaminates the water or air or soil",
+      "phonetic": "pә'lu:tәnt",
+      "forms": [
+        "pollutants"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "radiation",
+      "headword": "radiation",
+      "kind": "word",
+      "zh": "n. 辐射\n[化] 放射",
+      "en": "n. energy that is radiated or transmitted in the form of rays or waves or particles\nn. the act of spreading outward from a central source\nn. the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay\nn. the spread of a group of organisms into new habitats",
+      "phonetic": ".reidi'eiʃәn",
+      "forms": [
+        "radiation"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "measure",
+      "headword": "measure",
+      "kind": "word",
+      "zh": "n. 尺寸, 量度器, 量度标准, 测量, 量具, 程度, 范围, 限度, 分寸, 措施, 方法\nvt. 测量, 测度, 估量, 权衡, 调节, 拿(自己或自己的力量等)作较量\nvi. 度量",
+      "en": "n. any maneuver made as part of progress toward a goal\nn. how much there is or how many there are of something that you can quantify\nn. musical notation for a repeating pattern of musical beats\nn. a container of some standard capacity that is used to obtain fixed amounts of a substance",
+      "phonetic": "'meʒә",
+      "forms": [
+        "measure"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "reacts",
+      "headword": "react",
+      "kind": "word",
+      "zh": "vi. 起反应, 起作用, 反攻\n[医] 应答, 发生反应",
+      "en": "v. show a response or a reaction to something\nv. act against or in opposition to\nv. undergo a chemical reaction; react with another substance under certain conditions",
+      "phonetic": "ri'ækt",
+      "forms": [
+        "reacts"
+      ],
+      "example": "We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "genes",
+      "headword": "gene",
+      "kind": "word",
+      "zh": "n. 基因\n[化] 基因(遗传因子)",
+      "en": "n. (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity",
+      "phonetic": "dʒi:n",
+      "forms": [
+        "genes",
+        "gene"
+      ],
+      "example": "Each cell might respond by turning on or off a set of genes, showing an increased or decreased propensity to die, or do nothing at all.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "decreased",
+      "headword": "decrease",
+      "kind": "word",
+      "zh": "n. 减少, 减少量\nv. 减少",
+      "en": "n. a change downward\nn. a process of becoming smaller or shorter\nn. the amount by which something decreases\nn. the act of decreasing or reducing something",
+      "phonetic": "'di:kri:s",
+      "forms": [
+        "decreased"
+      ],
+      "example": "Each cell might respond by turning on or off a set of genes, showing an increased or decreased propensity to die, or do nothing at all.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "propensity",
+      "headword": "propensity",
+      "kind": "word",
+      "zh": "n. 倾向, 爱好, 习性",
+      "en": "n an inclination to do something\nn a natural inclination\nn a disposition to behave in a certain way",
+      "phonetic": "prә'pensәti",
+      "forms": [
+        "propensity"
+      ],
+      "example": "Each cell might respond by turning on or off a set of genes, showing an increased or decreased propensity to die, or do nothing at all.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "essentially",
+      "headword": "essentially",
+      "kind": "word",
+      "zh": "adv. 本质上, 本来",
+      "en": "r in essence; at bottom or by one's (or its) very nature",
+      "phonetic": "i'senʃәli",
+      "forms": [
+        "essentially"
+      ],
+      "example": "These genes are essentially biomarkers for the vulnerability of a specific cell type to an exposure.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "vulnerability",
+      "headword": "vulnerability",
+      "kind": "word",
+      "zh": "n. 易受伤, 易受责难, 易受伤部位\n[医] 易损性",
+      "en": "n. the state of being vulnerable or exposed\nn. susceptibility to injury or attack",
+      "phonetic": ".vʌlnәrә'biliti",
+      "forms": [
+        "vulnerability"
+      ],
+      "example": "These genes are essentially biomarkers for the vulnerability of a specific cell type to an exposure.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "atlas",
+      "headword": "atlas",
+      "kind": "word",
+      "zh": "n. 地图集, 图表集\n[计] 自动测试和负载分析系统",
+      "en": "n. (Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders\nn. a collection of maps in book form\nn. the 1st cervical vertebra\nn. a figure of a man used as a supporting column",
+      "phonetic": "'ætlәs",
+      "forms": [
+        "atlas"
+      ],
+      "example": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "While cell villages are relatively new, they have already helped researchers better understand what makes people different from each other.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "vulnerable",
+      "headword": "vulnerable",
+      "kind": "word",
+      "zh": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的\n[医] 易损的",
+      "en": "a. susceptible to attack\ns. susceptible to criticism or persuasion or temptation\ns. capable of being wounded or hurt",
+      "phonetic": "'vʌlnәrәbl",
+      "forms": [
+        "vulnerable"
+      ],
+      "example": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "infection",
+      "headword": "infection",
+      "kind": "word",
+      "zh": "n. 传染, 影响, 传染病\n[医] 传染, 感染",
+      "en": "n. the pathological state resulting from the invasion of the body by pathogenic microorganisms\nn. (phonetics) the alteration of a speech sound under the influence of a neighboring sound\nn. (medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease\nn. an incident in which an infectious disease is transmitted",
+      "phonetic": "in'fekʃәn",
+      "forms": [
+        "infection"
+      ],
+      "example": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "spread",
+      "headword": "spread",
+      "kind": "word",
+      "zh": "n. 传播, 散布, 伸展\na. 双唇展开的, 伸展的\nvt. 展开, 铺开, 传播, 推广, 伸出, 涂, 敷, 延伸\nvi. 展开, 扩大, 传开, 延伸\n[计] 展开",
+      "en": "n. process or result of distributing or extending over a wide expanse of space\nn. a tasty mixture to be spread on bread or crackers or used in preparing other dishes\nn. two facing pages of a book or other publication\nn. the expansion of a person's girth (especially at middle age)",
+      "phonetic": "spred",
+      "forms": [
+        "spread"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "mosquitoes",
+      "headword": "mosquitoes",
+      "kind": "word",
+      "zh": "蚊子",
+      "en": "n two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals",
+      "phonetic": "",
+      "forms": [
+        "mosquitoes"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "neurological",
+      "headword": "neurological",
+      "kind": "word",
+      "zh": "a. 神经病学上的",
+      "en": "a. of or relating to or used in or practicing neurology",
+      "phonetic": ".njurә'lɒdʒikl",
+      "forms": [
+        "neurological"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "disorders",
+      "headword": "disorder",
+      "kind": "word",
+      "zh": "n. 杂乱, 混乱\nvt. 扰乱, 使失调",
+      "en": "n. a physical condition in which there is a disturbance of normal functioning\nn. a disturbance of the peace or of public order\nv. bring disorder to",
+      "phonetic": "dis'ɒ:dә",
+      "forms": [
+        "disorders"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "microcephaly",
+      "headword": "microcephaly",
+      "kind": "word",
+      "zh": "n. 小头畸型\n[医] 小头",
+      "en": "n. an abnormally small head and underdeveloped brain",
+      "phonetic": ".maikrәu'sefәli",
+      "forms": [
+        "microcephaly"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "fetuses",
+      "headword": "fetuses",
+      "kind": "word",
+      "zh": "n. 胎, 胎儿( fetus的名词复数 )",
+      "en": "n an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal",
+      "phonetic": "'fɪtəsɪz",
+      "forms": [
+        "fetuses"
+      ],
+      "example": "Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "equally",
+      "headword": "equally",
+      "kind": "word",
+      "zh": "adv. 相等地, 同样地, 平等地",
+      "en": "r. to the same degree (often followed by `as')",
+      "phonetic": "'i:kwәli",
+      "forms": [
+        "equally"
+      ],
+      "example": "Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "susceptible",
+      "headword": "susceptible",
+      "kind": "word",
+      "zh": "a. 易受影响的, 易感动的, 容许...的\n[法] 易感的, 易受影响的, 容许",
+      "en": "a. (often followed by `of' or `to') yielding readily to or capable of\ns. easily impressed emotionally",
+      "phonetic": "sә'septәbl",
+      "forms": [
+        "susceptible"
+      ],
+      "example": "Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "For some, fewer than 1% of their cells were infected by Zika virus; for others, it was greater than 99%.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "infected",
+      "headword": "infect",
+      "kind": "word",
+      "zh": "vt. 传染, 感染\n[医] 传染, 感染",
+      "en": "v. communicate a disease to\nv. contaminate with a disease or microorganism\nv. corrupt with ideas or an ideology\nv. affect in a contagious way",
+      "phonetic": "in'fekt",
+      "forms": [
+        "infected"
+      ],
+      "example": "For some, fewer than 1% of their cells were infected by Zika virus; for others, it was greater than 99%.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "additional",
+      "headword": "additional",
+      "kind": "word",
+      "zh": "a. 附加的, 另外的, 额外的\n[机] 加添的, 附加的",
+      "en": "s further or added",
+      "phonetic": "ә'diʃәnәl",
+      "forms": [
+        "additional"
+      ],
+      "example": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "regulates",
+      "headword": "regulate",
+      "kind": "word",
+      "zh": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+      "en": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+      "phonetic": "'regjuleit",
+      "forms": [
+        "regulates"
+      ],
+      "example": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "antiviral",
+      "headword": "antiviral",
+      "kind": "word",
+      "zh": "a. 抗病毒的\n[医] 抗病毒的",
+      "en": "n. any drug that destroys viruses\na. inhibiting or stopping the growth and reproduction of viruses",
+      "phonetic": "'ænti'vaiәrәl",
+      "forms": [
+        "antiviral"
+      ],
+      "example": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "influenza",
+      "headword": "influenza",
+      "kind": "word",
+      "zh": "n. 流行性感冒\n[医] 流行性感冒, 流感",
+      "en": "n. an acute febrile highly contagious viral disease",
+      "phonetic": ".influ'enzә",
+      "forms": [
+        "influenza"
+      ],
+      "example": "In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found links between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "severity",
+      "headword": "severity",
+      "kind": "word",
+      "zh": "n. 严格, 朴素, 激烈",
+      "en": "n. excessive sternness",
+      "phonetic": "si'veriti",
+      "forms": [
+        "severity"
+      ],
+      "example": "In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found links between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "sensitivity",
+      "headword": "sensitivity",
+      "kind": "word",
+      "zh": "n. 敏感, 灵敏度\n[计] 灵敏度",
+      "en": "n. (physiology) responsiveness to external stimuli; the faculty of sensation\nn. the ability to respond to physical stimuli or to register small physical amounts or differences\nn. sensitivity to emotional feelings (of self and others)",
+      "phonetic": ".sensә'tiviti",
+      "forms": [
+        "sensitivity"
+      ],
+      "example": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "pervasive",
+      "headword": "pervasive",
+      "kind": "word",
+      "zh": "a. 普遍的, 流行的, 到处蔓延的, 到处渗透的",
+      "en": "s spreading or spread throughout",
+      "phonetic": "pә'veisiv",
+      "forms": [
+        "pervasive"
+      ],
+      "example": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "neurodevelopmental",
+      "headword": "neurodevelopmental",
+      "kind": "word",
+      "zh": "[医]神经发育的",
+      "en": "",
+      "phonetic": "nərəʊdi:'veləpmentl",
+      "forms": [
+        "neurodevelopmental"
+      ],
+      "example": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "forever",
+      "headword": "forever",
+      "kind": "word",
+      "zh": "adv. 永远",
+      "en": "r. for a very long or seemingly endless time",
+      "phonetic": "fә'revә",
+      "forms": [
+        "forever"
+      ],
+      "example": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "measles",
+      "headword": "measles",
+      "kind": "word",
+      "zh": "n. 麻疹, 风疹, 家畜囊尾蚴病, 米珠\n[医] 麻疹, 囊尾蚴病(家畜)",
+      "en": "n. an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children",
+      "phonetic": "'mi:zlz",
+      "forms": [
+        "measles"
+      ],
+      "example": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "stress",
+      "headword": "stress",
+      "kind": "word",
+      "zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力\nvt. 加压力于, 着重, 重读",
+      "en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)\nn. special emphasis attached to something\nn. difficulty that causes worry or emotional tension\nn. (physics) force that produces strain on a physical body",
+      "phonetic": "stres",
+      "forms": [
+        "stress"
+      ],
+      "example": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "hormones",
+      "headword": "hormone",
+      "kind": "word",
+      "zh": "n. 荷尔蒙\n[化] 激素(旧称荷尔蒙)",
+      "en": "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "phonetic": "'hɒ:mәun",
+      "forms": [
+        "hormones"
+      ],
+      "example": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "catalog",
+      "headword": "catalog",
+      "kind": "word",
+      "zh": "n. 目录, 大学概况手册\nvt. 编目录\n[计] 目录; 编目",
+      "en": "n. a book or pamphlet containing an enumeration of things\nn. a complete list of things; usually arranged systematically",
+      "phonetic": "'kætәlɒg",
+      "forms": [
+        "catalog"
+      ],
+      "example": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "emerging",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerging"
+      ],
+      "example": "The cell village is only one of many emerging technologies that could usher in a new era of biomarker detection.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "usher",
+      "headword": "usher",
+      "kind": "word",
+      "zh": "n. 引座员, 招待员\nvt. 引导, 招待\nvi. 作招待员",
+      "en": "n. an official stationed at the entrance of a courtroom or legislative chamber\nn. someone employed to conduct others\nv. take (someone) to their seats, as in theaters or auditoriums",
+      "phonetic": "'ʌʃә",
+      "forms": [
+        "usher"
+      ],
+      "example": "The cell village is only one of many emerging technologies that could usher in a new era of biomarker detection.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "detection",
+      "headword": "detection",
+      "kind": "word",
+      "zh": "n. 发现, 察觉, 探测\n[计] 检波; 检测",
+      "en": "n. the perception that something has occurred or some state exists\nn. the act of detecting something; catching sight of something\nn. a police investigation to determine the perpetrator",
+      "phonetic": "di'tekʃәn",
+      "forms": [
+        "detection"
+      ],
+      "example": "The cell village is only one of many emerging technologies that could usher in a new era of biomarker detection.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "sequencing",
+      "headword": "sequence",
+      "kind": "word",
+      "zh": "n. 序列, 续发事件, 顺序, 连续\nvt. 按顺序排好\n[计] 顺序",
+      "en": "n. serial arrangement in which things follow in logical order or a recurrent pattern\nn. a following of one thing after another in time\nn. film consisting of a succession of related shots that develop a given subject in a movie\nn. several repetitions of a melodic phrase in different keys",
+      "phonetic": "'si:kwәns",
+      "forms": [
+        "sequencing"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "health outcomes",
+      "headword": "health outcomes",
+      "kind": "phrase",
+      "zh": "健康结局",
+      "en": "measurable effects on health following an exposure or intervention",
+      "forms": [
+        "health outcomes"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v176",
+      "term": "outcomes",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcomes"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "healthcare",
+      "headword": "healthcare",
+      "kind": "word",
+      "zh": "n. 医疗保健；卫生保健；健康护理, 健康服务",
+      "en": "n. the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+      "phonetic": "'helθkεә",
+      "forms": [
+        "healthcare"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "intervene",
+      "headword": "intervene",
+      "kind": "word",
+      "zh": "vi. 插入, 调停, 干涉\n[经] 进场干预",
+      "en": "v. get involved, so as to alter or hinder an action, or through force or threat of force\nv. be placed or located between other things or extend between spaces and events\nv. occur between other event or between certain points of time",
+      "phonetic": ".intә'vi:n",
+      "forms": [
+        "intervene"
+      ],
+      "example": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "tools",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tools"
+      ],
+      "example": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "survey",
+      "headword": "survey",
+      "kind": "word",
+      "zh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地",
+      "en": "n. a detailed critical inspection\nv. consider in a comprehensive way\nv. look over carefully or inspect\nv. make a survey of; for statistical purposes",
+      "phonetic": "sә'vei",
+      "forms": [
+        "survey"
+      ],
+      "example": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v181",
+      "term": "intention",
+      "headword": "intention",
+      "kind": "word",
+      "zh": "n. 意图, 目的, 含义\n[医] 愈合, 意向",
+      "en": "n. (usually plural) the goal with respect to a marriage proposal\nn. an act of intending; a volition that you intend to carry out",
+      "phonetic": "in'tenʃәn",
+      "forms": [
+        "intention"
+      ],
+      "example": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "progression",
+      "headword": "progression",
+      "kind": "word",
+      "zh": "n. 前进, 连续, 级数\n[医] 进行, 前进, 步态",
+      "en": "n. a series with a definite pattern of advance",
+      "phonetic": "prә'greʃәn",
+      "forms": [
+        "progression"
+      ],
+      "example": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "unnoticed",
+      "headword": "unnoticed",
+      "kind": "word",
+      "zh": "a. 不被注意的, 被忽视的\n[法] 未被注意的, 未被顾及的:不瞩目的",
+      "en": "a. not noticed",
+      "phonetic": "'ʌn'nәutist",
+      "forms": [
+        "unnoticed"
+      ],
+      "example": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "cellphones",
+      "headword": "cellphone",
+      "kind": "word",
+      "zh": "n. 蜂窝式便携无线电话；大哥大",
+      "en": "n a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+      "phonetic": "'selfәun",
+      "forms": [
+        "cellphones"
+      ],
+      "example": "Cellphones and smartwatches may also be useful in efforts to discover new health-related biomarkers.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v185",
+      "term": "wearable",
+      "headword": "wearable",
+      "kind": "word",
+      "zh": "a. 可穿用的\nn. 衣服",
+      "en": "a. suitable for wear or able to be worn",
+      "phonetic": "'wєәrәbl",
+      "forms": [
+        "wearable"
+      ],
+      "example": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v186",
+      "term": "devices",
+      "headword": "device",
+      "kind": "word",
+      "zh": "n. 装置, 设计, 策略, 发明物, 设备\n[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
+      "en": "n. an instrumentality invented for a particular purpose\nn. something in an artistic work designed to achieve a particular effect\nn. any clever maneuver\nn. any ornamental pattern or design (as in embroidery)",
+      "phonetic": "di'vais",
+      "forms": [
+        "devices"
+      ],
+      "example": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v187",
+      "term": "behavioral",
+      "headword": "behavioral",
+      "kind": "word",
+      "zh": "a. 行为的",
+      "en": "a. of or relating to behavior",
+      "phonetic": "bi'heivjәrәl",
+      "forms": [
+        "behavioral"
+      ],
+      "example": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v188",
+      "term": "depressive",
+      "headword": "depressive",
+      "kind": "word",
+      "zh": "a. 压抑的, 压下的, 沉闷的\n[医] 抑郁的, 阻抑的, 压低的",
+      "en": "n. someone suffering psychological depression",
+      "phonetic": "di'presiv",
+      "forms": [
+        "depressive"
+      ],
+      "example": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v189",
+      "term": "episodes",
+      "headword": "episode",
+      "kind": "word",
+      "zh": "n. 插曲, 插话, 有趣的事件, 一段情节\n[医] 插话, 插曲, 发作",
+      "en": "n. a happening that is distinctive in a series of related events\nn. a brief section of a literary or dramatic work that forms part of a connected series\nn. a part of a broadcast serial",
+      "phonetic": "'episәud",
+      "forms": [
+        "episodes"
+      ],
+      "example": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v190",
+      "term": "widely",
+      "headword": "widely",
+      "kind": "word",
+      "zh": "adv. 广泛地",
+      "en": "r. to a great degree\nr. so as to leave much space or distance between",
+      "phonetic": "'waidli",
+      "forms": [
+        "widely"
+      ],
+      "example": "The goal now is to test how well these biomarkers work in the real world and make them widely available so that doctors everywhere can have as much information as possible about their patients when making life-changing decisions.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v191",
+      "term": "everywhere",
+      "headword": "everywhere",
+      "kind": "word",
+      "zh": "adv. 各处, 到处",
+      "en": "r. to or in any or all places; (`everyplace' is used informally for `everywhere')",
+      "phonetic": "'evrihwєә",
+      "forms": [
+        "everywhere"
+      ],
+      "example": "The goal now is to test how well these biomarkers work in the real world and make them widely available so that doctors everywhere can have as much information as possible about their patients when making life-changing decisions.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      24,
+      32
+    ],
+    "wordBank": [
+      "exposures",
+      "measles",
+      "equally",
+      "clinic",
+      "vulnerable",
+      "biomarkers",
+      "links",
+      "regulates",
+      "wearable",
+      "intention"
+    ],
+    "parts": [
+      {
+        "text": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " to Zika virus infection. Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses. Using stem cell-derived brain cells from 40 people, we found that not everyone was "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " susceptible to infection. For some, fewer than 1% of their cells were infected by Zika virus; for others, it was greater than 99%.\n\nThrough additional cell village experiments, we discovered a genetic variant that "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " a powerful antiviral gene called IFITM3. In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.\n\nMy team has also conducted similar work to identify genetic "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin. We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " virus infection; and stress hormones.\n\nOur goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ".\n\nThe future of biomarkers\n\nThe cell village is only one of many emerging technologies that could usher in a new era of biomarker detection.\n\nAs DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.\n\nResearchers are developing AI tools to survey medical imaging such as CT and MRI scans with the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.\n\nCellphones and smartwatches may also be useful in efforts to discover new health-related biomarkers. For example, some studies have used these and other "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " devices to find behavioral biomarkers that predict major depressive episodes."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "vulnerable",
+        "vocabularyId": "v144",
+        "explanation": "原文此处使用 vulnerable（vulnerable）。结合上下文辨认词义与词形。",
+        "evidence": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection.",
+        "paragraph": 24
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "equally",
+        "vocabularyId": "v152",
+        "explanation": "原文此处使用 equally（equally）。结合上下文辨认词义与词形。",
+        "evidence": "Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection.",
+        "paragraph": 24
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "regulates",
+        "vocabularyId": "v157",
+        "explanation": "原文此处使用 regulates（regulate）。结合上下文辨认词义与词形。",
+        "evidence": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3.",
+        "paragraph": 25
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "links",
+        "vocabularyId": "v75",
+        "explanation": "原文此处使用 links（link）。结合上下文辨认词义与词形。",
+        "evidence": "In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found links between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.",
+        "paragraph": 25
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "biomarkers",
+        "vocabularyId": "v16",
+        "explanation": "原文此处使用 biomarkers（biomarker）。结合上下文辨认词义与词形。",
+        "evidence": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin.",
+        "paragraph": 26
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "measles",
+        "vocabularyId": "v165",
+        "explanation": "原文此处使用 measles（measles）。结合上下文辨认词义与词形。",
+        "evidence": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+        "paragraph": 26
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "exposures",
+        "vocabularyId": "v94",
+        "explanation": "原文此处使用 exposures（exposure）。结合上下文辨认词义与词形。",
+        "evidence": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
+        "paragraph": 27
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "clinic",
+        "vocabularyId": "v58",
+        "explanation": "原文此处使用 clinic（clinic）。结合上下文辨认词义与词形。",
+        "evidence": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+        "paragraph": 30
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "intention",
+        "vocabularyId": "v181",
+        "explanation": "原文此处使用 intention（intention）。结合上下文辨认词义与词形。",
+        "evidence": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+        "paragraph": 31
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "wearable",
+        "vocabularyId": "v185",
+        "explanation": "原文此处使用 wearable（wearable）。结合上下文辨认词义与词形。",
+        "evidence": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+        "paragraph": 32
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Biomarkers help measure health, and new research methods can help discover additional markers.",
+          "Research compares heat and cold as approaches to recovery after exercise.",
+          "Evidence about fluoride helps explain the differences between natural and conventional toothpaste.",
+          "Mammograms may reveal information about cardiovascular health as well as breast cancer."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Cellphones and smartwatches may also be useful in efforts to discover new health-related biomarkers.",
+        "paragraph": 32
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What can physiological biomarkers such as heart rate indicate?",
+        "options": [
+          "Every future illness with absolute certainty",
+          "Which language a person will learn next year",
+          "How well the body is functioning",
+          "The exact contents of a person's private thoughts"
+        ],
+        "answer": 2,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 12?",
+        "options": [
+          "For example, doctors use hemoglobin A1c levels in the blood to test for diabetes.",
+          "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant.",
+          "Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection.",
+          "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection."
+        ],
+        "answer": 1,
+        "explanation": "定位第 12 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant.",
+        "paragraph": 12
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“These genes are essentially biomarkers for the vulnerability of a specific cell type to an exposure.”",
+        "options": [
+          "Paragraph 15",
+          "Paragraph 12",
+          "Paragraph 21",
+          "Paragraph 8"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 21 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "These genes are essentially biomarkers for the vulnerability of a specific cell type to an exposure.",
+        "paragraph": 21
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.”",
+        "options": [
+          "Paragraph 24",
+          "Paragraph 27",
+          "Paragraph 26",
+          "Paragraph 19"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 27 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
+        "paragraph": 27
+      }
+    ]
+  },
+  "revision": "5f847ef45025da6f16b5b6f45bb08d72234270d66df1f4a05493b1239a37e197"
+}

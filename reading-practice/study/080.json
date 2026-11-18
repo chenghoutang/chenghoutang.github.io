@@ -1,0 +1,3068 @@
+{
+  "schemaVersion": 1,
+  "folder": "080",
+  "articleSha256": "334a648f42c3e39f8de45ef42224130cab2d541cb143cdb1c45883f2efb8188e",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "nobel",
+      "headword": "Nobel",
+      "kind": "word",
+      "zh": "n. 诺贝尔",
+      "en": "n. Swedish chemist remembered for his invention of dynamite and for the bequest that created the Nobel prizes (1833-1896)",
+      "phonetic": "'nәubel",
+      "forms": [
+        "nobel"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "prize",
+      "headword": "prize",
+      "kind": "word",
+      "zh": "n. 奖赏, 奖金, 奖品, 战利品, 捕获\na. 得奖的\nvt. 珍视, 估价, 捕获, 撬, 撬动",
+      "en": "n. something given for victory or superiority in a contest or competition or for winning a lottery\nv. hold dear",
+      "phonetic": "praiz",
+      "forms": [
+        "prize"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "literature",
+      "headword": "literature",
+      "kind": "word",
+      "zh": "n. 文学, 文艺, 著作\n[经] 广告, 商品介绍等文学",
+      "en": "n. creative writing of recognized artistic value\nn. the humanistic study of a body of literature\nn. published writings in a particular style on a particular subject\nn. the profession or art of a writer",
+      "phonetic": "'litәrәtʃә",
+      "forms": [
+        "literature"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "iceland",
+      "headword": "Iceland",
+      "kind": "word",
+      "zh": "n. 冰岛",
+      "en": "n. an island republic on the island of Iceland; became independent of Denmark in 1944\nn. a volcanic island in the North Atlantic near the Arctic Circle",
+      "phonetic": "'aislәnd",
+      "forms": [
+        "iceland"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "according",
+      "headword": "accord",
+      "kind": "word",
+      "zh": "n. 一致, 调和, 协定\nvt. 给与, 使一致\nvi. 相符合",
+      "en": "n. concurrence of opinion\nn. sympathetic compatibility\nv. allow to have",
+      "phonetic": "ә'kɒ:d",
+      "forms": [
+        "according"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "according to",
+      "headword": "according to",
+      "kind": "phrase",
+      "zh": "根据；据……所说",
+      "en": "as stated or reported by a source",
+      "forms": [
+        "according to"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v7",
+      "term": "swedish",
+      "headword": "Swedish",
+      "kind": "word",
+      "zh": "n. 瑞典人, 瑞典语\na. 瑞典的, 瑞典人的, 瑞典语的",
+      "en": "n. a Scandinavian language that is the official language of Sweden and one of two official languages of Finland\na. of or relating to or characteristic of Sweden or its people or culture or language",
+      "phonetic": "'swi:diʃ",
+      "forms": [
+        "swedish"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "academy",
+      "headword": "academy",
+      "kind": "word",
+      "zh": "n. 学院, 院校, 学会",
+      "en": "n. a secondary school (usually private)\nn. an institution for the advancement of art or science or literature\nn. a school for special training\nn. a learned establishment for the advancement of knowledge",
+      "phonetic": "ә'kædәmi",
+      "forms": [
+        "academy"
+      ],
+      "example": "When Anne Carson learned she had won the Nobel Prize in literature, she was in Iceland, where, according to the Swedish Academy, she was “listening to the wind.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "silencing",
+      "headword": "silence",
+      "kind": "word",
+      "zh": "n. 沉默, 无声, 静寂, 湮没, 无声息\nvt. 使缄默\ninterj. 安静",
+      "en": "n. the state of being silent (as when no one is speaking)\nn. the absence of sound\nv. keep from expression, for example by threats or pressure",
+      "phonetic": "'sailәns",
+      "forms": [
+        "silencing"
+      ],
+      "example": "Carson didn’t answer her phone right away, silencing it until her husband persuaded her to call back.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "persuaded",
+      "headword": "persuade",
+      "kind": "word",
+      "zh": "vt. 劝, 使相信, 恳求, 敦促, 说服\nvi. 劝服, 被说服",
+      "en": "v. cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm",
+      "phonetic": "pә'sweid",
+      "forms": [
+        "persuaded"
+      ],
+      "example": "Carson didn’t answer her phone right away, silencing it until her husband persuaded her to call back.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "verdict",
+      "headword": "verdict",
+      "kind": "word",
+      "zh": "n. 裁决, 判决, 判断性意见, 定论, 结论\n[法] 定论, 判断, 意见",
+      "en": "n. (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment",
+      "phonetic": "'vә:dikt",
+      "forms": [
+        "verdict"
+      ],
+      "example": "Her verdict on the academy’s choice: “I think you’re all insane.”",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "insane",
+      "headword": "insane",
+      "kind": "word",
+      "zh": "a. 患精神病的, 极愚蠢的\n[医] 神经错乱的",
+      "en": "a. afflicted with or characteristic of mental derangement",
+      "phonetic": "in'sein",
+      "forms": [
+        "insane"
+      ],
+      "example": "Her verdict on the academy’s choice: “I think you’re all insane.”",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "irony",
+      "headword": "irony",
+      "kind": "word",
+      "zh": "n. 反语, 讽刺, 具有讽刺意味的事",
+      "en": "n. incongruity between what might be expected and what actually occurs\nn. a trope that involves incongruity between what is expected and what occurs",
+      "phonetic": "'aiәrәni",
+      "forms": [
+        "irony"
+      ],
+      "example": "Whatever she felt in the moment, there is an irony in Carson’s Nobel win.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "award",
+      "headword": "award",
+      "kind": "word",
+      "zh": "n. 奖品, 裁定, 判决\nvt. 授予, 给予",
+      "en": "n. a grant made by a law court\nn. a tangible symbol signifying approval or distinction\nv. give, especially as an honor or reward\nv. give as judged due or on the basis of merit",
+      "phonetic": "ә'wɒ:d",
+      "forms": [
+        "award"
+      ],
+      "example": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "exploring",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "exploring"
+      ],
+      "example": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "emptiness",
+      "headword": "emptiness",
+      "kind": "word",
+      "zh": "n. 空虚, 无知",
+      "en": "n. the state of containing nothing\nn. having an empty stomach",
+      "phonetic": "'emptinis",
+      "forms": [
+        "emptiness"
+      ],
+      "example": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "desire",
+      "headword": "desire",
+      "kind": "word",
+      "zh": "n. 欲望, 要求\nvt. 想要, 请求\nvi. 渴望",
+      "en": "n. the feeling that accompanies an unsatisfied state\nn. an inclination to want things\nn. something that is desired\nv. feel or have a desire for; want strongly",
+      "phonetic": "di'zaiә",
+      "forms": [
+        "desire",
+        "desires",
+        "desired"
+      ],
+      "example": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "fulfilled",
+      "headword": "fulfill",
+      "kind": "word",
+      "zh": "vt. 实践, 履行, 实行, 完成, 结束, 满足\n[法] 履行, 完成, 达到",
+      "en": "v put in effect\nv meet the requirements or expectations of\nv fill or meet a want or need",
+      "phonetic": "ful'fil",
+      "forms": [
+        "fulfilled"
+      ],
+      "example": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "honor",
+      "headword": "honor",
+      "kind": "word",
+      "zh": "n. 荣誉, 头衔, 信用, 尊敬, 名誉, 阁下, 勋章\nvt. 尊敬, 授予荣誉, 承兑, 实践",
+      "en": "n. the state of being honored\nn. the quality of being honorable and having a good name\nn. a woman's virtue or chastity",
+      "phonetic": "'ɒnә",
+      "forms": [
+        "honor"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "coincides",
+      "headword": "coincide",
+      "kind": "word",
+      "zh": "vi. 一致, 符合\n[化] 重合",
+      "en": "v. go with, fall together\nv. be the same",
+      "phonetic": ".kәuin'said",
+      "forms": [
+        "coincides"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "anniversary",
+      "headword": "anniversary",
+      "kind": "word",
+      "zh": "n. 周年纪念",
+      "en": "n. the date on which an event occurred in some previous year (or the celebration of it)",
+      "phonetic": "æni'vә:sәri",
+      "forms": [
+        "anniversary"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "publication",
+      "headword": "publication",
+      "kind": "word",
+      "zh": "n. 出版物, 出版, 公布\n[经] 发布",
+      "en": "n. a copy of a printed work offered for distribution\nn. the communication of something to the public; making information generally known\nn. the business of issuing printed matter for sale or distribution",
+      "phonetic": ".pʌbli'keiʃәn",
+      "forms": [
+        "publication"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "bittersweet",
+      "headword": "bittersweet",
+      "kind": "word",
+      "zh": "a. 又苦又甜的, 苦乐参半的\n[医] 白英, 蜀羊泉",
+      "en": "n. poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America\nn. twining shrub of North America having yellow capsules enclosing scarlet seeds\ns. tinged with sadness",
+      "phonetic": "'bitәswi:t",
+      "forms": [
+        "bittersweet"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "meditation",
+      "headword": "meditation",
+      "kind": "word",
+      "zh": "n. 沉思, 冥想",
+      "en": "n. continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature\nn. (religion) contemplation of spiritual matters (usually on religious or philosophical subjects)",
+      "phonetic": ".medi'teiʃәn",
+      "forms": [
+        "meditation"
+      ],
+      "example": "The honor coincides with the 40th anniversary of the publication of her first book, “Eros the Bittersweet,” a meditation on desire.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "void",
+      "headword": "void",
+      "kind": "word",
+      "zh": "n. 空虚, 空间, 空白, 空隙, 空虚感\na. 空的, 无效的, 无人的, 没有的, 无用的\n[计] 脱墨; 空白点",
+      "en": "n. an empty area or space\nv. clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of something\ns. containing nothing",
+      "phonetic": "vɒid",
+      "forms": [
+        "void"
+      ],
+      "example": "In it, Carson argues that desire begins with a void – with wanting what we don’t have.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "traces",
+      "headword": "trace",
+      "kind": "word",
+      "zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳\nvt. 追踪, 回溯, 描绘\nvi. 追溯, 沿路走",
+      "en": "n. a just detectable amount\nn. an indication that something has been present\nn. either of two lines that connect a horse's harness to a wagon or other vehicle or to a whiffletree\nn. a visible mark (as a footprint) left by the passage of person or animal or vehicle",
+      "phonetic": "treis",
+      "forms": [
+        "traces"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "feeling",
+      "headword": "feel",
+      "kind": "word",
+      "zh": "vt. 感觉, 觉得, 触摸, 以为\nvi. 有知觉, 摸索, 同情\nn. 感觉, 觉得, 触摸",
+      "en": "n. an intuitive awareness; \nn. manual stimulation of the genital area for sexual pleasure\nv. undergo an emotional sensation or be in a particular state of mind\nv. perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "phonetic": "fi:l",
+      "forms": [
+        "feeling"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "absence",
+      "headword": "absence",
+      "kind": "word",
+      "zh": "n. 缺席, 缺乏, 没有\n[医] 失神",
+      "en": "n. the state of being absent\nn. failure to be present\nn. the time interval during which something or somebody is away\nn. the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc.; common in petit mal epilepsy",
+      "phonetic": "'æbsәns",
+      "forms": [
+        "absence"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "shapes",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shapes"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "renew",
+      "headword": "renew",
+      "kind": "word",
+      "zh": "vt. 使更新, 使恢复, 复兴, 修补, 补充, 继续, 重订, 重申, 续借\nvi. 更新, 重新开始",
+      "en": "v reestablish on a new, usually improved, basis or make new or like new\nv cause to appear in a new form",
+      "phonetic": "ri'nju:",
+      "forms": [
+        "renew"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "precisely",
+      "headword": "precisely",
+      "kind": "word",
+      "zh": "adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错",
+      "en": "r. indicating exactness or preciseness\nr. in a precise manner\nr. just as it should be",
+      "phonetic": "pri'saisli",
+      "forms": [
+        "precisely"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "complete",
+      "headword": "complete",
+      "kind": "word",
+      "zh": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+      "en": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form",
+      "phonetic": "kәm'pli:t",
+      "forms": [
+        "complete"
+      ],
+      "example": "She traces how this feeling of absence shapes love, reading, writing and thinking, activities that renew themselves precisely because they are never complete.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "philosopher",
+      "headword": "philosopher",
+      "kind": "word",
+      "zh": "n. 哲学家, 哲人, 思想开创人, 达观的人\n[法] 哲学家, 哲学研究者",
+      "en": "n. a specialist in philosophy\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
+      "phonetic": "fi'lɒsәfә",
+      "forms": [
+        "philosopher"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "brief",
+      "headword": "brief",
+      "kind": "word",
+      "zh": "n. 摘要, 简报\na. 简短的, 短暂的\nvt. 对...作简报, 摘要, 节录",
+      "en": "n. a document stating the facts and points of law of a client's case\nn. a condensed written summary or abstract\nv. give essential information to someone\ns. of short duration or distance",
+      "phonetic": "bri:f",
+      "forms": [
+        "brief"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "preface",
+      "headword": "preface",
+      "kind": "word",
+      "zh": "n. 序, 绪言, 前言\nvi. 作序, 写前言\nvt. 给...作序, 以...开始",
+      "en": "n a short introductory essay preceding the text of a book\nv furnish with a preface or introduction",
+      "phonetic": "'prefis",
+      "forms": [
+        "preface"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "franz",
+      "headword": "franz",
+      "kind": "word",
+      "zh": "n. 弗朗茨（Francis Ferdinand的德文名）",
+      "en": "",
+      "phonetic": "frɑ:nts",
+      "forms": [
+        "franz"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "chase",
+      "headword": "chase",
+      "kind": "word",
+      "zh": "n. 追求, 狩猎, 追逐\nvt. 追捕, 追逐, 雕刻, 在...上镶嵌宝石\nvi. 追赶, 奔跑",
+      "en": "n. United States politician and jurist who served as chief justice of the United States Supreme Court (1808-1873)\nn. a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time\nv. go after with the intent to catch\nv. pursue someone sexually or romantically",
+      "phonetic": "tʃeis",
+      "forms": [
+        "chase",
+        "chasing",
+        "chases"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "spinning",
+      "headword": "spin",
+      "kind": "word",
+      "zh": "n. 旋转, 自旋, 疾驰, 情绪低落\nvt. 纺织, 纺, 使旋转, 编造\nvi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+      "en": "n. a swift whirling motion (usually of a missile)\nn. the act of rotating rapidly\nn. a short drive in a car\nn. a distinctive interpretation (especially as used by politicians to sway public opinion)",
+      "phonetic": "spin",
+      "forms": [
+        "spinning",
+        "spins",
+        "spin"
+      ],
+      "example": "“Eros” begins with a brief preface on Franz Kafka’s “The Top,” a story about a philosopher who spends his time around children so he can chase their spinning tops.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "motion",
+      "headword": "motion",
+      "kind": "word",
+      "zh": "n. 移动, 手势, 动作, 意向, 请求, 提议\nv. 打手势",
+      "en": "n. a change of position that does not entail a change of location\nn. a state of change\nn. a formal proposal for action made to a deliberative assembly for discussion and vote\nn. the act of changing location from one place to another",
+      "phonetic": "'mәuʃәn",
+      "forms": [
+        "motion"
+      ],
+      "example": "When a child sets a top in motion, the philosopher snatches it, believing that understanding any small thing, even a spinning top, would be enough to understand everything.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "snatches",
+      "headword": "snatch",
+      "kind": "word",
+      "zh": "n. 抢夺, 攫取, 片断\nvt. 夺取, 攫取\nvi. 想抢走, 攫取",
+      "en": "n. a small fragment\nn. a weightlift in which the barbell is lifted overhead in one rapid motion\nv. to grasp hastily or eagerly\nv. to make grasping motions",
+      "phonetic": "snætʃ",
+      "forms": [
+        "snatches"
+      ],
+      "example": "When a child sets a top in motion, the philosopher snatches it, believing that understanding any small thing, even a spinning top, would be enough to understand everything.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "grasps",
+      "headword": "grasp",
+      "kind": "word",
+      "zh": "n. 把握, 抓紧, 理解, 抓, 柄, 控制\nvt. 抓住, 紧握, 领会\nvi. 抓",
+      "en": "v. hold firmly",
+      "phonetic": "græsp",
+      "forms": [
+        "grasps",
+        "grasp",
+        "grasping"
+      ],
+      "example": "While the top spins, the philosopher is filled with hope, but as soon as he grasps it, he is repelled by the dumb piece of wood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "repelled",
+      "headword": "repel",
+      "kind": "word",
+      "zh": "vt. 逐退, 抵制, 使厌恶, 抗御\nvi. 使厌恶, 相互排斥",
+      "en": "v. cause to move back by force or influence\nv. be repellent to; cause aversion in\nv. force or drive back",
+      "phonetic": "ri'pel",
+      "forms": [
+        "repelled"
+      ],
+      "example": "While the top spins, the philosopher is filled with hope, but as soon as he grasps it, he is repelled by the dumb piece of wood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "dumb",
+      "headword": "dumb",
+      "kind": "word",
+      "zh": "a. 哑的, 不说话的, 无声音的\n[医] 哑的",
+      "en": "s. lacking the power of human speech\ns. unable to speak because of hereditary deafness",
+      "phonetic": "dʌm",
+      "forms": [
+        "dumb"
+      ],
+      "example": "While the top spins, the philosopher is filled with hope, but as soon as he grasps it, he is repelled by the dumb piece of wood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "wood",
+      "headword": "wood",
+      "kind": "word",
+      "zh": "n. 木材, 木制品\nvt. 植林于, 给...添加木柴\nvi. 收集木材",
+      "en": "n. the hard fibrous lignified substance under the bark of trees\nn. United States film actress (1938-1981)\nn. English conductor (1869-1944)\nn. English writer of novels about murders and thefts and forgeries (1814-1887)",
+      "phonetic": "wud",
+      "forms": [
+        "wood"
+      ],
+      "example": "While the top spins, the philosopher is filled with hope, but as soon as he grasps it, he is repelled by the dumb piece of wood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "impertinent",
+      "headword": "impertinent",
+      "kind": "word",
+      "zh": "a. 不切题的, 鲁莽的, 无礼的, 粗鲁的, 不恰当的",
+      "en": "s. characterized by a lightly pert and exuberant quality",
+      "phonetic": "im'pә:tinәnt",
+      "forms": [
+        "impertinent"
+      ],
+      "example": "The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "stability",
+      "headword": "stability",
+      "kind": "word",
+      "zh": "n. 安定, 稳定性, 坚实, 巩固\n[化] 稳定性",
+      "en": "n. the quality or attribute of being firm and steadfast\nn. a stable order (especially of society)",
+      "phonetic": "stә'biliti",
+      "forms": [
+        "stability"
+      ],
+      "example": "The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "vertigo",
+      "headword": "vertigo",
+      "kind": "word",
+      "zh": "n. 眩晕, 迷惘\n[医] 眩晕",
+      "en": "n a reeling sensation; a feeling that you are about to fall",
+      "phonetic": "'vә:tigәu",
+      "forms": [
+        "vertigo"
+      ],
+      "example": "The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "delightful",
+      "headword": "delightful",
+      "kind": "word",
+      "zh": "a. 令人愉快的, 可爱的",
+      "en": "s. greatly pleasing or entertaining",
+      "phonetic": "di'laitful",
+      "forms": [
+        "delightful"
+      ],
+      "example": "The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "suspended",
+      "headword": "suspend",
+      "kind": "word",
+      "zh": "vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟\nvi. 暂停, 中止, 悬浮, 停止偿付债务\n[计] 暂停",
+      "en": "v. hang freely\nv. cause to be held in suspension in a fluid\nv. bar temporarily; from school, office, etc.\nv. make inoperative or stop",
+      "phonetic": "sә'spend",
+      "forms": [
+        "suspended"
+      ],
+      "example": "The philosopher is after what Carson calls an “impertinent stability in vertigo,” a state that is “itself delightful, a suspended moment of living hope.”",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "quest",
+      "headword": "quest",
+      "kind": "word",
+      "zh": "n. 探索, 寻求, 调查\nv. 寻找, 找, 追寻猎物",
+      "en": "n. the act of searching for something\nv. make a search (for)\nv. search the trail of (game)\nv. seek alms, as for religious purposes",
+      "phonetic": "kwest",
+      "forms": [
+        "quest"
+      ],
+      "example": "The philosopher’s quest for knowledge, Carson cheekily concludes, is simply his pretext for chasing spinning tops.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "cheekily",
+      "headword": "cheekily",
+      "kind": "word",
+      "zh": "adv. 厚脸皮地",
+      "en": "r. in a brash cheeky manner",
+      "phonetic": "'tʃi:kili",
+      "forms": [
+        "cheekily"
+      ],
+      "example": "The philosopher’s quest for knowledge, Carson cheekily concludes, is simply his pretext for chasing spinning tops.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "concludes",
+      "headword": "conclude",
+      "kind": "word",
+      "zh": "vt. 结束, 作结论, 推断\nvi. 结束, 推断",
+      "en": "v. bring to a close\nv. reach a conclusion after a discussion or deliberation\nv. come to a close\nv. reach agreement on",
+      "phonetic": "kәn'klu:d",
+      "forms": [
+        "concludes"
+      ],
+      "example": "The philosopher’s quest for knowledge, Carson cheekily concludes, is simply his pretext for chasing spinning tops.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "pretext",
+      "headword": "pretext",
+      "kind": "word",
+      "zh": "n. 借口, 托词\nv. 以...为借口",
+      "en": "n. something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason",
+      "phonetic": "'pri:tekst",
+      "forms": [
+        "pretext"
+      ],
+      "example": "The philosopher’s quest for knowledge, Carson cheekily concludes, is simply his pretext for chasing spinning tops.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "enchanted",
+      "headword": "enchant",
+      "kind": "word",
+      "zh": "vt. 施魔法, 使入迷",
+      "en": "v. hold spellbound",
+      "phonetic": "in'tʃænt",
+      "forms": [
+        "enchanted"
+      ],
+      "example": "He is enchanted by the spinning itself, and even by his own enchantment – a spell that breaks the instant the top stops in his hand.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "enchantment",
+      "headword": "enchantment",
+      "kind": "word",
+      "zh": "n. 魔法, 妖术, 魅力",
+      "en": "n. a psychological state induced by (or as if induced by) a magical incantation\nn. a magical spell",
+      "phonetic": "in'tʃæntmәnt",
+      "forms": [
+        "enchantment"
+      ],
+      "example": "He is enchanted by the spinning itself, and even by his own enchantment – a spell that breaks the instant the top stops in his hand.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "spell",
+      "headword": "spell",
+      "kind": "word",
+      "zh": "n. 符咒, 魅力, 轮值, 轮班, 工作时间, 一次发作\nvt. 拼写, 拼成, 琢磨, 理解, 招致, 轮换, 迷住\nvi. 轮换, 拼字",
+      "en": "n. a verbal formula believed to have magical force\nv. orally recite the letters of or give the spelling of\nv. indicate or signify\nv. write or name the letters that comprise the conventionally accepted form of (a word or part of a word)",
+      "phonetic": "spel",
+      "forms": [
+        "spell"
+      ],
+      "example": "He is enchanted by the spinning itself, and even by his own enchantment – a spell that breaks the instant the top stops in his hand.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "instant",
+      "headword": "instant",
+      "kind": "word",
+      "zh": "n. 立即, 瞬间\na. 紧急的, 立即的, 即时的",
+      "en": "s. in or of the present month",
+      "phonetic": "'instәnt",
+      "forms": [
+        "instant"
+      ],
+      "example": "He is enchanted by the spinning itself, and even by his own enchantment – a spell that breaks the instant the top stops in his hand.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "animating",
+      "headword": "animate",
+      "kind": "word",
+      "zh": "vt. 使有生气, 赋予生命\na. 有生命的, 有生气的",
+      "en": "v. give new life or energy to\na. belonging to the class of nouns that denote living beings\na. endowed with animal life as distinguished from plant life",
+      "phonetic": "'ænimeit",
+      "forms": [
+        "animating"
+      ],
+      "example": "Most people know a version of this: There is something animating about chasing a goal.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "attained",
+      "headword": "attain",
+      "kind": "word",
+      "zh": "vt. 达到, 获得\nvi. 达到",
+      "en": "v to gain with effort\nv reach a point in time, or a certain state or level\nv find unexpectedly\nv reach a destination, either real or abstract",
+      "phonetic": "ә'tein",
+      "forms": [
+        "attained"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "framed",
+      "headword": "frame",
+      "kind": "word",
+      "zh": "n. 框, 结构, 体格\nvt. 构成, 设计, 制定, 使适合, 陷害\n[计] 框架, 图文框, 帧",
+      "en": "n. the framework for a pair of eyeglasses\nn. a single one of a series of still transparent pictures forming a cinema, television or video film\nn. a single drawing in a comic_strip\nn. an application that divides the user's display into two or more windows that can be scrolled independently",
+      "phonetic": "freim",
+      "forms": [
+        "framed"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "fades",
+      "headword": "fade",
+      "kind": "word",
+      "zh": "vi. 褪色, 消失, 凋谢\nvt. 使褪色\nn. 淡入, 淡出\na. 平淡的",
+      "en": "n. gradually ceasing to be visible\nv. become less clearly visible or distinguishable; disappear gradually or seemingly\nv. lose freshness, vigor, or vitality",
+      "phonetic": "feid",
+      "forms": [
+        "fades"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "promotion",
+      "headword": "promotion",
+      "kind": "word",
+      "zh": "n. 晋级, 创建, 增进\n[经] 推广, 推销, 促进",
+      "en": "n. a message issued in behalf of some product or cause or idea or person or institution\nn. act of raising in rank or position\nn. encouragement of the progress or growth or acceptance of something",
+      "phonetic": "prәu'mәuʃәn",
+      "forms": [
+        "promotion"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "luster",
+      "headword": "luster",
+      "kind": "word",
+      "zh": "n. 光彩, 荣誉, 光泽\nvi. 有光泽, 发亮\nvt. 使发光辉",
+      "en": "n. a quality that outshines the usual\nn. a surface coating for ceramics or porcelain",
+      "phonetic": "'lʌstә",
+      "forms": [
+        "luster"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "plaque",
+      "headword": "plaque",
+      "kind": "word",
+      "zh": "n. 匾, 饰板, 名牌, 勋章, 胸襟饰物, 血小板",
+      "en": "n. (pathology) a small abnormal patch on or inside the body",
+      "phonetic": "plɑ:k",
+      "forms": [
+        "plaque"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "But once attained, the framed degree fades into the wall, the promotion quickly loses its luster, and the plaque becomes another dumb piece of wood.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "delight",
+      "headword": "delight",
+      "kind": "word",
+      "zh": "n. 高兴, 愉快\nvt. 使高兴, 乐于\nvi. 感到高兴(或愉快、快乐)",
+      "en": "n. a feeling of extreme pleasure or satisfaction\nv. take delight in",
+      "phonetic": "di'lait",
+      "forms": [
+        "delight"
+      ],
+      "example": "The delight of wanting disappears in the having.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "disappears",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappears"
+      ],
+      "example": "The delight of wanting disappears in the having.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "hole",
+      "headword": "hole",
+      "kind": "word",
+      "zh": "n. 孔, 洞, 穴, 漏洞\nvt. 挖洞, 掘坑\nvi. 进洞, 凿洞",
+      "en": "n. an opening into or through something\nn. an opening deliberately made in or through something\nn. one playing period (from tee to green) on a golf course\nn. an unoccupied space",
+      "phonetic": "hәul",
+      "forms": [
+        "hole"
+      ],
+      "example": "A hole in the self",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "self",
+      "headword": "self",
+      "kind": "word",
+      "zh": "n. 自己, 自我, 本性, 本质, 私心, 本人\nvt. 使近亲繁殖, 使自花授精\nvi. 自花授精\na. 同一的",
+      "en": "n. your consciousness of your own identity\nn. a person considered as a unique individual\na. (used as a combining form) relating to--of or by or to or from or for--the self",
+      "phonetic": "self",
+      "forms": [
+        "self"
+      ],
+      "example": "To long for someone or something is to discover our own edges, the chasm where the self ends and what is wanted begins.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "fulfillment",
+      "headword": "fulfillment",
+      "kind": "word",
+      "zh": "n. 履行, 结束, 完成, 实现, 满意, 称心",
+      "en": "n. a feeling of satisfaction at having achieved your desires\nn. the act of consummating something (a desire or promise etc)",
+      "phonetic": "ful'filmәnt",
+      "forms": [
+        "fulfillment"
+      ],
+      "example": "Why does fulfillment so often feel like loss?",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "greek",
+      "headword": "Greek",
+      "kind": "word",
+      "zh": "n. 希腊人, 希腊语\na. 希腊的, 希腊人的\n[计] 希腊",
+      "en": "n. the Hellenic branch of the Indo-European family of languages\nn. a native or inhabitant of Greece\na. of or relating to or characteristic of Greece or the Greeks or the Greek language",
+      "phonetic": "gri:k",
+      "forms": [
+        "greek",
+        "greeks"
+      ],
+      "example": "Carson’s answer begins with the Greek word for erotic love, “eros,” which she explains denotes want or lack.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "erotic",
+      "headword": "erotic",
+      "kind": "word",
+      "zh": "a. 性爱的, 性欲的, 色情的\nn. 好色之徒, 色情诗",
+      "en": "n. an erotic person\ns. giving sexual pleasure; sexually arousing",
+      "phonetic": "i'rɒtik",
+      "forms": [
+        "erotic"
+      ],
+      "example": "Carson’s answer begins with the Greek word for erotic love, “eros,” which she explains denotes want or lack.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "denotes",
+      "headword": "denote",
+      "kind": "word",
+      "zh": "vt. 指示, 表示",
+      "en": "v. be a sign or indication of\nv. have as a meaning",
+      "phonetic": "di'nәut",
+      "forms": [
+        "denotes"
+      ],
+      "example": "Carson’s answer begins with the Greek word for erotic love, “eros,” which she explains denotes want or lack.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack"
+      ],
+      "example": "Carson’s answer begins with the Greek word for erotic love, “eros,” which she explains denotes want or lack.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "socrates",
+      "headword": "Socrates",
+      "kind": "word",
+      "zh": "n. 苏格拉底",
+      "en": "n. ancient Athenian philosopher; teacher of Plato and Xenophon (470-399 BC)",
+      "phonetic": "'sɒkrәti:z",
+      "forms": [
+        "socrates"
+      ],
+      "example": "Plato’s Socrates makes the same point in the “Symposium.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "symposium",
+      "headword": "symposium",
+      "kind": "word",
+      "zh": "n. 讨论会, 座谈会, 专题报告会, 专题论文集",
+      "en": "n. a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations",
+      "phonetic": "sim'pәuziәm",
+      "forms": [
+        "symposium"
+      ],
+      "example": "Plato’s Socrates makes the same point in the “Symposium.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "chasm",
+      "headword": "chasm",
+      "kind": "word",
+      "zh": "n. 陷窟, 裂口",
+      "en": "n. a deep opening in the earth's surface",
+      "phonetic": "'kæzәm",
+      "forms": [
+        "chasm"
+      ],
+      "example": "To long for someone or something is to discover our own edges, the chasm where the self ends and what is wanted begins.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "incomplete",
+      "headword": "incomplete",
+      "kind": "word",
+      "zh": "a. 不完全的, 未完成的, 不完善的\n[机] 不完全的",
+      "en": "a. not complete or total; not completed\ns. not yet finished",
+      "phonetic": ".inkәm'pli:t",
+      "forms": [
+        "incomplete"
+      ],
+      "example": "Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "awareness",
+      "headword": "awareness",
+      "kind": "word",
+      "zh": "n. 意识, 认识\n[计] 识别, 议定, 明白",
+      "en": "n. having knowledge of\nn. state of elementary or undifferentiated consciousness",
+      "phonetic": "ә'weәnis",
+      "forms": [
+        "awareness"
+      ],
+      "example": "Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "undone",
+      "headword": "undo",
+      "kind": "word",
+      "zh": "vt. 解开, 取消, 破坏, 毁灭, 扰乱\nvi. 松开\n[计] 撤消",
+      "en": "v. cancel, annul, or reverse an action or its effect\nv. cause the ruin or downfall of",
+      "phonetic": ".ʌn'du:",
+      "forms": [
+        "undone"
+      ],
+      "example": "Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "loosening",
+      "headword": "loosen",
+      "kind": "word",
+      "zh": "vt. 放松, 松开, 解除\nvi. 变松, 松弛",
+      "en": "v. make loose or looser\nv. make less dense\nv. become loose or looser or less tight",
+      "phonetic": "lu:sn",
+      "forms": [
+        "loosening"
+      ],
+      "example": "Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "joints",
+      "headword": "joint",
+      "kind": "word",
+      "zh": "n. 连接处, 接合, 关节\na. 共同的, 联合的, 连接的, 合办的\nvt. 连接, 接合, 使有接头\nvi. 贴合, 长节",
+      "en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\nn. a disreputable place of entertainment\nn. junction by which parts or objects are joined together\nn. marijuana leaves rolled into a cigarette for smoking",
+      "phonetic": "dʒɒint",
+      "forms": [
+        "joints"
+      ],
+      "example": "Eros reveals that we are incomplete – an awareness that causes the self to become undone, loosening at the joints.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "poems",
+      "headword": "poem",
+      "kind": "word",
+      "zh": "n. 诗, 诗般美的事物",
+      "en": "n. a composition written in metrical feet forming rhythmical lines",
+      "phonetic": "'pәuim",
+      "forms": [
+        "poems"
+      ],
+      "example": "In one of her poems, the Greek poet Sappho called this experience “glukupikron,” or “sweetbitter.”",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "poet",
+      "headword": "poet",
+      "kind": "word",
+      "zh": "n. 诗人",
+      "en": "n. a writer of poems (the term is usually reserved for writers of good poetry)",
+      "phonetic": "'pәuit",
+      "forms": [
+        "poet"
+      ],
+      "example": "In one of her poems, the Greek poet Sappho called this experience “glukupikron,” or “sweetbitter.”",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "sappho",
+      "headword": "sappho",
+      "kind": "word",
+      "zh": "n. 莎孚（古代希腊的女诗人）",
+      "en": "n. the Greek lyric poet of Lesbos; much admired although only fragments of her poetry have been preserved (6th century BC)",
+      "phonetic": "'sæfәu",
+      "forms": [
+        "sappho"
+      ],
+      "example": "In one of her poems, the Greek poet Sappho called this experience “glukupikron,” or “sweetbitter.”",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "translation",
+      "headword": "translation",
+      "kind": "word",
+      "zh": "n. 翻译, 译文, 转化, 调任, 平移, 转译\n[计] 转换",
+      "en": "n. a written communication in a second language having the same meaning as the written communication in a first language\nn. a uniform movement without rotation\nn. (mathematics) a transformation in which the origin of the coordinate system is moved to another position but the direction of each axis remains the same\nn. (genetics) the process whereby genetic information coded in messenger RNA directs the formation of a specific protein at a ribosome in the cytoplasm",
+      "phonetic": "træns'leiʃәn",
+      "forms": [
+        "translation"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "passage",
+      "headword": "passage",
+      "kind": "word",
+      "zh": "n. 通道, 通过, 移居, 航行, 一段, 走廊\nvi. 通过, 经过, 航行, 横渡, 争吵\nvt. (使)马以斜横步前进, 使传代",
+      "en": "n. the act of passing from one state or place to the next\nn. a section of text; particularly a section of medium length\nn. a way through or along which someone or something may pass\nn. a journey usually by ship",
+      "phonetic": "'pæsidʒ",
+      "forms": [
+        "passage"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "whirls",
+      "headword": "whirl",
+      "kind": "word",
+      "zh": "n. 回旋, 旋转, 急走, 眩晕\nvt. 使旋转, 使回旋, 卷走\nvi. 回旋, 旋转, 急走, 发晕",
+      "en": "n. confused movement\nn. the shape of something rotating rapidly\nv. cause to spin\nv. fly around",
+      "phonetic": "hwә:l",
+      "forms": [
+        "whirls"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "impossible",
+      "headword": "impossible",
+      "kind": "word",
+      "zh": "a. 不可能的, 难以置信的, 令人无法忍受的",
+      "en": "n. something that cannot be done\na. not capable of occurring or being accomplished or dealt with\ns. totally unlikely\ns. used of persons or their behavior",
+      "phonetic": "im'pɒsәbl",
+      "forms": [
+        "impossible"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "creature",
+      "headword": "creature",
+      "kind": "word",
+      "zh": "n. 人, 动物, 创造物, 生物",
+      "en": "n. a human being; `wight' is an archaic term\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else",
+      "phonetic": "'kri:tʃә",
+      "forms": [
+        "creature"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "stealing",
+      "headword": "steal",
+      "kind": "word",
+      "zh": "vt. 剽窃；偷偷地做；偷窃；vi. 窃取；偷偷地行动；[棒球]偷垒；n. [口]偷窃；便宜货；偷垒；[篮球]断球",
+      "en": "n. a stolen base; an instance in which a base runner advances safely during the delivery of a pitch (without the help of a hit or walk or passed ball or wild pitch)\nv. take without the owner's consent\nv. move stealthily\nv. steal a base",
+      "phonetic": "sti:l",
+      "forms": [
+        "stealing"
+      ],
+      "example": "Carson’s translation of the passage reads: “Eros once again limb-loosener whirls me / sweetbitter, impossible to fight off, creature stealing up.”",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "initially",
+      "headword": "initially",
+      "kind": "word",
+      "zh": "adv. 最初, 开头",
+      "en": "r. at the beginning",
+      "phonetic": "i'niʃәli",
+      "forms": [
+        "initially"
+      ],
+      "example": "Sappho puts sweet first, Carson notes in “Eros,” but desire is not initially sweet and then bitter.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "bitter",
+      "headword": "bitter",
+      "kind": "word",
+      "zh": "a. 苦的, 痛苦的, 怀恨的\nadv. 刺骨\nv. (使)变苦",
+      "en": "n. English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)\nn. the taste experience when quinine or coffee is taken into the mouth\nv. make bitter\ns. very difficult to accept or bear",
+      "phonetic": "'bitә",
+      "forms": [
+        "bitter"
+      ],
+      "example": "Sappho puts sweet first, Carson notes in “Eros,” but desire is not initially sweet and then bitter.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "pleasure",
+      "headword": "pleasure",
+      "kind": "word",
+      "zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望\nv. (使)高兴",
+      "en": "n. a fundamental feeling that is hard to define but that people desire to experience\nn. a formal expression\nn. an activity that affords enjoyment\nn. sexual gratification",
+      "phonetic": "'pleʒә",
+      "forms": [
+        "pleasure"
+      ],
+      "example": "Pleasure and pain arrive together, in the same body and at the same time, before the lover is even able to distinguish them.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "lover",
+      "headword": "lover",
+      "kind": "word",
+      "zh": "n. 爱人, 爱好者",
+      "en": "n. a person who loves someone or is loved by someone\nn. a significant other to whom you are not related by marriage",
+      "phonetic": "'lʌvә",
+      "forms": [
+        "lover"
+      ],
+      "example": "Pleasure and pain arrive together, in the same body and at the same time, before the lover is even able to distinguish them.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "distinguish",
+      "headword": "distinguish",
+      "kind": "word",
+      "zh": "v. 区别, 辨别",
+      "en": "v. mark as different\nv. be a distinctive feature, attribute, or trait; sometimes in a very positive sense",
+      "phonetic": "dis'tiŋgwiʃ",
+      "forms": [
+        "distinguish",
+        "distinguished"
+      ],
+      "example": "Pleasure and pain arrive together, in the same body and at the same time, before the lover is even able to distinguish them.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "extends",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extends"
+      ],
+      "example": "Carson extends this pattern to reading, writing and thinking.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "reader",
+      "headword": "reader",
+      "kind": "word",
+      "zh": "n. 读者, 读物, 文选, 校对人, 讲师\n[计] 阅读程序; 阅读器",
+      "en": "n. a person who enjoys reading\nn. a person who can read; a literate person\nn. one of a series of texts for students learning to read",
+      "phonetic": "'ri:dә",
+      "forms": [
+        "reader"
+      ],
+      "example": "A reader approaches a text’s meaning but never masters it; every rereading turns up new meanings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "masters",
+      "headword": "master",
+      "kind": "word",
+      "zh": "n. 主人, 硕士, 大师, 母机\na. 主人的, 主要的\nvt. 征服, 控制, 精通",
+      "en": "n. directs the work of others\nn. an original creation (i.e., an audio recording) from which copies can be made\nn. an officer who is licensed to command a merchant ship\nn. someone who holds a master's degree from academic institution",
+      "phonetic": "'mɑ:stә. 'mæstә",
+      "forms": [
+        "masters"
+      ],
+      "example": "A reader approaches a text’s meaning but never masters it; every rereading turns up new meanings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "rereading",
+      "headword": "rereading",
+      "kind": "word",
+      "zh": "[计] 重读",
+      "en": "v read anew; read again",
+      "phonetic": "",
+      "forms": [
+        "rereading"
+      ],
+      "example": "A reader approaches a text’s meaning but never masters it; every rereading turns up new meanings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "meanings",
+      "headword": "meanings",
+      "kind": "word",
+      "zh": "n. 含义；价值（meaning的复数）",
+      "en": "n the message that is intended or expressed or signified\nn the idea that is intended\nv mean or intend to express or convey\nv have as a logical consequence\nv denote or connote\nv have in mind as a purpose\nv have a specified degree of importance\nv intend to refer to\nv destine or designate for a certain purpose",
+      "phonetic": "",
+      "forms": [
+        "meanings"
+      ],
+      "example": "A reader approaches a text’s meaning but never masters it; every rereading turns up new meanings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "ache",
+      "headword": "ache",
+      "kind": "word",
+      "zh": "n. 疼痛\nvi. 痛, 哀怜, 渴望",
+      "en": "n. a dull persistent (usually moderately intense) pain\nv. have a desire for something or someone who is not present\nv. be the source of pain",
+      "phonetic": "eik",
+      "forms": [
+        "ache"
+      ],
+      "example": "The pleasure of understanding and the ache of incompleteness arrive together.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "incompleteness",
+      "headword": "incompleteness",
+      "kind": "word",
+      "zh": "[计] 不完全性",
+      "en": "n. the state of being crude and incomplete and imperfect",
+      "phonetic": "",
+      "forms": [
+        "incompleteness"
+      ],
+      "example": "The pleasure of understanding and the ache of incompleteness arrive together.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "sentence",
+      "headword": "sentence",
+      "kind": "word",
+      "zh": "n. 句子, 命题, 宣判\nvt. 宣判, 判决\n[计] 句子",
+      "en": "n. a string of words satisfying the grammatical rules of a language\nv. pronounce a sentence on (somebody) in a court of law",
+      "phonetic": "'sentәns",
+      "forms": [
+        "sentence"
+      ],
+      "example": "A good sentence both captures and conceals what the writer means.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "captures",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captures",
+        "capture"
+      ],
+      "example": "A good sentence both captures and conceals what the writer means.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "conceals",
+      "headword": "conceal",
+      "kind": "word",
+      "zh": "vt. 隐藏, 掩盖, 隐瞒\n[法] 隐瞒, 隐匿, 保守秘密",
+      "en": "v. hold back; keep from being perceived by others",
+      "phonetic": "kәn'si:l",
+      "forms": [
+        "conceals"
+      ],
+      "example": "A good sentence both captures and conceals what the writer means.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "doubled",
+      "headword": "double",
+      "kind": "word",
+      "zh": "n. 两倍\na. 两倍的, 双重的\nvt. 使加倍\nvi. 加倍, 代替, 快步走\n[计] 双精度型",
+      "en": "n. a base hit on which the batter stops safely at second base\nn. a stand-in for movie stars to perform dangerous stunts\nn. someone who closely resembles a famous person (especially an actor)\nn. a quantity that is twice as great as another",
+      "phonetic": "'dʌbl",
+      "forms": [
+        "doubled"
+      ],
+      "example": "Thinking also runs on that doubled feeling, which is how the story of a philosopher chasing tops ended up in a book about love.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "goals",
+      "headword": "goal",
+      "kind": "word",
+      "zh": "n. 目标, 终点, 得分, 球门, 守门员\nvi. 攻门, 射门得分",
+      "en": "n. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it\nn. game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points\nn. a successful attempt at scoring",
+      "phonetic": "gәul",
+      "forms": [
+        "goals"
+      ],
+      "example": "I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "romantic",
+      "headword": "romantic",
+      "kind": "word",
+      "zh": "a. 浪漫的, 风流的, 传奇性的, 夸大的, 空想的, 浪漫派的",
+      "en": "n. a soulful or amorous idealist\na. belonging to or characteristic of Romanticism or the Romantic Movement in the arts",
+      "phonetic": "rәu'mæntik",
+      "forms": [
+        "romantic"
+      ],
+      "example": "The same bittersweet pattern also shows up somewhere far less romantic: at work.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "deadline",
+      "headword": "deadline",
+      "kind": "word",
+      "zh": "n. 最后期限, 截止期限\n[经] 截止日期",
+      "en": "n. the point in time at which something must be completed",
+      "phonetic": "'dedlain",
+      "forms": [
+        "deadline",
+        "deadlines"
+      ],
+      "example": "Meeting a deadline brings relief that is already hollow because the next one is waiting.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "relief",
+      "headword": "relief",
+      "kind": "word",
+      "zh": "n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏\n[医] 缓减, 减轻, 浮雕(绘画中)",
+      "en": "n. the feeling that comes when something burdensome is removed or reduced\nn. the condition of being comfortable or relieved (especially after being relieved of distress)\nn. (law) redress awarded by a court\nn. assistance in time of difficulty",
+      "phonetic": "ri'li:f",
+      "forms": [
+        "relief"
+      ],
+      "example": "Meeting a deadline brings relief that is already hollow because the next one is waiting.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "hollow",
+      "headword": "hollow",
+      "kind": "word",
+      "zh": "n. 洞, 窟窿, 山谷\na. 空的, 虚伪的, 空腹的, 凹的\nvi. 形成空洞\nvt. 挖空",
+      "en": "n. a cavity or space in something\nn. a small valley between mountains\nv. remove the interior of\na. not solid; having a space or gap or cavity",
+      "phonetic": "'hɒlәu",
+      "forms": [
+        "hollow"
+      ],
+      "example": "Meeting a deadline brings relief that is already hollow because the next one is waiting.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "philosophy",
+      "headword": "philosophy",
+      "kind": "word",
+      "zh": "n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着",
+      "en": "n. the rational investigation of questions about existence and knowledge and ethics\nn. any personal belief about how to live or how to deal with a situation",
+      "phonetic": "fi'lɒsәfi",
+      "forms": [
+        "philosophy"
+      ],
+      "example": "I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "graduate",
+      "headword": "graduate",
+      "kind": "word",
+      "zh": "n. 毕业生, 量杯\na. 已得学位的, 研究生的, 毕业的\nvi. 毕业, 得学位, 逐渐变为\nvt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
+      "en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\nv. receive an academic degree upon completion of one's studies\nv. confer an academic degree upon\ns. of or relating to studies beyond a bachelor's degree",
+      "phonetic": "'grædʒueit",
+      "forms": [
+        "graduate"
+      ],
+      "example": "I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "administrator",
+      "headword": "administrator",
+      "kind": "word",
+      "zh": "n. 管理人, 行政官\n[经] 遗产管理人员",
+      "en": "n. someone who administers a business\nn. the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor\nn. someone who manages a government agency or department",
+      "phonetic": "әd'ministreitә",
+      "forms": [
+        "administrator"
+      ],
+      "example": "Now I spend much of my day as a university administrator, where the quality of my work is measured in metrics and met deadlines.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "metrics",
+      "headword": "metric",
+      "kind": "word",
+      "zh": "a. 公尺的, 公制的, 计量的\n[医] 测量的, 米制的, 公制的",
+      "en": "a. based on the meter as a standard of measurement",
+      "phonetic": "'metrik",
+      "forms": [
+        "metrics",
+        "metric"
+      ],
+      "example": "Now I spend much of my day as a university administrator, where the quality of my work is measured in metrics and met deadlines.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "productivity",
+      "headword": "productivity",
+      "kind": "word",
+      "zh": "n. 生产力\n[经] 生产率, 生产能力",
+      "en": "n. (economics) the ratio of the quantity and quality of units produced to the labor per unit of time",
+      "phonetic": ".prәudʌk'tiviti",
+      "forms": [
+        "productivity"
+      ],
+      "example": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "chocolate",
+      "headword": "chocolate",
+      "kind": "word",
+      "zh": "n. 巧克力\na. 巧克力制的",
+      "en": "n. a food made from roasted ground cacao beans\nn. a medium brown to dark-brown color",
+      "phonetic": "'tʃɒkәlit",
+      "forms": [
+        "chocolate"
+      ],
+      "example": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "factory",
+      "headword": "factory",
+      "kind": "word",
+      "zh": "n. 工厂, 产生地, 代理店\n[经] 工厂, 代理店, 商行在国外的代理处",
+      "en": "n. a plant consisting of one or more buildings with facilities for manufacturing",
+      "phonetic": "'fæktәri",
+      "forms": [
+        "factory"
+      ],
+      "example": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "episode",
+      "headword": "episode",
+      "kind": "word",
+      "zh": "n. 插曲, 插话, 有趣的事件, 一段情节\n[医] 插话, 插曲, 发作",
+      "en": "n. a happening that is distinctive in a series of related events\nn. a brief section of a literary or dramatic work that forms part of a connected series\nn. a part of a broadcast serial",
+      "phonetic": "'episәud",
+      "forms": [
+        "episode"
+      ],
+      "example": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "switching",
+      "headword": "switch",
+      "kind": "word",
+      "zh": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔\nvt. 转变, 切换, 摆动, 转换, 使转轨\nvi. 转换, 变换, 摆动\n[计] 开关; 翻转; 转移",
+      "en": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit\nn. hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure\nn. railroad track having two movable rails and necessary connections; used to turn a train from one track to another or to store rolling stock\nn. a flexible implement used as an instrument of punishment",
+      "phonetic": "switʃ",
+      "forms": [
+        "switching"
+      ],
+      "example": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "conveyor",
+      "headword": "conveyor",
+      "kind": "word",
+      "zh": "n. 搬运者, 传达者, 转让财产者, 输送机, 输送设备\n[计] 传送机, 传送带",
+      "en": "n a person who conveys (carries or transmits)\nn a moving belt that transports objects (as in a factory)",
+      "phonetic": "",
+      "forms": [
+        "conveyor"
+      ],
+      "example": "As the conveyor belt speeds up, the only way they can look like they’re keeping up is to stuff what they’ve missed into their mouths.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "belt",
+      "headword": "belt",
+      "kind": "word",
+      "zh": "n. 带子, 地带\n[医] 带, 腰带, 束带, 地带, 区",
+      "en": "n. endless loop of flexible material between two rotating shafts or pulleys\nn. a band to tie or buckle around the body (usually at the waist)\nn. an elongated region where a specific condition or characteristic is found\nn. ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
+      "phonetic": "belt",
+      "forms": [
+        "belt"
+      ],
+      "example": "As the conveyor belt speeds up, the only way they can look like they’re keeping up is to stuff what they’ve missed into their mouths.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "speeds",
+      "headword": "speed",
+      "kind": "word",
+      "zh": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+      "en": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity",
+      "phonetic": "spi:d",
+      "forms": [
+        "speeds"
+      ],
+      "example": "As the conveyor belt speeds up, the only way they can look like they’re keeping up is to stuff what they’ve missed into their mouths.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "smart",
+      "headword": "smart",
+      "kind": "word",
+      "zh": "a. 聪明的, 漂亮的, 刺痛的, 剧烈的, 敏捷的, 巧妙的, 伶俐的, 潇洒的\nn. 刺痛, 痛苦\nvi. 刺痛",
+      "en": "n. a kind of pain such as that caused by a wound or a burn or a sore\na. showing mental alertness and calculation and resourcefulness\ns. painfully severe\ns. quick and brisk",
+      "phonetic": "smɑ:t",
+      "forms": [
+        "smart"
+      ],
+      "example": "Few things capture this pressure more than the SMART goal.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "consultant",
+      "headword": "consultant",
+      "kind": "word",
+      "zh": "n. 顾问, 征询意见者\n[医] 顾问医师",
+      "en": "n an expert who gives advice",
+      "phonetic": "kәn'sʌltәnt",
+      "forms": [
+        "consultant"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "doran",
+      "headword": "Doran",
+      "kind": "word",
+      "zh": "多兰系统, 多普勒测距系统",
+      "en": "",
+      "phonetic": "'dɔ:ræn",
+      "forms": [
+        "doran"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "measurable",
+      "headword": "measurable",
+      "kind": "word",
+      "zh": "a. 可测量的, 不久的, 重要的",
+      "en": "a. capable of being measured\ns. of distinguished importance",
+      "phonetic": "'meʒәrәbl",
+      "forms": [
+        "measurable"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "assignable",
+      "headword": "assignable",
+      "kind": "word",
+      "zh": "a. 可分配的, 可指定的, 可归属的\n[经] 可以过户, 可分配的",
+      "en": "s. legally transferable to the ownership of another",
+      "phonetic": "ә'sainәbl",
+      "forms": [
+        "assignable"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "realistic",
+      "headword": "realistic",
+      "kind": "word",
+      "zh": "a. 现实的, 逼真的, 现实主义的, 实在论的",
+      "en": "a. aware or expressing awareness of things as they really are\na. of or relating to the philosophical doctrine of realism",
+      "phonetic": "riә'listik",
+      "forms": [
+        "realistic"
+      ],
+      "example": "In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "acronym",
+      "headword": "acronym",
+      "kind": "word",
+      "zh": "n. 首字母缩拼词, 首字母组合词\n[计] 字首组合词",
+      "en": "n. a word formed from the initial letters of the several words in the name",
+      "phonetic": "'ækrәunim",
+      "forms": [
+        "acronym"
+      ],
+      "example": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "spread",
+      "headword": "spread",
+      "kind": "word",
+      "zh": "n. 传播, 散布, 伸展\na. 双唇展开的, 伸展的\nvt. 展开, 铺开, 传播, 推广, 伸出, 涂, 敷, 延伸\nvi. 展开, 扩大, 传开, 延伸\n[计] 展开",
+      "en": "n. process or result of distributing or extending over a wide expanse of space\nn. a tasty mixture to be spread on bread or crackers or used in preparing other dishes\nn. two facing pages of a book or other publication\nn. the expansion of a person's girth (especially at middle age)",
+      "phonetic": "spred",
+      "forms": [
+        "spread"
+      ],
+      "example": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "disciplines",
+      "headword": "discipline",
+      "kind": "word",
+      "zh": "n. 训练, 纪律\nvt. 训练, 惩罚",
+      "en": "n. a branch of knowledge\nn. a system of rules of conduct or method of practice; \nn. the trait of being well behaved\nn. training to improve strength or self-control",
+      "phonetic": "'disiplin",
+      "forms": [
+        "disciplines"
+      ],
+      "example": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "strategic",
+      "headword": "strategic",
+      "kind": "word",
+      "zh": "a. 战略的, 战略上的\n[经] 战略的",
+      "en": "a. relating to or concerned with strategy\ns. highly important to or an integral part of a strategy or plan of action especially in war",
+      "phonetic": "strә'ti:dʒik",
+      "forms": [
+        "strategic"
+      ],
+      "example": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "evaluations",
+      "headword": "evaluation",
+      "kind": "word",
+      "zh": "n. 评估, 估价, 求值\n[计] 鉴定; 评价; 求值",
+      "en": "n. act of ascertaining or fixing the value or worth of\nn. an appraisal of the value of something",
+      "phonetic": "i.vælju'eiʃәn",
+      "forms": [
+        "evaluations"
+      ],
+      "example": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "distills",
+      "headword": "distill",
+      "kind": "word",
+      "zh": "vt. 蒸馏\nvi. 滴下",
+      "en": "v. undergo the process of distillation\nv. extract by the process of distillation\nv. give off (a liquid)",
+      "phonetic": "dis'til",
+      "forms": [
+        "distills"
+      ],
+      "example": "It distills a wider creed: Set the target, sprint after it, hit it.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "creed",
+      "headword": "creed",
+      "kind": "word",
+      "zh": "n. 宗教信条, 教义, 纲领",
+      "en": "n. any system of principles or beliefs",
+      "phonetic": "kri:d",
+      "forms": [
+        "creed"
+      ],
+      "example": "It distills a wider creed: Set the target, sprint after it, hit it.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "target",
+      "headword": "target",
+      "kind": "word",
+      "zh": "n. 目标, 靶子, 指标\nvt. 对准, 订指标",
+      "en": "n. a reference point to shoot at\nn. the location of the target that is to be hit\nn. sports equipment consisting of an object set up for a marksman or archer to aim at\nv. intend (something) to move towards a certain goal",
+      "phonetic": "'tɑ:git",
+      "forms": [
+        "target"
+      ],
+      "example": "It distills a wider creed: Set the target, sprint after it, hit it.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "sprint",
+      "headword": "sprint",
+      "kind": "word",
+      "zh": "n. 短距离赛跑\nvi. 全速跑, 冲刺\nvt. 全速跑过",
+      "en": "v. run very fast, usually for a short distance",
+      "phonetic": "sprint",
+      "forms": [
+        "sprint"
+      ],
+      "example": "It distills a wider creed: Set the target, sprint after it, hit it.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "toss",
+      "headword": "toss",
+      "kind": "word",
+      "zh": "n. 投掷, 抛, 摇摆, 震荡, 掷钱币决定\nvt. 投掷, 猛抬, 摇荡, 使不安, 掷钱币决定\nvi. 被到处扔, 摇摆, 颠簸, 辗转, 掷钱币决定某事",
+      "en": "n. an abrupt movement\nv. agitate",
+      "phonetic": "tɒs",
+      "forms": [
+        "toss"
+      ],
+      "example": "Grasp the top, toss it, capture the next one, ad infinitum.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "invent",
+      "headword": "invent",
+      "kind": "word",
+      "zh": "vt. 发明, 创作, 虚构\n[机] 发明",
+      "en": "v. come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+      "phonetic": "in'vent",
+      "forms": [
+        "invent"
+      ],
+      "example": "Doran didn’t invent the impulse, but his acronym gave it a checklist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "impulse",
+      "headword": "impulse",
+      "kind": "word",
+      "zh": "n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲\nvt. 推动",
+      "en": "n. the act of applying force suddenly",
+      "phonetic": "'impʌls",
+      "forms": [
+        "impulse"
+      ],
+      "example": "Doran didn’t invent the impulse, but his acronym gave it a checklist.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "leads to",
+      "headword": "leads to",
+      "kind": "phrase",
+      "zh": "导致",
+      "en": "causes a result",
+      "forms": [
+        "leads to"
+      ],
+      "example": "Carson’s account of desire helps explain why this creed leads to two kinds of emptiness.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v146",
+      "term": "pursuing",
+      "headword": "pursue",
+      "kind": "word",
+      "zh": "vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事\nvi. 追赶, 继续",
+      "en": "v. follow in or as if in pursuit\nv. carry further or advance",
+      "phonetic": "pә'sju:",
+      "forms": [
+        "pursuing",
+        "pursue"
+      ],
+      "example": "The first comes from pursuing goals people never really desired.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "zero",
+      "headword": "zero",
+      "kind": "word",
+      "zh": "n. 零, 零点, 零度, 无, 乌有, 最低点\na. 零的, 没有的\nvt. 调零, 对(炮火等)作协调校正\n[计] 零",
+      "en": "n. a mathematical element that when added to another number yields the same number\nn. the point on a scale from which positive or negative numerical quantities can be measured\nn. the sight setting that will cause a projectile to hit the center of the target with no wind blowing\nv. adjust (an instrument or device) to zero value",
+      "phonetic": "'ziәrәu",
+      "forms": [
+        "zero"
+      ],
+      "example": "Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "quarterly",
+      "headword": "quarterly",
+      "kind": "word",
+      "zh": "a. 季度的, 按季度的, 每季的\nadv. 按季, 每三个月, 每季一次\nn. 季刊",
+      "en": "n. a periodical that is published every quarter (or four issues per year)\na. of or relating to or consisting of a quarter\nr. in diagonally opposed quarters of an escutcheon\nr. in three month intervals",
+      "phonetic": "'kwɔ:tәli",
+      "forms": [
+        "quarterly"
+      ],
+      "example": "Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "ultimate",
+      "headword": "ultimate",
+      "kind": "word",
+      "zh": "n. 终极, 根本, 顶点, 基本原则\na. 终极的, 根本的, 极限的, 最远的, 最后的, 最大的",
+      "en": "n. the finest or most superior quality of its kind\na. furthest or highest in degree or order; utmost or extreme\ns. being the last or concluding element of a series",
+      "phonetic": "'ʌltimit",
+      "forms": [
+        "ultimate"
+      ],
+      "example": "Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "boosting",
+      "headword": "boost",
+      "kind": "word",
+      "zh": "n. 推进, 吹捧\nvt. 推进, 提高, 宣扬, 促进",
+      "en": "n. the act of giving hope or support to someone\nn. the act of giving a push\nv. give a boost to; be beneficial to\nv. increase or raise",
+      "phonetic": "bu:st",
+      "forms": [
+        "boosting"
+      ],
+      "example": "Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "truly",
+      "headword": "truly",
+      "kind": "word",
+      "zh": "adv. 真实地, 不假",
+      "en": "r. in accordance with truth or fact or reality",
+      "phonetic": "'tru:li",
+      "forms": [
+        "truly"
+      ],
+      "example": "The second comes from goals people truly wanted.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "psychologist",
+      "headword": "psychologist",
+      "kind": "word",
+      "zh": "n. 心理学家\n[医] 心理学家",
+      "en": "n. a scientist trained in psychology",
+      "phonetic": "sai'kɒlәdʒist",
+      "forms": [
+        "psychologist"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "letdown",
+      "headword": "letdown",
+      "kind": "word",
+      "zh": "n. 减低, 减退, 松弛, 失望\n[化] 调漆",
+      "en": "n a feeling of dissatisfaction that results when your expectations are not realized",
+      "phonetic": "'letdaun",
+      "forms": [
+        "letdown"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "arrival",
+      "headword": "arrival",
+      "kind": "word",
+      "zh": "n. 到达, 抵达, 到达者\n[经] 到达, 到达物",
+      "en": "n. accomplishment of an objective\nn. the act of arriving at a certain place\nn. someone who arrives (or has arrived)",
+      "phonetic": "ә'raivl",
+      "forms": [
+        "arrival"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "fallacy",
+      "headword": "fallacy",
+      "kind": "word",
+      "zh": "n. 错误的观念(或信念), 谬见, 谬论\n[医] 错觉, 幻觉, 虚妄",
+      "en": "n. a misconception resulting from incorrect reasoning",
+      "phonetic": "'fælәsi",
+      "forms": [
+        "fallacy"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "belief",
+      "headword": "belief",
+      "kind": "word",
+      "zh": "n. 信念, 相信, 信仰",
+      "en": "n. any cognitive content held as true",
+      "phonetic": "bi'li:f",
+      "forms": [
+        "belief"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "destination",
+      "headword": "destination",
+      "kind": "word",
+      "zh": "n. 目的地, 目标, 目的\n[计] 目的文件, 目的单元",
+      "en": "n. the ultimate goal for which something is done",
+      "phonetic": ".desti'neiʃәn",
+      "forms": [
+        "destination"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "happiness",
+      "headword": "happiness",
+      "kind": "word",
+      "zh": "n. 快乐, 幸运, 适当",
+      "en": "n. state of well-being characterized by emotions ranging from contentment to intense joy\nn. emotions experienced when in a state of well-being",
+      "phonetic": "'hæpinis",
+      "forms": [
+        "happiness"
+      ],
+      "example": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "striving",
+      "headword": "strive",
+      "kind": "word",
+      "zh": "vi. 努力, 奋斗, 斗争",
+      "en": "v. to exert much effort or energy",
+      "phonetic": "straiv",
+      "forms": [
+        "striving"
+      ],
+      "example": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "locates",
+      "headword": "locate",
+      "kind": "word",
+      "zh": "vt. 找出, 设于, 位于\nvi. 定居",
+      "en": "v. discover the location of; determine the place of; find by searching or examining\nv. assign a location to",
+      "phonetic": "'lәukeit",
+      "forms": [
+        "locates"
+      ],
+      "example": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "pursuit",
+      "headword": "pursuit",
+      "kind": "word",
+      "zh": "n. 追踪, 追求, 追赶, 娱乐, 职业\n[法] 追捕, 追求",
+      "en": "n. the act of pursuing in an effort to overtake or capture\nn. a search for an alternative that meets cognitive criteria",
+      "phonetic": "pә'sju:t",
+      "forms": [
+        "pursuit",
+        "pursuits"
+      ],
+      "example": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v163",
+      "term": "soul",
+      "headword": "soul",
+      "kind": "word",
+      "zh": "n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂\na. 黑人的",
+      "en": "n. the immaterial part of a person; the actuating cause of an individual life\nn. deep feeling or emotion\nn. the human embodiment of something\nn. a secular form of gospel that was a major Black musical genre in the 1960s and 1970s",
+      "phonetic": "sәul",
+      "forms": [
+        "soul"
+      ],
+      "example": "In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "wings",
+      "headword": "wing",
+      "kind": "word",
+      "zh": "n. 翅膀, 翼, 机翼, 派别\nvt. 给...装上翼, 飞过, 使飞, 空运, 增加...速度\nvi. 飞行",
+      "en": "n. a movable organ for flying (one of a pair)\nn. one of the horizontal airfoils on either side of the fuselage of an airplane\nn. a stage area out of sight of the audience\nn. a unit of military aircraft",
+      "phonetic": "wiŋ",
+      "forms": [
+        "wings"
+      ],
+      "example": "In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "wisdom",
+      "headword": "wisdom",
+      "kind": "word",
+      "zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
+      "en": "n. accumulated knowledge or erudition or enlightenment\nn. the trait of utilizing knowledge and experience with common sense and insight\nn. ability to apply knowledge or experience or understanding or common sense and insight\nn. the quality of being prudent and sensible",
+      "phonetic": "'wizdәm",
+      "forms": [
+        "wisdom"
+      ],
+      "example": "In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "external",
+      "headword": "external",
+      "kind": "word",
+      "zh": "n. 外部, 外面\na. 外部的, 客观的, 表面的",
+      "en": "n. outward features\na. happening or arising or located outside or beyond some limits or especially surface\ns. coming from the outside\ns. from or between other countries",
+      "phonetic": "ik'stә:nl",
+      "forms": [
+        "external"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v168",
+      "term": "status",
+      "headword": "status",
+      "kind": "word",
+      "zh": "n. 状态, 情形, 地位, 要人身份\n[计] 状态",
+      "en": "n. the relative position or standing of things or especially persons in a society",
+      "phonetic": "'steitәs",
+      "forms": [
+        "status"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "internal",
+      "headword": "internal",
+      "kind": "word",
+      "zh": "a. 内在的, 国内的\n[医] 内的, 内部的",
+      "en": "a. happening or arising or located within some limits or especially surface\ns. occurring within an institution or community",
+      "phonetic": "in'tә:nәl",
+      "forms": [
+        "internal"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "mastery",
+      "headword": "mastery",
+      "kind": "word",
+      "zh": "n. 征服, 统治权, 优势, 精通, 掌握\n[法] 统治权, 控制权, 征服",
+      "en": "n. the act of mastering or subordinating someone",
+      "phonetic": "'mɑ:stәri",
+      "forms": [
+        "mastery"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "elegant",
+      "headword": "elegant",
+      "kind": "word",
+      "zh": "a. 优雅的, 端庄的, 高雅的",
+      "en": "a. refined and tasteful in appearance or behavior or style\ns. suggesting taste, ease, and wealth\ns. displaying effortless beauty and simplicity in movement or execution",
+      "phonetic": "'eligәnt",
+      "forms": [
+        "elegant"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "functional",
+      "headword": "functional",
+      "kind": "word",
+      "zh": "a. 功能的\n[医] 机能的, 功能的, 官能的",
+      "en": "a. designed for or capable of a particular function or use\na. involving or affecting function rather than physiology\na. relating to or based on function especially as opposed to structure; it is a functional one\"\ns. fit or ready for use or service",
+      "phonetic": "'fʌŋkʃәnәl",
+      "forms": [
+        "functional"
+      ],
+      "example": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "virtue",
+      "headword": "virtue",
+      "kind": "word",
+      "zh": "n. 德行, 美德, 优点, 功效, 效力\n[法] 美德, 贞操, 优点",
+      "en": "n. the quality of doing what is right and avoiding what is wrong\nn. morality with respect to sexual relations\nn. a particular moral excellence",
+      "phonetic": "'vә:tju:",
+      "forms": [
+        "virtue"
+      ],
+      "example": "MacIntyre’s example, in his 1981 book “After Virtue,” is a child paid in candy to learn chess.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "candy",
+      "headword": "candy",
+      "kind": "word",
+      "zh": "n. 糖果, 冰糖\nvt. 用糖煮, 使结晶为砂糖\nvi. 结晶为砂糖",
+      "en": "n. a rich sweet made of flavored sugar and often combined with fruit or nuts",
+      "phonetic": "'kændi",
+      "forms": [
+        "candy"
+      ],
+      "example": "MacIntyre’s example, in his 1981 book “After Virtue,” is a child paid in candy to learn chess.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "chess",
+      "headword": "chess",
+      "kind": "word",
+      "zh": "n. 国际象棋\n[建] 雀麦",
+      "en": "n. weedy annual native to Europe but widely distributed as a weed especially in wheat\nn. a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king",
+      "phonetic": "tʃes",
+      "forms": [
+        "chess"
+      ],
+      "example": "MacIntyre’s example, in his 1981 book “After Virtue,” is a child paid in candy to learn chess.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "cheat",
+      "headword": "cheat",
+      "kind": "word",
+      "zh": "n. 欺骗, 作弊, 骗子\nv. 欺骗, 逃脱, 骗取",
+      "en": "n. a deception for profit to yourself\nv. deprive somebody of something by deceit\nv. defeat someone through trickery or deceit\nv. engage in deceitful behavior; practice trickery or fraud",
+      "phonetic": "tʃi:t",
+      "forms": [
+        "cheat"
+      ],
+      "example": "As long as she plays for the candy, she has every reason to cheat.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "gain",
+      "headword": "gain",
+      "kind": "word",
+      "zh": "n. 增益, 获得, 利润, 收获, 增加\nvt. 得到, 增进, 赚到\nvi. 获利, 增加\n[计] 增益",
+      "en": "n. the amount by which the revenue of a business exceeds its cost of operating\nv. obtain advantages, such as points, etc.\nv. increase or develop\nv. earn on some commercial or business transaction; earn as salary or wages",
+      "phonetic": "gein",
+      "forms": [
+        "gain"
+      ],
+      "example": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "analytical",
+      "headword": "analytical",
+      "kind": "word",
+      "zh": "a. 分析的, 善于分析的, 解析的\n[机] 分析的",
+      "en": "a using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles)\na of a proposition that is necessarily true independent of fact or experience",
+      "phonetic": ".ænә'litikl",
+      "forms": [
+        "analytical"
+      ],
+      "example": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "imagination",
+      "headword": "imagination",
+      "kind": "word",
+      "zh": "n. 想像, 听觉, 想像力\n[医] 想像",
+      "en": "n. the formation of a mental image of something that is not perceived as real and is not present to the senses\nn. the ability to form mental images of things or events",
+      "phonetic": "i.mædʒi'neiʃәn",
+      "forms": [
+        "imagination"
+      ],
+      "example": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "competitive",
+      "headword": "competitive",
+      "kind": "word",
+      "zh": "a. 竞争的\n[经] 竞争的",
+      "en": "a. involving competition or competitiveness\ns. subscribing to capitalistic competition\ns. showing a fighting disposition",
+      "phonetic": "kәm'petitiv",
+      "forms": [
+        "competitive"
+      ],
+      "example": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v181",
+      "term": "intensity",
+      "headword": "intensity",
+      "kind": "word",
+      "zh": "n. 强烈, 紧张, 强度\n[计] 强度; 亮度",
+      "en": "n. the amount of energy transmitted (as by acoustic or electromagnetic radiation)\nn. high level or degree; the property of being intense",
+      "phonetic": "in'tensәti",
+      "forms": [
+        "intensity"
+      ],
+      "example": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "deepen",
+      "headword": "deepen",
+      "kind": "word",
+      "zh": "vi. 深化\nvt. 使加深, 使强烈",
+      "en": "v. make deeper\nv. become deeper in tone",
+      "phonetic": "'dipәn",
+      "forms": [
+        "deepen"
+      ],
+      "example": "Internal goods deepen the longer we pursue them.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "alive",
+      "headword": "alive",
+      "kind": "word",
+      "zh": "a. 活着的, 活泼的, 敏感的, 热闹的",
+      "en": "a. possessing life\ns. (often followed by `with') full of life and spirit\ns. (followed by `to' or `of') aware of\ns. capable of erupting",
+      "phonetic": "ә'laiv",
+      "forms": [
+        "alive"
+      ],
+      "example": "Keeping desire alive means choosing pursuits that can never be finished – a craft, a field of study, a relationship – and letting the gap between reaching and grasping stay open.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "craft",
+      "headword": "craft",
+      "kind": "word",
+      "zh": "n. 技艺, 手艺, 诡计\nvt. 精心制作",
+      "en": "n. a vehicle designed for navigation in or on water or air or through outer space\nn. people who perform a particular kind of skilled work\nn. skill in an occupation or trade\nn. shrewdness as demonstrated by being skilled in deception",
+      "phonetic": "kræft",
+      "forms": [
+        "craft"
+      ],
+      "example": "Keeping desire alive means choosing pursuits that can never be finished – a craft, a field of study, a relationship – and letting the gap between reaching and grasping stay open.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v185",
+      "term": "letting",
+      "headword": "letting",
+      "kind": "word",
+      "zh": "[法] 租金",
+      "en": "n property that is leased or rented out or let\nv make it possible through a specific action or lack of action for something to happen\nv actively cause something to happen\nv consent to, give permission\nv cause to move; cause to be in a certain position or condition\nv leave unchanged\nv grant use or occupation of under a term of contract",
+      "phonetic": "'letiŋ",
+      "forms": [
+        "letting"
+      ],
+      "example": "Keeping desire alive means choosing pursuits that can never be finished – a craft, a field of study, a relationship – and letting the gap between reaching and grasping stay open.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v186",
+      "term": "icelandic",
+      "headword": "Icelandic",
+      "kind": "word",
+      "zh": "a. 冰岛的, 冰岛人的, 冰岛语的\nn. 冰岛语",
+      "en": "n. a Scandinavian language that is the official language of Iceland\na. of or relating to Iceland or its people or culture and language",
+      "phonetic": ".ais'lændik",
+      "forms": [
+        "icelandic"
+      ],
+      "example": "Yet the picture the Swedish Academy left us with is of a writer standing in the Icelandic wind, attending to a force of nature that no one can catch.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      24,
+      30
+    ],
+    "wordBank": [
+      "capture",
+      "chocolate",
+      "Grasp",
+      "truly",
+      "spread",
+      "pursuing",
+      "analytical",
+      "striving",
+      "wisdom",
+      "functional"
+    ],
+    "parts": [
+      {
+        "text": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " factory in the 1952 “I Love Lucy” episode “Job Switching.” As the conveyor belt speeds up, the only way they can look like they’re keeping up is to stuff what they’ve missed into their mouths.\n\nFew things "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " this pressure more than the SMART goal. In 1981, management consultant George Doran proposed that goals be SMART: specific, measurable, assignable, realistic and time-related. The acronym "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting. It distills a wider creed: Set the target, sprint after it, hit it. "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " the top, toss it, capture the next one, ad infinitum. Doran didn’t invent the impulse, but his acronym gave it a checklist.\n\nCarson’s account of desire helps explain why this creed leads to two kinds of emptiness.\n\nThe first comes from "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " goals people never really desired. Inbox zero and a quarterly metric are goals in service of goals, the ultimate of which is productivity itself, which often simply ends up boosting someone else’s productivity.\n\nThe second comes from goals people "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " wanted. Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.\n\nThe Greeks offer another kind of "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ", one that locates pleasure in the pursuit itself rather than in the prize. In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " no one can own.\n\nCenturies later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " design. MacIntyre’s example, in his 1981 book “After Virtue,” is a child paid in candy to learn chess. As long as she plays for the candy, she has every reason to cheat. Only when she comes to love the game does she gain what chess itself can give: a particular kind of "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " skill, strategic imagination and competitive intensity."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "chocolate",
+        "vocabularyId": "v119",
+        "explanation": "原文此处使用 chocolate（chocolate）。结合上下文辨认词义与词形。",
+        "evidence": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
+        "paragraph": 24
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "capture",
+        "vocabularyId": "v106",
+        "explanation": "原文此处使用 capture（capture）。结合上下文辨认词义与词形。",
+        "evidence": "Few things capture this pressure more than the SMART goal.",
+        "paragraph": 25
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "spread",
+        "vocabularyId": "v134",
+        "explanation": "原文此处使用 spread（spread）。结合上下文辨认词义与词形。",
+        "evidence": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
+        "paragraph": 25
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "Grasp",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 Grasp（grasp）。结合上下文辨认词义与词形。",
+        "evidence": "Grasp the top, toss it, capture the next one, ad infinitum.",
+        "paragraph": 25
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "pursuing",
+        "vocabularyId": "v146",
+        "explanation": "原文此处使用 pursuing（pursue）。结合上下文辨认词义与词形。",
+        "evidence": "The first comes from pursuing goals people never really desired.",
+        "paragraph": 27
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "truly",
+        "vocabularyId": "v151",
+        "explanation": "原文此处使用 truly（truly）。结合上下文辨认词义与词形。",
+        "evidence": "The second comes from goals people truly wanted.",
+        "paragraph": 28
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "striving",
+        "vocabularyId": "v159",
+        "explanation": "原文此处使用 striving（strive）。结合上下文辨认词义与词形。",
+        "evidence": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
+        "paragraph": 29
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "wisdom",
+        "vocabularyId": "v165",
+        "explanation": "原文此处使用 wisdom（wisdom）。结合上下文辨认词义与词形。",
+        "evidence": "In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own.",
+        "paragraph": 29
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "functional",
+        "vocabularyId": "v172",
+        "explanation": "原文此处使用 functional（functional）。结合上下文辨认词义与词形。",
+        "evidence": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
+        "paragraph": 30
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "analytical",
+        "vocabularyId": "v178",
+        "explanation": "原文此处使用 analytical（analytical）。结合上下文辨认词义与词形。",
+        "evidence": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
+        "paragraph": 30
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Working with other people can produce more creative and meaningful ideas than relying on AI alone.",
+          "Foley artists create carefully performed sound effects that play an essential role in cinema.",
+          "Achieving a goal can produce emptiness, revealing limits of achievement as a source of fulfilment.",
+          "Tove Jansson's Hobbit illustrations express an imaginative understanding of childhood."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "The highest award in literature has gone to a writer who has spent her career exploring the emptiness of a desire fulfilled.",
+        "paragraph": 3
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How does Carson describe the origin of desire?",
+        "options": [
+          "It begins with a sense of absence or something not possessed.",
+          "It is unrelated to any feeling of lack.",
+          "It starts only after all curiosity has disappeared.",
+          "It requires already owning everything one wants."
+        ],
+        "answer": 0,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In it, Carson argues that desire begins with a void – with wanting what we don’t have.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 15?",
+        "options": [
+          "Most people know a version of this: There is something animating about chasing a goal.",
+          "To long for someone or something is to discover our own edges, the chasm where the self ends and what is wanted begins.",
+          "Thinking also runs on that doubled feeling, which is how the story of a philosopher chasing tops ended up in a book about love.",
+          "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize."
+        ],
+        "answer": 1,
+        "explanation": "定位第 15 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "To long for someone or something is to discover our own edges, the chasm where the self ends and what is wanted begins.",
+        "paragraph": 15
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved.”",
+        "options": [
+          "Paragraph 23",
+          "Paragraph 3",
+          "Paragraph 29",
+          "Paragraph 1"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 23 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "I discovered “Eros the Bittersweet” as a philosophy graduate student, when my goals were to read, write and think my way into questions I loved.",
+        "paragraph": 23
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.”",
+        "options": [
+          "Paragraph 7",
+          "Paragraph 28",
+          "Paragraph 22",
+          "Paragraph 14"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 28 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Psychologist Tal Ben-Shahar calls the letdown that follows the “arrival fallacy” – the belief that reaching a destination will bring lasting happiness.",
+        "paragraph": 28
+      }
+    ]
+  },
+  "revision": "505ba9d12eac5b479caa6ea03b76835f9204069861984bb9d16b1fded5b83d13"
+}

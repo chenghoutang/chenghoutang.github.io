@@ -1,0 +1,3285 @@
+{
+  "schemaVersion": 1,
+  "folder": "076",
+  "articleSha256": "def42908c6134418c8101cdbbe3e4561e0644e346f556e66d8fa7b236041d154",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "hack",
+      "headword": "hack",
+      "kind": "word",
+      "zh": "n. 劈, 砍, 砍痕, 出租车, 干咳, 晒架, 鹤嘴锄\nvt. 劈, 砍, 出租, 用旧\nvi. 劈, 砍, 干咳, 驾驶出租车\na. 出租的",
+      "en": "n. one who works hard at boring tasks\nn. a mediocre and disdained writer\nn. a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil\nn. an old or over-worked horse",
+      "phonetic": "hæk",
+      "forms": [
+        "hack",
+        "hacks"
+      ],
+      "example": "First you are shown a new hack to keep wine from spoiling.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "wine",
+      "headword": "wine",
+      "kind": "word",
+      "zh": "n. 葡萄酒, 果酒, 暗红色\nv. (请)喝酒",
+      "en": "n. fermented juice (of grapes especially)\nn. a red as dark as red wine\nv. drink wine\nv. treat to wine",
+      "phonetic": "wain",
+      "forms": [
+        "wine"
+      ],
+      "example": "First you are shown a new hack to keep wine from spoiling.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "spoiling",
+      "headword": "spoil",
+      "kind": "word",
+      "zh": "n. 战利品, 赃物, 奖品, 变质, 次品\nvt. 损坏, 破坏, 溺爱\nvi. 腐坏, 掠夺",
+      "en": "n. (usually plural) valuables taken by violence (especially in war)\nn. the act of spoiling something by causing damage to it\nn. the act of stripping and taking by force\nv. become unfit for consumption or use",
+      "phonetic": "spɒil",
+      "forms": [
+        "spoiling"
+      ],
+      "example": "First you are shown a new hack to keep wine from spoiling.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "lovingly",
+      "headword": "lovingly",
+      "kind": "word",
+      "zh": "adv. 钟爱地, 亲切地",
+      "en": "r with fondness; with love",
+      "phonetic": "'lʌviŋli",
+      "forms": [
+        "lovingly"
+      ],
+      "example": "Then a dog lovingly devoted to its owner.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "devoted",
+      "headword": "devote",
+      "kind": "word",
+      "zh": "vt. 投入于, 献身",
+      "en": "v. set aside or apart for a specific purpose or use",
+      "phonetic": "di'vәut",
+      "forms": [
+        "devoted"
+      ],
+      "example": "Then a dog lovingly devoted to its owner.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "in tow",
+      "headword": "in tow",
+      "kind": "phrase",
+      "zh": "紧随其后",
+      "en": "following or accompanying someone or something",
+      "forms": [
+        "in tow"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v7",
+      "term": "repair",
+      "headword": "repair",
+      "kind": "word",
+      "zh": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
+      "en": "n. the act of putting something in working order again\nn. a formal way of referring to the condition of something\nv. restore by replacing a part or putting together what is torn or broken\nv. move, travel, or proceed toward some place",
+      "phonetic": "ri'pєә",
+      "forms": [
+        "repair"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "acne",
+      "headword": "acne",
+      "kind": "word",
+      "zh": "n. 痤疮, 粉刺\n[医] 痤疮, 粉刺",
+      "en": "n. an inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones",
+      "phonetic": "'ækni",
+      "forms": [
+        "acne"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "cake",
+      "headword": "cake",
+      "kind": "word",
+      "zh": "n. 蛋糕, 块, 饼\nvt. 使结块, 加块状物于\nvi. 结块",
+      "en": "n. a block of solid substance (such as soap or wax)\nn. baked goods made from or based on a mixture of flour, sugar, eggs, and fat",
+      "phonetic": "keik",
+      "forms": [
+        "cake"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "recipe",
+      "headword": "recipe",
+      "kind": "word",
+      "zh": "n. 食谱, 处方, 秘诀\n[医] 取(处方头语), 处方",
+      "en": "n. directions for making something",
+      "phonetic": "'resipi",
+      "forms": [
+        "recipe",
+        "recipes"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "astrological",
+      "headword": "astrological",
+      "kind": "word",
+      "zh": "a. 占星学的, 占星术的",
+      "en": "a. relating to or concerned with astrology",
+      "phonetic": ".æstrә'lɒdʒikl",
+      "forms": [
+        "astrological"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "Immediately in tow there are methods to repair broken glass and remove acne, a tip for weight loss, a cake recipe and an astrological reading of your future.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "But this is not your TikTok or Instagram feed – it’s the contents of a book written nearly four-and-a-half centuries ago.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "contents",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "contents",
+        "content"
+      ],
+      "example": "But this is not your TikTok or Instagram feed – it’s the contents of a book written nearly four-and-a-half centuries ago.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "centuries",
+      "headword": "century",
+      "kind": "word",
+      "zh": "n. 世纪, 百年",
+      "en": "n. a period of 100 years",
+      "phonetic": "'sentʃuri",
+      "forms": [
+        "centuries"
+      ],
+      "example": "But this is not your TikTok or Instagram feed – it’s the contents of a book written nearly four-and-a-half centuries ago.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "notable",
+      "headword": "notable",
+      "kind": "word",
+      "zh": "n. 著名人士, 值得注意之事物\na. 值得注意的, 显著的",
+      "en": "n a celebrity who is an inspiration to others\ns worthy of notice\ns widely known and esteemed",
+      "phonetic": "'nәutәbl",
+      "forms": [
+        "notable"
+      ],
+      "example": "The English writer Thomas Lupton’s book A Thousand Notable Things was first published in 1579.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "title",
+      "headword": "title",
+      "kind": "word",
+      "zh": "n. 头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕\nvt. 授予头衔, 加标题于\n[计] 标题",
+      "en": "n. a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with\nn. the name of a work of art or literary composition etc.\nn. a general or descriptive heading for a section of a written work\nn. an identifying appellation signifying status or function: e.g. `Mr.' or `General'",
+      "phonetic": "'taitl",
+      "forms": [
+        "title"
+      ],
+      "example": "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "collected",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collected"
+      ],
+      "example": "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "passages",
+      "headword": "passage",
+      "kind": "word",
+      "zh": "n. 通道, 通过, 移居, 航行, 一段, 走廊\nvi. 通过, 经过, 航行, 横渡, 争吵\nvt. (使)马以斜横步前进, 使传代",
+      "en": "n. the act of passing from one state or place to the next\nn. a section of text; particularly a section of medium length\nn. a way through or along which someone or something may pass\nn. a journey usually by ship",
+      "phonetic": "'pæsidʒ",
+      "forms": [
+        "passages"
+      ],
+      "example": "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "randomly",
+      "headword": "randomly",
+      "kind": "word",
+      "zh": "adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地\n[计] 随机地",
+      "en": "r. in a random manner",
+      "phonetic": "",
+      "forms": [
+        "randomly"
+      ],
+      "example": "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "seemingly",
+      "headword": "seemingly",
+      "kind": "word",
+      "zh": "adv. 看来似乎, 表面上看来",
+      "en": "r from appearances alone",
+      "phonetic": "'si:miŋli",
+      "forms": [
+        "seemingly"
+      ],
+      "example": "A seemingly endless stream of household “life hacks”, sensational stories and recipes, it offered answers for just about everything.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "endless",
+      "headword": "endless",
+      "kind": "word",
+      "zh": "a. 不停的, 无穷尽的, 无尽的\n[机] 无端的, 环状的",
+      "en": "s. tiresomely long; seemingly without end\ns. infinitely great in number\ns. having the ends united so as to form a continuous whole",
+      "phonetic": "'endlis",
+      "forms": [
+        "endless"
+      ],
+      "example": "A seemingly endless stream of household “life hacks”, sensational stories and recipes, it offered answers for just about everything.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "stream",
+      "headword": "stream",
+      "kind": "word",
+      "zh": "n. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流",
+      "en": "n. a natural body of running water flowing on or under the earth\nn. dominant course (suggestive of running water) of successive events or ideas\nn. something that resembles a flowing stream in moving continuously\nv. to extend, wave or float outward, as if in the wind",
+      "phonetic": "stri:m",
+      "forms": [
+        "stream"
+      ],
+      "example": "A seemingly endless stream of household “life hacks”, sensational stories and recipes, it offered answers for just about everything.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "household",
+      "headword": "household",
+      "kind": "word",
+      "zh": "n. 一家人, 家庭, 家族, 王室\na. 家庭的, 家常的, 王室的",
+      "en": "n a social unit living together",
+      "phonetic": "'haushәuld",
+      "forms": [
+        "household"
+      ],
+      "example": "A seemingly endless stream of household “life hacks”, sensational stories and recipes, it offered answers for just about everything.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "sensational",
+      "headword": "sensational",
+      "kind": "word",
+      "zh": "a. 使人感动的, 非常好的",
+      "en": "a. causing intense interest, curiosity, or emotion\na. relating to or concerned in sensation",
+      "phonetic": "sen'seiʃәnl",
+      "forms": [
+        "sensational"
+      ],
+      "example": "A seemingly endless stream of household “life hacks”, sensational stories and recipes, it offered answers for just about everything.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "forehead",
+      "headword": "forehead",
+      "kind": "word",
+      "zh": "n. 额, 前额, 前部\n[医] 额",
+      "en": "n the part of the face above the eyes\nn the large cranial bone forming the front part of the cranium: includes the upper part of the orbits",
+      "phonetic": "'fɒ:rid",
+      "forms": [
+        "forehead"
+      ],
+      "example": "Rub your forehead with a mix of white poppy and henbane seeds.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "poppy",
+      "headword": "poppy",
+      "kind": "word",
+      "zh": "n. 罂粟\n[医] 罂粟",
+      "en": "n. annual or biennial or perennial herbs having showy flowers",
+      "phonetic": "'pɒpi",
+      "forms": [
+        "poppy"
+      ],
+      "example": "Rub your forehead with a mix of white poppy and henbane seeds.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "henbane",
+      "headword": "henbane",
+      "kind": "word",
+      "zh": "n. 天仙子",
+      "en": "n. poisonous fetid Old World herb having sticky hairy leaves and yellow-brown flowers; yields hyoscyamine and scopolamine",
+      "phonetic": "'henbein",
+      "forms": [
+        "henbane"
+      ],
+      "example": "Rub your forehead with a mix of white poppy and henbane seeds.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "seeds",
+      "headword": "seed",
+      "kind": "word",
+      "zh": "n. 种子, 籽, 萌芽, 子孙, 精液\nvt. 在...播种, 催...发育, 脱...籽\nvi. 结实, 播种",
+      "en": "n. a small hard fruit\nn. a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa\nv. go to seed; shed seeds\nv. help (an enterprise) in its early stages of development by providing seed money",
+      "phonetic": "si:d",
+      "forms": [
+        "seeds"
+      ],
+      "example": "Rub your forehead with a mix of white poppy and henbane seeds.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "bewitched",
+      "headword": "bewitch",
+      "kind": "word",
+      "zh": "vt. 施魔法于, 蛊惑, 使着迷",
+      "en": "v attract; cause to be enamored\nv attract strongly, as if with a magnet\nv cast a spell over someone or something; put a hex on someone or something",
+      "phonetic": "bi'witʃ",
+      "forms": [
+        "bewitched"
+      ],
+      "example": "If you find yourself bewitched, leave a mercury-filled quill under your pillow.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "mercury",
+      "headword": "mercury",
+      "kind": "word",
+      "zh": "n. 水银, 汞, 使者\n[化] 汞Hg",
+      "en": "n. a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures\nn. (Roman mythology) messenger of Jupiter and god of commerce; counterpart of Greek Hermes\nn. the smallest planet and the nearest to the sun\nn. temperature measured by a mercury thermometer",
+      "phonetic": "'mә:kjuri",
+      "forms": [
+        "mercury"
+      ],
+      "example": "If you find yourself bewitched, leave a mercury-filled quill under your pillow.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "quill",
+      "headword": "quill",
+      "kind": "word",
+      "zh": "n. 羽根, 大翎毛, 羽毛笔\nvt. 刺穿",
+      "en": "n. pen made from a bird's feather\nn. a stiff hollow protective spine on a porcupine or hedgehog\nn. the hollow spine of a feather",
+      "phonetic": "kwil",
+      "forms": [
+        "quill"
+      ],
+      "example": "If you find yourself bewitched, leave a mercury-filled quill under your pillow.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "pillow",
+      "headword": "pillow",
+      "kind": "word",
+      "zh": "n. 枕头, 靠垫, 枕状岩\nvt. 作...的枕头, 垫, 枕于\nvi. 靠在枕上",
+      "en": "n. a cushion to support the head of a sleeping person\nv. rest on or as if on a pillow",
+      "phonetic": "'pilәu",
+      "forms": [
+        "pillow"
+      ],
+      "example": "If you find yourself bewitched, leave a mercury-filled quill under your pillow.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "folklore",
+      "headword": "folklore",
+      "kind": "word",
+      "zh": "n. 民俗学, 民间风俗, 民间传说",
+      "en": "n. the unwritten lore (stories and proverbs and riddles and songs) of a culture",
+      "phonetic": "'fәuklɒ:",
+      "forms": [
+        "folklore"
+      ],
+      "example": "And have you heard the folklore that claims when a robin red breast finds a dead human, they cover its face in moss?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "robin",
+      "headword": "robin",
+      "kind": "word",
+      "zh": "n. 旅鸫\n[医] 刺槐毒素",
+      "en": "n. small Old World songbird with a reddish breast\nn. large American thrush having a rust-red breast and abdomen",
+      "phonetic": "'rɒbin",
+      "forms": [
+        "robin"
+      ],
+      "example": "And have you heard the folklore that claims when a robin red breast finds a dead human, they cover its face in moss?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "breast",
+      "headword": "breast",
+      "kind": "word",
+      "zh": "n. 胸部, 乳房, 胸怀\nvt. 以胸对着, 面对",
+      "en": "n. the front of the trunk from the neck to the abdomen\nn. either of two soft fleshy milk-secreting glandular organs on the chest of a woman\nn. meat carved from the breast of a fowl\nn. the part of an animal's body that corresponds to a person's chest",
+      "phonetic": "brest",
+      "forms": [
+        "breast"
+      ],
+      "example": "And have you heard the folklore that claims when a robin red breast finds a dead human, they cover its face in moss?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "moss",
+      "headword": "moss",
+      "kind": "word",
+      "zh": "n. 苔藓, 泥沼\nvt. 使长满苔藓",
+      "en": "n. tiny leafy-stemmed flowerless plants",
+      "phonetic": "mɒs",
+      "forms": [
+        "moss"
+      ],
+      "example": "And have you heard the folklore that claims when a robin red breast finds a dead human, they cover its face in moss?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "flitting",
+      "headword": "flit",
+      "kind": "word",
+      "zh": "n. 掠过, 迁徙\nvi. 掠过, 迁徙",
+      "en": "n. a sudden quick movement\nn. a secret move (to avoid paying debts)\nv. move along rapidly and lightly; skim or dart",
+      "phonetic": "flit",
+      "forms": [
+        "flitting"
+      ],
+      "example": "Flitting through eclectic, attention-grabbing short-form content may be the de facto mode of media consumption in the 21st century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "eclectic",
+      "headword": "eclectic",
+      "kind": "word",
+      "zh": "n. 折衷主义者\na. 选择的, 折衷的",
+      "en": "n. someone who selects according to the eclectic method\ns. selecting what seems best of various styles or ideas",
+      "phonetic": "ek'lektik",
+      "forms": [
+        "eclectic"
+      ],
+      "example": "Flitting through eclectic, attention-grabbing short-form content may be the de facto mode of media consumption in the 21st century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "mode",
+      "headword": "mode",
+      "kind": "word",
+      "zh": "n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚\n[计] 方式; DOS外部命令:设定各种设备命令",
+      "en": "n. a particular functioning condition or arrangement\nn. any of various fixed orders of the various diatonic notes within an octave\nn. the most frequent value of a random variable",
+      "phonetic": "mәud",
+      "forms": [
+        "mode"
+      ],
+      "example": "Flitting through eclectic, attention-grabbing short-form content may be the de facto mode of media consumption in the 21st century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "consumption",
+      "headword": "consumption",
+      "kind": "word",
+      "zh": "n. 消费, 消费量, 痨病\n[化] 消耗量; 耗量",
+      "en": "n. the process of taking food into the body through the mouth (as by eating)\nn. (economics) the utilization of economic goods to satisfy needs or in manufacturing\nn. the act of consuming something",
+      "phonetic": "kәn'sʌmpʃәn",
+      "forms": [
+        "consumption"
+      ],
+      "example": "Flitting through eclectic, attention-grabbing short-form content may be the de facto mode of media consumption in the 21st century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "ancestors",
+      "headword": "ancestor",
+      "kind": "word",
+      "zh": "n. 祖先, 祖宗",
+      "en": "n. someone from whom you are descended (but usually more remote than a grandparent)",
+      "phonetic": "'ænsestә",
+      "forms": [
+        "ancestors"
+      ],
+      "example": "But how-to books like A Thousand Notable Things suggest that our ancestors’ preoccupations were not entirely different.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "preoccupations",
+      "headword": "preoccupation",
+      "kind": "word",
+      "zh": "n. 抢先占据, 先人之见, 入神\n[医] 成见, 注意散漫, 心不在焉",
+      "en": "n. an idea that preoccupies the mind and holds the attention\nn. the mental state of being preoccupied by something",
+      "phonetic": "pri:.ɒkju'peiʃәn",
+      "forms": [
+        "preoccupations"
+      ],
+      "example": "But how-to books like A Thousand Notable Things suggest that our ancestors’ preoccupations were not entirely different.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "entirely",
+      "headword": "entirely",
+      "kind": "word",
+      "zh": "adv. 完全, 全然, 一概",
+      "en": "r. without any others being included or involved",
+      "phonetic": "in'taiәli",
+      "forms": [
+        "entirely"
+      ],
+      "example": "But how-to books like A Thousand Notable Things suggest that our ancestors’ preoccupations were not entirely different.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "appeal",
+      "headword": "appeal",
+      "kind": "word",
+      "zh": "n. 恳求, 诉请, 上诉, 吸引力\nvi. 呼吁, 诉请, 要求, 上诉, 有吸引力\nvt. 将...上诉",
+      "en": "n. attractiveness that interests or pleases or stimulates\nn. (law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial\nv. take a court case to a higher court for review\nv. request earnestly (something from somebody); ask for aid or protection",
+      "phonetic": "ә'pi:l",
+      "forms": [
+        "appeal"
+      ],
+      "example": "Lupton understood the wide appeal of such easily digestible material.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "digestible",
+      "headword": "digestible",
+      "kind": "word",
+      "zh": "a. 可消化的, 易消化的, 可摘要的\n[医] 可消化的",
+      "en": "a. capable of being converted into assimilable condition in the alimentary canal",
+      "phonetic": "di'dʒestәbl",
+      "forms": [
+        "digestible"
+      ],
+      "example": "Lupton understood the wide appeal of such easily digestible material.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "preface",
+      "headword": "preface",
+      "kind": "word",
+      "zh": "n. 序, 绪言, 前言\nvi. 作序, 写前言\nvt. 给...作序, 以...开始",
+      "en": "n a short introductory essay preceding the text of a book\nv furnish with a preface or introduction",
+      "phonetic": "'prefis",
+      "forms": [
+        "preface"
+      ],
+      "example": "In a revealing preface, he argued that imbibing many passages of “strangeness and variety” was preferable to being “fed too long with one food” by reading entire books.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "imbibing",
+      "headword": "imbibe",
+      "kind": "word",
+      "zh": "vt. 饮, 吸取, 吸入\nvi. 喝, 吸收水分",
+      "en": "v. receive into the mind and retain",
+      "phonetic": "im'baib",
+      "forms": [
+        "imbibing"
+      ],
+      "example": "In a revealing preface, he argued that imbibing many passages of “strangeness and variety” was preferable to being “fed too long with one food” by reading entire books.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "strangeness",
+      "headword": "strangeness",
+      "kind": "word",
+      "zh": "n. 奇妙, 不可思议, 陌生\n[化] 奇异性",
+      "en": "n. (physics) one of the six flavors of quark",
+      "phonetic": "'streindʒnis",
+      "forms": [
+        "strangeness"
+      ],
+      "example": "In a revealing preface, he argued that imbibing many passages of “strangeness and variety” was preferable to being “fed too long with one food” by reading entire books.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "preferable",
+      "headword": "preferable",
+      "kind": "word",
+      "zh": "a. 更可取的, 更好的, 更合意的",
+      "en": "s. more desirable than another",
+      "phonetic": "'prefәrәbl",
+      "forms": [
+        "preferable"
+      ],
+      "example": "In a revealing preface, he argued that imbibing many passages of “strangeness and variety” was preferable to being “fed too long with one food” by reading entire books.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "formula",
+      "headword": "formula",
+      "kind": "word",
+      "zh": "n. 客套语, 公式, 准则\n[计] 公式",
+      "en": "n. a group of symbols that make a mathematical statement\nn. a conventionalized statement expressing some fundamental principle\nn. a representation of a substance using symbols for its constituent elements\nn. a liquid food for infants",
+      "phonetic": "'fɒ:mjulә",
+      "forms": [
+        "formula"
+      ],
+      "example": "It proved a winning formula. A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v54",
+      "term": "editions",
+      "headword": "edition",
+      "kind": "word",
+      "zh": "n. 版本, 版, 翻版",
+      "en": "n. the form in which a text (especially a printed book) is published\nn. all of the identical copies of something offered to the public at the same time\nn. an issue of a newspaper",
+      "phonetic": "i'diʃәn",
+      "forms": [
+        "editions"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "print",
+      "headword": "print",
+      "kind": "word",
+      "zh": "n. 打印, 版, 印刷物, 痕迹, 印刷业, 印刷字体, 图片, 印花布, 印章\nv. 打印, 印刷, 铭记, 留印记于, 用印刷体写\n[计] DOS外部命令:在打印机上打印文件, 可一边打印文件一边执行其他工作",
+      "en": "n. the text appearing in a book, newspaper, or other printed publication\nn. a picture or design printed from an engraving\nn. availability in printed form\nn. a copy of a movie on film (especially a particular version of it)",
+      "phonetic": "print",
+      "forms": [
+        "print"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "drake",
+      "headword": "drake",
+      "kind": "word",
+      "zh": "n. 公鸭, 蜉蝣类",
+      "en": "n. English explorer and admiral who was the first Englishman to circumnavigate the globe and who helped to defeat the Spanish Armada (1540-1596)\nn. adult male of a wild or domestic duck",
+      "phonetic": "dreik",
+      "forms": [
+        "drake"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "circumnavigating",
+      "headword": "circumnavigate",
+      "kind": "word",
+      "zh": "vt. 环绕航行",
+      "en": "v. travel around, either by plane or ship",
+      "phonetic": ".sә:kәm'nævigeit",
+      "forms": [
+        "circumnavigating"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "globe",
+      "headword": "globe",
+      "kind": "word",
+      "zh": "n. 球, 球状物, 地球仪, 天体\nv. (使)成球状",
+      "en": "n. a sphere on which a map (especially of the earth) is represented",
+      "phonetic": "glәub",
+      "forms": [
+        "globe"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "photograph",
+      "headword": "photograph",
+      "kind": "word",
+      "zh": "n. 相片, 照片, 逼真的描绘\nv. 照相, 摄影",
+      "en": "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\nv. record on photographic film\nv. undergo being photographed in a certain way",
+      "phonetic": "'fәutәgrɑ:f",
+      "forms": [
+        "photograph"
+      ],
+      "example": "A Thousand Notable Things enjoyed at least 33 editions, remaining in print from the time Sir Francis Drake was circumnavigating the globe until 1827, the year the first known photograph was taken.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "belonged",
+      "headword": "belong",
+      "kind": "word",
+      "zh": "vi. 属于, 合适",
+      "en": "v. be owned by; be in the possession of\nv. be suitable or acceptable\nv. be in the right place or situation\nv. be rightly classified in a class or category",
+      "phonetic": "bi'lɒŋ",
+      "forms": [
+        "belonged"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "burgeoning",
+      "headword": "burgeon",
+      "kind": "word",
+      "zh": "n. 芽, 嫩枝\nv. 萌芽, 发芽",
+      "en": "v. grow and flourish",
+      "phonetic": "'bә:dʒәn",
+      "forms": [
+        "burgeoning"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "taste",
+      "headword": "taste",
+      "kind": "word",
+      "zh": "n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量\nvt. 尝, 察觉...的味道, 体会\nvi. 品尝, 察觉味道, 有某种味道",
+      "en": "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus\nn. delicate discrimination (especially of aesthetic values)\nn. a brief experience of something\nn. a small amount eaten or drunk",
+      "phonetic": "teist",
+      "forms": [
+        "taste"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "secrets",
+      "headword": "secret",
+      "kind": "word",
+      "zh": "n. 秘密, 机密, 秘诀, 秘方\na. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的",
+      "en": "n. something that should remain hidden from others (especially information that is not to be passed on)\nn. information known only to a special group\ns. not open or public; kept private or not revealed\ns. communicated covertly",
+      "phonetic": "'si:krit",
+      "forms": [
+        "secrets"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "instructional",
+      "headword": "instructional",
+      "kind": "word",
+      "zh": "a. 教学的, 教育的",
+      "en": "a. of or relating to or used in instruction",
+      "phonetic": "in'strʌkʃәnәl",
+      "forms": [
+        "instructional"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "texts",
+      "headword": "text",
+      "kind": "word",
+      "zh": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\n[计] 电文; 文本; 正文",
+      "en": "n. the words of something written\nn. a passage from the Bible that is used as the subject of a sermon\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)",
+      "phonetic": "tekst",
+      "forms": [
+        "texts"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "cosmetics",
+      "headword": "cosmetic",
+      "kind": "word",
+      "zh": "n. 化妆品\na. 化妆用的",
+      "en": "n. a toiletry designed to beautify the body\ns. serving an esthetic rather than a useful purpose\ns. serving an aesthetic purpose in beautifying the body",
+      "phonetic": "kɒz'metik",
+      "forms": [
+        "cosmetics"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "alchemy",
+      "headword": "alchemy",
+      "kind": "word",
+      "zh": "n. 炼金术, 魔力\n[化] 炼丹术; 炼金术; 金丹术",
+      "en": "n. a pseudoscientific forerunner of chemistry in medieval times",
+      "phonetic": "'ælkimi",
+      "forms": [
+        "alchemy"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "brewing",
+      "headword": "brew",
+      "kind": "word",
+      "zh": "n. 酿造酒, 酝酿\nv. 酿造, 酝酿",
+      "en": "n. drink made by steeping and boiling and fermenting rather than distilling\nv. prepare by brewing\nv. sit or let sit in boiling water so as to extract the flavor",
+      "phonetic": "bru:",
+      "forms": [
+        "brewing"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "beekeeping",
+      "headword": "beekeeping",
+      "kind": "word",
+      "zh": "n. 养蜂",
+      "en": "n. the cultivation of bees on a commercial scale for the production of honey",
+      "phonetic": "'bi:,ki:piŋ",
+      "forms": [
+        "beekeeping"
+      ],
+      "example": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "originating",
+      "headword": "originate",
+      "kind": "word",
+      "zh": "vt. 创始, 发明, 发起\nvi. 发源, 发生, 起航\n[计] 发自",
+      "en": "v. come into existence; take on form or shape\nv. bring into being\nv. begin a trip at a certain point, as of a plane, train, bus, etc.",
+      "phonetic": "ә'ridʒineit",
+      "forms": [
+        "originating"
+      ],
+      "example": "Originating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "italy",
+      "headword": "Italy",
+      "kind": "word",
+      "zh": "n. 意大利",
+      "en": "n. a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+      "phonetic": "'itәli",
+      "forms": [
+        "italy"
+      ],
+      "example": "Originating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "continually",
+      "headword": "continually",
+      "kind": "word",
+      "zh": "adv. 不断地, 频繁地",
+      "en": "r. seemingly without interruption",
+      "phonetic": "kәn'tinjuәli",
+      "forms": [
+        "continually"
+      ],
+      "example": "Originating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "translated",
+      "headword": "translate",
+      "kind": "word",
+      "zh": "vt. 翻译, 解释, 转化, 转变为, 调动\nvi. 翻译, 被译\n[计] 转换",
+      "en": "v. restate (words) from one language into another language\nv. change from one form or medium into another\nv. bring to a certain spiritual state\nv. change the position of (figures or bodies) in space without rotation",
+      "phonetic": "træns'leit",
+      "forms": [
+        "translated"
+      ],
+      "example": "Originating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "reprinted",
+      "headword": "reprint",
+      "kind": "word",
+      "zh": "n. 再版, 翻版, 重印\nvt. 再版, 翻版",
+      "en": "v. print anew",
+      "phonetic": "'ri:print",
+      "forms": [
+        "reprinted"
+      ],
+      "example": "Originating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "exerting",
+      "headword": "exert",
+      "kind": "word",
+      "zh": "vt. 发挥, 运用, 施以影响\n[法] 施加, 产生, 行使",
+      "en": "v. put to use\nv. make a great effort at a mental or physical task",
+      "phonetic": "ig'zә:t",
+      "forms": [
+        "exerting"
+      ],
+      "example": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "genuine",
+      "headword": "genuine",
+      "kind": "word",
+      "zh": "a. 真正的, 真实的, 诚恳的\n[医] 真性的",
+      "en": "a. not fake or counterfeit\ns. not pretended; sincerely felt or expressed",
+      "phonetic": "'dʒenjuin",
+      "forms": [
+        "genuine"
+      ],
+      "example": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "influence",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influence"
+      ],
+      "example": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "contemporary",
+      "headword": "contemporary",
+      "kind": "word",
+      "zh": "n. 同时代的人\na. 同时代的, 属于同一时期的",
+      "en": "n. a person of nearly the same age as another\ns. characteristic of the present\ns. belonging to the present time",
+      "phonetic": "kәn'tempәrәri",
+      "forms": [
+        "contemporary"
+      ],
+      "example": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "scientific",
+      "headword": "scientific",
+      "kind": "word",
+      "zh": "a. 科学的, 系统的, 符合科学规律的\n[计] 科学记数法",
+      "en": "a. of or relating to the practice of science\na. conforming with the principles or methods used in science",
+      "phonetic": ".saiәn'tifik",
+      "forms": [
+        "scientific"
+      ],
+      "example": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "alchemical",
+      "headword": "alchemical",
+      "kind": "word",
+      "zh": "[机] 炼丹的",
+      "en": "a related to or concerned with alchemy",
+      "phonetic": "",
+      "forms": [
+        "alchemical"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "routes",
+      "headword": "route",
+      "kind": "word",
+      "zh": "n. 路径, 途径, 路线\nvt. 确定路线, 按规定路线发送\n[计] 传递, 路由设定程序",
+      "en": "v. send documents or materials to appropriate destinations\nv. send via a specific route\nv. divert in a specified direction",
+      "phonetic": "ru:t",
+      "forms": [
+        "routes"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "stone",
+      "headword": "stone",
+      "kind": "word",
+      "zh": "n. 石头, 宝石, 果核, 纪念碑, 结石\nvt. 投扔石子, 铺石头\na. 石的, 石制的, 完全的",
+      "en": "n. building material consisting of a piece of rock hewn in a definite shape for a special purpose\nn. an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds\nn. the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed\nn. United States jurist who was named chief justice of the United States Supreme Court in 1941 by Franklin D. Roosevelt (1872-1946)",
+      "phonetic": "stәun",
+      "forms": [
+        "stone"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "nutritious",
+      "headword": "nutritious",
+      "kind": "word",
+      "zh": "a. 滋养的, 营养的\n[医] 有营养的",
+      "en": "s of or providing nourishment",
+      "phonetic": "nju:'triʃәs",
+      "forms": [
+        "nutritious"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "stew",
+      "headword": "stew",
+      "kind": "word",
+      "zh": "n. 炖, 烦恼, 热浴, 妓院, 鱼塘\nvi. 炖, 焖, 忧虑\nvt. 炖, 焖, 使焦虑",
+      "en": "n. food prepared by stewing especially meat or fish with vegetables\nv. bear a grudge; harbor ill feelings\nv. cook slowly and for a long time in liquid",
+      "phonetic": "stju:",
+      "forms": [
+        "stew"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "thrived",
+      "headword": "thrive",
+      "kind": "word",
+      "zh": "vi. 繁荣, 兴旺, 茁壮成长\n[经] 兴旺, 繁荣, 旺盛",
+      "en": "v. make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+      "phonetic": "θraiv",
+      "forms": [
+        "thrived"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "promise",
+      "headword": "promise",
+      "kind": "word",
+      "zh": "n. 诺言, 约定的事情, 有指望\nvt. 允诺, 约定, 预示\nvi. 允诺, 有前途, 有指望",
+      "en": "n. a verbal commitment by one person to another agreeing to do (or not to do) something in the future\nn. grounds for feeling hopeful about the future\nv. make a promise or commitment\nv. promise to undertake or give",
+      "phonetic": "'prɒmis",
+      "forms": [
+        "promise"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "hidden",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hidden"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "inner",
+      "headword": "inner",
+      "kind": "word",
+      "zh": "a. 内部的, 内心的\nn. 内部",
+      "en": "s. located inward\na. located or occurring within or closer to a center\ns. innermost or essential\ns. exclusive to a center; especially a center of influence",
+      "phonetic": "'inә",
+      "forms": [
+        "inner"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "workings",
+      "headword": "workings",
+      "kind": "word",
+      "zh": "n. 工作方式, 作用, 活动方式",
+      "en": "n the internal mechanism of a device\nn a mine or quarry that is being or has been worked\nn a mine or quarry that is being or has been worked\nv exert oneself by doing mental or physical work for a purpose or out of necessity\nv be employed\nv have an effect or outcome; often the one desired or expected\nv perform as expected when applied\nv shape, form, or improve a material\nv give a workout to\nv proceed along a path\nv operate in a certain place, area, or specialty\nv proceed towards a goal or along a path or through an activity\nv move in an agitated manner\nv cause to happen or to occur as a consequence\nv cause to work\nv prepare for crops\nv behave in a certain way when handled\nv have and exert influence or effect\nv operate in or through\nv cause to operate or function\nv provoke or excite\nv gratify and charm, usually in order to influence\nv make something, usually for a specific function\nv move into or onto\nv make uniform\nv use or manipulate to one's advantage\nv find the solution to (a problem or question) or understand the meaning of\nv cause to undergo fermentation\nv go sour or spoil\nv arrive at a certain condition through repeated motion",
+      "phonetic": "",
+      "forms": [
+        "workings"
+      ],
+      "example": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "guarantee",
+      "headword": "guarantee",
+      "kind": "word",
+      "zh": "n. 担保, 抵押品, 保证书\nvt. 保证, 担保",
+      "en": "n. a written assurance that some product or service will be provided or will meet certain specifications\nn. an unconditional commitment that something will happen or that something is true\nn. a collateral agreement to answer for the debt of another in case that person defaults\nv. give surety or assume responsibility",
+      "phonetic": ".gærәn'ti:",
+      "forms": [
+        "guarantee"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "pregnancy",
+      "headword": "pregnancy",
+      "kind": "word",
+      "zh": "n. 怀孕；丰富, 多产；意义深长",
+      "en": "n. the state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus",
+      "phonetic": "'preɡnәnsi",
+      "forms": [
+        "pregnancy"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "female",
+      "headword": "female",
+      "kind": "word",
+      "zh": "n. 女性, 女人, 雌性动物\na. 女性的, 女子的",
+      "en": "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\nn. a person who belongs to the sex that can have babies\na. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop\ns. characteristic of or peculiar to a woman",
+      "phonetic": "'fi:meil",
+      "forms": [
+        "female"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "eagles",
+      "headword": "eagle",
+      "kind": "word",
+      "zh": "n. 鹰, 鹰状标饰",
+      "en": "n. any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight\nn. (golf) a score of two strokes under par on a hole\nn. a former gold coin in the United States worth 10 dollars\nn. an emblem representing power",
+      "phonetic": "'i:gl",
+      "forms": [
+        "eagles"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "overhead",
+      "headword": "overhead",
+      "kind": "word",
+      "zh": "n. 经常开支, 普通用费, 天花板\na. 在头上的, 高架的\nadv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地\n[计] 总开销; 额外开销",
+      "en": "n. (nautical) the top surface of an enclosed space on a ship\nn. a hard return hitting the tennis ball above your head\na. located or originating from above\nr. above your head; in the sky",
+      "phonetic": "'әuvәhed",
+      "forms": [
+        "overhead"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "necessarily",
+      "headword": "necessarily",
+      "kind": "word",
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "en": "r. in an essential manner\nr. as a highly likely consequence",
+      "phonetic": "'nesisәrili",
+      "forms": [
+        "necessarily"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "imminent",
+      "headword": "imminent",
+      "kind": "word",
+      "zh": "a. 即将来临的, 逼近的",
+      "en": "s close in time; about to occur",
+      "phonetic": "'iminәnt",
+      "forms": [
+        "imminent"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "fortune",
+      "headword": "fortune",
+      "kind": "word",
+      "zh": "n. 财富, 运气, 兴隆, 大量财产, 好运, 命运\n[法] 命运, 财产, 大量财产",
+      "en": "n. a large amount of wealth or prosperity\nn. your overall circumstances or condition in life (including everything that happens to you)",
+      "phonetic": "'fɒ:tʃәn",
+      "forms": [
+        "fortune"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "sheer",
+      "headword": "sheer",
+      "kind": "word",
+      "zh": "a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的\nvi. 偏转, 偏航\nvt. 使急转向, 使偏航\nadv. 完全, 全然, 峻峭\nn. 偏航",
+      "en": "v. cause to sheer\nr. straight up or down without a break\nr. directly",
+      "phonetic": "ʃiә",
+      "forms": [
+        "sheer"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune. Sheer efficacy alone wasn’t the point. The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "efficacy",
+      "headword": "efficacy",
+      "kind": "word",
+      "zh": "n. 功效, 效力\n[医] 效能, 功效, 效验",
+      "en": "n. capacity or power to produce a desired effect",
+      "phonetic": "'efikәsi",
+      "forms": [
+        "efficacy"
+      ],
+      "example": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune. Sheer efficacy alone wasn’t the point. The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "curiosity",
+      "headword": "curiosity",
+      "kind": "word",
+      "zh": "n. 好奇心, 新奇的事物, 珍品",
+      "en": "n. a state in which you want to learn more about something",
+      "phonetic": ".kjuәri'ɒsiti",
+      "forms": [
+        "curiosity"
+      ],
+      "example": "The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "amusement",
+      "headword": "amusement",
+      "kind": "word",
+      "zh": "n. 兴味, 娱乐, 消遣\n[法] 娱乐, 娱乐活动",
+      "en": "n. a feeling of delight at being entertained",
+      "phonetic": "ә'mju:zmәnt",
+      "forms": [
+        "amusement"
+      ],
+      "example": "The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "accompanied",
+      "headword": "accompany",
+      "kind": "word",
+      "zh": "vt. 陪伴, 伴随, 补充, 为...伴奏\nvi. 伴奏, 伴唱",
+      "en": "v. go or travel along with",
+      "phonetic": "ә'kʌmpәni",
+      "forms": [
+        "accompanied"
+      ],
+      "example": "The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "instruction",
+      "headword": "instruction",
+      "kind": "word",
+      "zh": "n. 指令, 教导, 命令\n[计] 指令",
+      "en": "n. (computer science) a line of code written as part of a computer program",
+      "phonetic": "in'strʌkʃәn",
+      "forms": [
+        "instruction"
+      ],
+      "example": "The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "absurd",
+      "headword": "absurd",
+      "kind": "word",
+      "zh": "a. 荒谬的, 不合理的, 可笑的\nn. 荒诞",
+      "en": "n. a situation in which life seems irrational and meaningless\ns. inconsistent with reason or logic or common sense\ns. incongruous; inviting ridicule",
+      "phonetic": "әb'sә:d",
+      "forms": [
+        "absurd"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "downright",
+      "headword": "downright",
+      "kind": "word",
+      "zh": "a. 明白的, 率直的, 十足的\nadv. 全然, 彻底, 完全",
+      "en": "s. characterized by plain blunt honesty\nr. thoroughgoing",
+      "phonetic": "'daunrait",
+      "forms": [
+        "downright"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "dangerous",
+      "headword": "dangerous",
+      "kind": "word",
+      "zh": "a. 危险的\n[法] 危险的, 危害的",
+      "en": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm",
+      "phonetic": "'deindʒәrәs",
+      "forms": [
+        "dangerous"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "highly",
+      "headword": "highly",
+      "kind": "word",
+      "zh": "adv. 非常, 非常赞许地\n[电] 大大地",
+      "en": "r. to a high degree or extent; favorably or with much respect\nr. at a high rate or wage\nr. in a high position or level or rank",
+      "phonetic": "'haili",
+      "forms": [
+        "highly"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "poisonous",
+      "headword": "poisonous",
+      "kind": "word",
+      "zh": "a. 有毒的, 恶毒的, 讨厌的\n[医] 有毒的",
+      "en": "s. having the qualities or effects of a poison\ns. not safe to eat\ns. marked by deep ill will; deliberately harmful",
+      "phonetic": "'pɒizәnәs",
+      "forms": [
+        "poisonous"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "cutting-edge",
+      "headword": "cutting-edge",
+      "kind": "word",
+      "zh": "a. 前沿的, 最前沿的",
+      "en": "s in accord with the most fashionable ideas or style",
+      "phonetic": "'kʌtɪŋ'edʒ",
+      "forms": [
+        "cutting-edge"
+      ],
+      "example": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "cited",
+      "headword": "cite",
+      "kind": "word",
+      "zh": "vt. 引用, 引证, 表彰\n[建] 引证, 指引",
+      "en": "n a short note recognizing a source of information or of a quoted passage\nv make reference to\nv commend\nv refer to\nv repeat a passage from\nv refer to for illustration or proof\nv advance evidence for\nv call in an official matter, such as to attend court",
+      "phonetic": "sait",
+      "forms": [
+        "cited"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "parisian",
+      "headword": "Parisian",
+      "kind": "word",
+      "zh": "n. 巴黎人\na. 巴黎的, 巴黎人的",
+      "en": "n. a native or resident of Paris\na. of or relating to or characteristic of Paris or its inhabitants",
+      "phonetic": "pә'rizjәn",
+      "forms": [
+        "parisian"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "advisor",
+      "headword": "advisor",
+      "kind": "word",
+      "zh": "n. 顾问, 劝告者, 指导教师",
+      "en": "n an expert who gives advice",
+      "phonetic": "әd'vaizә",
+      "forms": [
+        "advisor"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "french",
+      "headword": "French",
+      "kind": "word",
+      "zh": "n. 法国人, 法文, 法式\na. 法国的, 法国人的, 法语的",
+      "en": "n. the Romance language spoken in France and in countries colonized by France\nn. the people of France\nn. United States sculptor who created the seated marble figure of Abraham Lincoln in the Lincoln Memorial in Washington D.C. (1850-1931)",
+      "phonetic": "frentʃ",
+      "forms": [
+        "french"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "queen",
+      "headword": "queen",
+      "kind": "word",
+      "zh": "n. 王后, 女王\nvt. 立为女王\nvi. 做女王",
+      "en": "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs\nn. a female sovereign ruler\nn. the wife or widow of a king\nn. something personified as a woman who is considered the best or most important of her kind",
+      "phonetic": "'kwi:n",
+      "forms": [
+        "queen"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "marguerite",
+      "headword": "marguerite",
+      "kind": "word",
+      "zh": "n. 雏菊",
+      "en": "n. perennial subshrub of the Canary Islands having usually pale yellow daisylike flowers; often included in genus Chrysanthemum",
+      "phonetic": ".mɑ:gә'ri:t",
+      "forms": [
+        "marguerite"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "valois",
+      "headword": "Valois",
+      "kind": "word",
+      "zh": "n. 瓦卢瓦王朝",
+      "en": "n. French royal house from 1328 to 1589",
+      "phonetic": "'vælwɑ:",
+      "forms": [
+        "valois"
+      ],
+      "example": "His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "vitality",
+      "headword": "vitality",
+      "kind": "word",
+      "zh": "n. 活力, 生命力\n[医] 生机, 活力, 生活",
+      "en": "n. an energetic style",
+      "phonetic": "vai'tæliti",
+      "forms": [
+        "vitality"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "astrology",
+      "headword": "astrology",
+      "kind": "word",
+      "zh": "n. 占星术, 占星学",
+      "en": "n. a pseudoscience claiming divination by the positions of the planets and sun and moon",
+      "phonetic": "ә'strɒlәdʒi",
+      "forms": [
+        "astrology"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "occult",
+      "headword": "occult",
+      "kind": "word",
+      "zh": "a. 神秘的, 不可思议的, 超自然的\nv. 掩蔽, 隐藏\nn. 神秘之事, 神秘学",
+      "en": "n. supernatural practices and techniques\nv. become concealed or hidden from view or have its light extinguished\nv. hide from view\ns. hidden and difficult to see",
+      "phonetic": "ә'kʌlt",
+      "forms": [
+        "occult"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "medicine",
+      "headword": "medicine",
+      "kind": "word",
+      "zh": "n. 药, 医学, 内科\nvt. 给...用药",
+      "en": "n. the branches of medical science that deal with nonsurgical techniques\nn. (medicine) something that treats or prevents or alleviates the symptoms of disease\nn. the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries",
+      "phonetic": "'medisin",
+      "forms": [
+        "medicine"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "waned",
+      "headword": "wane",
+      "kind": "word",
+      "zh": "n. 减少, 衰微, 败落, 亏缺, 月亏\nvi. 变小, 亏缺, 衰落, 消逝, 退潮",
+      "en": "v. become smaller\nv. decrease in phase",
+      "phonetic": "wein",
+      "forms": [
+        "waned"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "lifespan",
+      "headword": "lifespan",
+      "kind": "word",
+      "zh": "n. 预期生命期限；寿命；预期使用期限",
+      "en": "n the period during which something is functional (as between birth and death)",
+      "phonetic": "'laifspæn",
+      "forms": [
+        "lifespan"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "deeply",
+      "headword": "deeply",
+      "kind": "word",
+      "zh": "adv. 深刻地, 在深处, 深沉地",
+      "en": "r. to a great depth; far down",
+      "phonetic": "'di:pli",
+      "forms": [
+        "deeply"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "enduringly",
+      "headword": "enduringly",
+      "kind": "word",
+      "zh": "adv. 耐久地, 永久地",
+      "en": "r. in an enduring manner",
+      "phonetic": "ɪn'djʊərɪŋlɪ",
+      "forms": [
+        "enduringly"
+      ],
+      "example": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "copies",
+      "headword": "copy",
+      "kind": "word",
+      "zh": "n. 副本, 摹仿, 一册\nv. 复印, 抄袭, 复制\n[计] 副本; 复制; DOS内部命令:复制文件\n将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送",
+      "en": "n. a thing made to be similar or identical to another thing\nn. matter to be printed; exclusive of graphical materials\nn. material suitable for a journalistic account\nv. copy down as is",
+      "phonetic": "'kɒpi",
+      "forms": [
+        "copies",
+        "copy"
+      ],
+      "example": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "readers",
+      "headword": "reader",
+      "kind": "word",
+      "zh": "n. 读者, 读物, 文选, 校对人, 讲师\n[计] 阅读程序; 阅读器",
+      "en": "n. a person who enjoys reading\nn. a person who can read; a literate person\nn. one of a series of texts for students learning to read",
+      "phonetic": "'ri:dә",
+      "forms": [
+        "readers",
+        "reader"
+      ],
+      "example": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "engaging",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engaging"
+      ],
+      "example": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "annotations",
+      "headword": "annotation",
+      "kind": "word",
+      "zh": "n. 注解, 评注",
+      "en": "n. the act of adding notes",
+      "phonetic": "ænәu'teiʃәn",
+      "forms": [
+        "annotations"
+      ],
+      "example": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "precious",
+      "headword": "precious",
+      "kind": "word",
+      "zh": "a. 宝贵的, 珍贵的, 过于精致的, 珍爱的",
+      "en": "s. of high worth or cost\nr. extremely",
+      "phonetic": "'preʃәs",
+      "forms": [
+        "precious"
+      ],
+      "example": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "survivor",
+      "headword": "survivor",
+      "kind": "word",
+      "zh": "n. 生还者, 幸存者\n[法] 生还者, 生存者, 辛存者",
+      "en": "n. one who lives through affliction\nn. one who outlives another\nn. an animal that survives in spite of adversity",
+      "phonetic": "sә'vaivә",
+      "forms": [
+        "survivor"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "library",
+      "headword": "library",
+      "kind": "word",
+      "zh": "n. 图书馆, 藏书, 库\n[计] 库",
+      "en": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+      "phonetic": "'laibrәri",
+      "forms": [
+        "library",
+        "libraries"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "crosses",
+      "headword": "cross",
+      "kind": "word",
+      "zh": "n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交\na. 生气的, 交叉的, 相反的\nv. 交叉, 横过, 越过\n[计] 交叉, 十字标",
+      "en": "n. a wooden structure consisting of an upright post with a transverse piece\nn. a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry\nn. any affliction that causes great suffering\nv. fold so as to resemble a cross",
+      "phonetic": "krɒs",
+      "forms": [
+        "crosses"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "lameness",
+      "headword": "lameness",
+      "kind": "word",
+      "zh": "n. 跛, 瘸, 残废\n[医] 跛, 跛行",
+      "en": "n. disability of walking due to crippling of the legs or feet\nn. an imperfection or defectiveness",
+      "phonetic": "'leimnis",
+      "forms": [
+        "lameness"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "ulcers",
+      "headword": "ulcer",
+      "kind": "word",
+      "zh": "n. 溃疡, 腐烂物\n[医] 溃疡",
+      "en": "n. a circumscribed inflammatory and often suppurating lesion on the skin or an internal mucous surface resulting in necrosis of tissue",
+      "phonetic": "'ʌlsә",
+      "forms": [
+        "ulcers"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "meat",
+      "headword": "meat",
+      "kind": "word",
+      "zh": "n. 肉, 餐, 食物\n[经] 肉类",
+      "en": "n. the flesh of animals (including fishes and birds and snails) used as food",
+      "phonetic": "mi:t",
+      "forms": [
+        "meat"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "stomach",
+      "headword": "stomach",
+      "kind": "word",
+      "zh": "n. 胃, 食欲, 欲望, 肚子\nvt. 吃下, 忍受",
+      "en": "n. an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion\nn. an inclination or liking for things involving conflict or difficulty or unpleasantness\nn. an appetite for food\nv. bear to eat",
+      "phonetic": "'stʌmәk",
+      "forms": [
+        "stomach"
+      ],
+      "example": "One survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "speculate",
+      "headword": "speculate",
+      "kind": "word",
+      "zh": "vi. 深思, 推测, 投机\n[经] 投机",
+      "en": "v. to believe especially on uncertain or tentative grounds\nv. talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion\nv. invest at a risk",
+      "phonetic": "'spekjuleit",
+      "forms": [
+        "speculate"
+      ],
+      "example": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "symptoms",
+      "headword": "symptom",
+      "kind": "word",
+      "zh": "n. 症状, 征候, 征兆\n[医] 症状",
+      "en": "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease\nn. anything that accompanies X and is regarded as an indication of X's existence",
+      "phonetic": "'simptәm",
+      "forms": [
+        "symptoms"
+      ],
+      "example": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "dietary",
+      "headword": "dietary",
+      "kind": "word",
+      "zh": "a. 饮食的\nn. 规定食物",
+      "en": "n. a regulated daily food allowance\na. of or relating to the diet",
+      "phonetic": "'daiәtәri",
+      "forms": [
+        "dietary"
+      ],
+      "example": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "gout",
+      "headword": "gout",
+      "kind": "word",
+      "zh": "n. 味, 趣味, 嗜好, 痛风, 麦秆病, 一滴, 一团\n[医] 痛风",
+      "en": "n. a painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints",
+      "phonetic": "gaut",
+      "forms": [
+        "gout"
+      ],
+      "example": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "cures",
+      "headword": "cure",
+      "kind": "word",
+      "zh": "n. 治疗, 治愈, 治疗法\nvt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化\nvi. 受治疗, 被加工处理, 被硫化",
+      "en": "v. prepare by drying, salting, or chemical processing in order to preserve\nv. make (substances) hard and improve their usability\nv. be or become preserved",
+      "phonetic": "kjuә",
+      "forms": [
+        "cures"
+      ],
+      "example": "So too are gout cures underlined in a copy owned by the 17th-century book collector Frances Wolfreston.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "underlined",
+      "headword": "underline",
+      "kind": "word",
+      "zh": "vt. 在...下面划线, 作...的衬里, 强调\nn. 下划线, 图下说明文字\n[计] 加下划线; 下划线",
+      "en": "v. draw a line or lines underneath to call attention to",
+      "phonetic": "'ʌndәlain",
+      "forms": [
+        "underlined"
+      ],
+      "example": "So too are gout cures underlined in a copy owned by the 17th-century book collector Frances Wolfreston.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "collector",
+      "headword": "collector",
+      "kind": "word",
+      "zh": "n. 收集家, 收取款项的人\n[化] 集电极; 捕收剂",
+      "en": "n. a person who collects things\nn. a person who is employed to collect payments (as for rent or taxes)\nn. a crater that has collected cosmic material hitting the earth\nn. the electrode in a transistor through which a primary flow of carriers leaves the region between the electrodes",
+      "phonetic": "kә'lektә",
+      "forms": [
+        "collector"
+      ],
+      "example": "So too are gout cures underlined in a copy owned by the 17th-century book collector Frances Wolfreston.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "pencilled",
+      "headword": "pencil",
+      "kind": "word",
+      "zh": "n. 铅笔, 色笔, 眉笔, 画笔, 光线束\nvt. 用铅笔写或涂, 草拟",
+      "en": "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood\nn. graphite (or a similar substance) used in such a way as to be a medium of communication\nn. a figure formed by a set of straight lines or light rays meeting at a point\nn. a cosmetic in a long thin stick; designed to be applied to a particular part of the face",
+      "phonetic": "'pensl",
+      "forms": [
+        "pencilled"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "predominantly",
+      "headword": "predominantly",
+      "kind": "word",
+      "zh": "adv. 主要地, 显著地, 大多数地, 突出地",
+      "en": "r. much greater in number or influence",
+      "phonetic": "",
+      "forms": [
+        "predominantly"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "remedies",
+      "headword": "remedy",
+      "kind": "word",
+      "zh": "n. 药物, 治疗法, 治疗, 补救, 赔偿\nvt. 治疗, 补救, 矫正, 改善, 修补, 修缮",
+      "en": "n. a medicine or therapy that cures disease or relieve pain\nv. provide relief for",
+      "phonetic": "'remidi",
+      "forms": [
+        "remedies"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "burning",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burning"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "shortness",
+      "headword": "shortness",
+      "kind": "word",
+      "zh": "n. 短小, 简略, 不足\n[化] 脆性; 蓝脆性; 冷脆性",
+      "en": "n. the property of being of short spatial extent\nn. the condition of being short of something\nn. the property of being truncated or short",
+      "phonetic": "'ʃɒ:tnis",
+      "forms": [
+        "shortness"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "breath",
+      "headword": "breath",
+      "kind": "word",
+      "zh": "n. 呼吸, 气息, 瞬间\n[医] 呼气, 呵气, 口气, 呼吸",
+      "en": "n. the process of taking in and expelling air during breathing\nn. the air that is inhaled and exhaled in respiration\nn. a short respite\nn. a slight movement of the air",
+      "phonetic": "breθ",
+      "forms": [
+        "breath"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "sore",
+      "headword": "sore",
+      "kind": "word",
+      "zh": "a. 悲伤的, 痛的, 引起痛苦的\nn. 痛处, 溃疡, 疮",
+      "en": "n. an open skin infection",
+      "phonetic": "sɒ:",
+      "forms": [
+        "sore"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "throat",
+      "headword": "throat",
+      "kind": "word",
+      "zh": "n. 咽喉, 喉咙, 嗓音\nvt. 用喉音说, 开沟于",
+      "en": "n. the passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone\nn. an opening in the vamp of a shoe at the instep\nn. a passage resembling a throat in shape or function; \nn. the part of an animal's body that corresponds to a person's throat",
+      "phonetic": "θrәut",
+      "forms": [
+        "throat"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "insomnia",
+      "headword": "insomnia",
+      "kind": "word",
+      "zh": "n. 失眠症\n[医] 失眠[症]",
+      "en": "n. an inability to sleep; chronic sleeplessness",
+      "phonetic": "in'sɒmniә",
+      "forms": [
+        "insomnia"
+      ],
+      "example": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "selective",
+      "headword": "selective",
+      "kind": "word",
+      "zh": "a. 选择的, 选择性的\n[经] 选择的, 选择性的",
+      "en": "s. tending to select; characterized by careful choice\ns. characterized by very careful or fastidious selection",
+      "phonetic": "si'lektiv",
+      "forms": [
+        "selective"
+      ],
+      "example": "Others were more selective. One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side. A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "wellcome",
+      "headword": "Wellcome",
+      "kind": "word",
+      "zh": "n. 顶好超市",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "wellcome"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "occasionally",
+      "headword": "occasionally",
+      "kind": "word",
+      "zh": "adv. 有时候, 偶而",
+      "en": "r. now and then or here and there",
+      "phonetic": "ә'keiʒәnli",
+      "forms": [
+        "occasionally"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "anecdote",
+      "headword": "anecdote",
+      "kind": "word",
+      "zh": "n. 轶事, 奇闻",
+      "en": "n. short account of an incident (especially a biographical one)",
+      "phonetic": "'ænikdәut",
+      "forms": [
+        "anecdote"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "german",
+      "headword": "German",
+      "kind": "word",
+      "zh": "n. 德国人, 德语\na. 德国的, 德国人的, 德国语的, 同父母的",
+      "en": "n. a person of German nationality\nn. the standard German language; developed historically from West Germanic\na. of or pertaining to or characteristic of Germany or its people or language",
+      "phonetic": "'dʒә:mәn",
+      "forms": [
+        "german"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "farmer",
+      "headword": "farmer",
+      "kind": "word",
+      "zh": "n. 农夫, 农场主\n[法] 农民, 农场主, 承包者",
+      "en": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)",
+      "phonetic": "'fɑ:mә",
+      "forms": [
+        "farmer"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "terrible",
+      "headword": "terrible",
+      "kind": "word",
+      "zh": "a. 可怕的, 令人恐惧的, 极坏的",
+      "en": "s causing fear or dread or terror\ns exceptionally bad or displeasing\ns intensely or extremely bad or unpleasant in degree or quality\ns extreme in degree or extent or amount or impact",
+      "phonetic": "'terәbl",
+      "forms": [
+        "terrible"
+      ],
+      "example": "One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "surgeon",
+      "headword": "surgeon",
+      "kind": "word",
+      "zh": "n. 外科医生, 军医, 船医\n[医] 外科医师",
+      "en": "n. a physician who specializes in surgery",
+      "phonetic": "'sә:dʒәn",
+      "forms": [
+        "surgeon"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "wood",
+      "headword": "wood",
+      "kind": "word",
+      "zh": "n. 木材, 木制品\nvt. 植林于, 给...添加木柴\nvi. 收集木材",
+      "en": "n. the hard fibrous lignified substance under the bark of trees\nn. United States film actress (1938-1981)\nn. English conductor (1869-1944)\nn. English writer of novels about murders and thefts and forgeries (1814-1887)",
+      "phonetic": "wud",
+      "forms": [
+        "wood"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "steel",
+      "headword": "steel",
+      "kind": "word",
+      "zh": "n. 钢, 钢制品, 钢铁, 坚硬, 坚固\na. 钢的, 钢制的, 钢铁业的, 坚强的\nvt. 使坚强, 钢化, 使冷酷",
+      "en": "n. an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range\nn. knife sharpener consisting of a ridged steel rod\nv. get ready for something difficult or unpleasant\nv. cover, plate, or edge with steel",
+      "phonetic": "sti:l",
+      "forms": [
+        "steel"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "knives",
+      "headword": "knife",
+      "kind": "word",
+      "zh": "n. 小刀, 匕首\nvt. 切割, 伤害, 切, 戳\nvi. 劈开, 穿过",
+      "en": "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle\nn. a weapon with a handle and blade with a sharp point\nv. use a knife on",
+      "phonetic": "naif",
+      "forms": [
+        "knives"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "afflictions",
+      "headword": "affliction",
+      "kind": "word",
+      "zh": "n. 苦恼, 折磨, 苦恼的事由",
+      "en": "n. a state of great suffering and distress due to adversity\nn. a condition of suffering or distress due to ill health\nn. a cause of great suffering and distress",
+      "phonetic": "ә'flikʃәn",
+      "forms": [
+        "afflictions"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "blamed",
+      "headword": "blame",
+      "kind": "word",
+      "zh": "n. 过失, 责备\nvt. 责备, 归咎于",
+      "en": "n. a reproach for some lapse or misdeed\nv. put or pin the blame on\nv. harass with constant criticism\nv. attribute responsibility to",
+      "phonetic": "bleim",
+      "forms": [
+        "blamed"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "devil",
+      "headword": "devil",
+      "kind": "word",
+      "zh": "n. 魔鬼\nvt. 折磨, 戏弄",
+      "en": "n. an evil supernatural being\nn. a word used in exclamations of confusion\nv. coat or stuff with a spicy paste",
+      "phonetic": "'devәl",
+      "forms": [
+        "devil"
+      ],
+      "example": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "pernicious",
+      "headword": "pernicious",
+      "kind": "word",
+      "zh": "a. 有害的, 致命的, 恶劣的, 险恶的\n[医] 恶性的",
+      "en": "s exceedingly harmful\ns working or spreading in a hidden and usually injurious way",
+      "phonetic": "pә'niʃәs",
+      "forms": [
+        "pernicious"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "commentators",
+      "headword": "commentator",
+      "kind": "word",
+      "zh": "n. 评论员, 实况广播员, 注释者, 时事评论员",
+      "en": "n. a writer who reports and analyzes events of the day",
+      "phonetic": "'kɔmenteitә",
+      "forms": [
+        "commentators"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "entertainment",
+      "headword": "entertainment",
+      "kind": "word",
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "en": "n. an activity that is diverting and that holds the attention",
+      "phonetic": ".entә'teinmәnt",
+      "forms": [
+        "entertainment"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "distraction",
+      "headword": "distraction",
+      "kind": "word",
+      "zh": "n. 娱乐, 分心的事物, 分心\n[医] 注意力分散, 内脱位, 牙弓过宽",
+      "en": "n. mental turmoil\nn. an obstacle to attention\nn. the act of distracting; drawing someone's attention away from something",
+      "phonetic": "dis'trækʃәn",
+      "forms": [
+        "distraction"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "overload",
+      "headword": "overload",
+      "kind": "word",
+      "zh": "vt. 超载, 过载, 超过负荷\nn. 超载, 负荷过多",
+      "en": "n. an electrical load that exceeds the available electrical power\nn. an excessive burden\nv. become overloaded\nv. place too much a load on",
+      "phonetic": ".әuvә'lәud",
+      "forms": [
+        "overload"
+      ],
+      "example": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "optimistic",
+      "headword": "optimistic",
+      "kind": "word",
+      "zh": "a. 乐观的, 乐观主义的, 乐天的",
+      "en": "a. expecting the best in this best of all possible worlds",
+      "phonetic": ".ɒpti'mistik",
+      "forms": [
+        "optimistic"
+      ],
+      "example": "But Lupton’s take was more optimistic. Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "morsels",
+      "headword": "morsel",
+      "kind": "word",
+      "zh": "n. 一口, 少量, 小片",
+      "en": "n. a small quantity of anything\nn. a small amount of solid food; a mouthful",
+      "phonetic": "'mɒ:sl",
+      "forms": [
+        "morsels"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "gleaned",
+      "headword": "glean",
+      "kind": "word",
+      "zh": "v. 拾落穗, 收集",
+      "en": "v gather, as of natural products",
+      "phonetic": "gli:n",
+      "forms": [
+        "gleaned"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "plain",
+      "headword": "plain",
+      "kind": "word",
+      "zh": "n. 平原, 草原, 朴实无华的东西, 无格式\na. 简单的, 明白的, 平常的, 不好看的, 朴素的, 清晰的, 普通的, 平坦的, 十足的\nadv. 清楚地, 显然地\n[计] 无格式",
+      "en": "n. extensive tract of level open land\na. not elaborate or elaborated; simple\na. lacking patterns especially in color\ns. not mixed with extraneous elements",
+      "phonetic": "plein",
+      "forms": [
+        "plain"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v181",
+      "term": "scholarly",
+      "headword": "scholarly",
+      "kind": "word",
+      "zh": "a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的",
+      "en": "a. characteristic of scholars or scholarship",
+      "phonetic": "'skɔlәli",
+      "forms": [
+        "scholarly"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "latin",
+      "headword": "Latin",
+      "kind": "word",
+      "zh": "n. 拉丁人, 拉丁语\na. 拉丁人的, 拉丁语的",
+      "en": "n. any dialect of the language of ancient Rome\nn. an inhabitant of ancient Latium\nn. a person who is a member of those peoples whose languages derived from Latin",
+      "phonetic": "'lætin",
+      "forms": [
+        "latin"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "ordinary",
+      "headword": "ordinary",
+      "kind": "word",
+      "zh": "a. 平常的, 普通的, 平凡的\nn. 平常的人(或事)",
+      "en": "n. a judge of a probate court\nn. the expected or commonplace condition or situation\nn. a clergyman appointed to prepare condemned prisoners for death\nn. an early bicycle with a very large front wheel and small back wheel",
+      "phonetic": "'ɒ:dinәri",
+      "forms": [
+        "ordinary"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "otherwise",
+      "headword": "otherwise",
+      "kind": "word",
+      "zh": "adv. 否则, 不同地, 别的方式",
+      "en": "s. other than as supposed or expected\nr. in other respects or ways",
+      "phonetic": "'ʌðәwaiz",
+      "forms": [
+        "otherwise"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v185",
+      "term": "attain",
+      "headword": "attain",
+      "kind": "word",
+      "zh": "vt. 达到, 获得\nvi. 达到",
+      "en": "v to gain with effort\nv reach a point in time, or a certain state or level\nv find unexpectedly\nv reach a destination, either real or abstract",
+      "phonetic": "ә'tein",
+      "forms": [
+        "attain"
+      ],
+      "example": "Offering bite-size morsels gleaned from a wide range of texts, in plain English rather than scholarly Latin, gave ordinary readers access to knowledge that otherwise required whole libraries to attain.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v186",
+      "term": "ongoing",
+      "headword": "ongoing",
+      "kind": "word",
+      "zh": "a. 前进的, 进行的, 不间断的\nn. 前进, 发展",
+      "en": "s. currently happening",
+      "phonetic": "'ɒngәuiŋ",
+      "forms": [
+        "ongoing"
+      ],
+      "example": "These how to books, which are the subject of an ongoing research collaboration between Glasgow University and the Herzog August library in Germany, will take centre stage in an exhibition at the Mitchell Library, Glasgow, from January to March 2027.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v187",
+      "term": "collaboration",
+      "headword": "collaboration",
+      "kind": "word",
+      "zh": "n. 合作, 勾结\n[法] 通敌卖国者, 奸细",
+      "en": "n. act of working jointly\nn. act of cooperating traitorously with an enemy that is occupying your country",
+      "phonetic": "kә.læbә'ræʃәn",
+      "forms": [
+        "collaboration"
+      ],
+      "example": "These how to books, which are the subject of an ongoing research collaboration between Glasgow University and the Herzog August library in Germany, will take centre stage in an exhibition at the Mitchell Library, Glasgow, from January to March 2027.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v188",
+      "term": "exhibition",
+      "headword": "exhibition",
+      "kind": "word",
+      "zh": "n. 表现, 展览会, 展览品\n[医] 投药, 展览, 展出",
+      "en": "n. the act of exhibiting\nn. a collection of things (goods or works of art etc.) for public display",
+      "phonetic": ".eksi'biʃәn",
+      "forms": [
+        "exhibition"
+      ],
+      "example": "These how to books, which are the subject of an ongoing research collaboration between Glasgow University and the Herzog August library in Germany, will take centre stage in an exhibition at the Mitchell Library, Glasgow, from January to March 2027.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v189",
+      "term": "direct",
+      "headword": "direct",
+      "kind": "word",
+      "zh": "a. 直接的, 坦白的\nvt. 指示, 指挥, 命令, 导演\nvi. 指导, 指挥\nadv. 直接地",
+      "en": "v. command with authority\nv. guide the actors in (plays and films)\nv. be in charge of\nv. give directions to; point somebody into a certain direction",
+      "phonetic": "di'rekt",
+      "forms": [
+        "direct"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v190",
+      "term": "antecedents",
+      "headword": "antecedent",
+      "kind": "word",
+      "zh": "n. 前情, 先行词\na. 先前的, 先行的",
+      "en": "n. a preceding occurrence or cause or event\nn. anything that precedes something similar in time\nn. the referent of an anaphor; a phrase or clause that is referred to by an anaphoric pronoun",
+      "phonetic": ".ænti'si:dnt",
+      "forms": [
+        "antecedents"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v191",
+      "term": "encapsulate",
+      "headword": "encapsulate",
+      "kind": "word",
+      "zh": "vt. 装入胶囊, 封进内部, 压缩\nvi. 做成胶囊",
+      "en": "v. enclose in a capsule or other small container\nv. put in a short or concise form; reduce in volume",
+      "phonetic": "in'kæpsәleit",
+      "forms": [
+        "encapsulate"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v192",
+      "term": "profound",
+      "headword": "profound",
+      "kind": "word",
+      "zh": "a. 极深的, 深厚的, 深刻的, 渊博的",
+      "en": "a. showing intellectual penetration or emotional depth\ns. of the greatest intensity; complete\ns. coming from deep within one\ns. situated at or extending to great depth; too deep to have been sounded or plumbed",
+      "phonetic": "prә'faund",
+      "forms": [
+        "profound"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v193",
+      "term": "facets",
+      "headword": "facet",
+      "kind": "word",
+      "zh": "n. (多面体的)面, 方面, 琢面\n[医] 小平面, 小面",
+      "en": "n. a smooth surface (as of a bone or cut gemstone)",
+      "phonetic": "'fæsit",
+      "forms": [
+        "facets"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v194",
+      "term": "perennial",
+      "headword": "perennial",
+      "kind": "word",
+      "zh": "a. 常年的, 长期的, 反复的\n[医] 多年生的",
+      "en": "n. (botany) a plant lasting for three seasons or more\na. lasting three seasons or more\ns. lasting an indefinitely long time; suggesting self-renewal\ns. recurring again and again",
+      "phonetic": "pә'reniәl",
+      "forms": [
+        "perennial"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v195",
+      "term": "potent",
+      "headword": "potent",
+      "kind": "word",
+      "zh": "a. 有力的, 有说服力的, 有效的\n[医] 有力的, 有性交能力的",
+      "en": "s. having great influence\ns. having or wielding force or authority\na. having a strong physiological or chemical effect\na. (of a male) capable of copulation",
+      "phonetic": "'pәutnt",
+      "forms": [
+        "potent"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v196",
+      "term": "dialectic",
+      "headword": "dialectic",
+      "kind": "word",
+      "zh": "a. 辩证的, 辩证法的\nn. 辩证法, 逻辑论证",
+      "en": "n. any formal system of reasoning that arrives at the truth by the exchange of logical arguments\nn. a contradiction of ideas that serves as the determining factor in their interaction\na. of or relating to or employing dialectic",
+      "phonetic": "daiә'lektik",
+      "forms": [
+        "dialectic"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v197",
+      "term": "similarity",
+      "headword": "similarity",
+      "kind": "word",
+      "zh": "n. 类似, 类似处\n[法] 类似, 相似, 类似事例",
+      "en": "n. the quality of being similar\nn. a Gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit",
+      "phonetic": ".simi'læriti",
+      "forms": [
+        "similarity"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v198",
+      "term": "compelling",
+      "headword": "compel",
+      "kind": "word",
+      "zh": "vt. 强迫, 迫使",
+      "en": "v. force somebody to do something\nv. necessitate or exact",
+      "phonetic": "kәm'pel",
+      "forms": [
+        "compelling"
+      ],
+      "example": "Whether or not they are direct antecedents of today’s instructional media, these texts encapsulate both the past’s profound strangeness, and those facets of human experience that seem perennial: the potent dialectic of similarity and difference that makes history so compelling.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v199",
+      "term": "handy",
+      "headword": "handy",
+      "kind": "word",
+      "zh": "a. 便利的, 敏捷的, 容易取得的\n[化] 便于使用的; 易操作的",
+      "en": "n. United States blues musician who transcribed and published traditional blues music (1873-1958)\ns. easy to reach\ns. easy to use\ns. skillful with the hands",
+      "phonetic": "'hændi",
+      "forms": [
+        "handy"
+      ],
+      "example": "If nothing else, they might provide a handy hack to stave off your next headache.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v200",
+      "term": "stave",
+      "headword": "stave",
+      "kind": "word",
+      "zh": "n. 狭板, 梯级, 棍棒, 诗句\nvt. 击穿, 弄破, 敲打, 赶走\nvi. 穿孔, 破碎",
+      "en": "n. one of several thin slats of wood forming the sides of a barrel or bucket\nv. furnish with staves\nv. burst or force (a hole) into something",
+      "phonetic": "steiv",
+      "forms": [
+        "stave"
+      ],
+      "example": "If nothing else, they might provide a handy hack to stave off your next headache.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v201",
+      "term": "headache",
+      "headword": "headache",
+      "kind": "word",
+      "zh": "n. 头痛, 令人头痛之事\n[医] 头痛",
+      "en": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs",
+      "phonetic": "'hedeik",
+      "forms": [
+        "headache"
+      ],
+      "example": "If nothing else, they might provide a handy hack to stave off your next headache.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      7,
+      17
+    ],
+    "wordBank": [
+      "surgeon",
+      "imminent",
+      "ancient",
+      "symptoms",
+      "genuine",
+      "cosmetics",
+      "poisonous",
+      "inner",
+      "precious",
+      "remedies"
+    ],
+    "parts": [
+      {
+        "text": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " and alchemy to brewing and beekeeping.\n\nOriginating in Italy, and published throughout the 16th, 17th and 18th centuries, the most popular of these works were continually translated and reprinted throughout Europe. They are now recognised as exerting "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " influence on contemporary scientific culture.\n\nWhether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " workings.\n\nOf course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " good fortune. Sheer efficacy alone wasn’t the point. The appeal lay in the wonder, curiosity and amusement that accompanied practical instruction.\n\nIf some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": "), consider that much of Lupton’s material was cutting-edge in its day. His most cited source was Antoine Mizauld, a Parisian medical professor and advisor to French queen Marguerite de Valois.\n\nEven though the vitality of astrology, occult science and "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.\n\nPersonal copies\n\nWe know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " few of which remain today.\n\nOne survivor from 1612, now in the Glasgow University Library, is marked with small crosses at passages on lameness, heart trouble, ulcers, meat eating and stomach problems. We might speculate that its owner was managing "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " of dietary issues or gout. So too are gout cures underlined in a copy owned by the 17th-century book collector Frances Wolfreston.\n\nAnother reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.\n\nOthers were more selective. One copy in the Wellcome Collection is marked only occasionally, including at an anecdote about a German farmer who died with terrible pain in his side. A "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "cosmetics",
+        "vocabularyId": "v66",
+        "explanation": "原文此处使用 cosmetics（cosmetic）。结合上下文辨认词义与词形。",
+        "evidence": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
+        "paragraph": 7
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "genuine",
+        "vocabularyId": "v76",
+        "explanation": "原文此处使用 genuine（genuine）。结合上下文辨认词义与词形。",
+        "evidence": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
+        "paragraph": 8
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "inner",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 inner（inner）。结合上下文辨认词义与词形。",
+        "evidence": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+        "paragraph": 9
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "imminent",
+        "vocabularyId": "v96",
+        "explanation": "原文此处使用 imminent（imminent）。结合上下文辨认词义与词形。",
+        "evidence": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
+        "paragraph": 10
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "poisonous",
+        "vocabularyId": "v109",
+        "explanation": "原文此处使用 poisonous（poisonous）。结合上下文辨认词义与词形。",
+        "evidence": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
+        "paragraph": 11
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "ancient",
+        "vocabularyId": "v121",
+        "explanation": "原文此处使用 ancient（ancient）。结合上下文辨认词义与词形。",
+        "evidence": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+        "paragraph": 12
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "precious",
+        "vocabularyId": "v131",
+        "explanation": "原文此处使用 precious（precious）。结合上下文辨认词义与词形。",
+        "evidence": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+        "paragraph": 14
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "symptoms",
+        "vocabularyId": "v140",
+        "explanation": "原文此处使用 symptoms（symptom）。结合上下文辨认词义与词形。",
+        "evidence": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
+        "paragraph": 15
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "remedies",
+        "vocabularyId": "v148",
+        "explanation": "原文此处使用 remedies（remedy）。结合上下文辨认词义与词形。",
+        "evidence": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
+        "paragraph": 16
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "surgeon",
+        "vocabularyId": "v162",
+        "explanation": "原文此处使用 surgeon（surgeon）。结合上下文辨认词义与词形。",
+        "evidence": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "An early bestseller offers a historical parallel to modern concerns about low-quality popular content.",
+          "Working with other people can produce more creative and meaningful ideas than relying on AI alone.",
+          "Shackleton transformed Antarctic disappointment into a source of public fame.",
+          "A public poetry project connects Shakespeare's influence with everyday journeys on the Underground."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
+        "paragraph": 12
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What comparison connects the old bestseller with modern media habits?",
+        "options": [
+          "Both involve browsing varied, attention-grabbing short items.",
+          "Both can be experienced only through satellite radio.",
+          "Both reject recipes and practical advice entirely.",
+          "Both require users to read only one continuous scientific proof."
+        ],
+        "answer": 0,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Flitting through eclectic, attention-grabbing short-form content may be the de facto mode of media consumption in the 21st century.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "These how to books, which are the subject of an ongoing research collaboration between Glasgow University and the Herzog August library in Germany, will take centre stage in an exhibition at the Mitchell Library, Glasgow, from January to March 2027.",
+          "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+          "True to its title, it collected roughly 1,000 short passages ordered randomly, one after another.",
+          "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping."
+        ],
+        "answer": 1,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.”",
+        "options": [
+          "Paragraph 20",
+          "Paragraph 18",
+          "Paragraph 14",
+          "Paragraph 15"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
+        "paragraph": 14
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.”",
+        "options": [
+          "Paragraph 10",
+          "Paragraph 18",
+          "Paragraph 4",
+          "Paragraph 2"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Just as we worry today about the pernicious effects of TikTok, 16th-century commentators also feared the “brain-rotting” potential of low-brow mass entertainment, distraction and information overload.",
+        "paragraph": 18
+      }
+    ]
+  },
+  "revision": "0cf61704f9f2f319e2549cb1c194f80add0813b4cea66a5eb8135aaadb2f7c7f"
+}

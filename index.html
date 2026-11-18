@@ -97,7 +97,8 @@
         .c-pinyin  { background: #fff; }
         .c-drug    { background: #fff; }
         .c-book    { background: #fff; }
-        .c-hcia    { background: #edf3ff; }
+        .c-hcia    { background: #fff; }
+        .c-reading { background: #fff; }
         .c-learning { background: #fff; }
         .c-about { background: #fff; }
 
@@ -105,10 +106,12 @@
         .folder-icon { position: absolute; z-index: -1; display: grid; place-items: center; width: 72px; height: 72px; border: 1px solid rgba(255,255,255,.76); border-radius: 20px; background: rgba(255,255,255,.42); font-size: 2rem; opacity: .62; filter: saturate(.8); transition: transform .28s ease, opacity .28s ease; }
         .folder-icon-one { top: 18px; left: 16px; transform: rotate(-10deg); }
         .folder-icon-two { top: 34px; right: 18px; transform: rotate(9deg); }
-        .folder-icon-three { bottom: 12px; left: 50%; transform: translateX(-50%) rotate(-4deg); }
+        .folder-icon-three { bottom: 12px; left: 16px; transform: rotate(-4deg); }
+        .folder-icon-four { bottom: 12px; right: 18px; transform: rotate(7deg); }
         .learning-folder:hover .folder-icon-one { transform: translateY(-4px) rotate(-14deg); opacity: .78; }
         .learning-folder:hover .folder-icon-two { transform: translateY(-4px) rotate(13deg); opacity: .78; }
-        .learning-folder:hover .folder-icon-three { transform: translateX(-50%) translateY(4px) rotate(0); opacity: .78; }
+        .learning-folder:hover .folder-icon-three { transform: translateY(4px) rotate(0); opacity: .78; }
+        .learning-folder:hover .folder-icon-four { transform: translateY(4px) rotate(11deg); opacity: .78; }
         .folder-caption, .learning-folder > .link-sub { position: relative; z-index: 1; }
         .folder-caption { display: flex; align-items: center; gap: 10px; padding: 8px 14px; border-radius: 999px; background: rgba(255,255,255,.64); backdrop-filter: blur(5px); }
         .folder-count { padding: 3px 9px; border-radius: 999px; background: rgba(255,255,255,.6); font-size: .72rem; }
@@ -122,7 +125,7 @@
         .folder-heading h2 { font-family: 'ZCOOL KuaiLe', serif; font-size: 1.75rem; font-weight: 400; }
         .folder-close { display: grid; place-items: center; flex: 0 0 auto; width: 44px; height: 44px; border: 1px solid rgba(152,38,83,.22); border-radius: 50%; background: rgba(255,255,255,.7); color: var(--text-soft); font: 400 1.4rem/1 sans-serif; cursor: pointer; }
         .folder-description { margin-bottom: 24px; color: var(--text-soft); font-size: .84rem; }
-        .folder-apps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+        .folder-apps { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
         .folder-apps .app-card { min-width: 0; padding: 16px 12px; border-radius: 22px; }
         .folder-apps .link-emoji { font-size: 2.6rem; }
         .folder-apps .link-name { font-size: 1.08rem; }
@@ -411,8 +414,9 @@
                 <span class="folder-icon folder-icon-one c-pinyin" aria-hidden="true">📖</span>
                 <span class="folder-icon folder-icon-two c-drug" aria-hidden="true">💊</span>
                 <span class="folder-icon folder-icon-three c-hcia" aria-hidden="true">🌐</span>
-                <span class="folder-caption"><span class="link-name">学习</span><span class="folder-count">3 项</span></span>
-                <span class="link-sub">字音 · 禁毒 · 网络知识</span>
+                <span class="folder-icon folder-icon-four c-reading" aria-hidden="true">📑</span>
+                <span class="folder-caption"><span class="link-name">学习</span><span class="folder-count">4 项</span></span>
+                <span class="link-sub">字音 · 禁毒 · 网络 · 英语</span>
             </button>
 
             <!-- 语录集 -->
@@ -459,6 +463,7 @@
             <a class="app-card c-pinyin link" href="pinyin.html"><span class="link-emoji" aria-hidden="true">📖</span><span class="link-name">字音练习</span><span class="link-sub">多音字读音训练</span></a>
             <a class="app-card c-drug link" href="DrugsExam.html"><span class="link-emoji" aria-hidden="true">💊</span><span class="link-name">禁毒练习</span><span class="link-sub">8 分钟知识小测</span></a>
             <a class="app-card c-hcia link" href="hcia-learning/"><span class="link-emoji" aria-hidden="true">🌐</span><span class="link-name">HCIA 学习站</span><span class="link-sub">网络知识 · 互动实验</span></a>
+            <a class="app-card c-reading link" href="reading-practice/index.html"><span class="link-emoji" aria-hidden="true">📑</span><span class="link-name">英语阅读</span><span class="link-sub">100 篇英文 · 在线预览</span></a>
         </nav>
     </dialog>
 

@@ -1,0 +1,2665 @@
+{
+  "schemaVersion": 1,
+  "folder": "093",
+  "articleSha256": "c4682204a06b151481d4803cf7d596522a7222921e97f8db68964024dd25de9a",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "fish",
+      "headword": "fish",
+      "kind": "word",
+      "zh": "n. 鱼, 鱼肉, 鱼类, 接合板\nvt. 钓, 钓鱼, 查出, 用接合板连接\nvi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找",
+      "en": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish",
+      "phonetic": "fiʃ",
+      "forms": [
+        "fish"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "affordable",
+      "headword": "affordable",
+      "kind": "word",
+      "zh": "[计] 普及型",
+      "en": "s that you have the financial means for",
+      "phonetic": "",
+      "forms": [
+        "affordable"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "nutrients",
+      "headword": "nutrient",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+      "en": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+      "phonetic": "'nju:triәnt",
+      "forms": [
+        "nutrients",
+        "nutrient"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "millions",
+      "headword": "millions",
+      "kind": "word",
+      "zh": "n. 数百万",
+      "en": "n the number that is represented as a one followed by 6 zeros\nn a very large indefinite number (usually hyperbole)",
+      "phonetic": "",
+      "forms": [
+        "millions"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "africa",
+      "headword": "Africa",
+      "kind": "word",
+      "zh": "n. 非洲",
+      "en": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean",
+      "phonetic": "'æfrikә",
+      "forms": [
+        "africa"
+      ],
+      "example": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "exported",
+      "headword": "export",
+      "kind": "word",
+      "zh": "n. 输出品, 输出\nvt. 输出, 出口\nvi. 输出物资\n[计] 导出",
+      "en": "n. commodities (goods or services) sold to a foreign country\nv. sell or transfer abroad\nv. transfer (electronic data) out of a database or document in a format that can be used by other programs\nv. cause to spread in another part of the world",
+      "phonetic": "ik'spɒ:t",
+      "forms": [
+        "exported",
+        "export"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "fishmeal",
+      "headword": "fishmeal",
+      "kind": "word",
+      "zh": "n. 鱼粉",
+      "en": "",
+      "phonetic": "'fɪʃmi:l",
+      "forms": [
+        "fishmeal"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "aquaculture",
+      "headword": "aquaculture",
+      "kind": "word",
+      "zh": "n. 水产养殖",
+      "en": "n. rearing aquatic animals or cultivating aquatic plants for food",
+      "phonetic": "'ækwә.kʌltʃә",
+      "forms": [
+        "aquaculture"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "european",
+      "headword": "European",
+      "kind": "word",
+      "zh": "n. 欧洲人\na. 欧洲的, 欧洲人的",
+      "en": "n. a native or inhabitant of Europe\na. of or relating to or characteristic of Europe or the people of Europe",
+      "phonetic": ".juәrә'pi:әn",
+      "forms": [
+        "european"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "asia",
+      "headword": "Asia",
+      "kind": "word",
+      "zh": "n. 亚洲",
+      "en": "n. the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations\nn. the nations of the Asian continent collectively",
+      "phonetic": "'eiʒә",
+      "forms": [
+        "asia"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "china",
+      "headword": "China",
+      "kind": "word",
+      "zh": "n. 中国, 瓷器\na. 中国的",
+      "en": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China",
+      "phonetic": "'tʃainә",
+      "forms": [
+        "china"
+      ],
+      "example": "Some of these fish are increasingly exported or processed into fishmeal and fish oil for aquaculture feeds used in high-income European countries and across East Asia, particularly China.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "deficiencies",
+      "headword": "deficiency",
+      "kind": "word",
+      "zh": "n. 缺乏, 不足\n[医] 缺乏, 不足",
+      "en": "n the state of needing something that is absent or unavailable\nn lack of an adequate quantity or number",
+      "phonetic": "di'fiʃәnsi",
+      "forms": [
+        "deficiencies"
+      ],
+      "example": "As nutrient deficiencies are common in people living in parts of West Africa, retaining more fish for local consumption could help improve diets and address dietary health problems.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "retaining",
+      "headword": "retain",
+      "kind": "word",
+      "zh": "vt. 保持, 保有, 留住, 记得, 付定金聘请\n[经] 保留, 留存",
+      "en": "v. hold back within\nv. allow to remain in a place or position or maintain a property or feature\nv. secure and keep for possible future use or application\nv. keep in one's mind",
+      "phonetic": "ri'tein",
+      "forms": [
+        "retaining"
+      ],
+      "example": "As nutrient deficiencies are common in people living in parts of West Africa, retaining more fish for local consumption could help improve diets and address dietary health problems.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "consumption",
+      "headword": "consumption",
+      "kind": "word",
+      "zh": "n. 消费, 消费量, 痨病\n[化] 消耗量; 耗量",
+      "en": "n. the process of taking food into the body through the mouth (as by eating)\nn. (economics) the utilization of economic goods to satisfy needs or in manufacturing\nn. the act of consuming something",
+      "phonetic": "kәn'sʌmpʃәn",
+      "forms": [
+        "consumption"
+      ],
+      "example": "As nutrient deficiencies are common in people living in parts of West Africa, retaining more fish for local consumption could help improve diets and address dietary health problems.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "diets",
+      "headword": "diet",
+      "kind": "word",
+      "zh": "n. 日常饮食, 议会\nvt. 照规定饮食\nvi. 忌食",
+      "en": "n. a prescribed selection of foods\nn. a legislative assembly in certain countries (e.g., Japan)\nn. the usual food and drink consumed by an organism (person or animal)\nn. the act of restricting your food intake (or your intake of particular foods)",
+      "phonetic": "'daiәt",
+      "forms": [
+        "diets"
+      ],
+      "example": "As nutrient deficiencies are common in people living in parts of West Africa, retaining more fish for local consumption could help improve diets and address dietary health problems.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "dietary",
+      "headword": "dietary",
+      "kind": "word",
+      "zh": "a. 饮食的\nn. 规定食物",
+      "en": "n. a regulated daily food allowance\na. of or relating to the diet",
+      "phonetic": "'daiәtәri",
+      "forms": [
+        "dietary"
+      ],
+      "example": "As nutrient deficiencies are common in people living in parts of West Africa, retaining more fish for local consumption could help improve diets and address dietary health problems.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "food",
+      "headword": "food",
+      "kind": "word",
+      "zh": "n. 食物, 养料\n[医] 食物, 食品",
+      "en": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking",
+      "phonetic": "fu:d",
+      "forms": [
+        "food"
+      ],
+      "example": "Aquaculture is one of the world’s fastest-growing food production sectors.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "sectors",
+      "headword": "sector",
+      "kind": "word",
+      "zh": "n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段\nvt. 把...分成扇形\n[计] 扇面; 扇区; 段; 区段",
+      "en": "n. a plane figure bounded by two radii and the included arc of a circle\nn. a social group that forms part of the society or the economy\nn. a particular aspect of life or activity\nn. the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes",
+      "phonetic": "'sektә",
+      "forms": [
+        "sectors"
+      ],
+      "example": "Aquaculture is one of the world’s fastest-growing food production sectors.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "wild",
+      "headword": "wild",
+      "kind": "word",
+      "zh": "n. 荒野, 荒地\na. 野性的, 野蛮的, 野生的, 失控的, 任性的, 杂乱的, 轻率的, 狂热的, 疯狂的\nadv. 狂暴地, 失控地",
+      "en": "n. a wild primitive state untouched by civilization\na. marked by extreme lack of restraint or control\na. in a natural state; not tamed or domesticated or cultivated\ns. in a state of extreme emotion",
+      "phonetic": "waild",
+      "forms": [
+        "wild"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "wild fish",
+      "headword": "wild fish",
+      "kind": "phrase",
+      "zh": "野生鱼类",
+      "en": "fish living and reproducing outside farming systems",
+      "forms": [
+        "wild fish"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v25",
+      "term": "marine",
+      "headword": "marine",
+      "kind": "word",
+      "zh": "n. 舰队, 水兵, 海景画\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+      "en": "n. a member of the United States Marine Corps\nn. a soldier who serves both on shipboard and on land\na. of or relating to the sea\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+      "phonetic": "mә'ri:n",
+      "forms": [
+        "marine"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "ingredients",
+      "headword": "ingredient",
+      "kind": "word",
+      "zh": "n. 成分, 因素\n[化] 配合剂; 拼料; 成分; 组分",
+      "en": "n. a component of a mixture or compound\nn. food that is a component of a mixture in cooking",
+      "phonetic": "in'gri:diәnt",
+      "forms": [
+        "ingredients",
+        "ingredient"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "declined",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "declined",
+        "decline"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "mainly",
+      "headword": "mainly",
+      "kind": "word",
+      "zh": "adv. 主要地, 大抵",
+      "en": "r for the most part",
+      "phonetic": "'meinli",
+      "forms": [
+        "mainly"
+      ],
+      "example": "Production has increased in some regions, including West Africa, but the overall decline is mainly due to improved fishery management that allows recovery of fish stocks.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "due to",
+      "headword": "due to",
+      "kind": "phrase",
+      "zh": "由于",
+      "en": "because of",
+      "forms": [
+        "due to"
+      ],
+      "example": "Production has increased in some regions, including West Africa, but the overall decline is mainly due to improved fishery management that allows recovery of fish stocks.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "fishery",
+      "headword": "fishery",
+      "kind": "word",
+      "zh": "n. 渔业\n[法] 捕鱼, 捕鱼权",
+      "en": "n. a workplace where fish are caught and processed and sold",
+      "phonetic": "'fiʃәri",
+      "forms": [
+        "fishery"
+      ],
+      "example": "Production has increased in some regions, including West Africa, but the overall decline is mainly due to improved fishery management that allows recovery of fish stocks.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "recovery",
+      "headword": "recovery",
+      "kind": "word",
+      "zh": "n. 恢复, 复原, 痊愈, 重获\n[计] 恢复",
+      "en": "n. return to an original state\nn. the act of regaining or saving something lost (or in danger of becoming lost)",
+      "phonetic": "ri'kʌvәri",
+      "forms": [
+        "recovery"
+      ],
+      "example": "Production has increased in some regions, including West Africa, but the overall decline is mainly due to improved fishery management that allows recovery of fish stocks.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "globally",
+      "headword": "globally",
+      "kind": "word",
+      "zh": "[计] 全局地",
+      "en": "r. throughout the world",
+      "phonetic": "",
+      "forms": [
+        "globally"
+      ],
+      "example": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "quarter",
+      "headword": "quarter",
+      "kind": "word",
+      "zh": "n. 四分之一, 一刻钟, 季度, 地区\nvt. 四等分, 肢解\nvi. 驻扎, 住宿",
+      "en": "n. a district of a city having some distinguishing character\nn. (football, professional basketball) one of four divisions into which some games are divided\nn. a unit of time equal to 15 minutes or a quarter of an hour\nn. one of four periods into which the school year is divided",
+      "phonetic": "'kwɒ:tә",
+      "forms": [
+        "quarter"
+      ],
+      "example": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "originates",
+      "headword": "originate",
+      "kind": "word",
+      "zh": "vt. 创始, 发明, 发起\nvi. 发源, 发生, 起航\n[计] 发自",
+      "en": "v. come into existence; take on form or shape\nv. bring into being\nv. begin a trip at a certain point, as of a plane, train, bus, etc.",
+      "phonetic": "ә'ridʒineit",
+      "forms": [
+        "originates"
+      ],
+      "example": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "Most is used in animal feed, with aquaculture accounting for the largest share.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "valuable",
+      "headword": "valuable",
+      "kind": "word",
+      "zh": "a. 有价值的, 贵重的, 宝贵的, 可估价的\n[经] 有价值的, 可估价的, 贵重的",
+      "en": "n. something of value\na. having great material or monetary value especially for use or exchange\ns. having worth or merit or value",
+      "phonetic": "'væljuәbl",
+      "forms": [
+        "valuable"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "carnivorous",
+      "headword": "carnivorous",
+      "kind": "word",
+      "zh": "a. 食肉的\n[医] 食肉的",
+      "en": "a. relating to or characteristic of carnivores\na. (used of plants as well as animals) feeding on animals",
+      "phonetic": "kɑ:'nivәrәs",
+      "forms": [
+        "carnivorous"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "salmon",
+      "headword": "salmon",
+      "kind": "word",
+      "zh": "n. 鲑鱼, 大麻哈鱼\n[医] 鲑",
+      "en": "n. any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn\nn. a tributary of the Snake River in Idaho\nn. flesh of any of various marine or freshwater fish of the family Salmonidae\nn. a pale pinkish orange color",
+      "phonetic": "'sæmәn",
+      "forms": [
+        "salmon"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "shrimp",
+      "headword": "shrimp",
+      "kind": "word",
+      "zh": "n. 虾, 小虾, 矮子\nvi. 捕小虾",
+      "en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible\nv. fish for shrimp",
+      "phonetic": "ʃrimp",
+      "forms": [
+        "shrimp"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "contributing",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contributing",
+        "contribute"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "carbon",
+      "headword": "carbon",
+      "kind": "word",
+      "zh": "n. 碳, 副本, 复写纸\n[化] 碳",
+      "en": "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\nn. a copy made with carbon paper",
+      "phonetic": "'kɑ:bәn",
+      "forms": [
+        "carbon"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "footprint",
+      "headword": "footprint",
+      "kind": "word",
+      "zh": "n. 足迹\n[计] 印迹",
+      "en": "n. a mark of a foot or shoe on a surface\nn. a trace suggesting that something was once present or felt or otherwise important\nn. the area taken up by some object",
+      "phonetic": "'futprint",
+      "forms": [
+        "footprint"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "farmed",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farmed"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "seafood",
+      "headword": "seafood",
+      "kind": "word",
+      "zh": "n. 海味, 海鲜, 鱼类",
+      "en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
+      "phonetic": "'si:fu:d",
+      "forms": [
+        "seafood"
+      ],
+      "example": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "supply",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supply"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "highly",
+      "headword": "highly",
+      "kind": "word",
+      "zh": "adv. 非常, 非常赞许地\n[电] 大大地",
+      "en": "r. to a high degree or extent; favorably or with much respect\nr. at a high rate or wage\nr. in a high position or level or rank",
+      "phonetic": "'haili",
+      "forms": [
+        "highly"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "regulated",
+      "headword": "regulate",
+      "kind": "word",
+      "zh": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+      "en": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+      "phonetic": "'regjuleit",
+      "forms": [
+        "regulated"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "fairly",
+      "headword": "fairly",
+      "kind": "word",
+      "zh": "adv. 美观地, 公平地, 相当地, 清楚地",
+      "en": "r. without favoring one party, in a fair evenhanded manner\nr. in conformity with the rules or laws and without fraud or cheating",
+      "phonetic": "'fєәli",
+      "forms": [
+        "fairly"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "stable",
+      "headword": "stable",
+      "kind": "word",
+      "zh": "n. 马房, 牛棚\na. 稳定的, 安定的, 坚固的, 坚定的\nvt. 赶入马房\nvi. 被关在马厩",
+      "en": "n. a farm building for housing horses or other livestock\nv. shelter in a stable\na. resistant to change of position or condition\ns. firm and dependable; subject to little fluctuation",
+      "phonetic": "'steibl",
+      "forms": [
+        "stable"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "granted",
+      "headword": "grant",
+      "kind": "word",
+      "zh": "n. 授予, 授予物, 允许\nvt. 允许, 承认, 授与\n[计] 授权命令",
+      "en": "n. any monetary aid\nn. the act of providing a subsidy\nn. (law) a transfer of property by deed of conveyance\nn. Scottish painter; cousin of Lytton Strachey and member of the Bloomsbury Group (1885-1978)",
+      "phonetic": "grænt",
+      "forms": [
+        "granted"
+      ],
+      "example": "The supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "Climate change",
+      "headword": "climate change",
+      "kind": "phrase",
+      "zh": "气候变化",
+      "en": "long-term shifts in climate patterns",
+      "forms": [
+        "Climate change"
+      ],
+      "example": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v55",
+      "term": "warming",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warming"
+      ],
+      "example": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "weaken",
+      "headword": "weaken",
+      "kind": "word",
+      "zh": "vt. 削弱, 减弱, 使虚弱\nvi. 变弱, 变软弱",
+      "en": "v. lessen the strength of\nv. become weaker",
+      "phonetic": "'wi:kәn",
+      "forms": [
+        "weaken"
+      ],
+      "example": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "upwelling",
+      "headword": "upwelling",
+      "kind": "word",
+      "zh": "n. 上涌, 上升流(指海水由较深层上升到较浅层的过程)",
+      "en": "",
+      "phonetic": "ʌp'weliŋ",
+      "forms": [
+        "upwelling"
+      ],
+      "example": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "availability",
+      "headword": "availability",
+      "kind": "word",
+      "zh": "n. 有效性, 可利用性, 可利用的人\n[计] 有效性; 可用性",
+      "en": "n the quality of being at hand when needed",
+      "phonetic": "ә.veilә'biliti",
+      "forms": [
+        "availability"
+      ],
+      "example": "This reduces the availability of plankton and fish and limits the supply of marine ingredients required for aquaculture.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "plankton",
+      "headword": "plankton",
+      "kind": "word",
+      "zh": "n. (总称)浮游生物\n[医] 浮游生物",
+      "en": "n. the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water",
+      "phonetic": "'plæŋktәn",
+      "forms": [
+        "plankton"
+      ],
+      "example": "This reduces the availability of plankton and fish and limits the supply of marine ingredients required for aquaculture.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "limits",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limits",
+        "limited"
+      ],
+      "example": "This reduces the availability of plankton and fish and limits the supply of marine ingredients required for aquaculture.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "by-products",
+      "headword": "by-product",
+      "kind": "word",
+      "zh": "n. 副产品, 额外收获, 意外收获\n[计] 副产品",
+      "en": "n. a secondary and sometimes unexpected consequence\nn. a product made during the manufacture of something else",
+      "phonetic": "'baiprɔdʌkt",
+      "forms": [
+        "by-products"
+      ],
+      "example": "Fish processing by-products (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "guts",
+      "headword": "gut",
+      "kind": "word",
+      "zh": "n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气\nvt. 取出内脏, 毁坏...的内部",
+      "en": "n. a narrow channel or strait\nv. empty completely; destroy the inside of\nv. remove the guts of",
+      "phonetic": "gʌt",
+      "forms": [
+        "guts"
+      ],
+      "example": "Fish processing by-products (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "skeletons",
+      "headword": "skeleton",
+      "kind": "word",
+      "zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸\na. 骨骼的, 概略的, 基层的, 骨干的\n[计] 骨架",
+      "en": "n. something reduced to its minimal form\nn. a scandal that is kept secret\nn. the internal supporting structure that gives an artifact its shape",
+      "phonetic": "'skelәtn",
+      "forms": [
+        "skeletons"
+      ],
+      "example": "Fish processing by-products (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "chain",
+      "headword": "chain",
+      "kind": "word",
+      "zh": "n. 链, 枷锁, 束缚\nvt. 用铁练锁住, 束缚, 囚禁",
+      "en": "n. a series of things depending on each other as if linked together\nn. (chemistry) a series of linked atoms (generally in an organic molecule)\nn. a series of (usually metal) rings or links fitted into one another to make a flexible ligament\nn. (business) a number of similar establishments (stores or restaurants or banks or hotels or theaters) under one ownership",
+      "phonetic": "tʃein",
+      "forms": [
+        "chain",
+        "chains"
+      ],
+      "example": "In West Africa, this could include retaining a proportion of the catch for local consumption and improving the cold chain to support its distribution.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "unsustainable",
+      "headword": "unsustainable",
+      "kind": "word",
+      "zh": "a. 无法支撑的, 不能忍受的, 不可证实的\n[法] 未能证实的, 不能成立的",
+      "en": "",
+      "phonetic": ",ʌnsәs'teinәbl",
+      "forms": [
+        "unsustainable"
+      ],
+      "example": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "slipped",
+      "headword": "slip",
+      "kind": "word",
+      "zh": "n. 滑, 滑行, 事故, 溜, 差错, 滑台, 下降, 插条, 后裔, 板条, 瘦长的年轻人\nvi. 滑动, 滑倒, 失足, 溜走, 滑落, 犯错, 变坏\nvt. 使滑动, 滑过, 摆脱, 闪开, 塞入, 从...取接枝\na. 滑动的, 滑移的, 活络的, 有活结的\n[计] 串行线接口协议",
+      "en": "n. a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.\nn. potter's clay that is thinned and used for coating or decorating ceramics\nn. a young and slender person\nn. an accidental misstep threatening (or causing) a fall",
+      "phonetic": "slip",
+      "forms": [
+        "slipped"
+      ],
+      "example": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "responsible",
+      "headword": "responsible",
+      "kind": "word",
+      "zh": "a. 有责任的, 负责的, 责任重大的\n[法] 应负责任的, 有责任的, 能履行责任的",
+      "en": "a. worthy of or requiring responsibility or trust; or held accountable\ns. being the agent or cause",
+      "phonetic": "ri'spɒnsәbl",
+      "forms": [
+        "responsible"
+      ],
+      "example": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "certified",
+      "headword": "certify",
+      "kind": "word",
+      "zh": "v. 证明, 保证",
+      "en": "v. guarantee payment on; of checks\nv. guarantee as meeting a certain standard\nv. declare legally insane",
+      "phonetic": "'sә:tifai",
+      "forms": [
+        "certified"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "retailers",
+      "headword": "retailer",
+      "kind": "word",
+      "zh": "n. 零售商人, 传播的人\n[经] 零售商",
+      "en": "n. a merchant who sells goods at retail",
+      "phonetic": "'ri:teilә",
+      "forms": [
+        "retailers"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "factories",
+      "headword": "factory",
+      "kind": "word",
+      "zh": "n. 工厂, 产生地, 代理店\n[经] 工厂, 代理店, 商行在国外的代理处",
+      "en": "n. a plant consisting of one or more buildings with facilities for manufacturing",
+      "phonetic": "'fæktәri",
+      "forms": [
+        "factories"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "senegal",
+      "headword": "Senegal",
+      "kind": "word",
+      "zh": "n. 塞内加尔",
+      "en": "n. a republic in northwestern Africa on the coast of the Atlantic; formerly a French colony but achieved independence in 1960",
+      "phonetic": ",seni'^ɔ:l",
+      "forms": [
+        "senegal"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v75",
+      "term": "insecurity",
+      "headword": "insecurity",
+      "kind": "word",
+      "zh": "n. 不安全, 不安全感\n[医] 不安全感, 无保障",
+      "en": "n. the state of being subject to danger or injury\nn. the anxiety you experience when you feel vulnerable and insecure",
+      "phonetic": ".insi'kjuәrәti",
+      "forms": [
+        "insecurity"
+      ],
+      "example": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "supply chains",
+      "headword": "supply chains",
+      "kind": "phrase",
+      "zh": "供应链",
+      "en": "networks through which goods are produced and delivered",
+      "forms": [
+        "supply chains"
+      ],
+      "example": "One way to reduce risk in aquaculture feed supply chains is to source ingredients domestically.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v77",
+      "term": "domestically",
+      "headword": "domestically",
+      "kind": "word",
+      "zh": "adv. 家庭式地, 国内地",
+      "en": "r. with respect to the internal affairs of a government\nr. with respect to home or family",
+      "phonetic": "dәu'mestikli",
+      "forms": [
+        "domestically"
+      ],
+      "example": "One way to reduce risk in aquaculture feed supply chains is to source ingredients domestically.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "dependent",
+      "headword": "dependent",
+      "kind": "word",
+      "zh": "n. 依赖他人者\na. 依赖的, 从属的",
+      "en": "a. relying on or requiring a person or thing for support, supply, or what is needed\ns. contingent on something else\na. (of a clause) unable to stand alone syntactically as a complete sentence",
+      "phonetic": "di'pendәnt",
+      "forms": [
+        "dependent"
+      ],
+      "example": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "terrestrial",
+      "headword": "terrestrial",
+      "kind": "word",
+      "zh": "n. 地球上的人\na. 地球的, 陆生的, 陆地的, 人间的",
+      "en": "a. operating or living or growing on land",
+      "phonetic": "tә'restriәl",
+      "forms": [
+        "terrestrial"
+      ],
+      "example": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "scale",
+      "headword": "scale",
+      "kind": "word",
+      "zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢\nvt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤\nvi. 剥落, 生水垢, 重量为, 攀登, 衡量\n[计] 刻度",
+      "en": "n. an ordered reference standard\nn. relative magnitude\nn. the ratio between the size of something and a representation of it\nn. a specialized leaf or bract that protects a bud or catkin",
+      "phonetic": "skeil",
+      "forms": [
+        "scale"
+      ],
+      "example": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "nutritional",
+      "headword": "nutritional",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\n[医] 营养的",
+      "en": "a. of or relating to or providing nutrition",
+      "phonetic": "nju: 'triʃәnәl",
+      "forms": [
+        "nutritional"
+      ],
+      "example": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "sustainability",
+      "headword": "sustainability",
+      "kind": "word",
+      "zh": "n. 持续性, 能维持性, 永续性",
+      "en": "n. the property of being sustainable",
+      "phonetic": "sə,stenə'bɪlɪti",
+      "forms": [
+        "sustainability"
+      ],
+      "example": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "sustainably",
+      "headword": "sustainably",
+      "kind": "word",
+      "zh": "adv. 支撑得住；能保持住地",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "sustainably"
+      ],
+      "example": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "efficient",
+      "headword": "efficient",
+      "kind": "word",
+      "zh": "a. 有效率的, 能干的",
+      "en": "a. being effective without wasting time or effort or expense",
+      "phonetic": "i'fiʃәnt",
+      "forms": [
+        "efficient"
+      ],
+      "example": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "maximise",
+      "headword": "maximise",
+      "kind": "word",
+      "zh": "vt. 把...增加到最大限度, 把...扩大到最大限度, 充分重视, 找出...的最高值",
+      "en": "v make the most of\nv make as big or large as possible",
+      "phonetic": "'mæksimaiz",
+      "forms": [
+        "maximise"
+      ],
+      "example": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "contribution",
+      "headword": "contribution",
+      "kind": "word",
+      "zh": "n. 捐助, 捐助之物, 贡献\n[经] 贡献, 捐款, 补助品",
+      "en": "n. the part played by a person in bringing about a result\nn. a voluntary gift (as of money or service or ideas) made to some worthwhile cause\nn. act of giving in common with others for a common purpose especially to a charity\nn. an amount of money contributed",
+      "phonetic": ".kɒntri'bju:ʃәn",
+      "forms": [
+        "contribution"
+      ],
+      "example": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "nutrition",
+      "headword": "nutrition",
+      "kind": "word",
+      "zh": "n. 营养, 营养学\n[医] 营养, 营养品",
+      "en": "n. (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance\nn. the scientific study of food and drink (especially in humans)",
+      "phonetic": "nju:'triʃәn",
+      "forms": [
+        "nutrition"
+      ],
+      "example": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "certification",
+      "headword": "certification",
+      "kind": "word",
+      "zh": "n. 证明\n[经] 证明",
+      "en": "n. the act of certifying or bestowing a franchise on",
+      "phonetic": ".sә:tifi'keiʃәn",
+      "forms": [
+        "certification"
+      ],
+      "example": "Certification programmes currently focus on ensuring that fish are caught or farmed responsibly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "Certification programmes currently focus on ensuring that fish are caught or farmed responsibly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "ensuring",
+      "headword": "ensure",
+      "kind": "word",
+      "zh": "vt. 确定, 保证, 担保, 保护\n[经] 确保, 确定",
+      "en": "v make certain of\nv be careful or certain to do something; make certain of something",
+      "phonetic": "in'ʃuә",
+      "forms": [
+        "ensuring"
+      ],
+      "example": "Certification programmes currently focus on ensuring that fish are caught or farmed responsibly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "responsibly",
+      "headword": "responsibly",
+      "kind": "word",
+      "zh": "adv. 认真负责地, 可信赖地, 可靠地",
+      "en": "r. in a responsible manner",
+      "phonetic": "",
+      "forms": [
+        "responsibly"
+      ],
+      "example": "Certification programmes currently focus on ensuring that fish are caught or farmed responsibly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "safeguards",
+      "headword": "safeguard",
+      "kind": "word",
+      "zh": "n. 保卫, 保护措施, 防护设施\nvt. 保卫, 保护",
+      "en": "v. make safe\nv. escort safely",
+      "phonetic": "'seifgɑ:d",
+      "forms": [
+        "safeguards"
+      ],
+      "example": "The environmental and social safeguards include stock status, environmental footprint and making sure workers are treated fairly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "status",
+      "headword": "status",
+      "kind": "word",
+      "zh": "n. 状态, 情形, 地位, 要人身份\n[计] 状态",
+      "en": "n. the relative position or standing of things or especially persons in a society",
+      "phonetic": "'steitәs",
+      "forms": [
+        "status"
+      ],
+      "example": "The environmental and social safeguards include stock status, environmental footprint and making sure workers are treated fairly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "food security",
+      "headword": "food security",
+      "kind": "phrase",
+      "zh": "粮食安全",
+      "en": "reliable access to sufficient safe and nutritious food",
+      "forms": [
+        "food security"
+      ],
+      "example": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v95",
+      "term": "security",
+      "headword": "security",
+      "kind": "word",
+      "zh": "n. 安全, 安全性, 防护物, 保安, 可靠性, 担保人, 抵押品, 保证金\n[计] 安全性, 保密性, 安全检查程序",
+      "en": "n. the state of being free from danger or injury\nn. defense against financial failure; financial independence\nn. freedom from anxiety or fear\nn. a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends",
+      "phonetic": "si'kjuriti",
+      "forms": [
+        "security"
+      ],
+      "example": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "critics",
+      "headword": "critic",
+      "kind": "word",
+      "zh": "n. 批评家, 鉴定家",
+      "en": "n. a person who is professionally engaged in the analysis and interpretation of works of art\nn. anyone who expresses a reasoned judgment of something\nn. someone who frequently finds fault or makes harsh and unfair judgments",
+      "phonetic": "'kritik",
+      "forms": [
+        "critics"
+      ],
+      "example": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "favour",
+      "headword": "favour",
+      "kind": "word",
+      "zh": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+      "en": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
+      "phonetic": "'feivә",
+      "forms": [
+        "favour"
+      ],
+      "example": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "corporations",
+      "headword": "corporation",
+      "kind": "word",
+      "zh": "n. 公司, 合作, 法人团体\n[法] 法人团体, 社团, 法人",
+      "en": "n. a business firm whose articles of incorporation have been approved in some state",
+      "phonetic": ".kɒ:pә'reiʃәn",
+      "forms": [
+        "corporations"
+      ],
+      "example": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v100",
+      "term": "constitutes",
+      "headword": "constitute",
+      "kind": "word",
+      "zh": "vt. 构成, 组成, 任命\n[建] 构造, 组成",
+      "en": "v. form or compose",
+      "phonetic": "kәn'stitjut",
+      "forms": [
+        "constitutes"
+      ],
+      "example": "As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "truly",
+      "headword": "truly",
+      "kind": "word",
+      "zh": "adv. 真实地, 不假",
+      "en": "r. in accordance with truth or fact or reality",
+      "phonetic": "'tru:li",
+      "forms": [
+        "truly"
+      ],
+      "example": "As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "sustainable",
+      "headword": "sustainable",
+      "kind": "word",
+      "zh": "a. 足可支撑的, 养得起的, 可以忍受的",
+      "en": "a. capable of being sustained",
+      "phonetic": "sә'steinәbl",
+      "forms": [
+        "sustainable"
+      ],
+      "example": "As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "ethical",
+      "headword": "ethical",
+      "kind": "word",
+      "zh": "a. 伦理的, 民族的, 民族特有的\n[医] 伦理的, 道德的",
+      "en": "a. of or relating to the philosophical study of ethics\na. conforming to accepted standards of social or professional behavior\ns. adhering to ethical and moral principles",
+      "phonetic": "'eθikәl",
+      "forms": [
+        "ethical"
+      ],
+      "example": "As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "wisely",
+      "headword": "wisely",
+      "kind": "word",
+      "zh": "adv. 聪明地, 精明地",
+      "en": "r. in a wise manner",
+      "phonetic": "'waizli",
+      "forms": [
+        "wisely"
+      ],
+      "example": "Use nutrients wisely",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "anchovies",
+      "headword": "anchovy",
+      "kind": "word",
+      "zh": "n. 凤尾鱼；鳀鱼",
+      "en": "n. tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces\nn. small herring-like plankton-eating fishes often canned whole or as paste; abundant in tropical waters worldwide",
+      "phonetic": "'æntʃәvi",
+      "forms": [
+        "anchovies"
+      ],
+      "example": "Some scientists argue that fish, such as anchovies and mackerel, provide more essential nutrients when eaten directly rather than used as feed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "mackerel",
+      "headword": "mackerel",
+      "kind": "word",
+      "zh": "n. 鲭",
+      "en": "n. flesh of very important usually small (to 18 in) fatty Atlantic fish\nn. any of various fishes of the family Scombridae",
+      "phonetic": "'mækәrәl",
+      "forms": [
+        "mackerel"
+      ],
+      "example": "Some scientists argue that fish, such as anchovies and mackerel, provide more essential nutrients when eaten directly rather than used as feed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "Some scientists argue that fish, such as anchovies and mackerel, provide more essential nutrients when eaten directly rather than used as feed.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v108",
+      "term": "appeal",
+      "headword": "appeal",
+      "kind": "word",
+      "zh": "n. 恳求, 诉请, 上诉, 吸引力\nvi. 呼吁, 诉请, 要求, 上诉, 有吸引力\nvt. 将...上诉",
+      "en": "n. attractiveness that interests or pleases or stimulates\nn. (law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial\nv. take a court case to a higher court for review\nv. request earnestly (something from somebody); ask for aid or protection",
+      "phonetic": "ә'pi:l",
+      "forms": [
+        "appeal"
+      ],
+      "example": "Most species used in the marine ingredients industry have low market appeal and limited consumer demand, meaning that diverting fish from feed to food does not automatically improve food security.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "demand",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demand"
+      ],
+      "example": "Most species used in the marine ingredients industry have low market appeal and limited consumer demand, meaning that diverting fish from feed to food does not automatically improve food security.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "diverting",
+      "headword": "divert",
+      "kind": "word",
+      "zh": "vt. 转移, 使欢娱\nvi. 转移",
+      "en": "v. send on a course or in a direction different from the planned or intended one\nv. withdraw (money) and move into a different location, often secretly and with dishonest intentions",
+      "phonetic": "dai'vә:t",
+      "forms": [
+        "diverting"
+      ],
+      "example": "Most species used in the marine ingredients industry have low market appeal and limited consumer demand, meaning that diverting fish from feed to food does not automatically improve food security.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "automatically",
+      "headword": "automatically",
+      "kind": "word",
+      "zh": "adv. 自动地, 机械地",
+      "en": "r. in a reflex manner",
+      "phonetic": ".ɒ:tә'mætikli",
+      "forms": [
+        "automatically"
+      ],
+      "example": "Most species used in the marine ingredients industry have low market appeal and limited consumer demand, meaning that diverting fish from feed to food does not automatically improve food security.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "peru",
+      "headword": "Peru",
+      "kind": "word",
+      "zh": "n. 秘鲁",
+      "en": "n. a republic in western South America; achieved independence from Spain in 1821; was the heart of the Inca empire from the 12th to 16th centuries",
+      "phonetic": "pә'ru:",
+      "forms": [
+        "peru"
+      ],
+      "example": "Peru’s anchoveta fishery is the world’s largest fish stock used to produce marine ingredients.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "shelf",
+      "headword": "shelf",
+      "kind": "word",
+      "zh": "n. 架子, 搁板\n[化] 架子",
+      "en": "n. a support that consists of a horizontal surface for holding objects",
+      "phonetic": "ʃelf",
+      "forms": [
+        "shelf"
+      ],
+      "example": "Factors such as low demand, short shelf life, limited logistics and strong economic incentives to process fish into fishmeal and fish oil have often hindered the development of markets for some fish as food.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "logistics",
+      "headword": "logistics",
+      "kind": "word",
+      "zh": "n. 后勤学, 后勤\n[医] 后勤学",
+      "en": "n. handling an operation that involves providing labor and materials be supplied as needed",
+      "phonetic": "lәu'dʒistiks",
+      "forms": [
+        "logistics"
+      ],
+      "example": "Factors such as low demand, short shelf life, limited logistics and strong economic incentives to process fish into fishmeal and fish oil have often hindered the development of markets for some fish as food.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "incentives",
+      "headword": "incentive",
+      "kind": "word",
+      "zh": "n. 动机\na. 激励的",
+      "en": "n. a positive motivational influence",
+      "phonetic": "in'sentiv",
+      "forms": [
+        "incentives"
+      ],
+      "example": "Factors such as low demand, short shelf life, limited logistics and strong economic incentives to process fish into fishmeal and fish oil have often hindered the development of markets for some fish as food.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "hindered",
+      "headword": "hinder",
+      "kind": "word",
+      "zh": "a. 后面的\nv. 阻碍, 打扰",
+      "en": "v be a hindrance or obstacle to\nv hinder or prevent the progress or accomplishment of\nv put at a disadvantage\ns located at or near the back of an animal\ns located at or near the back of an animal",
+      "phonetic": "'hindә",
+      "forms": [
+        "hindered"
+      ],
+      "example": "Factors such as low demand, short shelf life, limited logistics and strong economic incentives to process fish into fishmeal and fish oil have often hindered the development of markets for some fish as food.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "strategic",
+      "headword": "strategic",
+      "kind": "word",
+      "zh": "a. 战略的, 战略上的\n[经] 战略的",
+      "en": "a. relating to or concerned with strategy\ns. highly important to or an integral part of a strategy or plan of action especially in war",
+      "phonetic": "strә'ti:dʒik",
+      "forms": [
+        "strategic"
+      ],
+      "example": "Strategic use of some fish as feed can help convert marine resources into nutritious and accessible seafood.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "convert",
+      "headword": "convert",
+      "kind": "word",
+      "zh": "n. 皈依者, 改变宗教信仰者\nvt. 使改变信仰, 转换, 兑换, 倒置\nvi. 皈依\n[计] 转换",
+      "en": "n. a person who has been converted to another religious or political belief\nv. change from one system to another or to a new plan or policy\nv. change the nature, purpose, or function of something\nv. change religious beliefs, or adopt a religious belief",
+      "phonetic": "kәn'vә:t",
+      "forms": [
+        "convert",
+        "converted"
+      ],
+      "example": "Strategic use of some fish as feed can help convert marine resources into nutritious and accessible seafood.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "nutritious",
+      "headword": "nutritious",
+      "kind": "word",
+      "zh": "a. 滋养的, 营养的\n[医] 有营养的",
+      "en": "s of or providing nourishment",
+      "phonetic": "nju:'triʃәs",
+      "forms": [
+        "nutritious"
+      ],
+      "example": "Strategic use of some fish as feed can help convert marine resources into nutritious and accessible seafood.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "accessible",
+      "headword": "accessible",
+      "kind": "word",
+      "zh": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的",
+      "en": "a. capable of being reached\ns. capable of being read with comprehension\ns. easily obtained\ns. easy to get along with or talk to; friendly",
+      "phonetic": "әk'sesәbl",
+      "forms": [
+        "accessible"
+      ],
+      "example": "Strategic use of some fish as feed can help convert marine resources into nutritious and accessible seafood.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "transformed",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transformed"
+      ],
+      "example": "To make the most of limited marine resources, the aquaculture industry could improve how it tracks fish and nutrients as they are transformed into farmed seafood.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "novel",
+      "headword": "novel",
+      "kind": "word",
+      "zh": "n. 小说, 长篇故事\na. 新奇的, 异常的",
+      "en": "n. an extended fictional work in prose; usually in the form of a story\nn. a printed and bound book that is an extended work of fiction\ns. pleasantly new or different",
+      "phonetic": "'nɒvl",
+      "forms": [
+        "novel"
+      ],
+      "example": "We have developed a novel peer-reviewed performance tool that provides a common sustainability language.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "tool",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tool"
+      ],
+      "example": "We have developed a novel peer-reviewed performance tool that provides a common sustainability language.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "At the heart of",
+      "headword": "at the heart of",
+      "kind": "phrase",
+      "zh": "处于……核心",
+      "en": "at the central or most important part of something",
+      "forms": [
+        "At the heart of"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v125",
+      "term": "ratio",
+      "headword": "ratio",
+      "kind": "word",
+      "zh": "n. 比, 比率\n[医] 比, 比率, 比例",
+      "en": "n. the relative magnitudes of two quantities (usually expressed as a quotient)",
+      "phonetic": "'reiʃәu",
+      "forms": [
+        "ratio"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "efficiently",
+      "headword": "efficiently",
+      "kind": "word",
+      "zh": "adv. 生效, 能胜任, 有能力, 效率高, 有效",
+      "en": "r. with efficiency; in an efficient manner",
+      "phonetic": "i'fiʃәntli",
+      "forms": [
+        "efficiently"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "omega",
+      "headword": "omega",
+      "kind": "word",
+      "zh": "n. 希腊字母的最后一个字, 终了, 最后\n[医] ω(希腊文第二十四个字母)",
+      "en": "n. the ending of a series or sequence\nn. the last (24th) letter of the Greek alphabet",
+      "phonetic": "'әumigә",
+      "forms": [
+        "omega"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "fatty",
+      "headword": "fatty",
+      "kind": "word",
+      "zh": "a. 肥胖的, 脂肪的, 含脂肪的\n[医] 脂肪的",
+      "en": "a. containing or composed of fat",
+      "phonetic": "'fæti",
+      "forms": [
+        "fatty"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "acids",
+      "headword": "acid",
+      "kind": "word",
+      "zh": "n. 酸, 酸类物质, 尖刻, 迷幻药\na. 酸的, 酸性的, 尖刻的, 敏锐的\n[计] 自动文档互参与索引生成程序",
+      "en": "n. any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt\nn. street name for lysergic acid diethylamide\ns. having the characteristics of an acid",
+      "phonetic": "'æsid",
+      "forms": [
+        "acids"
+      ],
+      "example": "At the heart of the tool is the Fish In: Fish Out (Fifo) ratio, a measure of how efficiently fish, and the omega-3 fatty acids they contain, are converted into farmed fish.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "efficiency",
+      "headword": "efficiency",
+      "kind": "word",
+      "zh": "n. 效率, 效能, 功效\n[医] 效率, 效力",
+      "en": "n. the ratio of the output to the input of any system\nn. skillfulness in avoiding wasted time and effort",
+      "phonetic": "i'fiʃәnsi",
+      "forms": [
+        "efficiency"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "normally",
+      "headword": "normally",
+      "kind": "word",
+      "zh": "adv. 正规地, 合规则, 正常地",
+      "en": "r. under normal conditions",
+      "phonetic": "'nɒ:mәli",
+      "forms": [
+        "normally"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "strategically",
+      "headword": "strategically",
+      "kind": "word",
+      "zh": "adv. 在战略上, 颇策略地",
+      "en": "r. with regard to strategy",
+      "phonetic": "strә'ti:dʒikәli",
+      "forms": [
+        "strategically"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "alternatives",
+      "headword": "alternative",
+      "kind": "word",
+      "zh": "n. 两者择一, 供替代的选择\na. 两者择一的, 供选择的\n[计] 选择对象",
+      "en": "s. necessitating a choice between mutually exclusive possibilities\ns. pertaining to unconventional choices",
+      "phonetic": "ɒ:l'tә:nәtiv",
+      "forms": [
+        "alternatives"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "algal",
+      "headword": "algal",
+      "kind": "word",
+      "zh": "[医] 藻的",
+      "en": "a. of or relating to alga",
+      "phonetic": "'æl^әl",
+      "forms": [
+        "algal"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "insect",
+      "headword": "insect",
+      "kind": "word",
+      "zh": "n. 昆虫, 卑鄙的人\n[医] 昆虫",
+      "en": "n. small air-breathing arthropod",
+      "phonetic": "'insekt",
+      "forms": [
+        "insect"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "meal",
+      "headword": "meal",
+      "kind": "word",
+      "zh": "n. 一餐, 膳食, 粗粉\nvi. 进餐",
+      "en": "n. the food served and eaten at one time\nn. any of the occasions for eating food that occur by custom or habit at more or less fixed times\nn. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
+      "phonetic": "mi:l",
+      "forms": [
+        "meal"
+      ],
+      "example": "Efficiency can be improved by increasing the use of fish processing by-products that are not normally eaten by people and by strategically replacing certain marine ingredients with alternatives such as algal oil and insect meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "farmers",
+      "headword": "farmer",
+      "kind": "word",
+      "zh": "n. 农夫, 农场主\n[法] 农民, 农场主, 承包者",
+      "en": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)",
+      "phonetic": "'fɑ:mә",
+      "forms": [
+        "farmers"
+      ],
+      "example": "The tool is currently being used by a variety of organisations like feed and ingredient companies, farmers, environmental charities, and researchers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "charities",
+      "headword": "charity",
+      "kind": "word",
+      "zh": "n. 慈悲, 博爱, 慈善团体, 施舍\n[法] 宽大, 宽恕, 慈善机关",
+      "en": "n. a foundation created to promote the public good (not for assistance to any particular individuals)\nn. a kindly and lenient attitude toward people\nn. an activity or gift that benefits the public at large\nn. an institution set up to provide help to the needy",
+      "phonetic": "'tʃæriti",
+      "forms": [
+        "charities"
+      ],
+      "example": "The tool is currently being used by a variety of organisations like feed and ingredient companies, farmers, environmental charities, and researchers.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "conventional",
+      "headword": "conventional",
+      "kind": "word",
+      "zh": "a. 传统的, 习惯的, 约定的\n[经] 惯例的, 常规的, 传统的",
+      "en": "a. following accepted customs and proprieties\ns. conforming with accepted standards\na. (weapons) using energy for propulsion or destruction that is not nuclear energy\na. unimaginative and conformist",
+      "phonetic": "kәn'venʃәnl",
+      "forms": [
+        "conventional"
+      ],
+      "example": "Applying the tool in our latest study already challenged conventional thinking about marine ingredient use in aquaculture.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "faroese",
+      "headword": "Faroese",
+      "kind": "word",
+      "zh": "n. 法罗人[语]\na. 法罗群岛人[语]的",
+      "en": "n a Scandinavian language (closely related to Icelandic) that is spoken on the Faroe Islands",
+      "phonetic": ",feәrәj'i:z",
+      "forms": [
+        "faroese"
+      ],
+      "example": "Although Faroese salmon is often viewed as a major consumer of marine ingredients, we found it was actually a net producer of edible omega-3 fatty acids.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "producer",
+      "headword": "producer",
+      "kind": "word",
+      "zh": "n. 生产者, 制作者, 制作人\n[化] 发生器; (炉煤气)发生炉; 制气炉; 生产者",
+      "en": "n. someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work)\nn. something that produces",
+      "phonetic": "prә'dju:sә",
+      "forms": [
+        "producer"
+      ],
+      "example": "Although Faroese salmon is often viewed as a major consumer of marine ingredients, we found it was actually a net producer of edible omega-3 fatty acids.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "edible",
+      "headword": "edible",
+      "kind": "word",
+      "zh": "n. 食品, 食物\na. 可食用的",
+      "en": "a. suitable for use as food",
+      "phonetic": "'edibl",
+      "forms": [
+        "edible"
+      ],
+      "example": "Although Faroese salmon is often viewed as a major consumer of marine ingredients, we found it was actually a net producer of edible omega-3 fatty acids.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "inedible",
+      "headword": "inedible",
+      "kind": "word",
+      "zh": "a. 不适于食用的",
+      "en": "a. not suitable for food",
+      "phonetic": "in'edibl",
+      "forms": [
+        "inedible"
+      ],
+      "example": "This was achieved by upcycling valuable nutrients from inedible sources (fishery by-products) into a nutritious farmed product, without increasing the need for fish that could be consumed directly by humans.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "consumed",
+      "headword": "consume",
+      "kind": "word",
+      "zh": "vt. 消耗, 消费, 消灭\nvi. 耗尽, 毁灭",
+      "en": "v. serve oneself to, or consume regularly\nv. spend extravagantly\nv. destroy completely\nv. use up (resources or materials)",
+      "phonetic": "kәn'sju:m",
+      "forms": [
+        "consumed"
+      ],
+      "example": "This was achieved by upcycling valuable nutrients from inedible sources (fishery by-products) into a nutritious farmed product, without increasing the need for fish that could be consumed directly by humans.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "affordability",
+      "headword": "affordability",
+      "kind": "word",
+      "zh": "n. 支付能力；负担能力；可购性",
+      "en": "",
+      "phonetic": "əˌfɔdɚ'bɪlətɪ",
+      "forms": [
+        "affordability"
+      ],
+      "example": "Making the most of limited marine resources is important, but decisions made in one country can affect food availability and affordability elsewhere.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "Making the most of limited marine resources is important, but decisions made in one country can affect food availability and affordability elsewhere.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "harmonising",
+      "headword": "harmonise",
+      "kind": "word",
+      "zh": "vi.vt. 以和声歌唱/演奏, (使)协调, (使)一致, (使)相称, (使)调和",
+      "en": "v go together\nv write a harmony for\nv sing or play in harmony\nv bring (several things) into consonance or relate harmoniously\nv bring into consonance or accord\nv bring into consonance, harmony, or accord while making music or singing",
+      "phonetic": "'hɑ:mәnaiz",
+      "forms": [
+        "harmonising"
+      ],
+      "example": "Therefore, harmonising nutrition-sensitive policies across local, national and regional levels is crucial to achieve meaningful outcomes.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "regional",
+      "headword": "regional",
+      "kind": "word",
+      "zh": "a. 地方的, 地域性的\n[医] 区的, 部位的",
+      "en": "a. characteristic of a region\ns. related or limited to a particular region",
+      "phonetic": "'ri:dʒәnәl",
+      "forms": [
+        "regional"
+      ],
+      "example": "Therefore, harmonising nutrition-sensitive policies across local, national and regional levels is crucial to achieve meaningful outcomes.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "crucial",
+      "headword": "crucial",
+      "kind": "word",
+      "zh": "a. 决定性的, 重要的, 严厉的\n[医] 十字形的; 决断的, 定局的",
+      "en": "a. of extreme importance; vital to the resolution of a crisis\ns. having crucial relevance",
+      "phonetic": "'kru:ʃәl",
+      "forms": [
+        "crucial"
+      ],
+      "example": "Therefore, harmonising nutrition-sensitive policies across local, national and regional levels is crucial to achieve meaningful outcomes.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "meaningful",
+      "headword": "meaningful",
+      "kind": "word",
+      "zh": "a. 意味深长的",
+      "en": "a. having a meaning or purpose",
+      "phonetic": "'mi:niŋful",
+      "forms": [
+        "meaningful"
+      ],
+      "example": "Therefore, harmonising nutrition-sensitive policies across local, national and regional levels is crucial to achieve meaningful outcomes.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "outcomes",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcomes"
+      ],
+      "example": "Therefore, harmonising nutrition-sensitive policies across local, national and regional levels is crucial to achieve meaningful outcomes.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "empower",
+      "headword": "empower",
+      "kind": "word",
+      "zh": "vt. 授予权力, 允许, 使能够\n[法] 授权, 准许, 转委",
+      "en": "v. give or delegate power or authority to",
+      "phonetic": "im'pauә",
+      "forms": [
+        "empower"
+      ],
+      "example": "They can only make a meaningful difference when they empower local communities through greater participation in decision-making and improved market access.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "participation",
+      "headword": "participation",
+      "kind": "word",
+      "zh": "n. 参与, 分享\n[经] 参与, 参股",
+      "en": "n. the condition of sharing in common with others (as fellows or partners etc.)",
+      "phonetic": ".pɑ:tisi'peiʃәn",
+      "forms": [
+        "participation"
+      ],
+      "example": "They can only make a meaningful difference when they empower local communities through greater participation in decision-making and improved market access.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "resource",
+      "headword": "resource",
+      "kind": "word",
+      "zh": "n. 资源, 财力, 办法, 策略, 急智, 消遣\n[计] 资源",
+      "en": "n. available source of wealth; a new or reserve supply that can be drawn upon when needed\nn. a source of aid or support that may be drawn upon when needed\nn. the ability to deal resourcefully with unusual problems",
+      "phonetic": "ri'sɒ:s",
+      "forms": [
+        "resource"
+      ],
+      "example": "They should support those closest to the resource, rather than treating them simply as sources of data for downstream companies.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "downstream",
+      "headword": "downstream",
+      "kind": "word",
+      "zh": "adv. 下游地\na. 下游的",
+      "en": "a. in the direction of a stream's current",
+      "phonetic": "'daun'stri:m",
+      "forms": [
+        "downstream"
+      ],
+      "example": "They should support those closest to the resource, rather than treating them simply as sources of data for downstream companies.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "proportion",
+      "headword": "proportion",
+      "kind": "word",
+      "zh": "n. 比例, 比率, 均衡, 部分, 面积\nvt. 使成比例, 使均衡",
+      "en": "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole\nn. magnitude or extent\nn. the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree\nn. harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "phonetic": "prә'pɒ:ʃәn",
+      "forms": [
+        "proportion"
+      ],
+      "example": "In West Africa, this could include retaining a proportion of the catch for local consumption and improving the cold chain to support its distribution.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "distribution",
+      "headword": "distribution",
+      "kind": "word",
+      "zh": "n. 分配\n[计] 分布",
+      "en": "n. (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence\nn. the spatial or geographic property of being scattered about over a range, area, or volume\nn. the act of distributing or spreading or apportioning\nn. the commercial activity of transporting and selling goods from a producer to a consumer",
+      "phonetic": ".distrә'bju:ʃәn",
+      "forms": [
+        "distribution"
+      ],
+      "example": "In West Africa, this could include retaining a proportion of the catch for local consumption and improving the cold chain to support its distribution.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "enable",
+      "headword": "enable",
+      "kind": "word",
+      "zh": "vt. 使能够\n[计] 允许, 使能, 打开",
+      "en": "v. render capable or able for some task",
+      "phonetic": "i'neibl",
+      "forms": [
+        "enable"
+      ],
+      "example": "These approaches would enable the marine ingredients and aquaculture industries to operate effectively.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "operate",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operate"
+      ],
+      "example": "These approaches would enable the marine ingredients and aquaculture industries to operate effectively.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "effectively",
+      "headword": "effectively",
+      "kind": "word",
+      "zh": "adv. 有效地, 有力地, 实际上",
+      "en": "r. in actuality or reality or fact",
+      "phonetic": "i'fektivli",
+      "forms": [
+        "effectively"
+      ],
+      "example": "These approaches would enable the marine ingredients and aquaculture industries to operate effectively.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      4,
+      12
+    ],
+    "wordBank": [
+      "originates",
+      "upwelling",
+      "status",
+      "corporations",
+      "relatively",
+      "dependent",
+      "linked",
+      "essential",
+      "unsustainable",
+      "by-products"
+    ],
+    "parts": [
+      {
+        "text": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " from West Africa. Most is used in animal feed, with aquaculture accounting for the largest share. These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " low carbon footprint of farmed seafood.\n\nThe supply of marine ingredients is highly regulated and fairly stable but should not be taken for granted. Climate change and warming periods such as El Niño can weaken the "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " of nutrient-rich waters from the deep sea. This reduces the availability of plankton and fish and limits the supply of marine ingredients required for aquaculture.\n\nThis means we need to make the best use of the resources already available. Fish processing "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.\n\nA new era of supply chain risk\n\nMarine ingredients from potentially "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " sources have slipped through the net despite responsible sourcing claims. One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " to food insecurity and job losses in local communities.\n\nOne way to reduce risk in aquaculture feed supply chains is to source ingredients domestically. But this is easier said than done. Aquafeed supply chains are "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.\n\nWhile marine ingredients can be sustainably sourced and continue to be "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition. Certification programmes currently focus on ensuring that fish are caught or farmed responsibly. The environmental and social safeguards include stock "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ", environmental footprint and making sure workers are treated fairly.\n\nThe certification programmes pay less attention to food security and critics argue they favour export markets and "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " over local communities. As a result, calls are growing for broader measures of what constitutes truly sustainable and ethical seafood.\n\nUse nutrients wisely"
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "originates",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 originates（originate）。结合上下文辨认词义与词形。",
+        "evidence": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
+        "paragraph": 4
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "relatively",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 relatively（relatively）。结合上下文辨认词义与词形。",
+        "evidence": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
+        "paragraph": 4
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "upwelling",
+        "vocabularyId": "v57",
+        "explanation": "原文此处使用 upwelling（upwelling）。结合上下文辨认词义与词形。",
+        "evidence": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
+        "paragraph": 5
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "by-products",
+        "vocabularyId": "v61",
+        "explanation": "原文此处使用 by-products（by-product）。结合上下文辨认词义与词形。",
+        "evidence": "Fish processing by-products (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.",
+        "paragraph": 6
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "unsustainable",
+        "vocabularyId": "v66",
+        "explanation": "原文此处使用 unsustainable（unsustainable）。结合上下文辨认词义与词形。",
+        "evidence": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+        "paragraph": 8
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "linked",
+        "vocabularyId": "v73",
+        "explanation": "原文此处使用 linked（link）。结合上下文辨认词义与词形。",
+        "evidence": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
+        "paragraph": 8
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "dependent",
+        "vocabularyId": "v78",
+        "explanation": "原文此处使用 dependent（dependent）。结合上下文辨认词义与词形。",
+        "evidence": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
+        "paragraph": 9
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "essential",
+        "vocabularyId": "v5",
+        "explanation": "原文此处使用 essential（essential）。结合上下文辨认词义与词形。",
+        "evidence": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
+        "paragraph": 10
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "status",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 status（status）。结合上下文辨认词义与词形。",
+        "evidence": "The environmental and social safeguards include stock status, environmental footprint and making sure workers are treated fairly.",
+        "paragraph": 10
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "corporations",
+        "vocabularyId": "v98",
+        "explanation": "原文此处使用 corporations（corporation）。结合上下文辨认词义与词形。",
+        "evidence": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
+        "paragraph": 11
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Climate-related risks discourage investment in poorer countries and can also harm corporations.",
+          "Aquaculture can contribute to food security while reducing pressure on valuable wild fish resources.",
+          "Consumers' ideas about organic food do not always match what labels and standards communicate.",
+          "Victorian spiritualism turned the desire to communicate beyond death into commercial opportunities."
+        ],
+        "answer": 1,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Most species used in the marine ingredients industry have low market appeal and limited consumer demand, meaning that diverting fish from feed to food does not automatically improve food security.",
+        "paragraph": 13
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What trend in wild fish catches for marine ingredients is reported?",
+        "options": [
+          "The complete end of all fishing before aquaculture began",
+          "An unlimited and uninterrupted increase everywhere",
+          "No relationship to any discussion of fish resources",
+          "An overall decline despite the growth of aquaculture"
+        ],
+        "answer": 3,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Despite its growth in the last three decades, global wild fish catches for marine ingredients have declined overall.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 8?",
+        "options": [
+          "Traceability systems can play an important role, but they must do more than track supply chains.",
+          "Some scientists argue that fish, such as anchovies and mackerel, provide more essential nutrients when eaten directly rather than used as feed.",
+          "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
+          "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims."
+        ],
+        "answer": 3,
+        "explanation": "定位第 8 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
+        "paragraph": 8
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Peru’s anchoveta fishery is the world’s largest fish stock used to produce marine ingredients.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 2",
+          "Paragraph 4",
+          "Paragraph 14"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Peru’s anchoveta fishery is the world’s largest fish stock used to produce marine ingredients.",
+        "paragraph": 14
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Applying the tool in our latest study already challenged conventional thinking about marine ingredient use in aquaculture.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 15",
+          "Paragraph 3",
+          "Paragraph 5"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Applying the tool in our latest study already challenged conventional thinking about marine ingredient use in aquaculture.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "revision": "6609e96001ec41226eedf46a9ffa74e187128126981bda2e2365602c8ed89643"
+}

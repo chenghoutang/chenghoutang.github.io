@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": 1,
+  "folder": "063",
+  "articleSha256": "38c4849cff68a0059d544b0f8a5ce80e1dc725ae4b890922b5f8ed738bd5a3ca",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "autism",
+      "headword": "autism",
+      "kind": "word",
+      "zh": "n. 孤独症\n[医] 孤独癖, 自我中心主义",
+      "en": "n. (psychiatry) an abnormal absorption with the self; marked by communication disorders and short attention span and inability to treat others as people",
+      "phonetic": "'ɒ:tizm",
+      "forms": [
+        "autism"
+      ],
+      "example": "Autism is a neurodevelopmental condition which influences how people communicate and process information.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "neurodevelopmental",
+      "headword": "neurodevelopmental",
+      "kind": "word",
+      "zh": "[医]神经发育的",
+      "en": "",
+      "phonetic": "nərəʊdi:'veləpmentl",
+      "forms": [
+        "neurodevelopmental"
+      ],
+      "example": "Autism is a neurodevelopmental condition which influences how people communicate and process information.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "influences",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influences"
+      ],
+      "example": "Autism is a neurodevelopmental condition which influences how people communicate and process information.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "communicate",
+      "headword": "communicate",
+      "kind": "word",
+      "zh": "vt. 显露, 传达, 感染\nvi. 通讯",
+      "en": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas",
+      "phonetic": "kә'mju:nikeit",
+      "forms": [
+        "communicate"
+      ],
+      "example": "Autism is a neurodevelopmental condition which influences how people communicate and process information.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "proportion",
+      "headword": "proportion",
+      "kind": "word",
+      "zh": "n. 比例, 比率, 均衡, 部分, 面积\nvt. 使成比例, 使均衡",
+      "en": "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole\nn. magnitude or extent\nn. the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree\nn. harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "phonetic": "prә'pɒ:ʃәn",
+      "forms": [
+        "proportion"
+      ],
+      "example": "A significant proportion of autistic children do not speak, or only speak a few words.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "autistic",
+      "headword": "autistic",
+      "kind": "word",
+      "zh": "[医] 孤独的, 自我中心的",
+      "en": "s. characteristic of or affected with autism",
+      "phonetic": "ɔ:'tistik",
+      "forms": [
+        "autistic"
+      ],
+      "example": "A significant proportion of autistic children do not speak, or only speak a few words.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "interaction",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interaction",
+        "interactions"
+      ],
+      "example": "Many find it difficult to communicate face to face, especially when interaction is fast moving or dependent on interpreting bodily cues.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "dependent",
+      "headword": "dependent",
+      "kind": "word",
+      "zh": "n. 依赖他人者\na. 依赖的, 从属的",
+      "en": "a. relying on or requiring a person or thing for support, supply, or what is needed\ns. contingent on something else\na. (of a clause) unable to stand alone syntactically as a complete sentence",
+      "phonetic": "di'pendәnt",
+      "forms": [
+        "dependent"
+      ],
+      "example": "Many find it difficult to communicate face to face, especially when interaction is fast moving or dependent on interpreting bodily cues.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "interpreting",
+      "headword": "interpret",
+      "kind": "word",
+      "zh": "vt. 解释, 演出, 翻译, 理解\nvi. 翻译, 解释",
+      "en": "v. make sense of; assign a meaning to\nv. give an interpretation or rendition of",
+      "phonetic": "in'tә:prit",
+      "forms": [
+        "interpreting",
+        "interpret"
+      ],
+      "example": "Many find it difficult to communicate face to face, especially when interaction is fast moving or dependent on interpreting bodily cues.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "bodily",
+      "headword": "bodily",
+      "kind": "word",
+      "zh": "a. 身体的\nadv. 亲自",
+      "en": "a. of or relating to or belonging to the body\ns. affecting or characteristic of the body as opposed to the mind or spirit\ns. having or relating to a physical material body\nr. in bodily form",
+      "phonetic": "'bɒdili",
+      "forms": [
+        "bodily"
+      ],
+      "example": "Many find it difficult to communicate face to face, especially when interaction is fast moving or dependent on interpreting bodily cues.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "cues",
+      "headword": "cue",
+      "kind": "word",
+      "zh": "n. 提示, 线索\nvt. 给...暗示(或提示)\n[计] 尾接指令",
+      "en": "n. an actor's line that immediately precedes and serves as a reminder for some action or speech\nn. sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards",
+      "phonetic": "kju:",
+      "forms": [
+        "cues"
+      ],
+      "example": "Many find it difficult to communicate face to face, especially when interaction is fast moving or dependent on interpreting bodily cues.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "social",
+      "headword": "social",
+      "kind": "word",
+      "zh": "a. 社会的, 群居的, 社交的\nn. 联欢会",
+      "en": "a. relating to human society and its members\na. living together or enjoying life in communities or organized groups\na. relating to or belonging to or characteristic of high society\ns. composed of sociable people or formed for the purpose of sociability",
+      "phonetic": "'sәuʃәl",
+      "forms": [
+        "social"
+      ],
+      "example": "Social media offers what can be an easier way for autistic people to socially interact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "Social media",
+      "headword": "social media",
+      "kind": "phrase",
+      "zh": "社交媒体",
+      "en": "online platforms for sharing content and interacting with others",
+      "forms": [
+        "Social media"
+      ],
+      "example": "Social media offers what can be an easier way for autistic people to socially interact.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v14",
+      "term": "media",
+      "headword": "media",
+      "kind": "word",
+      "zh": "n. 媒体\n[计] 媒质",
+      "en": "n a means or instrumentality for storing or communicating information\nn the surrounding environment\nn an intervening substance through which signals can travel as a means for communication\nn (bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms\nn a liquid with which pigment is mixed by a painter\nn (biology) a substance in which specimens are preserved or displayed\nn an intervening substance through which something is achieved\nn a state that is intermediate between extremes; a middle position\nn someone who serves as an intermediary between the living and the dead\nn (usually plural) transmissions that are disseminated widely to the public\nn an occupation for which you are especially well suited",
+      "phonetic": "'mi:diә",
+      "forms": [
+        "media"
+      ],
+      "example": "Social media offers what can be an easier way for autistic people to socially interact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "socially",
+      "headword": "socially",
+      "kind": "word",
+      "zh": "adv. 在社会上, 在社交上, 以社会生活方式",
+      "en": "r. by or with respect to society\nr. in a social manner",
+      "phonetic": "'sәuʃәli",
+      "forms": [
+        "socially"
+      ],
+      "example": "Social media offers what can be an easier way for autistic people to socially interact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "interact",
+      "headword": "interact",
+      "kind": "word",
+      "zh": "vi. 互相影响, 交互作用\nn. 幕间剧, 幕间休息",
+      "en": "v. act together or towards others or with others",
+      "phonetic": ".intәr'ækt",
+      "forms": [
+        "interact"
+      ],
+      "example": "Social media offers what can be an easier way for autistic people to socially interact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "communication",
+      "headword": "communication",
+      "kind": "word",
+      "zh": "n. 交流, 交通, 通讯\n[计] 通信",
+      "en": "n. the activity of communicating; the activity of conveying information\nn. something that is communicated by or to or between people or groups\nn. a connection allowing access between persons or places",
+      "phonetic": "kә.mju:ni'keiʃәn",
+      "forms": [
+        "communication"
+      ],
+      "example": "When communication takes place over text, there is no need to make eye contact or interpret facial expressions.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "text",
+      "headword": "text",
+      "kind": "word",
+      "zh": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\n[计] 电文; 文本; 正文",
+      "en": "n. the words of something written\nn. a passage from the Bible that is used as the subject of a sermon\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)",
+      "phonetic": "tekst",
+      "forms": [
+        "text"
+      ],
+      "example": "When communication takes place over text, there is no need to make eye contact or interpret facial expressions.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "contact",
+      "headword": "contact",
+      "kind": "word",
+      "zh": "n. 联系, 交际, 熟人, 接触\nvi. 接触, 联系\nvt. 使接触",
+      "en": "n. close interaction\nn. the act of touching physically\nn. the state or condition of touching or of being in immediate proximity\nn. the physical coming together of two or more things",
+      "phonetic": "'kɒntækt",
+      "forms": [
+        "contact",
+        "contacts"
+      ],
+      "example": "When communication takes place over text, there is no need to make eye contact or interpret facial expressions.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "facial",
+      "headword": "facial",
+      "kind": "word",
+      "zh": "n. 美颜, 脸部按摩\na. 脸的, 表面的, 脸部用的",
+      "en": "n. cranial nerve that supplies facial muscles\nn. care for the face that usually involves cleansing and massage and the application of cosmetic creams\na. of or concerning the face\na. of or pertaining to the outside surface of an object",
+      "phonetic": "'feiʃәl",
+      "forms": [
+        "facial"
+      ],
+      "example": "When communication takes place over text, there is no need to make eye contact or interpret facial expressions.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "expressions",
+      "headword": "expression",
+      "kind": "word",
+      "zh": "n. 表达, 表现, 词语, 措辞\n[计] 表达式",
+      "en": "n. the feelings expressed on a person's face\nn. expression without words\nn. the communication (in speech or writing) of your beliefs or opinions\nn. (genetics) the process of expressing a gene",
+      "phonetic": "ik'spreʃәn",
+      "forms": [
+        "expressions"
+      ],
+      "example": "When communication takes place over text, there is no need to make eye contact or interpret facial expressions.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "reply",
+      "headword": "reply",
+      "kind": "word",
+      "zh": "n. 答复, 回答, 答辩\nvi. 答复, 回答, 回击, 反响, 答辩\nvt. 回答\n[计] 答复",
+      "en": "n. the speech act of continuing a conversational exchange",
+      "phonetic": "ri'plai",
+      "forms": [
+        "reply"
+      ],
+      "example": "There is also more time to read a message, consider a reply and participate without the sensory demands of a busy room.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "participate",
+      "headword": "participate",
+      "kind": "word",
+      "zh": "vi. 参加, 分享, 参与, 带有\nvt. 分享, 分担",
+      "en": "v. share in something",
+      "phonetic": "pɑ:'tisipeit",
+      "forms": [
+        "participate"
+      ],
+      "example": "There is also more time to read a message, consider a reply and participate without the sensory demands of a busy room.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "sensory",
+      "headword": "sensory",
+      "kind": "word",
+      "zh": "a. 知觉的, 感觉的, 传递感觉的\n[医] 感觉的",
+      "en": "a. involving or derived from the senses",
+      "phonetic": "'sensәri",
+      "forms": [
+        "sensory"
+      ],
+      "example": "There is also more time to read a message, consider a reply and participate without the sensory demands of a busy room.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "demands",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demands"
+      ],
+      "example": "There is also more time to read a message, consider a reply and participate without the sensory demands of a busy room.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "busy",
+      "headword": "busy",
+      "kind": "word",
+      "zh": "a. 忙碌的, 热闹的, 没空的\nvt. 使忙\nvi. 忙碌\n[计] 忙; 忙碌",
+      "en": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity",
+      "phonetic": "'bizi",
+      "forms": [
+        "busy"
+      ],
+      "example": "There is also more time to read a message, consider a reply and participate without the sensory demands of a busy room.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "misunderstanding",
+      "headword": "misunderstand",
+      "kind": "word",
+      "zh": "vt. 误解, 误会",
+      "en": "v interpret in the wrong way",
+      "phonetic": ".misʌndә'stænd",
+      "forms": [
+        "misunderstanding"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "autistic young people",
+      "headword": "autistic young people",
+      "kind": "phrase",
+      "zh": "自闭症青少年",
+      "en": "young people on the autism spectrum",
+      "forms": [
+        "autistic young people"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v30",
+      "term": "young",
+      "headword": "young",
+      "kind": "word",
+      "zh": "a. 年轻的, 无经验的, 朝气蓬勃的\nn. 青年们, 幼小动物, 崽",
+      "en": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)",
+      "phonetic": "jʌŋ",
+      "forms": [
+        "young"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "manageable",
+      "headword": "manageable",
+      "kind": "word",
+      "zh": "a. 易办的, 易管理的, 易控制的",
+      "en": "a. capable of being managed or controlled",
+      "phonetic": "'mænidʒәbl",
+      "forms": [
+        "manageable"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "settings",
+      "headword": "settings",
+      "kind": "word",
+      "zh": "n. 设置（setting的复数）",
+      "en": "n the context and environment in which something is set\nn the state of the environment in which a situation exists\nn arrangement of scenery and properties to represent the place where a play or movie is enacted\nn the set of facts or circumstances that surround a situation or event\nn the physical position of something\nn a table service for one person\nn a mounting consisting of a piece of metal (as in a ring or other jewelry) that holds a gem in place",
+      "phonetic": "",
+      "forms": [
+        "settings"
+      ],
+      "example": "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "Many autistic people have at least one area of highly intense interest.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v34",
+      "term": "highly",
+      "headword": "highly",
+      "kind": "word",
+      "zh": "adv. 非常, 非常赞许地\n[电] 大大地",
+      "en": "r. to a high degree or extent; favorably or with much respect\nr. at a high rate or wage\nr. in a high position or level or rank",
+      "phonetic": "'haili",
+      "forms": [
+        "highly"
+      ],
+      "example": "Many autistic people have at least one area of highly intense interest.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "intense",
+      "headword": "intense",
+      "kind": "word",
+      "zh": "a. 非常的, 强烈的, 紧张的, 热情的\n[医] 强的",
+      "en": "a. possessing or displaying a distinctive feature to a heightened degree\ns. (of color) having the highest saturation",
+      "phonetic": "in'tens",
+      "forms": [
+        "intense"
+      ],
+      "example": "Many autistic people have at least one area of highly intense interest.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "niche",
+      "headword": "niche",
+      "kind": "word",
+      "zh": "n. 壁龛\nvt. 放入壁龛, 安顿",
+      "en": "n. a position particularly well suited to the person who occupies it\nn. (ecology) the status of an organism within its environment and community (affecting its survival as a species)",
+      "phonetic": "nitʃ",
+      "forms": [
+        "niche"
+      ],
+      "example": "These interests can often be quite niche and so there may not be any local clubs or groups.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "clubs",
+      "headword": "club",
+      "kind": "word",
+      "zh": "n. 俱乐部, 木棍, 球棒\nvt. 用棍棒打, 缴纳\nvi. 联合起来\na. 俱乐部的",
+      "en": "n. a formal association of people with similar interests\nn. stout stick that is larger at one end\nn. a playing card in the minor suit that has one or more black trefoils on it\nv. unite with a common purpose",
+      "phonetic": "klʌb",
+      "forms": [
+        "clubs"
+      ],
+      "example": "These interests can often be quite niche and so there may not be any local clubs or groups.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "affinity",
+      "headword": "affinity",
+      "kind": "word",
+      "zh": "n. 吸引, 姻亲关系, 类同\n[化] 亲合力; 亲合能; 亲合势; 近似; 类似",
+      "en": "n. (immunology) the attraction between an antigen and an antibody\nn. (anthropology) kinship by marriage or adoption; not a blood relationship\nn. (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts\nn. a close connection marked by community of interests or similarity in nature or character",
+      "phonetic": "ә'finiti",
+      "forms": [
+        "affinity"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "spaces",
+      "headword": "space",
+      "kind": "word",
+      "zh": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅\nvt. 隔开, 分隔\nvi. 留间隔\n[计] 空白, 空格校验",
+      "en": "n. the unlimited expanse in which everything is located\nn. an empty area (usually bounded in some way between things)\nn. an area reserved for some particular purpose\nn. a blank character used to separate successive words in writing or printing",
+      "phonetic": "speis",
+      "forms": [
+        "spaces"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "queen",
+      "headword": "queen",
+      "kind": "word",
+      "zh": "n. 王后, 女王\nvt. 立为女王\nvi. 做女王",
+      "en": "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs\nn. a female sovereign ruler\nn. the wife or widow of a king\nn. something personified as a woman who is considered the best or most important of her kind",
+      "phonetic": "'kwi:n",
+      "forms": [
+        "queen"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "investigating",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigating"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "engage",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engage"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "transition",
+      "headword": "transition",
+      "kind": "word",
+      "zh": "n. 转变, 转换, 变迁, 过渡时期, 临时转调\n[化] 跃迁",
+      "en": "n. a change from one place or state or subject or stage to another\nn. a musical passage moving from one key to another\nn. a passage that connects a topic to one that follows\nv. cause to convert or undergo a transition",
+      "phonetic": "træn'ziʃәn",
+      "forms": [
+        "transition",
+        "transitions"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "adulthood",
+      "headword": "adulthood",
+      "kind": "word",
+      "zh": "n. 成年\n[医] 成人期",
+      "en": "n. the period of time in your life after your physical growth has stopped and you are fully developed\nn. the state (and responsibilities) of a person who has attained maturity",
+      "phonetic": "ә'dʌlthud",
+      "forms": [
+        "adulthood"
+      ],
+      "example": "As part of the Autism in Affinity Spaces project, based at Queen Mary University of London, we are investigating how and why young autistic people in the UK use social media to engage with their focused interests during the transition to adulthood.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "survey",
+      "headword": "survey",
+      "kind": "word",
+      "zh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地",
+      "en": "n. a detailed critical inspection\nv. consider in a comprehensive way\nv. look over carefully or inspect\nv. make a survey of; for statistical purposes",
+      "phonetic": "sә'vei",
+      "forms": [
+        "survey"
+      ],
+      "example": "We have conducted a survey with 144 young people aged between 16 and 26 to find out more about their experiences.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "connections",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connections"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "globe",
+      "headword": "globe",
+      "kind": "word",
+      "zh": "n. 球, 球状物, 地球仪, 天体\nv. (使)成球状",
+      "en": "n. a sphere on which a map (especially of the earth) is represented",
+      "phonetic": "glәub",
+      "forms": [
+        "globe"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v49",
+      "term": "discord",
+      "headword": "discord",
+      "kind": "word",
+      "zh": "n. 不调和, 不和\nvi. 不一致, (声音)刺耳",
+      "en": "n. lack of agreement or harmony\nn. disagreement among those expected to cooperate\nn. strife resulting from a lack of agreement",
+      "phonetic": "'diskɒ:d",
+      "forms": [
+        "discord"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "servers",
+      "headword": "server",
+      "kind": "word",
+      "zh": "n. 服伺者, 上菜用具, 发球员\nn. 服务器\n[计] 服务器, 服务器启动程序, 服务台程序",
+      "en": "n. (court games) the player who serves to start a point\nn. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\nn. utensil used in serving food or drink",
+      "phonetic": "'sә:vә",
+      "forms": [
+        "servers"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "connect",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connect"
+      ],
+      "example": "Since social media offers connections across the globe, our participants told us that they used spaces such as Facebook groups and Discord servers to connect with people who shared their interests and understood why they mattered.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "community",
+      "headword": "community",
+      "kind": "word",
+      "zh": "n. 社区, 公众, 共有, 共同体\n[经] 公众, 共有, 社会",
+      "en": "n. a group of people living in a particular local area\nn. common ownership\nn. a group of nations having common interests\nn. agreement as to goals",
+      "phonetic": "kә'mju:niti",
+      "forms": [
+        "community"
+      ],
+      "example": "It’s really all about that sense of community that I didn’t have before.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "wavelength",
+      "headword": "wavelength",
+      "kind": "word",
+      "zh": "n. 波长\n[化] 波长",
+      "en": "n. the distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave\nn. a shared orientation leading to mutual understanding",
+      "phonetic": "'weivleŋθ",
+      "forms": [
+        "wavelength"
+      ],
+      "example": "It’s just been so, so nice to find people that who can like an artist as much as you and understand it on the same wavelength.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "user",
+      "headword": "user",
+      "kind": "word",
+      "zh": "n. 使用者\n[计] 用户",
+      "en": "n. a person who makes use of a thing; someone who uses or employs something",
+      "phonetic": "'ju:zә",
+      "forms": [
+        "user",
+        "users"
+      ],
+      "example": "This was also true for non-speaking participants. One Reddit user described the value of being able to choose smaller groups and write in detail:",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "posts",
+      "headword": "post",
+      "kind": "word",
+      "zh": "n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营\nvt. 张帖, 邮递, 公布, 登入帐, 使熟悉, 布置\nvi. 快速行进\nadv. 急速地\n[计] 记入; 登记, 上电自检",
+      "en": "n. the position where someone (as a guard or sentry) stands or is assigned to stand\nn. an upright consisting of a piece of timber or metal fixed firmly in an upright position\nn. United States aviator who in 1933 made the first solo flight around the world (1899-1935)\nn. United States female author who wrote a book and a syndicated newspaper column on etiquette (1872-1960)",
+      "phonetic": "pәust",
+      "forms": [
+        "posts"
+      ],
+      "example": "I often need long posts to explain things, and it’s quite easy to find posts about specific topics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "topics",
+      "headword": "topic",
+      "kind": "word",
+      "zh": "n. 主题, 论题, 话题",
+      "en": "n. some situation or event that is thought about",
+      "phonetic": "'tɒpik",
+      "forms": [
+        "topics"
+      ],
+      "example": "I often need long posts to explain things, and it’s quite easy to find posts about specific topics.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "provides",
+      "headword": "provide",
+      "kind": "word",
+      "zh": "vt. 提供, 供应, 规定, 预备\nvi. 作准备, 抚养, 规定",
+      "en": "v. give what is desired or needed, especially support, food or sustenance\nv. determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation\nv. supply means of subsistence; earn a living\nv. take measures in preparation for",
+      "phonetic": "prә'vaid",
+      "forms": [
+        "provides"
+      ],
+      "example": "Social media also provides opportunities for learning. All our participants said they used digital platforms to learn more about their interests – for example, by watching informative YouTube videos or following experts on Instagram. Many had also become experts themselves as a result and used social media to share their knowledge with others.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "digital",
+      "headword": "digital",
+      "kind": "word",
+      "zh": "a. 数字显示的, 数字的\nn. 数字仪表, 数字式电子表(或时钟)\n[计] 数字, 数字式",
+      "en": "a. displaying numbers rather than scale positions\na. relating to or performed with the fingers\na. of a circuit or device that represents magnitudes in digits",
+      "phonetic": "'didʒitәl",
+      "forms": [
+        "digital"
+      ],
+      "example": "All our participants said they used digital platforms to learn more about their interests – for example, by watching informative YouTube videos or following experts on Instagram.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "platforms",
+      "headword": "platform",
+      "kind": "word",
+      "zh": "n. 站台, 月台, 讲台, 论坛, 平台\n[计] 平台",
+      "en": "n. a raised horizontal surface\nn. a document stating the aims and principles of a political party\nn. the combination of a particular computer and a particular operating system\nn. any military structure or vehicle bearing weapons",
+      "phonetic": "'plætfɒ:m",
+      "forms": [
+        "platforms"
+      ],
+      "example": "All our participants said they used digital platforms to learn more about their interests – for example, by watching informative YouTube videos or following experts on Instagram.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "for example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "for example"
+      ],
+      "example": "All our participants said they used digital platforms to learn more about their interests – for example, by watching informative YouTube videos or following experts on Instagram.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v61",
+      "term": "informative",
+      "headword": "informative",
+      "kind": "word",
+      "zh": "a. 提供消息的, 见闻广博的",
+      "en": "a. providing or conveying information",
+      "phonetic": "in'fɒ:mәtiv",
+      "forms": [
+        "informative"
+      ],
+      "example": "All our participants said they used digital platforms to learn more about their interests – for example, by watching informative YouTube videos or following experts on Instagram.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "as a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "as a result"
+      ],
+      "example": "Many had also become experts themselves as a result and used social media to share their knowledge with others.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v63",
+      "term": "importantly",
+      "headword": "importantly",
+      "kind": "word",
+      "zh": "adv. 重要地；大量地；有名望地；自命不凡地",
+      "en": "r. in an important way or to an important degree\nr. in an important way",
+      "phonetic": "",
+      "forms": [
+        "importantly"
+      ],
+      "example": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "displace",
+      "headword": "displace",
+      "kind": "word",
+      "zh": "vt. 移置, 替换, 转移",
+      "en": "v. cause to move, usually with force or pressure\nv. terminate the employment of; discharge from an office or position",
+      "phonetic": "dis'pleis",
+      "forms": [
+        "displace"
+      ],
+      "example": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "offline",
+      "headword": "offline",
+      "kind": "word",
+      "zh": "[计] 挂线, 脱机",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "offline"
+      ],
+      "example": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "enhanced",
+      "headword": "enhance",
+      "kind": "word",
+      "zh": "vt. 提高, 加强, 增加",
+      "en": "v. increase\nv. make better or more attractive",
+      "phonetic": "in'hæns",
+      "forms": [
+        "enhanced"
+      ],
+      "example": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "predictability",
+      "headword": "predictability",
+      "kind": "word",
+      "zh": "n. 可预言\n[电] 可预测性",
+      "en": "n. the quality of being predictable",
+      "phonetic": "pri.diktә'biliti",
+      "forms": [
+        "predictability"
+      ],
+      "example": "Predictability and structure are often important for autistic people, so some participants used social media to research unfamiliar places or upcoming events before they went in.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "unfamiliar",
+      "headword": "unfamiliar",
+      "kind": "word",
+      "zh": "a. 不熟悉的",
+      "en": "a. not known or well known",
+      "phonetic": ".ʌnfә'miljә",
+      "forms": [
+        "unfamiliar"
+      ],
+      "example": "Predictability and structure are often important for autistic people, so some participants used social media to research unfamiliar places or upcoming events before they went in.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "upcoming",
+      "headword": "upcoming",
+      "kind": "word",
+      "zh": "a. 即将来临的, 即将出现的",
+      "en": "s of the relatively near future",
+      "phonetic": "'ʌp.kʌmiŋ",
+      "forms": [
+        "upcoming"
+      ],
+      "example": "Predictability and structure are often important for autistic people, so some participants used social media to research unfamiliar places or upcoming events before they went in.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "downsides",
+      "headword": "downside",
+      "kind": "word",
+      "zh": "n. 底侧；下降趋势",
+      "en": "n. a negative aspect of something that is generally positive",
+      "phonetic": "'daunsaid",
+      "forms": [
+        "downsides"
+      ],
+      "example": "What are the downsides?",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v73",
+      "term": "misinformation",
+      "headword": "misinformation",
+      "kind": "word",
+      "zh": "n. 错误的消息, 误传\n[法] 错误的消息, 误传",
+      "en": "n. information that is incorrect",
+      "phonetic": "'misinfә'meiʃәn",
+      "forms": [
+        "misinformation"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "exposure",
+      "headword": "exposure",
+      "kind": "word",
+      "zh": "n. 暴露, 揭发, 揭露\n[化] 曝光量; 照射; 照射量",
+      "en": "n. vulnerability to the elements; to the action of heat or cold or wind or rain; \nn. the act of subjecting someone to an influencing experience\nn. the disclosure of something secret\nn. aspect resulting from the direction a building or window faces",
+      "phonetic": "ik'spәuʒә",
+      "forms": [
+        "exposure"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "harmful",
+      "headword": "harmful",
+      "kind": "word",
+      "zh": "a. 有害的, 伤害的",
+      "en": "a. causing or capable of causing harm",
+      "phonetic": "'hɑ:mful",
+      "forms": [
+        "harmful"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "promoting",
+      "headword": "promote",
+      "kind": "word",
+      "zh": "vt. 促进, 晋升, 创办, 推销\n[经] 促进, 推广, 推销",
+      "en": "v. contribute to the progress or growth of\nv. give a promotion to or assign to a higher position\nv. be changed for a superior chess or checker piece\nv. change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+      "phonetic": "prәu'mәut",
+      "forms": [
+        "promoting"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "disordered",
+      "headword": "disorder",
+      "kind": "word",
+      "zh": "n. 杂乱, 混乱\nvt. 扰乱, 使失调",
+      "en": "n. a physical condition in which there is a disturbance of normal functioning\nn. a disturbance of the peace or of public order\nv. bring disorder to",
+      "phonetic": "dis'ɒ:dә",
+      "forms": [
+        "disordered"
+      ],
+      "example": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "closely",
+      "headword": "closely",
+      "kind": "word",
+      "zh": "adv. 接近地",
+      "en": "r. in a close relation or position in time or space\nr. in a close manner",
+      "phonetic": "'klәusli",
+      "forms": [
+        "closely"
+      ],
+      "example": "These concerns closely reflect those raised in the government’s proposals.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "proposals",
+      "headword": "proposal",
+      "kind": "word",
+      "zh": "n. 提议, 计划, 求婚\n[经] 提案, 申请, 投标",
+      "en": "n. something proposed (such as a plan or assumption)\nn. the act of making a proposal",
+      "phonetic": "prә'pәuzl",
+      "forms": [
+        "proposals"
+      ],
+      "example": "These concerns closely reflect those raised in the government’s proposals.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "upper",
+      "headword": "upper",
+      "kind": "word",
+      "zh": "a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的\nn. 鞋帮, 上齿",
+      "en": "n. piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot\ns. the topmost one of two\ns. higher in place or position\ns. superior in rank or accomplishment",
+      "phonetic": "'ʌpә",
+      "forms": [
+        "upper"
+      ],
+      "example": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "sample",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "sample"
+      ],
+      "example": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "harms",
+      "headword": "harm",
+      "kind": "word",
+      "zh": "n. 伤害, 害处\nvt. 伤害, 损害",
+      "en": "v. cause or do harm to",
+      "phonetic": "hɑ:m",
+      "forms": [
+        "harms"
+      ],
+      "example": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "mental",
+      "headword": "mental",
+      "kind": "word",
+      "zh": "a. 心智的, 精神病的, 心理的, 颏的\nn. 精神病患者",
+      "en": "a. involving the mind or an intellectual process\na. of or relating to the mind\na. of or relating to the chin- or liplike structure in insects and certain mollusks\ns. affected by a disorder of the mind",
+      "phonetic": "'mentl",
+      "forms": [
+        "mental"
+      ],
+      "example": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "mental health",
+      "headword": "mental health",
+      "kind": "phrase",
+      "zh": "心理健康",
+      "en": "a person's psychological and emotional well-being",
+      "forms": [
+        "mental health"
+      ],
+      "example": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v88",
+      "term": "difficulties",
+      "headword": "difficulty",
+      "kind": "word",
+      "zh": "n. 困难, 难点",
+      "en": "n. a factor causing trouble in achieving a positive result or tending to produce a negative result\nn. a condition or state of affairs almost beyond one's ability to deal with and requiring great effort to bear or overcome\nn. the quality of being difficult",
+      "phonetic": "'difikәlti",
+      "forms": [
+        "difficulties"
+      ],
+      "example": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "updated",
+      "headword": "update",
+      "kind": "word",
+      "zh": "vt. 更新, 使现代化\nn. 更新\n[计] 更新",
+      "en": "n. news that updates your information\nv. modernize or bring up to date\nv. bring up to date; supply with recent information\nv. bring to the latest state of technology",
+      "phonetic": "ʌp'deit",
+      "forms": [
+        "updated"
+      ],
+      "example": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "committed",
+      "headword": "commit",
+      "kind": "word",
+      "zh": "vt. 委托(托付), 犯罪, 指派...作战, 使承担义务\n[法] 犯, 做, 把...交托给",
+      "en": "v. cause to be admitted; of persons to an institution\nv. engage in or perform",
+      "phonetic": "kә'mit",
+      "forms": [
+        "committed"
+      ],
+      "example": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "health outcomes",
+      "headword": "health outcomes",
+      "kind": "phrase",
+      "zh": "健康结局",
+      "en": "measurable effects on health following an exposure or intervention",
+      "forms": [
+        "health outcomes"
+      ],
+      "example": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v92",
+      "term": "outcomes",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcomes"
+      ],
+      "example": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "curfew",
+      "headword": "curfew",
+      "kind": "word",
+      "zh": "n. 晚钟, 打晚钟时刻, 宵禁\n[法] 宵禁, 宵禁令",
+      "en": "n. the time that the curfew signal is sounded\nn. a signal (usually a bell) announcing the start of curfew restrictions\nn. an order that after a specific time certain activities (as being outside on the streets) are prohibited",
+      "phonetic": "'kә:fju:",
+      "forms": [
+        "curfew"
+      ],
+      "example": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "teens",
+      "headword": "teen",
+      "kind": "word",
+      "zh": "n. 愤怒, 悲哀",
+      "en": "n a juvenile between the onset of puberty and maturity\ns being of the age 13 through 19",
+      "phonetic": "ti:n",
+      "forms": [
+        "teens"
+      ],
+      "example": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "negatively",
+      "headword": "negatively",
+      "kind": "word",
+      "zh": "adv. 否定地, 消极地",
+      "en": "r. in a harmful manner\nr. in a negative way",
+      "phonetic": "'ne^әtivli",
+      "forms": [
+        "negatively"
+      ],
+      "example": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "Removing access to social media would mean the loss of those online communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "adolescents",
+      "headword": "adolescent",
+      "kind": "word",
+      "zh": "a. 青春期的, 青少年的\nn. 青少年",
+      "en": "n. a juvenile between the onset of puberty and maturity\na. relating to or peculiar to or suggestive of an adolescent\ns. being of the age 13 through 19\ns. displaying or suggesting a lack of maturity",
+      "phonetic": ".ædәu'lesәnt",
+      "forms": [
+        "adolescents"
+      ],
+      "example": "Removing access to social media would mean the loss of those online communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "isolated",
+      "headword": "isolate",
+      "kind": "word",
+      "zh": "vt. 使隔离, 使孤立, 使绝缘\nn. 隔离种群",
+      "en": "v. place or set apart\nv. obtain in pure form\nv. separate (experiences) from the emotions relating to them",
+      "phonetic": "'aisәleit",
+      "forms": [
+        "isolated"
+      ],
+      "example": "Removing access to social media would mean the loss of those online communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "in-person",
+      "headword": "in-person",
+      "kind": "word",
+      "zh": "a. 亲自的, 亲身的；本人的; 现场的, 实况的",
+      "en": "s an appearance carried out personally in someone else's physical presence",
+      "phonetic": "'in'pə:sən",
+      "forms": [
+        "in-person"
+      ],
+      "example": "Although many of our participants wanted to attend more in-person activities, they were’t always able to do so.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "restricting",
+      "headword": "restrict",
+      "kind": "word",
+      "zh": "vt. 限制, 限定, 约束\n[医] 限制",
+      "en": "v. place restrictions on\nv. place under restrictions; limit access to\nv. place limits on (extent or access)",
+      "phonetic": "ri'strikt",
+      "forms": [
+        "restricting"
+      ],
+      "example": "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "transport",
+      "headword": "transport",
+      "kind": "word",
+      "zh": "n. 运输, 运输工具, 激动, 狂喜, 流放犯\nvt. 传送, 运输, 流放\n[计] 传送",
+      "en": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes\nv. move something or somebody around; usually over long distances\nv. move while supporting, either in a vehicle or in one's hands or on one's body\nv. transport commercially",
+      "phonetic": "træns'pɒ:t",
+      "forms": [
+        "transport"
+      ],
+      "example": "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "youth",
+      "headword": "youth",
+      "kind": "word",
+      "zh": "n. 年轻, 青年时代, 青年们, 青春\n[法] 青年, 青年时期, 青春时期",
+      "en": "n. the time of life between childhood and maturity\nn. early maturity; the state of being young or immature or inexperienced\nn. an early period of development\nn. the freshness and vitality characteristic of a young person",
+      "phonetic": "ju:θ",
+      "forms": [
+        "youth"
+      ],
+      "example": "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "venues",
+      "headword": "venue",
+      "kind": "word",
+      "zh": "n. 犯罪地点, 审判地, 发生地点",
+      "en": "n. the scene of any event or action (especially the place of a meeting)\nn. in law: the jurisdiction where a trial will be held",
+      "phonetic": "'venju:",
+      "forms": [
+        "venues"
+      ],
+      "example": "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "overwhelming",
+      "headword": "overwhelm",
+      "kind": "word",
+      "zh": "vt. 淹没, 受打击, 制服, 压倒, 使不知所措\n[法] 打翻, 倾覆, 覆盖",
+      "en": "v. overcome, as with emotions or perceptual stimuli\nv. charge someone with too many tasks",
+      "phonetic": ".әuvә'hwelm",
+      "forms": [
+        "overwhelming"
+      ],
+      "example": "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "route",
+      "headword": "route",
+      "kind": "word",
+      "zh": "n. 路径, 途径, 路线\nvt. 确定路线, 按规定路线发送\n[计] 传递, 路由设定程序",
+      "en": "v. send documents or materials to appropriate destinations\nv. send via a specific route\nv. divert in a specified direction",
+      "phonetic": "ru:t",
+      "forms": [
+        "route"
+      ],
+      "example": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "gather",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gather"
+      ],
+      "example": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "navigate",
+      "headword": "navigate",
+      "kind": "word",
+      "zh": "vi. 航行\nvt. 航行于, 驾驶, 操纵, 使通过",
+      "en": "v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance\nv. direct carefully and safely",
+      "phonetic": "'nævigeit",
+      "forms": [
+        "navigate"
+      ],
+      "example": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "effectively",
+      "headword": "effectively",
+      "kind": "word",
+      "zh": "adv. 有效地, 有力地, 实际上",
+      "en": "r. in actuality or reality or fact",
+      "phonetic": "i'fektivli",
+      "forms": [
+        "effectively"
+      ],
+      "example": "Platforms should be expected to respond effectively to harassment and discrimination.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "harassment",
+      "headword": "harassment",
+      "kind": "word",
+      "zh": "n. 困扰, 烦扰, 烦恼\n[法] 折磨, 骚扰, 侵扰",
+      "en": "n. a feeling of intense annoyance caused by being tormented\nn. the act of tormenting by continued persistent attacks and criticism",
+      "phonetic": "'hærәsmәnt",
+      "forms": [
+        "harassment"
+      ],
+      "example": "Platforms should be expected to respond effectively to harassment and discrimination.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "discrimination",
+      "headword": "discrimination",
+      "kind": "word",
+      "zh": "n. 差别, 岐视, 辨别力\n[化] 鉴别",
+      "en": "n. unfair treatment of a person or group on the basis of prejudice\nn. the cognitive process whereby two or more stimuli are distinguished",
+      "phonetic": "dis.krimi'neiʃәn",
+      "forms": [
+        "discrimination"
+      ],
+      "example": "Platforms should be expected to respond effectively to harassment and discrimination.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "scrolling",
+      "headword": "scroll",
+      "kind": "word",
+      "zh": "n. 卷轴, 画卷, 名册, 条幅, 滚动\nv. (使)成卷形\n[计] 滚动",
+      "en": "n. a document that can be rolled up (as for storage)\nv. move through text or graphics in order to display parts that do not fit on the screen",
+      "phonetic": "skrәul",
+      "forms": [
+        "scrolling"
+      ],
+      "example": "Young people in our current project, for example, wanted to be able to turn off scrolling or hide video recommendations – simple features that would give users more control over their own experience.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "hide",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hide"
+      ],
+      "example": "Young people in our current project, for example, wanted to be able to turn off scrolling or hide video recommendations – simple features that would give users more control over their own experience.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "recommendations",
+      "headword": "recommendation",
+      "kind": "word",
+      "zh": "n. 推荐, 介绍, 推荐信, 劝告\n[经] 建议书",
+      "en": "n. something (as a course of action) that is recommended as advisable\nn. something that recommends (or expresses commendation of) a person or thing as worthy or desirable\nn. any quality or characteristic that gains a person a favorable reception or acceptance or admission",
+      "phonetic": ".rekәmen'deiʃәn",
+      "forms": [
+        "recommendations"
+      ],
+      "example": "Young people in our current project, for example, wanted to be able to turn off scrolling or hide video recommendations – simple features that would give users more control over their own experience.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "algorithms",
+      "headword": "algorithm",
+      "kind": "word",
+      "zh": "n. 算法\n[计] 算法",
+      "en": "n. a precise rule (or set of rules) specifying how to solve some problem",
+      "phonetic": "'ælgәriðm",
+      "forms": [
+        "algorithms"
+      ],
+      "example": "Young people also need support to navigate digital spaces, including understanding how algorithms shape what they see, how to recognise misinformation and what to do when content or interaction becomes overwhelming.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape"
+      ],
+      "example": "Young people also need support to navigate digital spaces, including understanding how algorithms shape what they see, how to recognise misinformation and what to do when content or interaction becomes overwhelming.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "Young people also need support to navigate digital spaces, including understanding how algorithms shape what they see, how to recognise misinformation and what to do when content or interaction becomes overwhelming.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "separately",
+      "headword": "separately",
+      "kind": "word",
+      "zh": "adv. [表]分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂\n[计] 分离地",
+      "en": "r apart from others",
+      "phonetic": "'sepәrәtli",
+      "forms": [
+        "separately"
+      ],
+      "example": "But safer online spaces cannot be considered separately from the offline world.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "accommodate",
+      "headword": "accommodate",
+      "kind": "word",
+      "zh": "vt. 使适应, 调和, 通融, 容纳, 向...提供\nvi. 适应",
+      "en": "v. provide with something desired or needed\nv. have room for; hold without crowding\nv. make (one thing) compatible with (another)",
+      "phonetic": "ә'kɒmәdeit",
+      "forms": [
+        "accommodate"
+      ],
+      "example": "Many autistic young people use online communities because local groups do not always accommodate different communication and sensory needs.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "aims",
+      "headword": "aim",
+      "kind": "word",
+      "zh": "n. 目标, 瞄准, 击中目标的能力\nvi. 对准目标, 致力, 打算\nvt. 瞄准\n[计] 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+      "en": "n. the goal intended to be attained (and which is believed to be attainable)\nn. the action of directing something at an object\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv. propose or intend",
+      "phonetic": "eim",
+      "forms": [
+        "aims"
+      ],
+      "example": "If policy aims to encourage more in-person activity, those environments must also be designed so neurodivergent people can participate.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      11,
+      17
+    ],
+    "wordBank": [
+      "in-person",
+      "disordered",
+      "unique",
+      "committed",
+      "route",
+      "proposed",
+      "online",
+      "downsides",
+      "participate",
+      "sample"
+    ],
+    "parts": [
+      {
+        "text": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " in them. Predictability and structure are often important for autistic people, so some participants used social media to research unfamiliar places or upcoming events before they went in.\n\nWhat are the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": "?\n\nOur participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " eating after viewing content about veganism. These concerns closely reflect those raised in the government’s proposals.\n\nHowever, participants on the upper age range of our "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.\n\nThe transition to adulthood is difficult for all young people, but autistic people face "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " challenges and often experience mental health difficulties as a result. As part of the updated national strategy for autistic people in England, the government has "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " to supporting positive transitions and improving mental health outcomes.\n\nWhile our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " measures for the UK such as a social media curfew for under-18s could affect older teens negatively. Removing access to social media would mean the loss of those "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.\n\nAlthough many of our participants wanted to attend more "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " activities, they were’t always able to do so. Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming. It will remove a "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " through which young people currently gather the information and contacts needed to navigate those settings."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "participate",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 participate（participate）。结合上下文辨认词义与词形。",
+        "evidence": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
+        "paragraph": 11
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "downsides",
+        "vocabularyId": "v70",
+        "explanation": "原文此处使用 downsides（downside）。结合上下文辨认词义与词形。",
+        "evidence": "What are the downsides?",
+        "paragraph": 12
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "disordered",
+        "vocabularyId": "v78",
+        "explanation": "原文此处使用 disordered（disorder）。结合上下文辨认词义与词形。",
+        "evidence": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
+        "paragraph": 13
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "sample",
+        "vocabularyId": "v82",
+        "explanation": "原文此处使用 sample（sample）。结合上下文辨认词义与词形。",
+        "evidence": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+        "paragraph": 14
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "unique",
+        "vocabularyId": "v85",
+        "explanation": "原文此处使用 unique（unique）。结合上下文辨认词义与词形。",
+        "evidence": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
+        "paragraph": 15
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "committed",
+        "vocabularyId": "v90",
+        "explanation": "原文此处使用 committed（commit）。结合上下文辨认词义与词形。",
+        "evidence": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
+        "paragraph": 15
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "proposed",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 proposed（propose）。结合上下文辨认词义与词形。",
+        "evidence": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
+        "paragraph": 16
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "online",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 online（online）。结合上下文辨认词义与词形。",
+        "evidence": "Removing access to social media would mean the loss of those online communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.",
+        "paragraph": 16
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "in-person",
+        "vocabularyId": "v100",
+        "explanation": "原文此处使用 in-person（in-person）。结合上下文辨认词义与词形。",
+        "evidence": "Although many of our participants wanted to attend more in-person activities, they were’t always able to do so.",
+        "paragraph": 17
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "route",
+        "vocabularyId": "v106",
+        "explanation": "原文此处使用 route（route）。结合上下文辨认词义与词形。",
+        "evidence": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Regular park visits are associated with measurable differences in children's mental health.",
+          "Minority language speakers continue to face prejudice in different European settings.",
+          "Schools can reduce some learning gaps while advantages linked to family wealth persist.",
+          "Online communities can be valuable spaces for autistic young people."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Many autistic young people use online communities because local groups do not always accommodate different communication and sensory needs.",
+        "paragraph": 21
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why might autistic young people struggle to find local groups for their interests?",
+        "options": [
+          "Every community already has a club for every possible interest.",
+          "Their interests can be specialised enough that no nearby group exists.",
+          "Their interests are necessarily identical to everyone else's.",
+          "The article says autistic young people cannot form communities."
+        ],
+        "answer": 1,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "These interests can often be quite niche and so there may not be any local clubs or groups.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "Restricting social media will not make public transport easier to use, youth clubs more welcoming or local venues less overwhelming.",
+          "Although online interactions are not free of misunderstanding, for some autistic young people they provide a form of social contact that is more manageable than many physical settings.",
+          "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+          "I often need long posts to explain things, and it’s quite easy to find posts about specific topics."
+        ],
+        "answer": 3,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "I often need long posts to explain things, and it’s quite easy to find posts about specific topics.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.”",
+        "options": [
+          "Paragraph 15",
+          "Paragraph 11",
+          "Paragraph 14",
+          "Paragraph 3"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
+        "paragraph": 14
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Although many of our participants wanted to attend more in-person activities, they were’t always able to do so.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 4",
+          "Paragraph 11",
+          "Paragraph 16"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Although many of our participants wanted to attend more in-person activities, they were’t always able to do so.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "revision": "87e4fc8eb77c00bf15b680667b34eb607a8f44351a09dbece901ef9493c8d28e"
+}

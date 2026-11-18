@@ -1,0 +1,2400 @@
+{
+  "schemaVersion": 1,
+  "folder": "036",
+  "articleSha256": "ed69362ab58637358ad429540ebca275e689ad3d17f0208a3872dc556cb87f1b",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "grounded",
+      "headword": "grounded",
+      "kind": "word",
+      "zh": "a. [物]接地的；有基础的",
+      "en": "v fix firmly and stably\nv confine or restrict to the ground\nv place or put on the ground\nv instruct someone in the fundamentals of a subject\nv bring to the ground\nv hit or reach the ground\nv throw to the ground in order to stop play and avoid being tackled behind the line of scrimmage\nv hit a groundball\nv hit onto the ground\nv cover with a primer; apply a primer to\nv connect to a ground\nv use as a basis for; found on",
+      "phonetic": "'^raundid",
+      "forms": [
+        "grounded"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "airport",
+      "headword": "airport",
+      "kind": "word",
+      "zh": "n. 飞机场\n[机] 航空站, 机场",
+      "en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+      "phonetic": "'єәpɒ:t",
+      "forms": [
+        "airport",
+        "airports"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "due to",
+      "headword": "due to",
+      "kind": "phrase",
+      "zh": "由于",
+      "en": "because of",
+      "forms": [
+        "due to"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v4",
+      "term": "thick",
+      "headword": "thick",
+      "kind": "word",
+      "zh": "a. 厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 过分的, 口齿不清的\nadv. 厚地, 密地, 浓浓地\nn. 最浓处, 最厚处, 最密集处\n[计] 暗, 粗线",
+      "en": "a. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions\ns. having component parts closely crowded together\na. relatively dense in consistency\ns. (of darkness) very intense",
+      "phonetic": "θik",
+      "forms": [
+        "thick"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "frustration",
+      "headword": "frustration",
+      "kind": "word",
+      "zh": "n. 挫折, 顿挫\n[医] 挫折",
+      "en": "n. the feeling that accompanies an experience of being thwarted in attaining your goals\nn. an act of hindering someone's plans or efforts\nn. a feeling of annoyance at being hindered or criticized",
+      "phonetic": "frʌs'treiʃәn",
+      "forms": [
+        "frustration"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "overlooked",
+      "headword": "overlook",
+      "kind": "word",
+      "zh": "vt. 俯瞰, 远眺, 没注意到\nn. 眺望, 俯瞰到的景色",
+      "en": "n. a high place affording a good view\nv. look past, fail to notice\nv. watch over",
+      "phonetic": ".әuvә'luk",
+      "forms": [
+        "overlooked"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "phenomenon",
+      "headword": "phenomenon",
+      "kind": "word",
+      "zh": "n. 现象, 迹象, 表现, 奇迹, 奇才\n[化] 现象",
+      "en": "n. any state or process known through the senses rather than by intuition or reasoning\nn. a remarkable development",
+      "phonetic": "fi'nɒminәn",
+      "forms": [
+        "phenomenon"
+      ],
+      "example": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "prediction",
+      "headword": "prediction",
+      "kind": "word",
+      "zh": "n. 预言, 预报\n[化] 预测",
+      "en": "n. the act of predicting (as by reasoning about the future)\nn. a statement made about the future",
+      "phonetic": "pri'dikʃәn",
+      "forms": [
+        "prediction"
+      ],
+      "example": "Fog prediction is incredibly important for aviation. But fog can also wreak havoc outside of airports.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "incredibly",
+      "headword": "incredibly",
+      "kind": "word",
+      "zh": "adv. 不能相信地",
+      "en": "r. not easy to believe",
+      "phonetic": "in'kredәbli",
+      "forms": [
+        "incredibly"
+      ],
+      "example": "Fog prediction is incredibly important for aviation. But fog can also wreak havoc outside of airports.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "aviation",
+      "headword": "aviation",
+      "kind": "word",
+      "zh": "n. 航空, 航空学, 飞行术\n[法] 航空, 飞行, 飞行术",
+      "en": "n. the aggregation of a country's military aircraft\nn. the operation of aircraft to provide transportation\nn. the art of operating aircraft",
+      "phonetic": ".eivi'eiʃәn",
+      "forms": [
+        "aviation"
+      ],
+      "example": "Most studies focus on the impact of fog on airports and the wider aviation industry.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "wreak",
+      "headword": "wreak",
+      "kind": "word",
+      "zh": "vt. 发泄(怒火), 报仇\n[法] 报仇, 报复, 施",
+      "en": "v cause to happen or to occur as a consequence",
+      "phonetic": "ri:k",
+      "forms": [
+        "wreak"
+      ],
+      "example": "But fog can also wreak havoc outside of airports.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "havoc",
+      "headword": "havoc",
+      "kind": "word",
+      "zh": "n. 大破坏, 蹂躏\nvt. 严重破坏",
+      "en": "n. violent and needless disturbance",
+      "phonetic": "'hævәk",
+      "forms": [
+        "havoc"
+      ],
+      "example": "But fog can also wreak havoc outside of airports.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "contributed",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contributed",
+        "contribute"
+      ],
+      "example": "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "crash",
+      "headword": "crash",
+      "kind": "word",
+      "zh": "n. 哗啦声, 猛撞, 崩溃, 粗布\nv. 撞碎, 破碎, (使)...坠毁\na. 速成的\n[计] 崩溃",
+      "en": "n. a serious accident (usually involving one or more vehicles)\nn. a sudden large decline of business or the prices of stocks (especially one that causes additional failures)\nn. the act of colliding with something\nn. (computer science) an event that causes a computer system to become inoperative",
+      "phonetic": "kræʃ",
+      "forms": [
+        "crash"
+      ],
+      "example": "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "freeway",
+      "headword": "freeway",
+      "kind": "word",
+      "zh": "n. 高速公路",
+      "en": "n a broad highway designed for high-speed traffic",
+      "phonetic": "'fri:wei",
+      "forms": [
+        "freeway"
+      ],
+      "example": "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "prompted",
+      "headword": "prompt",
+      "kind": "word",
+      "zh": "n. 激励, 提示, 提醒物, 提词, 付款期限\na. 迅速的, 敏捷的, 立刻的, 提词员的\nvt. 激励, 鼓动, 提示\nadv. 准时地\n[计] 提示符; DOS内部命令:设定DOS命令行的提示符",
+      "en": "n. a cue given to a performer (usually the beginning of the next line to be spoken)\nn. (computer science) a symbol that appears on the computer screen to indicate that the computer is ready to receive a command\nv. serve as the inciting cause of\nv. assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned",
+      "phonetic": "prɒmpt",
+      "forms": [
+        "prompted"
+      ],
+      "example": "These transport-related risks prompted us to conduct Australia’s first nationwide study of fog.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "australia",
+      "headword": "Australia",
+      "kind": "word",
+      "zh": "n. 澳洲, 澳大利亚",
+      "en": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean",
+      "phonetic": "ɒ'streiljә",
+      "forms": [
+        "australia"
+      ],
+      "example": "These transport-related risks prompted us to conduct Australia’s first nationwide study of fog.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "nationwide",
+      "headword": "nationwide",
+      "kind": "word",
+      "zh": "a. 全国性的\n[法] 全国的, 全国范围的",
+      "en": "s occurring or extending throughout a country or nation\nr extending throughout an entire nation",
+      "phonetic": "'neiʃәnwaid",
+      "forms": [
+        "nationwide"
+      ],
+      "example": "These transport-related risks prompted us to conduct Australia’s first nationwide study of fog.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "southern",
+      "headword": "southern",
+      "kind": "word",
+      "zh": "n. 南方人, 男风\na. 向南方的, 来自南方的",
+      "en": "a. in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the south",
+      "phonetic": "'sʌðәn",
+      "forms": [
+        "southern"
+      ],
+      "example": "We found fog is forming more often across southern Australia, in contrast to many other parts of the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "in contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "in contrast"
+      ],
+      "example": "We found fog is forming more often across southern Australia, in contrast to many other parts of the world.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v22",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "We found fog is forming more often across southern Australia, in contrast to many other parts of the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "low-lying",
+      "headword": "low-lying",
+      "kind": "word",
+      "zh": "a. 低的, 低地的",
+      "en": "s. having a small elevation above the ground or horizon or sea level\ns. lying below the normal level",
+      "phonetic": "",
+      "forms": [
+        "low-lying"
+      ],
+      "example": "Fog is a type of low-lying cloud that forms near Earth’s surface.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "cloud",
+      "headword": "cloud",
+      "kind": "word",
+      "zh": "n. 云, 阴暗, 烟雾, 疑团\nvt. 以云遮敝, 笼罩, 使黯然\nvi. 乌云密布, 阴沉",
+      "en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble",
+      "phonetic": "klaud",
+      "forms": [
+        "cloud",
+        "clouds"
+      ],
+      "example": "Fog is a type of low-lying cloud that forms near Earth’s surface.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "vapour",
+      "headword": "vapour",
+      "kind": "word",
+      "zh": "n. 汽, 蒸气\nvi. 蒸发, 吹牛\nvt. 使蒸发, 使汽化",
+      "en": "n a visible suspension in the air of particles of some substance\nn the process of becoming a vapor",
+      "phonetic": "'veipә",
+      "forms": [
+        "vapour"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "condense",
+      "headword": "condense",
+      "kind": "word",
+      "zh": "vt. 使浓缩, 使压缩, 缩短\nvi. 浓缩, 凝结",
+      "en": "v. undergo condensation; change from a gaseous to a liquid state and fall in drops\nv. remove water from\nv. cause a gas or vapor to change into a liquid\nv. become more compact or concentrated",
+      "phonetic": "kәn'dens",
+      "forms": [
+        "condense",
+        "condenses"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "droplets",
+      "headword": "droplet",
+      "kind": "word",
+      "zh": "n. 小滴\n[医] 小滴",
+      "en": "n. a tiny drop",
+      "phonetic": "'drɒplit",
+      "forms": [
+        "droplets"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "suspended",
+      "headword": "suspend",
+      "kind": "word",
+      "zh": "vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟\nvi. 暂停, 中止, 悬浮, 停止偿付债务\n[计] 暂停",
+      "en": "v. hang freely\nv. cause to be held in suspension in a fluid\nv. bar temporarily; from school, office, etc.\nv. make inoperative or stop",
+      "phonetic": "sә'spend",
+      "forms": [
+        "suspended"
+      ],
+      "example": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "block",
+      "headword": "block",
+      "kind": "word",
+      "zh": "n. 街区, 木块, 石块, 块\nvt. 阻塞, 封锁, 使成块状\n[计] 块, 数据块",
+      "en": "n. a solid piece of something (usually having flat rectangular sides)\nn. a rectangular area in a city surrounded by streets and usually containing several buildings\nn. a three-dimensional shape with six square or rectangular sides\nn. a number or quantity of related things dealt with as a unit",
+      "phonetic": "blɒk",
+      "forms": [
+        "block"
+      ],
+      "example": "These droplets, which are not heavy enough to fall as rain, block light from reaching our eyes.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "classify",
+      "headword": "classify",
+      "kind": "word",
+      "zh": "vt. 分类, 归类, 分等\n[建] 分类, 分级, 分粒",
+      "en": "v. arrange or order by classes or categories\nv. declare unavailable, as for security reasons",
+      "phonetic": "'klæsifai",
+      "forms": [
+        "classify"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "presence",
+      "headword": "presence",
+      "kind": "word",
+      "zh": "n. 出席, 面前, 存在, 仪态, 风度\n[电] 出现",
+      "en": "n. the state of being present; current existence\nn. the immediate proximity of someone or something\nn. an invisible spiritual being felt to be nearby\nn. the impression that something is present",
+      "phonetic": "'prezns",
+      "forms": [
+        "presence"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "visibility",
+      "headword": "visibility",
+      "kind": "word",
+      "zh": "n. 可见性, 能见度, 能见距离\n[计] 可见性",
+      "en": "n. quality or fact or degree of being visible; perceptible by the eye or obvious to the eye\nn. degree of exposure to public notice\nn. capability of providing a clear unobstructed view",
+      "phonetic": ".vizi'biliti",
+      "forms": [
+        "visibility"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "below",
+      "headword": "below",
+      "kind": "word",
+      "zh": "prep. 在下面\nadv. 在下面",
+      "en": "r. in or to a place that is lower\nr. at a later place\nr. (in writing) see below",
+      "phonetic": "bi'lәu",
+      "forms": [
+        "below"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "kilometre",
+      "headword": "kilometre",
+      "kind": "word",
+      "zh": "n. 公里, 千米",
+      "en": "n a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+      "phonetic": "'kilәjmi:tә(r)",
+      "forms": [
+        "kilometre",
+        "kilometres"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "metres",
+      "headword": "metre",
+      "kind": "word",
+      "zh": "n. 公尺, 格律, 韵律\n[医] 米, 公尺",
+      "en": "n the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)\nn (prosody) the accent in a metrical foot of verse\nn rhythm as given by division into parts of equal duration",
+      "phonetic": "'mi:tә",
+      "forms": [
+        "metres"
+      ],
+      "example": "Scientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "ingredients",
+      "headword": "ingredient",
+      "kind": "word",
+      "zh": "n. 成分, 因素\n[化] 配合剂; 拼料; 成分; 组分",
+      "en": "n. a component of a mixture or compound\nn. food that is a component of a mixture in cooking",
+      "phonetic": "in'gri:diәnt",
+      "forms": [
+        "ingredients"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "moisture",
+      "headword": "moisture",
+      "kind": "word",
+      "zh": "n. 湿气, 水分, 降雨\n[化] 含水量; 含湿量",
+      "en": "n. wetness caused by water",
+      "phonetic": "'mɒistʃә",
+      "forms": [
+        "moisture"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures",
+        "temperature"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "condensation",
+      "headword": "condensation",
+      "kind": "word",
+      "zh": "n. 压缩, 凝缩, 冷凝\n[化] 冷凝; 冷凝作用; 缩合; 缩合作用; 凝聚; 凝聚作用; 凝结作用",
+      "en": "n. (psychoanalysis) an unconscious process whereby two ideas or images combine into a single symbol; especially in dreams\nn. the process of changing from a gaseous to a liquid or solid state\nn. atmospheric moisture that has condensed because of cold",
+      "phonetic": ".kɒnden'seiʃәn",
+      "forms": [
+        "condensation"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "nuclei",
+      "headword": "nucleus",
+      "kind": "word",
+      "zh": "n. 核心, 核子, 原子核, 起点\n[计] 核心程序",
+      "en": "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction\nn. the positively charged dense center of an atom\nn. (astronomy) the center of the head of a comet; consists of small solid particles of ice and frozen gas that vaporizes on approaching the sun to form the coma and tail\nn. any histologically identifiable mass of neural cell bodies in the brain or spinal cord",
+      "phonetic": "'nju:kliәs",
+      "forms": [
+        "nuclei"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "particles",
+      "headword": "particle",
+      "kind": "word",
+      "zh": "n. 颗粒, 粒子, 质点, 极小量\n[化] 粒子; 质点",
+      "en": "n. a body having finite mass and internal structure but negligible dimensions\nn. a function word that can be used in English to form phrasal verbs",
+      "phonetic": "'pɑ:tikl",
+      "forms": [
+        "particles"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v45",
+      "term": "dust",
+      "headword": "dust",
+      "kind": "word",
+      "zh": "n. 灰尘, 尘埃, 粉末, 花粉, 土, 骚乱\nvt. 拂去灰尘, 撒, 弄成粉末\nvi. 拂去灰尘, 化为粉末",
+      "en": "n. fine powdery material such as dry earth or pollen that can be blown about in the air\nn. free microscopic particles of solid material\nv. remove the dust from\nv. rub the dust over a surface so as to blur the outlines of a shape",
+      "phonetic": "dʌst",
+      "forms": [
+        "dust"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "pollution",
+      "headword": "pollution",
+      "kind": "word",
+      "zh": "n. 污染, 玷污\n[化] 污染",
+      "en": "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities",
+      "phonetic": "pә'lu:ʃәn",
+      "forms": [
+        "pollution"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "molecules",
+      "headword": "molecule",
+      "kind": "word",
+      "zh": "n. 分子, 些微\n[化] 分子",
+      "en": "n. (physics and chemistry) the simplest structural unit of an element or compound",
+      "phonetic": "'mɒlikju:l",
+      "forms": [
+        "molecules"
+      ],
+      "example": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "mist",
+      "headword": "mist",
+      "kind": "word",
+      "zh": "n. 雾, 迷蒙, 朦胧不清\nvt. 使模糊, 使蒙上雾\nvi. 变模糊, 下雾",
+      "en": "n. a thin fog with condensation near the ground\nv. become covered with mist\nv. spray finely or cover with mist",
+      "phonetic": "mist",
+      "forms": [
+        "mist"
+      ],
+      "example": "What’s the difference between fog, mist and smog?",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "smog",
+      "headword": "smog",
+      "kind": "word",
+      "zh": "n. 烟雾\n[化] 烟雾",
+      "en": "n. air pollution by a mixture of smoke and fog",
+      "phonetic": "smәug",
+      "forms": [
+        "smog",
+        "smogs"
+      ],
+      "example": "What’s the difference between fog, mist and smog?",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "radiation",
+      "headword": "radiation",
+      "kind": "word",
+      "zh": "n. 辐射\n[化] 放射",
+      "en": "n. energy that is radiated or transmitted in the form of rays or waves or particles\nn. the act of spreading outward from a central source\nn. the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay\nn. the spread of a group of organisms into new habitats",
+      "phonetic": ".reidi'eiʃәn",
+      "forms": [
+        "radiation"
+      ],
+      "example": "There are several different types of fog, but in Australia radiation fog is the most common.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "common",
+      "headword": "common",
+      "kind": "word",
+      "zh": "a. 通常的, 共同的, 通俗的, 公共的\n[计] 公用块",
+      "en": "a. belonging to or participated in by a community as a whole; public\na. having no special distinction or quality; widely known or commonly encountered; average or ordinary or usual\ns. common to or shared by two or more parties\ns. commonly encountered",
+      "phonetic": "'kɒmәn",
+      "forms": [
+        "common"
+      ],
+      "example": "There are several different types of fog, but in Australia radiation fog is the most common.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "calm",
+      "headword": "calm",
+      "kind": "word",
+      "zh": "n. 平稳, 风平浪静\na. 平静的, 冷静的\nvi. 平静下来, 镇静\nvt. 使平静",
+      "en": "v. make calm or still\nv. become quiet or calm, especially after a state of agitation\ns. not agitated; without losing self-possession\na. (of weather) free from storm or wind",
+      "phonetic": "kɑ:m",
+      "forms": [
+        "calm"
+      ],
+      "example": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "disappears",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappears"
+      ],
+      "example": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "warms",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warms",
+        "warm",
+        "warmer",
+        "warming"
+      ],
+      "example": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "effectively",
+      "headword": "effectively",
+      "kind": "word",
+      "zh": "adv. 有效地, 有力地, 实际上",
+      "en": "r. in actuality or reality or fact",
+      "phonetic": "i'fektivli",
+      "forms": [
+        "effectively"
+      ],
+      "example": "This is because land releases heat back into space more effectively on clear, starry nights compared to cloudy ones.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "starry",
+      "headword": "starry",
+      "kind": "word",
+      "zh": "a. 星光照耀的, 多星的, 星形的, 明亮的",
+      "en": "a. abounding with or resembling stars",
+      "phonetic": "'stɑ:ri",
+      "forms": [
+        "starry"
+      ],
+      "example": "This is because land releases heat back into space more effectively on clear, starry nights compared to cloudy ones.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "cloudy",
+      "headword": "cloudy",
+      "kind": "word",
+      "zh": "a. 多云的, 有愁容的, 云的, 浑浊的\n[建] (混)浊的",
+      "en": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment",
+      "phonetic": "'klaudi",
+      "forms": [
+        "cloudy"
+      ],
+      "example": "This is because land releases heat back into space more effectively on clear, starry nights compared to cloudy ones.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "moist",
+      "headword": "moist",
+      "kind": "word",
+      "zh": "a. 潮湿的, 多雨的, 感伤的, 含泪的\n[医] 湿的",
+      "en": "s slightly wet",
+      "phonetic": "mɒist",
+      "forms": [
+        "moist"
+      ],
+      "example": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "flows",
+      "headword": "flow",
+      "kind": "word",
+      "zh": "n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮\nvi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出\nvt. 使流动, 淹没, 流出",
+      "en": "n. the motion characteristic of fluids (liquids or gases)\nn. the amount of fluid that flows in a given time\nn. the act of flowing or streaming; continuous progression\nn. any uninterrupted stream or discharge",
+      "phonetic": "flәu",
+      "forms": [
+        "flows"
+      ],
+      "example": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "desert",
+      "headword": "desert",
+      "kind": "word",
+      "zh": "n. 沙漠, 应得的赏罚, 功劳\na. 沙漠的, 不毛的\nvt. 放弃, 遗弃, 擅离\nvi. 逃掉",
+      "en": "n. arid land with little or no vegetation\nv. leave behind",
+      "phonetic": "'dezәt. di'sә:t",
+      "forms": [
+        "desert"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "regular",
+      "headword": "regular",
+      "kind": "word",
+      "zh": "a. 规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的\nn. 正规军, 正式队员\nadv. 经常地\nn. 正常体\n[计] 正常体",
+      "en": "n. a regular patron\nn. a soldier in the regular army\nn. a dependable follower (especially in party politics)\nn. a garment size for persons of average height and weight",
+      "phonetic": "'regjulә",
+      "forms": [
+        "regular"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "fogs",
+      "headword": "fog",
+      "kind": "word",
+      "zh": "n. 雾, 迷惑, (割后的)最生草, 苔藓\nvi. 被雾笼罩, 变模糊\nvt. 使困惑, 以雾笼罩",
+      "en": "n. droplets of water vapor suspended in the air near the ground\nn. an atmosphere in which visibility is reduced because of a cloud of some substance",
+      "phonetic": "fɒg",
+      "forms": [
+        "fogs"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "meshes",
+      "headword": "mesh",
+      "kind": "word",
+      "zh": "n. 网孔, 网丝, 网眼, 网状物, 圈套, 陷阱, 啮合\nvt. 以网捕捉, 啮合, 使缠住\nvi. 落网, 相啮合",
+      "en": "n. the number of openings per linear inch of a screen; measures size of particles\nn. the act of interlocking or meshing\nv. work together in harmony",
+      "phonetic": "meʃ",
+      "forms": [
+        "meshes"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "drinking water",
+      "headword": "drinking water",
+      "kind": "phrase",
+      "zh": "饮用水",
+      "en": "water intended to be consumed by people",
+      "forms": [
+        "drinking water"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v68",
+      "term": "lettuce",
+      "headword": "lettuce",
+      "kind": "word",
+      "zh": "n. 莴苣, 生菜, 纸币\n[医] 莴苣",
+      "en": "n. any of various plants of the genus Lactuca\nn. leaves of any of various plants of Lactuca sativa",
+      "phonetic": "'letis",
+      "forms": [
+        "lettuce"
+      ],
+      "example": "In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "dense",
+      "headword": "dense",
+      "kind": "word",
+      "zh": "a. 密集的, 浓厚的",
+      "en": "s. permitting little if any light to pass through because of denseness of matter\ns. hard to pass through because of dense growth\ns. having high relative density or specific gravity\ns. slow to learn or understand; lacking intellectual acuity",
+      "phonetic": "dens",
+      "forms": [
+        "dense"
+      ],
+      "example": "Mist is like fog, but less dense. This type of low-level cloud reduces visibility to between one and five kilometres.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "low-level",
+      "headword": "low-level",
+      "kind": "word",
+      "zh": "a. 低水平的",
+      "en": "s. not intense\ns. at a low level in rank or importance\ns. occurring at a relatively low altitude",
+      "phonetic": "",
+      "forms": [
+        "low-level"
+      ],
+      "example": "This type of low-level cloud reduces visibility to between one and five kilometres.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "merging",
+      "headword": "merge",
+      "kind": "word",
+      "zh": "vt. 使合并, 使消失, 吞没\nvi. 合并, 渐渐消失\n[计] 合并",
+      "en": "v become one\nv mix together different elements\nv join or combine",
+      "phonetic": "mә:dʒ",
+      "forms": [
+        "merging"
+      ],
+      "example": "When pollution mixes with a low-level cloud, we call this smog, a merging of the words smoke and fog.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "smoke",
+      "headword": "smoke",
+      "kind": "word",
+      "zh": "n. 烟, 雾气, 烟熏剂, 抽烟, 烟色\nvi. 吸烟, 冒烟, 弥漫\nvt. 以烟熏, 抽烟而导致...",
+      "en": "n. a cloud of fine particles suspended in a gas\nn. a hot vapor containing fine particles of carbon being produced by combustion\nn. an indication of some hidden activity\nn. something with no concrete substance",
+      "phonetic": "smәuk",
+      "forms": [
+        "smoke"
+      ],
+      "example": "When pollution mixes with a low-level cloud, we call this smog, a merging of the words smoke and fog.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "introduced",
+      "headword": "introduce",
+      "kind": "word",
+      "zh": "vt. 介绍, 引入, 采用, 输入\n[法] 引进, 输入, 介绍",
+      "en": "v. cause to come to know personally\nv. bring something new to an environment\nv. bring in or establish in a new place or environment\nv. bring before the public for the first time, as of an actor, song, etc.",
+      "phonetic": ".intrә'dju:s",
+      "forms": [
+        "introduced"
+      ],
+      "example": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "deadly",
+      "headword": "deadly",
+      "kind": "word",
+      "zh": "a. 致命的, 致死的\nadv. 非常, 如死一般地",
+      "en": "s. causing or capable of causing death\ns. of an instrument of certain death\ns. extremely poisonous or injurious; producing venom\ns. involving loss of divine grace or spiritual death",
+      "phonetic": "'dedli",
+      "forms": [
+        "deadly"
+      ],
+      "example": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "plagued",
+      "headword": "plague",
+      "kind": "word",
+      "zh": "n. 瘟疫, 天罚, 麻烦, 灾祸\nvt. 折磨, 使苦恼, 使得灾祸",
+      "en": "n. a serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal\nn. any epidemic disease with a high death rate\nn. any large scale calamity (especially when thought to be sent by God)\nn. an annoyance",
+      "phonetic": "pleig",
+      "forms": [
+        "plagued"
+      ],
+      "example": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "industrial",
+      "headword": "industrial",
+      "kind": "word",
+      "zh": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
+      "en": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear",
+      "phonetic": "in'dʌstriәl",
+      "forms": [
+        "industrial"
+      ],
+      "example": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "haze",
+      "headword": "haze",
+      "kind": "word",
+      "zh": "n. 薄雾, 阴霾, 疑惑\nvt. 使变朦胧, 使变糊涂\nvi. 变朦胧, 变糊涂",
+      "en": "n. atmospheric moisture or dust or smoke that causes reduced visibility\nv. become hazy, dull, or cloudy\nv. harass by imposing humiliating or painful tasks, as in military institutions",
+      "phonetic": "heiz",
+      "forms": [
+        "haze"
+      ],
+      "example": "A related weather phenomenon is haze, which forms when polluted air limits visibility but doesn’t contain enough water to form a cloud.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "polluted",
+      "headword": "pollute",
+      "kind": "word",
+      "zh": "vt. 污染, 弄脏, 玷污\n[化] 污染",
+      "en": "v. make impure",
+      "phonetic": "pә'lu:t",
+      "forms": [
+        "polluted"
+      ],
+      "example": "A related weather phenomenon is haze, which forms when polluted air limits visibility but doesn’t contain enough water to form a cloud.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "limits",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limits"
+      ],
+      "example": "A related weather phenomenon is haze, which forms when polluted air limits visibility but doesn’t contain enough water to form a cloud.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "cape",
+      "headword": "cape",
+      "kind": "word",
+      "zh": "n. 岬, 海角, 披肩, 斗蓬",
+      "en": "n. a strip of land projecting into a body of water\nn. a sleeveless garment like a cloak but shorter",
+      "phonetic": "keip",
+      "forms": [
+        "cape"
+      ],
+      "example": "Fog is less common in Australia compared to other parts of the world such as Delhi, San Francisco and Cape Town.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "Our warmer climate, relatively clean air and warm ocean currents all contribute to this.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "Our warmer climate, relatively clean air and warm ocean currents all contribute to this.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "clean",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "clean"
+      ],
+      "example": "Our warmer climate, relatively clean air and warm ocean currents all contribute to this.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "ocean currents",
+      "headword": "ocean currents",
+      "kind": "phrase",
+      "zh": "洋流",
+      "en": "large-scale movements of seawater",
+      "forms": [
+        "ocean currents"
+      ],
+      "example": "Our warmer climate, relatively clean air and warm ocean currents all contribute to this.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v86",
+      "term": "As a result",
+      "headword": "as a result",
+      "kind": "phrase",
+      "zh": "因此；结果",
+      "en": "as a consequence of something",
+      "forms": [
+        "As a result"
+      ],
+      "example": "As a result, there isn’t much research into fog trends in Australia.",
+      "paragraph": 18,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v87",
+      "term": "trends",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trends",
+        "trend"
+      ],
+      "example": "As a result, there isn’t much research into fog trends in Australia.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "perspective",
+      "headword": "perspective",
+      "kind": "word",
+      "zh": "n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图\na. 透视的, 透视法的\n[计] 透视",
+      "en": "n. the appearance of things relative to one another as determined by their distance from the viewer",
+      "phonetic": "pә'spektiv",
+      "forms": [
+        "perspective"
+      ],
+      "example": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "observe",
+      "headword": "observe",
+      "kind": "word",
+      "zh": "vt. 觉察到, 遵守, 注意到, 庆祝\nvi. 注意, 评论",
+      "en": "v. watch attentively\nv. behave as expected during of holidays or rites\nv. stick to correctly or closely\nv. conform one's action or practice to",
+      "phonetic": "әb'zә:v",
+      "forms": [
+        "observe"
+      ],
+      "example": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "instruments",
+      "headword": "instrument",
+      "kind": "word",
+      "zh": "n. 工具, 手段, 仪器\n[化] 仪器",
+      "en": "n. a device that requires skill for proper use\nn. the means whereby some act is accomplished\nn. a person used by another to gain an end\nv. equip with instruments for measuring, recording, or controlling",
+      "phonetic": "'instrumәnt",
+      "forms": [
+        "instruments"
+      ],
+      "example": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "located",
+      "headword": "locate",
+      "kind": "word",
+      "zh": "vt. 找出, 设于, 位于\nvi. 定居",
+      "en": "v. discover the location of; determine the place of; find by searching or examining\nv. assign a location to",
+      "phonetic": "'lәukeit",
+      "forms": [
+        "located"
+      ],
+      "example": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "bureau",
+      "headword": "bureau",
+      "kind": "word",
+      "zh": "n. 局, 办公处\n[经] 局, 司, 处",
+      "en": "n an administrative unit of government\nn furniture with drawers for keeping clothes",
+      "phonetic": "'bjuәrәu",
+      "forms": [
+        "bureau"
+      ],
+      "example": "For our new study, we used the Bureau of Meteorology’s high resolution reanalysis.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "resolution",
+      "headword": "resolution",
+      "kind": "word",
+      "zh": "n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解\nn. 图形分辨率\n[计] 图形分辨率",
+      "en": "n. a formal expression by a meeting; agreed to by a vote\nn. finding a solution to a problem\nn. analysis into clear-cut components\nn. (computer science) the number of pixels per square inch on a computer-generated display; the greater the resolution, the better the picture",
+      "phonetic": ".rezә'lu:ʃәn",
+      "forms": [
+        "resolution"
+      ],
+      "example": "For our new study, we used the Bureau of Meteorology’s high resolution reanalysis.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "reanalysis",
+      "headword": "reanalysis",
+      "kind": "word",
+      "zh": "[计]再分析, 重新分析",
+      "en": "",
+      "phonetic": "'ri:nələsɪs",
+      "forms": [
+        "reanalysis"
+      ],
+      "example": "For our new study, we used the Bureau of Meteorology’s high resolution reanalysis.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "tool",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tool"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "combines",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combines"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "humidity",
+      "headword": "humidity",
+      "kind": "word",
+      "zh": "n. 湿气, 潮湿, 湿度\n[计] 湿度",
+      "en": "n. wetness in the atmosphere",
+      "phonetic": "hju:'miditi",
+      "forms": [
+        "humidity"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "advanced",
+      "headword": "advance",
+      "kind": "word",
+      "zh": "n. 前进, 进展, 行过的路程\nvi. 前进, 进展, 提高, 上涨\nvt. 使前进, 促进, 提出, 提高, 使提前, 预付\na. 前面的, 预先的",
+      "en": "n. an amount paid before it is earned\nn. increase in price or value\nv. move forward, also in the metaphorical sense\nv. bring forward for consideration or acceptance",
+      "phonetic": "әd'vɑ:ns",
+      "forms": [
+        "advanced"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "estimate",
+      "headword": "estimate",
+      "kind": "word",
+      "zh": "n. 估计, 判断\nvt. 估计, 评价, 判断\nvi. 估计",
+      "en": "n. an approximate calculation of quantity or degree or worth\nn. a judgment of the qualities of something or somebody\nn. a statement indicating the likely cost of some job\nn. the respect with which a person is held",
+      "phonetic": "'estimeit",
+      "forms": [
+        "estimate"
+      ],
+      "example": "This tool combines weather observations about temperature, pressure, humidity and winds with advanced weather models to estimate whether fog was present each hour from 1980 to 2024.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "autumn",
+      "headword": "autumn",
+      "kind": "word",
+      "zh": "n. 秋天, 成熟期",
+      "en": "n the season when the leaves fall from the trees",
+      "phonetic": "'ɒ:tәm",
+      "forms": [
+        "autumn"
+      ],
+      "example": "Our study shows fog is most common in Australia from autumn to spring.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "foggiest",
+      "headword": "foggy",
+      "kind": "word",
+      "zh": "a. 雾深的, 模糊的",
+      "en": "s stunned or confused and slow to react (as from blows or drunkenness or exhaustion)\ns indistinct or hazy in outline\ns filled or abounding with fog or mist\ns obscured by fog",
+      "phonetic": "'fɒgi",
+      "forms": [
+        "foggiest",
+        "foggy"
+      ],
+      "example": "Canberra is by far the foggiest city in Australia, likely because it is in a valley.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "coast",
+      "headword": "coast",
+      "kind": "word",
+      "zh": "n. 海岸, 滑坡\nv. 沿海岸而行",
+      "en": "n. a slope down which sleds may coast\nn. the area within view\nv. move effortlessly; by force of gravity",
+      "phonetic": "kәust",
+      "forms": [
+        "coast"
+      ],
+      "example": "In general, the closer you are to the coast, the more likely you are to experience fog due to more moisture being available in the air.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "mountains",
+      "headword": "mountain",
+      "kind": "word",
+      "zh": "n. 山, 山脉, 大堆",
+      "en": "n. a land mass that projects well above its surroundings; higher than a hill",
+      "phonetic": "'mauntin",
+      "forms": [
+        "mountains"
+      ],
+      "example": "Areas with mountains and valleys, such as the Great Dividing Range, are particularly prone to fog.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "valleys",
+      "headword": "valley",
+      "kind": "word",
+      "zh": "n. 山谷, 溪谷, 流域, 凹地\n[医] 谷",
+      "en": "n. a long depression in the surface of the land that usually contains a river",
+      "phonetic": "'væli",
+      "forms": [
+        "valleys",
+        "valley"
+      ],
+      "example": "Areas with mountains and valleys, such as the Great Dividing Range, are particularly prone to fog.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "dividing",
+      "headword": "divide",
+      "kind": "word",
+      "zh": "vi. 分开, 分配, 分裂\nvt. 分, 分开, 分裂, 除\nn. 分配, 分水岭\n[计] 除",
+      "en": "n. a serious disagreement between two groups of people (typically producing tension or hostility)\nv. separate into parts or portions\nv. perform a division",
+      "phonetic": "di'vaid",
+      "forms": [
+        "dividing"
+      ],
+      "example": "Areas with mountains and valleys, such as the Great Dividing Range, are particularly prone to fog.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "prone",
+      "headword": "prone",
+      "kind": "word",
+      "zh": "a. 俯伏的, 面向下的, 有...倾向的\n[医] 旋前的, 伏的, 俯的",
+      "en": "s. having a tendency (to); often used in combination\ns. lying face downward",
+      "phonetic": "prәun",
+      "forms": [
+        "prone"
+      ],
+      "example": "Areas with mountains and valleys, such as the Great Dividing Range, are particularly prone to fog.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "canberra",
+      "headword": "Canberra",
+      "kind": "word",
+      "zh": "n. 堪培拉",
+      "en": "n. the capital of Australia; located in southeastern Australia",
+      "phonetic": "'kænbәrә",
+      "forms": [
+        "canberra"
+      ],
+      "example": "Canberra is by far the foggiest city in Australia, likely because it is in a valley.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "flights",
+      "headword": "flight",
+      "kind": "word",
+      "zh": "n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝\nvi. 迁徙\nvt. 射击(飞禽), 为(箭)装上羽毛, 使惊飞",
+      "en": "n. a formation of aircraft in flight\nn. an instance of traveling by air\nn. a stairway (set of steps) between one floor or landing and the next\nn. an air force unit smaller than a squadron",
+      "phonetic": "flait",
+      "forms": [
+        "flights"
+      ],
+      "example": "It pays to keep that in mind when booking morning flights to or from Canberra, particularly in winter.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "coastal",
+      "headword": "coastal",
+      "kind": "word",
+      "zh": "a. 海岸的, 沿海的, 沿岸的\n[法] 海岸的, 沿海的",
+      "en": "a. of or relating to a coast\na. located on or near or bordering on a coast",
+      "phonetic": "'kәustәl",
+      "forms": [
+        "coastal"
+      ],
+      "example": "The coastal Northern Territory also appears to be a hotspot for fog.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "northern",
+      "headword": "northern",
+      "kind": "word",
+      "zh": "n. 北方人\na. 北方的, 向北的, 自北方来的",
+      "en": "n. a dialect of Middle English that developed into Scottish Lallans\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the north",
+      "phonetic": "'nɒ:ðәn",
+      "forms": [
+        "northern"
+      ],
+      "example": "The coastal Northern Territory also appears to be a hotspot for fog.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "territory",
+      "headword": "territory",
+      "kind": "word",
+      "zh": "n. 领土, 领地, 版图, 地区, 活动范围\n[经] (推销员等的)推销区域",
+      "en": "n. an area of knowledge or interest\nn. the geographical area under the jurisdiction of a sovereign state",
+      "phonetic": "'teritәri",
+      "forms": [
+        "territory"
+      ],
+      "example": "The coastal Northern Territory also appears to be a hotspot for fog.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "hotspot",
+      "headword": "hotspot",
+      "kind": "word",
+      "zh": "n. 热区；热点",
+      "en": "n a place of political unrest and potential violence\nn a point of relatively intense heat or radiation\nn a lively entertainment spot",
+      "phonetic": "",
+      "forms": [
+        "hotspot"
+      ],
+      "example": "The coastal Northern Territory also appears to be a hotspot for fog.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "unclear",
+      "headword": "unclear",
+      "kind": "word",
+      "zh": "a. 不易了解的, 不清楚的, 含混的",
+      "en": "a. not clear to the mind",
+      "phonetic": ".ʌn'kliә",
+      "forms": [
+        "unclear"
+      ],
+      "example": "But it’s unclear why or how reliable this result is, given the lack of fog observations in the Australian tropics.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "reliable",
+      "headword": "reliable",
+      "kind": "word",
+      "zh": "a. 可靠的, 可信赖的\n[法] 可靠的, 可信赖的, 确实的",
+      "en": "a. worthy of reliance or trust",
+      "phonetic": "ri'laiәbl",
+      "forms": [
+        "reliable"
+      ],
+      "example": "But it’s unclear why or how reliable this result is, given the lack of fog observations in the Australian tropics.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack"
+      ],
+      "example": "But it’s unclear why or how reliable this result is, given the lack of fog observations in the Australian tropics.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "australian",
+      "headword": "Australian",
+      "kind": "word",
+      "zh": "n. 澳大利亚人\na. 澳大利亚的, 澳洲的, 澳洲人的",
+      "en": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages",
+      "phonetic": "ɒ'streiljәn",
+      "forms": [
+        "australian"
+      ],
+      "example": "But it’s unclear why or how reliable this result is, given the lack of fog observations in the Australian tropics.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "tropics",
+      "headword": "tropics",
+      "kind": "word",
+      "zh": "n. 热带地区",
+      "en": "n the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn; characterized by a hot climate\nn either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the Torrid Zone or tropics",
+      "phonetic": "",
+      "forms": [
+        "tropics"
+      ],
+      "example": "But it’s unclear why or how reliable this result is, given the lack of fog observations in the Australian tropics.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "eyre",
+      "headword": "eyre",
+      "kind": "word",
+      "zh": "n. 巡回, 巡回法院\n[法] 巡回, 巡回法庭",
+      "en": "n. a shallow salt lake in south central Australia about 35 feet below sea level; the largest lake in the country and the lowest point on the continent",
+      "phonetic": "єә",
+      "forms": [
+        "eyre"
+      ],
+      "example": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "peninsula",
+      "headword": "peninsula",
+      "kind": "word",
+      "zh": "n. 半岛, 突出的地方, 伊比利亚半岛",
+      "en": "n. a large mass of land projecting into a body of water",
+      "phonetic": "pi'ninsjulә",
+      "forms": [
+        "peninsula"
+      ],
+      "example": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "southeast",
+      "headword": "southeast",
+      "kind": "word",
+      "zh": "n. 东南, 东南地区\na. 东南的, 向东南的, 来自东南的\nadv. 往东南, 来自东南",
+      "en": "n. the compass point midway between south and east; at 135 degrees\nn. the southeastern region of the United States\nn. the direction corresponding to the southeastward compass point",
+      "phonetic": "sauθ'i:st",
+      "forms": [
+        "southeast"
+      ],
+      "example": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "In these regions between 1980 and 2024, there was about an extra 30 minutes to one hour of fog each year.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "That might not sound like much, but these places typically record fewer than 50 hours of fog over an entire winter.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "bucking",
+      "headword": "buck",
+      "kind": "word",
+      "zh": "n. 元, 雄鹿, 纨绔子弟, 鞍马, 培克(赌博时的庄家标志), 碱水, 自夸, 谈话\nvi. 马背突然拱起, 反对, 吹牛, 闲聊\nvt. 马背突然拱起将骑手摔下, 反对, 用碱水洗\na. 雄的",
+      "en": "n. United States author whose novels drew on her experiences as a missionary in China (1892-1973)\nn. mature male of various mammals (especially deer or antelope)\nv. to strive with determination\nv. resist",
+      "phonetic": "bʌk",
+      "forms": [
+        "bucking"
+      ],
+      "example": "Bucking the trend",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "decreasing",
+      "headword": "decrease",
+      "kind": "word",
+      "zh": "n. 减少, 减少量\nv. 减少",
+      "en": "n. a change downward\nn. a process of becoming smaller or shorter\nn. the amount by which something decreases\nn. the act of decreasing or reducing something",
+      "phonetic": "'di:kri:s",
+      "forms": [
+        "decreasing"
+      ],
+      "example": "This result goes against the global trend of decreasing fog.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "global warming",
+      "headword": "global warming",
+      "kind": "phrase",
+      "zh": "全球变暖",
+      "en": "an increase in Earth's average surface temperature",
+      "forms": [
+        "global warming"
+      ],
+      "example": "Many places around the world are experiencing less fog due to global warming and reduced air pollution.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v129",
+      "term": "suspect",
+      "headword": "suspect",
+      "kind": "word",
+      "zh": "n. 被怀疑者, 嫌疑犯\na. 令人怀疑的, 不可信的, 可疑的\nv. 怀疑, 猜想",
+      "en": "n. someone who is under suspicion\nv. imagine to be the case or true or probable\nv. hold in suspicion; believe to be guilty",
+      "phonetic": "sә'spekt",
+      "forms": [
+        "suspect"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v132",
+      "term": "weather patterns",
+      "headword": "weather patterns",
+      "kind": "phrase",
+      "zh": "天气模式",
+      "en": "recurring arrangements of weather conditions",
+      "forms": [
+        "weather patterns"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v133",
+      "term": "scarcer",
+      "headword": "scarce",
+      "kind": "word",
+      "zh": "a. 难得的, 稀罕的, 缺乏的",
+      "en": "a. deficient in quantity or number compared with the demand",
+      "phonetic": "skɑ:s",
+      "forms": [
+        "scarcer"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "rainfall",
+      "headword": "rainfall",
+      "kind": "word",
+      "zh": "n. 降雨, 降雨量\n[经] 降雨量",
+      "en": "n water falling in drops from vapor condensed in the atmosphere",
+      "phonetic": "'reinfɒ:l",
+      "forms": [
+        "rainfall"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "frequent",
+      "headword": "frequent",
+      "kind": "word",
+      "zh": "a. 时常发生的, 频繁的, 快速的\nvt. 时常来访, 常常聚集, 常与...交往",
+      "en": "v. be a regular or frequent visitor to a certain place\na. coming at short intervals or habitually\ns. frequently encountered;",
+      "phonetic": "'fri:kwәnt",
+      "forms": [
+        "frequent"
+      ],
+      "example": "We suspect southern Australia’s increasing fog trend is linked to broader weather patterns, particularly scarcer rainfall and more frequent high pressure systems during winter.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "high-pressure",
+      "headword": "high-pressure",
+      "kind": "word",
+      "zh": "a. 高压的, 高气压的, 强行的\nvt. 施以高压, 强迫",
+      "en": "s aggressively and persistently persuasive",
+      "phonetic": "",
+      "forms": [
+        "high-pressure"
+      ],
+      "example": "High-pressure systems discourage cloud formation, producing clear winter nights that often lead to foggy mornings.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "discourage",
+      "headword": "discourage",
+      "kind": "word",
+      "zh": "vt. 使气馁, 阻碍",
+      "en": "v. deprive of courage or hope; take away hope from; cause to feel discouraged",
+      "phonetic": "dis'kʌridʒ",
+      "forms": [
+        "discourage"
+      ],
+      "example": "High-pressure systems discourage cloud formation, producing clear winter nights that often lead to foggy mornings.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "formation",
+      "headword": "formation",
+      "kind": "word",
+      "zh": "n. 形成, 构造, 编队\n[医] 形成, 结构",
+      "en": "n. an arrangement of people or things acting as a unit\nn. the act of fabricating something in a particular shape\nn. a particular spatial arrangement\nn. natural process that causes something to form",
+      "phonetic": "fɒ:'meiʃәn",
+      "forms": [
+        "formation"
+      ],
+      "example": "High-pressure systems discourage cloud formation, producing clear winter nights that often lead to foggy mornings.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "lead to",
+      "headword": "lead to",
+      "kind": "phrase",
+      "zh": "导致",
+      "en": "to cause a result",
+      "forms": [
+        "lead to"
+      ],
+      "example": "High-pressure systems discourage cloud formation, producing clear winter nights that often lead to foggy mornings.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v140",
+      "term": "invest",
+      "headword": "invest",
+      "kind": "word",
+      "zh": "vt. 投资, 花费, 笼罩, 授予\nvi. 投资, 利用",
+      "en": "v. make an investment\nv. furnish with power or authority; of kings or emperors\nv. provide with power and authority",
+      "phonetic": "in'vest",
+      "forms": [
+        "invest"
+      ],
+      "example": "We must also keep improving our weather models and invest in Australia’s weather and climate modelling sectors.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "sectors",
+      "headword": "sector",
+      "kind": "word",
+      "zh": "n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段\nvt. 把...分成扇形\n[计] 扇面; 扇区; 段; 区段",
+      "en": "n. a plane figure bounded by two radii and the included arc of a circle\nn. a social group that forms part of the society or the economy\nn. a particular aspect of life or activity\nn. the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes",
+      "phonetic": "'sektә",
+      "forms": [
+        "sectors"
+      ],
+      "example": "We must also keep improving our weather models and invest in Australia’s weather and climate modelling sectors.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "pile",
+      "headword": "pile",
+      "kind": "word",
+      "zh": "n. 堆, 大堆, 大厦, 建筑群, 电池, 大量, 桥桩, 软毛, 痔疮\nvi. 堆起, 堆积, 积累, 挤, 猛烈攻击\nvt. 堆于, 累积, 堆叠, 打桩于, 用桩支撑",
+      "en": "n. a collection of objects laid on top of each other\nn. a large sum of money (especially as pay or profit)\nn. a column of wood or steel or concrete that is driven into the ground to provide support for a structure\nn. the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "phonetic": "pail",
+      "forms": [
+        "pile"
+      ],
+      "example": "Only then can we prepare for future fogs, avoiding as many grounded flights and multi-car pile ups as possible.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      14
+    ],
+    "wordBank": [
+      "molecules",
+      "weather",
+      "deadly",
+      "warms",
+      "crash",
+      "ingredients",
+      "moist",
+      "low-lying",
+      "block",
+      "dense"
+    ],
+    "parts": [
+      {
+        "text": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " phenomenon can cause.\n\nFog prediction is incredibly important for aviation. But fog can also wreak havoc outside of airports.\n\nIn December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " on Victoria’s Western Freeway.\n\nThese transport-related risks prompted us to conduct Australia’s first nationwide study of fog. We found fog is forming more often across southern Australia, in contrast to many other parts of the world.\n\nHow fog forms\n\nFog is a type of "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " cloud that forms near Earth’s surface. When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air. These droplets, which are not heavy enough to fall as rain, "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " light from reaching our eyes.\n\nScientists classify low clouds as fog if their presence reduces visibility to below one kilometre, meaning you can only see objects within 1,000 metres.\n\nThree main "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " to meet and form larger droplets.\n\nWhat’s the difference between fog, mist and smog?\n\nThere are several different types of fog, but in Australia radiation fog is the most common.\n\nRadiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " up again. This is because land releases heat back into space more effectively on clear, starry nights compared to cloudy ones. As the land cools, moisture near the surface condenses into fog.\n\nAnother type of fog is sea fog, which forms when warm, "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " air flows over cooler ocean waters. In Chile’s Atacama Desert, regular sea fogs are captured by huge meshes to produce drinking water and even grow lettuce.\n\nMist is like fog, but less "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ". This type of low-level cloud reduces visibility to between one and five kilometres.\n\nWhen pollution mixes with a low-level cloud, we call this smog, a merging of the words smoke and fog. Before air pollution laws were introduced in the 1950s, "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "weather",
+        "vocabularyId": "v7",
+        "explanation": "原文此处使用 weather（weather）。结合上下文辨认词义与词形。",
+        "evidence": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
+        "paragraph": 1
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "crash",
+        "vocabularyId": "v15",
+        "explanation": "原文此处使用 crash（crash）。结合上下文辨认词义与词形。",
+        "evidence": "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
+        "paragraph": 3
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "low-lying",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 low-lying（low-lying）。结合上下文辨认词义与词形。",
+        "evidence": "Fog is a type of low-lying cloud that forms near Earth’s surface.",
+        "paragraph": 6
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "block",
+        "vocabularyId": "v31",
+        "explanation": "原文此处使用 block（block）。结合上下文辨认词义与词形。",
+        "evidence": "These droplets, which are not heavy enough to fall as rain, block light from reaching our eyes.",
+        "paragraph": 6
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "ingredients",
+        "vocabularyId": "v38",
+        "explanation": "原文此处使用 ingredients（ingredient）。结合上下文辨认词义与词形。",
+        "evidence": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+        "paragraph": 8
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "molecules",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 molecules（molecule）。结合上下文辨认词义与词形。",
+        "evidence": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
+        "paragraph": 8
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "warms",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 warms（warm）。结合上下文辨认词义与词形。",
+        "evidence": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "moist",
+        "vocabularyId": "v59",
+        "explanation": "原文此处使用 moist（moist）。结合上下文辨认词义与词形。",
+        "evidence": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "dense",
+        "vocabularyId": "v69",
+        "explanation": "原文此处使用 dense（dense）。结合上下文辨认词义与词形。",
+        "evidence": "Mist is like fog, but less dense. This type of low-level cloud reduces visibility to between one and five kilometres.",
+        "paragraph": 13
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "deadly",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 deadly（deadly）。结合上下文辨认词义与词形。",
+        "evidence": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
+        "paragraph": 14
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Research documents an increase in foggy days in southern Australia and explores its causes.",
+          "Routine water-quality reports cover only part of what matters for understanding drinking water.",
+          "Predicting some El Niño events further ahead could improve preparation for their consequences.",
+          "Dry climates can increase river nitrate pollution even far from intensive human activity."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+        "paragraph": 25
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How do fog droplets form?",
+        "options": [
+          "Water vapour cools enough to condense into suspended liquid droplets.",
+          "Liquid water turns directly into dry sand.",
+          "Air stops containing any water at all.",
+          "Sunlight turns every gas molecule into a crystal."
+        ],
+        "answer": 0,
+        "explanation": "第 6 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "When water vapour in the air cools enough to condense into a liquid, tiny droplets of water are suspended in the air.",
+        "paragraph": 6
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 12?",
+        "options": [
+          "Canberra is by far the foggiest city in Australia, likely because it is in a valley.",
+          "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
+          "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+          "Most studies focus on the impact of fog on airports and the wider aviation industry."
+        ],
+        "answer": 2,
+        "explanation": "定位第 12 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
+        "paragraph": 12
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.”",
+        "options": [
+          "Paragraph 19",
+          "Paragraph 10",
+          "Paragraph 15",
+          "Paragraph 30"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "From a practical perspective, fog is hard to observe and requires special instruments that are typically only located at airports.",
+        "paragraph": 19
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.”",
+        "options": [
+          "Paragraph 11",
+          "Paragraph 25",
+          "Paragraph 30",
+          "Paragraph 19"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 25 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Most surprisingly, our findings suggest more winter fog is forming over parts of southern Australia, particularly in western Victoria, South Australia’s Eyre Peninsula and southeast Western Australia.",
+        "paragraph": 25
+      }
+    ]
+  },
+  "revision": "143cff8fe30406d205a4f4f543b96bba605000d19567764dcce32e9dec8f8483"
+}

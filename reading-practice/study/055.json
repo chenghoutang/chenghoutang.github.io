@@ -1,0 +1,1778 @@
+{
+  "schemaVersion": 1,
+  "folder": "055",
+  "articleSha256": "98e3cf56abcb8e6bd6ec23e967a1092e95812f1c151084e6585f8fa0f44362fa",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "mental",
+      "headword": "mental",
+      "kind": "word",
+      "zh": "a. 心智的, 精神病的, 心理的, 颏的\nn. 精神病患者",
+      "en": "a. involving the mind or an intellectual process\na. of or relating to the mind\na. of or relating to the chin- or liplike structure in insects and certain mollusks\ns. affected by a disorder of the mind",
+      "phonetic": "'mentl",
+      "forms": [
+        "mental"
+      ],
+      "example": "Imagine visiting your GP for your physical or mental health and leaving with a prescription to spend more time outdoors.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "mental health",
+      "headword": "mental health",
+      "kind": "phrase",
+      "zh": "心理健康",
+      "en": "a person's psychological and emotional well-being",
+      "forms": [
+        "mental health"
+      ],
+      "example": "Imagine visiting your GP for your physical or mental health and leaving with a prescription to spend more time outdoors.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "health",
+      "headword": "health",
+      "kind": "word",
+      "zh": "n. 健康, 卫生, 蓬勃, 健康状态\n[医] 健康",
+      "en": "n. a healthy state of wellbeing free from disease\nn. the general condition of body and mind",
+      "phonetic": "'helθ",
+      "forms": [
+        "health"
+      ],
+      "example": "Imagine visiting your GP for your physical or mental health and leaving with a prescription to spend more time outdoors.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "prescription",
+      "headword": "prescription",
+      "kind": "word",
+      "zh": "n. 处方, 命令, 指定\n[医] 处方, 药方",
+      "en": "n. directions prescribed beforehand; the action of prescribing authoritative rules or directions\nn. written instructions for an optician on the lenses for a given person\nn. written instructions from a physician or dentist to a druggist concerning the form and dosage of a drug to be issued to a given patient\na. available only with a doctor's written prescription",
+      "phonetic": "pri'skripʃәn",
+      "forms": [
+        "prescription"
+      ],
+      "example": "Imagine visiting your GP for your physical or mental health and leaving with a prescription to spend more time outdoors.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "outdoors",
+      "headword": "outdoors",
+      "kind": "word",
+      "zh": "n. 户外, 野外活动\nadv. 在户外, 在野外",
+      "en": "n. where the air is unconfined",
+      "phonetic": "'aut'dɒ:z",
+      "forms": [
+        "outdoors"
+      ],
+      "example": "Imagine visiting your GP for your physical or mental health and leaving with a prescription to spend more time outdoors.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "becoming",
+      "headword": "becoming",
+      "kind": "word",
+      "zh": "a. 合适的, 适当的",
+      "en": "s. according with custom or propriety\ns. displaying or setting off to best advantage",
+      "phonetic": "bi'kʌmiŋ",
+      "forms": [
+        "becoming"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "australia",
+      "headword": "Australia",
+      "kind": "word",
+      "zh": "n. 澳洲, 澳大利亚",
+      "en": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean",
+      "phonetic": "ɒ'streiljә",
+      "forms": [
+        "australia"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "royal",
+      "headword": "royal",
+      "kind": "word",
+      "zh": "n. 王室, 皇族\na. 王室的, 皇家的, 盛大的, 庄严的",
+      "en": "n. a sail set next above the topgallant on a royal mast\nn. stag with antlers of 12 or more branches\na. of or relating to or indicative of or issued or performed by a king or queen or other monarch\na. established or chartered or authorized by royalty",
+      "phonetic": "'rɒiәl",
+      "forms": [
+        "royal"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "australian",
+      "headword": "Australian",
+      "kind": "word",
+      "zh": "n. 澳大利亚人\na. 澳大利亚的, 澳洲的, 澳洲人的",
+      "en": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages",
+      "phonetic": "ɒ'streiljәn",
+      "forms": [
+        "australian"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "practitioners",
+      "headword": "practitioner",
+      "kind": "word",
+      "zh": "n. 从业者, 开业者\n[医] 行医者, 医师",
+      "en": "n. someone who practices a learned profession",
+      "phonetic": "præk'tiʃәnә",
+      "forms": [
+        "practitioners"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "endorsing",
+      "headword": "endorse",
+      "kind": "word",
+      "zh": "vt. 支持, 赞同, 背书于, 签署\n[经] 赞成, 背书",
+      "en": "v. sign as evidence of legal transfer",
+      "phonetic": "in'dɒ:s",
+      "forms": [
+        "endorsing"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "recommend",
+      "headword": "recommend",
+      "kind": "word",
+      "zh": "vt. 推荐, 介绍, 劝告, 使受欢迎, 托付\n[经] 建议, 推荐",
+      "en": "v. push for something\nv. make attractive or acceptable",
+      "phonetic": ".rekә'mend",
+      "forms": [
+        "recommend",
+        "recommending",
+        "recommended"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "time in nature",
+      "headword": "time in nature",
+      "kind": "phrase",
+      "zh": "亲近自然的时间",
+      "en": "time spent in natural environments",
+      "forms": [
+        "time in nature"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v14",
+      "term": "nature",
+      "headword": "nature",
+      "kind": "word",
+      "zh": "n. 自然, 大自然, 本性, 性格, 性质\n[医] 自然, 大自然; 本性, 性能",
+      "en": "n. the essential qualities or characteristics by which something is recognized\nn. a causal agent creating and controlling things in the universe\nn. the natural physical world including plants and animals and landscapes etc.\nn. the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+      "phonetic": "'neitʃә",
+      "forms": [
+        "nature"
+      ],
+      "example": "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "advice",
+      "headword": "advice",
+      "kind": "word",
+      "zh": "n. 忠告, 劝告, 意见, 报道, 通知\n[经] 通知书, 通知, 建议",
+      "en": "n. a proposal for an appropriate course of action",
+      "phonetic": "әd'vais",
+      "forms": [
+        "advice"
+      ],
+      "example": "The advice includes spending 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife gardening.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "park",
+      "headword": "park",
+      "kind": "word",
+      "zh": "n. 公园, 停车处\nvt. 停车, 置于\nvi. 停车",
+      "en": "n. a large area of land preserved in its natural state as public property\nn. a piece of open land for recreational use in an urban area\nn. Scottish explorer in Africa (1771-1806)\nn. a gear position that acts as a parking brake",
+      "phonetic": "pɑ:k",
+      "forms": [
+        "park",
+        "parks"
+      ],
+      "example": "The advice includes spending 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife gardening.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "wildlife",
+      "headword": "wildlife",
+      "kind": "word",
+      "zh": "n. 野生动植物",
+      "en": "n. all living things (except people) that are undomesticated",
+      "phonetic": "'waildlaif",
+      "forms": [
+        "wildlife"
+      ],
+      "example": "The advice includes spending 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife gardening.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "recommendation",
+      "headword": "recommendation",
+      "kind": "word",
+      "zh": "n. 推荐, 介绍, 推荐信, 劝告\n[经] 建议书",
+      "en": "n. something (as a course of action) that is recommended as advisable\nn. something that recommends (or expresses commendation of) a person or thing as worthy or desirable\nn. any quality or characteristic that gains a person a favorable reception or acceptance or admission",
+      "phonetic": ".rekәmen'deiʃәn",
+      "forms": [
+        "recommendation"
+      ],
+      "example": "But does a doctor’s recommendation actually mean people are more likely to experience those benefits?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "likely",
+      "headword": "likely",
+      "kind": "word",
+      "zh": "a. 有可能的, 合适的, 前途有望的\nadv. 或许, 可能",
+      "en": "a. has a good chance of being the case or of coming about\ns. expected to become or be; in prospect\ns. within the realm of credibility",
+      "phonetic": "'laikli",
+      "forms": [
+        "likely"
+      ],
+      "example": "But does a doctor’s recommendation actually mean people are more likely to experience those benefits?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "aboriginal",
+      "headword": "aboriginal",
+      "kind": "word",
+      "zh": "a. 原始的, 土著的\nn. 土著居民, 土生生物",
+      "en": "a. of or pertaining to members of the indigenous people of Australia\ns. having existed from the beginning; in an earliest or original stage or state",
+      "phonetic": ".æbә'ridʒәnәl",
+      "forms": [
+        "aboriginal"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "torres",
+      "headword": "torres",
+      "kind": "word",
+      "zh": "n. 托雷斯（西班牙球星）",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "torres"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "strait",
+      "headword": "strait",
+      "kind": "word",
+      "zh": "n. 海峡, 困境\na. 困难的, 窘迫的, 狭窄的",
+      "en": "n. a narrow channel of the sea joining two larger bodies of water\ns. narrow",
+      "phonetic": "streit",
+      "forms": [
+        "strait"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "islander",
+      "headword": "islander",
+      "kind": "word",
+      "zh": "n. 岛民",
+      "en": "n. an inhabitant of an island",
+      "phonetic": "'ailәndә",
+      "forms": [
+        "islander"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "connection",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connection"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "wellbeing",
+      "headword": "wellbeing",
+      "kind": "word",
+      "zh": "n. 健康, 幸福, 福利, 舒适, 安宁",
+      "en": "n. a contented state of being happy and healthy and prosperous",
+      "phonetic": "",
+      "forms": [
+        "wellbeing"
+      ],
+      "example": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "encompasses",
+      "headword": "encompass",
+      "kind": "word",
+      "zh": "vt. 围绕, 完成, 包括, 包含, 环绕, 包围",
+      "en": "v include in scope; include as part of something broader; have as one's sphere or territory",
+      "phonetic": "in'kʌmpәs",
+      "forms": [
+        "encompasses"
+      ],
+      "example": "This connection encompasses relationships with land, waters, culture, community and identity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "identity",
+      "headword": "identity",
+      "kind": "word",
+      "zh": "n. 身份, 相同, 一致, 特性, 恒等式\n[计] (打)标记, 标识",
+      "en": "n. the distinct personality of an individual regarded as a persisting entity\nn. the individual characteristics by which a thing or person is recognized or known\nn. an operator that leaves unchanged the element on which it operates\nn. exact sameness",
+      "phonetic": "ai'dentiti",
+      "forms": [
+        "identity"
+      ],
+      "example": "This connection encompasses relationships with land, waters, culture, community and identity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "investigated",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigated"
+      ],
+      "example": "Over recent decades, researchers have investigated whether spending time in nature can benefit our physical and mental health.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "strength",
+      "headword": "strength",
+      "kind": "word",
+      "zh": "n. 力量, 实力, 强度, 浓度, 人数, 抵抗力\n[化] 强度",
+      "en": "n. the property of being physically or mentally strong\nn. the condition of financial success",
+      "phonetic": "streŋθ",
+      "forms": [
+        "strength"
+      ],
+      "example": "But the strength of evidence varies depending on the activity and health outcome being measured.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "varies",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "varies",
+        "vary"
+      ],
+      "example": "But the strength of evidence varies depending on the activity and health outcome being measured.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "depending",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depending"
+      ],
+      "example": "But the strength of evidence varies depending on the activity and health outcome being measured.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "outcome",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcome",
+        "outcomes"
+      ],
+      "example": "But the strength of evidence varies depending on the activity and health outcome being measured.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "review",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "review"
+      ],
+      "example": "A recent review assessed the evidence for nature prescribing on mental health.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "assessed",
+      "headword": "assess",
+      "kind": "word",
+      "zh": "vt. 估定, 对...征税, 评定\n[经] 估计, 估价, 确定(税款罚款等)的金额",
+      "en": "v. charge (a person or a property) with a payment, such as a tax or a fine\nv. estimate the value of (property) for taxation",
+      "phonetic": "ә'ses",
+      "forms": [
+        "assessed"
+      ],
+      "example": "A recent review assessed the evidence for nature prescribing on mental health.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "prescribing",
+      "headword": "prescribe",
+      "kind": "word",
+      "zh": "v. 规定, 指定, 嘱咐, 开处方",
+      "en": "v issue commands or orders for",
+      "phonetic": "pris'kraib",
+      "forms": [
+        "prescribing"
+      ],
+      "example": "A recent review assessed the evidence for nature prescribing on mental health.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "reviewers",
+      "headword": "reviewer",
+      "kind": "word",
+      "zh": "n. 评论者, 书评作者, 评论家, 剧评家, 报刊评论家",
+      "en": "n. someone who reads manuscripts and judges their suitability for publication",
+      "phonetic": "ri'vju:ә(r)",
+      "forms": [
+        "reviewers"
+      ],
+      "example": "The reviewers examined 47 trials with almost 3,800 participants, including nature walks, outdoor exercise and gardening.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "outdoor",
+      "headword": "outdoor",
+      "kind": "word",
+      "zh": "a. 户外的, 屋外的, 露天的",
+      "en": "a. located, suited for, or taking place in the open air\na. pertaining to or concerning the outdoors or outdoor activities",
+      "phonetic": "'autdɒ:",
+      "forms": [
+        "outdoor"
+      ],
+      "example": "The reviewers examined 47 trials with almost 3,800 participants, including nature walks, outdoor exercise and gardening.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "exercise",
+      "headword": "exercise",
+      "kind": "word",
+      "zh": "n. 行使, 执行, 运动, 练习, 作业\nvt. 运用, 练习, 运动\nvi. 练习, 锻炼",
+      "en": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches",
+      "phonetic": "'eksәsaiz",
+      "forms": [
+        "exercise"
+      ],
+      "example": "The reviewers examined 47 trials with almost 3,800 participants, including nature walks, outdoor exercise and gardening.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "improvements",
+      "headword": "improvement",
+      "kind": "word",
+      "zh": "n. 进步, 改善, 利用\n[医] 改善, 好转, 进步",
+      "en": "n. a change for the better; progress in development\nn. the act of improving something\nn. a condition superior to an earlier condition",
+      "phonetic": "im'pru:vmәnt",
+      "forms": [
+        "improvements"
+      ],
+      "example": "Of these, 17 found significant improvements in mental health compared with control groups, particularly for depression, anxiety and stress.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "depression",
+      "headword": "depression",
+      "kind": "word",
+      "zh": "n. 不景气, 消沉, 沮丧, 洼地\n[医] 抑郁[症], 阻抑, 压低, 凹, 窝, 衰退, 俯角",
+      "en": "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity\nn. a long-term economic state characterized by unemployment and low prices and low levels of trade and investment\nn. sad feelings of gloom and inadequacy\nn. a period during the 1930s when there was a worldwide economic depression and mass unemployment",
+      "phonetic": "di'preʃәn",
+      "forms": [
+        "depression"
+      ],
+      "example": "Of these, 17 found significant improvements in mental health compared with control groups, particularly for depression, anxiety and stress.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "anxiety",
+      "headword": "anxiety",
+      "kind": "word",
+      "zh": "n. 焦虑, 忧虑, 令人焦虑的事\n[医] 焦虑",
+      "en": "n. (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic\nn. a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",
+      "phonetic": "æŋ'zaiәti",
+      "forms": [
+        "anxiety"
+      ],
+      "example": "Of these, 17 found significant improvements in mental health compared with control groups, particularly for depression, anxiety and stress.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "stress",
+      "headword": "stress",
+      "kind": "word",
+      "zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力\nvt. 加压力于, 着重, 重读",
+      "en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)\nn. special emphasis attached to something\nn. difficulty that causes worry or emotional tension\nn. (physics) force that produces strain on a physical body",
+      "phonetic": "stres",
+      "forms": [
+        "stress"
+      ],
+      "example": "Of these, 17 found significant improvements in mental health compared with control groups, particularly for depression, anxiety and stress.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "consistent",
+      "headword": "consistent",
+      "kind": "word",
+      "zh": "a. 一致的, 坚持的, 并立的, 坚固的",
+      "en": "a. (sometimes followed by `with') in agreement or consistent or reliable\ns. the same throughout in structure or composition",
+      "phonetic": "kәn'sistәnt",
+      "forms": [
+        "consistent"
+      ],
+      "example": "A further 15 studies found some benefits, although these were less consistent.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "concluded",
+      "headword": "conclude",
+      "kind": "word",
+      "zh": "vt. 结束, 作结论, 推断\nvi. 结束, 推断",
+      "en": "v. bring to a close\nv. reach a conclusion after a discussion or deliberation\nv. come to a close\nv. reach agreement on",
+      "phonetic": "kәn'klu:d",
+      "forms": [
+        "concluded"
+      ],
+      "example": "The researchers concluded that nature-based activities show promise for improving mental health, but more rigorous studies are needed to understand their longer-term benefits.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "promise",
+      "headword": "promise",
+      "kind": "word",
+      "zh": "n. 诺言, 约定的事情, 有指望\nvt. 允诺, 约定, 预示\nvi. 允诺, 有前途, 有指望",
+      "en": "n. a verbal commitment by one person to another agreeing to do (or not to do) something in the future\nn. grounds for feeling hopeful about the future\nv. make a promise or commitment\nv. promise to undertake or give",
+      "phonetic": "'prɒmis",
+      "forms": [
+        "promise"
+      ],
+      "example": "The researchers concluded that nature-based activities show promise for improving mental health, but more rigorous studies are needed to understand their longer-term benefits.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "rigorous",
+      "headword": "rigorous",
+      "kind": "word",
+      "zh": "a. 严厉的, 严酷的, 严格的, 苛刻的, 严密的, 精确的",
+      "en": "s. rigidly accurate; allowing no deviation from a standard\ns. demanding strict attention to rules and procedures",
+      "phonetic": "'rigәrәs",
+      "forms": [
+        "rigorous"
+      ],
+      "example": "The researchers concluded that nature-based activities show promise for improving mental health, but more rigorous studies are needed to understand their longer-term benefits.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "variability",
+      "headword": "variability",
+      "kind": "word",
+      "zh": "n. 易变, 变化性, 变异性\n[化] 可变性; 变异性",
+      "en": "n. the quality of being subject to variation",
+      "phonetic": ".vєәriә'biliti",
+      "forms": [
+        "variability"
+      ],
+      "example": "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "cortisol",
+      "headword": "cortisol",
+      "kind": "word",
+      "zh": "n. 皮质醇, 氢化可的松\n[化] 皮质醇; 皮质甾醇; 氢化可的松",
+      "en": "n an adrenal-cortex hormone (trade names Hydrocortone or Cortef) that is active in carbohydrate and protein metabolism",
+      "phonetic": "'kɔ:tisɔl",
+      "forms": [
+        "cortisol"
+      ],
+      "example": "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "hormone",
+      "headword": "hormone",
+      "kind": "word",
+      "zh": "n. 荷尔蒙\n[化] 激素(旧称荷尔蒙)",
+      "en": "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "phonetic": "'hɒ:mәun",
+      "forms": [
+        "hormone"
+      ],
+      "example": "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v53",
+      "term": "glucose",
+      "headword": "glucose",
+      "kind": "word",
+      "zh": "n. 葡萄糖\n[化] 葡萄糖; 右旋糖; 葡糖(用于复合词中)",
+      "en": "n. a monosaccharide sugar that has several forms; an important source of physiological energy",
+      "phonetic": "'glu:kәus",
+      "forms": [
+        "glucose"
+      ],
+      "example": "However, findings for blood glucose, or blood sugar, were less consistent.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "blood sugar",
+      "headword": "blood sugar",
+      "kind": "phrase",
+      "zh": "血糖",
+      "en": "glucose present in the blood",
+      "forms": [
+        "blood sugar"
+      ],
+      "example": "However, findings for blood glucose, or blood sugar, were less consistent.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v55",
+      "term": "sugar",
+      "headword": "sugar",
+      "kind": "word",
+      "zh": "n. 糖, 糖块, 甜言蜜语\nvt. 加糖于, 使甜蜜, 粉饰, 美化\nvi. 制成糖",
+      "en": "n. a white crystalline carbohydrate used as a sweetener and preservative\nv. sweeten with sugar",
+      "phonetic": "'ʃugә",
+      "forms": [
+        "sugar"
+      ],
+      "example": "However, findings for blood glucose, or blood sugar, were less consistent.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "A recommendation of two hours per week comes largely from a study involving almost 20,000 adults in England.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "People who spent at least two hours in nature each week were more likely to report good health and wellbeing than those who spent no time in nature.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v58",
+      "term": "observational",
+      "headword": "observational",
+      "kind": "word",
+      "zh": "a. 观察的, 观测的\n[计] 观察的",
+      "en": "s relying on observation or experiment",
+      "phonetic": ",ɔbzә'veiʃәnәl",
+      "forms": [
+        "observational"
+      ],
+      "example": "However, this was an observational study. It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "association",
+      "headword": "association",
+      "kind": "word",
+      "zh": "n. 协会\n[计] 关联",
+      "en": "n. a formal organization of people or groups of people\nn. the act of consorting with or joining with others\nn. the state of being connected together as in memory or imagination\nn. the process of bringing ideas or events together in memory or imagination",
+      "phonetic": "ә.sәuʃә'eiʃәn",
+      "forms": [
+        "association"
+      ],
+      "example": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "exposure",
+      "headword": "exposure",
+      "kind": "word",
+      "zh": "n. 暴露, 揭发, 揭露\n[化] 曝光量; 照射; 照射量",
+      "en": "n. vulnerability to the elements; to the action of heat or cold or wind or rain; \nn. the act of subjecting someone to an influencing experience\nn. the disclosure of something secret\nn. aspect resulting from the direction a building or window faces",
+      "phonetic": "ik'spәuʒә",
+      "forms": [
+        "exposure"
+      ],
+      "example": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v62",
+      "term": "demonstrating",
+      "headword": "demonstrate",
+      "kind": "word",
+      "zh": "vt. 示范, 证明\nvi. 示威",
+      "en": "v. march in protest; take part in a demonstration",
+      "phonetic": "'demәnstreit",
+      "forms": [
+        "demonstrating"
+      ],
+      "example": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "ideal",
+      "headword": "ideal",
+      "kind": "word",
+      "zh": "n. 理想, 典范, 观念, 思想, 最后目标\na. 理想的, 完美的, 空想的, 观念的, 唯心论的",
+      "en": "n. the idea of something that is perfect; something that one hopes to attain\nn. model of excellence or perfection of a kind; one having no equal\ns. conforming to an ultimate standard of perfection or excellence; embodying an ideal\ns. constituting or existing only in the form of an idea or mental image or conception",
+      "phonetic": "ai'diәl",
+      "forms": [
+        "ideal"
+      ],
+      "example": "The amount of time needed to experience benefits may vary between people, and we don’t yet know whether there is an ideal amount of time for everyone.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "complicated",
+      "headword": "complicate",
+      "kind": "word",
+      "zh": "vt. 弄复杂, 使错综, 使恶化\nvi. 变复杂",
+      "en": "v. make more complicated\nv. make more complex, intricate, or richer",
+      "phonetic": "'kɒmplikeit",
+      "forms": [
+        "complicated"
+      ],
+      "example": "This is where things become more complicated.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "participate",
+      "headword": "participate",
+      "kind": "word",
+      "zh": "vi. 参加, 分享, 参与, 带有\nvt. 分享, 分担",
+      "en": "v. share in something",
+      "phonetic": "pɑ:'tisipeit",
+      "forms": [
+        "participate"
+      ],
+      "example": "This is a way health professionals encourage patients to participate in activities that support their health and wellbeing.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "regular",
+      "headword": "regular",
+      "kind": "word",
+      "zh": "a. 规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的\nn. 正规军, 正式队员\nadv. 经常地\nn. 正常体\n[计] 正常体",
+      "en": "n. a regular patron\nn. a soldier in the regular army\nn. a dependable follower (especially in party politics)\nn. a garment size for persons of average height and weight",
+      "phonetic": "'regjulә",
+      "forms": [
+        "regular"
+      ],
+      "example": "A nature prescription might involve recommending regular park walks, community gardening or participation in a local conservation group.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "participation",
+      "headword": "participation",
+      "kind": "word",
+      "zh": "n. 参与, 分享\n[经] 参与, 参股",
+      "en": "n. the condition of sharing in common with others (as fellows or partners etc.)",
+      "phonetic": ".pɑ:tisi'peiʃәn",
+      "forms": [
+        "participation"
+      ],
+      "example": "A nature prescription might involve recommending regular park walks, community gardening or participation in a local conservation group.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "conservation",
+      "headword": "conservation",
+      "kind": "word",
+      "zh": "n. 保护, 保存\n[医] 保存",
+      "en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change\nn. the preservation and careful management of the environment and of natural resources\nn. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+      "phonetic": ".kɒnsә'veiʃәn",
+      "forms": [
+        "conservation"
+      ],
+      "example": "A nature prescription might involve recommending regular park walks, community gardening or participation in a local conservation group.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Research into nature prescribing is growing, with programs such as Canada’s PaRx and Park Rx America in the United States providing examples of how health professionals can encourage patients to spend time outdoors.",
+      "paragraph": 22,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v70",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "Research into nature prescribing is growing, with programs such as Canada’s PaRx and Park Rx America in the United States providing examples of how health professionals can encourage patients to spend time outdoors.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "enabled",
+      "headword": "enable",
+      "kind": "word",
+      "zh": "vt. 使能够\n[计] 允许, 使能, 打开",
+      "en": "v. render capable or able for some task",
+      "phonetic": "i'neibl",
+      "forms": [
+        "enabled"
+      ],
+      "example": "England’s green social prescribing multi-site trial enabled more than 8,000 participants to access nature-based activities.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "link",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "link"
+      ],
+      "example": "Community link workers also supported referred patients to engage with local activities.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "engage",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engage"
+      ],
+      "example": "Community link workers also supported referred patients to engage with local activities.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "delivered",
+      "headword": "deliver",
+      "kind": "word",
+      "zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付\n[经] 交运",
+      "en": "v. deliver (a speech, oration, or idea)\nv. bring to a destination, make a delivery\nv. utter (an exclamation, noise, etc.)\nv. save from sins",
+      "phonetic": "di'livә",
+      "forms": [
+        "delivered"
+      ],
+      "example": "A review of 92 studies also found nature prescribing delivered by health or social professionals improved participants’ blood pressure and mental health, and increased the number of steps they took each day.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "A review of 92 studies also found nature prescribing delivered by health or social professionals improved participants’ blood pressure and mental health, and increased the number of steps they took each day.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "limited",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limited"
+      ],
+      "example": "The evidence for nature prescribing remains limited by differences in how programs are delivered, how referrals are provided, and how outcomes are measured.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "referrals",
+      "headword": "referral",
+      "kind": "word",
+      "zh": "n. 参照, 介绍, 被介绍人, 转诊病人",
+      "en": "n. a person whose case has been referred to a specialist or professional group\nn. a recommendation to consult the (professional) person or group to whom one has been referred\nn. the act of referring (as forwarding an applicant for employment or referring a matter to an appropriate agency)",
+      "phonetic": "ri'fә:rәl",
+      "forms": [
+        "referrals"
+      ],
+      "example": "The evidence for nature prescribing remains limited by differences in how programs are delivered, how referrals are provided, and how outcomes are measured.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "physical activity",
+      "headword": "physical activity",
+      "kind": "phrase",
+      "zh": "身体活动",
+      "en": "bodily movement that uses energy",
+      "forms": [
+        "physical activity"
+      ],
+      "example": "It’s difficult to know whether improvements come from spending time in nature, increased physical activity, social connection, or the additional encouragement provided by a health professional.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v79",
+      "term": "additional",
+      "headword": "additional",
+      "kind": "word",
+      "zh": "a. 附加的, 另外的, 额外的\n[机] 加添的, 附加的",
+      "en": "s further or added",
+      "phonetic": "ә'diʃәnәl",
+      "forms": [
+        "additional"
+      ],
+      "example": "It’s difficult to know whether improvements come from spending time in nature, increased physical activity, social connection, or the additional encouragement provided by a health professional.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "encouragement",
+      "headword": "encouragement",
+      "kind": "word",
+      "zh": "n. 鼓励, 激励, 奖励\n[法] 怂恿, 煽动, 助长",
+      "en": "n. the expression of approval and support\nn. the feeling of being encouraged",
+      "phonetic": "in'kʌridʒmәnt",
+      "forms": [
+        "encouragement"
+      ],
+      "example": "It’s difficult to know whether improvements come from spending time in nature, increased physical activity, social connection, or the additional encouragement provided by a health professional.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "Not all doctors are familiar with the evidence for nature prescribing or know which local activities and services are available to their patients.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "Without this knowledge, it can be difficult to turn a recommendation to spend more time outdoors into practical advice that patients can follow.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "straightforward",
+      "headword": "straightforward",
+      "kind": "word",
+      "zh": "a. 笔直的, 率直的, 明确的, 简单的, 直接的",
+      "en": "s. free from ambiguity\ns. pointed directly ahead",
+      "phonetic": "streit'fɒ:wәd",
+      "forms": [
+        "straightforward"
+      ],
+      "example": "Recommending time outdoors might sound straightforward. But following that advice isn’t equally easy for everyone.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "equally",
+      "headword": "equally",
+      "kind": "word",
+      "zh": "adv. 相等地, 同样地, 平等地",
+      "en": "r. to the same degree (often followed by `as')",
+      "phonetic": "'i:kwәli",
+      "forms": [
+        "equally"
+      ],
+      "example": "But following that advice isn’t equally easy for everyone.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "disability",
+      "headword": "disability",
+      "kind": "word",
+      "zh": "n. 无力, 无能, 残疾\n[医] 劳动能力丧失, 病废",
+      "en": "n. the condition of being unable to perform as a consequence of physical or mental unfitness",
+      "phonetic": "disә'biliti",
+      "forms": [
+        "disability"
+      ],
+      "example": "But someone working long hours, managing a disability or living in an area with limited quality green space may face greater challenges.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "circumstances",
+      "headword": "circumstance",
+      "kind": "word",
+      "zh": "n. 环境, 状况, 事件",
+      "en": "n. a condition that accompanies or influences some event or activity\nn. information that should be kept in mind when making a decision\nn. formal ceremony about important occasions",
+      "phonetic": "'sә:kәmstәns",
+      "forms": [
+        "circumstances"
+      ],
+      "example": "This means nature prescribing needs to consider people’s circumstances, preferences and access to suitable outdoor environments.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "preferences",
+      "headword": "preference",
+      "kind": "word",
+      "zh": "n. 偏爱, 优先, 喜爱物\n[计] 首选项",
+      "en": "n. a strong liking\nn. the right or chance to choose\nn. grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)",
+      "phonetic": "'prefәrәns",
+      "forms": [
+        "preferences"
+      ],
+      "example": "This means nature prescribing needs to consider people’s circumstances, preferences and access to suitable outdoor environments.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "suitable",
+      "headword": "suitable",
+      "kind": "word",
+      "zh": "a. 适当的, 相配的\n[法] 合适的, 适宜的, 适当的",
+      "en": "s. meant or adapted for an occasion or use",
+      "phonetic": "'sju:tәbl",
+      "forms": [
+        "suitable"
+      ],
+      "example": "This means nature prescribing needs to consider people’s circumstances, preferences and access to suitable outdoor environments.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "confidence",
+      "headword": "confidence",
+      "kind": "word",
+      "zh": "n. 信心\n[电] 可靠",
+      "en": "n. a feeling of trust (in someone or something)\nn. a state of confident hopefulness that events will be favorable\nn. a trustful relationship\nn. a secret that is confided or entrusted to another",
+      "phonetic": "'kɒnfidәns",
+      "forms": [
+        "confidence"
+      ],
+      "example": "confidence that recommended activities are safe and accessible for their patients",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "accessible",
+      "headword": "accessible",
+      "kind": "word",
+      "zh": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的",
+      "en": "a. capable of being reached\ns. capable of being read with comprehension\ns. easily obtained\ns. easy to get along with or talk to; friendly",
+      "phonetic": "әk'sesәbl",
+      "forms": [
+        "accessible"
+      ],
+      "example": "Spending time in nature is generally accessible and can offer benefits for physical, mental and social wellbeing.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "alignment",
+      "headword": "alignment",
+      "kind": "word",
+      "zh": "n. 队列, 结盟, 校正\n[计] 校准; 对齐; 对准",
+      "en": "n. the spatial property possessed by an arrangement or position of things in a straight line or in parallel lines\nn. the act of adjusting or aligning the parts of a device in relation to each other",
+      "phonetic": "ә'lainmәnt",
+      "forms": [
+        "alignment"
+      ],
+      "example": "alignment with patients’ interests.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "appointment",
+      "headword": "appointment",
+      "kind": "word",
+      "zh": "n. 约会, 委任的职位, 委派\n[经] 任命, 派, 指定",
+      "en": "n. the act of putting a person into a non-elective position\nn. (usually plural) furnishings and equipment (especially for a ship or hotel)\nn. the job to which you are (or hope to be) appointed\nn. (law) the act of disposing of property by virtue of the power of appointment",
+      "phonetic": "ә'pɒintmәnt",
+      "forms": [
+        "appointment"
+      ],
+      "example": "It may also require more than a conversation during a GP appointment.",
+      "paragraph": 37,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "connecting",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connecting"
+      ],
+      "example": "Connecting patients with local walking groups, community gardens or other structured activities such as conservation volunteering could help turn a recommendation into something practical.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "volunteering",
+      "headword": "volunteer",
+      "kind": "word",
+      "zh": "n. 志愿者\na. 志愿的\nv. 自愿",
+      "en": "n. (military) a person who freely enlists for service\nn. a person who performs voluntary work\nv. tell voluntarily\nv. agree freely",
+      "phonetic": ".vɒlәn'tiә",
+      "forms": [
+        "volunteering"
+      ],
+      "example": "Connecting patients with local walking groups, community gardens or other structured activities such as conservation volunteering could help turn a recommendation into something practical.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "Our research is currently exploring how nature prescribing might work in everyday health care.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "exploring",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "exploring"
+      ],
+      "example": "Our research is currently exploring how nature prescribing might work in everyday health care.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "everyday",
+      "headword": "everyday",
+      "kind": "word",
+      "zh": "a. 每天的, 日常的, 平常的",
+      "en": "s. found in the ordinary course of events\ns. commonplace and ordinary",
+      "phonetic": "'evri'dei",
+      "forms": [
+        "everyday"
+      ],
+      "example": "Our research is currently exploring how nature prescribing might work in everyday health care.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "Spending time in nature is generally accessible and can offer benefits for physical, mental and social wellbeing.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "endorsement",
+      "headword": "endorsement",
+      "kind": "word",
+      "zh": "n. 支持, 认可, 背书\n[经] 背书, 担保, 保证",
+      "en": "n. a promotional statement (as found on the dust jackets of books)\nn. a signature that validates something\nn. the act of endorsing",
+      "phonetic": "in'dɒ:smәnt",
+      "forms": [
+        "endorsement"
+      ],
+      "example": "The Royal Australian College of General Practitioners’ endorsement of nature prescribing is an opportunity for GPs to discuss these benefits with patients.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "health outcomes",
+      "headword": "health outcomes",
+      "kind": "phrase",
+      "zh": "健康结局",
+      "en": "measurable effects on health following an exposure or intervention",
+      "forms": [
+        "health outcomes"
+      ],
+      "example": "But we still need stronger evidence about whether nature prescribing itself improves health outcomes, which patients benefit most and how to make it work in practice.",
+      "paragraph": 43,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v101",
+      "term": "ensuring",
+      "headword": "ensure",
+      "kind": "word",
+      "zh": "vt. 确定, 保证, 担保, 保护\n[经] 确保, 确定",
+      "en": "v make certain of\nv be careful or certain to do something; make certain of something",
+      "phonetic": "in'ʃuә",
+      "forms": [
+        "ensuring"
+      ],
+      "example": "The challenge is ensuring everyone has opportunities to enjoy the benefits.",
+      "paragraph": 44,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      20
+    ],
+    "wordBank": [
+      "wellbeing",
+      "prescription",
+      "complicated",
+      "rigorous",
+      "likely",
+      "sugar",
+      "demonstrating",
+      "strength",
+      "outdoor",
+      "consistent"
+    ],
+    "parts": [
+      {
+        "text": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": ". This connection encompasses relationships with land, waters, culture, community and identity.\n\nOver recent decades, researchers have investigated whether spending time in nature can benefit our physical and mental health. But the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " of evidence varies depending on the activity and health outcome being measured.\n\nA recent review assessed the evidence for nature prescribing on mental health. The reviewers examined 47 trials with almost 3,800 participants, including nature walks, "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " exercise and gardening. Of these, 17 found significant improvements in mental health compared with control groups, particularly for depression, anxiety and stress.\n\nA further 15 studies found some benefits, although these were less "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ". The researchers concluded that nature-based activities show promise for improving mental health, but more "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " studies are needed to understand their longer-term benefits.\n\nThere may also be benefits for physical health. A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.\n\nHowever, findings for blood glucose, or blood "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ", were less consistent.\n\nSo how much time should we spend outdoors?\n\nA recommendation of two hours per week comes largely from a study involving almost 20,000 adults in England.\n\nPeople who spent at least two hours in nature each week were more "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " to report good health and wellbeing than those who spent no time in nature.\n\nHowever, this was an observational study. It found an association between nature exposure and health, rather than "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " that two hours of nature causes better health.\n\nThe amount of time needed to experience benefits may vary between people, and we don’t yet know whether there is an ideal amount of time for everyone.\n\nDoes prescribing nature actually work?\n\nThis is where things become more "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ".\n\nNature prescribing is a form of social prescribing. This is a way health professionals encourage patients to participate in activities that support their health and wellbeing.\n\nA nature "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " might involve recommending regular park walks, community gardening or participation in a local conservation group."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "wellbeing",
+        "vocabularyId": "v26",
+        "explanation": "原文此处使用 wellbeing（wellbeing）。结合上下文辨认词义与词形。",
+        "evidence": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "strength",
+        "vocabularyId": "v30",
+        "explanation": "原文此处使用 strength（strength）。结合上下文辨认词义与词形。",
+        "evidence": "But the strength of evidence varies depending on the activity and health outcome being measured.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "outdoor",
+        "vocabularyId": "v38",
+        "explanation": "原文此处使用 outdoor（outdoor）。结合上下文辨认词义与词形。",
+        "evidence": "The reviewers examined 47 trials with almost 3,800 participants, including nature walks, outdoor exercise and gardening.",
+        "paragraph": 8
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "consistent",
+        "vocabularyId": "v44",
+        "explanation": "原文此处使用 consistent（consistent）。结合上下文辨认词义与词形。",
+        "evidence": "A further 15 studies found some benefits, although these were less consistent.",
+        "paragraph": 9
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "rigorous",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 rigorous（rigorous）。结合上下文辨认词义与词形。",
+        "evidence": "The researchers concluded that nature-based activities show promise for improving mental health, but more rigorous studies are needed to understand their longer-term benefits.",
+        "paragraph": 9
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "sugar",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 sugar（sugar）。结合上下文辨认词义与词形。",
+        "evidence": "However, findings for blood glucose, or blood sugar, were less consistent.",
+        "paragraph": 11
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "likely",
+        "vocabularyId": "v19",
+        "explanation": "原文此处使用 likely（likely）。结合上下文辨认词义与词形。",
+        "evidence": "People who spent at least two hours in nature each week were more likely to report good health and wellbeing than those who spent no time in nature.",
+        "paragraph": 14
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "demonstrating",
+        "vocabularyId": "v62",
+        "explanation": "原文此处使用 demonstrating（demonstrate）。结合上下文辨认词义与词形。",
+        "evidence": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+        "paragraph": 15
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "complicated",
+        "vocabularyId": "v64",
+        "explanation": "原文此处使用 complicated（complicate）。结合上下文辨认词义与词形。",
+        "evidence": "This is where things become more complicated.",
+        "paragraph": 18
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "prescription",
+        "vocabularyId": "v4",
+        "explanation": "原文此处使用 prescription（prescription）。结合上下文辨认词义与词形。",
+        "evidence": "A nature prescription might involve recommending regular park walks, community gardening or participation in a local conservation group.",
+        "paragraph": 20
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Managing blood sugar requires understanding which strategies actually reduce glucose spikes.",
+          "The history of the food pyramid shows how nutrition advice and its presentation have changed.",
+          "Body weight reflects interacting biological, social and environmental influences.",
+          "Prescribing time in nature raises questions about the evidence for health benefits."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
+        "paragraph": 15
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What have studies of time in nature investigated?",
+        "options": [
+          "Only methods for replacing all medical treatment",
+          "Whether humans can permanently stop sleeping",
+          "Potential benefits for both physical and mental health",
+          "Only the resale prices of garden furniture"
+        ],
+        "answer": 2,
+        "explanation": "第 7 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Over recent decades, researchers have investigated whether spending time in nature can benefit our physical and mental health.",
+        "paragraph": 7
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 16?",
+        "options": [
+          "This is becoming a reality in Australia, with the Royal Australian College of General Practitioners recently endorsing resources to help doctors recommend spending time in nature.",
+          "A review of 22 studies examining forest-based activities found improvements in blood pressure, heart rate variability and cortisol, a hormone associated with stress.",
+          "The Royal Australian College of General Practitioners’ endorsement of nature prescribing is an opportunity for GPs to discuss these benefits with patients.",
+          "The amount of time needed to experience benefits may vary between people, and we don’t yet know whether there is an ideal amount of time for everyone."
+        ],
+        "answer": 3,
+        "explanation": "定位第 16 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "The amount of time needed to experience benefits may vary between people, and we don’t yet know whether there is an ideal amount of time for everyone.",
+        "paragraph": 16
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The evidence for nature prescribing remains limited by differences in how programs are delivered, how referrals are provided, and how outcomes are measured.”",
+        "options": [
+          "Paragraph 44",
+          "Paragraph 25",
+          "Paragraph 2",
+          "Paragraph 41"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 25 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The evidence for nature prescribing remains limited by differences in how programs are delivered, how referrals are provided, and how outcomes are measured.",
+        "paragraph": 25
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Connecting patients with local walking groups, community gardens or other structured activities such as conservation volunteering could help turn a recommendation into something practical.”",
+        "options": [
+          "Paragraph 27",
+          "Paragraph 1",
+          "Paragraph 38",
+          "Paragraph 15"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 38 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Connecting patients with local walking groups, community gardens or other structured activities such as conservation volunteering could help turn a recommendation into something practical.",
+        "paragraph": 38
+      }
+    ]
+  },
+  "revision": "bcc12ea865ab54228956f510e01d9cd1c9c68fcf18648be01ab725e78e89b87a"
+}

@@ -1,0 +1,1604 @@
+{
+  "schemaVersion": 1,
+  "folder": "041",
+  "articleSha256": "8faa4855e151cd0218fc7fa366de6dd7839a30a3a1abd1891952f7ca5b862b69",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "tired",
+      "headword": "tire",
+      "kind": "word",
+      "zh": "n. 轮胎, 头饰\nvt. 使疲倦, 使厌烦, 打扮\nvi. 疲劳, 厌倦",
+      "en": "n. hoop that covers a wheel\nv. lose interest or become bored with something or somebody\nv. exhaust or get tired through overuse or great strain or stress",
+      "phonetic": "taiә",
+      "forms": [
+        "tired"
+      ],
+      "example": "What you eat when you’re tired and hungry might come down to what’s open on the way home and what you can afford.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "hungry",
+      "headword": "hungry",
+      "kind": "word",
+      "zh": "a. 饥饿的, 荒年的, 渴望的, 不毛的\n[化] 欠鞣皮",
+      "en": "a. feeling hunger; feeling a need or desire to eat food",
+      "phonetic": "'hʌŋgi",
+      "forms": [
+        "hungry",
+        "hungrier"
+      ],
+      "example": "What you eat when you’re tired and hungry might come down to what’s open on the way home and what you can afford.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "afford",
+      "headword": "afford",
+      "kind": "word",
+      "zh": "vt. 买得起, 足以, 给予",
+      "en": "v. be able to spare or give up\nv. have the financial means to do something or buy something\nv. afford access to",
+      "phonetic": "ә'fɒ:d",
+      "forms": [
+        "afford"
+      ],
+      "example": "What you eat when you’re tired and hungry might come down to what’s open on the way home and what you can afford.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "appetite",
+      "headword": "appetite",
+      "kind": "word",
+      "zh": "n. 食欲, 欲望, 爱好\n[医] 食欲",
+      "en": "n. a feeling of craving something",
+      "phonetic": "'æpitait",
+      "forms": [
+        "appetite"
+      ],
+      "example": "Both appetite and access to food shape decisions that can look, from the outside, like simple matters of choice.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape",
+        "shaped",
+        "shapes"
+      ],
+      "example": "Both appetite and access to food shape decisions that can look, from the outside, like simple matters of choice.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "obesity",
+      "headword": "obesity",
+      "kind": "word",
+      "zh": "n. 肥胖\n[医] 肥胖, 多脂",
+      "en": "n more than average fatness",
+      "phonetic": "әu'bi:siti",
+      "forms": [
+        "obesity"
+      ],
+      "example": "The World Health Organization describes obesity as a chronic disease shaped by the interaction between biology and the conditions people live in.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "chronic",
+      "headword": "chronic",
+      "kind": "word",
+      "zh": "a. 慢性的, 习惯性的\nn. 慢性病患者",
+      "en": "a. being long-lasting and recurrent or characterized by long suffering\ns. of long duration\ns. habitual",
+      "phonetic": "'krɒnik",
+      "forms": [
+        "chronic"
+      ],
+      "example": "The World Health Organization describes obesity as a chronic disease shaped by the interaction between biology and the conditions people live in.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "chronic disease",
+      "headword": "chronic disease",
+      "kind": "phrase",
+      "zh": "慢性病",
+      "en": "a condition that persists over a long period",
+      "forms": [
+        "chronic disease"
+      ],
+      "example": "The World Health Organization describes obesity as a chronic disease shaped by the interaction between biology and the conditions people live in.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v9",
+      "term": "interaction",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interaction"
+      ],
+      "example": "The World Health Organization describes obesity as a chronic disease shaped by the interaction between biology and the conditions people live in.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "biology",
+      "headword": "biology",
+      "kind": "word",
+      "zh": "n. 生物学\n[化] 生物; 生物学",
+      "en": "n. the science that studies living organisms\nn. characteristic life processes and phenomena of living organisms",
+      "phonetic": "bai'ɒlәdʒi",
+      "forms": [
+        "biology"
+      ],
+      "example": "The World Health Organization describes obesity as a chronic disease shaped by the interaction between biology and the conditions people live in.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "injection",
+      "headword": "injection",
+      "kind": "word",
+      "zh": "n. 注射, 注射剂\n[化] 注入; 注射",
+      "en": "n. the forceful insertion of a substance under pressure\nn. any solution that is injected (as into the skin)\nn. the act of putting a liquid into the body by means of a syringe",
+      "phonetic": "in'dʒekʃәn",
+      "forms": [
+        "injection"
+      ],
+      "example": "In my new book, Obesity: Life Beyond the GLP-1 Injection, I look at what shapes body weight and what that means for treatment and prevention.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "body weight",
+      "headword": "body weight",
+      "kind": "phrase",
+      "zh": "体重",
+      "en": "the mass of a person's body",
+      "forms": [
+        "body weight"
+      ],
+      "example": "In my new book, Obesity: Life Beyond the GLP-1 Injection, I look at what shapes body weight and what that means for treatment and prevention.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v13",
+      "term": "weight",
+      "headword": "weight",
+      "kind": "word",
+      "zh": "n. 重, 重量, 体重, 砝码, 重大, 影响, 力量\nvt. 加重量于, 压迫, 使加权, 称重量\n[计] 粗细",
+      "en": "n. the vertical force exerted by a mass as a result of gravity\nn. sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms\nn. the relative importance granted to something\nn. an artifact that is heavy",
+      "phonetic": "weit",
+      "forms": [
+        "weight"
+      ],
+      "example": "In my new book, Obesity: Life Beyond the GLP-1 Injection, I look at what shapes body weight and what that means for treatment and prevention.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "prevention",
+      "headword": "prevention",
+      "kind": "word",
+      "zh": "n. 阻止, 妨碍, 预防\n[医] 预防",
+      "en": "n. the act of preventing",
+      "phonetic": "pri'venʃәn",
+      "forms": [
+        "prevention"
+      ],
+      "example": "In my new book, Obesity: Life Beyond the GLP-1 Injection, I look at what shapes body weight and what that means for treatment and prevention.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "informed",
+      "headword": "inform",
+      "kind": "word",
+      "zh": "vt. 通知, 使了解, 使充满\nvi. 提供资料, 告发",
+      "en": "v. impart knowledge of some fact, state or affairs, or event to\nv. give character or essence to\nv. act as an informer",
+      "phonetic": "in'fɒ:m",
+      "forms": [
+        "informed"
+      ],
+      "example": "Here are five findings that informed the book.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "calorie",
+      "headword": "calorie",
+      "kind": "word",
+      "zh": "n. 卡路里（热量单位）",
+      "en": "n. a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food\nn. unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure",
+      "phonetic": "'kælәri",
+      "forms": [
+        "calorie"
+      ],
+      "example": "In one study, adults who lost weight on a very low-calorie diet still reported feeling hungrier a year after the diet ended than they had before it began.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "diet",
+      "headword": "diet",
+      "kind": "word",
+      "zh": "n. 日常饮食, 议会\nvt. 照规定饮食\nvi. 忌食",
+      "en": "n. a prescribed selection of foods\nn. a legislative assembly in certain countries (e.g., Japan)\nn. the usual food and drink consumed by an organism (person or animal)\nn. the act of restricting your food intake (or your intake of particular foods)",
+      "phonetic": "'daiәt",
+      "forms": [
+        "diet"
+      ],
+      "example": "In one study, adults who lost weight on a very low-calorie diet still reported feeling hungrier a year after the diet ended than they had before it began.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "leptin",
+      "headword": "leptin",
+      "kind": "word",
+      "zh": "n. 瘦蛋白",
+      "en": "",
+      "phonetic": "'lepˌtɪn",
+      "forms": [
+        "leptin"
+      ],
+      "example": "Their levels of leptin, a hormone that helps tell the brain how much energy the body has stored, were still lower than before the diet.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "hormone",
+      "headword": "hormone",
+      "kind": "word",
+      "zh": "n. 荷尔蒙\n[化] 激素(旧称荷尔蒙)",
+      "en": "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "phonetic": "'hɒ:mәun",
+      "forms": [
+        "hormone"
+      ],
+      "example": "Their levels of leptin, a hormone that helps tell the brain how much energy the body has stored, were still lower than before the diet.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "review",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "review"
+      ],
+      "example": "A review of studies found that energy use can sometimes fall even further than you’d expect for a person’s new weight.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "This extra drop tended to be smaller in better-designed studies and could fade once weight stabilised.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "fade",
+      "headword": "fade",
+      "kind": "word",
+      "zh": "vi. 褪色, 消失, 凋谢\nvt. 使褪色\nn. 淡入, 淡出\na. 平淡的",
+      "en": "n. gradually ceasing to be visible\nv. become less clearly visible or distinguishable; disappear gradually or seemingly\nv. lose freshness, vigor, or vitality",
+      "phonetic": "feid",
+      "forms": [
+        "fade"
+      ],
+      "example": "This extra drop tended to be smaller in better-designed studies and could fade once weight stabilised.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "stabilised",
+      "headword": "stabilise",
+      "kind": "word",
+      "zh": "vt.vi. (使)稳定, (使)安定, (使)坚固\nvt. 装稳定器",
+      "en": "v support or hold steady and make steadfast, with or as if with a brace\nv become stable or more stable\nv make stable and keep from fluctuating or put into an equilibrium",
+      "phonetic": "'steibilaiz",
+      "forms": [
+        "stabilised"
+      ],
+      "example": "This extra drop tended to be smaller in better-designed studies and could fade once weight stabilised.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "feelings",
+      "headword": "feelings",
+      "kind": "word",
+      "zh": "n. 感情, 情绪, 心情, 情感",
+      "en": "n. emotional or moral sensitivity (especially in relation to personal principles or dignity)",
+      "phonetic": "",
+      "forms": [
+        "feelings"
+      ],
+      "example": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "hunger",
+      "headword": "hunger",
+      "kind": "word",
+      "zh": "n. 饥饿, 渴望, 饥荒\nvt. 使挨饿\nvi. 挨饿, 渴望",
+      "en": "n. a physiological need for food; the consequence of food deprivation\nn. strong desire for something (not food or drink)\nv. feel the need to eat",
+      "phonetic": "'hʌŋgә",
+      "forms": [
+        "hunger"
+      ],
+      "example": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "calories",
+      "headword": "calory",
+      "kind": "word",
+      "zh": "[医] 卡[路里](热量单位)",
+      "en": "",
+      "phonetic": "'kælәri",
+      "forms": [
+        "calories"
+      ],
+      "example": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "deliberate",
+      "headword": "deliberate",
+      "kind": "word",
+      "zh": "a. 深思熟虑的, 故意的, 从容的\nv. 仔细考虑",
+      "en": "s. carefully thought out in advance",
+      "phonetic": "di'libәrәt",
+      "forms": [
+        "deliberate"
+      ],
+      "example": "It helps explain why keeping weight off can be difficult even when someone is still making a deliberate effort.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "genes",
+      "headword": "gene",
+      "kind": "word",
+      "zh": "n. 基因\n[化] 基因(遗传因子)",
+      "en": "n. (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity",
+      "phonetic": "dʒi:n",
+      "forms": [
+        "genes",
+        "gene"
+      ],
+      "example": "Some of the differences in body weight between people come from the genes they inherit.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "influence",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influence"
+      ],
+      "example": "2. Genes influence appetite",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "inherit",
+      "headword": "inherit",
+      "kind": "word",
+      "zh": "vt. 继承, 遗传\nvi. 接受遗产",
+      "en": "v. obtain from someone after their death\nv. receive from a predecessor\nv. receive by genetic transmission",
+      "phonetic": "in'herit",
+      "forms": [
+        "inherit",
+        "inherited"
+      ],
+      "example": "Some of the differences in body weight between people come from the genes they inherit.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "rare",
+      "headword": "rare",
+      "kind": "word",
+      "zh": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的\nadv. 非常",
+      "en": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density",
+      "phonetic": "rєә",
+      "forms": [
+        "rare"
+      ],
+      "example": "In rare cases, a change in a single gene can cause severe obesity in early childhood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "severe",
+      "headword": "severe",
+      "kind": "word",
+      "zh": "a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的\n[法] 严厉的, 苛刻的, 严重的",
+      "en": "s. intensely or extremely bad or unpleasant in degree or quality\ns. unsparing and uncompromising in discipline or judgment\ns. very bad in degree or extent",
+      "phonetic": "si'viә",
+      "forms": [
+        "severe"
+      ],
+      "example": "In rare cases, a change in a single gene can cause severe obesity in early childhood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "early childhood",
+      "headword": "early childhood",
+      "kind": "phrase",
+      "zh": "幼儿期",
+      "en": "the first years of a child's life",
+      "forms": [
+        "early childhood"
+      ],
+      "example": "In rare cases, a change in a single gene can cause severe obesity in early childhood.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v35",
+      "term": "childhood",
+      "headword": "childhood",
+      "kind": "word",
+      "zh": "n. 孩童时期\n[医] 儿童期",
+      "en": "n. the time of person's life when they are a child\nn. the state of a child between infancy and adolescence",
+      "phonetic": "'tʃaildhud",
+      "forms": [
+        "childhood"
+      ],
+      "example": "In rare cases, a change in a single gene can cause severe obesity in early childhood.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "genetic",
+      "headword": "genetic",
+      "kind": "word",
+      "zh": "a. 创始的, 遗传的, 起源的, 遗传学的\n[医] 生殖的, 遗传的",
+      "en": "a. pertaining to or referring to origin\na. of or relating to the science of genetics",
+      "phonetic": "dʒi'netik",
+      "forms": [
+        "genetic"
+      ],
+      "example": "More often, many genetic differences each contribute a little.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "contribute",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contribute",
+        "contributed"
+      ],
+      "example": "More often, many genetic differences each contribute a little.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "sooner",
+      "headword": "sooner",
+      "kind": "word",
+      "zh": "n. (美)(非正式)抢先占有土地者, 抢先而获得不正当利益的人",
+      "en": "r. comparatives of `soon' or `early'",
+      "phonetic": "'su:nә",
+      "forms": [
+        "sooner"
+      ],
+      "example": "Studies of both patterns point to the parts of the brain involved in appetite, which helps explain why some people may feel full sooner than others.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "norwegian",
+      "headword": "Norwegian",
+      "kind": "word",
+      "zh": "n. 挪威人, 挪威语\na. 挪威的, 挪威人的, 挪威语的",
+      "en": "n. a native or inhabitant of Norway\nn. a Scandinavian language that is spoken in Norway\na. of or relating to Norway or its people or culture or language",
+      "phonetic": "nɒ:'wi:dʒәn",
+      "forms": [
+        "norwegian"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "tendency",
+      "headword": "tendency",
+      "kind": "word",
+      "zh": "n. 趋向, 倾向\n[医] 趋向, 趋势",
+      "en": "n. a characteristic likelihood of or natural disposition toward a certain condition or character or effect\nn. a general direction in which something tends to move",
+      "phonetic": "'tendәnsi",
+      "forms": [
+        "tendency"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "index",
+      "headword": "index",
+      "kind": "word",
+      "zh": "n. 索引, 指针, 指数, 指标\nvt. 编入索引中, 指出\nvi. 做索引\n[计] 下标; 附标; 变址; 索引; 编索引",
+      "en": "n. a numerical scale used to compare variables with one another or with some reference number\nn. a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time\nn. an alphabetical listing of names and topics along with page numbers where they are discussed\nn. the finger next to the thumb",
+      "phonetic": "'indeks",
+      "forms": [
+        "index"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "relative",
+      "headword": "relative",
+      "kind": "word",
+      "zh": "n. 亲戚, 关系词\na. 有关系的, 相对的, 比较的",
+      "en": "n. a person related by blood or marriage\nn. an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)\na. estimated by comparison; not absolute or complete",
+      "phonetic": "'relәtiv",
+      "forms": [
+        "relative"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "height",
+      "headword": "height",
+      "kind": "word",
+      "zh": "n. 高度, 海拔, 高地, 顶点\n[化] 高度",
+      "en": "n. the vertical dimension of extension; distance from the base of something to the top",
+      "phonetic": "hait",
+      "forms": [
+        "height"
+      ],
+      "example": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "Over several decades, average BMI rose across the groups, with a bigger rise among those with the strongest genetic tendency.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "differently",
+      "headword": "differently",
+      "kind": "word",
+      "zh": "adv. 差异, 不同, 各别, 各种",
+      "en": "r. in another and different manner;",
+      "phonetic": "'difrentli",
+      "forms": [
+        "differently"
+      ],
+      "example": "The bigger rise in some groups suggests that the same changes can affect people differently.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "experiments",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiments"
+      ],
+      "example": "A review of experiments found that people tended to eat more when their sleep was cut short.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "cutting",
+      "headword": "cutting",
+      "kind": "word",
+      "zh": "n. 切断, 切下, 路堑\n[化] 切屑",
+      "en": "n. a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting\nn. a piece cut off from the main part of something\nn. the act of diluting something\ns. (of speech) harsh or hurtful in tone or character",
+      "phonetic": "'kʌtiŋ",
+      "forms": [
+        "cutting"
+      ],
+      "example": "There was much less evidence that cutting sleep changed how many calories they burned.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "burned",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burned"
+      ],
+      "example": "There was much less evidence that cutting sleep changed how many calories they burned.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "overweight",
+      "headword": "overweight",
+      "kind": "word",
+      "zh": "n. 超过重量, 过重, 优势\na. 超过重量的, 超重的\nvt. 使超重, 重于, 过于重视",
+      "en": "n the property of excessive fatness\ns usually describes a large person who is fat but has a large frame to carry it",
+      "phonetic": "'әuvә'weit",
+      "forms": [
+        "overweight"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "advice",
+      "headword": "advice",
+      "kind": "word",
+      "zh": "n. 忠告, 劝告, 意见, 报道, 通知\n[经] 通知书, 通知, 建议",
+      "en": "n. a proposal for an appropriate course of action",
+      "phonetic": "әd'vais",
+      "forms": [
+        "advice"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "tailored",
+      "headword": "tailor",
+      "kind": "word",
+      "zh": "n. 裁缝, 成衣匠\nvt. 缝制, 制作, 使适应\nvi. 做裁缝",
+      "en": "n. a person whose occupation is making and altering garments\nv. adjust to a specific need or market",
+      "phonetic": "'teilә",
+      "forms": [
+        "tailored"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "habits",
+      "headword": "habit",
+      "kind": "word",
+      "zh": "n. 习惯, 嗜好, 习性\nvt. 使穿衣",
+      "en": "n. an established custom\nn. (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition\nn. a distinctive attire worn by a member of a religious order\nn. the general form or mode of growth (especially of a plant or crystal)",
+      "phonetic": "'hæbit",
+      "forms": [
+        "habits"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "usual",
+      "headword": "usual",
+      "kind": "word",
+      "zh": "a. 平常的, 通常的",
+      "en": "a. occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure",
+      "phonetic": "'ju:ʒuәl",
+      "forms": [
+        "usual"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "routine",
+      "headword": "routine",
+      "kind": "word",
+      "zh": "n. 常规, 日常工作, 惯例, 例行公事\na. 日常的, 常规的\n[计] 例程",
+      "en": "n. an unvarying or habitual method or procedure\nn. a set sequence of steps, part of larger computer program",
+      "phonetic": "ru:'ti:n",
+      "forms": [
+        "routine"
+      ],
+      "example": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "intake",
+      "headword": "intake",
+      "kind": "word",
+      "zh": "n. 入口, 吸入, 吸入量\n[医] 摄取量",
+      "en": "n. an opening through which fluid is admitted to a tube or container",
+      "phonetic": "'inteik",
+      "forms": [
+        "intake"
+      ],
+      "example": "Whether the difference in calorie intake lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "unclear",
+      "headword": "unclear",
+      "kind": "word",
+      "zh": "a. 不易了解的, 不清楚的, 含混的",
+      "en": "a. not clear to the mind",
+      "phonetic": ".ʌn'kliә",
+      "forms": [
+        "unclear"
+      ],
+      "example": "Whether the difference in calorie intake lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "regular",
+      "headword": "regular",
+      "kind": "word",
+      "zh": "a. 规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的\nn. 正规军, 正式队员\nadv. 经常地\nn. 正常体\n[计] 正常体",
+      "en": "n. a regular patron\nn. a soldier in the regular army\nn. a dependable follower (especially in party politics)\nn. a garment size for persons of average height and weight",
+      "phonetic": "'regjulә",
+      "forms": [
+        "regular"
+      ],
+      "example": "Whether the difference in calorie intake lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "stroke",
+      "headword": "stroke",
+      "kind": "word",
+      "zh": "n. 笔划, 打, 中风, 抚, 摩, 冲程\nvt. 划尾桨, 抚, 摩, 划去\n[计] 笔划",
+      "en": "n. (sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand\nn. a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain\nn. a light touch\nn. a light touch with the hands",
+      "phonetic": "strәuk",
+      "forms": [
+        "stroke"
+      ],
+      "example": "Over an average of just over three years, 65 in every 1,000 people on semaglutide died from cardiovascular causes or had a non-fatal heart attack or stroke, compared with 80 in every 1,000 on the placebo.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "mimics",
+      "headword": "mimic",
+      "kind": "word",
+      "zh": "a. 模仿的, 摹拟的\nn. 效颦者, 模仿者, 小丑, 仿制品\nvt. 模仿, 摹拟",
+      "en": "n. someone who mimics (especially an actor or actress)\nv. imitate (a person or manner), especially for satirical effect\ns. constituting an imitation",
+      "phonetic": "'mimik",
+      "forms": [
+        "mimics"
+      ],
+      "example": "Semaglutide mimics GLP-1, a hormone that helps regulate appetite.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "regulate",
+      "headword": "regulate",
+      "kind": "word",
+      "zh": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+      "en": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+      "phonetic": "'regjuleit",
+      "forms": [
+        "regulate"
+      ],
+      "example": "Semaglutide mimics GLP-1, a hormone that helps regulate appetite.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "medicine",
+      "headword": "medicine",
+      "kind": "word",
+      "zh": "n. 药, 医学, 内科\nvt. 给...用药",
+      "en": "n. the branches of medical science that deal with nonsurgical techniques\nn. (medicine) something that treats or prevents or alleviates the symptoms of disease\nn. the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries",
+      "phonetic": "'medisin",
+      "forms": [
+        "medicine"
+      ],
+      "example": "The medicine can help people feel fuller and less hungry.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "circulation",
+      "headword": "circulation",
+      "kind": "word",
+      "zh": "n. 流通, 循环, 发行量\n[化] 环流",
+      "en": "n. the dissemination of copies of periodicals (as newspapers or magazines)\nn. movement through a circuit; especially the movement of blood through the heart and blood vessels\nn. (library science) the count of books that are loaned by a library over a specified period\nn. number of copies of a newspaper or magazine that are sold",
+      "phonetic": ".sә:kju'leiʃәn",
+      "forms": [
+        "circulation"
+      ],
+      "example": "In a large trial of adults with existing heart or circulation problems and overweight or obesity, none of whom had diabetes, researchers compared semaglutide with a placebo, an injection with no active drug.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "diabetes",
+      "headword": "diabetes",
+      "kind": "word",
+      "zh": "n. 糖尿病, 多尿症\n[医] 糖尿病; 多尿症",
+      "en": "n. a polygenic disease characterized by abnormally high glucose levels in the blood; any of several metabolic disorders marked by excessive urination and persistent thirst",
+      "phonetic": "daiә'bi:ti:z",
+      "forms": [
+        "diabetes"
+      ],
+      "example": "In a large trial of adults with existing heart or circulation problems and overweight or obesity, none of whom had diabetes, researchers compared semaglutide with a placebo, an injection with no active drug.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "placebo",
+      "headword": "placebo",
+      "kind": "word",
+      "zh": "n. (为死者所诵的)晚祷歌, 安慰剂, 安慰的话, 使人宽慰的事\n[医] 安慰剂, 无效[对照]剂",
+      "en": "n. an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug\nn. (Roman Catholic Church) vespers of the office for the dead",
+      "phonetic": "plә'si:bәu",
+      "forms": [
+        "placebo"
+      ],
+      "example": "In a large trial of adults with existing heart or circulation problems and overweight or obesity, none of whom had diabetes, researchers compared semaglutide with a placebo, an injection with no active drug.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "active",
+      "headword": "active",
+      "kind": "word",
+      "zh": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的\nn. 主动语态, 积极分子",
+      "en": "n. a person who is a participating member of an organization\na. tending to become more severe or wider in scope\ns. engaged in or ready for military or naval operations\na. disposed to take action or effectuate change",
+      "phonetic": "'æktiv",
+      "forms": [
+        "active"
+      ],
+      "example": "In a large trial of adults with existing heart or circulation problems and overweight or obesity, none of whom had diabetes, researchers compared semaglutide with a placebo, an injection with no active drug.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "cardiovascular",
+      "headword": "cardiovascular",
+      "kind": "word",
+      "zh": "a. 心血管的\n[医] 心血管的",
+      "en": "a. of or pertaining to or involving the heart and blood vessels",
+      "phonetic": "kɑ:diәu'væskjulә",
+      "forms": [
+        "cardiovascular"
+      ],
+      "example": "Over an average of just over three years, 65 in every 1,000 people on semaglutide died from cardiovascular causes or had a non-fatal heart attack or stroke, compared with 80 in every 1,000 on the placebo.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "heart attack",
+      "headword": "heart attack",
+      "kind": "phrase",
+      "zh": "心脏病发作；心肌梗死",
+      "en": "damage caused by interruption of blood flow to heart muscle",
+      "forms": [
+        "heart attack"
+      ],
+      "example": "Over an average of just over three years, 65 in every 1,000 people on semaglutide died from cardiovascular causes or had a non-fatal heart attack or stroke, compared with 80 in every 1,000 on the placebo.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v69",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "A separate study followed people for a year after their semaglutide and lifestyle support ended.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "lifestyle",
+      "headword": "lifestyle",
+      "kind": "word",
+      "zh": "n. 生活方式",
+      "en": "n a manner of living that reflects the person's values and attitudes",
+      "phonetic": "'laifstail",
+      "forms": [
+        "lifestyle"
+      ],
+      "example": "A separate study followed people for a year after their semaglutide and lifestyle support ended.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "regained",
+      "headword": "regain",
+      "kind": "word",
+      "zh": "vt. 取回, 恢复, 重回, 复得\n[化] 回潮",
+      "en": "v get or find back; recover the use of\nv come upon after searching; find the location of something that was missed or lost",
+      "phonetic": "ri'gein",
+      "forms": [
+        "regained"
+      ],
+      "example": "On average, they regained about two-thirds of the weight they had lost.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "two-thirds",
+      "headword": "two-thirds",
+      "kind": "word",
+      "zh": "quant. 三分之二",
+      "en": "n. two of three equal parts of a divisible whole",
+      "phonetic": "ˌtu:'θɜ:dz",
+      "forms": [
+        "two-thirds"
+      ],
+      "example": "On average, they regained about two-thirds of the weight they had lost.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "unprocessed",
+      "headword": "unprocessed",
+      "kind": "word",
+      "zh": "a. 未被加工的",
+      "en": "a. not altered from an original or natural state\ns. not treated or prepared by a special process",
+      "phonetic": ",ʌn'prәjsest; -'prɔ-",
+      "forms": [
+        "unprocessed"
+      ],
+      "example": "In a hospital study, the same 20 adults spent two weeks on a diet high in ultra-processed foods and two weeks on a diet based on unprocessed foods.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "meals",
+      "headword": "meal",
+      "kind": "word",
+      "zh": "n. 一餐, 膳食, 粗粉\nvi. 进餐",
+      "en": "n. the food served and eaten at one time\nn. any of the occasions for eating food that occur by custom or habit at more or less fixed times\nn. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
+      "phonetic": "mi:l",
+      "forms": [
+        "meals"
+      ],
+      "example": "They ate about 500 more calories a day on the ultra-processed diet and ate those meals faster.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "speed",
+      "headword": "speed",
+      "kind": "word",
+      "zh": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+      "en": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity",
+      "phonetic": "spi:d",
+      "forms": [
+        "speed"
+      ],
+      "example": "Eating speed is one possible explanation for the difference, and the study shows how much the food on offer can affect what people eat even when they decide their own portions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "Eating speed is one possible explanation for the difference, and the study shows how much the food on offer can affect what people eat even when they decide their own portions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "portions",
+      "headword": "portion",
+      "kind": "word",
+      "zh": "n. 部分, 一份, 命运, 嫁妆\nvt. 分配, 给...嫁妆",
+      "en": "n something determined in relation to something that includes it\nn something less than the whole of a human artifact\nn the allotment of some amount by dividing something\nn assets belonging to or due to or contributed by an individual person or group\nn your overall circumstances or condition in life (including everything that happens to you)\nn money or property brought by a woman to her husband at marriage\nn an individual quantity of food or drink taken as part of a meal\nv give out",
+      "phonetic": "'pɒ:ʃәn",
+      "forms": [
+        "portions"
+      ],
+      "example": "Eating speed is one possible explanation for the difference, and the study shows how much the food on offer can affect what people eat even when they decide their own portions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "soft",
+      "headword": "soft",
+      "kind": "word",
+      "zh": "a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的\nn. 柔软的东西, 笨人, 纸币\nadv. 柔软地, 温和地",
+      "en": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)",
+      "phonetic": "sɒft",
+      "forms": [
+        "soft"
+      ],
+      "example": "The UK’s soft drinks levy gave manufacturers a reason to change their recipes: using less sugar could reduce or avoid the charge.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "levy",
+      "headword": "levy",
+      "kind": "word",
+      "zh": "n. 税款, 所征的人数, 征收\nvi. 征税, 课税\nvt. 征收, 强求, 召集",
+      "en": "n. a charge imposed and collected\nn. the act of drafting into military service\nv. impose and collect",
+      "phonetic": "'levi",
+      "forms": [
+        "levy"
+      ],
+      "example": "The UK’s soft drinks levy gave manufacturers a reason to change their recipes: using less sugar could reduce or avoid the charge.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "manufacturers",
+      "headword": "manufacturer",
+      "kind": "word",
+      "zh": "n. 制造业者, 厂商\n[经] 制造人, 制造商, 制造厂",
+      "en": "n. a business engaged in manufacturing some product\nn. someone who manufactures something",
+      "phonetic": ".mænju'fæktʃәrә",
+      "forms": [
+        "manufacturers"
+      ],
+      "example": "The UK’s soft drinks levy gave manufacturers a reason to change their recipes: using less sugar could reduce or avoid the charge.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "recipes",
+      "headword": "recipe",
+      "kind": "word",
+      "zh": "n. 食谱, 处方, 秘诀\n[医] 取(处方头语), 处方",
+      "en": "n. directions for making something",
+      "phonetic": "'resipi",
+      "forms": [
+        "recipes"
+      ],
+      "example": "The UK’s soft drinks levy gave manufacturers a reason to change their recipes: using less sugar could reduce or avoid the charge.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "sugar",
+      "headword": "sugar",
+      "kind": "word",
+      "zh": "n. 糖, 糖块, 甜言蜜语\nvt. 加糖于, 使甜蜜, 粉饰, 美化\nvi. 制成糖",
+      "en": "n. a white crystalline carbohydrate used as a sweetener and preservative\nv. sweeten with sugar",
+      "phonetic": "'ʃugә",
+      "forms": [
+        "sugar"
+      ],
+      "example": "The UK’s soft drinks levy gave manufacturers a reason to change their recipes: using less sugar could reduce or avoid the charge.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "measurements",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurements"
+      ],
+      "example": "An analysis of English school measurements found that after the levy came into effect, there were about 16 fewer cases of obesity per 1,000 girls aged 10 and 11 than researchers would have expected if earlier trends had continued.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "trends",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trends"
+      ],
+      "example": "An analysis of English school measurements found that after the levy came into effect, there were about 16 fewer cases of obesity per 1,000 girls aged 10 and 11 than researchers would have expected if earlier trends had continued.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Researchers found no overall reduction among boys of the same age or among children aged four and five.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "reduction",
+      "headword": "reduction",
+      "kind": "word",
+      "zh": "n. 减少, 缩影, 变化\n[化] 还原",
+      "en": "n. any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent\nn. the act of reducing complexity",
+      "phonetic": "ri'dʌkʃәn",
+      "forms": [
+        "reduction"
+      ],
+      "example": "Researchers found no overall reduction among boys of the same age or among children aged four and five.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "nutritious",
+      "headword": "nutritious",
+      "kind": "word",
+      "zh": "a. 滋养的, 营养的\n[医] 有营养的",
+      "en": "s of or providing nourishment",
+      "phonetic": "nju:'triʃәs",
+      "forms": [
+        "nutritious"
+      ],
+      "example": "Governments can also help prevent obesity by changing how foods are made and marketed and by making nutritious food more affordable in the places people already shop.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "affordable",
+      "headword": "affordable",
+      "kind": "word",
+      "zh": "[计] 普及型",
+      "en": "s that you have the financial means for",
+      "phonetic": "",
+      "forms": [
+        "affordable"
+      ],
+      "example": "Governments can also help prevent obesity by changing how foods are made and marketed and by making nutritious food more affordable in the places people already shop.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "shop",
+      "headword": "shop",
+      "kind": "word",
+      "zh": "n. 商店, 工厂, 车间\nvi. 购物, 到处寻找\nvt. 选购",
+      "en": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying",
+      "phonetic": "ʃɒp",
+      "forms": [
+        "shop"
+      ],
+      "example": "Governments can also help prevent obesity by changing how foods are made and marketed and by making nutritious food more affordable in the places people already shop.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      16
+    ],
+    "wordBank": [
+      "calories",
+      "average",
+      "burned",
+      "experiments",
+      "contribute",
+      "intake",
+      "inherit",
+      "mimics",
+      "routine",
+      "index"
+    ],
+    "parts": [
+      {
+        "text": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": ". It helps explain why keeping weight off can be difficult even when someone is still making a deliberate effort.\n\n2. Genes influence appetite\n\nSome of the differences in body weight between people come from the genes they "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ". In rare cases, a change in a single gene can cause severe obesity in early childhood. More often, many genetic differences each "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " a little. Studies of both patterns point to the parts of the brain involved in appetite, which helps explain why some people may feel full sooner than others.\n\nIn a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ", or BMI, a measure of weight relative to height. Over several decades, "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " BMI rose across the groups, with a bigger rise among those with the strongest genetic tendency.\n\nThe rise across groups points to changes in the conditions people lived in. The bigger rise in some groups suggests that the same changes can affect people differently.\n\n3. Sleeping less can make you eat more\n\nA review of "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " found that people tended to eat more when their sleep was cut short. There was much less evidence that cutting sleep changed how many calories they "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ".\n\nResearchers then tested what happened when people who usually slept less than six and a half hours a night got more sleep. In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": ".\n\nThose given advice slept about an hour longer and took in about 270 fewer calories a day, on average, compared with the other group. Both groups were free to choose what they ate. Whether the difference in calorie "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.\n\n4. Semaglutide can lower the risk of serious heart problems and stroke\n\nSemaglutide "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " GLP-1, a hormone that helps regulate appetite. The medicine can help people feel fuller and less hungry."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "calories",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 calories（calory）。结合上下文辨认词义与词形。",
+        "evidence": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "inherit",
+        "vocabularyId": "v31",
+        "explanation": "原文此处使用 inherit（inherit）。结合上下文辨认词义与词形。",
+        "evidence": "Some of the differences in body weight between people come from the genes they inherit.",
+        "paragraph": 8
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "contribute",
+        "vocabularyId": "v37",
+        "explanation": "原文此处使用 contribute（contribute）。结合上下文辨认词义与词形。",
+        "evidence": "More often, many genetic differences each contribute a little.",
+        "paragraph": 8
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "index",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 index（index）。结合上下文辨认词义与词形。",
+        "evidence": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+        "paragraph": 9
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "average",
+        "vocabularyId": "v45",
+        "explanation": "原文此处使用 average（average）。结合上下文辨认词义与词形。",
+        "evidence": "Over several decades, average BMI rose across the groups, with a bigger rise among those with the strongest genetic tendency.",
+        "paragraph": 9
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "experiments",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 experiments（experiment）。结合上下文辨认词义与词形。",
+        "evidence": "A review of experiments found that people tended to eat more when their sleep was cut short.",
+        "paragraph": 12
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "burned",
+        "vocabularyId": "v49",
+        "explanation": "原文此处使用 burned（burn）。结合上下文辨认词义与词形。",
+        "evidence": "There was much less evidence that cutting sleep changed how many calories they burned.",
+        "paragraph": 12
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "routine",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 routine（routine）。结合上下文辨认词义与词形。",
+        "evidence": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
+        "paragraph": 13
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "intake",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 intake（intake）。结合上下文辨认词义与词形。",
+        "evidence": "Whether the difference in calorie intake lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.",
+        "paragraph": 14
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "mimics",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 mimics（mimic）。结合上下文辨认词义与词形。",
+        "evidence": "Semaglutide mimics GLP-1, a hormone that helps regulate appetite.",
+        "paragraph": 16
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "New research explores a way to repair heart tissue damaged by a heart attack.",
+          "Evidence about fluoride helps explain the differences between natural and conventional toothpaste.",
+          "Body weight reflects interacting biological, social and environmental influences.",
+          "Food-based healthcare approaches have a long history and are attracting renewed interest."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "In my new book, Obesity: Life Beyond the GLP-1 Injection, I look at what shapes body weight and what that means for treatment and prevention.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What did one study find after adults lost weight on a very low-calorie diet?",
+        "options": [
+          "They permanently lost the biological capacity to feel hunger.",
+          "The study showed weight depends only on individual willpower.",
+          "Their appetite disappeared in every setting.",
+          "They still reported increased hunger a year after the diet ended."
+        ],
+        "answer": 3,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In one study, adults who lost weight on a very low-calorie diet still reported feeling hungrier a year after the diet ended than they had before it began.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "A review of experiments found that people tended to eat more when their sleep was cut short.",
+          "A review of studies found that energy use can sometimes fall even further than you’d expect for a person’s new weight.",
+          "About 17 in every 100 people taking semaglutide stopped because of side effects, compared with eight in every 100 taking the placebo.",
+          "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height."
+        ],
+        "answer": 3,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Researchers then tested what happened when people who usually slept less than six and a half hours a night got more sleep.”",
+        "options": [
+          "Paragraph 8",
+          "Paragraph 21",
+          "Paragraph 2",
+          "Paragraph 13"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Researchers then tested what happened when people who usually slept less than six and a half hours a night got more sleep.",
+        "paragraph": 13
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“A separate study followed people for a year after their semaglutide and lifestyle support ended.”",
+        "options": [
+          "Paragraph 18",
+          "Paragraph 20",
+          "Paragraph 1",
+          "Paragraph 9"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "A separate study followed people for a year after their semaglutide and lifestyle support ended.",
+        "paragraph": 18
+      }
+    ]
+  },
+  "revision": "fa449dfef73d06cb9a40efaf662e7efd4d883277db258cf56bfe4de043ce1e17"
+}

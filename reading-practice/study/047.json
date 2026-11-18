@@ -1,0 +1,2640 @@
+{
+  "schemaVersion": 1,
+  "folder": "047",
+  "articleSha256": "59e105af14ad9e1bd5c16078beb52954a14a56832c7c77523f754e21bdd4b235",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "food",
+      "headword": "food",
+      "kind": "word",
+      "zh": "n. 食物, 养料\n[医] 食物, 食品",
+      "en": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking",
+      "phonetic": "fu:d",
+      "forms": [
+        "food"
+      ],
+      "example": "The food pyramid has made an unlikely comeback.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "food pyramid",
+      "headword": "food pyramid",
+      "kind": "phrase",
+      "zh": "食物金字塔",
+      "en": "a diagram organising food groups into dietary guidance",
+      "forms": [
+        "food pyramid"
+      ],
+      "example": "The food pyramid has made an unlikely comeback.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "pyramid",
+      "headword": "pyramid",
+      "kind": "word",
+      "zh": "n. 角锥, 金字塔\nv. (使)成金字塔状, (使)渐增, (使)上涨",
+      "en": "n. a polyhedron having a polygonal base and triangular sides with a common vertex\nn. (stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases\nn. a massive monument with a square base and four triangular sides; begun by Cheops around 2700 BC as royal tombs in ancient Egypt\nv. enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts",
+      "phonetic": "'pirәmid",
+      "forms": [
+        "pyramid",
+        "pyramids"
+      ],
+      "example": "The food pyramid has made an unlikely comeback.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "unlikely",
+      "headword": "unlikely",
+      "kind": "word",
+      "zh": "a. 不太可能的",
+      "en": "a. has little chance of being the case or coming about",
+      "phonetic": ".ʌn'laikli",
+      "forms": [
+        "unlikely"
+      ],
+      "example": "The food pyramid has made an unlikely comeback.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "comeback",
+      "headword": "comeback",
+      "kind": "word",
+      "zh": "n. 复原, 复辟, 复位, 尖刻的对答, 抱怨的原因\n[计] 复原的",
+      "en": "n. return by a celebrity to some previously successful activity",
+      "phonetic": "'kʌmbæk",
+      "forms": [
+        "comeback"
+      ],
+      "example": "The food pyramid has made an unlikely comeback.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "unveiled",
+      "headword": "unveil",
+      "kind": "word",
+      "zh": "vt. 揭开, 揭幕, 除去...的面纱\nvi. 显露, 除去面纱",
+      "en": "v. remove the veil from\nv. remove the cover from",
+      "phonetic": ".ʌn'veil",
+      "forms": [
+        "unveiled"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "upside-down",
+      "headword": "upside-down",
+      "kind": "word",
+      "zh": "a. 颠倒的, 乱七八糟的",
+      "en": "s being in such a position that top and bottom are reversed",
+      "phonetic": "'ʌpsaid'daun",
+      "forms": [
+        "upside-down"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "upside",
+      "headword": "upside",
+      "kind": "word",
+      "zh": "n. 上侧, 上段, 上部\n[机] 上侧, 上部",
+      "en": "n the highest or uppermost side of anything",
+      "phonetic": "'ʌpsaid",
+      "forms": [
+        "upside"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "prominence",
+      "headword": "prominence",
+      "kind": "word",
+      "zh": "n. 突起, 突出, 显著, 突出物, 凸出\n[医] 隆凸, 凸",
+      "en": "n. the state of being prominent: widely known or eminent\nn. relative importance",
+      "phonetic": "'prɒminәns",
+      "forms": [
+        "prominence"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v11",
+      "term": "meat",
+      "headword": "meat",
+      "kind": "word",
+      "zh": "n. 肉, 餐, 食物\n[经] 肉类",
+      "en": "n. the flesh of animals (including fishes and birds and snails) used as food",
+      "phonetic": "mi:t",
+      "forms": [
+        "meat"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "dairy",
+      "headword": "dairy",
+      "kind": "word",
+      "zh": "n. 牛奶公司, 乳品店, 乳牛场",
+      "en": "n. a farm where dairy products are produced",
+      "phonetic": "'dєәri",
+      "forms": [
+        "dairy"
+      ],
+      "example": "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "More recently, an international team of researchers, led by Brigham Young University in the US, proposed a very different food pyramid built around vegetables, fruit, wholegrains and other plant foods.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "vegetables",
+      "headword": "vegetable",
+      "kind": "word",
+      "zh": "n. 蔬菜, 植物, 无精打采之人\na. 蔬菜的, 植物的",
+      "en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
+      "phonetic": "'vedʒәtәbl",
+      "forms": [
+        "vegetables"
+      ],
+      "example": "More recently, an international team of researchers, led by Brigham Young University in the US, proposed a very different food pyramid built around vegetables, fruit, wholegrains and other plant foods.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "fruit",
+      "headword": "fruit",
+      "kind": "word",
+      "zh": "n. 水果, 果类, 结果\n[医] 果实, 种实",
+      "en": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit",
+      "phonetic": "fru:t",
+      "forms": [
+        "fruit",
+        "fruits"
+      ],
+      "example": "More recently, an international team of researchers, led by Brigham Young University in the US, proposed a very different food pyramid built around vegetables, fruit, wholegrains and other plant foods.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "wholegrains",
+      "headword": "wholegrain",
+      "kind": "word",
+      "zh": "a. 全粒的, 全米的",
+      "en": "",
+      "phonetic": "ˈhəʊlgreɪn",
+      "forms": [
+        "wholegrains",
+        "wholegrain"
+      ],
+      "example": "More recently, an international team of researchers, led by Brigham Young University in the US, proposed a very different food pyramid built around vegetables, fruit, wholegrains and other plant foods.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "guide",
+      "headword": "guide",
+      "kind": "word",
+      "zh": "n. 引导者, 导游, 指南, 路标\nvt. 指导, 支配, 管理, 带领, 操纵\nvi. 任向导\n[计] 辅助线",
+      "en": "n. someone who shows the way by leading or advising\nn. a structure or marking that serves to direct the motion or positioning of something\nv. be a guiding or motivating force or drive\nv. use as a guide",
+      "phonetic": "gaid",
+      "forms": [
+        "guide",
+        "guides"
+      ],
+      "example": "They call it the International Food Guide Pyramid.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "diet",
+      "headword": "diet",
+      "kind": "word",
+      "zh": "n. 日常饮食, 议会\nvt. 照规定饮食\nvi. 忌食",
+      "en": "n. a prescribed selection of foods\nn. a legislative assembly in certain countries (e.g., Japan)\nn. the usual food and drink consumed by an organism (person or animal)\nn. the act of restricting your food intake (or your intake of particular foods)",
+      "phonetic": "'daiәt",
+      "forms": [
+        "diet",
+        "diets"
+      ],
+      "example": "The two designs reflect different views about what a healthy diet should look like.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "revive",
+      "headword": "revive",
+      "kind": "word",
+      "zh": "vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播\nvi. 苏醒, 复活, 复兴, 恢复精神",
+      "en": "v. be brought back to life, consciousness, or strength\nv. restore from a depressed, inactive, or unused state",
+      "phonetic": "ri'vaiv",
+      "forms": [
+        "revive"
+      ],
+      "example": "They also revive an old question: how do you turn complex nutritional evidence into a simple picture that helps people decide what to eat?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "They also revive an old question: how do you turn complex nutritional evidence into a simple picture that helps people decide what to eat?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "nutritional",
+      "headword": "nutritional",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\n[医] 营养的",
+      "en": "a. of or relating to or providing nutrition",
+      "phonetic": "nju: 'triʃәnәl",
+      "forms": [
+        "nutritional"
+      ],
+      "example": "They also revive an old question: how do you turn complex nutritional evidence into a simple picture that helps people decide what to eat?",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "history",
+      "headword": "history",
+      "kind": "word",
+      "zh": "n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录\n[计] 历史记录",
+      "en": "n. the aggregate of past events\nn. a record or narrative description of past events\nn. the discipline that records and interprets past events involving human beings\nn. the continuum of events occurring in succession leading from the past to the present and even into the future",
+      "phonetic": "'histәri",
+      "forms": [
+        "history"
+      ],
+      "example": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "shaped",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shaped",
+        "shape"
+      ],
+      "example": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "as well as",
+      "headword": "as well as",
+      "kind": "phrase",
+      "zh": "以及；除……之外还",
+      "en": "in addition to",
+      "forms": [
+        "as well as"
+      ],
+      "example": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v25",
+      "term": "scientific",
+      "headword": "scientific",
+      "kind": "word",
+      "zh": "a. 科学的, 系统的, 符合科学规律的\n[计] 科学记数法",
+      "en": "a. of or relating to the practice of science\na. conforming with the principles or methods used in science",
+      "phonetic": ".saiәn'tifik",
+      "forms": [
+        "scientific"
+      ],
+      "example": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "advice",
+      "headword": "advice",
+      "kind": "word",
+      "zh": "n. 忠告, 劝告, 意见, 报道, 通知\n[经] 通知书, 通知, 建议",
+      "en": "n. a proposal for an appropriate course of action",
+      "phonetic": "әd'vais",
+      "forms": [
+        "advice"
+      ],
+      "example": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "sweden",
+      "headword": "Sweden",
+      "kind": "word",
+      "zh": "n. 瑞典",
+      "en": "n. a Scandinavian kingdom in the eastern part of the Scandinavian Peninsula",
+      "phonetic": "'swi:dn",
+      "forms": [
+        "sweden"
+      ],
+      "example": "The idea began in Sweden in 1974 when a food educator devised a pyramid to show people how much of different foods they should eat.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "educator",
+      "headword": "educator",
+      "kind": "word",
+      "zh": "n. 教育家",
+      "en": "n. someone who educates young people",
+      "phonetic": "'edjukeitә",
+      "forms": [
+        "educator"
+      ],
+      "example": "The idea began in Sweden in 1974 when a food educator devised a pyramid to show people how much of different foods they should eat.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "devised",
+      "headword": "devise",
+      "kind": "word",
+      "zh": "vt. 设计, 发明, 图谋, 遗赠给\nn. 遗赠",
+      "en": "n. a will disposing of real property\nn. (law) a gift of real property by will\nv. give by will, especially real property",
+      "phonetic": "di'vaiz",
+      "forms": [
+        "devised"
+      ],
+      "example": "The idea began in Sweden in 1974 when a food educator devised a pyramid to show people how much of different foods they should eat.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "prompted",
+      "headword": "prompt",
+      "kind": "word",
+      "zh": "n. 激励, 提示, 提醒物, 提词, 付款期限\na. 迅速的, 敏捷的, 立刻的, 提词员的\nvt. 激励, 鼓动, 提示\nadv. 准时地\n[计] 提示符; DOS内部命令:设定DOS命令行的提示符",
+      "en": "n. a cue given to a performer (usually the beginning of the next line to be spoken)\nn. (computer science) a symbol that appears on the computer screen to indicate that the computer is ready to receive a command\nv. serve as the inciting cause of\nv. assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned",
+      "phonetic": "prɒmpt",
+      "forms": [
+        "prompted"
+      ],
+      "example": "Rising food prices had prompted an investigation into eating nutritiously on a budget.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "nutritiously",
+      "headword": "nutritiously",
+      "kind": "word",
+      "zh": "adv. 有营养成份地；营养丰富地",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "nutritiously"
+      ],
+      "example": "Rising food prices had prompted an investigation into eating nutritiously on a budget.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "affordable",
+      "headword": "affordable",
+      "kind": "word",
+      "zh": "[计] 普及型",
+      "en": "s that you have the financial means for",
+      "phonetic": "",
+      "forms": [
+        "affordable"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "everyday",
+      "headword": "everyday",
+      "kind": "word",
+      "zh": "a. 每天的, 日常的, 平常的",
+      "en": "s. found in the ordinary course of events\ns. commonplace and ordinary",
+      "phonetic": "'evri'dei",
+      "forms": [
+        "everyday"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "bread",
+      "headword": "bread",
+      "kind": "word",
+      "zh": "n. 面包, 生计, 食物\nvt. 裹以面包屑",
+      "en": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs",
+      "phonetic": "bred",
+      "forms": [
+        "bread"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "cereals",
+      "headword": "cereal",
+      "kind": "word",
+      "zh": "n. 谷类食品, 谷类植物\na. 谷类的",
+      "en": "n. grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet\nn. a breakfast food prepared from grain\na. made of grain or relating to grain or the plants that produce it",
+      "phonetic": "'siәriәl",
+      "forms": [
+        "cereals"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "potatoes",
+      "headword": "potato",
+      "kind": "word",
+      "zh": "n. 马铃薯",
+      "en": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
+      "phonetic": "pә'teitәu",
+      "forms": [
+        "potatoes"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "milk",
+      "headword": "milk",
+      "kind": "word",
+      "zh": "n. 奶, 乳状物\nvt. 挤乳, 榨取\nvi. 产乳",
+      "en": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids",
+      "phonetic": "milk",
+      "forms": [
+        "milk"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "cheese",
+      "headword": "cheese",
+      "kind": "word",
+      "zh": "n. 乳酪\n[化] 干酪",
+      "en": "n. a solid food prepared from the pressed curd of milk\nv. used in the imperative (get away, or stop it)\nv. wind onto a cheese",
+      "phonetic": "tʃi:z",
+      "forms": [
+        "cheese"
+      ],
+      "example": "The pyramid’s broad base contained affordable everyday foods: bread, cereals, potatoes, milk, cheese and cooking fats.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "occupied",
+      "headword": "occupy",
+      "kind": "word",
+      "zh": "vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注\n[法] 占领, 占据, 占有",
+      "en": "v. live (in a certain place)\nv. occupy the whole of",
+      "phonetic": "'ɒkjupai",
+      "forms": [
+        "occupied"
+      ],
+      "example": "Fruit and vegetables occupied the middle, with meat, fish and eggs at the top.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "circles",
+      "headword": "circle",
+      "kind": "word",
+      "zh": "n. 圆周, 社交圈, 循环, 范围\nvt. 围着, 环绕\nvi. 盘旋, 循环",
+      "en": "n. ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point\nn. something approximating the shape of a circle\nn. a curved section or tier of seats in a hall or theater or opera house; usually the first tier above the orchestra\nn. any circular or rotating mechanism",
+      "phonetic": "'sә:kl",
+      "forms": [
+        "circles",
+        "circle"
+      ],
+      "example": "Before food pyramids, we had food circles, which gave equal space to all food groups.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "equal",
+      "headword": "equal",
+      "kind": "word",
+      "zh": "n. 对手, 匹敌, 同辈\na. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的\nvt. 等于, 比得上\n[计] 等长度编码",
+      "en": "v. be identical or equivalent to\nv. be equal to in quality or ability\nv. make equal, uniform, corresponding, or matching\na. having the same quantity, value, or measure as another",
+      "phonetic": "'i:kwәl",
+      "forms": [
+        "equal"
+      ],
+      "example": "Before food pyramids, we had food circles, which gave equal space to all food groups.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "proportions",
+      "headword": "proportion",
+      "kind": "word",
+      "zh": "n. 比例, 比率, 均衡, 部分, 面积\nvt. 使成比例, 使均衡",
+      "en": "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole\nn. magnitude or extent\nn. the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree\nn. harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "phonetic": "prә'pɒ:ʃәn",
+      "forms": [
+        "proportions",
+        "proportion"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "narrow",
+      "headword": "narrow",
+      "kind": "word",
+      "zh": "n. 狭窄部分, 隘路\na. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的\nvi. 变窄\nvt. 使变狭窄",
+      "en": "n. a narrow strait connecting two bodies of water\nv. make or become more narrow or restricted\na. not wide\ns. limited in size or scope",
+      "phonetic": "'nærәu",
+      "forms": [
+        "narrow"
+      ],
+      "example": "Their broad base and narrow peak suggested that people should eat more of some foods than others.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "peak",
+      "headword": "peak",
+      "kind": "word",
+      "zh": "n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌\na. 最高的, 最大值的\nvi. 到达最高点, 消瘦, 变憔悴, 逐渐缩小\nvt. 使竖起, 使达到最高点",
+      "en": "n. the top or extreme point of something (usually a mountain or hill)",
+      "phonetic": "pi:k",
+      "forms": [
+        "peak"
+      ],
+      "example": "Their broad base and narrow peak suggested that people should eat more of some foods than others.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "nutrient",
+      "headword": "nutrient",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+      "en": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+      "phonetic": "'nju:triәnt",
+      "forms": [
+        "nutrient"
+      ],
+      "example": "Food pyramids were based on nutrient requirements, food costs and practical teaching.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "requirements",
+      "headword": "requirement",
+      "kind": "word",
+      "zh": "n. 需求, 必要条件, 要求\n[化] 要求; 合同要求",
+      "en": "n. required activity",
+      "phonetic": "ri'kwaiәmәnt",
+      "forms": [
+        "requirements"
+      ],
+      "example": "Food pyramids were based on nutrient requirements, food costs and practical teaching.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "Food pyramids were based on nutrient requirements, food costs and practical teaching.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "Food pyramids were based on nutrient requirements, food costs and practical teaching.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "nutrition",
+      "headword": "nutrition",
+      "kind": "word",
+      "zh": "n. 营养, 营养学\n[医] 营养, 营养品",
+      "en": "n. (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance\nn. the scientific study of food and drink (especially in humans)",
+      "phonetic": "nju:'triʃәn",
+      "forms": [
+        "nutrition"
+      ],
+      "example": "Their aim was to turn nutrition knowledge into shopping and cooking decisions, rather than to offer direct evidence that following the pyramid would prevent disease.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "shopping",
+      "headword": "shop",
+      "kind": "word",
+      "zh": "n. 商店, 工厂, 车间\nvi. 购物, 到处寻找\nvt. 选购",
+      "en": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying",
+      "phonetic": "ʃɒp",
+      "forms": [
+        "shopping",
+        "shop"
+      ],
+      "example": "Their aim was to turn nutrition knowledge into shopping and cooking decisions, rather than to offer direct evidence that following the pyramid would prevent disease.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "Their aim was to turn nutrition knowledge into shopping and cooking decisions, rather than to offer direct evidence that following the pyramid would prevent disease.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v52",
+      "term": "direct",
+      "headword": "direct",
+      "kind": "word",
+      "zh": "a. 直接的, 坦白的\nvt. 指示, 指挥, 命令, 导演\nvi. 指导, 指挥\nadv. 直接地",
+      "en": "v. command with authority\nv. guide the actors in (plays and films)\nv. be in charge of\nv. give directions to; point somebody into a certain direction",
+      "phonetic": "di'rekt",
+      "forms": [
+        "direct"
+      ],
+      "example": "Their aim was to turn nutrition knowledge into shopping and cooking decisions, rather than to offer direct evidence that following the pyramid would prevent disease.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "slowly",
+      "headword": "slowly",
+      "kind": "word",
+      "zh": "adv. 慢慢地, 迟缓地",
+      "en": "r. without speed (`slow' is sometimes used informally for `slowly')",
+      "phonetic": "'slәuli",
+      "forms": [
+        "slowly"
+      ],
+      "example": "The US arrived at its own pyramid more slowly.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "agriculture",
+      "headword": "agriculture",
+      "kind": "word",
+      "zh": "n. 农业\n[机] 农业, 农学",
+      "en": "n. the class of people engaged in growing food",
+      "phonetic": "'ægrikʌltʃә",
+      "forms": [
+        "agriculture"
+      ],
+      "example": "In April 1991, the US agriculture department withdrew its planned pyramid after meat and dairy organisations objected to their products’ placement near the top.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "withdrew",
+      "headword": "withdraw",
+      "kind": "word",
+      "zh": "vt. 撤回, 取回, 撤消, 使撤退, 拉开, 移开\nvi. 撤退, 离开",
+      "en": "v. pull back or move away or backward\nv. remove (a commodity) from (a supply source)",
+      "phonetic": "wið'drɒ:",
+      "forms": [
+        "withdrew"
+      ],
+      "example": "In April 1991, the US agriculture department withdrew its planned pyramid after meat and dairy organisations objected to their products’ placement near the top.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "placement",
+      "headword": "placement",
+      "kind": "word",
+      "zh": "n. 放置, 布置, 工作安排, 编班, 定位球\n[计] 放置",
+      "en": "n. the spatial property of the way in which something is placed\nn. contact established between applicants and prospective employees\nn. the act of putting something in a certain place",
+      "phonetic": "'pleismәnt",
+      "forms": [
+        "placement"
+      ],
+      "example": "In April 1991, the US agriculture department withdrew its planned pyramid after meat and dairy organisations objected to their products’ placement near the top.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "designers",
+      "headword": "designer",
+      "kind": "word",
+      "zh": "n. 设计者, 谋划者, 制图者\n[计] 设计员",
+      "en": "n. a person who devises plots or intrigues",
+      "phonetic": "di'zainә",
+      "forms": [
+        "designers"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "bowls",
+      "headword": "bowl",
+      "kind": "word",
+      "zh": "n. 碗, 木球, 大酒杯\nv. 滚木球, 快而稳地行驶",
+      "en": "n. a round vessel that is open at the top; used chiefly for holding food or liquids; \nn. a concave shape with an open top\nn. a dish that is round and open at the top for serving foods\nn. the quantity contained in a bowl",
+      "phonetic": "bәul",
+      "forms": [
+        "bowls"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "carts",
+      "headword": "cart",
+      "kind": "word",
+      "zh": "n. 二轮运货马车\nvi. 驾运货马车\nvt. 用车装载",
+      "en": "n. a heavy open wagon usually having two wheels and drawn by an animal\nv. transport something in a cart",
+      "phonetic": "kɑ:t",
+      "forms": [
+        "carts"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "wheels",
+      "headword": "wheel",
+      "kind": "word",
+      "zh": "n. 轮子, 车轮, 轮, 方向盘, 旋转, 机构, 重要人物\nvt. 使旋转, 转动, 使转向\nvi. 旋转, 转弯, 盘旋",
+      "en": "n. a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)\nn. forces that provide energy and direction\nn. a circular helm to control the rudder of a vessel\nv. change directions as if revolving on a pivot",
+      "phonetic": "hwi:l",
+      "forms": [
+        "wheels"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "fans",
+      "headword": "fan",
+      "kind": "word",
+      "zh": "n. 风扇, 迷, 狂热者, 爱好者\nvt. 煽动, 刺激, 吹拂\nvi. 飘动, 成扇形散开",
+      "en": "n. a device for creating a current of air by movement of a surface or surfaces\nn. an ardent follower and admirer\nv. strike out (a batter), (of a pitcher)\nv. make (an emotion) fiercer",
+      "phonetic": "fæn",
+      "forms": [
+        "fans"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "picnic",
+      "headword": "picnic",
+      "kind": "word",
+      "zh": "n. 野餐, 远足, 愉快的经历\nvi. 去野餐, 远足",
+      "en": "n. any informal meal eaten outside or on an excursion\nv. eat alfresco, in the open air",
+      "phonetic": "'piknik",
+      "forms": [
+        "picnic"
+      ],
+      "example": "US designers then considered bowls, shopping carts, wheels, fans and picnic scenes.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "rice",
+      "headword": "rice",
+      "kind": "word",
+      "zh": "n. 米, 米饭, 稻\nvt. 将...压成米粒状",
+      "en": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)",
+      "phonetic": "rais",
+      "forms": [
+        "rice"
+      ],
+      "example": "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "pasta",
+      "headword": "pasta",
+      "kind": "word",
+      "zh": "n. 意大利面食\n[医] 糊剂, 泥膏剂",
+      "en": "n. a dish that contains pasta as its main ingredient\nn. shaped and dried dough made from flour and water and sometimes egg",
+      "phonetic": "'pæstә",
+      "forms": [
+        "pasta"
+      ],
+      "example": "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "servings",
+      "headword": "servings",
+      "kind": "word",
+      "zh": "n. 服务；（食品等的）一份；上菜（serving的复数形式）",
+      "en": "n an individual quantity of food or drink taken as part of a meal\nn the act of delivering a writ or summons upon someone\nv serve a purpose, role, or function\nv do duty or hold offices; serve in a specific function\nv contribute or conduce to\nv be used by; as of a utility\nv help to some food; help with food or drink\nv provide (usually but not necessarily food)\nv devote (part of) one's life or efforts to, as of countries, institutions, or ideas\nv promote, benefit, or be useful or beneficial to\nv spend time in prison or in a labor camp\nv work for or be a servant to\nv deliver a warrant or summons to someone\nv be sufficient; be adequate, either in quality or quantity\nv do military service\nv mate with\nv put the ball into play",
+      "phonetic": "",
+      "forms": [
+        "servings"
+      ],
+      "example": "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "recommended",
+      "headword": "recommend",
+      "kind": "word",
+      "zh": "vt. 推荐, 介绍, 劝告, 使受欢迎, 托付\n[经] 建议, 推荐",
+      "en": "v. push for something\nv. make attractive or acceptable",
+      "phonetic": ".rekә'mend",
+      "forms": [
+        "recommended",
+        "recommend"
+      ],
+      "example": "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "portions",
+      "headword": "portion",
+      "kind": "word",
+      "zh": "n. 部分, 一份, 命运, 嫁妆\nvt. 分配, 给...嫁妆",
+      "en": "n something determined in relation to something that includes it\nn something less than the whole of a human artifact\nn the allotment of some amount by dividing something\nn assets belonging to or due to or contributed by an individual person or group\nn your overall circumstances or condition in life (including everything that happens to you)\nn money or property brought by a woman to her husband at marriage\nn an individual quantity of food or drink taken as part of a meal\nv give out",
+      "phonetic": "'pɒ:ʃәn",
+      "forms": [
+        "portions"
+      ],
+      "example": "A serving was smaller than many modern portions: one slice of bread or half a cup (around 70g) of cooked pasta.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "slice",
+      "headword": "slice",
+      "kind": "word",
+      "zh": "n. 薄的切片, 一部分, 菜刀\nvt. 切成薄片, 切下\nvi. 切\n[计] 片",
+      "en": "n. a share of something\nn. a golf shot that curves to the right for a right-handed golfer\nn. a thin flat piece cut off of some object\nn. a spatula for spreading paint or ink",
+      "phonetic": "slais",
+      "forms": [
+        "slice"
+      ],
+      "example": "A serving was smaller than many modern portions: one slice of bread or half a cup (around 70g) of cooked pasta.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "calorie",
+      "headword": "calorie",
+      "kind": "word",
+      "zh": "n. 卡路里（热量单位）",
+      "en": "n. a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food\nn. unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure",
+      "phonetic": "'kælәri",
+      "forms": [
+        "calorie"
+      ],
+      "example": "The range reflected different calorie needs, so 11 servings was never the advice for everyone.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "distinguish",
+      "headword": "distinguish",
+      "kind": "word",
+      "zh": "v. 区别, 辨别",
+      "en": "v. mark as different\nv. be a distinctive feature, attribute, or trait; sometimes in a very positive sense",
+      "phonetic": "dis'tiŋgwiʃ",
+      "forms": [
+        "distinguish"
+      ],
+      "example": "The picture failed to distinguish clearly between wholegrains and refined grains.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "refined",
+      "headword": "refine",
+      "kind": "word",
+      "zh": "vt. 精炼, 净化, 使优雅, 使精炼\nvi. 被精炼, 被净化",
+      "en": "v. treat or prepare so as to put in a usable condition\nv. reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities\nv. attenuate or reduce in vigor, strength, or validity by polishing or purifying\nv. make more precise or increase the discriminatory powers of",
+      "phonetic": "ri'fain",
+      "forms": [
+        "refined"
+      ],
+      "example": "The picture failed to distinguish clearly between wholegrains and refined grains.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "grains",
+      "headword": "grain",
+      "kind": "word",
+      "zh": "n. 谷粒, 颗粒, 谷类, 纹理, 本质\nv. (使)成谷粒",
+      "en": "n. a relatively small granular particle of a substance\nn. foodstuff prepared from the starchy grains of cereal grasses\nn. the side of leather from which the hair has been removed\nn. a weight unit used for pearls or diamonds: 50 mg or 1/4 carat",
+      "phonetic": "grein",
+      "forms": [
+        "grains"
+      ],
+      "example": "The picture failed to distinguish clearly between wholegrains and refined grains.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "obscuring",
+      "headword": "obscure",
+      "kind": "word",
+      "zh": "a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, 无名的\nvt. 使变暗, 隐藏, 使变模糊, 使难解",
+      "en": "v. make less visible or unclear\nv. make obscure or unclear\nv. reduce a vowel to a neutral one, such as a schwa\nv. make undecipherable or imperceptible by obscuring or concealing",
+      "phonetic": "әb'skjuә",
+      "forms": [
+        "obscuring"
+      ],
+      "example": "It also grouped oils with fats and sweets at the tip, obscuring differences between healthier plant oils and fats such as butter.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "butter",
+      "headword": "butter",
+      "kind": "word",
+      "zh": "n. 奶油, 黄油\nvt. 涂黄油于",
+      "en": "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use\nn. a fighter who strikes the opponent with his head\nv. spread butter on",
+      "phonetic": "'bʌtә",
+      "forms": [
+        "butter"
+      ],
+      "example": "It also grouped oils with fats and sweets at the tip, obscuring differences between healthier plant oils and fats such as butter.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "accompanying",
+      "headword": "accompany",
+      "kind": "word",
+      "zh": "vt. 陪伴, 伴随, 补充, 为...伴奏\nvi. 伴奏, 伴唱",
+      "en": "v. go or travel along with",
+      "phonetic": "ә'kʌmpәni",
+      "forms": [
+        "accompanying"
+      ],
+      "example": "Yet the accompanying booklet did recommend wholegrains: some advice disappeared when the image travelled alone.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "booklet",
+      "headword": "booklet",
+      "kind": "word",
+      "zh": "n. 小册子",
+      "en": "n. a small book usually having a paper cover",
+      "phonetic": "'buklit",
+      "forms": [
+        "booklet"
+      ],
+      "example": "Yet the accompanying booklet did recommend wholegrains: some advice disappeared when the image travelled alone.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "disappeared",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappeared"
+      ],
+      "example": "Yet the accompanying booklet did recommend wholegrains: some advice disappeared when the image travelled alone.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "makeover",
+      "headword": "makeover",
+      "kind": "word",
+      "zh": "n. 化妆美容；大转变",
+      "en": "n. an overall beauty treatment (involving a person's hair style and cosmetics and clothing) intended to change or improve a person's appearance\nn. a complete reconstruction and renovation of something",
+      "phonetic": "",
+      "forms": [
+        "makeover"
+      ],
+      "example": "The 2005 makeover, MyPyramid, replaced horizontal layers with coloured vertical stripes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "horizontal",
+      "headword": "horizontal",
+      "kind": "word",
+      "zh": "n. 水平线, 水平面, 水平位置\na. 水平线的, 平坦的, 横的\nn. 水平\n[计] 水平",
+      "en": "n. something that is oriented horizontally\na. parallel to or in the plane of the horizon or a base line",
+      "phonetic": ".hɒri'zɒntәl",
+      "forms": [
+        "horizontal"
+      ],
+      "example": "The 2005 makeover, MyPyramid, replaced horizontal layers with coloured vertical stripes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "layers",
+      "headword": "layer",
+      "kind": "word",
+      "zh": "n. 层, 产卵鸡, 放置者\nvt. 分层堆积, 压植\n[计] 层",
+      "en": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells",
+      "phonetic": "'leiә",
+      "forms": [
+        "layers"
+      ],
+      "example": "The 2005 makeover, MyPyramid, replaced horizontal layers with coloured vertical stripes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "vertical",
+      "headword": "vertical",
+      "kind": "word",
+      "zh": "a. 垂直的, 直立的\n[医] 垂直的, 顶的, 头顶的",
+      "en": "n. something that is oriented vertically\na. at right angles to the plane of the horizon or a base line\na. relating to or involving all stages of a business from production to distribution\ns. of or relating to different levels in a hierarchy (as levels of social class or income group)",
+      "phonetic": "'vә:tikl",
+      "forms": [
+        "vertical"
+      ],
+      "example": "The 2005 makeover, MyPyramid, replaced horizontal layers with coloured vertical stripes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "stripes",
+      "headword": "stripe",
+      "kind": "word",
+      "zh": "n. 斑纹, 条纹\n[医] 纹, 条纹",
+      "en": "n. a piece of braid, usually on the sleeve, indicating military rank or length of service\nn. a kind or category\nn. a narrow marking of a different color or texture from the background\nv. mark with stripes",
+      "phonetic": "straip",
+      "forms": [
+        "stripes"
+      ],
+      "example": "The 2005 makeover, MyPyramid, replaced horizontal layers with coloured vertical stripes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "climbing",
+      "headword": "climb",
+      "kind": "word",
+      "zh": "v. 攀登, 上升, 爬\nn. 攀登, 爬升",
+      "en": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping",
+      "phonetic": "klaim",
+      "forms": [
+        "climbing"
+      ],
+      "example": "A figure climbing steps represented the importance of physical activity.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "A figure climbing steps represented the importance of physical activity.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "physical activity",
+      "headword": "physical activity",
+      "kind": "phrase",
+      "zh": "身体活动",
+      "en": "bodily movement that uses energy",
+      "forms": [
+        "physical activity"
+      ],
+      "example": "A figure climbing steps represented the importance of physical activity.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v86",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "Much of the explanation moved online, leaving an image that offered few clues about what to put on a dinner plate.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "Much of the explanation moved online, leaving an image that offered few clues about what to put on a dinner plate.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "clues",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clues"
+      ],
+      "example": "Much of the explanation moved online, leaving an image that offered few clues about what to put on a dinner plate.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "plate",
+      "headword": "plate",
+      "kind": "word",
+      "zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)\nvt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版",
+      "en": "n. a sheet of metal or wood or glass or plastic\nn. a full-page illustration (usually on slick paper)\nn. dish on which food is served or from which food is eaten\nn. the quantity contained in a plate",
+      "phonetic": "pleit",
+      "forms": [
+        "plate"
+      ],
+      "example": "Much of the explanation moved online, leaving an image that offered few clues about what to put on a dinner plate.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "protein",
+      "headword": "protein",
+      "kind": "word",
+      "zh": "n. 蛋白质\na. 蛋白质的",
+      "en": "n. any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes",
+      "phonetic": "'prәuti:in",
+      "forms": [
+        "protein"
+      ],
+      "example": "The US Department of Agriculture’s MyPlate showed fruit and vegetables filling half a plate, with grains and protein foods sharing the remainder and dairy alongside.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "remainder",
+      "headword": "remainder",
+      "kind": "word",
+      "zh": "n. 剩余物, 其他人, 残余, 余数\nv. 削价出售(图书)\na. 剩余的, 出售削价剩书的\n[计] 余数",
+      "en": "n. something left after other parts have been taken away\nn. the part of the dividend that is left over when the dividend is not evenly divisible by the divisor\nn. the number that remains after subtraction; the number that when added to the subtrahend gives the minuend\nv. sell cheaply as remainders",
+      "phonetic": "ri'meindә",
+      "forms": [
+        "remainder"
+      ],
+      "example": "The US Department of Agriculture’s MyPlate showed fruit and vegetables filling half a plate, with grains and protein foods sharing the remainder and dairy alongside.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "The US Department of Agriculture’s MyPlate showed fruit and vegetables filling half a plate, with grains and protein foods sharing the remainder and dairy alongside.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "meal",
+      "headword": "meal",
+      "kind": "word",
+      "zh": "n. 一餐, 膳食, 粗粉\nvi. 进餐",
+      "en": "n. the food served and eaten at one time\nn. any of the occasions for eating food that occur by custom or habit at more or less fixed times\nn. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
+      "phonetic": "mi:l",
+      "forms": [
+        "meal",
+        "meals"
+      ],
+      "example": "It made the advice easier to relate to a meal.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "balance",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balance"
+      ],
+      "example": "Sweden had already developed a plate model in the late 1970s, using three sections to show the balance between vegetables, starchy foods and protein sources within a meal.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "starchy",
+      "headword": "starchy",
+      "kind": "word",
+      "zh": "a. 淀粉的, 浆糊的, 浆糊状的, 古板的",
+      "en": "a. consisting of or containing starch\ns. rigidly formal",
+      "phonetic": "'stɑ:tʃi",
+      "forms": [
+        "starchy"
+      ],
+      "example": "Sweden had already developed a plate model in the late 1970s, using three sections to show the balance between vegetables, starchy foods and protein sources within a meal.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "swedish",
+      "headword": "Swedish",
+      "kind": "word",
+      "zh": "n. 瑞典人, 瑞典语\na. 瑞典的, 瑞典人的, 瑞典语的",
+      "en": "n. a Scandinavian language that is the official language of Sweden and one of two official languages of Finland\na. of or relating to or characteristic of Sweden or its people or culture or language",
+      "phonetic": "'swi:diʃ",
+      "forms": [
+        "swedish"
+      ],
+      "example": "The Swedish plate was updated in 2016 to reflect different dietary choices, such as beans and tofu in the protein section.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "updated",
+      "headword": "update",
+      "kind": "word",
+      "zh": "vt. 更新, 使现代化\nn. 更新\n[计] 更新",
+      "en": "n. news that updates your information\nv. modernize or bring up to date\nv. bring up to date; supply with recent information\nv. bring to the latest state of technology",
+      "phonetic": "ʌp'deit",
+      "forms": [
+        "updated"
+      ],
+      "example": "The Swedish plate was updated in 2016 to reflect different dietary choices, such as beans and tofu in the protein section.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "dietary",
+      "headword": "dietary",
+      "kind": "word",
+      "zh": "a. 饮食的\nn. 规定食物",
+      "en": "n. a regulated daily food allowance\na. of or relating to the diet",
+      "phonetic": "'daiәtәri",
+      "forms": [
+        "dietary"
+      ],
+      "example": "The Swedish plate was updated in 2016 to reflect different dietary choices, such as beans and tofu in the protein section.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "beans",
+      "headword": "bean",
+      "kind": "word",
+      "zh": "n. 豆子\n[化] 油嘴; 豆",
+      "en": "n. any of various edible seeds of plants of the family Leguminosae used for food\nn. any of various seeds or fruits that are beans or resemble beans\nn. any of various leguminous plants grown for their edible seeds and pods\nv. hit on the head, especially with a pitched baseball",
+      "phonetic": "bi:n",
+      "forms": [
+        "beans"
+      ],
+      "example": "The Swedish plate was updated in 2016 to reflect different dietary choices, such as beans and tofu in the protein section.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "tofu",
+      "headword": "tofu",
+      "kind": "word",
+      "zh": "n. 豆腐",
+      "en": "n cheeselike food made of curdled soybean milk",
+      "phonetic": "'tәufu:",
+      "forms": [
+        "tofu"
+      ],
+      "example": "The Swedish plate was updated in 2016 to reflect different dietary choices, such as beans and tofu in the protein section.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "recommendations",
+      "headword": "recommendation",
+      "kind": "word",
+      "zh": "n. 推荐, 介绍, 推荐信, 劝告\n[经] 建议书",
+      "en": "n. something (as a course of action) that is recommended as advisable\nn. something that recommends (or expresses commendation of) a person or thing as worthy or desirable\nn. any quality or characteristic that gains a person a favorable reception or acceptance or admission",
+      "phonetic": ".rekәmen'deiʃәn",
+      "forms": [
+        "recommendations"
+      ],
+      "example": "It now has three versions for different populations; one for people who meet physical activity recommendations, one for those who are less active and therefore need less energy, and one for older adults with poor appetite.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "active",
+      "headword": "active",
+      "kind": "word",
+      "zh": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的\nn. 主动语态, 积极分子",
+      "en": "n. a person who is a participating member of an organization\na. tending to become more severe or wider in scope\ns. engaged in or ready for military or naval operations\na. disposed to take action or effectuate change",
+      "phonetic": "'æktiv",
+      "forms": [
+        "active"
+      ],
+      "example": "It now has three versions for different populations; one for people who meet physical activity recommendations, one for those who are less active and therefore need less energy, and one for older adults with poor appetite.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "appetite",
+      "headword": "appetite",
+      "kind": "word",
+      "zh": "n. 食欲, 欲望, 爱好\n[医] 食欲",
+      "en": "n. a feeling of craving something",
+      "phonetic": "'æpitait",
+      "forms": [
+        "appetite"
+      ],
+      "example": "It now has three versions for different populations; one for people who meet physical activity recommendations, one for those who are less active and therefore need less energy, and one for older adults with poor appetite.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "highlights",
+      "headword": "highlight",
+      "kind": "word",
+      "zh": "n. 加亮区, 精彩场面\nvt. 加亮, 使显著, 以强光照射, 突出\n[计] 突出",
+      "en": "n. the most interesting or memorable part\nn. an area of lightness in a picture\nv. apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "phonetic": "'hailait",
+      "forms": [
+        "highlights"
+      ],
+      "example": "Canada’s plate, published in 2019, highlights a bigger proportion of vegetables and fruits and a smaller proportion of wholegrain foods and protein foods (also emphasising different sources of protein).",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "emphasising",
+      "headword": "emphasise",
+      "kind": "word",
+      "zh": "vt. 强调, 重读, 加强...的语气, 着重",
+      "en": "v give extra weight to (a communication)\nv to stress, single out as important",
+      "phonetic": "",
+      "forms": [
+        "emphasising",
+        "emphasise"
+      ],
+      "example": "Canada’s plate, published in 2019, highlights a bigger proportion of vegetables and fruits and a smaller proportion of wholegrain foods and protein foods (also emphasising different sources of protein).",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "mediterranean",
+      "headword": "Mediterranean",
+      "kind": "word",
+      "zh": "n. 地中海, 地中海民族\na. 地中海的, 地中海民族的",
+      "en": "n. the largest inland sea; between Europe and Africa and Asia\na. of or relating to or characteristic of or located near the Mediterranean Sea",
+      "phonetic": ".meditә'reiniәn",
+      "forms": [
+        "mediterranean"
+      ],
+      "example": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "exercise",
+      "headword": "exercise",
+      "kind": "word",
+      "zh": "n. 行使, 执行, 运动, 练习, 作业\nvt. 运用, 练习, 运动\nvi. 练习, 锻炼",
+      "en": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches",
+      "phonetic": "'eksәsaiz",
+      "forms": [
+        "exercise"
+      ],
+      "example": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "traditions",
+      "headword": "tradition",
+      "kind": "word",
+      "zh": "n. 传说, 传统, 交付\n[法] 传统, 惯例, 移交",
+      "en": "n. an inherited pattern of thought or action",
+      "phonetic": "trә'diʃәn",
+      "forms": [
+        "traditions"
+      ],
+      "example": "Other countries developed their own food guides, reflecting local diets and traditions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "emphasis",
+      "headword": "emphasis",
+      "kind": "word",
+      "zh": "n. 强调, 加强, 重点, 强语气",
+      "en": "n. special importance or significance\nn. special and significant stress by means of position or repetition e.g.",
+      "phonetic": "'emfәsis",
+      "forms": [
+        "emphasis"
+      ],
+      "example": "Its emphasis on red meat and full-fat dairy has drawn criticism for sending mixed messages about saturated fat, while giving wholegrains less prominence.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "criticism",
+      "headword": "criticism",
+      "kind": "word",
+      "zh": "n. 批评, 评论, 非难\n[法] 批判, 批评, 评论",
+      "en": "n. disapproval expressed by pointing out faults or shortcomings\nn. a serious examination and judgment of something\nn. a written evaluation of a work of literature",
+      "phonetic": "'kritisizm",
+      "forms": [
+        "criticism"
+      ],
+      "example": "Its emphasis on red meat and full-fat dairy has drawn criticism for sending mixed messages about saturated fat, while giving wholegrains less prominence.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "saturated",
+      "headword": "saturate",
+      "kind": "word",
+      "zh": "vt. 使渗透, 浸透, 使充满, 使饱和\na. 浸透的, 饱和度高的, 深颜色的\nn. 饱和化合物, 饱和脂肪酸",
+      "en": "v. cause (a chemical compound, vapour, solution, magnetic material) to unite with the greatest possible amount of another substance",
+      "phonetic": "'sætʃәreit",
+      "forms": [
+        "saturated"
+      ],
+      "example": "Its emphasis on red meat and full-fat dairy has drawn criticism for sending mixed messages about saturated fat, while giving wholegrains less prominence.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "basis",
+      "headword": "basis",
+      "kind": "word",
+      "zh": "n. 基础, 主要成分\n[化] 基底",
+      "en": "n. the fundamental assumptions from which something is begun or developed or calculated or explained\nn. the most important or necessary part of something",
+      "phonetic": "'beisis",
+      "forms": [
+        "basis"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "sidelined",
+      "headword": "sideline",
+      "kind": "word",
+      "zh": "n. 副业, 旁线, 界线, 兼职, 旁观者看法\nvt. 使退出比赛场地",
+      "en": "n. a line that marks the side boundary of a playing field\nn. an auxiliary line of merchandise\nv. remove from the center of activity or attention; place into an inferior position",
+      "phonetic": "'saidlain",
+      "forms": [
+        "sidelined"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "independent",
+      "headword": "independent",
+      "kind": "word",
+      "zh": "n. 独立自主者, 无党派者\na. 独立的, 有主见的, 不须依赖的, 不受约束的",
+      "en": "a. free from external control and constraint\na. (of a clause) capable of standing syntactically alone as a complete sentence\ns. not controlled by a party or interest group",
+      "phonetic": ".indi'pendәnt",
+      "forms": [
+        "independent"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "advisory",
+      "headword": "advisory",
+      "kind": "word",
+      "zh": "a. 顾问的, 咨询的, 劝告的\n[法] 劝告的, 忠告的, 咨询的",
+      "en": "n. an announcement that usually advises or warns the public of some threat\ns. giving advice",
+      "phonetic": "әd'vaizәri",
+      "forms": [
+        "advisory"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "transparent",
+      "headword": "transparent",
+      "kind": "word",
+      "zh": "a. 透明的, 显然的, 清晰的\n[计] 透明",
+      "en": "s. easily understood or seen through (because of a lack of subtlety)",
+      "phonetic": "træns'pærәnt",
+      "forms": [
+        "transparent"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "review",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "review"
+      ],
+      "example": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "cardiology",
+      "headword": "cardiology",
+      "kind": "word",
+      "zh": "n. 心脏病学\n[医] 心[脏]病学",
+      "en": "n. the branch of medicine dealing with the heart and its diseases",
+      "phonetic": ".kɑ:di'ɒlәdʒi",
+      "forms": [
+        "cardiology"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "specialists",
+      "headword": "specialist",
+      "kind": "word",
+      "zh": "n. 专门医师, 专家\na. 专业的, 专家的",
+      "en": "n. an expert who is devoted to one occupation or branch of learning\nn. practices one branch of medicine",
+      "phonetic": "'speiʃәlist",
+      "forms": [
+        "specialists"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "promotion",
+      "headword": "promotion",
+      "kind": "word",
+      "zh": "n. 晋级, 创建, 增进\n[经] 推广, 推销, 促进",
+      "en": "n. a message issued in behalf of some product or cause or idea or person or institution\nn. act of raising in rank or position\nn. encouragement of the progress or growth or acceptance of something",
+      "phonetic": "prәu'mәuʃәn",
+      "forms": [
+        "promotion"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "beef",
+      "headword": "beef",
+      "kind": "word",
+      "zh": "n. 牛肉, 肌肉\nvt. 养(牛), 宰(牛)\nvi. 抱怨, 告发",
+      "en": "n. cattle that are reared for their meat\nn. meat from an adult domestic bovine",
+      "phonetic": "bi:f",
+      "forms": [
+        "beef"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "favouring",
+      "headword": "favour",
+      "kind": "word",
+      "zh": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+      "en": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
+      "phonetic": "'feivә",
+      "forms": [
+        "favouring"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "journal",
+      "headword": "journal",
+      "kind": "word",
+      "zh": "n. 日记, 杂志, 日报\n[化] 轴颈",
+      "en": "n. a periodical dedicated to a particular subject\nn. a record book as a physical object\nn. the part of the axle contained by a bearing",
+      "phonetic": "'dʒә:nәl",
+      "forms": [
+        "journal"
+      ],
+      "example": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "advances",
+      "headword": "advance",
+      "kind": "word",
+      "zh": "n. 前进, 进展, 行过的路程\nvi. 前进, 进展, 提高, 上涨\nvt. 使前进, 促进, 提出, 提高, 使提前, 预付\na. 前面的, 预先的",
+      "en": "n. an amount paid before it is earned\nn. increase in price or value\nv. move forward, also in the metaphorical sense\nv. bring forward for consideration or acceptance",
+      "phonetic": "әd'vɑ:ns",
+      "forms": [
+        "advances"
+      ],
+      "example": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "combines",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combines"
+      ],
+      "example": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "dietary guidelines",
+      "headword": "dietary guidelines",
+      "kind": "phrase",
+      "zh": "膳食指南",
+      "en": "recommendations about healthy patterns of eating",
+      "forms": [
+        "dietary guidelines"
+      ],
+      "example": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v128",
+      "term": "guidelines",
+      "headword": "guideline",
+      "kind": "word",
+      "zh": "n. 指导路线, 方针, 指标\n[经] 指导路线, 方针, 准则",
+      "en": "n. a light line that is used in lettering to help align the letters",
+      "phonetic": "'gaidlain",
+      "forms": [
+        "guidelines"
+      ],
+      "example": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "draw on",
+      "headword": "draw on",
+      "kind": "phrase",
+      "zh": "借鉴；利用",
+      "en": "to use existing knowledge or resources",
+      "forms": [
+        "draw on"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v130",
+      "term": "reference",
+      "headword": "reference",
+      "kind": "word",
+      "zh": "n. 参考, 索引, 参照\nvt. 给...加上参考资料\nvt. 引用\nvi. 引用\n[计] 引用",
+      "en": "n. the most direct or specific meaning of a word or expression; the class of objects that an expression refers to\nn. the act of referring or consulting\nn. a publication (or a passage from a publication) that is referred to\nn. the relation between a word or phrase and the object or idea it refers to",
+      "phonetic": "'refәrәns",
+      "forms": [
+        "reference"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "healthily",
+      "headword": "healthily",
+      "kind": "word",
+      "zh": "adv. 健康地",
+      "en": "r. in a levelheaded manner",
+      "phonetic": "'helθili",
+      "forms": [
+        "healthily"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "lentils",
+      "headword": "lentil",
+      "kind": "word",
+      "zh": "n. 兵豆",
+      "en": "n. round flat seed of the lentil plant used for food\nn. the fruit or seed of a lentil plant\nn. widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder",
+      "phonetic": "'lentil",
+      "forms": [
+        "lentils"
+      ],
+      "example": "Its recommendations emphasise vegetables, fruit, wholegrains, beans, lentils, nuts and plant oils.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "nuts",
+      "headword": "nut",
+      "kind": "word",
+      "zh": "n. 坚果, 核心, 螺帽\n[计] Novell NetWare服务器实用程序",
+      "en": "n. usually large hard-shelled seed\nn. Egyptian goddess of the sky\nn. a small (usually square or hexagonal) metal block with internal screw thread to be fitted onto a bolt\nv. gather nuts",
+      "phonetic": "nʌt",
+      "forms": [
+        "nuts"
+      ],
+      "example": "Its recommendations emphasise vegetables, fruit, wholegrains, beans, lentils, nuts and plant oils.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "carbohydrates",
+      "headword": "carbohydrate",
+      "kind": "word",
+      "zh": "n. 碳水化合物, 糖类\n[化] 糖类; 碳水化合物",
+      "en": "n. an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain",
+      "phonetic": ".kɑ:bәu'haidreit",
+      "forms": [
+        "carbohydrates"
+      ],
+      "example": "The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "fibre",
+      "headword": "fibre",
+      "kind": "word",
+      "zh": "n. 纤维, 构造, 纤维制品\n[化] 纤维",
+      "en": "n a slender and greatly elongated substance capable of being spun into yarn\nn any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)\nn the inherent complex of attributes that determines a persons moral and ethical actions and reactions\nn a leatherlike material made by compressing layers of paper or cloth",
+      "phonetic": "'faibә",
+      "forms": [
+        "fibre"
+      ],
+      "example": "The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "blood sugar",
+      "headword": "blood sugar",
+      "kind": "phrase",
+      "zh": "血糖",
+      "en": "glucose present in the blood",
+      "forms": [
+        "blood sugar"
+      ],
+      "example": "The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.",
+      "paragraph": 25,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v139",
+      "term": "sugar",
+      "headword": "sugar",
+      "kind": "word",
+      "zh": "n. 糖, 糖块, 甜言蜜语\nvt. 加糖于, 使甜蜜, 粉饰, 美化\nvi. 制成糖",
+      "en": "n. a white crystalline carbohydrate used as a sweetener and preservative\nv. sweeten with sugar",
+      "phonetic": "'ʃugә",
+      "forms": [
+        "sugar"
+      ],
+      "example": "The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "quantity",
+      "headword": "quantity",
+      "kind": "word",
+      "zh": "n. 量, 数量, 总量\n[计] 数量; 量",
+      "en": "n. an adequate or large amount\nn. the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
+      "phonetic": "'kwɒntәti",
+      "forms": [
+        "quantity"
+      ],
+      "example": "The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "poultry",
+      "headword": "poultry",
+      "kind": "word",
+      "zh": "n. 家禽",
+      "en": "n. flesh of chickens or turkeys or ducks or geese raised for food",
+      "phonetic": "'pәultri",
+      "forms": [
+        "poultry"
+      ],
+      "example": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "preferred",
+      "headword": "prefer",
+      "kind": "word",
+      "zh": "vt. 宁可, 较喜欢, 提出\n[法] 给予优先权, 优先偿还, 提出",
+      "en": "v. like better; value more highly\nv. promote over another\nv. give preference to one creditor over another",
+      "phonetic": "pri'fә:",
+      "forms": [
+        "preferred"
+      ],
+      "example": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "vegetarian",
+      "headword": "vegetarian",
+      "kind": "word",
+      "zh": "n. 素食者, 食草动物\na. 素食的",
+      "en": "n. eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products",
+      "phonetic": ".vedʒi'tєәriәn",
+      "forms": [
+        "vegetarian"
+      ],
+      "example": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "vegan",
+      "headword": "vegan",
+      "kind": "word",
+      "zh": "n. 严格的素食主义者\n[医] 绝对素食者",
+      "en": "n. a strict vegetarian; someone who eats no animal or dairy products at all",
+      "phonetic": "'vegәn",
+      "forms": [
+        "vegan"
+      ],
+      "example": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "intention",
+      "headword": "intention",
+      "kind": "word",
+      "zh": "n. 意图, 目的, 含义\n[医] 愈合, 意向",
+      "en": "n. (usually plural) the goal with respect to a marriage proposal\nn. an act of intending; a volition that you intend to carry out",
+      "phonetic": "in'tenʃәn",
+      "forms": [
+        "intention"
+      ],
+      "example": "The intention is to allow people to use foods available and familiar where they live.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "The intention is to allow people to use foods available and familiar where they live.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "disclose",
+      "headword": "disclose",
+      "kind": "word",
+      "zh": "vt. 揭露, 透露\n[法] 揭发, 揭露, 公开",
+      "en": "v. disclose to view as by removing a cover",
+      "phonetic": "dis'klәuz",
+      "forms": [
+        "disclose"
+      ],
+      "example": "The authors report no funding for this study, although several disclose financial relationships with food companies.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "proposal",
+      "headword": "proposal",
+      "kind": "word",
+      "zh": "n. 提议, 计划, 求婚\n[经] 提案, 申请, 投标",
+      "en": "n. something proposed (such as a plan or assumption)\nn. the act of making a proposal",
+      "phonetic": "prә'pәuzl",
+      "forms": [
+        "proposal"
+      ],
+      "example": "It is a proposal, not an official replacement for national dietary guidelines.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "replacement",
+      "headword": "replacement",
+      "kind": "word",
+      "zh": "n. 归还, 更换, 代替者\n[医] 复位, 置换",
+      "en": "n. the act of furnishing an equivalent person or thing in the place of another",
+      "phonetic": "ri'pleismәnt",
+      "forms": [
+        "replacement"
+      ],
+      "example": "It is a proposal, not an official replacement for national dietary guidelines.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "redesigned",
+      "headword": "redesign",
+      "kind": "word",
+      "zh": "[化] 重新设计",
+      "en": "v. design anew, make a new design for",
+      "phonetic": ",ri:di'zain",
+      "forms": [
+        "redesigned"
+      ],
+      "example": "The food pyramid has been redesigned many times, reflecting changes in nutrition science and in how advice is communicated.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "communicated",
+      "headword": "communicate",
+      "kind": "word",
+      "zh": "vt. 显露, 传达, 感染\nvi. 通讯",
+      "en": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas",
+      "phonetic": "kә'mju:nikeit",
+      "forms": [
+        "communicated"
+      ],
+      "example": "The food pyramid has been redesigned many times, reflecting changes in nutrition science and in how advice is communicated.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "weekly",
+      "headword": "weekly",
+      "kind": "word",
+      "zh": "n. 周刊, 周报\na. 每周的, 一周一次的, 周刊的\nadv. 每周, 一周一次",
+      "en": "n. a periodical that is published every week (or 52 issues per year)\ns. of or occurring every seven days",
+      "phonetic": "'wi:kli",
+      "forms": [
+        "weekly"
+      ],
+      "example": "A food circle shows variety across food groups, a pyramid may guide the weekly shop, and a plate helps balance a single meal.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "dietitians",
+      "headword": "dietitian",
+      "kind": "word",
+      "zh": "n. 饮食学家, 营养学家\n[医] 饮食学家",
+      "en": "n a specialist in the study of nutrition",
+      "phonetic": ",daiә'tiʃәn",
+      "forms": [
+        "dietitians"
+      ],
+      "example": "A food circle shows variety across food groups, a pyramid may guide the weekly shop, and a plate helps balance a single meal. Dietitians and teachers can use them together.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or olive oil instead of butter.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "instead of",
+      "headword": "instead of",
+      "kind": "phrase",
+      "zh": "代替；而不是",
+      "en": "in place of something else",
+      "forms": [
+        "instead of"
+      ],
+      "example": "For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or olive oil instead of butter.",
+      "paragraph": 31,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v156",
+      "term": "olive",
+      "headword": "olive",
+      "kind": "word",
+      "zh": "n. 橄榄, 橄榄树, 橄榄色, 橄榄枝\na. 黄绿色的, 黄褐色的, 橄榄色的",
+      "en": "n. small ovoid fruit of the European olive tree; important food and source of oil\nn. evergreen tree cultivated in the Mediterranean region since antiquity and now elsewhere; has edible shiny black fruits\nn. hard yellow often variegated wood of an olive tree; used in cabinetwork\nn. one-seeded fruit of the European olive tree usually pickled and used as a relish",
+      "phonetic": "'ɒliv",
+      "forms": [
+        "olive"
+      ],
+      "example": "For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or olive oil instead of butter.",
+      "paragraph": 31,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "translate",
+      "headword": "translate",
+      "kind": "word",
+      "zh": "vt. 翻译, 解释, 转化, 转变为, 调动\nvi. 翻译, 被译\n[计] 转换",
+      "en": "v. restate (words) from one language into another language\nv. change from one form or medium into another\nv. bring to a certain spiritual state\nv. change the position of (figures or bodies) in space without rotation",
+      "phonetic": "træns'leit",
+      "forms": [
+        "translate"
+      ],
+      "example": "Whatever its shape, a food guide has to translate into meals that people can afford and enjoy.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "afford",
+      "headword": "afford",
+      "kind": "word",
+      "zh": "vt. 买得起, 足以, 给予",
+      "en": "v. be able to spare or give up\nv. have the financial means to do something or buy something\nv. afford access to",
+      "phonetic": "ә'fɒ:d",
+      "forms": [
+        "afford"
+      ],
+      "example": "Whatever its shape, a food guide has to translate into meals that people can afford and enjoy.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      20,
+      32
+    ],
+    "wordBank": [
+      "alongside",
+      "olive",
+      "transparent",
+      "advice",
+      "disclose",
+      "preferred",
+      "balance",
+      "criticism",
+      "emphasise",
+      "journal"
+    ],
+    "parts": [
+      {
+        "text": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " food. Other countries developed their own food guides, reflecting local diets and traditions.\n\nThe pyramid returns\n\nIn January 2026, the US government brought back the food pyramid, this time upside down. Its emphasis on red meat and full-fat dairy has drawn "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " for sending mixed messages about saturated fat, while giving wholegrains less prominence.\n\nExperts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " review process. Cardiology specialists have also challenged the promotion of butter and beef fat, pointing to evidence favouring liquid plant oils for heart health.\n\nThe more recent International Food Guide Pyramid, published in the "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " Advances in Nutrition, combines research and national dietary guidelines. Its proportions draw on the Eat-Lancet reference diet, which sets out how people could eat healthily while reducing the damage food production does to the planet.\n\nIts recommendations "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " vegetables, fruit, wholegrains, beans, lentils, nuts and plant oils. Animal foods fit in smaller amounts. The pyramid judges carbohydrates by fibre, food structure and effects on blood sugar, rather than simply by quantity.\n\nFish and poultry are "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " over red and processed meat, and vegetarian and vegan versions of the pattern are possible. The intention is to allow people to use foods available and familiar where they live.\n\nThe authors report no funding for this study, although several "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " financial relationships with food companies. It is a proposal, not an official replacement for national dietary guidelines.\n\nDifferent pictures for different jobs\n\nThe food pyramid has been redesigned many times, reflecting changes in nutrition science and in how "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " is communicated. Different images do different jobs.\n\nA food circle shows variety across food groups, a pyramid may guide the weekly shop, and a plate helps "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " a single meal. Dietitians and teachers can use them together.\n\nThe new Advances in Nutrition paper does not test whether people understand or follow its pyramid better than a plate. For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " oil instead of butter.\n\nWhatever its shape, a food guide has to translate into meals that people can afford and enjoy."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "alongside",
+        "vocabularyId": "v92",
+        "explanation": "原文此处使用 alongside（alongside）。结合上下文辨认词义与词形。",
+        "evidence": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
+        "paragraph": 20
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "criticism",
+        "vocabularyId": "v110",
+        "explanation": "原文此处使用 criticism（criticism）。结合上下文辨认词义与词形。",
+        "evidence": "Its emphasis on red meat and full-fat dairy has drawn criticism for sending mixed messages about saturated fat, while giving wholegrains less prominence.",
+        "paragraph": 22
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "transparent",
+        "vocabularyId": "v116",
+        "explanation": "原文此处使用 transparent（transparent）。结合上下文辨认词义与词形。",
+        "evidence": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
+        "paragraph": 23
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "journal",
+        "vocabularyId": "v124",
+        "explanation": "原文此处使用 journal（journal）。结合上下文辨认词义与词形。",
+        "evidence": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
+        "paragraph": 24
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "emphasise",
+        "vocabularyId": "v105",
+        "explanation": "原文此处使用 emphasise（emphasise）。结合上下文辨认词义与词形。",
+        "evidence": "Its recommendations emphasise vegetables, fruit, wholegrains, beans, lentils, nuts and plant oils.",
+        "paragraph": 25
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "preferred",
+        "vocabularyId": "v142",
+        "explanation": "原文此处使用 preferred（prefer）。结合上下文辨认词义与词形。",
+        "evidence": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+        "paragraph": 26
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "disclose",
+        "vocabularyId": "v147",
+        "explanation": "原文此处使用 disclose（disclose）。结合上下文辨认词义与词形。",
+        "evidence": "The authors report no funding for this study, although several disclose financial relationships with food companies.",
+        "paragraph": 27
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "advice",
+        "vocabularyId": "v26",
+        "explanation": "原文此处使用 advice（advice）。结合上下文辨认词义与词形。",
+        "evidence": "The food pyramid has been redesigned many times, reflecting changes in nutrition science and in how advice is communicated.",
+        "paragraph": 29
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "balance",
+        "vocabularyId": "v94",
+        "explanation": "原文此处使用 balance（balance）。结合上下文辨认词义与词形。",
+        "evidence": "A food circle shows variety across food groups, a pyramid may guide the weekly shop, and a plate helps balance a single meal.",
+        "paragraph": 30
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "olive",
+        "vocabularyId": "v156",
+        "explanation": "原文此处使用 olive（olive）。结合上下文辨认词义与词形。",
+        "evidence": "For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or olive oil instead of butter.",
+        "paragraph": 31
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Biomarkers help measure health, and new research methods can help discover additional markers.",
+          "Blood changes may provide clues to very early processes associated with ovarian cancer.",
+          "Food-based healthcare approaches have a long history and are attracting renewed interest.",
+          "The history of the food pyramid shows how nutrition advice and its presentation have changed."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "The history of the food pyramid shows that its design has been shaped by politics, commercial interests as well as scientific advice.",
+        "paragraph": 4
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What was the original Swedish food pyramid designed to communicate?",
+        "options": [
+          "Which restaurant charged the highest price",
+          "How much of different foods people should eat",
+          "How to diagnose every nutritional illness",
+          "Which foods would never require refrigeration"
+        ],
+        "answer": 1,
+        "explanation": "第 6 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The idea began in Sweden in 1974 when a food educator devised a pyramid to show people how much of different foods they should eat.",
+        "paragraph": 6
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 12?",
+        "options": [
+          "The two designs reflect different views about what a healthy diet should look like.",
+          "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
+          "In January 2026, the US government unveiled an upside-down version, giving prominence to foods such as red meat and full-fat dairy.",
+          "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended."
+        ],
+        "answer": 3,
+        "explanation": "定位第 12 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Bread, cereals, rice and pasta filled its base, with six to 11 servings a day recommended.",
+        "paragraph": 12
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.”",
+        "options": [
+          "Paragraph 19",
+          "Paragraph 20",
+          "Paragraph 14",
+          "Paragraph 4"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 20 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
+        "paragraph": 20
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.”",
+        "options": [
+          "Paragraph 26",
+          "Paragraph 3",
+          "Paragraph 11",
+          "Paragraph 27"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 26 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
+        "paragraph": 26
+      }
+    ]
+  },
+  "revision": "5f9e3647b76d0eb64533ece2c8faa231edadab7025a6ccb061f63fef3a4b9417"
+}

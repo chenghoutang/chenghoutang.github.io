@@ -1,0 +1,3254 @@
+{
+  "schemaVersion": 1,
+  "folder": "030",
+  "articleSha256": "c4e775dc2c317706a36b7ac409e03bc49c7e00ae8a9e9388b191211479234508",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "scratched",
+      "headword": "scratch",
+      "kind": "word",
+      "zh": "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线\nvt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉\nvi. 搔, 抓, 发刮擦声, 勉强糊口\na. 碰巧的, 凑合的, 打草稿用的\n[计] 擦除",
+      "en": "n. a competitor who has withdrawn from competition\nn. (golf) a handicap of zero strokes\nn. an indication of damage\nv. cut the surface of; wear away the surface of",
+      "phonetic": "skrætʃ",
+      "forms": [
+        "scratched"
+      ],
+      "example": "For more than 2,000 years, scientists have scratched their heads over one of the most basic mysteries of the natural world: Where do birds go?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "mysteries",
+      "headword": "mystery",
+      "kind": "word",
+      "zh": "n. 秘密, 神秘, 奥秘",
+      "en": "n. something that baffles understanding and cannot be explained\nn. a story about a crime (usually murder) presented as a novel or play or movie",
+      "phonetic": "'mistәri",
+      "forms": [
+        "mysteries"
+      ],
+      "example": "For more than 2,000 years, scientists have scratched their heads over one of the most basic mysteries of the natural world: Where do birds go?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "billions",
+      "headword": "billions",
+      "kind": "word",
+      "zh": "n. 十亿（billion的复数形式）",
+      "en": "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen\nn. a very large indefinite number (usually hyperbole)\nn. the number that is represented as a one followed by 9 zeros",
+      "phonetic": "'bɪljənz",
+      "forms": [
+        "billions"
+      ],
+      "example": "Billions of birds appear and disappear with the seasons every year.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "disappear",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappear",
+        "disappearing"
+      ],
+      "example": "Billions of birds appear and disappear with the seasons every year.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "naturalists",
+      "headword": "naturalist",
+      "kind": "word",
+      "zh": "n. 自然主义者",
+      "en": "n. an advocate of the doctrine that the world can be understood in scientific terms\nn. a biologist knowledgeable about natural history (especially botany and zoology)",
+      "phonetic": "'nætʃәrәlist",
+      "forms": [
+        "naturalists"
+      ],
+      "example": "Early naturalists offered explanations for the disappearances that today seem fantastical: Birds transformed into other species, one theory went.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "explanations",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanations"
+      ],
+      "example": "Early naturalists offered explanations for the disappearances that today seem fantastical: Birds transformed into other species, one theory went.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "disappearances",
+      "headword": "disappearance",
+      "kind": "word",
+      "zh": "n. 看不见, 失踪, 消失",
+      "en": "n. the act of leaving secretly or without explanation\nn. the event of passing out of sight\nn. ceasing to exist",
+      "phonetic": ".disә'piәrәns",
+      "forms": [
+        "disappearances"
+      ],
+      "example": "Early naturalists offered explanations for the disappearances that today seem fantastical: Birds transformed into other species, one theory went.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "fantastical",
+      "headword": "fantastical",
+      "kind": "word",
+      "zh": "a. 空想的；捕风捉影的",
+      "en": "s existing in fancy only\ns ludicrously odd",
+      "phonetic": "fæn'tæstikәl",
+      "forms": [
+        "fantastical"
+      ],
+      "example": "Early naturalists offered explanations for the disappearances that today seem fantastical: Birds transformed into other species, one theory went.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "transformed",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transformed"
+      ],
+      "example": "Early naturalists offered explanations for the disappearances that today seem fantastical: Birds transformed into other species, one theory went.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "hibernated",
+      "headword": "hibernate",
+      "kind": "word",
+      "zh": "vi. 过冬, 冬眠, 避寒",
+      "en": "v. sleep during winter\nv. be in an inactive or dormant state",
+      "phonetic": "'haibәneit",
+      "forms": [
+        "hibernated"
+      ],
+      "example": "Others suggested they hibernated underwater or even migrated to the moon.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "underwater",
+      "headword": "underwater",
+      "kind": "word",
+      "zh": "a. 在水中的\nadv. 在水下",
+      "en": "s beneath the surface of the water\ns growing or remaining under water",
+      "phonetic": "'ʌndә'wɒ:tә",
+      "forms": [
+        "underwater"
+      ],
+      "example": "Others suggested they hibernated underwater or even migrated to the moon.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "migrated",
+      "headword": "migrate",
+      "kind": "word",
+      "zh": "vi. 移动, 移往, 随季节而移居\n[计] 迁移程序",
+      "en": "v. move from one country or region to another and settle there\nv. move periodically or seasonally",
+      "phonetic": "'maigreit",
+      "forms": [
+        "migrated",
+        "migrating",
+        "migrate"
+      ],
+      "example": "Others suggested they hibernated underwater or even migrated to the moon.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "moon",
+      "headword": "moon",
+      "kind": "word",
+      "zh": "n. 月亮, 月球, 月光\nvi. 闲荡\nvt. 虚度",
+      "en": "n. the natural satellite of the Earth\nn. any object resembling a moon\nn. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)\nn. any natural satellite of a planet",
+      "phonetic": "mu:n",
+      "forms": [
+        "moon"
+      ],
+      "example": "Others suggested they hibernated underwater or even migrated to the moon.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "traveling",
+      "headword": "traveling",
+      "kind": "word",
+      "zh": "a. 旅行的, 旅行用的, 移动的",
+      "en": "n the act of going from one place to another\nv change location; move, travel, or proceed, also metaphorically\nv undertake a journey or trip\nv make a trip for pleasure\nv travel upon or across\nv undergo transportation as in a vehicle\nv travel from place to place, as for the purpose of finding work, preaching, or acting as a judge",
+      "phonetic": "'trævliŋ",
+      "forms": [
+        "traveling"
+      ],
+      "example": "The truth, that these small animals were traveling thousands of miles across the planet, must once have seemed just as improbable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "The truth, that these small animals were traveling thousands of miles across the planet, must once have seemed just as improbable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "The truth, that these small animals were traveling thousands of miles across the planet, must once have seemed just as improbable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "improbable",
+      "headword": "improbable",
+      "kind": "word",
+      "zh": "a. 不大可能的, 不象发生的, 荒谬可笑的\n[法] 未必会的, 不大可能发生的, 未必确实的",
+      "en": "a. not likely to be true or to occur or to have occurred\ns. having a probability too low to inspire belief\ns. too improbable to admit of belief",
+      "phonetic": "im'prɒbәbl",
+      "forms": [
+        "improbable"
+      ],
+      "example": "The truth, that these small animals were traveling thousands of miles across the planet, must once have seemed just as improbable.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "dramatic",
+      "headword": "dramatic",
+      "kind": "word",
+      "zh": "a. 戏剧性的, 生动的",
+      "en": "a. suitable to or characteristic of drama\ns. sensational in appearance or thrilling in effect\na. pertaining to or characteristic of drama\na. used of a singer or singing voice that is marked by power and expressiveness and a histrionic or theatrical style",
+      "phonetic": "drә'mætik",
+      "forms": [
+        "dramatic"
+      ],
+      "example": "Then, in the early 1800s, dramatic evidence emerged supporting the theory of migration.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "emerged",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerged",
+        "emerges"
+      ],
+      "example": "Then, in the early 1800s, dramatic evidence emerged supporting the theory of migration.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "migration",
+      "headword": "migration",
+      "kind": "word",
+      "zh": "n. 移民, 移往, 移动\n[计] 迁移",
+      "en": "n. the movement of persons from one country or locality to another\nn. a group of people migrating together (especially in some given time period)\nn. (chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule",
+      "phonetic": "mai'greiʃәn",
+      "forms": [
+        "migration",
+        "migrations"
+      ],
+      "example": "Then, in the early 1800s, dramatic evidence emerged supporting the theory of migration.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "storks",
+      "headword": "stork",
+      "kind": "word",
+      "zh": "n. 鹳",
+      "en": "n. large mostly Old World wading birds typically having white-and-black plumage",
+      "phonetic": "stɒ:k",
+      "forms": [
+        "storks"
+      ],
+      "example": "White storks began appearing in Germany with African arrows embedded in their bodies.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "african",
+      "headword": "African",
+      "kind": "word",
+      "zh": "n. 非洲人\na. 非洲的, 非洲人的",
+      "en": "n. a native or inhabitant of Africa\na. of or relating to the nations of Africa or their peoples",
+      "phonetic": "'æfrikәn",
+      "forms": [
+        "african"
+      ],
+      "example": "White storks began appearing in Germany with African arrows embedded in their bodies.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "arrows",
+      "headword": "arrow",
+      "kind": "word",
+      "zh": "n. 箭, 箭状物, 箭头记号",
+      "en": "n. a mark to indicate a direction or relation\nn. a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow",
+      "phonetic": "'ærәu",
+      "forms": [
+        "arrows",
+        "arrow"
+      ],
+      "example": "White storks began appearing in Germany with African arrows embedded in their bodies.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "embedded",
+      "headword": "embed",
+      "kind": "word",
+      "zh": "vt. 使插入, 使嵌入, 使深留脑中\n[计] 嵌入",
+      "en": "v. attach to, as a journalist to a military unit when reporting on a war",
+      "phonetic": "im'bed",
+      "forms": [
+        "embedded"
+      ],
+      "example": "White storks began appearing in Germany with African arrows embedded in their bodies.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "compelling",
+      "headword": "compel",
+      "kind": "word",
+      "zh": "vt. 强迫, 迫使",
+      "en": "v. force somebody to do something\nv. necessitate or exact",
+      "phonetic": "kәm'pel",
+      "forms": [
+        "compelling"
+      ],
+      "example": "They provided compelling evidence that birds disappearing from Europe were traveling all the way to Africa and back.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "africa",
+      "headword": "Africa",
+      "kind": "word",
+      "zh": "n. 非洲",
+      "en": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean",
+      "phonetic": "'æfrikә",
+      "forms": [
+        "africa"
+      ],
+      "example": "They provided compelling evidence that birds disappearing from Europe were traveling all the way to Africa and back.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "centuries",
+      "headword": "century",
+      "kind": "word",
+      "zh": "n. 世纪, 百年",
+      "en": "n. a period of 100 years",
+      "phonetic": "'sentʃuri",
+      "forms": [
+        "centuries"
+      ],
+      "example": "Almost two centuries later, scientists are still asking the same question, but our ability to answer it has been transformed.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "ornithological",
+      "headword": "ornithological",
+      "kind": "word",
+      "zh": "a. 鸟类学的",
+      "en": "a. of or relating to ornithology",
+      "phonetic": ".ɒ:niθә'lɒdʒikl",
+      "forms": [
+        "ornithological"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "brief",
+      "headword": "brief",
+      "kind": "word",
+      "zh": "n. 摘要, 简报\na. 简短的, 短暂的\nvt. 对...作简报, 摘要, 节录",
+      "en": "n. a document stating the facts and points of law of a client's case\nn. a condensed written summary or abstract\nv. give essential information to someone\ns. of short duration or distance",
+      "phonetic": "bri:f",
+      "forms": [
+        "brief"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "glimpses",
+      "headword": "glimpse",
+      "kind": "word",
+      "zh": "n. 一瞥, 一闪\nvi. 投以一瞥, 闪烁不定\nvt. 瞥见",
+      "en": "n. a brief or incomplete view\nn. a vague indication\nv. catch a glimpse of or see briefly",
+      "phonetic": "glimps",
+      "forms": [
+        "glimpses"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "specimen",
+      "headword": "specimen",
+      "kind": "word",
+      "zh": "n. 样品, 标本, 试料\n[化] 试样",
+      "en": "n. an example regarded as typical of its class\nn. a bit of tissue or blood or urine that is taken for diagnostic purposes",
+      "phonetic": "'spesimәn",
+      "forms": [
+        "specimen"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "collected",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collected"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "rare",
+      "headword": "rare",
+      "kind": "word",
+      "zh": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的\nadv. 非常",
+      "en": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density",
+      "phonetic": "rєә",
+      "forms": [
+        "rare"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "instance",
+      "headword": "instance",
+      "kind": "word",
+      "zh": "n. 建议, 情况, 例子, 场合\nvt. 引以为例, 举例说明",
+      "en": "n an occurrence of something\nn an item of information that is typical of a class or group\nv clarify by giving an example of",
+      "phonetic": "'instәns",
+      "forms": [
+        "instance"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "banded",
+      "headword": "band",
+      "kind": "word",
+      "zh": "n. 带子, 队, 乐队\nv. 联合, 结合\n[计] 频带; 波段; 区",
+      "en": "n. instrumentalists not including string players\nn. a stripe or stripes of contrasting color\nn. an adornment consisting of a strip of a contrasting color or material\nn. a range of frequencies between two limits",
+      "phonetic": "bænd",
+      "forms": [
+        "banded",
+        "banding",
+        "bands"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "recovered",
+      "headword": "recover",
+      "kind": "word",
+      "zh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉\n[计] 恢复",
+      "en": "v. get or find back; recover the use of\nv. regain a former condition after a financial loss\nv. regain or make up for\nv. cover anew",
+      "phonetic": "ri'kʌvә",
+      "forms": [
+        "recovered",
+        "recovering"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "hundreds",
+      "headword": "hundreds",
+      "kind": "word",
+      "zh": "n. 数百",
+      "en": "n ten 10s",
+      "phonetic": "",
+      "forms": [
+        "hundreds"
+      ],
+      "example": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "fragments",
+      "headword": "fragment",
+      "kind": "word",
+      "zh": "n. 碎片, 破片, 片段\n[计] 段落; 片段; 分段",
+      "en": "n. a piece broken off or cut off of something else\nn. an incomplete piece",
+      "phonetic": "'frægmәnt",
+      "forms": [
+        "fragments"
+      ],
+      "example": "From these fragments of intelligence, scientists reconstructed journeys that took place largely beyond their view.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "intelligence",
+      "headword": "intelligence",
+      "kind": "word",
+      "zh": "n. 智力, 情报, 信息\n[医] 智力",
+      "en": "n. the ability to comprehend; to understand and profit from experience\nn. a unit responsible for gathering and interpreting information about an enemy\nn. secret information about an enemy (or potential enemy)\nn. the operation of gathering information about an enemy",
+      "phonetic": "in'telidʒәns",
+      "forms": [
+        "intelligence"
+      ],
+      "example": "From these fragments of intelligence, scientists reconstructed journeys that took place largely beyond their view.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "reconstructed",
+      "headword": "reconstruct",
+      "kind": "word",
+      "zh": "vt. 重建, 改造\n[化] 按原样修复",
+      "en": "v. reassemble mentally\nv. cause somebody to adapt or reform socially or politically",
+      "phonetic": ".ri:kәns'trʌkt",
+      "forms": [
+        "reconstructed"
+      ],
+      "example": "From these fragments of intelligence, scientists reconstructed journeys that took place largely beyond their view.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "journeys",
+      "headword": "journey",
+      "kind": "word",
+      "zh": "n. 旅程, 旅行, 行程\nvi. 旅行\nvt. 游历",
+      "en": "n. the act of traveling from one place to another",
+      "phonetic": "'dʒә:ni",
+      "forms": [
+        "journeys"
+      ],
+      "example": "From these fragments of intelligence, scientists reconstructed journeys that took place largely beyond their view.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "From these fragments of intelligence, scientists reconstructed journeys that took place largely beyond their view.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "tool",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tool",
+        "tools"
+      ],
+      "example": "Bird banding was the first tool used to attempt a systematic approach to connect these fragments of information.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "attempt",
+      "headword": "attempt",
+      "kind": "word",
+      "zh": "n. 尝试, 企图\nvt. 尝试, 企图",
+      "en": "n. earnest and conscientious activity intended to do or accomplish something",
+      "phonetic": "ә'tempt",
+      "forms": [
+        "attempt"
+      ],
+      "example": "Bird banding was the first tool used to attempt a systematic approach to connect these fragments of information.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "systematic",
+      "headword": "systematic",
+      "kind": "word",
+      "zh": "a. 有系统的, 分类上的, 体系的\n[医] 系统的, 系的, 分类的",
+      "en": "a. characterized by order and planning",
+      "phonetic": ".sisti'mætik",
+      "forms": [
+        "systematic"
+      ],
+      "example": "Bird banding was the first tool used to attempt a systematic approach to connect these fragments of information.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "connect",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connect",
+        "connected"
+      ],
+      "example": "Bird banding was the first tool used to attempt a systematic approach to connect these fragments of information.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "uniquely",
+      "headword": "uniquely",
+      "kind": "word",
+      "zh": "adv. 独特地；珍奇地",
+      "en": "r. so as to be unique",
+      "phonetic": "",
+      "forms": [
+        "uniquely"
+      ],
+      "example": "Since the early 1900s, researchers have placed uniquely numbered metal bands on birds and hoped someone, somewhere, would encounter them again.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "numbered",
+      "headword": "numbered",
+      "kind": "word",
+      "zh": "a. 计数的, 编号的",
+      "en": "v add up in number or quantity\nv give numbers to\nv enumerate\nv put into a group\nv determine the number or amount of\nv place a limit on the number of",
+      "phonetic": "'nʌmbәd",
+      "forms": [
+        "numbered"
+      ],
+      "example": "Since the early 1900s, researchers have placed uniquely numbered metal bands on birds and hoped someone, somewhere, would encounter them again.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "metal",
+      "headword": "metal",
+      "kind": "word",
+      "zh": "n. 金属, 金属制品, 合金, 本质, 质料\na. 金属制的\nvt. 以金属覆盖",
+      "en": "v. cover with metal",
+      "phonetic": "'metәl",
+      "forms": [
+        "metal"
+      ],
+      "example": "Since the early 1900s, researchers have placed uniquely numbered metal bands on birds and hoped someone, somewhere, would encounter them again.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "encounter",
+      "headword": "encounter",
+      "kind": "word",
+      "zh": "n. 相会, 相遇, 遭遇\nvt. 遇见, 邂逅, 会战\nvi. 偶然相遇",
+      "en": "n. a casual meeting with a person or thing",
+      "phonetic": "in'kauntә",
+      "forms": [
+        "encounter",
+        "encountered"
+      ],
+      "example": "Since the early 1900s, researchers have placed uniquely numbered metal bands on birds and hoped someone, somewhere, would encounter them again.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "That generally told scientists just two things: where a bird was banded and where it was encountered again.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "invisible",
+      "headword": "invisible",
+      "kind": "word",
+      "zh": "a. 看不见的, 无形的\n[经] 无形的, 表面上看不见的, 未列在公开帐目的",
+      "en": "a. impossible or nearly impossible to see; imperceptible by the eye",
+      "phonetic": "in'vizәbl",
+      "forms": [
+        "invisible"
+      ],
+      "example": "Of more than 79 million birds banded, only about 6.5 million have been recovered. That generally told scientists just two things: where a bird was banded and where it was encountered again. Everything between them remained invisible.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "dramatically",
+      "headword": "dramatically",
+      "kind": "word",
+      "zh": "adv. 戏剧地, 引人注目地, 突然地",
+      "en": "r. in a very impressive manner\nr. in a dramatic manner\nr. with respect to dramatic value",
+      "phonetic": "drә'mætikli",
+      "forms": [
+        "dramatically"
+      ],
+      "example": "Over the past quarter-century or so, the tools used to determine where birds go have changed dramatically.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "Tracking devices",
+      "headword": "tracking devices",
+      "kind": "phrase",
+      "zh": "追踪装置",
+      "en": "equipment used to record locations or movements",
+      "forms": [
+        "Tracking devices"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v55",
+      "term": "devices",
+      "headword": "device",
+      "kind": "word",
+      "zh": "n. 装置, 设计, 策略, 发明物, 设备\n[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
+      "en": "n. an instrumentality invented for a particular purpose\nn. something in an artistic work designed to achieve a particular effect\nn. any clever maneuver\nn. any ornamental pattern or design (as in embroidery)",
+      "phonetic": "di'vais",
+      "forms": [
+        "devices"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "communicating",
+      "headword": "communicate",
+      "kind": "word",
+      "zh": "vt. 显露, 传达, 感染\nvi. 通讯",
+      "en": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas",
+      "phonetic": "kә'mju:nikeit",
+      "forms": [
+        "communicating"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "receivers",
+      "headword": "receiver",
+      "kind": "word",
+      "zh": "n. 接收器；接受者；收信机；收款员, 接待者",
+      "en": "n. set that receives radio or tv signals\nn. the tennis player who receives the serve\nn. a football player who catches (or is supposed to catch) a forward pass",
+      "phonetic": "ri'si:vә",
+      "forms": [
+        "receivers"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "satellites",
+      "headword": "satellite",
+      "kind": "word",
+      "zh": "n. 人造卫星\n[医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
+      "en": "n. man-made equipment that orbits around the earth or the moon\nn. a person who follows or serves another\nn. any celestial body orbiting around a planet or star\nv. broadcast or disseminate via satellite",
+      "phonetic": "'sætlait",
+      "forms": [
+        "satellites"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "orbiting",
+      "headword": "orbit",
+      "kind": "word",
+      "zh": "n. 轨道, 常轨, 眼眶\nvt. 绕...轨道而行\nvi. 进入轨道, 盘旋",
+      "en": "n. the (usually elliptical) path described by one celestial body in its revolution about another\nn. the path of an electron around the nucleus of an atom",
+      "phonetic": "'ɒ:bit",
+      "forms": [
+        "orbiting"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "stable",
+      "headword": "stable",
+      "kind": "word",
+      "zh": "n. 马房, 牛棚\na. 稳定的, 安定的, 坚固的, 坚定的\nvt. 赶入马房\nvi. 被关在马厩",
+      "en": "n. a farm building for housing horses or other livestock\nv. shelter in a stable\na. resistant to change of position or condition\ns. firm and dependable; subject to little fluctuation",
+      "phonetic": "'steibl",
+      "forms": [
+        "stable"
+      ],
+      "example": "Testing stable isotopes in feathers and other tissues can reveal where a bird originated.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "isotopes",
+      "headword": "isotope",
+      "kind": "word",
+      "zh": "n. 同位素\n[化] 同位素",
+      "en": "n. one of two or more atoms with the same atomic number but with different numbers of neutrons",
+      "phonetic": "'aisәutәup",
+      "forms": [
+        "isotopes",
+        "isotope"
+      ],
+      "example": "Testing stable isotopes in feathers and other tissues can reveal where a bird originated.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "feathers",
+      "headword": "feather",
+      "kind": "word",
+      "zh": "n. 羽毛\nvi. 长羽毛\nvt. 用羽毛装饰",
+      "en": "n. the light horny waterproof structure forming the external covering of birds\nn. turning an oar parallel to the water between pulls\nv. join tongue and groove, in carpentry\nv. cover or fit with feathers",
+      "phonetic": "'feðә",
+      "forms": [
+        "feathers"
+      ],
+      "example": "Testing stable isotopes in feathers and other tissues can reveal where a bird originated.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "tissues",
+      "headword": "tissue",
+      "kind": "word",
+      "zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\n[化] 组织",
+      "en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper",
+      "phonetic": "'tiʃu:",
+      "forms": [
+        "tissues"
+      ],
+      "example": "Testing stable isotopes in feathers and other tissues can reveal where a bird originated.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "originated",
+      "headword": "originate",
+      "kind": "word",
+      "zh": "vt. 创始, 发明, 发起\nvi. 发源, 发生, 起航\n[计] 发自",
+      "en": "v. come into existence; take on form or shape\nv. bring into being\nv. begin a trip at a certain point, as of a plane, train, bus, etc.",
+      "phonetic": "ә'ridʒineit",
+      "forms": [
+        "originated"
+      ],
+      "example": "Testing stable isotopes in feathers and other tissues can reveal where a bird originated.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "genetic",
+      "headword": "genetic",
+      "kind": "word",
+      "zh": "a. 创始的, 遗传的, 起源的, 遗传学的\n[医] 生殖的, 遗传的",
+      "en": "a. pertaining to or referring to origin\na. of or relating to the science of genetics",
+      "phonetic": "dʒi'netik",
+      "forms": [
+        "genetic"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth. Testing stable isotopes in feathers and other tissues can reveal where a bird originated. Genetic testing can distinguish populations.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "distinguish",
+      "headword": "distinguish",
+      "kind": "word",
+      "zh": "v. 区别, 辨别",
+      "en": "v. mark as different\nv. be a distinctive feature, attribute, or trait; sometimes in a very positive sense",
+      "phonetic": "dis'tiŋgwiʃ",
+      "forms": [
+        "distinguish"
+      ],
+      "example": "Tracking devices can now be carried by increasingly smaller birds, recording their movements and communicating with land-based receivers or satellites orbiting the earth. Testing stable isotopes in feathers and other tissues can reveal where a bird originated. Genetic testing can distinguish populations.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "extraordinary",
+      "headword": "extraordinary",
+      "kind": "word",
+      "zh": "a. 非常的, 特别的, 非凡的\n[经] 非常的, 特别的, 临时的",
+      "en": "a. beyond what is ordinary or usual; highly unusual or exceptional or remarkable\ns. far more than usual or expected\ns. (of an official) serving an unusual or special function in addition to those of the regular officials",
+      "phonetic": "ik'strɒ:dәnәri",
+      "forms": [
+        "extraordinary"
+      ],
+      "example": "At the same time, the extraordinary growth of bird-watching and citizen science has created another revolution.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "revolution",
+      "headword": "revolution",
+      "kind": "word",
+      "zh": "n. 革命, 大变革, 旋转, 转数, 循环\n[化] 回转",
+      "en": "n. a drastic and far-reaching change in ways of thinking and behaving\nn. the overthrow of a government by those who are governed",
+      "phonetic": ".revә'lu:ʃәn",
+      "forms": [
+        "revolution"
+      ],
+      "example": "At the same time, the extraordinary growth of bird-watching and citizen science has created another revolution.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "millions",
+      "headword": "millions",
+      "kind": "word",
+      "zh": "n. 数百万",
+      "en": "n the number that is represented as a one followed by 6 zeros\nn a very large indefinite number (usually hyperbole)",
+      "phonetic": "",
+      "forms": [
+        "millions"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "submitted",
+      "headword": "submit",
+      "kind": "word",
+      "zh": "vt. 使服从, 使受到, 委托, 提交, 认为\nvi. 屈服, 服从",
+      "en": "v. refer for judgment or consideration\nv. put before\nv. yield to the control of another\nv. yield to another's wish or opinion",
+      "phonetic": "sәb'mit",
+      "forms": [
+        "submitted"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "database",
+      "headword": "database",
+      "kind": "word",
+      "zh": "n. 数据库\n[计] 数据库",
+      "en": "n. an organized body of related information",
+      "phonetic": "'deitәbeis",
+      "forms": [
+        "database"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "distribution",
+      "headword": "distribution",
+      "kind": "word",
+      "zh": "n. 分配\n[计] 分布",
+      "en": "n. (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence\nn. the spatial or geographic property of being scattered about over a range, area, or volume\nn. the act of distributing or spreading or apportioning\nn. the commercial activity of transporting and selling goods from a producer to a consumer",
+      "phonetic": ".distrә'bju:ʃәn",
+      "forms": [
+        "distribution"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "abundance",
+      "headword": "abundance",
+      "kind": "word",
+      "zh": "n. 丰富, 充足, 大量\n[经] 丰富, 充裕",
+      "en": "n. the property of a more than adequate quantity or supply\nn. (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present\nn. (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million",
+      "phonetic": "ә'bʌndәns",
+      "forms": [
+        "abundance"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "continent",
+      "headword": "continent",
+      "kind": "word",
+      "zh": "n. 大陆, 洲\na. 自制的",
+      "en": "n. one of the large landmasses of the earth\nn. the European mainland\na. having control over urination and defecation",
+      "phonetic": "'kɒntinәnt",
+      "forms": [
+        "continent",
+        "continents"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "ornithologists",
+      "headword": "ornithologist",
+      "kind": "word",
+      "zh": "n. 鸟类学者",
+      "en": "n. a zoologist who studies birds",
+      "phonetic": ".ɒ:ni'θɒlәdʒist",
+      "forms": [
+        "ornithologists"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "scarcely",
+      "headword": "scarcely",
+      "kind": "word",
+      "zh": "adv. 简直不, 一定不, 仅仅",
+      "en": "r only a very short time before\nr almost not",
+      "phonetic": "'skɑ:sli",
+      "forms": [
+        "scarcely"
+      ],
+      "example": "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "collectively",
+      "headword": "collectively",
+      "kind": "word",
+      "zh": "adv. 集合, 聚合性, 共同, 集体主义, 集团, 集体",
+      "en": "r in conjunction with; combined",
+      "phonetic": "",
+      "forms": [
+        "collectively"
+      ],
+      "example": "Collectively, these methods open an extraordinary new window into migratory birds and one of nature’s most remarkable behaviors: migration.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "migratory",
+      "headword": "migratory",
+      "kind": "word",
+      "zh": "a. 迁移的, 流浪的",
+      "en": "a. used of animals that move seasonally",
+      "phonetic": "'maigrәtәri",
+      "forms": [
+        "migratory"
+      ],
+      "example": "Collectively, these methods open an extraordinary new window into migratory birds and one of nature’s most remarkable behaviors: migration.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "remarkable",
+      "headword": "remarkable",
+      "kind": "word",
+      "zh": "a. 不平常的, 值得注意的, 显著的",
+      "en": "s. unusual or striking",
+      "phonetic": "ri'mɑ:kәbl",
+      "forms": [
+        "remarkable"
+      ],
+      "example": "Collectively, these methods open an extraordinary new window into migratory birds and one of nature’s most remarkable behaviors: migration.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "unknown",
+      "headword": "unknown",
+      "kind": "word",
+      "zh": "a. 不知道的, 未知的, 陌生的\nn. 未知物, 未知数",
+      "en": "n. an unknown and unexplored region\nn. a variable whose values are solutions of an equation\na. not known\ns. not known to exist",
+      "phonetic": ".ʌn'nәun",
+      "forms": [
+        "unknown"
+      ],
+      "example": "Discovering unknown migrations",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "Yet scientists have known surprisingly little about where specific populations go.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "robin",
+      "headword": "robin",
+      "kind": "word",
+      "zh": "n. 旅鸫\n[医] 刺槐毒素",
+      "en": "n. small Old World songbird with a reddish breast\nn. large American thrush having a rust-red breast and abdomen",
+      "phonetic": "'rɒbin",
+      "forms": [
+        "robin"
+      ],
+      "example": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to entirely different places for the winter.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "breed",
+      "headword": "breed",
+      "kind": "word",
+      "zh": "n. 种类, 品种\nv. 养育, 引起, 饲养, 繁殖",
+      "en": "n. a special variety of domesticated animals within a species\nn. a special type\nv. copulate with a female, used especially of horses\nv. cause to procreate (animals)",
+      "phonetic": "bri:d",
+      "forms": [
+        "breed",
+        "breeding",
+        "breeds"
+      ],
+      "example": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to entirely different places for the winter.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "entirely",
+      "headword": "entirely",
+      "kind": "word",
+      "zh": "adv. 完全, 全然, 一概",
+      "en": "r. without any others being included or involved",
+      "phonetic": "in'taiәli",
+      "forms": [
+        "entirely"
+      ],
+      "example": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to entirely different places for the winter.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "route",
+      "headword": "route",
+      "kind": "word",
+      "zh": "n. 路径, 途径, 路线\nvt. 确定路线, 按规定路线发送\n[计] 传递, 路由设定程序",
+      "en": "v. send documents or materials to appropriate destinations\nv. send via a specific route\nv. divert in a specified direction",
+      "phonetic": "ru:t",
+      "forms": [
+        "route",
+        "routes"
+      ],
+      "example": "Birds breeding in one part of the continent may travel one route and encounter one set of environmental conditions, while members of the same species experience a completely different set of conditions along another route.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "connections",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connections"
+      ],
+      "example": "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "connectivity",
+      "headword": "connectivity",
+      "kind": "word",
+      "zh": "[计] 连通性, 连通度",
+      "en": "n. the property of being connected or the degree to which something has connections",
+      "phonetic": "kәnek'tiviti",
+      "forms": [
+        "connectivity"
+      ],
+      "example": "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "consequences",
+      "headword": "consequence",
+      "kind": "word",
+      "zh": "n. 结果, 重要性\n[法] 结果, 后果, 推断",
+      "en": "n. a phenomenon that follows and is caused by some previous phenomenon\nn. the outcome of an event especially as relative to an individual\nn. having important effects or influence",
+      "phonetic": "'kɒnsikwәns",
+      "forms": [
+        "consequences"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "climate change",
+      "headword": "climate change",
+      "kind": "phrase",
+      "zh": "气候变化",
+      "en": "long-term shifts in climate patterns",
+      "forms": [
+        "climate change"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v94",
+      "term": "avian",
+      "headword": "avian",
+      "kind": "word",
+      "zh": "a. 鸟类的\nn. 鸟",
+      "en": "a. pertaining to or characteristic of birds",
+      "phonetic": "'eiviәn",
+      "forms": [
+        "avian"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "pathogens",
+      "headword": "pathogen",
+      "kind": "word",
+      "zh": "n. 病原体\n[医] 病原体",
+      "en": "n. any disease-producing agent (especially a virus or bacterium or other microorganism)",
+      "phonetic": "'pæθәdʒ(ә)n",
+      "forms": [
+        "pathogens"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "spread",
+      "headword": "spread",
+      "kind": "word",
+      "zh": "n. 传播, 散布, 伸展\na. 双唇展开的, 伸展的\nvt. 展开, 铺开, 传播, 推广, 伸出, 涂, 敷, 延伸\nvi. 展开, 扩大, 传开, 延伸\n[计] 展开",
+      "en": "n. process or result of distributing or extending over a wide expanse of space\nn. a tasty mixture to be spread on bread or crackers or used in preparing other dishes\nn. two facing pages of a book or other publication\nn. the expansion of a person's girth (especially at middle age)",
+      "phonetic": "spred",
+      "forms": [
+        "spread"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "ecology",
+      "headword": "ecology",
+      "kind": "word",
+      "zh": "n. 生态学, 社会生态学\n[化] 生态学",
+      "en": "n. the environment as it relates to living organisms\nn. the branch of biology concerned with the relations between organisms and their environment",
+      "phonetic": "i:'kɒlәdʒi",
+      "forms": [
+        "ecology"
+      ],
+      "example": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "conservation",
+      "headword": "conservation",
+      "kind": "word",
+      "zh": "n. 保护, 保存\n[医] 保存",
+      "en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change\nn. the preservation and careful management of the environment and of natural resources\nn. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+      "phonetic": ".kɒnsә'veiʃәn",
+      "forms": [
+        "conservation"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "contributors",
+      "headword": "contributor",
+      "kind": "word",
+      "zh": "n. 贡献者, 捐助者, 赠送者, 投稿者\n[法] 捐助人, 捐赠人, 投搞人",
+      "en": "n. a writer whose work is published in a newspaper or magazine or as part of a book",
+      "phonetic": "kәn'tribjutә",
+      "forms": [
+        "contributors"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "compiling",
+      "headword": "compile",
+      "kind": "word",
+      "zh": "vt. 编译, 编辑, 编纂, 收集\n[计] 编译",
+      "en": "v. use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed",
+      "phonetic": "kәm'pail",
+      "forms": [
+        "compiling"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "rapidly",
+      "headword": "rapidly",
+      "kind": "word",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
+      "en": "r with rapid movements",
+      "phonetic": "'ræpidli",
+      "forms": [
+        "rapidly"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "expanding",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanding"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "atlas",
+      "headword": "atlas",
+      "kind": "word",
+      "zh": "n. 地图集, 图表集\n[计] 自动测试和负载分析系统",
+      "en": "n. (Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders\nn. a collection of maps in book form\nn. the 1st cervical vertebra\nn. a figure of a man used as a supporting column",
+      "phonetic": "'ætlәs",
+      "forms": [
+        "atlas"
+      ],
+      "example": "We are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "princeton",
+      "headword": "Princeton",
+      "kind": "word",
+      "zh": "n. 普林斯顿",
+      "en": "n. a university town in central New Jersey",
+      "phonetic": "'prinstәn",
+      "forms": [
+        "princeton"
+      ],
+      "example": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "profits",
+      "headword": "profit",
+      "kind": "word",
+      "zh": "n. 利润, 赢利, 利益\nvi. 有益, 获利, 赚钱\nvt. 有益于",
+      "en": "n. the advantageous quality of being beneficial\nv. derive a benefit from\nv. make a profit; gain money or materially",
+      "phonetic": "'prɒfit",
+      "forms": [
+        "profits"
+      ],
+      "example": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "latin",
+      "headword": "Latin",
+      "kind": "word",
+      "zh": "n. 拉丁人, 拉丁语\na. 拉丁人的, 拉丁语的",
+      "en": "n. any dialect of the language of ancient Rome\nn. an inhabitant of ancient Latium\nn. a person who is a member of those peoples whose languages derived from Latin",
+      "phonetic": "'lætin",
+      "forms": [
+        "latin"
+      ],
+      "example": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "caribbean",
+      "headword": "Caribbean",
+      "kind": "word",
+      "zh": "n. 加勒比海\na. 加勒比海的, 加勒比人的",
+      "en": "n. an arm of the Atlantic Ocean between North and South America; the origin of the Gulf stream\nn. region including the Caribbean Islands",
+      "phonetic": ".kæri'bi:әn",
+      "forms": [
+        "caribbean"
+      ],
+      "example": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "seasonal",
+      "headword": "seasonal",
+      "kind": "word",
+      "zh": "a. 季节的, 依照季节的, 周期性的\n[经] 季节性的, 季节的",
+      "en": "a. occurring at or dependent on a particular season",
+      "phonetic": "'si:znәl",
+      "forms": [
+        "seasonal"
+      ],
+      "example": "The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-banding data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "combines",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combines",
+        "combined"
+      ],
+      "example": "The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-banding data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "genetics",
+      "headword": "genetics",
+      "kind": "word",
+      "zh": "n. 遗传学\n[化] 遗传学",
+      "en": "n. the branch of biology that studies heredity and variation in organisms",
+      "phonetic": "dʒi'netiks",
+      "forms": [
+        "genetics"
+      ],
+      "example": "The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-banding data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "complicated",
+      "headword": "complicate",
+      "kind": "word",
+      "zh": "vt. 弄复杂, 使错综, 使恶化\nvi. 变复杂",
+      "en": "v. make more complicated\nv. make more complex, intricate, or richer",
+      "phonetic": "'kɒmplikeit",
+      "forms": [
+        "complicated"
+      ],
+      "example": "What emerges is a picture of migratory birds that is both more complicated and more remarkable than the simple arrows pointing between breeding and wintering ranges on a map.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "cuckoo",
+      "headword": "cuckoo",
+      "kind": "word",
+      "zh": "n. 杜鹃鸟, 布谷鸟",
+      "en": "n. any of numerous European and North American birds having pointed wings and a long tail\nv. repeat monotonously, like a cuckoo repeats his call",
+      "phonetic": "'kuku:",
+      "forms": [
+        "cuckoo"
+      ],
+      "example": "Consider the yellow-billed cuckoo. These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "eastern",
+      "headword": "eastern",
+      "kind": "word",
+      "zh": "n. 东方人, 东正教徒\na. 东方的, 向东的, 自东的",
+      "en": "s. lying toward or situated in the east\na. of or characteristic of eastern regions of the United States\na. relating to or characteristic of regions of eastern parts of the world",
+      "phonetic": "'i:stәn",
+      "forms": [
+        "eastern"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "two-thirds",
+      "headword": "two-thirds",
+      "kind": "word",
+      "zh": "quant. 三分之二",
+      "en": "n. two of three equal parts of a divisible whole",
+      "phonetic": "ˌtu:'θɜ:dz",
+      "forms": [
+        "two-thirds"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "gran",
+      "headword": "gran",
+      "kind": "word",
+      "zh": "n. 外祖母, 祖母, 老奶奶",
+      "en": "n the mother of your father or mother",
+      "phonetic": "'^ræn",
+      "forms": [
+        "gran"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "northern",
+      "headword": "northern",
+      "kind": "word",
+      "zh": "n. 北方人\na. 北方的, 向北的, 自北方来的",
+      "en": "n. a dialect of Middle English that developed into Scottish Lallans\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the north",
+      "phonetic": "'nɒ:ðәn",
+      "forms": [
+        "northern"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "argentina",
+      "headword": "Argentina",
+      "kind": "word",
+      "zh": "n. 阿根廷",
+      "en": "n. a republic in southern South America; second largest country in South America\nn. type genus of the Argentinidae: argentines",
+      "phonetic": ".ɑ:dʒәn'ti:nә",
+      "forms": [
+        "argentina"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "paraguay",
+      "headword": "Paraguay",
+      "kind": "word",
+      "zh": "n. 巴拉圭",
+      "en": "n. a landlocked republic in south central South America; achieved independence from Spain in 1811",
+      "phonetic": "'pærәgwai",
+      "forms": [
+        "paraguay"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "bolivia",
+      "headword": "Bolivia",
+      "kind": "word",
+      "zh": "n. 玻利维亚",
+      "en": "n. a landlocked republic in central South America; Simon Bolivar founded Bolivia in 1825 after winning independence from Spain\nn. a form of canasta in which sequences can be melded",
+      "phonetic": "bә'liviә",
+      "forms": [
+        "bolivia"
+      ],
+      "example": "These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "In contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "In contrast"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v122",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "peregrine",
+      "headword": "peregrine",
+      "kind": "word",
+      "zh": "a. 流浪的, 移居的, 漫游的, 外国的, 异样的, 异国风味的, 外来的\nn. 寄居外国的人",
+      "en": "n. a widely distributed falcon formerly used in falconry",
+      "phonetic": "'peri^rin",
+      "forms": [
+        "peregrine"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "falcons",
+      "headword": "falcon",
+      "kind": "word",
+      "zh": "n. 隼, 猎鹰",
+      "en": "n. diurnal birds of prey having long pointed powerful wings adapted for swift flight\nv. hunt with falcons",
+      "phonetic": "'fɒ:lkәn",
+      "forms": [
+        "falcons"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "alaska",
+      "headword": "Alaska",
+      "kind": "word",
+      "zh": "n. 阿拉斯加州",
+      "en": "n. a state in northwestern North America; the 49th state admitted to the union",
+      "phonetic": "ә'læskә",
+      "forms": [
+        "alaska"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "dispersing",
+      "headword": "disperse",
+      "kind": "word",
+      "zh": "vt. 分散, 传播, 散开\nvi. 分散\na. 分散的\n[计] 分散",
+      "en": "v. to cause to separate and go in different directions\nv. move away from each other; \nv. separate (light) into spectral rays",
+      "phonetic": "dis'pә:s",
+      "forms": [
+        "dispersing"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "americas",
+      "headword": "AMERICAS",
+      "kind": "word",
+      "zh": "n. 美洲",
+      "en": "n North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776\nn North America and South America and Central America",
+      "phonetic": "ə'merikəz",
+      "forms": [
+        "americas"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "grounds",
+      "headword": "grounds",
+      "kind": "word",
+      "zh": "n. 场地, 庭院, 理由, 渣滓, 沉淀物",
+      "en": "n. a tract of land cleared for some special purposes (recreation or burial etc.)\nn. dregs consisting of solid particles (especially of coffee) that form a residue",
+      "phonetic": "",
+      "forms": [
+        "grounds"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "extend",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extend"
+      ],
+      "example": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "discoveries",
+      "headword": "discovery",
+      "kind": "word",
+      "zh": "n. 发现, 被发现的事物\n[法] 要求告知, 发现, 发觉",
+      "en": "n. the act of discovering something\nn. something that is discovered\nn. a productive insight\nn. (law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case",
+      "phonetic": "dis'kʌvәri",
+      "forms": [
+        "discoveries"
+      ],
+      "example": "Discoveries like these are accumulating rapidly. Collectively, they amount to a renaissance in our understanding of animal movement never before imagined.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "accumulating",
+      "headword": "accumulate",
+      "kind": "word",
+      "zh": "v. 积聚, 堆积",
+      "en": "v. collect or gather",
+      "phonetic": "ә'kju:mjuleit",
+      "forms": [
+        "accumulating",
+        "accumulated"
+      ],
+      "example": "Discoveries like these are accumulating rapidly. Collectively, they amount to a renaissance in our understanding of animal movement never before imagined.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "renaissance",
+      "headword": "renaissance",
+      "kind": "word",
+      "zh": "n. 复活, 复兴, 文艺复兴\na. 文艺复兴的",
+      "en": "n. the period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries",
+      "phonetic": "ri'neisәns",
+      "forms": [
+        "renaissance"
+      ],
+      "example": "Collectively, they amount to a renaissance in our understanding of animal movement never before imagined.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "masterpieces",
+      "headword": "masterpiece",
+      "kind": "word",
+      "zh": "n. 杰作, 名著",
+      "en": "n. the most outstanding work of a creative artist or craftsman\nn. an outstanding achievement",
+      "phonetic": "'mɑ:stәpi:s",
+      "forms": [
+        "masterpieces"
+      ],
+      "example": "We see these species and their migrations as among evolution’s great living masterpieces.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v135",
+      "term": "arctic",
+      "headword": "arctic",
+      "kind": "word",
+      "zh": "a. 北极的, 极寒的\nn. 北极圈, 北极",
+      "en": "n. the regions to the north of the Arctic Circle centered on the North Pole\nn. a waterproof overshoe that protects shoes from water or snow\ns. extremely cold",
+      "phonetic": "'ɑ:ktik",
+      "forms": [
+        "arctic"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "tern",
+      "headword": "tern",
+      "kind": "word",
+      "zh": "n. 三个一组, 燕鸥",
+      "en": "n. small slender gull having narrow wings and a forked tail",
+      "phonetic": "tә:n",
+      "forms": [
+        "tern"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "wheatear",
+      "headword": "wheatear",
+      "kind": "word",
+      "zh": "n. 麦穗",
+      "en": "n. small songbird of northern America and Eurasia having a distinctive white rump",
+      "phonetic": "'hwi:tiә",
+      "forms": [
+        "wheatear"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "cross",
+      "headword": "cross",
+      "kind": "word",
+      "zh": "n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交\na. 生气的, 交叉的, 相反的\nv. 交叉, 横过, 越过\n[计] 交叉, 十字标",
+      "en": "n. a wooden structure consisting of an upright post with a transverse piece\nn. a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry\nn. any affliction that causes great suffering\nv. fold so as to resemble a cross",
+      "phonetic": "krɒs",
+      "forms": [
+        "cross"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "oceans",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "oceans"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "deserts",
+      "headword": "desert",
+      "kind": "word",
+      "zh": "n. 沙漠, 应得的赏罚, 功劳\na. 沙漠的, 不毛的\nvt. 放弃, 遗弃, 擅离\nvi. 逃掉",
+      "en": "n. arid land with little or no vegetation\nv. leave behind",
+      "phonetic": "'dezәt. di'sә:t",
+      "forms": [
+        "deserts"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "mountain",
+      "headword": "mountain",
+      "kind": "word",
+      "zh": "n. 山, 山脉, 大堆",
+      "en": "n. a land mass that projects well above its surroundings; higher than a hill",
+      "phonetic": "'mauntin",
+      "forms": [
+        "mountain"
+      ],
+      "example": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "godwits",
+      "headword": "godwit",
+      "kind": "word",
+      "zh": "n. 塍鹬",
+      "en": "n. large wading bird that resembles a curlew; has a long slightly upturned bill",
+      "phonetic": "'gɒdwit",
+      "forms": [
+        "godwits"
+      ],
+      "example": "Some, like the bar-tailed godwits, fly thousands of miles without stopping.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "redstart",
+      "headword": "redstart",
+      "kind": "word",
+      "zh": "n. 红尾鸲",
+      "en": "n. European songbird with a reddish breast and tail; related to Old World robins",
+      "phonetic": "'redstɑ:t",
+      "forms": [
+        "redstart",
+        "redstarts"
+      ],
+      "example": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "remarkably",
+      "headword": "remarkably",
+      "kind": "word",
+      "zh": "adv. 显著地, 引人注目地, 非常地",
+      "en": "r to a remarkable degree or extent\nr in a signal manner",
+      "phonetic": "ri'mɑ:kәbli",
+      "forms": [
+        "remarkably"
+      ],
+      "example": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "precise",
+      "headword": "precise",
+      "kind": "word",
+      "zh": "a. 精确的, 严谨的, 明确的\n[机] 精密的, 正确的",
+      "en": "a. sharply exact or accurate or delimited",
+      "phonetic": "pri'sais",
+      "forms": [
+        "precise"
+      ],
+      "example": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations"
+      ],
+      "example": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "navigate",
+      "headword": "navigate",
+      "kind": "word",
+      "zh": "vi. 航行\nvt. 航行于, 驾驶, 操纵, 使通过",
+      "en": "v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance\nv. direct carefully and safely",
+      "phonetic": "'nævigeit",
+      "forms": [
+        "navigate"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "landscapes",
+      "headword": "landscape",
+      "kind": "word",
+      "zh": "n. 风景, 山水, 风景画\nvi. 从事景观美化\nvt. 美化...景观\n[计] 横向",
+      "en": "n. an expanse of scenery that can be seen in a single view\nn. painting depicting an expanse of natural scenery\nn. a genre of art dealing with the depiction of natural scenery\nn. an extensive mental viewpoint",
+      "phonetic": "'lændskeip",
+      "forms": [
+        "landscapes"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "geographic",
+      "headword": "geographic",
+      "kind": "word",
+      "zh": "a. 地理(学)的, 地区(性)的",
+      "en": "a. of or relating to the science of geography\na. determined by geography",
+      "phonetic": ",dʒiә'^ræfik",
+      "forms": [
+        "geographic"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "scales",
+      "headword": "scale",
+      "kind": "word",
+      "zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢\nvt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤\nvi. 剥落, 生水垢, 重量为, 攀登, 衡量\n[计] 刻度",
+      "en": "n. an ordered reference standard\nn. relative magnitude\nn. the ratio between the size of something and a representation of it\nn. a specialized leaf or bract that protects a bud or catkin",
+      "phonetic": "skeil",
+      "forms": [
+        "scales"
+      ],
+      "example": "They navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "natural history",
+      "headword": "natural history",
+      "kind": "phrase",
+      "zh": "自然史；博物学",
+      "en": "the study of organisms and the natural world through time",
+      "forms": [
+        "natural history"
+      ],
+      "example": "That’s why we combined science with natural history and artist John Anderton’s extraordinary illustrations of the birds themselves.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v154",
+      "term": "john",
+      "headword": "john",
+      "kind": "word",
+      "zh": "n. 盥洗室, 厕所, 嫖客",
+      "en": "n. youngest son of Henry II; King of England from 1199 to 1216; succeeded to the throne on the death of his brother Richard I; lost his French possessions; in 1215 John was compelled by the barons to sign the Magna Carta (1167-1216)\nn. (New Testament) disciple of Jesus; traditionally said to be the author of the 4th Gospel and three epistles and the book of Revelation\nn. the last of the four Gospels in the New Testament",
+      "phonetic": "dʒɔn",
+      "forms": [
+        "john"
+      ],
+      "example": "That’s why we combined science with natural history and artist John Anderton’s extraordinary illustrations of the birds themselves.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "illustrations",
+      "headword": "illustration",
+      "kind": "word",
+      "zh": "n. 例证, 插图\n[化] 插图",
+      "en": "n. artwork that helps make something clear or attractive\nn. a visual representation (a picture or diagram) that is used make some subject more pleasing or easier to understand",
+      "phonetic": ".ilә'streiʃәn",
+      "forms": [
+        "illustrations"
+      ],
+      "example": "That’s why we combined science with natural history and artist John Anderton’s extraordinary illustrations of the birds themselves.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "maps",
+      "headword": "map",
+      "kind": "word",
+      "zh": "n. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议",
+      "en": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences",
+      "phonetic": "mæp",
+      "forms": [
+        "maps"
+      ],
+      "example": "The maps allow us to see where birds travel, and the art brings the species to life.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "visible",
+      "headword": "visible",
+      "kind": "word",
+      "zh": "a. 看得见的, 明显的, 显然的\nn. 可见物",
+      "en": "a. capable of being seen; or open to easy view\ns. obvious to the eye\ns. present and easily available",
+      "phonetic": "'vizәbl",
+      "forms": [
+        "visible"
+      ],
+      "example": "Together, they make visible something that humans could only imagine for most of our history.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "half-century",
+      "headword": "half-century",
+      "kind": "word",
+      "zh": "半个世纪；50年",
+      "en": "n. a period of 50 years",
+      "phonetic": "",
+      "forms": [
+        "half-century"
+      ],
+      "example": "North America has lost about 3 billion birds during the past half-century, and many migratory species continue to decline.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "decline",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "decline",
+        "declining"
+      ],
+      "example": "North America has lost about 3 billion birds during the past half-century, and many migratory species continue to decline.",
+      "paragraph": 32,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "save",
+      "headword": "save",
+      "kind": "word",
+      "zh": "n. 救球\nvt. 解救, 挽救, 储蓄, 保存, 节省, 保留\nvi. 挽救, 节省, 救球\nprep. 除...之外\n[计] 保存",
+      "en": "n. (sports) the act of preventing the opposition from scoring\nv. to keep up and reserve for personal or special use\nv. bring into safety\nv. spend less; buy at a reduced price",
+      "phonetic": "seiv",
+      "forms": [
+        "save"
+      ],
+      "example": "To understand why a population is declining and help save it, researchers need to understand the species’ entire annual cycle: its critical stopover habitats, wintering grounds and threats along its migration routes.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "annual",
+      "headword": "annual",
+      "kind": "word",
+      "zh": "n. 年刊, 年报\na. 每年的, 一年一次的, 全年的, 一年生的",
+      "en": "n. (botany) a plant that completes its entire life cycle within the space of a year\nn. a reference book that is published regularly once every year\na. completing its life cycle within a year\ns. occurring or payable every year",
+      "phonetic": "'ænjuәl",
+      "forms": [
+        "annual"
+      ],
+      "example": "To understand why a population is declining and help save it, researchers need to understand the species’ entire annual cycle: its critical stopover habitats, wintering grounds and threats along its migration routes.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "cycle",
+      "headword": "cycle",
+      "kind": "word",
+      "zh": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
+      "en": "n. an interval during which a recurring sequence of events occurs\nn. a series of poems or songs on the same theme\nn. a periodically repeated sequence of events\nn. a single complete execution of a periodically repeated phenomenon",
+      "phonetic": "'saikl",
+      "forms": [
+        "cycle"
+      ],
+      "example": "To understand why a population is declining and help save it, researchers need to understand the species’ entire annual cycle: its critical stopover habitats, wintering grounds and threats along its migration routes.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "stopover",
+      "headword": "stopover",
+      "kind": "word",
+      "zh": "n. 中途停留",
+      "en": "n. a stopping place on a journey",
+      "phonetic": "'stɒp.әuvә",
+      "forms": [
+        "stopover"
+      ],
+      "example": "To understand why a population is declining and help save it, researchers need to understand the species’ entire annual cycle: its critical stopover habitats, wintering grounds and threats along its migration routes.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "habitats",
+      "headword": "habitat",
+      "kind": "word",
+      "zh": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+      "en": "n. the type of environment in which an organism or group normally lives or occurs",
+      "phonetic": "'hæbitæt",
+      "forms": [
+        "habitats",
+        "habitat"
+      ],
+      "example": "To understand why a population is declining and help save it, researchers need to understand the species’ entire annual cycle: its critical stopover habitats, wintering grounds and threats along its migration routes.",
+      "paragraph": 33,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "ornithology",
+      "headword": "ornithology",
+      "kind": "word",
+      "zh": "n. 鸟类学",
+      "en": "n. the branch of zoology that studies birds",
+      "phonetic": ".ɒ:ni'θɒlәdʒi",
+      "forms": [
+        "ornithology"
+      ],
+      "example": "For much of the history of ornithology, scientists studied birds primarily during their breeding season.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "primarily",
+      "headword": "primarily",
+      "kind": "word",
+      "zh": "adv. 主要地, 首先地",
+      "en": "r. of primary import",
+      "phonetic": "'praimәrili",
+      "forms": [
+        "primarily"
+      ],
+      "example": "For much of the history of ornithology, scientists studied birds primarily during their breeding season.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "practical",
+      "headword": "practical",
+      "kind": "word",
+      "zh": "a. 实际的, 现实的, 实用性的\n[法] 事实上的, 实际上的, 接近...的",
+      "en": "a. concerned with actual use or practice\ns. having or put to a practical purpose or use",
+      "phonetic": "'præktikl",
+      "forms": [
+        "practical"
+      ],
+      "example": "For much of the history of ornithology, scientists studied birds primarily during their breeding season. That made practical sense. Birds are conspicuous then – singing, defending territories, building nests and raising young.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "conspicuous",
+      "headword": "conspicuous",
+      "kind": "word",
+      "zh": "a. 显著的, 显眼的, 出众的",
+      "en": "a. obvious to the eye or mind",
+      "phonetic": "kәn'spikjuәs",
+      "forms": [
+        "conspicuous"
+      ],
+      "example": "Birds are conspicuous then – singing, defending territories, building nests and raising young.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "defending",
+      "headword": "defend",
+      "kind": "word",
+      "zh": "vt. 防护, 辩护, 防卫\n[法] 作...的辩护律师, 辩护, 为...答辩",
+      "en": "v. argue or speak in defense of\nv. be on the defensive; act against an attack\nv. protect against a challenge or attack\nv. be the defense counsel for someone in a trial",
+      "phonetic": "di'fend",
+      "forms": [
+        "defending"
+      ],
+      "example": "Birds are conspicuous then – singing, defending territories, building nests and raising young.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "territories",
+      "headword": "territory",
+      "kind": "word",
+      "zh": "n. 领土, 领地, 版图, 地区, 活动范围\n[经] (推销员等的)推销区域",
+      "en": "n. an area of knowledge or interest\nn. the geographical area under the jurisdiction of a sovereign state",
+      "phonetic": "'teritәri",
+      "forms": [
+        "territories"
+      ],
+      "example": "Birds are conspicuous then – singing, defending territories, building nests and raising young.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "nests",
+      "headword": "nest",
+      "kind": "word",
+      "zh": "n. 巢, 窝, 休息所, 隐匿处\nvi. 筑巢, 找鸟巢\nvt. 为...设窝, 使套叠\n[计] 嵌套",
+      "en": "n. a structure in which animals lay eggs or give birth to their young\nn. a kind of gun emplacement\nn. a cosy or secluded retreat\nn. a gang of people (criminals or spies or terrorists) assembled in one locality",
+      "phonetic": "nest",
+      "forms": [
+        "nests"
+      ],
+      "example": "Birds are conspicuous then – singing, defending territories, building nests and raising young.",
+      "paragraph": 34,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "availability",
+      "headword": "availability",
+      "kind": "word",
+      "zh": "n. 有效性, 可利用性, 可利用的人\n[计] 有效性; 可用性",
+      "en": "n the quality of being at hand when needed",
+      "phonetic": "ә.veilә'biliti",
+      "forms": [
+        "availability"
+      ],
+      "example": "Conditions such as weather, food availability and habitat quality encountered during migration can determine whether an individual survives to breed again.",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "survives",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "survives"
+      ],
+      "example": "Conditions such as weather, food availability and habitat quality encountered during migration can determine whether an individual survives to breed again.",
+      "paragraph": 35,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "drought",
+      "headword": "drought",
+      "kind": "word",
+      "zh": "n. 干旱, 缺乏",
+      "en": "n. a shortage of rainfall\nn. a prolonged shortage",
+      "phonetic": "draut",
+      "forms": [
+        "drought"
+      ],
+      "example": "Drought thousands of miles away can affect a bird’s condition months later.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "depart",
+      "headword": "depart",
+      "kind": "word",
+      "zh": "vi. 离开, 出发, 背离, 违反, 去世",
+      "en": "v. leave\nv. go away or leave",
+      "phonetic": "di'pɑ:t",
+      "forms": [
+        "depart"
+      ],
+      "example": "American redstarts depart later after dry winters and produce fewer young.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "American redstarts depart later after dry winters and produce fewer young.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "horseshoe",
+      "headword": "horseshoe",
+      "kind": "word",
+      "zh": "n. 马蹄铁\nvt. 装蹄铁于",
+      "en": "n. game equipment consisting of an open ring of iron used in playing horseshoes\nn. U-shaped plate nailed to underside of horse's hoof\nv. equip (a horse) with a horseshoe or horseshoes",
+      "phonetic": "'hɒ:sʃu:",
+      "forms": [
+        "horseshoe"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "crab",
+      "headword": "crab",
+      "kind": "word",
+      "zh": "n. 螃蟹, 偏航, 脾气乖戾的人, 沙果\nvi. 捕蟹, 偏航, 发牢骚\nvt. 使偏航, 抱怨, 破坏",
+      "en": "n. decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers\nn. a quarrelsome grouch\nn. the edible flesh of any of various crabs\nn. a stroke of the oar that either misses the water or digs too deeply",
+      "phonetic": "kræb",
+      "forms": [
+        "crab"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "delaware",
+      "headword": "Delaware",
+      "kind": "word",
+      "zh": "n. 特拉华(美国州名)",
+      "en": "n. a river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay\nn. a member of an Algonquian people formerly living in New Jersey and New York and parts of Delaware and Pennsylvania\nn. one of the British colonies that formed the United States",
+      "phonetic": "'delәweә",
+      "forms": [
+        "delaware"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "knots",
+      "headword": "knot",
+      "kind": "word",
+      "zh": "n. 结, 群, 难题\nv. 打结, (使)纠缠",
+      "en": "n. a tight cluster of people or things\nn. any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object\nn. a hard cross-grained round piece of wood in a board where a branch emerged\nn. something twisted and tight and swollen",
+      "phonetic": "nɒt",
+      "forms": [
+        "knots"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v181",
+      "term": "contributing",
+      "headword": "contribute",
+      "kind": "word",
+      "zh": "vt. 有助于, 捐助, 投稿\nvi. 出力, 捐献, 投稿",
+      "en": "v. contribute to some cause\nv. be conducive to",
+      "phonetic": "kәn'tribju:t",
+      "forms": [
+        "contributing",
+        "contribute"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "survival",
+      "headword": "survival",
+      "kind": "word",
+      "zh": "n. 生存, 残存, 幸存者\na. 赖以生存的",
+      "en": "n. a state of surviving; remaining alive\nn. a natural process resulting in the evolution of organisms best adapted to the environment\nn. something that survives",
+      "phonetic": "sә'vaivәl",
+      "forms": [
+        "survival"
+      ],
+      "example": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+      "paragraph": 36,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "devoted",
+      "headword": "devote",
+      "kind": "word",
+      "zh": "vt. 投入于, 献身",
+      "en": "v. set aside or apart for a specific purpose or use",
+      "phonetic": "di'vәut",
+      "forms": [
+        "devoted"
+      ],
+      "example": "All of this knowledge has accumulated because people value birds and have devoted enormous time and effort to understanding them.",
+      "paragraph": 38,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "crack",
+      "headword": "crack",
+      "kind": "word",
+      "zh": "n. 裂缝, 爆裂声\nv. (使)爆裂, (使)裂开, (使)发出爆裂声\na. 第一流的\nadv. 啪地一声",
+      "en": "n. a long narrow opening\nn. a sudden sharp noise\nn. a blemish resulting from a break without complete separation of the parts\nn. a purified and potent form of cocaine that is smoked rather than snorted; highly addictive",
+      "phonetic": "kræk",
+      "forms": [
+        "crack"
+      ],
+      "example": "For more than a century, thousands of bird-banders have woken up before the crack of dawn to set traps, carefully place bands on birds’ legs and release them, often knowing the chances of ever learning what happened to those individuals were exceedingly small.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v185",
+      "term": "dawn",
+      "headword": "dawn",
+      "kind": "word",
+      "zh": "n. 破晓, 黎明\nvi. 破晓",
+      "en": "n. the first light of day\nn. the earliest period\nn. an opening time period\nv. appear or develop",
+      "phonetic": "dɒ:n",
+      "forms": [
+        "dawn"
+      ],
+      "example": "For more than a century, thousands of bird-banders have woken up before the crack of dawn to set traps, carefully place bands on birds’ legs and release them, often knowing the chances of ever learning what happened to those individuals were exceedingly small.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v186",
+      "term": "traps",
+      "headword": "trap",
+      "kind": "word",
+      "zh": "n. 圈套, 陷阱, 诡计, 存水弯\nvi. 设圈套, 设陷阱\nvt. 诱捕, 诱骗, 抓住, 使受限制\n[计] 俘获; 陷井",
+      "en": "n. a device in which something (usually an animal) can be caught and penned\nn. drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas\nn. something (often something deceptively attractive) that catches you unawares\nn. a device to hurl clay pigeons into the air for trapshooters",
+      "phonetic": "træp",
+      "forms": [
+        "traps"
+      ],
+      "example": "For more than a century, thousands of bird-banders have woken up before the crack of dawn to set traps, carefully place bands on birds’ legs and release them, often knowing the chances of ever learning what happened to those individuals were exceedingly small.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v187",
+      "term": "exceedingly",
+      "headword": "exceedingly",
+      "kind": "word",
+      "zh": "adv. 极端地, 极度地, 非常",
+      "en": "r to an extreme degree",
+      "phonetic": "ik'si:diŋli",
+      "forms": [
+        "exceedingly"
+      ],
+      "example": "For more than a century, thousands of bird-banders have woken up before the crack of dawn to set traps, carefully place bands on birds’ legs and release them, often knowing the chances of ever learning what happened to those individuals were exceedingly small.",
+      "paragraph": 39,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v188",
+      "term": "technicians",
+      "headword": "technician",
+      "kind": "word",
+      "zh": "n. 技师\n[化] 技师",
+      "en": "n. someone whose occupation involves training in a specific technical process\nn. someone known for high skill in some intellectual or artistic technique",
+      "phonetic": "tek'niʃәn",
+      "forms": [
+        "technicians"
+      ],
+      "example": "Those tracks exist because scientists, students, technicians and others have spent countless hours attaching and recovering tags, and contributing and sharing their data.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v189",
+      "term": "countless",
+      "headword": "countless",
+      "kind": "word",
+      "zh": "a. 数不尽的, 无数的",
+      "en": "s. too numerous to be counted",
+      "phonetic": "'kauntlis",
+      "forms": [
+        "countless"
+      ],
+      "example": "Those tracks exist because scientists, students, technicians and others have spent countless hours attaching and recovering tags, and contributing and sharing their data.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v190",
+      "term": "attaching",
+      "headword": "attach",
+      "kind": "word",
+      "zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\nvi. 附属, 归属, 联系在一起\n[计] 挂接服务器命令, 关联, 挂接, 附加",
+      "en": "v. cause to be attached\nv. be attached; be in contact with\nv. become attached",
+      "phonetic": "ә'tætʃ",
+      "forms": [
+        "attaching"
+      ],
+      "example": "Those tracks exist because scientists, students, technicians and others have spent countless hours attaching and recovering tags, and contributing and sharing their data.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v191",
+      "term": "tags",
+      "headword": "tag",
+      "kind": "word",
+      "zh": "n. 标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符\nvt. 附以签条, 尾随, 添饰, 起浑名, 连接\nvi. 紧紧跟随\n[计] 标记",
+      "en": "n. a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.\nn. a label associated with something for the purpose of identification\nn. a game in which one child chases the others; the one who is caught becomes the next chaser\nn. (sports) the act of touching a player in a game (which changes their status in the game)",
+      "phonetic": "tæg",
+      "forms": [
+        "tags"
+      ],
+      "example": "Those tracks exist because scientists, students, technicians and others have spent countless hours attaching and recovering tags, and contributing and sharing their data.",
+      "paragraph": 40,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v192",
+      "term": "advances",
+      "headword": "advance",
+      "kind": "word",
+      "zh": "n. 前进, 进展, 行过的路程\nvi. 前进, 进展, 提高, 上涨\nvt. 使前进, 促进, 提出, 提高, 使提前, 预付\na. 前面的, 预先的",
+      "en": "n. an amount paid before it is earned\nn. increase in price or value\nv. move forward, also in the metaphorical sense\nv. bring forward for consideration or acceptance",
+      "phonetic": "әd'vɑ:ns",
+      "forms": [
+        "advances"
+      ],
+      "example": "Today, millions of bird-watchers contribute observations that, thanks to advances in data science, allow us to watch migration unfold across an entire continent.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v193",
+      "term": "unfold",
+      "headword": "unfold",
+      "kind": "word",
+      "zh": "vt. 展开, 打开, 披露, 开展, 挑明\nvi. 伸展, 开花, 呈现",
+      "en": "v. open to the view\nv. extend or stretch out to a greater or the full length\nv. spread out or open from a closed or folded state",
+      "phonetic": ".ʌn'fәuld",
+      "forms": [
+        "unfold"
+      ],
+      "example": "Today, millions of bird-watchers contribute observations that, thanks to advances in data science, allow us to watch migration unfold across an entire continent.",
+      "paragraph": 41,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v194",
+      "term": "documenting",
+      "headword": "document",
+      "kind": "word",
+      "zh": "n. 文件, 公文, 文档\nvt. 证明, 为...引证\n[计] 文档",
+      "en": "n. writing that provides information (especially information of an official nature)\nn. anything serving as a representation of a person's thinking by means of symbolic marks\nn. a written account of ownership or obligation\nv. record in detail",
+      "phonetic": "'dɒkjumәnt",
+      "forms": [
+        "documenting"
+      ],
+      "example": "We have spent much of our careers documenting the decline of birds, and we know the challenges facing migratory species are formidable.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v195",
+      "term": "formidable",
+      "headword": "formidable",
+      "kind": "word",
+      "zh": "a. 巨大的, 优秀的, 可怕的, 艰难的",
+      "en": "s. extremely impressive in strength or excellence\ns. inspiring fear",
+      "phonetic": "'fɒ:midәbl",
+      "forms": [
+        "formidable"
+      ],
+      "example": "We have spent much of our careers documenting the decline of birds, and we know the challenges facing migratory species are formidable.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v196",
+      "term": "creatures",
+      "headword": "creature",
+      "kind": "word",
+      "zh": "n. 人, 动物, 创造物, 生物",
+      "en": "n. a human being; `wight' is an archaic term\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else",
+      "phonetic": "'kri:tʃә",
+      "forms": [
+        "creatures"
+      ],
+      "example": "But we also have hope for these creatures’ survival.",
+      "paragraph": 42,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v197",
+      "term": "previous",
+      "headword": "previous",
+      "kind": "word",
+      "zh": "a. 早先的, 前面的, 过急的\n[法] 以前的, 生前的, 前述的",
+      "en": "s. just preceding something else in time or order\ns. too soon or too hasty",
+      "phonetic": "'pri:viәs",
+      "forms": [
+        "previous"
+      ],
+      "example": "Scientists today know more about where migratory birds go, how populations are connected and what they encounter along the way than at any previous point in history.",
+      "paragraph": 43,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v198",
+      "term": "conservation efforts",
+      "headword": "conservation efforts",
+      "kind": "phrase",
+      "zh": "保护行动",
+      "en": "actions intended to protect species or ecosystems",
+      "forms": [
+        "conservation efforts"
+      ],
+      "example": "That knowledge is helping to identify where conservation efforts can make a difference for the future.",
+      "paragraph": 43,
+      "source": "Editorial glossary"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      18,
+      28
+    ],
+    "wordBank": [
+      "arrows",
+      "locations",
+      "connections",
+      "renaissance",
+      "entirely",
+      "ecology",
+      "profits",
+      "banding",
+      "contrast",
+      "arctic"
+    ],
+    "parts": [
+      {
+        "text": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " different places for the winter. Birds breeding in one part of the continent may travel one route and encounter one set of environmental conditions, while members of the same species experience a completely different set of conditions along another route.\n\nThese "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " between where a bird breeds and where it spends the winter is called migratory connectivity. They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ".\n\nWe are ornithologists and conservation scientists who have spent almost 15 years along with a team of contributors compiling this rapidly expanding knowledge on bird movement into The Atlas of North America’s Migratory Birds. It is being published Nov. 3, 2026, by Princeton University Press, with all "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " going to bird conservation and research in Latin America and the Caribbean. The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-"
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.\n\nWhat emerges is a picture of migratory birds that is both more complicated and more remarkable than the simple "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " pointing between breeding and wintering ranges on a map.\n\nConsider the yellow-billed cuckoo. These birds breed over a wide range of the eastern two-thirds of the U.S. but migrate to a relatively small wintering area in the Gran Chaco region of northern Argentina, Paraguay and southern Bolivia.\n\nIn "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ", peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.\n\nDiscoveries like these are accumulating rapidly. Collectively, they amount to a "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " in our understanding of animal movement never before imagined.\n\nLiving masterpieces\n\nThe more clearly scientists can follow individual birds and populations across the planet, the more extraordinary these species can seem.\n\nMigratory birds such as the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " tern and northern wheatear cross oceans, deserts and mountain ranges. Some, like the bar-tailed godwits, fly thousands of miles without stopping. Others, like the American redstart, return year after year to remarkably precise breeding and wintering "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": ".\n\nThey navigate landscapes and respond to winds, weather, food and environmental conditions across enormous geographic scales."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "entirely",
+        "vocabularyId": "v87",
+        "explanation": "原文此处使用 entirely（entirely）。结合上下文辨认词义与词形。",
+        "evidence": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to entirely different places for the winter.",
+        "paragraph": 18
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "connections",
+        "vocabularyId": "v89",
+        "explanation": "原文此处使用 connections（connection）。结合上下文辨认词义与词形。",
+        "evidence": "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
+        "paragraph": 19
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "ecology",
+        "vocabularyId": "v97",
+        "explanation": "原文此处使用 ecology（ecology）。结合上下文辨认词义与词形。",
+        "evidence": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
+        "paragraph": 19
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "profits",
+        "vocabularyId": "v105",
+        "explanation": "原文此处使用 profits（profit）。结合上下文辨认词义与词形。",
+        "evidence": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
+        "paragraph": 20
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "banding",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 banding（band）。结合上下文辨认词义与词形。",
+        "evidence": "The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-banding data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.",
+        "paragraph": 20
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "arrows",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 arrows（arrow）。结合上下文辨认词义与词形。",
+        "evidence": "What emerges is a picture of migratory birds that is both more complicated and more remarkable than the simple arrows pointing between breeding and wintering ranges on a map.",
+        "paragraph": 21
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "contrast",
+        "vocabularyId": "v122",
+        "explanation": "原文此处使用 contrast（contrast）。结合上下文辨认词义与词形。",
+        "evidence": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
+        "paragraph": 23
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "renaissance",
+        "vocabularyId": "v132",
+        "explanation": "原文此处使用 renaissance（renaissance）。结合上下文辨认词义与词形。",
+        "evidence": "Collectively, they amount to a renaissance in our understanding of animal movement never before imagined.",
+        "paragraph": 24
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "arctic",
+        "vocabularyId": "v135",
+        "explanation": "原文此处使用 arctic（arctic）。结合上下文辨认词义与词形。",
+        "evidence": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
+        "paragraph": 27
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "locations",
+        "vocabularyId": "v146",
+        "explanation": "原文此处使用 locations（location）。结合上下文辨认词义与词形。",
+        "evidence": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
+        "paragraph": 27
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "New tracking technologies are changing knowledge of bird migration and opportunities for conservation.",
+          "Routine water-quality reports cover only part of what matters for understanding drinking water.",
+          "Comparing Scotland and Wales reveals policy choices that influence recycling performance.",
+          "Oceans and forests have slowed warming by absorbing carbon, but their future capacity is uncertain."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "For most of ornithological history, scientists understood migration through brief glimpses of a bird, a specimen collected somewhere else, or the rare instance of a banded bird recovered hundreds or thousands of miles from where it had been marked.",
+        "paragraph": 6
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What did bird banding help researchers do?",
+        "options": [
+          "Systematically connect scattered information about bird movements",
+          "Prove that migration never occurs",
+          "Replace every bird's natural navigation system",
+          "Stop birds from moving between habitats"
+        ],
+        "answer": 0,
+        "explanation": "第 9 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Bird banding was the first tool used to attempt a systematic approach to connect these fragments of information.",
+        "paragraph": 9
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 19?",
+        "options": [
+          "Millions of observations by bird-watchers submitted to eBird, an online database to record the birds they see, show the distribution and abundance of birds across a continent throughout the year in ways early ornithologists could scarcely have imagined.",
+          "Over the past quarter-century or so, the tools used to determine where birds go have changed dramatically.",
+          "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
+          "For more than a century, thousands of bird-banders have woken up before the crack of dawn to set traps, carefully place bands on birds’ legs and release them, often knowing the chances of ever learning what happened to those individuals were exceedingly small."
+        ],
+        "answer": 2,
+        "explanation": "定位第 19 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
+        "paragraph": 19
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“That’s why we combined science with natural history and artist John Anderton’s extraordinary illustrations of the birds themselves.”",
+        "options": [
+          "Paragraph 5",
+          "Paragraph 23",
+          "Paragraph 29",
+          "Paragraph 3"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 29 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "That’s why we combined science with natural history and artist John Anderton’s extraordinary illustrations of the birds themselves.",
+        "paragraph": 29
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.”",
+        "options": [
+          "Paragraph 11",
+          "Paragraph 40",
+          "Paragraph 2",
+          "Paragraph 36"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 36 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Declining horseshoe crab populations in Delaware Bay have reduced food availability for migrating red knots, contributing to lower survival.",
+        "paragraph": 36
+      }
+    ]
+  },
+  "revision": "19a42777cd3a5b0abf636d1367ec07e65aae232530b7a341964812a9b98d9c5b"
+}

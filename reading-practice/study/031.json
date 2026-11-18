@@ -1,0 +1,2259 @@
+{
+  "schemaVersion": 1,
+  "folder": "031",
+  "articleSha256": "907a22dbac5b96258b3e93cbd7bacd35a75d71f2c6cf8bd62c7319832cce2281",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "mass",
+      "headword": "mass",
+      "kind": "word",
+      "zh": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
+      "en": "n. the property of a body that causes it to have weight in a gravitational field\nn. an ill-structured collection of similar things (objects or people)\nn. (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist\nn. a body of matter without definite shape",
+      "phonetic": "mæs",
+      "forms": [
+        "mass"
+      ],
+      "example": "In early November 2024, a large mass of still, cloudy, cold air settled over much of north-west Europe.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "cloudy",
+      "headword": "cloudy",
+      "kind": "word",
+      "zh": "a. 多云的, 有愁容的, 云的, 浑浊的\n[建] (混)浊的",
+      "en": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment",
+      "phonetic": "'klaudi",
+      "forms": [
+        "cloudy"
+      ],
+      "example": "In early November 2024, a large mass of still, cloudy, cold air settled over much of north-west Europe.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "settled",
+      "headword": "settle",
+      "kind": "word",
+      "zh": "n. 有背长椅\nvt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算\nvi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家",
+      "en": "n. a long wooden bench with a back\nv. settle into a position, usually on a surface or ground\nv. settle conclusively; come to terms\nv. take up residence and become established",
+      "phonetic": "'setl",
+      "forms": [
+        "settled"
+      ],
+      "example": "In early November 2024, a large mass of still, cloudy, cold air settled over much of north-west Europe.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "north-west",
+      "headword": "north-west",
+      "kind": "word",
+      "zh": "n. 西北",
+      "en": "r to, toward, or in the northwest",
+      "phonetic": "nɔ:θ west",
+      "forms": [
+        "north-west"
+      ],
+      "example": "In early November 2024, a large mass of still, cloudy, cold air settled over much of north-west Europe.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "turbines",
+      "headword": "turbine",
+      "kind": "word",
+      "zh": "n. 涡轮机\n[化] 涡轮机",
+      "en": "n. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate",
+      "phonetic": "'tә:bain",
+      "forms": [
+        "turbines"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "barely",
+      "headword": "barely",
+      "kind": "word",
+      "zh": "adv. 几乎不",
+      "en": "r. only a very short time before",
+      "phonetic": "'bєәli",
+      "forms": [
+        "barely"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "output",
+      "headword": "output",
+      "kind": "word",
+      "zh": "n. 输出, 产品, 产量\n[计] 输出",
+      "en": "n. production of a certain amount\nn. the quantity of something (as a commodity) that is created (usually within a given period of time)\nn. what is produced in a given time period\nv. to create or manufacture a specific amount",
+      "phonetic": "'autput",
+      "forms": [
+        "output"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "solar",
+      "headword": "solar",
+      "kind": "word",
+      "zh": "a. 太阳的, 日光的, 源自太阳的\n[医] 太阳的; 腹腔丛的",
+      "en": "a. relating to or derived from the sun or utilizing the energies of the sun",
+      "phonetic": "'sәulә",
+      "forms": [
+        "solar"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "farms",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farms"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "negligible",
+      "headword": "negligible",
+      "kind": "word",
+      "zh": "a. 可以忽略的, 不足取的, 无用的\n[医] 可不计的, 可忽视的",
+      "en": "s. so small as to be meaningless; insignificant\ns. not worth considering",
+      "phonetic": "'neglidʒәbl",
+      "forms": [
+        "negligible"
+      ],
+      "example": "For much of a week, wind turbines barely moved and the output from solar farms was negligible.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures"
+      ],
+      "example": "In some areas, cold temperatures meant people needed extra electricity to heat their homes.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "In some areas, cold temperatures meant people needed extra electricity to heat their homes.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "electricity",
+      "headword": "electricity",
+      "kind": "word",
+      "zh": "n. 电, 电流, 电学, 热情, 电力供应\n[化] 电学; 电",
+      "en": "n. a physical phenomenon associated with stationary or moving electrons and protons\nn. energy made available by the flow of electric charge through a conductor\nn. keen and shared excitement",
+      "phonetic": ".ilek'trisiti",
+      "forms": [
+        "electricity"
+      ],
+      "example": "In some areas, cold temperatures meant people needed extra electricity to heat their homes.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "scale",
+      "headword": "scale",
+      "kind": "word",
+      "zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢\nvt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤\nvi. 剥落, 生水垢, 重量为, 攀登, 衡量\n[计] 刻度",
+      "en": "n. an ordered reference standard\nn. relative magnitude\nn. the ratio between the size of something and a representation of it\nn. a specialized leaf or bract that protects a bud or catkin",
+      "phonetic": "skeil",
+      "forms": [
+        "scale"
+      ],
+      "example": "Something similar happened on a smaller scale in early November 2026, when low wind-power generation across Europe left the UK scrambling for extra electricity.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "power",
+      "headword": "power",
+      "kind": "word",
+      "zh": "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率\nvt. 使...有力量, 供以动力, 激励\n[计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性",
+      "en": "n. possession of controlling influence\nn. (physics) the rate of doing work; measured in watts (= joules/second)\nn. one possessing or exercising power or influence or authority\nv. supply the force or power for the functioning of",
+      "phonetic": "'pauә",
+      "forms": [
+        "power"
+      ],
+      "example": "Something similar happened on a smaller scale in early November 2026, when low wind-power generation across Europe left the UK scrambling for extra electricity.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "scrambling",
+      "headword": "scramble",
+      "kind": "word",
+      "zh": "n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞\nvi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙\nvt. 攀登, 扰乱, 使混杂",
+      "en": "n. an unceremonious and disorganized struggle\nv. to move hurriedly\nv. bring into random order\nv. make unintelligible",
+      "phonetic": "'skræmbl",
+      "forms": [
+        "scrambling"
+      ],
+      "example": "Something similar happened on a smaller scale in early November 2026, when low wind-power generation across Europe left the UK scrambling for extra electricity.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "so-called",
+      "headword": "so-called",
+      "kind": "word",
+      "zh": "a. 所谓的, 号称的\n[法] 所谓的, 据称的",
+      "en": "s doubtful or suspect",
+      "phonetic": "",
+      "forms": [
+        "so-called"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "german",
+      "headword": "German",
+      "kind": "word",
+      "zh": "n. 德国人, 德语\na. 德国的, 德国人的, 德国语的, 同父母的",
+      "en": "n. a person of German nationality\nn. the standard German language; developed historically from West Germanic\na. of or pertaining to or characteristic of Germany or its people or language",
+      "phonetic": "'dʒә:mәn",
+      "forms": [
+        "german"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "doldrums",
+      "headword": "doldrum",
+      "kind": "word",
+      "zh": "[医]赤道无风带",
+      "en": "",
+      "phonetic": "'dɒldrəm",
+      "forms": [
+        "doldrums"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "weather",
+      "headword": "weather",
+      "kind": "word",
+      "zh": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+      "en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of",
+      "phonetic": "'weðә",
+      "forms": [
+        "weather"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "challenge",
+      "headword": "challenge",
+      "kind": "word",
+      "zh": "n. 挑战, 盘问\nvt. 向...挑战, 要求, 怀疑\nvi. 挑战, 对(证据等)表示异议",
+      "en": "n. a demanding or stimulating situation\nn. a call to engage in a contest or fight\nn. questioning a statement and demanding an explanation\nn. a formal objection to the selection of a particular person as a juror",
+      "phonetic": "'tʃælindʒ",
+      "forms": [
+        "challenge"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "reliant",
+      "headword": "reliant",
+      "kind": "word",
+      "zh": "a. 依赖的, 信赖的",
+      "en": "s. relying on another for support",
+      "phonetic": "ri'laiәnt",
+      "forms": [
+        "reliant"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "renewables",
+      "headword": "renewable",
+      "kind": "word",
+      "zh": "a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的\n[计] 可更新, 可再生的",
+      "en": "a. that can be renewed or extended\ns. capable of being renewed; replaceable",
+      "phonetic": "ri'nju(:)әbl",
+      "forms": [
+        "renewables",
+        "renewable"
+      ],
+      "example": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "accounts for",
+      "headword": "accounts for",
+      "kind": "phrase",
+      "zh": "解释；占……比例",
+      "en": "explains something or constitutes a proportion",
+      "forms": [
+        "accounts for"
+      ],
+      "example": "Wind and solar generation now accounts for more than a third of the electricity produced in Great Britain, for example, from a baseline of almost nothing just 20 years ago.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v26",
+      "term": "for example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "for example"
+      ],
+      "example": "Wind and solar generation now accounts for more than a third of the electricity produced in Great Britain, for example, from a baseline of almost nothing just 20 years ago.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v27",
+      "term": "baseline",
+      "headword": "baseline",
+      "kind": "word",
+      "zh": "n. 基线, 基准\n[计] 基线, 基准",
+      "en": "n. an imaginary line or standard by which things are measured or compared\nn. the lines a baseball player must follow while running the bases",
+      "phonetic": "'beislain",
+      "forms": [
+        "baseline"
+      ],
+      "example": "Wind and solar generation now accounts for more than a third of the electricity produced in Great Britain, for example, from a baseline of almost nothing just 20 years ago.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "shift",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shift",
+        "shifted"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "zero",
+      "headword": "zero",
+      "kind": "word",
+      "zh": "n. 零, 零点, 零度, 无, 乌有, 最低点\na. 零的, 没有的\nvt. 调零, 对(炮火等)作协调校正\n[计] 零",
+      "en": "n. a mathematical element that when added to another number yields the same number\nn. the point on a scale from which positive or negative numerical quantities can be measured\nn. the sight setting that will cause a projectile to hit the center of the target with no wind blowing\nv. adjust (an instrument or device) to zero value",
+      "phonetic": "'ziәrәu",
+      "forms": [
+        "zero"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "decarbonising",
+      "headword": "decarbonise",
+      "kind": "word",
+      "zh": "vt. [主英国英语] =decarbonize[亦作decarburise]",
+      "en": "v remove carbon from (an engine)",
+      "phonetic": ",di:'kɑ:bənaiz",
+      "forms": [
+        "decarbonising"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "sectors",
+      "headword": "sector",
+      "kind": "word",
+      "zh": "n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段\nvt. 把...分成扇形\n[计] 扇面; 扇区; 段; 区段",
+      "en": "n. a plane figure bounded by two radii and the included arc of a circle\nn. a social group that forms part of the society or the economy\nn. a particular aspect of life or activity\nn. the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes",
+      "phonetic": "'sektә",
+      "forms": [
+        "sectors"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v33",
+      "term": "transport",
+      "headword": "transport",
+      "kind": "word",
+      "zh": "n. 运输, 运输工具, 激动, 狂喜, 流放犯\nvt. 传送, 运输, 流放\n[计] 传送",
+      "en": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes\nv. move something or somebody around; usually over long distances\nv. move while supporting, either in a vehicle or in one's hands or on one's body\nv. transport commercially",
+      "phonetic": "træns'pɒ:t",
+      "forms": [
+        "transport"
+      ],
+      "example": "This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "introduction",
+      "headword": "introduction",
+      "kind": "word",
+      "zh": "n. 介绍, 传入, 采用, 初步",
+      "en": "n. the act of beginning something new\nn. the first section of a communication\nn. a basic or elementary instructional text\nn. a new proposal",
+      "phonetic": ".intrә'dʌkʃәn",
+      "forms": [
+        "introduction"
+      ],
+      "example": "The introduction of large amounts of weather-sensitive generation has created new challenges for power-system operators.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "operators",
+      "headword": "operator",
+      "kind": "word",
+      "zh": "n. 操作员, 行家, 经纪人, 算子, 运算符\n[计] 运算符",
+      "en": "n. (mathematics) a symbol or function representing a mathematical operation\nn. an agent that operates some apparatus or machine\nn. someone who owns or operates a business\nn. a speculator who trades aggressively on stock or commodity markets",
+      "phonetic": "'ɒpәreitә",
+      "forms": [
+        "operators"
+      ],
+      "example": "The introduction of large amounts of weather-sensitive generation has created new challenges for power-system operators.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "balancing",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balancing",
+        "balance"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "ensure",
+      "headword": "ensure",
+      "kind": "word",
+      "zh": "vt. 确定, 保证, 担保, 保护\n[经] 确保, 确定",
+      "en": "v make certain of\nv be careful or certain to do something; make certain of something",
+      "phonetic": "in'ʃuә",
+      "forms": [
+        "ensure"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "supply",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supply",
+        "supplies"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "demand",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demand"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "match",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "match"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "real-time",
+      "headword": "real-time",
+      "kind": "word",
+      "zh": "[电] 即时",
+      "en": "a. of or relating to computer systems that update information at the same rate they receive information",
+      "phonetic": "",
+      "forms": [
+        "real-time"
+      ],
+      "example": "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and renewable generation.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "burn",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burn"
+      ],
+      "example": "When demand increased, power plants would burn more coal or gas.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "coal",
+      "headword": "coal",
+      "kind": "word",
+      "zh": "n. 煤, 木炭\nv. 加煤",
+      "en": "n. fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period\nv. supply with coal\nv. take in coal",
+      "phonetic": "kәul",
+      "forms": [
+        "coal"
+      ],
+      "example": "When demand increased, power plants would burn more coal or gas.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "extremely",
+      "headword": "extremely",
+      "kind": "word",
+      "zh": "adv. 极端地, 非常地",
+      "en": "r. to an extreme degree",
+      "phonetic": "ik'stri:mli",
+      "forms": [
+        "extremely"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "unfavourable",
+      "headword": "unfavourable",
+      "kind": "word",
+      "zh": "a. 不适宜的, 不适应的, 不顺利的, 不好的, 相反的, 不同意的, 令人不快的",
+      "en": "a not encouraging or approving or pleasing\na (of winds or weather) tending to hinder or oppose\ns not favorable",
+      "phonetic": "",
+      "forms": [
+        "unfavourable"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "unchecked",
+      "headword": "unchecked",
+      "kind": "word",
+      "zh": "a. 未加抑制的, 未经检查的\n[计] 未选中的",
+      "en": "s not restrained or controlled",
+      "phonetic": ".ʌn'tʃekt",
+      "forms": [
+        "unchecked"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "mismatches",
+      "headword": "mismatch",
+      "kind": "word",
+      "zh": "n. 错配\nvt. 错配, 使...成不相配的婚姻",
+      "en": "n. a bad or unsuitable match\nv. match badly; match two objects or people that do not go together",
+      "phonetic": "mis'mætʃ",
+      "forms": [
+        "mismatches"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "spiral",
+      "headword": "spiral",
+      "kind": "word",
+      "zh": "n. 螺旋形之物, 螺线\na. 螺旋形的, 盘旋的\nvi. 螺旋形下降, 螺旋形上升, 螺旋形行进\nvt. 使螺旋形行进",
+      "en": "n. a plane curve traced by a point circling about the center but at increasing distances from the center\nn. a continuously accelerating change in the economy\nn. ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center\nn. flying downward in a helical path with a large radius",
+      "phonetic": "'spairәl",
+      "forms": [
+        "spiral"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "disconnections",
+      "headword": "disconnection",
+      "kind": "word",
+      "zh": "n. 分离, 断开, 分开\n[计] 断开, 拆接, 不连接",
+      "en": "n. the act of breaking a connection",
+      "phonetic": ",diskә'nekʃәn",
+      "forms": [
+        "disconnections"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "blackouts",
+      "headword": "blackout",
+      "kind": "word",
+      "zh": "n. 灯火管制, 暂时的意识丧失, 灯火熄灭, 删除\n[计] 电网掉电",
+      "en": "n. a suspension of radio or tv broadcasting\nn. darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)\nn. the failure of electric power for a general region\nn. a momentary loss of consciousness",
+      "phonetic": "'blækaut",
+      "forms": [
+        "blackouts"
+      ],
+      "example": "These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "putting",
+      "headword": "putt",
+      "kind": "word",
+      "zh": "vt. 击球入洞\nvi. 轻击高尔夫球\nn. 轻轻一击(入洞)",
+      "en": "n. hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\"\nv. strike (a golf ball) lightly, with a putter\nv. hit a putt",
+      "phonetic": "pʌt",
+      "forms": [
+        "putting"
+      ],
+      "example": "Putting power systems under pressure",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "A dunkelflaute is usually associated with high-pressure weather systems over north-western Europe.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "A dunkelflaute is usually associated with high-pressure weather systems over north-western Europe.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v55",
+      "term": "high-pressure",
+      "headword": "high-pressure",
+      "kind": "word",
+      "zh": "a. 高压的, 高气压的, 强行的\nvt. 施以高压, 强迫",
+      "en": "s aggressively and persistently persuasive",
+      "phonetic": "",
+      "forms": [
+        "high-pressure"
+      ],
+      "example": "A dunkelflaute is usually associated with high-pressure weather systems over north-western Europe.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "slowly",
+      "headword": "slowly",
+      "kind": "word",
+      "zh": "adv. 慢慢地, 迟缓地",
+      "en": "r. without speed (`slow' is sometimes used informally for `slowly')",
+      "phonetic": "'slәuli",
+      "forms": [
+        "slowly"
+      ],
+      "example": "As these move slowly and cover large areas, their effects can persist across several countries for days at a time, reducing the availability of wind and solar power simultaneously.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "persist",
+      "headword": "persist",
+      "kind": "word",
+      "zh": "vi. 坚持, 固执, 持续, 坚称\n[经] 持续",
+      "en": "v. stay behind",
+      "phonetic": "pә'sist",
+      "forms": [
+        "persist"
+      ],
+      "example": "As these move slowly and cover large areas, their effects can persist across several countries for days at a time, reducing the availability of wind and solar power simultaneously.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "availability",
+      "headword": "availability",
+      "kind": "word",
+      "zh": "n. 有效性, 可利用性, 可利用的人\n[计] 有效性; 可用性",
+      "en": "n the quality of being at hand when needed",
+      "phonetic": "ә.veilә'biliti",
+      "forms": [
+        "availability"
+      ],
+      "example": "As these move slowly and cover large areas, their effects can persist across several countries for days at a time, reducing the availability of wind and solar power simultaneously.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "simultaneously",
+      "headword": "simultaneously",
+      "kind": "word",
+      "zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+      "en": "r. at the same instant",
+      "phonetic": "simәl'teiniәsly; (?@) saim-",
+      "forms": [
+        "simultaneously"
+      ],
+      "example": "As these move slowly and cover large areas, their effects can persist across several countries for days at a time, reducing the availability of wind and solar power simultaneously.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "northern",
+      "headword": "northern",
+      "kind": "word",
+      "zh": "n. 北方人\na. 北方的, 向北的, 自北方来的",
+      "en": "n. a dialect of Middle English that developed into Scottish Lallans\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the north",
+      "phonetic": "'nɒ:ðәn",
+      "forms": [
+        "northern"
+      ],
+      "example": "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "thereby",
+      "headword": "thereby",
+      "kind": "word",
+      "zh": "adv. 因此",
+      "en": "r. by that means or because of that",
+      "phonetic": "'ðєәbai",
+      "forms": [
+        "thereby"
+      ],
+      "example": "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "combination",
+      "headword": "combination",
+      "kind": "word",
+      "zh": "n. 组合, 合并, 联合\n[计] 组合图",
+      "en": "n. a collection of things that have been combined; an assemblage of separate parts or qualities\nn. a coordinated sequence of chess moves\nn. a sequence of numbers or letters that opens a combination lock\nn. a group of people (often temporary) having a common purpose",
+      "phonetic": ".kɒmbi'neiʃәn",
+      "forms": [
+        "combination"
+      ],
+      "example": "This combination of reduced renewable generation and higher demand puts individual power systems under strain.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "strain",
+      "headword": "strain",
+      "kind": "word",
+      "zh": "n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻\nvt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤\nvi. 尽力, 努力, 紧拉, 弯曲, 被滤出",
+      "en": "n. (physics) deformation of a physical body under the action of applied forces\nn. (psychology) nervousness resulting from mental stress\nn. injury to a muscle (often caused by overuse); results in swelling and pain\nn. an intense or violent exertion",
+      "phonetic": "strein",
+      "forms": [
+        "strain"
+      ],
+      "example": "This combination of reduced renewable generation and higher demand puts individual power systems under strain.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "exacerbated",
+      "headword": "exacerbate",
+      "kind": "word",
+      "zh": "vt. 使恶化, 使增剧, 激怒, 使加剧",
+      "en": "v. exasperate or irritate",
+      "phonetic": "ek'sæsәbeit",
+      "forms": [
+        "exacerbated"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "neighbouring",
+      "headword": "neighbour",
+      "kind": "word",
+      "zh": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
+      "en": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighbouring"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "limiting",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limiting"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "import",
+      "headword": "import",
+      "kind": "word",
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性\nvt. 输入, 引入, 进口, 含...的意思, 重要\nvi. 有关系\n[计] 引入",
+      "en": "n. commodities (goods or services) bought from a foreign country\nn. an imported person brought from a foreign country\nv. bring in from abroad\nv. transfer (electronic data) into a database or document",
+      "phonetic": "im'pɒ:t",
+      "forms": [
+        "import"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "compensate",
+      "headword": "compensate",
+      "kind": "word",
+      "zh": "v. 偿还, 补偿, 付报酬",
+      "en": "v. adjust for\nv. make amends for; pay compensation for\nv. make payment to; compensate",
+      "phonetic": "'kɒmpenseit",
+      "forms": [
+        "compensate"
+      ],
+      "example": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "storage",
+      "headword": "storage",
+      "kind": "word",
+      "zh": "n. 存储器, 储藏, 保管, 库存, 仓库\n[计] 存放处; 存储",
+      "en": "n. the act of storing something\nn. the commercial enterprise of storing goods and materials\nn. (computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
+      "phonetic": "'stɒ:ridʒ",
+      "forms": [
+        "storage"
+      ],
+      "example": "As these events can last several days, electricity storage can become depleted – particularly given that current storage capacity is typically designed to provide power for several hours at most.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "depleted",
+      "headword": "deplete",
+      "kind": "word",
+      "zh": "vt. 耗尽, 使衰竭\n[医] 排除, 减少",
+      "en": "v use up (resources or materials)",
+      "phonetic": "di'pli:t",
+      "forms": [
+        "depleted"
+      ],
+      "example": "As these events can last several days, electricity storage can become depleted – particularly given that current storage capacity is typically designed to provide power for several hours at most.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "capacity",
+      "headword": "capacity",
+      "kind": "word",
+      "zh": "n. 容量, 能力, 才能, 资格\n[计] 容量",
+      "en": "n. capability to perform or produce\nn. the amount that can be contained\nn. the maximum production possible\nn. a specified function",
+      "phonetic": "kә'pæsiti",
+      "forms": [
+        "capacity"
+      ],
+      "example": "As these events can last several days, electricity storage can become depleted – particularly given that current storage capacity is typically designed to provide power for several hours at most.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "cope",
+      "headword": "cope",
+      "kind": "word",
+      "zh": "vi. 竞争, 应付\nn. 长袍",
+      "en": "n. a long cloak; worn by a priest or bishop on ceremonial occasions\nv. come to terms with",
+      "phonetic": "kәup",
+      "forms": [
+        "cope"
+      ],
+      "example": "Power systems can cope with dunkelflaute conditions in several ways.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "transitioning",
+      "headword": "transition",
+      "kind": "word",
+      "zh": "n. 转变, 转换, 变迁, 过渡时期, 临时转调\n[化] 跃迁",
+      "en": "n. a change from one place or state or subject or stage to another\nn. a musical passage moving from one key to another\nn. a passage that connects a topic to one that follows\nv. cause to convert or undergo a transition",
+      "phonetic": "træn'ziʃәn",
+      "forms": [
+        "transitioning"
+      ],
+      "example": "At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "fossil",
+      "headword": "fossil",
+      "kind": "word",
+      "zh": "n. 化石, 古物\na. 化石的, 陈腐的, 守旧的",
+      "en": "n. the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil\na. characteristic of a fossil",
+      "phonetic": "'fɒsәl",
+      "forms": [
+        "fossil"
+      ],
+      "example": "At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "fossil fuels",
+      "headword": "fossil fuels",
+      "kind": "phrase",
+      "zh": "化石燃料",
+      "en": "coal, oil and gas formed from ancient organic matter",
+      "forms": [
+        "fossil fuels"
+      ],
+      "example": "At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v78",
+      "term": "fuels",
+      "headword": "fuel",
+      "kind": "word",
+      "zh": "n. 燃料, 木炭\nvt. 加燃料, 供燃料\nvi. 得到燃料",
+      "en": "n. a substance that can be consumed to produce energy\nv. provide with a combustible substance that provides energy\nv. provide with fuel\nv. take in fuel, as of a ship",
+      "phonetic": "'fjuәl",
+      "forms": [
+        "fuels",
+        "fuel"
+      ],
+      "example": "At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "backup",
+      "headword": "backup",
+      "kind": "word",
+      "zh": "n. 倒车, 后退, 后援, 支持, 阻塞\nvt. 做备份\na. 候补的, 支持的\n[计] 备份; DOS外部命令:通常使用于将硬磁盘上指定的文件复制到软盘上",
+      "en": "n. an accumulation caused by clogging or a stoppage\nn. (computer science) a copy of a file or directory on a separate storage device",
+      "phonetic": "'bækʌp",
+      "forms": [
+        "backup"
+      ],
+      "example": "At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "adjust",
+      "headword": "adjust",
+      "kind": "word",
+      "zh": "vt. 调整, 使适应于, 校准\nvi. 适应于, 被调节, 相互熟悉而适应",
+      "en": "v. alter or regulate so as to achieve accuracy or conform to a standard\nv. adapt or conform oneself to new or different conditions\nv. make correspondent or conformable\nv. decide how much is to be paid on an insurance claim",
+      "phonetic": "ә'dʒʌst",
+      "forms": [
+        "adjust"
+      ],
+      "example": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and renewable generation.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "convenient",
+      "headword": "convenient",
+      "kind": "word",
+      "zh": "a. 方便的, 合宜的\n[法] 适当的, 合理而可行的, 方便的",
+      "en": "a. suited to your comfort or purpose or needs",
+      "phonetic": "kәn'vi:njәnt",
+      "forms": [
+        "convenient"
+      ],
+      "example": "This makes them a convenient way to maintain supply during a dunkelflaute, though it can be expensive, especially when the supply-demand balancing act is very tight.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "expensive",
+      "headword": "expensive",
+      "kind": "word",
+      "zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
+      "en": "a. high in price or charging high prices",
+      "phonetic": "ik'spensiv",
+      "forms": [
+        "expensive"
+      ],
+      "example": "This makes them a convenient way to maintain supply during a dunkelflaute, though it can be expensive, especially when the supply-demand balancing act is very tight.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "tight",
+      "headword": "tight",
+      "kind": "word",
+      "zh": "a. 紧的, 密封的, 吝啬的, 严厉的\nadv. 紧紧地",
+      "en": "a. closely constrained or constricted or constricting\ns. set so close together as to be invulnerable to penetration\ns. affected by scarcity and expensive to borrow\na. of such close construction as to be impermeable",
+      "phonetic": "tait",
+      "forms": [
+        "tight"
+      ],
+      "example": "This makes them a convenient way to maintain supply during a dunkelflaute, though it can be expensive, especially when the supply-demand balancing act is very tight.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "clean",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "clean"
+      ],
+      "example": "The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "advice",
+      "headword": "advice",
+      "kind": "word",
+      "zh": "n. 忠告, 劝告, 意见, 报道, 通知\n[经] 通知书, 通知, 建议",
+      "en": "n. a proposal for an appropriate course of action",
+      "phonetic": "әd'vais",
+      "forms": [
+        "advice"
+      ],
+      "example": "The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "proposes",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposes"
+      ],
+      "example": "The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "planners",
+      "headword": "planner",
+      "kind": "word",
+      "zh": "n. 计划者, 设计者, 安排者\n[机] 刨床机",
+      "en": "n. a person who makes plans\nn. a notebook for recording appointments and things to be done, etc.",
+      "phonetic": "'plænә",
+      "forms": [
+        "planners"
+      ],
+      "example": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "flexible",
+      "headword": "flexible",
+      "kind": "word",
+      "zh": "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的\n[医] 能屈的",
+      "en": "a. capable of being changed\na. able to flex; able to bend easily\ns. bending and snapping back readily without breaking",
+      "phonetic": "'fleksәbl",
+      "forms": [
+        "flexible"
+      ],
+      "example": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "instantaneously",
+      "headword": "instantaneously",
+      "kind": "word",
+      "zh": "adv. 即刻, 立即",
+      "en": "r. without any delay",
+      "phonetic": "",
+      "forms": [
+        "instantaneously"
+      ],
+      "example": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "favourable",
+      "headword": "favourable",
+      "kind": "word",
+      "zh": "a. 有用的, 良好的, 赞成的, 顺利的\n[医] 良好的, 顺利的",
+      "en": "a encouraging or approving or pleasing\na (of winds or weather) tending to promote or facilitate\ns occurring at a convenient or suitable time\ns presaging or likely to bring good luck",
+      "phonetic": "'feivәrәbl",
+      "forms": [
+        "favourable"
+      ],
+      "example": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "for instance",
+      "headword": "for instance",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "for example",
+      "forms": [
+        "for instance"
+      ],
+      "example": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v92",
+      "term": "instance",
+      "headword": "instance",
+      "kind": "word",
+      "zh": "n. 建议, 情况, 例子, 场合\nvt. 引以为例, 举例说明",
+      "en": "n an occurrence of something\nn an item of information that is typical of a class or group\nv clarify by giving an example of",
+      "phonetic": "'instәns",
+      "forms": [
+        "instance"
+      ],
+      "example": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "windy",
+      "headword": "windy",
+      "kind": "word",
+      "zh": "a. 多风的, 风强的, 腹胀的, 吹牛的",
+      "en": "s. resembling the wind in speed, force, or variability",
+      "phonetic": "'windi",
+      "forms": [
+        "windy"
+      ],
+      "example": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "sunny",
+      "headword": "sunny",
+      "kind": "word",
+      "zh": "a. 阳光充足的, 乐观的, 快乐的, 像太阳的",
+      "en": "s bright and pleasant; promoting a feeling of cheer",
+      "phonetic": "'sʌni",
+      "forms": [
+        "sunny"
+      ],
+      "example": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "strengthening",
+      "headword": "strengthen",
+      "kind": "word",
+      "zh": "vt. 加强, 变坚固\nvi. 变强, 股票上涨",
+      "en": "v. make strong or stronger\nv. gain strength",
+      "phonetic": "'streŋθәn",
+      "forms": [
+        "strengthening"
+      ],
+      "example": "Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "transmission",
+      "headword": "transmission",
+      "kind": "word",
+      "zh": "n. 传输, 传送, 变速器\n[计] 传输",
+      "en": "n. the act of sending a message; causing a message to be transmitted\nn. communication by means of transmitted signals\nn. the gears that transmit power from an automobile engine via the driveshaft to the live axle",
+      "phonetic": "træns'miʃәn",
+      "forms": [
+        "transmission"
+      ],
+      "example": "Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "connections",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connections"
+      ],
+      "example": "Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "regional",
+      "headword": "regional",
+      "kind": "word",
+      "zh": "a. 地方的, 地域性的\n[医] 区的, 部位的",
+      "en": "a. characteristic of a region\ns. related or limited to a particular region",
+      "phonetic": "'ri:dʒәnәl",
+      "forms": [
+        "regional"
+      ],
+      "example": "Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "absorb",
+      "headword": "absorb",
+      "kind": "word",
+      "zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担\n[医] 吸收",
+      "en": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically",
+      "phonetic": "әb'sɒ:b",
+      "forms": [
+        "absorb"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "surplus",
+      "headword": "surplus",
+      "kind": "word",
+      "zh": "n. 剩余, 过剩, 盈余\na. 过剩的, 剩余的",
+      "en": "n a quantity much larger than is needed\ns more than is needed, desired, or required",
+      "phonetic": "'sә:plәs",
+      "forms": [
+        "surplus"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "generated",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generated"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "batteries",
+      "headword": "battery",
+      "kind": "word",
+      "zh": "n. 电池, 殴打\n[化] 蓄电池",
+      "en": "n. group of guns or missile launchers operated together at one place\nn. a device that produces electricity; may have several primary or secondary cells arranged in parallel or series\nn. a collection of related things intended for use together\nn. a unit composed of the pitcher and catcher",
+      "phonetic": "'bætәri",
+      "forms": [
+        "batteries"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "alternatives",
+      "headword": "alternative",
+      "kind": "word",
+      "zh": "n. 两者择一, 供替代的选择\na. 两者择一的, 供选择的\n[计] 选择对象",
+      "en": "s. necessitating a choice between mutually exclusive possibilities\ns. pertaining to unconventional choices",
+      "phonetic": "ɒ:l'tә:nәtiv",
+      "forms": [
+        "alternatives"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "pumped",
+      "headword": "pump",
+      "kind": "word",
+      "zh": "n. 抽水机, 打气筒, 泵, 抽吸\nvt. 用唧筒抽水, 打气, 盘问, 倾注, 使疲惫\nvi. 抽水, 上下(或往复)运动",
+      "en": "n. a mechanical device that moves fluid or gas by pressure or suction\nn. a low-cut shoe without fastenings\nv. operate like a pump; move up and down, like a handle or a pedal\nv. deliver forth",
+      "phonetic": "pʌmp",
+      "forms": [
+        "pumped"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "hydropower",
+      "headword": "hydropower",
+      "kind": "word",
+      "zh": "n. 水力发出的电力",
+      "en": "",
+      "phonetic": "'haidrәupauә",
+      "forms": [
+        "hydropower"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "reservoirs",
+      "headword": "reservoir",
+      "kind": "word",
+      "zh": "n. 贮水池, 贮藏处, 贮备, 水库\nvt. 储藏",
+      "en": "n. a large or extra supply of something\nn. lake used to store water for community use\nn. tank used for collecting and storing a liquid (as water or oil)\nn. anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies",
+      "phonetic": "'rezәvwɑ:",
+      "forms": [
+        "reservoirs"
+      ],
+      "example": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "linking",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linking"
+      ],
+      "example": "Linking electricity systems with other forms of energy use could help here.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "excess",
+      "headword": "excess",
+      "kind": "word",
+      "zh": "n. 过度, 剩于, 超过, 超额\na. 过量的, 额外的",
+      "en": "n. a quantity much larger than is needed\nn. immoderation as a consequence of going beyond sufficient or permitted limits\ns. more than is needed, desired, or required",
+      "phonetic": "ik'ses",
+      "forms": [
+        "excess"
+      ],
+      "example": "For example, excess electricity could be used to produce hydrogen, which can then be stored and used as a fuel.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "hydrogen",
+      "headword": "hydrogen",
+      "kind": "word",
+      "zh": "n. 氢\n[化] 氢H-2",
+      "en": "n. a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe",
+      "phonetic": "'haidrәdʒәn",
+      "forms": [
+        "hydrogen"
+      ],
+      "example": "For example, excess electricity could be used to produce hydrogen, which can then be stored and used as a fuel.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "severity",
+      "headword": "severity",
+      "kind": "word",
+      "zh": "n. 严格, 朴素, 激烈",
+      "en": "n. excessive sternness",
+      "phonetic": "si'veriti",
+      "forms": [
+        "severity"
+      ],
+      "example": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "geographical",
+      "headword": "geographical",
+      "kind": "word",
+      "zh": "a. 地理学的, 地理的",
+      "en": "a of or relating to the science of geography\na determined by geography",
+      "phonetic": "dʒiә'græfikl",
+      "forms": [
+        "geographical"
+      ],
+      "example": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "extent",
+      "headword": "extent",
+      "kind": "word",
+      "zh": "n. 范围, 程度, 区域\n[计] 范围",
+      "en": "n. the point or degree to which something extends\nn. the distance or area or volume over which something extends",
+      "phonetic": "ik'stent",
+      "forms": [
+        "extent"
+      ],
+      "example": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "duration",
+      "headword": "duration",
+      "kind": "word",
+      "zh": "n. 持续时间, 持续\n[计] 持续时间",
+      "en": "n. the period of time during which something continues\nn. the property of enduring or continuing in time\nn. continuance in time",
+      "phonetic": "dju'reiʃәn",
+      "forms": [
+        "duration"
+      ],
+      "example": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "reliance",
+      "headword": "reliance",
+      "kind": "word",
+      "zh": "n. 信任, 信赖, 受信赖的人(或事)\n[法] 信任, 信赖, 信心",
+      "en": "n. certainty based on past experience\nn. the state of relying on something",
+      "phonetic": "ri'laiәns",
+      "forms": [
+        "reliance"
+      ],
+      "example": "However, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing reliance on wind and solar energy.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "reliance on",
+      "headword": "reliance on",
+      "kind": "phrase",
+      "zh": "对……的依赖",
+      "en": "dependence on something",
+      "forms": [
+        "reliance on"
+      ],
+      "example": "However, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing reliance on wind and solar energy.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v117",
+      "term": "widespread",
+      "headword": "widespread",
+      "kind": "word",
+      "zh": "a. 充分伸展的, 广布的, 普及的, 流传广的",
+      "en": "s. widely circulated or diffused",
+      "phonetic": "'waidspred",
+      "forms": [
+        "widespread"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "otherwise",
+      "headword": "otherwise",
+      "kind": "word",
+      "zh": "adv. 否则, 不同地, 别的方式",
+      "en": "s. other than as supposed or expected\nr. in other respects or ways",
+      "phonetic": "'ʌðәwaiz",
+      "forms": [
+        "otherwise"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "benign",
+      "headword": "benign",
+      "kind": "word",
+      "zh": "a. 善良的, 良性的\n[医] 良性的",
+      "en": "a. not dangerous to health; not recurrent or progressive (especially of a tumor)\na. pleasant and beneficial in nature or influence\ns. kindness of disposition or manner",
+      "phonetic": "bi'nain",
+      "forms": [
+        "benign"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "hazard",
+      "headword": "hazard",
+      "kind": "word",
+      "zh": "n. 冒险, 危险, 机会\nvt. 冒...的危险, 赌运气, 使冒危险\n[计] 相关危险; 冒险",
+      "en": "n. a source of danger; a possibility of incurring loss or misfortune\nn. an obstacle on a golf course",
+      "phonetic": "'hæzәd",
+      "forms": [
+        "hazard"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "flooding",
+      "headword": "flood",
+      "kind": "word",
+      "zh": "n. 洪水, 大量之水, 涨潮\nvt. 淹没, 使泛滥, 注满\nvi. 被淹, 溢出, 涌进",
+      "en": "n. the rising of a body of water and its overflowing onto normally dry land\nn. an overwhelming number or amount\nn. light that is a source of artificial illumination having a broad beam; used in photography\nn. a large flow",
+      "phonetic": "flʌd",
+      "forms": [
+        "flooding"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "storms",
+      "headword": "storm",
+      "kind": "word",
+      "zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻\nvi. 起风, 猛冲, 怒吼\nvt. 猛攻",
+      "en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning\nn. a violent commotion or disturbance\nn. a direct and violent assault on a stronghold\nv. take by force",
+      "phonetic": "stɒ:m",
+      "forms": [
+        "storms"
+      ],
+      "example": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "underlines",
+      "headword": "underline",
+      "kind": "word",
+      "zh": "vt. 在...下面划线, 作...的衬里, 强调\nn. 下划线, 图下说明文字\n[计] 加下划线; 下划线",
+      "en": "v. draw a line or lines underneath to call attention to",
+      "phonetic": "'ʌndәlain",
+      "forms": [
+        "underlines"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "alert",
+      "headword": "alert",
+      "kind": "word",
+      "zh": "a. 警觉的, 灵敏的, 留心的\nn. 警报\nvt. 使警觉, 通知, 使意识到",
+      "en": "n. condition of heightened watchfulness or preparation for action\nn. a warning serves to make you more alert to danger\na. engaged in or accustomed to close observation\ns. quick and energetic",
+      "phonetic": "ә'lә:t",
+      "forms": [
+        "alert"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "emerging",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerging"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "evolve",
+      "headword": "evolve",
+      "kind": "word",
+      "zh": "vi. 进展, 进化, 展开\nvt. 使发展, 使推断出, 使进化",
+      "en": "v. work out\nv. undergo development or evolution",
+      "phonetic": "i'vɒlv",
+      "forms": [
+        "evolve"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "collaboration",
+      "headword": "collaboration",
+      "kind": "word",
+      "zh": "n. 合作, 勾结\n[法] 通敌卖国者, 奸细",
+      "en": "n. act of working jointly\nn. act of cooperating traitorously with an enemy that is occupying your country",
+      "phonetic": "kә.læbә'ræʃәn",
+      "forms": [
+        "collaboration"
+      ],
+      "example": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "renewable energy",
+      "headword": "renewable energy",
+      "kind": "phrase",
+      "zh": "可再生能源",
+      "en": "energy from sources naturally replenished over time",
+      "forms": [
+        "renewable energy"
+      ],
+      "example": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v132",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "norm",
+      "headword": "norm",
+      "kind": "word",
+      "zh": "n. 基准, 模范, 标准, 准则, 平均数\n[化] 定额",
+      "en": "n. a standard or model or pattern regarded as typical",
+      "phonetic": "nɒ:m",
+      "forms": [
+        "norm"
+      ],
+      "example": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      11,
+      17
+    ],
+    "wordBank": [
+      "instantaneously",
+      "reservoirs",
+      "familiar",
+      "reliance",
+      "duration",
+      "essential",
+      "renewable",
+      "advice",
+      "absorb",
+      "windy"
+    ],
+    "parts": [
+      {
+        "text": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " generation. This makes them a convenient way to maintain supply during a dunkelflaute, though it can be expensive, especially when the supply-demand balancing act is very tight. The UK National Energy System Operator’s Clean Power 2030 "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " proposes keeping around 35GW of gas power to provide backup when renewable generation is low.\n\nIn the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ". Several measures can help to do this, and some are already in use.\n\nElectricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " or sunny days. Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.\n\nBuilding more electricity storage could also help "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ". Linking electricity systems with other forms of energy use could help here. For example, excess electricity could be used to produce hydrogen, which can then be stored and used as a fuel.\n\nUnderstanding the severity, geographical extent and "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.\n\nHowever, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " on wind and solar energy. Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " threats such as flooding or storms.\n\nThis underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers. This collaboration will be "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " to managing weather risks as renewable energy becomes the norm and the climate keeps changing."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "renewable",
+        "vocabularyId": "v24",
+        "explanation": "原文此处使用 renewable（renewable）。结合上下文辨认词义与词形。",
+        "evidence": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and renewable generation.",
+        "paragraph": 11
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "advice",
+        "vocabularyId": "v85",
+        "explanation": "原文此处使用 advice（advice）。结合上下文辨认词义与词形。",
+        "evidence": "The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
+        "paragraph": 11
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "instantaneously",
+        "vocabularyId": "v89",
+        "explanation": "原文此处使用 instantaneously（instantaneously）。结合上下文辨认词义与词形。",
+        "evidence": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
+        "paragraph": 12
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "windy",
+        "vocabularyId": "v93",
+        "explanation": "原文此处使用 windy（windy）。结合上下文辨认词义与词形。",
+        "evidence": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
+        "paragraph": 13
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "absorb",
+        "vocabularyId": "v99",
+        "explanation": "原文此处使用 absorb（absorb）。结合上下文辨认词义与词形。",
+        "evidence": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+        "paragraph": 14
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "reservoirs",
+        "vocabularyId": "v106",
+        "explanation": "原文此处使用 reservoirs（reservoir）。结合上下文辨认词义与词形。",
+        "evidence": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+        "paragraph": 14
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "duration",
+        "vocabularyId": "v113",
+        "explanation": "原文此处使用 duration（duration）。结合上下文辨认词义与词形。",
+        "evidence": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+        "paragraph": 15
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "reliance",
+        "vocabularyId": "v115",
+        "explanation": "原文此处使用 reliance（reliance）。结合上下文辨认词义与词形。",
+        "evidence": "However, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing reliance on wind and solar energy.",
+        "paragraph": 16
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "familiar",
+        "vocabularyId": "v121",
+        "explanation": "原文此处使用 familiar（familiar）。结合上下文辨认词义与词形。",
+        "evidence": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+        "paragraph": 16
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "essential",
+        "vocabularyId": "v130",
+        "explanation": "原文此处使用 essential（essential）。结合上下文辨认词义与词形。",
+        "evidence": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Humidity increases the danger of heatwaves and deserves greater attention in public warnings.",
+          "Research documents an increase in foggy days in southern Australia and explores its causes.",
+          "Oceans and forests have slowed warming by absorbing carbon, but their future capacity is uncertain.",
+          "Periods without wind or sunshine create challenges for electricity systems that depend on renewables."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why can renewable generation create challenges for electricity operators?",
+        "options": [
+          "It means electricity can no longer be stored in any form.",
+          "Much of it varies with weather conditions.",
+          "It removes the need to balance electricity supply and demand.",
+          "Its output is always identical regardless of weather."
+        ],
+        "answer": 1,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The introduction of large amounts of weather-sensitive generation has created new challenges for power-system operators.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 7?",
+        "options": [
+          "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+          "For example, excess electricity could be used to produce hydrogen, which can then be stored and used as a fuel.",
+          "A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+          "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity."
+        ],
+        "answer": 3,
+        "explanation": "定位第 7 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity.",
+        "paragraph": 7
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.”",
+        "options": [
+          "Paragraph 3",
+          "Paragraph 12",
+          "Paragraph 1",
+          "Paragraph 8"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 12 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
+        "paragraph": 12
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.”",
+        "options": [
+          "Paragraph 16",
+          "Paragraph 2",
+          "Paragraph 14",
+          "Paragraph 7"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
+        "paragraph": 14
+      }
+    ]
+  },
+  "revision": "86d99f82d3e9db648e7b67583a53ecbe667b1d3957f0447d501c3d8cf2ff49e6"
+}

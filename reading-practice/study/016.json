@@ -1,0 +1,2397 @@
+{
+  "schemaVersion": 1,
+  "folder": "016",
+  "articleSha256": "d6cfbe029f4b44ba6b30e3755af330945527a92ea1da1384bfc48892b14ace37",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "mars",
+      "headword": "mar",
+      "kind": "word",
+      "zh": "vt. 损毁, 损伤, 糟蹋\nn. 三月",
+      "en": "v. make imperfect",
+      "phonetic": "mɑ:",
+      "forms": [
+        "mars"
+      ],
+      "example": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "moons",
+      "headword": "moon",
+      "kind": "word",
+      "zh": "n. 月亮, 月球, 月光\nvi. 闲荡\nvt. 虚度",
+      "en": "n. the natural satellite of the Earth\nn. any object resembling a moon\nn. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)\nn. any natural satellite of a planet",
+      "phonetic": "mu:n",
+      "forms": [
+        "moons",
+        "moon"
+      ],
+      "example": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "phobos",
+      "headword": "phobos",
+      "kind": "word",
+      "zh": "n. [天]火卫一",
+      "en": "n. the larger of the two satellites of Mars",
+      "phonetic": "'fәjbɔs,'fɔ-",
+      "forms": [
+        "phobos"
+      ],
+      "example": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "origins",
+      "headword": "origin",
+      "kind": "word",
+      "zh": "n. 起源, 起因, 出身, 开端\n[计] 原点; 起始地址; 信件来源的相关数据",
+      "en": "n. properties attributable to your ancestry\nn. an event that is a beginning; a first part or stage of subsequent events\nn. the point of intersection of coordinate axes; where the values of the coordinates are all zero\nn. the source of something's existence or from which it derives or is derived",
+      "phonetic": "'ɒridʒin",
+      "forms": [
+        "origins",
+        "origin"
+      ],
+      "example": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "uncertain",
+      "headword": "uncertain",
+      "kind": "word",
+      "zh": "a. 不确定的, 无常的, 不确信的, 不可预测的\n[法] 不确定的, 未定的, 不确信的",
+      "en": "a. lacking or indicating lack of confidence or assurance\na. not established beyond doubt; still undecided or unknown\na. not certain to occur; not inevitable\ns. not consistent or dependable",
+      "phonetic": ".ʌn'sә:tn",
+      "forms": [
+        "uncertain"
+      ],
+      "example": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "asteroids",
+      "headword": "asteroid",
+      "kind": "word",
+      "zh": "n. 小行星, 海盘车\na. 星状的",
+      "en": "n. any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)\ns. shaped like a star",
+      "phonetic": "'æstәrɒid",
+      "forms": [
+        "asteroids",
+        "asteroid"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "gravity",
+      "headword": "gravity",
+      "kind": "word",
+      "zh": "n. 地心引力, 重力\n[化] 重力",
+      "en": "n. (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface\nn. a solemn and dignified feeling",
+      "phonetic": "'græviti",
+      "forms": [
+        "gravity"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "debris",
+      "headword": "debris",
+      "kind": "word",
+      "zh": "n. 碎片, 残骸\n[医] 碎屑",
+      "en": "n. the remains of something that has been destroyed or broken up",
+      "phonetic": "'deibri:",
+      "forms": [
+        "debris"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "Were they asteroids captured by Mars’ gravity, or did they form from debris following a giant impact on the planet?",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "martian",
+      "headword": "Martian",
+      "kind": "word",
+      "zh": "n. 火星人\na. 火星的",
+      "en": "n. imaginary people who live on the planet Mars\na. of or relating to the planet Mars (or its fictional inhabitants)",
+      "phonetic": "'mɑ:ʃiәn",
+      "forms": [
+        "martian"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "exploration",
+      "headword": "exploration",
+      "kind": "word",
+      "zh": "n. 探险, 踏勘, 探测\n[医] 探察",
+      "en": "n. to travel for the purpose of discovery\nn. a careful systematic search\nn. a systematic consideration",
+      "phonetic": ".eksplә'reiʃәn",
+      "forms": [
+        "exploration"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "mission",
+      "headword": "mission",
+      "kind": "word",
+      "zh": "n. 任务, 代表团, 使命, 传教团\nvt. 派遣, 向...传教",
+      "en": "n. an organization of missionaries in a foreign land sent to carry on religious work\nn. an operation that is assigned by a higher headquarters\nn. a special assignment that is given to a person or group\nn. the organized work of a religious missionary",
+      "phonetic": "'miʃәn",
+      "forms": [
+        "mission"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "aims",
+      "headword": "aim",
+      "kind": "word",
+      "zh": "n. 目标, 瞄准, 击中目标的能力\nvi. 对准目标, 致力, 打算\nvt. 瞄准\n[计] 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+      "en": "n. the goal intended to be attained (and which is believed to be attainable)\nn. the action of directing something at an object\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv. propose or intend",
+      "phonetic": "eim",
+      "forms": [
+        "aims"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "solve",
+      "headword": "solve",
+      "kind": "word",
+      "zh": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解",
+      "en": "v. find the solution to (a problem or question) or understand the meaning of",
+      "phonetic": "sɒlv",
+      "forms": [
+        "solve"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "mystery",
+      "headword": "mystery",
+      "kind": "word",
+      "zh": "n. 秘密, 神秘, 奥秘",
+      "en": "n. something that baffles understanding and cannot be explained\nn. a story about a crime (usually murder) presented as a novel or play or movie",
+      "phonetic": "'mistәri",
+      "forms": [
+        "mystery"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "collecting",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collecting",
+        "collected",
+        "collects"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "samples",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "samples"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "soil",
+      "headword": "soil",
+      "kind": "word",
+      "zh": "n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池\nvt. 弄脏, 污辱\nvi. 变脏",
+      "en": "n. the part of the earth's surface consisting of humus and disintegrated rock",
+      "phonetic": "sɒil",
+      "forms": [
+        "soil"
+      ],
+      "example": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "laboratory",
+      "headword": "laboratory",
+      "kind": "word",
+      "zh": "n. 实验室, 研究室, 化工厂\n[医] 实验室, 检验室, 化验室",
+      "en": "n a workplace for the conduct of scientific research\nn a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
+      "phonetic": "'læbrәtәri",
+      "forms": [
+        "laboratory"
+      ],
+      "example": "Laboratory experiments in the UK are helping prepare scientists to interpret its findings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "experiments",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiments",
+        "experiment"
+      ],
+      "example": "Laboratory experiments in the UK are helping prepare scientists to interpret its findings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "interpret",
+      "headword": "interpret",
+      "kind": "word",
+      "zh": "vt. 解释, 演出, 翻译, 理解\nvi. 翻译, 解释",
+      "en": "v. make sense of; assign a meaning to\nv. give an interpretation or rendition of",
+      "phonetic": "in'tә:prit",
+      "forms": [
+        "interpret"
+      ],
+      "example": "Laboratory experiments in the UK are helping prepare scientists to interpret its findings.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "launched",
+      "headword": "launch",
+      "kind": "word",
+      "zh": "n. 下水, 汽艇, 发射\nvt. 使下水, 发射, 发动\nvi. 起飞, 下水, 投入, 开始",
+      "en": "n. a motorboat with an open deck or a half deck\nv. propel with force\nv. launch for the first time; launch on a maiden voyage\nv. get going; give impetus to",
+      "phonetic": "lɒ:ntʃ",
+      "forms": [
+        "launched"
+      ],
+      "example": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "successfully",
+      "headword": "successfully",
+      "kind": "word",
+      "zh": "adv. 成功, 结果良好, 有成就",
+      "en": "r. with success; in a successful manner",
+      "phonetic": "sәk'sesfjli",
+      "forms": [
+        "successfully"
+      ],
+      "example": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "atop",
+      "headword": "atop",
+      "kind": "word",
+      "zh": "adv. 在顶上\nprep. 在...的顶上",
+      "en": "r. on, to, or at the top",
+      "phonetic": "ә'tɒp",
+      "forms": [
+        "atop"
+      ],
+      "example": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "rocket",
+      "headword": "rocket",
+      "kind": "word",
+      "zh": "n. 火箭, 烟火\nvi. 急升, 猛涨, 飞驰\nvt. 用火箭运载",
+      "en": "n. any vehicle self-propelled by a rocket engine\nn. a jet engine containing its own propellant and driven by reaction propulsion\nn. erect European annual often grown as a salad crop to be harvested when young and tender\nn. propels bright light high in the sky, or used to propel a lifesaving line or harpoon",
+      "phonetic": "'rɒkit",
+      "forms": [
+        "rocket"
+      ],
+      "example": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "space",
+      "headword": "space",
+      "kind": "word",
+      "zh": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅\nvt. 隔开, 分隔\nvi. 留间隔\n[计] 空白, 空格校验",
+      "en": "n. the unlimited expanse in which everything is located\nn. an empty area (usually bounded in some way between things)\nn. an area reserved for some particular purpose\nn. a blank character used to separate successive words in writing or printing",
+      "phonetic": "speis",
+      "forms": [
+        "space"
+      ],
+      "example": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "ground",
+      "headword": "grind",
+      "kind": "word",
+      "zh": "n. 磨, 碾, 苦差, 摩擦声, 用功的学生\nvt. 磨擦, 磨碎, 磨光, 折磨, 压榨\nvi. 磨, 磨碎, 苦干",
+      "en": "n. the grade of particle fineness to which a substance is ground\nn. the act of grinding to a powder or dust\nv. dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced\nv. reduce to small pieces or particles by pounding or abrading",
+      "phonetic": "graind",
+      "forms": [
+        "ground"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "controllers",
+      "headword": "controller",
+      "kind": "word",
+      "zh": "n. 控制器, 管理者\n[计] 控制器",
+      "en": "n someone who maintains and audits business accounts\nn a person who directs and restrains\nn a mechanism that controls the operation of a machine",
+      "phonetic": "kәn'trәulә",
+      "forms": [
+        "controllers"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "signal",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signal"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "spacecraft",
+      "headword": "spacecraft",
+      "kind": "word",
+      "zh": "n. 航天飞船",
+      "en": "n. a craft capable of traveling in outer space; technically, a satellite around the sun",
+      "phonetic": "'speiskræft",
+      "forms": [
+        "spacecraft"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "communicating",
+      "headword": "communicate",
+      "kind": "word",
+      "zh": "vt. 显露, 传达, 感染\nvi. 通讯",
+      "en": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas",
+      "phonetic": "kә'mju:nikeit",
+      "forms": [
+        "communicating"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "normally",
+      "headword": "normally",
+      "kind": "word",
+      "zh": "adv. 正规地, 合规则, 正常地",
+      "en": "r. under normal conditions",
+      "phonetic": "'nɒ:mәli",
+      "forms": [
+        "normally"
+      ],
+      "example": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "meteorites",
+      "headword": "meteorite",
+      "kind": "word",
+      "zh": "n. 陨星\n[化] 陨石; 陨铁",
+      "en": "n. stony or metallic object that is the remains of a meteoroid that has reached the earth's surface",
+      "phonetic": "'mi:tiәrait",
+      "forms": [
+        "meteorites"
+      ],
+      "example": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "formation",
+      "headword": "formation",
+      "kind": "word",
+      "zh": "n. 形成, 构造, 编队\n[医] 形成, 结构",
+      "en": "n. an arrangement of people or things acting as a unit\nn. the act of fabricating something in a particular shape\nn. a particular spatial arrangement\nn. natural process that causes something to form",
+      "phonetic": "fɒ:'meiʃәn",
+      "forms": [
+        "formation"
+      ],
+      "example": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "evolution",
+      "headword": "evolution",
+      "kind": "word",
+      "zh": "n. 进化, 发展, 进展, (气体)放出, 开方\n[医] 进化, 演化, 旋出",
+      "en": "n. (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms",
+      "phonetic": ".i:vә'lu:ʃәn",
+      "forms": [
+        "evolution"
+      ],
+      "example": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "solar",
+      "headword": "solar",
+      "kind": "word",
+      "zh": "a. 太阳的, 日光的, 源自太阳的\n[医] 太阳的; 腹腔丛的",
+      "en": "a. relating to or derived from the sun or utilizing the energies of the sun",
+      "phonetic": "'sәulә",
+      "forms": [
+        "solar"
+      ],
+      "example": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "Solar System",
+      "headword": "solar system",
+      "kind": "phrase",
+      "zh": "太阳系",
+      "en": "the Sun and the objects orbiting it",
+      "forms": [
+        "Solar System"
+      ],
+      "example": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v40",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "soviet",
+      "headword": "Soviet",
+      "kind": "word",
+      "zh": "n. 代表会议, 苏维埃, 苏联\na. 苏维埃的, 苏联的",
+      "en": "n. an elected governmental council in a communist country (especially one that is a member of the Union of Soviet Socialist Republics)\na. of or relating to or characteristic of the former Soviet Union or its people",
+      "phonetic": "'sәuviәt",
+      "forms": [
+        "soviet"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "gathered",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gathered"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "orbit",
+      "headword": "orbit",
+      "kind": "word",
+      "zh": "n. 轨道, 常轨, 眼眶\nvt. 绕...轨道而行\nvi. 进入轨道, 盘旋",
+      "en": "n. the (usually elliptical) path described by one celestial body in its revolution about another\nn. the path of an electron around the nucleus of an atom",
+      "phonetic": "'ɒ:bit",
+      "forms": [
+        "orbit",
+        "orbits"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "infrared",
+      "headword": "infrared",
+      "kind": "word",
+      "zh": "a. 红外线的\nn. 红外线",
+      "en": "n. the infrared region of the electromagnetic spectrum; electromagnetic wave frequencies below the visible range\nn. electromagnetic radiation with wavelengths longer than visible light but shorter than radio waves\ns. having or employing wavelengths longer than light but shorter than radio waves; lying outside the visible spectrum at its red end",
+      "phonetic": ".infrә'red",
+      "forms": [
+        "infrared"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "telescope",
+      "headword": "telescope",
+      "kind": "word",
+      "zh": "n. 望远镜\nvi. 叠缩, 嵌进, 缩短\nvt. 使叠缩, 使缩短",
+      "en": "n. a magnifier of images of distant objects\nv. crush together or collapse\nv. make smaller or shorter",
+      "phonetic": "'teliskәup",
+      "forms": [
+        "telescope"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "facility",
+      "headword": "facility",
+      "kind": "word",
+      "zh": "n. 容易, 灵巧, 设备\n[计] 设施; 设备; 装备",
+      "en": "n. a building or place that provides a particular service or is used for a particular industry\nn. a natural effortlessness\nn. something designed and created to serve a particular function and to afford a particular convenience or service\nn. a service that an organization or a piece of equipment offers you",
+      "phonetic": "fә'siliti",
+      "forms": [
+        "facility"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "hints",
+      "headword": "hint",
+      "kind": "word",
+      "zh": "n. 暗示, 提示\nv. 暗示, 示意",
+      "en": "n. an indirect suggestion\nn. a slight indication\nv. drop a hint; intimate by a hint",
+      "phonetic": "hint",
+      "forms": [
+        "hints"
+      ],
+      "example": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "spectral",
+      "headword": "spectral",
+      "kind": "word",
+      "zh": "a. 光谱的, 鬼怪的, 幻觉的\n[医] 光谱的",
+      "en": "a. of or relating to a spectrum",
+      "phonetic": "'spektrәl",
+      "forms": [
+        "spectral"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "planetary",
+      "headword": "planetary",
+      "kind": "word",
+      "zh": "a. 行星的, 流浪的, 迁移不定的, 地球上的, 现世的",
+      "en": "a. of or relating to or characteristic of the planet Earth or its inhabitants",
+      "phonetic": "'plænitri",
+      "forms": [
+        "planetary"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "absorbs",
+      "headword": "absorb",
+      "kind": "word",
+      "zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担\n[医] 吸收",
+      "en": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically",
+      "phonetic": "әb'sɒ:b",
+      "forms": [
+        "absorbs"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "composition",
+      "headword": "composition",
+      "kind": "word",
+      "zh": "n. 作文, 创作, 组成\n[化] 成分; 组成",
+      "en": "n. the spatial property resulting from the arrangement of parts in relation to each other and to the whole\nn. a mixture of ingredients\nn. an essay (especially one written as an assignment)\nn. something that is created by arranging several things to form a unified whole",
+      "phonetic": "kɒmpә'ziʃәn",
+      "forms": [
+        "composition",
+        "compositions"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "resembling",
+      "headword": "resemble",
+      "kind": "word",
+      "zh": "vt. 相似, 类似",
+      "en": "v. appear like; be similar or bear a likeness to",
+      "phonetic": "ri'zembl",
+      "forms": [
+        "resembling"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "primitive",
+      "headword": "primitive",
+      "kind": "word",
+      "zh": "n. 原始人, 早期艺术家\na. 原始的, 上古的\n[计] 图元; 原语; 基元",
+      "en": "n. a person who belongs to an early stage of civilization\nn. a mathematical expression from which another expression is derived\nn. a word serving as the basis for inflected or derived forms\ns. used of preliterate or tribal or nonindustrial societies",
+      "phonetic": "'primitiv",
+      "forms": [
+        "primitive"
+      ],
+      "example": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "originated",
+      "headword": "originate",
+      "kind": "word",
+      "zh": "vt. 创始, 发明, 发起\nvi. 发源, 发生, 起航\n[计] 发自",
+      "en": "v. come into existence; take on form or shape\nv. bring into being\nv. begin a trip at a certain point, as of a plane, train, bus, etc.",
+      "phonetic": "ә'ridʒineit",
+      "forms": [
+        "originated"
+      ],
+      "example": "These are thought to have originated in the outer Solar System before some migrated towards the Sun.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "outer",
+      "headword": "outer",
+      "kind": "word",
+      "zh": "a. 外部的, 外面的, 在外的, 远离中心的\n[机] 外部的, 外面的, 外侧的",
+      "en": "a. being on the outside or further from a center\ns. located outside\ns. being on or toward the outside of the body",
+      "phonetic": "'autә",
+      "forms": [
+        "outer"
+      ],
+      "example": "These are thought to have originated in the outer Solar System before some migrated towards the Sun.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "migrated",
+      "headword": "migrate",
+      "kind": "word",
+      "zh": "vi. 移动, 移往, 随季节而移居\n[计] 迁移程序",
+      "en": "v. move from one country or region to another and settle there\nv. move periodically or seasonally",
+      "phonetic": "'maigreit",
+      "forms": [
+        "migrated"
+      ],
+      "example": "These are thought to have originated in the outer Solar System before some migrated towards the Sun.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "These are thought to have originated in the outer Solar System before some migrated towards the Sun.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "For Mars to have captured two separate asteroids would be difficult to explain.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "alternative",
+      "headword": "alternative",
+      "kind": "word",
+      "zh": "n. 两者择一, 供替代的选择\na. 两者择一的, 供选择的\n[计] 选择对象",
+      "en": "s. necessitating a choice between mutually exclusive possibilities\ns. pertaining to unconventional choices",
+      "phonetic": "ɒ:l'tә:nәtiv",
+      "forms": [
+        "alternative"
+      ],
+      "example": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "proposal",
+      "headword": "proposal",
+      "kind": "word",
+      "zh": "n. 提议, 计划, 求婚\n[经] 提案, 申请, 投标",
+      "en": "n. something proposed (such as a plan or assumption)\nn. the act of making a proposal",
+      "phonetic": "prә'pәuzl",
+      "forms": [
+        "proposal"
+      ],
+      "example": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "fragments",
+      "headword": "fragment",
+      "kind": "word",
+      "zh": "n. 碎片, 破片, 片段\n[计] 段落; 片段; 分段",
+      "en": "n. a piece broken off or cut off of something else\nn. an incomplete piece",
+      "phonetic": "'frægmәnt",
+      "forms": [
+        "fragments"
+      ],
+      "example": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "torn",
+      "headword": "tear",
+      "kind": "word",
+      "zh": "n. 泪滴, 眼泪, 撕, 扯, 裂缝, 激怒, 飞奔\nvi. 流泪, 撕破, 赶快, 飞奔, 被撕破\nvt. 撕裂, 戳破, 拉掉, 撕掉, 使分裂, 使精神不安, 折磨",
+      "en": "n. a drop of the clear salty saline solution secreted by the lacrimal glands\nn. the act of tearing\nv. separate or cause to separate abruptly\nv. to separate or be separated by force",
+      "phonetic": "tiә. tєә",
+      "forms": [
+        "torn"
+      ],
+      "example": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "apart",
+      "headword": "apart",
+      "kind": "word",
+      "zh": "adv. 成零碎, 成距离, 分别地, 分离着\na. 分离的",
+      "en": "s. remote and separate physically or socially\ns. having characteristics not shared by others\nr. separated or at a distance in place or position or time\nr. not taken into account or excluded from consideration",
+      "phonetic": "ә'pɑ:t",
+      "forms": [
+        "apart"
+      ],
+      "example": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "subsequently",
+      "headword": "subsequently",
+      "kind": "word",
+      "zh": "adv. 后来, 随后",
+      "en": "r. happening at a time subsequent to a reference time",
+      "phonetic": "'sʌbsikwәntli",
+      "forms": [
+        "subsequently"
+      ],
+      "example": "These fragments subsequently formed a disc of material from which the moons evolved.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "disc",
+      "headword": "disc",
+      "kind": "word",
+      "zh": "n. 圆盘, 唱片\nvt. 灌唱片",
+      "en": "n sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove\nn something with a round shape resembling a flat circular plate\nn (computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored\nn a flat circular plate",
+      "phonetic": "disk",
+      "forms": [
+        "disc"
+      ],
+      "example": "These fragments subsequently formed a disc of material from which the moons evolved.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "evolved",
+      "headword": "evolve",
+      "kind": "word",
+      "zh": "vi. 进展, 进化, 展开\nvt. 使发展, 使推断出, 使进化",
+      "en": "v. work out\nv. undergo development or evolution",
+      "phonetic": "i'vɒlv",
+      "forms": [
+        "evolved"
+      ],
+      "example": "These fragments subsequently formed a disc of material from which the moons evolved.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "distant",
+      "headword": "distant",
+      "kind": "word",
+      "zh": "a. 远的, 疏远的\n[经] 远期的",
+      "en": "a. separated in space or coming from or going to a distance\na. far apart in relevance or relationship or kinship\ns. separate or apart in time\ns. located far away spatially",
+      "phonetic": "'distәnt",
+      "forms": [
+        "distant"
+      ],
+      "example": "However, this raises the question of how an object from the distant outer Solar System reached Mars.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "proposes",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposes",
+        "proposed"
+      ],
+      "example": "Another theory proposes that Phobos and Deimos formed from debris ejected into orbit when a large object struck Mars.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "ejected",
+      "headword": "eject",
+      "kind": "word",
+      "zh": "vt. 逐放, 放逐, 喷射\n[化] 排出",
+      "en": "v. put out or expel from a place\nv. leave an aircraft rapidly, using an ejection seat or capsule",
+      "phonetic": "i'dʒekt",
+      "forms": [
+        "ejected",
+        "eject"
+      ],
+      "example": "Another theory proposes that Phobos and Deimos formed from debris ejected into orbit when a large object struck Mars.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "scenario",
+      "headword": "scenario",
+      "kind": "word",
+      "zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态\n[计] 方案",
+      "en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\nn. a setting for a work of art or literature\nn. a postulated sequence of possible events",
+      "phonetic": "si'nɑ:riәu",
+      "forms": [
+        "scenario",
+        "scenarios"
+      ],
+      "example": "Although this scenario can explain aspects of their orbits, questions remain about whether their composition matches that expected from such an impact.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "aspects",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspects"
+      ],
+      "example": "Although this scenario can explain aspects of their orbits, questions remain about whether their composition matches that expected from such an impact.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "matches",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "matches"
+      ],
+      "example": "Although this scenario can explain aspects of their orbits, questions remain about whether their composition matches that expected from such an impact.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "distinguishing",
+      "headword": "distinguish",
+      "kind": "word",
+      "zh": "v. 区别, 辨别",
+      "en": "v. mark as different\nv. be a distinctive feature, attribute, or trait; sometimes in a very positive sense",
+      "phonetic": "dis'tiŋgwiʃ",
+      "forms": [
+        "distinguishing"
+      ],
+      "example": "Distinguishing between these possibilities is a major goal of the MMX mission, which will investigate both moons and return samples from Phobos to Earth.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "investigate",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigate",
+        "investigated",
+        "investigating"
+      ],
+      "example": "Distinguishing between these possibilities is a major goal of the MMX mission, which will investigate both moons and return samples from Phobos to Earth.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "What if Phobos contains material from elsewhere? Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "clue",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clue",
+        "clues"
+      ],
+      "example": "Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "delivered",
+      "headword": "deliver",
+      "kind": "word",
+      "zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付\n[经] 交运",
+      "en": "v. deliver (a speech, oration, or idea)\nv. bring to a destination, make a delivery\nv. utter (an exclamation, noise, etc.)\nv. save from sins",
+      "phonetic": "di'livә",
+      "forms": [
+        "delivered"
+      ],
+      "example": "Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "exogenous",
+      "headword": "exogenous",
+      "kind": "word",
+      "zh": "a. 外生的\n[医] 外原的, 外生的",
+      "en": "a. derived or originating externally",
+      "phonetic": "ek'sɒdʒinәs",
+      "forms": [
+        "exogenous"
+      ],
+      "example": "Large impacts on Mars can eject rocks into space, some of which could eventually land on Phobos. Asteroids striking the moon directly could also leave fragments behind. Scientists call this exogenous material.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "numerical",
+      "headword": "numerical",
+      "kind": "word",
+      "zh": "a. 数字的, 数值的, 以数字表示的, 擅长于计数的\n[经] 数字的, 用数字表示的",
+      "en": "a. relating to or having ability to think in or work with numbers",
+      "phonetic": "nju:'merikl",
+      "forms": [
+        "numerical"
+      ],
+      "example": "About ten years ago, I investigated this process through laboratory experiments and numerical simulations.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "simulations",
+      "headword": "simulation",
+      "kind": "word",
+      "zh": "n. 模拟, 假冒物, 模仿\n[计] 模拟",
+      "en": "n. the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)\nn. (computer science) the technique of representing the real world by a computer program",
+      "phonetic": ".simju'leiʃәn",
+      "forms": [
+        "simulations"
+      ],
+      "example": "About ten years ago, I investigated this process through laboratory experiments and numerical simulations.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "demonstrated",
+      "headword": "demonstrate",
+      "kind": "word",
+      "zh": "vt. 示范, 证明\nvi. 示威",
+      "en": "v. march in protest; take part in a demonstration",
+      "phonetic": "'demәnstreit",
+      "forms": [
+        "demonstrated"
+      ],
+      "example": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "colliding",
+      "headword": "collide",
+      "kind": "word",
+      "zh": "vi. 碰撞, 互撞, 抵触",
+      "en": "v. cause to collide\nv. crash together with violent impact",
+      "phonetic": "kә'laid",
+      "forms": [
+        "colliding",
+        "collided"
+      ],
+      "example": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "target",
+      "headword": "target",
+      "kind": "word",
+      "zh": "n. 目标, 靶子, 指标\nvt. 对准, 订指标",
+      "en": "n. a reference point to shoot at\nn. the location of the target that is to be hit\nn. sports equipment consisting of an object set up for a marksman or archer to aim at\nv. intend (something) to move towards a certain goal",
+      "phonetic": "'tɑ:git",
+      "forms": [
+        "target"
+      ],
+      "example": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "velocities",
+      "headword": "velocity",
+      "kind": "word",
+      "zh": "n. 速度, 迅速\n[化] 速度",
+      "en": "n distance travelled per unit time",
+      "phonetic": "vi'lɒsәti",
+      "forms": [
+        "velocities",
+        "velocity"
+      ],
+      "example": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "Years later, Nasa’s Osiris-Rex mission to the asteroid Bennu and Japan’s Hayabusa2 mission to the asteroid Ryugu identified foreign material associated with impacts on their target asteroids.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "Years later, Nasa’s Osiris-Rex mission to the asteroid Bennu and Japan’s Hayabusa2 mission to the asteroid Ryugu identified foreign material associated with impacts on their target asteroids.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v88",
+      "term": "similarly",
+      "headword": "similarly",
+      "kind": "word",
+      "zh": "adv. 相像地, 类似于",
+      "en": "r. in like or similar manner",
+      "phonetic": "'similәli",
+      "forms": [
+        "similarly"
+      ],
+      "example": "Finding fragments of rock from Mars or asteroid fragments on Phobos could similarly help reconstruct the moon’s impact history and shed light on its origin.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "reconstruct",
+      "headword": "reconstruct",
+      "kind": "word",
+      "zh": "vt. 重建, 改造\n[化] 按原样修复",
+      "en": "v. reassemble mentally\nv. cause somebody to adapt or reform socially or politically",
+      "phonetic": ".ri:kәns'trʌkt",
+      "forms": [
+        "reconstruct"
+      ],
+      "example": "Finding fragments of rock from Mars or asteroid fragments on Phobos could similarly help reconstruct the moon’s impact history and shed light on its origin.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "shed",
+      "headword": "shed",
+      "kind": "word",
+      "zh": "n. 车棚, 小屋, 脱落之物, 分水岭\nvt. 使流出, 放射, 脱落, 散发, 摆脱\nvi. 流出, 散布, 脱落",
+      "en": "n. an outbuilding with a single story; used for shelter or storage\nv. get rid of\nv. cast off hair, skin, horn, or feathers",
+      "phonetic": "ʃed",
+      "forms": [
+        "shed"
+      ],
+      "example": "Finding fragments of rock from Mars or asteroid fragments on Phobos could similarly help reconstruct the moon’s impact history and shed light on its origin.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "selected",
+      "headword": "select",
+      "kind": "word",
+      "zh": "a. 挑选出来的, 极好的\nv. 选择, 挑选\nn. 被挑选者, 精萃\n[计] 选定",
+      "en": "v pick out, select, or choose from a number of alternatives\ns of superior grade\ns selected or chosen for special qualifications",
+      "phonetic": "si'lekt",
+      "forms": [
+        "selected",
+        "select"
+      ],
+      "example": "In 2023, I was selected as a participating scientist in the MMX mission and joined its surface science and geology SST (science strategy team).",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "participating",
+      "headword": "participate",
+      "kind": "word",
+      "zh": "vi. 参加, 分享, 参与, 带有\nvt. 分享, 分担",
+      "en": "v. share in something",
+      "phonetic": "pɑ:'tisipeit",
+      "forms": [
+        "participating"
+      ],
+      "example": "In 2023, I was selected as a participating scientist in the MMX mission and joined its surface science and geology SST (science strategy team).",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "geology",
+      "headword": "geology",
+      "kind": "word",
+      "zh": "n. 地质学, 地质情况",
+      "en": "n. a science that deals with the history of the earth as recorded in rocks",
+      "phonetic": "dʒi'ɒlәdʒi",
+      "forms": [
+        "geology"
+      ],
+      "example": "In 2023, I was selected as a participating scientist in the MMX mission and joined its surface science and geology SST (science strategy team).",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "shaping",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shaping",
+        "shaped"
+      ],
+      "example": "My research focuses on the processes shaping the moons’ surfaces, particularly impacts.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "combining",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combining"
+      ],
+      "example": "By combining observations from different spacecraft instruments, I aim to study crater numbers and sizes to understand the moons’ impact histories.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "instruments",
+      "headword": "instrument",
+      "kind": "word",
+      "zh": "n. 工具, 手段, 仪器\n[化] 仪器",
+      "en": "n. a device that requires skill for proper use\nn. the means whereby some act is accomplished\nn. a person used by another to gain an end\nv. equip with instruments for measuring, recording, or controlling",
+      "phonetic": "'instrumәnt",
+      "forms": [
+        "instruments"
+      ],
+      "example": "By combining observations from different spacecraft instruments, I aim to study crater numbers and sizes to understand the moons’ impact histories.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "crater",
+      "headword": "crater",
+      "kind": "word",
+      "zh": "n. 火山口, 环行山, 弹坑\n[化] 焊口; 火山石; 弧坑; 焰口",
+      "en": "n. a faint constellation in the southern hemisphere near Hydra and Corvus\nn. a bowl-shaped depression formed by the impact of a meteorite or bomb",
+      "phonetic": "'kreitә",
+      "forms": [
+        "crater"
+      ],
+      "example": "By combining observations from different spacecraft instruments, I aim to study crater numbers and sizes to understand the moons’ impact histories.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "numbers",
+      "headword": "numbers",
+      "kind": "word",
+      "zh": "n. 数字（number的复数）；算术",
+      "en": "n. the fourth book of the Old Testament; contains a record of the number of Israelites who followed Moses out of Egypt",
+      "phonetic": "'nʌmbәz",
+      "forms": [
+        "numbers"
+      ],
+      "example": "By combining observations from different spacecraft instruments, I aim to study crater numbers and sizes to understand the moons’ impact histories.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "correct",
+      "headword": "correct",
+      "kind": "word",
+      "zh": "a. 正确的, 合适的\nvt. 改正, 订正",
+      "en": "v. make right or correct\nv. treat a defect\na. free from error; especially conforming to fact or truth\ns. socially right or correct",
+      "phonetic": "kә'rekt",
+      "forms": [
+        "correct"
+      ],
+      "example": "If the captured-asteroid theory is correct, MMX will be investigating a primitive object that formed in the outer Solar System.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "evident",
+      "headword": "evident",
+      "kind": "word",
+      "zh": "a. 显然的, 明显的",
+      "en": "s clearly revealed to the mind or the senses or judgment\ns capable of being seen or noticed",
+      "phonetic": "'evidәnt",
+      "forms": [
+        "evident"
+      ],
+      "example": "This may be evident in the distinct compositions of material collected by MMX from Phobos.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "distinct",
+      "headword": "distinct",
+      "kind": "word",
+      "zh": "a. 清楚的, 显著的, 不同的",
+      "en": "s. (often followed by `from') not alike; different in nature or quality\na. easy to perceive; especially clearly outlined\ns. recognizable; marked",
+      "phonetic": "dis'tiŋkt",
+      "forms": [
+        "distinct"
+      ],
+      "example": "This may be evident in the distinct compositions of material collected by MMX from Phobos.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "recreating",
+      "headword": "recreate",
+      "kind": "word",
+      "zh": "v. (使)得到休养, (使)得到娱乐, 再创造",
+      "en": "v. create anew",
+      "phonetic": "'rekrieit",
+      "forms": [
+        "recreating"
+      ],
+      "example": "Recreating space impacts",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "predict",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predict"
+      ],
+      "example": "Laboratory experiments have already been helping scientists predict what the MMX spacecraft’s instruments might detect.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "detect",
+      "headword": "detect",
+      "kind": "word",
+      "zh": "vt. 发现, 察觉, 探测\n[法] 发现, 查明, 探测",
+      "en": "v. discover or determine the existence, presence, or fact of",
+      "phonetic": "di'tekt",
+      "forms": [
+        "detect"
+      ],
+      "example": "Laboratory experiments have already been helping scientists predict what the MMX spacecraft’s instruments might detect.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "experimental",
+      "headword": "experimental",
+      "kind": "word",
+      "zh": "a. 实验的, 根据实验的\n[医] 实验的",
+      "en": "a. relating to or based on experiment\ns. relying on observation or experiment\ns. of the nature of or undergoing an experiment",
+      "phonetic": "ik.speri'mentәl",
+      "forms": [
+        "experimental"
+      ],
+      "example": "With financial support from Europlanet, a society that supports planetary scientists, I launched an experimental campaign at the University of Kent.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "kent",
+      "headword": "Kent",
+      "kind": "word",
+      "zh": "n. 肯特郡(英国郡名)",
+      "en": "n. a county in southeastern England on the English Channel; formerly an Anglo-Saxon kingdom, it was the first to be colonized by the Romans\nn. United States painter noted for his woodcuts (1882-1971)",
+      "phonetic": "kent",
+      "forms": [
+        "kent"
+      ],
+      "example": "With financial support from Europlanet, a society that supports planetary scientists, I launched an experimental campaign at the University of Kent.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "apparatus",
+      "headword": "apparatus",
+      "kind": "word",
+      "zh": "n. 装置, 器具, 器官\n[化] 仪器; 器械",
+      "en": "n. equipment designed to serve a specific function\nn. (anatomy) a group of body parts that work together to perform a given function",
+      "phonetic": ".æpә'reitәs",
+      "forms": [
+        "apparatus"
+      ],
+      "example": "The tests used a light-gas gun (an apparatus that propels objects at high velocities) to fire projectiles at material designed to simulate the surface of Phobos under both proposed formation scenarios.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "propels",
+      "headword": "propel",
+      "kind": "word",
+      "zh": "vt. 推进, 驱使\n[机] 推进",
+      "en": "v. cause to move forward with force",
+      "phonetic": "prәu'pel",
+      "forms": [
+        "propels"
+      ],
+      "example": "The tests used a light-gas gun (an apparatus that propels objects at high velocities) to fire projectiles at material designed to simulate the surface of Phobos under both proposed formation scenarios.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "projectiles",
+      "headword": "projectile",
+      "kind": "word",
+      "zh": "n. 发射体, 抛射物\na. 发射的, 投射的",
+      "en": "n. a weapon that is forcibly thrown or projected at a targets but is not self-propelled\ns. impelling or impelled forward",
+      "phonetic": "prә'dʒektil",
+      "forms": [
+        "projectiles"
+      ],
+      "example": "The tests used a light-gas gun (an apparatus that propels objects at high velocities) to fire projectiles at material designed to simulate the surface of Phobos under both proposed formation scenarios.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "simulate",
+      "headword": "simulate",
+      "kind": "word",
+      "zh": "vt. 模拟, 假装, 模仿\n[法] 伪装的, 模拟的; 假装的, 伪装的, 冒充",
+      "en": "v. make a pretence of",
+      "phonetic": "'simjuleit",
+      "forms": [
+        "simulate"
+      ],
+      "example": "The tests used a light-gas gun (an apparatus that propels objects at high velocities) to fire projectiles at material designed to simulate the surface of Phobos under both proposed formation scenarios.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "depends",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depends"
+      ],
+      "example": "We investigated how crater formation depends on impact velocity and the size of the object.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "contaminate",
+      "headword": "contaminate",
+      "kind": "word",
+      "zh": "vt. 弄污, 弄脏, 污染, 毒害\n[化] 污染",
+      "en": "v. make radioactive by adding radioactive material",
+      "phonetic": "kәn'tæmineit",
+      "forms": [
+        "contaminate"
+      ],
+      "example": "We also tested whether material ejected from Mars could contaminate Phobos.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "feasible",
+      "headword": "feasible",
+      "kind": "word",
+      "zh": "a. 能实行的, 可行的, 适宜的\n[法] 可行的, 可执行的, 可完成的",
+      "en": "s. capable of being done with means at hand and circumstances as they are",
+      "phonetic": "'fi:zәbl",
+      "forms": [
+        "feasible"
+      ],
+      "example": "Our experiments demonstrated that this process is feasible under the conditions that applied during the experiment.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "replicate",
+      "headword": "replicate",
+      "kind": "word",
+      "zh": "vt. 折叠, 折转, 复制\nn. 复现试验, 复制品, 高八度音\na. 复现的, 复制的, 折转的, 弯回的",
+      "en": "v. reproduce or make an exact copy of",
+      "phonetic": "'replikeit",
+      "forms": [
+        "replicate"
+      ],
+      "example": "These tests can replicate the natural process and impact speeds.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "speeds",
+      "headword": "speed",
+      "kind": "word",
+      "zh": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+      "en": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity",
+      "phonetic": "spi:d",
+      "forms": [
+        "speeds"
+      ],
+      "example": "These tests can replicate the natural process and impact speeds.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "submitted",
+      "headword": "submit",
+      "kind": "word",
+      "zh": "vt. 使服从, 使受到, 委托, 提交, 认为\nvi. 屈服, 服从",
+      "en": "v. refer for judgment or consideration\nv. put before\nv. yield to the control of another\nv. yield to another's wish or opinion",
+      "phonetic": "sәb'mit",
+      "forms": [
+        "submitted"
+      ],
+      "example": "This work is being submitted to the journal Monthly Notices of the Royal Astronomical Society (MNRAS).",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "journal",
+      "headword": "journal",
+      "kind": "word",
+      "zh": "n. 日记, 杂志, 日报\n[化] 轴颈",
+      "en": "n. a periodical dedicated to a particular subject\nn. a record book as a physical object\nn. the part of the axle contained by a bearing",
+      "phonetic": "'dʒә:nәl",
+      "forms": [
+        "journal"
+      ],
+      "example": "This work is being submitted to the journal Monthly Notices of the Royal Astronomical Society (MNRAS).",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "monthly",
+      "headword": "monthly",
+      "kind": "word",
+      "zh": "n. 月刊\na. 每月的, 每月一次的",
+      "en": "n. a periodical that is published every month (or 12 issues per year)\ns. of or occurring or payable every month\nr. occurring once a month",
+      "phonetic": "'mʌnθli",
+      "forms": [
+        "monthly"
+      ],
+      "example": "This work is being submitted to the journal Monthly Notices of the Royal Astronomical Society (MNRAS).",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "royal",
+      "headword": "royal",
+      "kind": "word",
+      "zh": "n. 王室, 皇族\na. 王室的, 皇家的, 盛大的, 庄严的",
+      "en": "n. a sail set next above the topgallant on a royal mast\nn. stag with antlers of 12 or more branches\na. of or relating to or indicative of or issued or performed by a king or queen or other monarch\na. established or chartered or authorized by royalty",
+      "phonetic": "'rɒiәl",
+      "forms": [
+        "royal"
+      ],
+      "example": "This work is being submitted to the journal Monthly Notices of the Royal Astronomical Society (MNRAS).",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "astronomical",
+      "headword": "astronomical",
+      "kind": "word",
+      "zh": "a. 天文学的, 庞大的",
+      "en": "a relating or belonging to the science of astronomy\ns inconceivably large",
+      "phonetic": ".æstrә'nɒmikl",
+      "forms": [
+        "astronomical"
+      ],
+      "example": "This work is being submitted to the journal Monthly Notices of the Royal Astronomical Society (MNRAS).",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "oxford",
+      "headword": "Oxford",
+      "kind": "word",
+      "zh": "n. 牛津, 牛津大学",
+      "en": "n. a city in southern England to the northwest of London; site of Oxford University\nn. a university town in northern Mississippi; home of William Faulkner\nn. a low shoe laced over the instep",
+      "phonetic": "'ɒksfәd",
+      "forms": [
+        "oxford"
+      ],
+      "example": "Together with early-career scientists Dr Emelia Branagan-Harris of the University of Oxford, Dr Ben Rider-Stokes from The Open University and Dr Vassi Spathis of the Institute for Space in Leicester, we also investigated whether MMX’s instruments could detect grains of material from Mars within Phobos’ surface layer before the spacecraft collects samples.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "institute",
+      "headword": "institute",
+      "kind": "word",
+      "zh": "n. 学会, 学院, 协会\nvt. 创立, 开始, 制定, 任命",
+      "en": "n. an association organized to promote art or science or education\nv. advance or set forth in court",
+      "phonetic": "'institju:t",
+      "forms": [
+        "institute"
+      ],
+      "example": "Together with early-career scientists Dr Emelia Branagan-Harris of the University of Oxford, Dr Ben Rider-Stokes from The Open University and Dr Vassi Spathis of the Institute for Space in Leicester, we also investigated whether MMX’s instruments could detect grains of material from Mars within Phobos’ surface layer before the spacecraft collects samples.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "grains",
+      "headword": "grain",
+      "kind": "word",
+      "zh": "n. 谷粒, 颗粒, 谷类, 纹理, 本质\nv. (使)成谷粒",
+      "en": "n. a relatively small granular particle of a substance\nn. foodstuff prepared from the starchy grains of cereal grasses\nn. the side of leather from which the hair has been removed\nn. a weight unit used for pearls or diamonds: 50 mg or 1/4 carat",
+      "phonetic": "grein",
+      "forms": [
+        "grains"
+      ],
+      "example": "Together with early-career scientists Dr Emelia Branagan-Harris of the University of Oxford, Dr Ben Rider-Stokes from The Open University and Dr Vassi Spathis of the Institute for Space in Leicester, we also investigated whether MMX’s instruments could detect grains of material from Mars within Phobos’ surface layer before the spacecraft collects samples.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "layer",
+      "headword": "layer",
+      "kind": "word",
+      "zh": "n. 层, 产卵鸡, 放置者\nvt. 分层堆积, 压植\n[计] 层",
+      "en": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells",
+      "phonetic": "'leiә",
+      "forms": [
+        "layer"
+      ],
+      "example": "Together with early-career scientists Dr Emelia Branagan-Harris of the University of Oxford, Dr Ben Rider-Stokes from The Open University and Dr Vassi Spathis of the Institute for Space in Leicester, we also investigated whether MMX’s instruments could detect grains of material from Mars within Phobos’ surface layer before the spacecraft collects samples.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "This work is currently under revision in MNRAS.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "revision",
+      "headword": "revision",
+      "kind": "word",
+      "zh": "n. 校订, 修正, 修订本, 修订版\n[计] 修订版",
+      "en": "n. the act of revising or altering (involving reconsideration and modification)\nn. the act of rewriting something",
+      "phonetic": "ri'viʒәn",
+      "forms": [
+        "revision"
+      ],
+      "example": "This work is currently under revision in MNRAS.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "remotely",
+      "headword": "remotely",
+      "kind": "word",
+      "zh": "adv. 极小地, 极细微地",
+      "en": "r. in a remote manner\nr. to a remote degree",
+      "phonetic": "",
+      "forms": [
+        "remotely"
+      ],
+      "example": "If foreign material can be identified remotely, scientists will be better equipped to interpret observations and select soil samples that will provide the most useful information.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "equipped",
+      "headword": "equip",
+      "kind": "word",
+      "zh": "vt. 装备, 配备\n[机] 设备, 装置",
+      "en": "v. provide with (something) usually for a specific purpose\nv. provide with abilities or understanding",
+      "phonetic": "i'kwip",
+      "forms": [
+        "equipped"
+      ],
+      "example": "If foreign material can be identified remotely, scientists will be better equipped to interpret observations and select soil samples that will provide the most useful information.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "useful",
+      "headword": "useful",
+      "kind": "word",
+      "zh": "a. 有用的, 有益的\n[机] 有用的, 有效的",
+      "en": "a. being of use or service",
+      "phonetic": "'ju:sful",
+      "forms": [
+        "useful"
+      ],
+      "example": "If foreign material can be identified remotely, scientists will be better equipped to interpret observations and select soil samples that will provide the most useful information.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "hague",
+      "headword": "Hague",
+      "kind": "word",
+      "zh": "[法] 海牙",
+      "en": "",
+      "phonetic": "hei^",
+      "forms": [
+        "hague"
+      ],
+      "example": "We presented our findings at the Europlanet Science Congress in The Hague, Netherlands, in September.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "netherlands",
+      "headword": "Netherlands",
+      "kind": "word",
+      "zh": "n. 荷兰",
+      "en": "n. a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level",
+      "phonetic": "'neðәlәndz",
+      "forms": [
+        "netherlands"
+      ],
+      "example": "We presented our findings at the Europlanet Science Congress in The Hague, Netherlands, in September.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "At the University of Leicester, our team of scientists – called Hard Rocks – is designing experiments to investigate the potential presence of organic matter on Phobos.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "presence",
+      "headword": "presence",
+      "kind": "word",
+      "zh": "n. 出席, 面前, 存在, 仪态, 风度\n[电] 出现",
+      "en": "n. the state of being present; current existence\nn. the immediate proximity of someone or something\nn. an invisible spiritual being felt to be nearby\nn. the impression that something is present",
+      "phonetic": "'prezns",
+      "forms": [
+        "presence"
+      ],
+      "example": "At the University of Leicester, our team of scientists – called Hard Rocks – is designing experiments to investigate the potential presence of organic matter on Phobos.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "organic",
+      "headword": "organic",
+      "kind": "word",
+      "zh": "a. 器官的, 有机的, 组织的, 根本的\n[医] 器官的, 有生命的, 有机的, 器质的",
+      "en": "n. a fertilizer that is derived from animal or vegetable matter\na. relating or belonging to the class of chemical compounds having a carbon basis\na. being or relating to or derived from or having properties characteristic of living organisms\na. involving or affecting physiology or bodily organs",
+      "phonetic": "ɒ:'gænik",
+      "forms": [
+        "organic"
+      ],
+      "example": "At the University of Leicester, our team of scientists – called Hard Rocks – is designing experiments to investigate the potential presence of organic matter on Phobos.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "Organic compounds",
+      "headword": "organic compounds",
+      "kind": "phrase",
+      "zh": "有机化合物",
+      "en": "chemical compounds based on carbon",
+      "forms": [
+        "Organic compounds"
+      ],
+      "example": "Organic compounds are not necessarily evidence of life, they can also form through non-biological processes or be delivered by asteroids.",
+      "paragraph": 27,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v136",
+      "term": "compounds",
+      "headword": "compound",
+      "kind": "word",
+      "zh": "n. 混合物, 复合词, 化合物, 院子\na. 复合的, 混合的, 化合的\nvi. 化合, 和解, 妥协\nvt. 使复合, 使化合",
+      "en": "n. a whole formed by a union of two or more elements or parts\nn. (chemistry) a substance formed by chemical union of two or more elements or ingredients in definite proportion by weight\nn. an enclosure of residences and other building (especially in the Orient)\nv. put or add together",
+      "phonetic": "kәm'paund",
+      "forms": [
+        "compounds"
+      ],
+      "example": "Organic compounds are not necessarily evidence of life, they can also form through non-biological processes or be delivered by asteroids.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "necessarily",
+      "headword": "necessarily",
+      "kind": "word",
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "en": "r. in an essential manner\nr. as a highly likely consequence",
+      "phonetic": "'nesisәrili",
+      "forms": [
+        "necessarily"
+      ],
+      "example": "Organic compounds are not necessarily evidence of life, they can also form through non-biological processes or be delivered by asteroids.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "remnants",
+      "headword": "remnant",
+      "kind": "word",
+      "zh": "n. 剩余, 零料, 遗迹\na. 剩余的, 残余的",
+      "en": "n a small part or portion that remains after the main part no longer exists\nn a piece of cloth that is left over after the rest has been used or sold",
+      "phonetic": "'remnәnt",
+      "forms": [
+        "remnants"
+      ],
+      "example": "Whether they are captured asteroids or remnants of a giant impact, their surfaces and returned samples could reveal important clues about their formation.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "preserves",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserves"
+      ],
+      "example": "If Phobos also preserves material delivered from Mars or distant asteroids, these tiny moons could tell a much bigger story about the collisions and movements of material that shaped our Solar System.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "If Phobos also preserves material delivered from Mars or distant asteroids, these tiny moons could tell a much bigger story about the collisions and movements of material that shaped our Solar System.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "collisions",
+      "headword": "collision",
+      "kind": "word",
+      "zh": "n. 碰撞, 冲突, 抵触\n[计] 冲突",
+      "en": "n. (physics) a brief event in which two or more bodies come together\nn. an accident resulting from violent impact of a moving object\nn. a conflict of opposed ideas or attitudes or goals",
+      "phonetic": "kә'liʒәn",
+      "forms": [
+        "collisions"
+      ],
+      "example": "If Phobos also preserves material delivered from Mars or distant asteroids, these tiny moons could tell a much bigger story about the collisions and movements of material that shaped our Solar System.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      3,
+      13
+    ],
+    "wordBank": [
+      "elsewhere",
+      "ground",
+      "distant",
+      "hints",
+      "formation",
+      "proposal",
+      "primitive",
+      "colliding",
+      "matches",
+      "exogenous"
+    ],
+    "parts": [
+      {
+        "text": "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan. About two weeks ago, "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " controllers received the first signal from the spacecraft to check it is communicating normally.\n\nStudying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " and evolution of the Solar System.\n\nObservations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " about Phobos’ origins.\n\nThey showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " asteroids known as D-types. These are thought to have originated in the outer Solar System before some migrated towards the Sun.\n\nFor Mars to have captured two separate asteroids would be difficult to explain. An alternative "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " suggests that Mars captured fragments of an asteroid torn apart by its gravity. These fragments subsequently formed a disc of material from which the moons evolved.\n\nHowever, this raises the question of how an object from the "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " outer Solar System reached Mars. Another theory proposes that Phobos and Deimos formed from debris ejected into orbit when a large object struck Mars.\n\nAlthough this scenario can explain aspects of their orbits, questions remain about whether their composition "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " that expected from such an impact. Distinguishing between these possibilities is a major goal of the MMX mission, which will investigate both moons and return samples from Phobos to Earth.\n\nWhat if Phobos contains material from "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": "? Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.\n\nLarge impacts on Mars can eject rocks into space, some of which could eventually land on Phobos. Asteroids striking the moon directly could also leave fragments behind. Scientists call this "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " material.\n\nPreparing for MMX\n\nAbout ten years ago, I investigated this process through laboratory experiments and numerical simulations. My research demonstrated that objects "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " with another planetary body can leave material on a target’s surface even at relatively low-impact velocities."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "ground",
+        "vocabularyId": "v29",
+        "explanation": "原文此处使用 ground（grind）。结合上下文辨认词义与词形。",
+        "evidence": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
+        "paragraph": 3
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "formation",
+        "vocabularyId": "v36",
+        "explanation": "原文此处使用 formation（formation）。结合上下文辨认词义与词形。",
+        "evidence": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
+        "paragraph": 4
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "hints",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 hints（hint）。结合上下文辨认词义与词形。",
+        "evidence": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+        "paragraph": 5
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "primitive",
+        "vocabularyId": "v53",
+        "explanation": "原文此处使用 primitive（primitive）。结合上下文辨认词义与词形。",
+        "evidence": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
+        "paragraph": 6
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "proposal",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 proposal（proposal）。结合上下文辨认词义与词形。",
+        "evidence": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
+        "paragraph": 7
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "distant",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 distant（distant）。结合上下文辨认词义与词形。",
+        "evidence": "However, this raises the question of how an object from the distant outer Solar System reached Mars.",
+        "paragraph": 8
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "matches",
+        "vocabularyId": "v72",
+        "explanation": "原文此处使用 matches（match）。结合上下文辨认词义与词形。",
+        "evidence": "Although this scenario can explain aspects of their orbits, questions remain about whether their composition matches that expected from such an impact.",
+        "paragraph": 9
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "elsewhere",
+        "vocabularyId": "v75",
+        "explanation": "原文此处使用 elsewhere（elsewhere）。结合上下文辨认词义与词形。",
+        "evidence": "What if Phobos contains material from elsewhere? Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+        "paragraph": 10
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "exogenous",
+        "vocabularyId": "v78",
+        "explanation": "原文此处使用 exogenous（exogenous）。结合上下文辨认词义与词形。",
+        "evidence": "Large impacts on Mars can eject rocks into space, some of which could eventually land on Phobos. Asteroids striking the moon directly could also leave fragments behind. Scientists call this exogenous material.",
+        "paragraph": 11
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "colliding",
+        "vocabularyId": "v82",
+        "explanation": "原文此处使用 colliding（collide）。结合上下文辨认词义与词形。",
+        "evidence": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Scientists are developing ways to select valuable soil samples from the Martian moon Phobos.",
+          "Crystals inside volcanoes can preserve signals that help researchers understand approaching eruptions.",
+          "Safety practices in hazardous industries offer lessons for regulating artificial intelligence.",
+          "Whether AI agents have minds depends on difficult philosophical questions about thought and agency."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Japan’s Martian Moons Exploration (MMX) mission aims to solve this mystery by collecting samples of soil from Phobos, the largest of the two moons.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which earlier spacecraft supplied clues about Phobos in 1989?",
+        "options": [
+          "A modern weather balloon launched in 2026",
+          "The ocean liner SS United States",
+          "The Soviet Phobos 2 spacecraft",
+          "The first commercial passenger aircraft"
+        ],
+        "answer": 2,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 10?",
+        "options": [
+          "At the University of Leicester, our team of scientists – called Hard Rocks – is designing experiments to investigate the potential presence of organic matter on Phobos.",
+          "Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+          "MMX launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan.",
+          "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types."
+        ],
+        "answer": 1,
+        "explanation": "定位第 10 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
+        "paragraph": 10
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“If the captured-asteroid theory is correct, MMX will be investigating a primitive object that formed in the outer Solar System.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 5",
+          "Paragraph 15",
+          "Paragraph 26"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "If the captured-asteroid theory is correct, MMX will be investigating a primitive object that formed in the outer Solar System.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Our experiments demonstrated that this process is feasible under the conditions that applied during the experiment.”",
+        "options": [
+          "Paragraph 25",
+          "Paragraph 22",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 22 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Our experiments demonstrated that this process is feasible under the conditions that applied during the experiment.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "revision": "7319857a0b25ea1dd2793664a1d74369ce0d6a2cd6dd5374683d3f1d8a421e15"
+}

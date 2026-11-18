@@ -1,0 +1,1359 @@
+{
+  "schemaVersion": 1,
+  "folder": "090",
+  "articleSha256": "0a6585a1fe5b1d1d3698902632d61369ffe1fc9e92fcfbb9e664df235c4f428f",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "office",
+      "headword": "office",
+      "kind": "word",
+      "zh": "n. 办公室, 部, 公职, 职责\n[化] 办公室",
+      "en": "n. place of business where professional or clerical duties are performed\nn. (of a government or government official) holding an office means being in power\nn. professional or clerical workers in an office\nn. a religious rite or service prescribed by ecclesiastical authorities",
+      "phonetic": "'ɒfis",
+      "forms": [
+        "office"
+      ],
+      "example": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "attendance",
+      "headword": "attendance",
+      "kind": "word",
+      "zh": "n. 出席, 出席的人数, 照料\n[法] 管理, 照料, 资助",
+      "en": "n. the act of being present (at a meeting or event etc.)\nn. the frequency with which a person is present\nn. the number of people that are present",
+      "phonetic": "ә'tendәns",
+      "forms": [
+        "attendance"
+      ],
+      "example": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "monday",
+      "headword": "Monday",
+      "kind": "word",
+      "zh": "n. 星期一",
+      "en": "n. the second day of the week; the first working day",
+      "phonetic": "'mʌndi",
+      "forms": [
+        "monday"
+      ],
+      "example": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "friday",
+      "headword": "Friday",
+      "kind": "word",
+      "zh": "n. 星期五",
+      "en": "n. the sixth day of the week; the fifth working day",
+      "phonetic": "'fraidi",
+      "forms": [
+        "friday",
+        "fridays"
+      ],
+      "example": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "requirement",
+      "headword": "requirement",
+      "kind": "word",
+      "zh": "n. 需求, 必要条件, 要求\n[化] 要求; 合同要求",
+      "en": "n. required activity",
+      "phonetic": "ri'kwaiәmәnt",
+      "forms": [
+        "requirement"
+      ],
+      "example": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "plenty",
+      "headword": "plenty",
+      "kind": "word",
+      "zh": "n. 充分, 很多, 丰富\na. 很多的, 足够的, 丰富的",
+      "en": "n. a full supply",
+      "phonetic": "'plenti",
+      "forms": [
+        "plenty"
+      ],
+      "example": "But plenty of employees have now developed a taste for working from home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "taste",
+      "headword": "taste",
+      "kind": "word",
+      "zh": "n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量\nvt. 尝, 察觉...的味道, 体会\nvi. 品尝, 察觉味道, 有某种味道",
+      "en": "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus\nn. delicate discrimination (especially of aesthetic values)\nn. a brief experience of something\nn. a small amount eaten or drunk",
+      "phonetic": "teist",
+      "forms": [
+        "taste"
+      ],
+      "example": "But plenty of employees have now developed a taste for working from home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "working from home",
+      "headword": "working from home",
+      "kind": "phrase",
+      "zh": "居家办公",
+      "en": "doing one's paid work at home",
+      "forms": [
+        "working from home"
+      ],
+      "example": "But plenty of employees have now developed a taste for working from home.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v9",
+      "term": "employers",
+      "headword": "employer",
+      "kind": "word",
+      "zh": "n. 雇主, 老板\n[经] 雇主, 业主",
+      "en": "n. a person or firm that employs workers",
+      "phonetic": "im'plɒiә",
+      "forms": [
+        "employers"
+      ],
+      "example": "And in response, some of their employers have started to tighten the rules on hybrid work.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "tighten",
+      "headword": "tighten",
+      "kind": "word",
+      "zh": "vt. 勒紧, 使变紧\nvi. 变紧, 绷紧",
+      "en": "v. make tight or tighter\nv. become tight or tighter",
+      "phonetic": "'taitn",
+      "forms": [
+        "tighten"
+      ],
+      "example": "And in response, some of their employers have started to tighten the rules on hybrid work.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "hybrid",
+      "headword": "hybrid",
+      "kind": "word",
+      "zh": "n. 混血儿, 杂种, 混合物\na. 混合的, 杂种的, 混合语的\n[计] NetWare的主机实用程序, 双重用户建立程序",
+      "en": "n. a composite of mixed origin\nn. (genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species\ns. produced by crossbreeding",
+      "phonetic": "'haibrid",
+      "forms": [
+        "hybrid"
+      ],
+      "example": "And in response, some of their employers have started to tighten the rules on hybrid work.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "hybrid work",
+      "headword": "hybrid work",
+      "kind": "phrase",
+      "zh": "混合办公",
+      "en": "a pattern combining remote and workplace-based work",
+      "forms": [
+        "hybrid work"
+      ],
+      "example": "And in response, some of their employers have started to tighten the rules on hybrid work.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v13",
+      "term": "barclays",
+      "headword": "Barclays",
+      "kind": "word",
+      "zh": "n. 巴克莱银行（公司名, 财富500强公司之一, 总部所在地英国, 主要经营银行）",
+      "en": "",
+      "phonetic": "ba:'kleiz",
+      "forms": [
+        "barclays"
+      ],
+      "example": "Barclays Bank is one of latest big companies to do so, telling thousands of UK staff they must be in the office at least three days a week instead of two.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "Barclays Bank is one of latest big companies to do so, telling thousands of UK staff they must be in the office at least three days a week instead of two.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "Barclays Bank is one of latest big companies to do so, telling thousands of UK staff they must be in the office at least three days a week instead of two.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v16",
+      "term": "instead of",
+      "headword": "instead of",
+      "kind": "phrase",
+      "zh": "代替；而不是",
+      "en": "in place of something else",
+      "forms": [
+        "instead of"
+      ],
+      "example": "Barclays Bank is one of latest big companies to do so, telling thousands of UK staff they must be in the office at least three days a week instead of two.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v17",
+      "term": "balance",
+      "headword": "balance",
+      "kind": "word",
+      "zh": "n. 平衡, 差额\nvi. 平衡, 相等\nvt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+      "en": "n. a state of equilibrium\nn. equality between the totals of the credit and debit sides of an account\nn. equality of distribution\nn. the difference between the totals of the credit and debit sides of an account",
+      "phonetic": "'bælәns",
+      "forms": [
+        "balance"
+      ],
+      "example": "So what is the right balance for those who split the locations of their working week?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "split",
+      "headword": "split",
+      "kind": "word",
+      "zh": "n. 劈开, 裂片, 裂缝, 分裂, 派系, 派别, 柳条\na. 劈开的\nvi. 分离, 分开, 裂开, 被劈开\nvt. 劈开, 切开, 使分裂, 使分离\n[计] 拆分",
+      "en": "n. extending the legs at right angles to the trunk (one in front and the other in back)\nn. a bottle containing half the usual amount\nn. a promised or claimed share of loot or money\nn. a lengthwise crack in wood",
+      "phonetic": "split",
+      "forms": [
+        "split"
+      ],
+      "example": "So what is the right balance for those who split the locations of their working week?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations"
+      ],
+      "example": "So what is the right balance for those who split the locations of their working week?",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "magic",
+      "headword": "magic",
+      "kind": "word",
+      "zh": "n. 魔术, 魔法\na. 魔术的, 有魔力的, 不可思议的",
+      "en": "n. any art that invokes supernatural powers",
+      "phonetic": "'mædʒik",
+      "forms": [
+        "magic"
+      ],
+      "example": "And while it does not give a single magic number, the evidence does suggest that the best range is two or three days in the office – on the same days as your colleagues.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "And while it does not give a single magic number, the evidence does suggest that the best range is two or three days in the office – on the same days as your colleagues.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "And while it does not give a single magic number, the evidence does suggest that the best range is two or three days in the office – on the same days as your colleagues.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "china",
+      "headword": "China",
+      "kind": "word",
+      "zh": "n. 中国, 瓷器\na. 中国的",
+      "en": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China",
+      "phonetic": "'tʃainә",
+      "forms": [
+        "china"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "engineers",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineers"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "finance",
+      "headword": "finance",
+      "kind": "word",
+      "zh": "n. 财政, 财务\nvt. 供给...经费, 负担经费\nvi. 筹措资金",
+      "en": "n. the commercial activity of providing funds and capital\nn. the branch of economics that studies the management of money and other assets\nn. the management of money and credit and banking and investments\nv. obtain or provide money for",
+      "phonetic": "fai'næns",
+      "forms": [
+        "finance"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "wednesdays",
+      "headword": "Wednesday",
+      "kind": "word",
+      "zh": "n. 星期三",
+      "en": "n. the fourth day of the week; the third working day",
+      "phonetic": "'wenzdi",
+      "forms": [
+        "wednesdays"
+      ],
+      "example": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "reviews",
+      "headword": "review",
+      "kind": "word",
+      "zh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论",
+      "en": "n. an essay or article that gives a critical evaluation (as of a book or play)\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\nn. a periodical that publishes critical essays on current affairs or literature or art\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+      "phonetic": "ri'vju:",
+      "forms": [
+        "reviews"
+      ],
+      "example": "Over the following two years of performance reviews, the performance of the hybrid workers was equal in quality to those who stayed in the office.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "equal",
+      "headword": "equal",
+      "kind": "word",
+      "zh": "n. 对手, 匹敌, 同辈\na. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的\nvt. 等于, 比得上\n[计] 等长度编码",
+      "en": "v. be identical or equivalent to\nv. be equal to in quality or ability\nv. make equal, uniform, corresponding, or matching\na. having the same quantity, value, or measure as another",
+      "phonetic": "'i:kwәl",
+      "forms": [
+        "equal"
+      ],
+      "example": "Over the following two years of performance reviews, the performance of the hybrid workers was equal in quality to those who stayed in the office.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "commutes",
+      "headword": "commute",
+      "kind": "word",
+      "zh": "vt. 交换, 折偿, 减轻\nvi. 代偿, 经常乘车来往",
+      "en": "n. a regular journey of some distance to and from your place of work\nv. exchange positions without a change in value\nv. travel back and forth regularly, as between one's place of work and home\nv. exchange a penalty for a less severe one",
+      "phonetic": "kә'mju:t",
+      "forms": [
+        "commutes",
+        "commute"
+      ],
+      "example": "And the ones who worked from home were much less likely to leave the company – especially women and the workers with long commutes.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "experiment",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiment",
+        "experiments"
+      ],
+      "example": "A smaller experiment at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "randomly",
+      "headword": "randomly",
+      "kind": "word",
+      "zh": "adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地\n[计] 随机地",
+      "en": "r. in a random manner",
+      "phonetic": "",
+      "forms": [
+        "randomly"
+      ],
+      "example": "A smaller experiment at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "varying",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "varying"
+      ],
+      "example": "A smaller experiment at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "satisfaction",
+      "headword": "satisfaction",
+      "kind": "word",
+      "zh": "n. 满足, 满意, 快事, 赔偿, 赎罪, 报仇的机会\n[经] 偿还, 赎回",
+      "en": "n. the contentment one feels when one has fulfilled a desire, need, or expectation\nn. (law) the payment of a debt or fulfillment of an obligation\nn. act of fulfilling a desire or need or appetite",
+      "phonetic": ".sætis'fækʃәn",
+      "forms": [
+        "satisfaction"
+      ],
+      "example": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "isolation",
+      "headword": "isolation",
+      "kind": "word",
+      "zh": "n. 隔绝, 孤立, 隔离\n[化] 分离; 生物分离",
+      "en": "n. a state of separation between persons or groups\nn. a feeling of being disliked and alone\nn. the act of isolating something; setting something apart from others\nn. (psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it",
+      "phonetic": ".aisә'leiʃәn",
+      "forms": [
+        "isolation"
+      ],
+      "example": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "unaffected",
+      "headword": "unaffected",
+      "kind": "word",
+      "zh": "a. 不矫揉造作的, 自然的, 未受影响的, 未被感动的\n[经] 不受影响的",
+      "en": "a. undergoing no change when acted upon\na. free of artificiality; sincere and genuine",
+      "phonetic": ".ʌnә'fektid",
+      "forms": [
+        "unaffected"
+      ],
+      "example": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often. Their performance was unaffected.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "roughly",
+      "headword": "roughly",
+      "kind": "word",
+      "zh": "adv. 概略地, 粗糙地, 粗暴地",
+      "en": "r. with roughness or violence (`rough' is an informal variant for `roughly')\nr. with rough motion as over a rough surface",
+      "phonetic": "'rʌfli",
+      "forms": [
+        "roughly"
+      ],
+      "example": "These studies (among others) suggest that a week split roughly half and half between home and office costs employers little, while keeping staff happier and more likely to stay.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "These studies (among others) suggest that a week split roughly half and half between home and office costs employers little, while keeping staff happier and more likely to stay.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "counts",
+      "headword": "count",
+      "kind": "word",
+      "zh": "vt. 计算, 视为\nvi. 计数\nn. 计算, 合计, 计数, 伯爵\n[计] 计数",
+      "en": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of",
+      "phonetic": "kaunt",
+      "forms": [
+        "counts"
+      ],
+      "example": "But there is also evidence that the office time counts, and that some work really does suffer at a distance.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "distance",
+      "headword": "distance",
+      "kind": "word",
+      "zh": "n. 距离, 远方, 遥远\n[计] 位距",
+      "en": "n. the property created by the space between two objects or points\nn. a distant region\nn. size of the gap between two places\nn. indifference by personal withdrawal",
+      "phonetic": "'distәns",
+      "forms": [
+        "distance"
+      ],
+      "example": "But there is also evidence that the office time counts, and that some work really does suffer at a distance.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "flow",
+      "headword": "flow",
+      "kind": "word",
+      "zh": "n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮\nvi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出\nvt. 使流动, 淹没, 流出",
+      "en": "n. the motion characteristic of fluids (liquids or gases)\nn. the amount of fluid that flows in a given time\nn. the act of flowing or streaming; continuous progression\nn. any uninterrupted stream or discharge",
+      "phonetic": "flәu",
+      "forms": [
+        "flow"
+      ],
+      "example": "In experiments across five countries, researchers found that video calls can reduce the flow of creative ideas.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "creative",
+      "headword": "creative",
+      "kind": "word",
+      "zh": "a. 有创造力的, 创作的, 产生的",
+      "en": "a. having the ability or power to create\ns. promoting construction or creation",
+      "phonetic": "kri:'eitiv",
+      "forms": [
+        "creative"
+      ],
+      "example": "In experiments across five countries, researchers found that video calls can reduce the flow of creative ideas.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "patents",
+      "headword": "patent",
+      "kind": "word",
+      "zh": "n. 专利权, 许可证, 执照, 专利品, 素质\na. 专利的, 特许的, 显著的, 新奇的\nvt. 取得...的专利权, 请准专利",
+      "en": "n. a document granting an inventor sole rights to an invention\nn. an official document granting a right or privilege\nv. obtain a patent for\nv. grant rights to; grant a patent for",
+      "phonetic": "'pætnt. 'peitnt",
+      "forms": [
+        "patents"
+      ],
+      "example": "And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce breakthroughs.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "remote",
+      "headword": "remote",
+      "kind": "word",
+      "zh": "a. 遥远的, 偏僻的, 疏远的, 微少的\n[计] 远程, 远程访问实用程序",
+      "en": "n a device that can be used to control a machine or apparatus from a distance\ns located far away spatially\ns very unlikely\ns separate or apart in time\ns inaccessible and sparsely populated; \na far apart in relevance or relationship or kinship",
+      "phonetic": "ri'mәut",
+      "forms": [
+        "remote"
+      ],
+      "example": "And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce breakthroughs.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "breakthroughs",
+      "headword": "breakthrough",
+      "kind": "word",
+      "zh": "n. 突破\n[经] 突破, 新发现, 新进展",
+      "en": "n. making an important discovery\nn. a penetration of a barrier such as an enemy's defense",
+      "phonetic": "'breikθru:",
+      "forms": [
+        "breakthroughs"
+      ],
+      "example": "And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce breakthroughs.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "coming",
+      "headword": "coming",
+      "kind": "word",
+      "zh": "n. 来临\na. 就要来的, 接着的",
+      "en": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future",
+      "phonetic": "'kʌmiŋ",
+      "forms": [
+        "coming"
+      ],
+      "example": "The evidence shows that being in the same room matters most when people are coming up with ideas together.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "chinese",
+      "headword": "Chinese",
+      "kind": "word",
+      "zh": "n. 中文, 中国话, 中国人\na. 中国的, 中国话的",
+      "en": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures",
+      "phonetic": "tʃai'ni:z",
+      "forms": [
+        "chinese"
+      ],
+      "example": "In the Chinese travel agency trial, staff in the office three days a week did just as well as those in for five.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "as well as",
+      "headword": "as well as",
+      "kind": "phrase",
+      "zh": "以及；除……之外还",
+      "en": "in addition to",
+      "forms": [
+        "as well as"
+      ],
+      "example": "In the Chinese travel agency trial, staff in the office three days a week did just as well as those in for five.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v50",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "The extra two days bought nothing measurable in performance – but more resignations.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "measurable",
+      "headword": "measurable",
+      "kind": "word",
+      "zh": "a. 可测量的, 不久的, 重要的",
+      "en": "a. capable of being measured\ns. of distinguished importance",
+      "phonetic": "'meʒәrәbl",
+      "forms": [
+        "measurable"
+      ],
+      "example": "The extra two days bought nothing measurable in performance – but more resignations.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "resignations",
+      "headword": "resignation",
+      "kind": "word",
+      "zh": "n. 辞职, 辞呈, 听从\n[经] 辞职",
+      "en": "n. acceptance of despair\nn. the act of giving up (a claim or office or possession etc.)\nn. a formal document giving notice of your intention to resign",
+      "phonetic": ".rezig'neiʃәn",
+      "forms": [
+        "resignations"
+      ],
+      "example": "The extra two days bought nothing measurable in performance – but more resignations.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "minimum",
+      "headword": "minimum",
+      "kind": "word",
+      "zh": "a. 最小的, 最低的\nn. 最小值\n[计] 最小值",
+      "en": "n. the smallest possible quantity\nn. the point on a curve where the tangent changes from negative on the left to positive on the right",
+      "phonetic": "'minimәm",
+      "forms": [
+        "minimum"
+      ],
+      "example": "Yet there is a risk that return-to-office rules set a minimum number of days with no maximum, so that the minimum number creeps up.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "maximum",
+      "headword": "maximum",
+      "kind": "word",
+      "zh": "n. 极点, 最大量, 极大\na. 最高的, 最大的, 最大极限的\n[计] 最大值",
+      "en": "n. the largest possible quantity\nn. the point on a curve where the tangent changes from positive on the left to negative on the right",
+      "phonetic": "'mæksimәn",
+      "forms": [
+        "maximum"
+      ],
+      "example": "Yet there is a risk that return-to-office rules set a minimum number of days with no maximum, so that the minimum number creeps up.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "creeps",
+      "headword": "creep",
+      "kind": "word",
+      "zh": "n. 爬, 徐行, 蠕动\nvi. 爬, 蔓延, 潜行",
+      "en": "n. someone unpleasantly strange or eccentric\nn. a slow longitudinal movement or deformation\nn. a pen that is fenced so that young animals can enter but adults cannot\nv. grow or spread, often in such a way as to cover (a surface)",
+      "phonetic": "kri:p",
+      "forms": [
+        "creeps"
+      ],
+      "example": "Yet there is a risk that return-to-office rules set a minimum number of days with no maximum, so that the minimum number creeps up.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "promotion",
+      "headword": "promotion",
+      "kind": "word",
+      "zh": "n. 晋级, 创建, 增进\n[经] 推广, 推销, 促进",
+      "en": "n. a message issued in behalf of some product or cause or idea or person or institution\nn. act of raising in rank or position\nn. encouragement of the progress or growth or acceptance of something",
+      "phonetic": "prәu'mәuʃәn",
+      "forms": [
+        "promotion"
+      ],
+      "example": "A study of over 1,000 UK managers, found that employees working from home were less likely to be considered for promotion and pay rises.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "rewarded",
+      "headword": "reward",
+      "kind": "word",
+      "zh": "n. 报酬, 酬谢, 赏金\nvt. 奖赏, 酬谢, 给...应有报应",
+      "en": "n. payment made in return for a service rendered\nn. an act performed to strengthen approved behavior\nn. the offer of money for helping to find a criminal or for returning lost property\nv. act or give recompense in recognition of someone's behavior or actions",
+      "phonetic": "ri'wɒ:d",
+      "forms": [
+        "rewarded"
+      ],
+      "example": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "quietly",
+      "headword": "quietly",
+      "kind": "word",
+      "zh": "adv. 安静地, 沉着地, 秘密地",
+      "en": "r. with little or no sound\nr. with little or no activity or no agitation (`quiet' is a nonstandard variant for `quietly')",
+      "phonetic": "'kwaiәtli",
+      "forms": [
+        "quietly"
+      ],
+      "example": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "climb",
+      "headword": "climb",
+      "kind": "word",
+      "zh": "v. 攀登, 上升, 爬\nn. 攀登, 爬升",
+      "en": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping",
+      "phonetic": "klaim",
+      "forms": [
+        "climb"
+      ],
+      "example": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "ladder",
+      "headword": "ladder",
+      "kind": "word",
+      "zh": "n. 梯, 梯状物, 发迹的途径\nvi. 袜子抽丝, 成名",
+      "en": "n. steps consisting of two parallel members connected by rungs; for climbing up or down\nn. ascending stages by which somebody or something can progress\nv. come unraveled or undone as if by snagging",
+      "phonetic": "'lædә",
+      "forms": [
+        "ladder"
+      ],
+      "example": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "innovation",
+      "headword": "innovation",
+      "kind": "word",
+      "zh": "n. 改革, 创新\n[法] 创新, 改革, 刷新",
+      "en": "n a creation (a new device or process) resulting from study and experimentation\nn the creation of something in the mind\nn the act of starting something for the first time; introducing something new",
+      "phonetic": ".inәu'veiʃәn",
+      "forms": [
+        "innovation"
+      ],
+      "example": "A study of 48,000 employees at an IT firm found that during hybrid working, innovation suffered the most in teams where office attendance was poorly coordinated.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "poorly",
+      "headword": "poorly",
+      "kind": "word",
+      "zh": "adv. 贫穷地, 不充分地, 贫乏地\na. 身体不舒服的",
+      "en": "s somewhat ill or prone to illness\nr (`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well",
+      "phonetic": "'puәli",
+      "forms": [
+        "poorly"
+      ],
+      "example": "A study of 48,000 employees at an IT firm found that during hybrid working, innovation suffered the most in teams where office attendance was poorly coordinated.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "coordinated",
+      "headword": "coordinate",
+      "kind": "word",
+      "zh": "n. 同等的人(或物), 坐标\na. 同等的, 并列的\nv. (使)协调",
+      "en": "n. a number that identifies a position relative to an axis\nv. bring into common action, movement, or condition\nv. be co-ordinated\ns. of equal importance, rank, or degree",
+      "phonetic": "kәu'ɒ:dineit",
+      "forms": [
+        "coordinated"
+      ],
+      "example": "A study of 48,000 employees at an IT firm found that during hybrid working, innovation suffered the most in teams where office attendance was poorly coordinated.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "downsides",
+      "headword": "downside",
+      "kind": "word",
+      "zh": "n. 底侧；下降趋势",
+      "en": "n. a negative aspect of something that is generally positive",
+      "phonetic": "'daunsaid",
+      "forms": [
+        "downsides"
+      ],
+      "example": "They experience the downsides of office working and get none of the benefit.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Overall then, the research so far on hybrid working suggests a few simple rules:",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "suggests",
+      "headword": "suggest",
+      "kind": "word",
+      "zh": "vt. 提议, 建议, 促成, 暗示, 启发, 使人想起\n[法] 建议, 提出, 提议",
+      "en": "v. imply as a possibility\nv. call to mind",
+      "phonetic": "sәg'dʒest",
+      "forms": [
+        "suggests"
+      ],
+      "example": "Overall then, the research so far on hybrid working suggests a few simple rules:",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "disadvantages",
+      "headword": "disadvantage",
+      "kind": "word",
+      "zh": "n. 缺点, 不利, 坏处",
+      "en": "n. the quality of having an inferior or less favorable position\nv. put at a disadvantage; hinder, harm",
+      "phonetic": ".disәd'vɑ:ntidʒ",
+      "forms": [
+        "disadvantages"
+      ],
+      "example": "The study of UK managers found that the career disadvantages that came with working from home disappeared in teams where it was the norm.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "disappeared",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappeared"
+      ],
+      "example": "The study of UK managers found that the career disadvantages that came with working from home disappeared in teams where it was the norm.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "norm",
+      "headword": "norm",
+      "kind": "word",
+      "zh": "n. 基准, 模范, 标准, 准则, 平均数\n[化] 定额",
+      "en": "n. a standard or model or pattern regarded as typical",
+      "phonetic": "nɒ:m",
+      "forms": [
+        "norm"
+      ],
+      "example": "The study of UK managers found that the career disadvantages that came with working from home disappeared in teams where it was the norm.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "brainstorming",
+      "headword": "brainstorm",
+      "kind": "word",
+      "zh": "n. 灵机一动\nv. 集体讨论",
+      "en": "v. try to solve a problem by thinking intensely about it",
+      "phonetic": "'breinstɒ:m",
+      "forms": [
+        "brainstorming"
+      ],
+      "example": "Use office days for the things that benefit from being in the same room, like brainstorming or mentoring new staff.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "mentoring",
+      "headword": "mentor",
+      "kind": "word",
+      "zh": "n. 指导者, 良师益友",
+      "en": "n. a wise and trusted guide and advisor\nv. serve as a teacher or trusted counselor",
+      "phonetic": "'mentɔ:",
+      "forms": [
+        "mentoring"
+      ],
+      "example": "Use office days for the things that benefit from being in the same room, like brainstorming or mentoring new staff.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "consistent",
+      "headword": "consistent",
+      "kind": "word",
+      "zh": "a. 一致的, 坚持的, 并立的, 坚固的",
+      "en": "a. (sometimes followed by `with') in agreement or consistent or reliable\ns. the same throughout in structure or composition",
+      "phonetic": "kәn'sistәnt",
+      "forms": [
+        "consistent"
+      ],
+      "example": "No large study has yet directly compared two days in the office with three. But the overall picture is consistent. Two or three coordinated days seems to be the sweet spot, and employers who ask for more should be able to explain exactly what those extra days are for.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "spot",
+      "headword": "spot",
+      "kind": "word",
+      "zh": "n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量\na. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的\nvt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射\nvi. 玷污, (从空中)侦察敌方目标",
+      "en": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment",
+      "phonetic": "spɒt",
+      "forms": [
+        "spot"
+      ],
+      "example": "Two or three coordinated days seems to be the sweet spot, and employers who ask for more should be able to explain exactly what those extra days are for.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      14
+    ],
+    "wordBank": [
+      "rewarded",
+      "experiment",
+      "satisfaction",
+      "distance",
+      "breakthroughs",
+      "employers",
+      "extra",
+      "finance",
+      "equal",
+      "number"
+    ],
+    "parts": [
+      {
+        "text": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.\n\nOver the following two years of performance reviews, the performance of the hybrid workers was "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " in quality to those who stayed in the office. And the ones who worked from home were much less likely to leave the company – especially women and the workers with long commutes.\n\nA smaller "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.\n\nThose who came in around two days a week said they had a better work-life balance, more job "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " and less isolation than colleagues who came in more or less often. Their performance was unaffected.\n\nThese studies (among others) suggest that a week split roughly half and half between home and office costs "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " little, while keeping staff happier and more likely to stay.\n\nBut there is also evidence that the office time counts, and that some work really does suffer at a "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ".\n\nIn experiments across five countries, researchers found that video calls can reduce the flow of creative ideas. And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ". The evidence shows that being in the same room matters most when people are coming up with ideas together.\n\nBut that doesn’t mean office workers should be together all day every day. In the Chinese travel agency trial, staff in the office three days a week did just as well as those in for five. The "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " two days bought nothing measurable in performance – but more resignations.\n\nYet there is a risk that return-to-office rules set a minimum "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " of days with no maximum, so that the minimum number creeps up. A study of over 1,000 UK managers, found that employees working from home were less likely to be considered for promotion and pay rises. When being seen is "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " “at least three days” can quietly become four or five days for those who want to climb the career ladder."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "finance",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 finance（finance）。结合上下文辨认词义与词形。",
+        "evidence": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "equal",
+        "vocabularyId": "v30",
+        "explanation": "原文此处使用 equal（equal）。结合上下文辨认词义与词形。",
+        "evidence": "Over the following two years of performance reviews, the performance of the hybrid workers was equal in quality to those who stayed in the office.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "experiment",
+        "vocabularyId": "v32",
+        "explanation": "原文此处使用 experiment（experiment）。结合上下文辨认词义与词形。",
+        "evidence": "A smaller experiment at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.",
+        "paragraph": 8
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "satisfaction",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 satisfaction（satisfaction）。结合上下文辨认词义与词形。",
+        "evidence": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
+        "paragraph": 9
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "employers",
+        "vocabularyId": "v9",
+        "explanation": "原文此处使用 employers（employer）。结合上下文辨认词义与词形。",
+        "evidence": "These studies (among others) suggest that a week split roughly half and half between home and office costs employers little, while keeping staff happier and more likely to stay.",
+        "paragraph": 10
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "distance",
+        "vocabularyId": "v41",
+        "explanation": "原文此处使用 distance（distance）。结合上下文辨认词义与词形。",
+        "evidence": "But there is also evidence that the office time counts, and that some work really does suffer at a distance.",
+        "paragraph": 11
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "breakthroughs",
+        "vocabularyId": "v46",
+        "explanation": "原文此处使用 breakthroughs（breakthrough）。结合上下文辨认词义与词形。",
+        "evidence": "And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce breakthroughs.",
+        "paragraph": 12
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "extra",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 extra（extra）。结合上下文辨认词义与词形。",
+        "evidence": "The extra two days bought nothing measurable in performance – but more resignations.",
+        "paragraph": 13
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "number",
+        "vocabularyId": "v21",
+        "explanation": "原文此处使用 number（numb）。结合上下文辨认词义与词形。",
+        "evidence": "Yet there is a risk that return-to-office rules set a minimum number of days with no maximum, so that the minimum number creeps up.",
+        "paragraph": 14
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "rewarded",
+        "vocabularyId": "v57",
+        "explanation": "原文此处使用 rewarded（reward）。结合上下文辨认词义与词形。",
+        "evidence": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
+        "paragraph": 14
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Resilience beyond short household emergencies depends on stronger food supply chains.",
+          "Shopping early can provide practical benefits for both consumers and retailers.",
+          "Research on office attendance offers a more nuanced view of how often people should work on site.",
+          "Fireworks create environmental and economic costs that outlast the celebrations."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs.",
+        "paragraph": 1
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What change did Barclays announce for the UK staff described?",
+        "options": [
+          "A rule requiring seven office days every week",
+          "A reduction from five to zero days of any work",
+          "An increase from two to at least three office days per week",
+          "The immediate abolition of all office work"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Barclays Bank is one of latest big companies to do so, telling thousands of UK staff they must be in the office at least three days a week instead of two.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "Over the following two years of performance reviews, the performance of the hybrid workers was equal in quality to those who stayed in the office.",
+          "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
+          "And while it does not give a single magic number, the evidence does suggest that the best range is two or three days in the office – on the same days as your colleagues.",
+          "Use office days for the things that benefit from being in the same room, like brainstorming or mentoring new staff."
+        ],
+        "answer": 1,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In the Chinese travel agency trial, staff in the office three days a week did just as well as those in for five.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 11",
+          "Paragraph 8",
+          "Paragraph 20"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In the Chinese travel agency trial, staff in the office three days a week did just as well as those in for five.",
+        "paragraph": 13
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The aim should be two or three days in the office, and that range should come with a maximum as well as a minimum.”",
+        "options": [
+          "Paragraph 14",
+          "Paragraph 3",
+          "Paragraph 5",
+          "Paragraph 19"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The aim should be two or three days in the office, and that range should come with a maximum as well as a minimum.",
+        "paragraph": 19
+      }
+    ]
+  },
+  "revision": "52264ea5e9dc92cb602597953b709100908cff63b3dbb5b8a1ed53890f6380bd"
+}

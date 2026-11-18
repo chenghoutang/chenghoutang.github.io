@@ -1,0 +1,1858 @@
+{
+  "schemaVersion": 1,
+  "folder": "062",
+  "articleSha256": "53e01abff5ee5374a142e088f0f0809fdd380288493e4f91d0188538870a9962",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "children",
+      "headword": "child",
+      "kind": "word",
+      "zh": "n. 孩子, 产物, 追随者\n[医] 儿童",
+      "en": "n. a young person of either sex\nn. a human offspring (son or daughter) of any age\nn. an immature childish person\nn. a member of a clan or tribe",
+      "phonetic": "tʃaild",
+      "forms": [
+        "children"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "fewer",
+      "headword": "fewer",
+      "kind": "word",
+      "zh": "a. 较少的",
+      "en": "a. (comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+      "phonetic": "'fju:ә",
+      "forms": [
+        "fewer"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "independent",
+      "headword": "independent",
+      "kind": "word",
+      "zh": "n. 独立自主者, 无党派者\na. 独立的, 有主见的, 不须依赖的, 不受约束的",
+      "en": "a. free from external control and constraint\na. (of a clause) capable of standing syntactically alone as a complete sentence\ns. not controlled by a party or interest group",
+      "phonetic": ".indi'pendәnt",
+      "forms": [
+        "independent"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "adventurous",
+      "headword": "adventurous",
+      "kind": "word",
+      "zh": "a. 喜欢冒险的, 有进取心的, 危险的",
+      "en": "a. willing to undertake or seeking out new and daring enterprises",
+      "phonetic": "әd'ventʃәrәs",
+      "forms": [
+        "adventurous"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "outdoor",
+      "headword": "outdoor",
+      "kind": "word",
+      "zh": "a. 户外的, 屋外的, 露天的",
+      "en": "a. located, suited for, or taking place in the open air\na. pertaining to or concerning the outdoors or outdoor activities",
+      "phonetic": "'autdɒ:",
+      "forms": [
+        "outdoor"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "outdoor play",
+      "headword": "outdoor play",
+      "kind": "phrase",
+      "zh": "户外游戏",
+      "en": "children's play taking place outside",
+      "forms": [
+        "outdoor play"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v7",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "previous",
+      "headword": "previous",
+      "kind": "word",
+      "zh": "a. 早先的, 前面的, 过急的\n[法] 以前的, 生前的, 前述的",
+      "en": "s. just preceding something else in time or order\ns. too soon or too hasty",
+      "phonetic": "'pri:viәs",
+      "forms": [
+        "previous"
+      ],
+      "example": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "outdoors",
+      "headword": "outdoors",
+      "kind": "word",
+      "zh": "n. 户外, 野外活动\nadv. 在户外, 在野外",
+      "en": "n. where the air is unconfined",
+      "phonetic": "'aut'dɒ:z",
+      "forms": [
+        "outdoors"
+      ],
+      "example": "Just 43% of children and young people aged from eight to 15 in England report spending time outdoors every day or most days.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "declined",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "declined",
+        "decline"
+      ],
+      "example": "Research suggests that outdoor play has declined by 50% within a generation.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "confidence",
+      "headword": "confidence",
+      "kind": "word",
+      "zh": "n. 信心\n[电] 可靠",
+      "en": "n. a feeling of trust (in someone or something)\nn. a state of confident hopefulness that events will be favorable\nn. a trustful relationship\nn. a secret that is confided or entrusted to another",
+      "phonetic": "'kɒnfidәns",
+      "forms": [
+        "confidence"
+      ],
+      "example": "Despite this decline, outdoor play is still often viewed as an opportunity for children to learn to manage risk and develop both their confidence and independence.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "independence",
+      "headword": "independence",
+      "kind": "word",
+      "zh": "n. 独立, 自立, 自主\n[医] 自主性, 独立性",
+      "en": "n. freedom from control or influence of another or others\nn. the successful ending of the American Revolution\nn. a city in western Missouri; the beginning of the Santa Fe Trail",
+      "phonetic": ".indi'pendәns",
+      "forms": [
+        "independence"
+      ],
+      "example": "Despite this decline, outdoor play is still often viewed as an opportunity for children to learn to manage risk and develop both their confidence and independence.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "explored",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explored",
+        "exploring",
+        "explore"
+      ],
+      "example": "My research explored how children make decisions when playing outside.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "resist",
+      "headword": "resist",
+      "kind": "word",
+      "zh": "v. 抵抗, 耐得住, 抵制, 反抗\nn. 防染材料",
+      "en": "v. stand up or offer resistance to somebody or something\nv. withstand the force of something\nv. resist immunologically the introduction of some foreign tissue or organ\nv. refuse to comply",
+      "phonetic": "ri'zist",
+      "forms": [
+        "resist"
+      ],
+      "example": "The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "risky",
+      "headword": "risky",
+      "kind": "word",
+      "zh": "a. 危险的",
+      "en": "s involving risk or danger\ns not financially safe or secure",
+      "phonetic": "'riski",
+      "forms": [
+        "risky"
+      ],
+      "example": "The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "risky play",
+      "headword": "risky play",
+      "kind": "phrase",
+      "zh": "具有一定风险的游戏",
+      "en": "play involving uncertainty and manageable challenges",
+      "forms": [
+        "risky play"
+      ],
+      "example": "The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v17",
+      "term": "rarely",
+      "headword": "rarely",
+      "kind": "word",
+      "zh": "adv. 很少地, 罕有地",
+      "en": "r. not often",
+      "phonetic": "'rєәli",
+      "forms": [
+        "rarely"
+      ],
+      "example": "The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "lack",
+      "headword": "lack",
+      "kind": "word",
+      "zh": "n. 缺乏, 无, 不足\nvt. 缺乏, 短少, 不足, 需要\nvi. 缺乏",
+      "en": "n. the state of needing something that is absent or unavailable",
+      "phonetic": "læk",
+      "forms": [
+        "lack",
+        "lacking"
+      ],
+      "example": "The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "subtle",
+      "headword": "subtle",
+      "kind": "word",
+      "zh": "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的\n[医] 锐敏的; 精细的",
+      "en": "s. able to make fine distinctions",
+      "phonetic": "'sʌtl",
+      "forms": [
+        "subtle"
+      ],
+      "example": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "adults",
+      "headword": "adult",
+      "kind": "word",
+      "zh": "n. 成人, 成虫\na. 成年的, 成熟的",
+      "en": "n. a fully developed person from maturity onward\nn. any mature animal\ns. (of animals) fully developed",
+      "phonetic": "'ædʌlt",
+      "forms": [
+        "adults"
+      ],
+      "example": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "convey",
+      "headword": "convey",
+      "kind": "word",
+      "zh": "vt. 传达, 运输, 转让\n[经] 转让(财产等), 搬运",
+      "en": "v. make known; pass on, of information\nv. transfer to another\nv. transmit a title or property",
+      "phonetic": "kәn'vei",
+      "forms": [
+        "convey"
+      ],
+      "example": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "mess",
+      "headword": "mess",
+      "kind": "word",
+      "zh": "n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境\nvt. 将...弄糟, 妨碍, 使紊乱, 使就餐\nvi. 陷入困境, 搞乱, 用膳",
+      "en": "n. a state of confusion and disorderliness\nn. soft semiliquid food\nn. a meal eaten in a mess hall by service personnel\nn. a (large) military dining room where service personnel eat or relax",
+      "phonetic": "mes",
+      "forms": [
+        "mess"
+      ],
+      "example": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "carried out",
+      "headword": "carried out",
+      "kind": "phrase",
+      "zh": "开展了；执行了",
+      "en": "performed a task or investigation",
+      "forms": [
+        "carried out"
+      ],
+      "example": "I carried out the research in a school, in collaboration with a nursery teacher.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "collaboration",
+      "headword": "collaboration",
+      "kind": "word",
+      "zh": "n. 合作, 勾结\n[法] 通敌卖国者, 奸细",
+      "en": "n. act of working jointly\nn. act of cooperating traitorously with an enemy that is occupying your country",
+      "phonetic": "kә.læbә'ræʃәn",
+      "forms": [
+        "collaboration"
+      ],
+      "example": "I carried out the research in a school, in collaboration with a nursery teacher.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "nursery",
+      "headword": "nursery",
+      "kind": "word",
+      "zh": "n. 托儿所, 苗圃, 温床\n[医] 婴儿室, 托儿所",
+      "en": "n. a child's room for a baby",
+      "phonetic": "'nә:sәri",
+      "forms": [
+        "nursery"
+      ],
+      "example": "I carried out the research in a school, in collaboration with a nursery teacher.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "enrolled",
+      "headword": "enroll",
+      "kind": "word",
+      "zh": "vt. 登记, 使加入\nvi. 参军, 注册",
+      "en": "v. register formally as a participant or member",
+      "phonetic": "in'rәul",
+      "forms": [
+        "enrolled"
+      ],
+      "example": "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "reception",
+      "headword": "reception",
+      "kind": "word",
+      "zh": "n. 接待, 接受, 招待会\n[医] 接受, 感受",
+      "en": "n. the manner in which something is greeted\nn. a formal party of people; as after a wedding\nn. quality or fidelity of a received broadcast\nn. the act of receiving",
+      "phonetic": "ri'sepʃәn",
+      "forms": [
+        "reception"
+      ],
+      "example": "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "familiar",
+      "headword": "familiar",
+      "kind": "word",
+      "zh": "a. 熟悉的, 常见的, 亲密的\nn. 熟友, 常客",
+      "en": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\na. well known or easily recognized\na. within normal everyday experience; common and ordinary; not strange",
+      "phonetic": "fә'miljә",
+      "forms": [
+        "familiar"
+      ],
+      "example": "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "combined",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combined"
+      ],
+      "example": "We combined observations of children’s play with small focus groups in which children took photographs to show what they liked and disliked about their outdoor environment.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "We combined observations of children’s play with small focus groups in which children took photographs to show what they liked and disliked about their outdoor environment.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "photographs",
+      "headword": "photograph",
+      "kind": "word",
+      "zh": "n. 相片, 照片, 逼真的描绘\nv. 照相, 摄影",
+      "en": "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\nv. record on photographic film\nv. undergo being photographed in a certain way",
+      "phonetic": "'fәutәgrɑ:f",
+      "forms": [
+        "photographs"
+      ],
+      "example": "We combined observations of children’s play with small focus groups in which children took photographs to show what they liked and disliked about their outdoor environment.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "disliked",
+      "headword": "dislike",
+      "kind": "word",
+      "zh": "n. 嫌恶\nvt. 讨厌, 不喜欢",
+      "en": "n. a feeling of aversion or antipathy\nv. have or feel a dislike or distaste for",
+      "phonetic": "dis'laik",
+      "forms": [
+        "disliked",
+        "dislikes"
+      ],
+      "example": "We combined observations of children’s play with small focus groups in which children took photographs to show what they liked and disliked about their outdoor environment.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "recurring",
+      "headword": "recur",
+      "kind": "word",
+      "zh": "vi. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环",
+      "en": "v. happen or occur again\nv. return in thought or speech to something",
+      "phonetic": "ri'kә:",
+      "forms": [
+        "recurring"
+      ],
+      "example": "From these early conversations with the children, recurring patterns emerged.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "emerged",
+      "headword": "emerge",
+      "kind": "word",
+      "zh": "vi. 浮现, 形成, 出现, (事实)显露",
+      "en": "v. come out into view, as from concealment\nv. become known or apparent\nv. come up to the surface of or rise",
+      "phonetic": "i'mә:dʒ",
+      "forms": [
+        "emerged"
+      ],
+      "example": "From these early conversations with the children, recurring patterns emerged.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v37",
+      "term": "discomfort",
+      "headword": "discomfort",
+      "kind": "word",
+      "zh": "n. 困苦, 不适\n[医] 不舒适, 不舒, 烦闷, 不快活",
+      "en": "n. the state of being tense and feeling pain\nn. an uncomfortable feeling of mental painfulness or distress",
+      "phonetic": "dis'kʌmfәt",
+      "forms": [
+        "discomfort"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "danger",
+      "headword": "danger",
+      "kind": "word",
+      "zh": "n. 危险, 威胁\n[法] 危险, 危险物, 危机",
+      "en": "n. the condition of being susceptible to harm or injury\nn. a cause of pain or injury or loss\nn. a dangerous place",
+      "phonetic": "'deindʒә",
+      "forms": [
+        "danger"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v40",
+      "term": "climbing",
+      "headword": "climb",
+      "kind": "word",
+      "zh": "v. 攀登, 上升, 爬\nn. 攀登, 爬升",
+      "en": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping",
+      "phonetic": "klaim",
+      "forms": [
+        "climbing",
+        "climb"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "equipment",
+      "headword": "equipment",
+      "kind": "word",
+      "zh": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置",
+      "en": "n. an instrumentality needed for an undertaking or to perform a service",
+      "phonetic": "i'kwipmәnt",
+      "forms": [
+        "equipment"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "restricting",
+      "headword": "restrict",
+      "kind": "word",
+      "zh": "vt. 限制, 限定, 约束\n[医] 限制",
+      "en": "v. place restrictions on\nv. place under restrictions; limit access to\nv. place limits on (extent or access)",
+      "phonetic": "ri'strikt",
+      "forms": [
+        "restricting"
+      ],
+      "example": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "expressed",
+      "headword": "express",
+      "kind": "word",
+      "zh": "n. 快车, 快递, 专使\na. 明确的, 丝毫不差的, 专门的, 快的\nvt. 表达, 表示, 表露",
+      "en": "n. mail that is distributed by a rapid and efficient system\nn. public transport consisting of a fast train or bus that makes only a few scheduled stops\nn. rapid transport of goods\nv. give expression to",
+      "phonetic": "ik'spres",
+      "forms": [
+        "expressed"
+      ],
+      "example": "Children expressed things such as “I might fall”, “I don’t want to get wet”, and “My teacher doesn’t let me”.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "spontaneous",
+      "headword": "spontaneous",
+      "kind": "word",
+      "zh": "a. 自然的, 自发的, 未经琢磨的\n[医] 自发的, 特发的, 自生的",
+      "en": "a. happening or arising without apparent external cause",
+      "phonetic": "spɒn'teiniәs",
+      "forms": [
+        "spontaneous"
+      ],
+      "example": "These were not spontaneous fears; they were reflections of the messages the children had repeatedly heard from adults.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "reflections",
+      "headword": "reflection",
+      "kind": "word",
+      "zh": "n. 反映, 沉思, 映像, 想法, 责难\n[计] 反射",
+      "en": "n. the phenomenon of a propagating wave (light or sound) being thrown back from a surface\nn. the image of something as reflected by a mirror (or other reflective material)\nn. (mathematics) a transformation in which the direction of one axis is reversed\nn. the ability to reflect beams or rays",
+      "phonetic": "ri'flekʃәn",
+      "forms": [
+        "reflections"
+      ],
+      "example": "These were not spontaneous fears; they were reflections of the messages the children had repeatedly heard from adults.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "repeatedly",
+      "headword": "repeatedly",
+      "kind": "word",
+      "zh": "adv. 重复地, 再三地",
+      "en": "r. several time",
+      "phonetic": "ri'pi:tidli",
+      "forms": [
+        "repeatedly"
+      ],
+      "example": "These were not spontaneous fears; they were reflections of the messages the children had repeatedly heard from adults.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "setting",
+      "headword": "setting",
+      "kind": "word",
+      "zh": "n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具\n[计] 设置",
+      "en": "n. the context and environment in which something is set\nn. the state of the environment in which a situation exists\nn. the physical position of something",
+      "phonetic": "'setiŋ",
+      "forms": [
+        "setting"
+      ],
+      "example": "During our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "cautions",
+      "headword": "caution",
+      "kind": "word",
+      "zh": "n. 小心, 慎重, 警示\nvt. 警告\n[计] 警告",
+      "en": "n. the trait of being cautious; being attentive to possible danger\nn. a warning against certain acts\nn. judiciousness in avoiding harm or danger\nv. warn strongly; put on guard",
+      "phonetic": "'kɒ:ʃәn",
+      "forms": [
+        "cautions"
+      ],
+      "example": "During our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "careful",
+      "headword": "careful",
+      "kind": "word",
+      "zh": "a. 小心的, 谨慎的",
+      "en": "a. exercising caution or showing care or attention\ns. cautiously attentive\ns. unhurried and with care and dignity\ns. full of cares or anxiety",
+      "phonetic": "'kєәful",
+      "forms": [
+        "careful"
+      ],
+      "example": "During our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "follow-up",
+      "headword": "follow-up",
+      "kind": "word",
+      "zh": "a. 继续的, 作为重复的",
+      "en": "n. a piece of work that exploits or builds on earlier work\nn. an activity that continues something that has already begun or that repeats something that has already been done\nn. a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "phonetic": "",
+      "forms": [
+        "follow-up"
+      ],
+      "example": "During our follow-up conversations with the children, they also described similar warnings from parents and carers.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "warnings",
+      "headword": "warnings",
+      "kind": "word",
+      "zh": "n. 发出警告( warning的复数形式 ); 征候; <古>（解雇、辞职等的）预先通知; 可引以为戒的事（或人）",
+      "en": "n. a message informing of danger\nn. cautionary advice about something imminent (especially imminent danger or other unpleasantness)\nn. notification of something, usually in advance",
+      "phonetic": "ˈwɔ:nɪŋz",
+      "forms": [
+        "warnings"
+      ],
+      "example": "During our follow-up conversations with the children, they also described similar warnings from parents and carers.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "carers",
+      "headword": "carer",
+      "kind": "word",
+      "zh": "n. 负责照顾（老人, 病人, 小孩）的人",
+      "en": "",
+      "phonetic": "'kεәrә",
+      "forms": [
+        "carers"
+      ],
+      "example": "During our follow-up conversations with the children, they also described similar warnings from parents and carers.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "bumped",
+      "headword": "bump",
+      "kind": "word",
+      "zh": "n. 撞击, 肿块\nvt. 碰撞\nvi. 撞, 颠簸而行",
+      "en": "n. a lump on the body caused by a blow\nv. knock against with force or violence\nv. dance erotically or dance with the pelvis thrust forward",
+      "phonetic": "bʌmp",
+      "forms": [
+        "bumped"
+      ],
+      "example": "One child explained, “My mum doesn’t let me climb because I bumped my nose once”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "repeated",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeated"
+      ],
+      "example": "These repeated messages had a lasting impact on how the children perceived risk.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "perceived",
+      "headword": "perceive",
+      "kind": "word",
+      "zh": "vt. 感觉, 认知, 理解, 意识到",
+      "en": "v. to become aware of through the senses\nv. become conscious of",
+      "phonetic": "pә'si:v",
+      "forms": [
+        "perceived"
+      ],
+      "example": "These repeated messages had a lasting impact on how the children perceived risk.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "absorbed",
+      "headword": "absorb",
+      "kind": "word",
+      "zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担\n[医] 吸收",
+      "en": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically",
+      "phonetic": "әb'sɒ:b",
+      "forms": [
+        "absorbed"
+      ],
+      "example": "Over time, they absorbed these warnings and began to guide their own behaviour.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "guide",
+      "headword": "guide",
+      "kind": "word",
+      "zh": "n. 引导者, 导游, 指南, 路标\nvt. 指导, 支配, 管理, 带领, 操纵\nvi. 任向导\n[计] 辅助线",
+      "en": "n. someone who shows the way by leading or advising\nn. a structure or marking that serves to direct the motion or positioning of something\nv. be a guiding or motivating force or drive\nv. use as a guide",
+      "phonetic": "gaid",
+      "forms": [
+        "guide"
+      ],
+      "example": "Over time, they absorbed these warnings and began to guide their own behaviour.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour"
+      ],
+      "example": "Over time, they absorbed these warnings and began to guide their own behaviour.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "hesitancy",
+      "headword": "hesitancy",
+      "kind": "word",
+      "zh": "n. 踌躇, 犹豫",
+      "en": "n a feeling of diffidence and indecision about doing something\nn a certain degree of unwillingness",
+      "phonetic": "'hezitәnsi",
+      "forms": [
+        "hesitancy"
+      ],
+      "example": "During our follow-up conversations with the children, they also described similar warnings from parents and carers. One child explained, “My mum doesn’t let me climb because I bumped my nose once”. These repeated messages had a lasting impact on how the children perceived risk. Over time, they absorbed these warnings and began to guide their own behaviour. Their hesitancy was learned, not innate.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "innate",
+      "headword": "innate",
+      "kind": "word",
+      "zh": "a. 先天的, 天生的\n[医] 先天的, 生来的",
+      "en": "a not established by conditioning or learning\ns being talented through inherited qualities\ns present at birth but not necessarily hereditary; acquired during fetal development",
+      "phonetic": "i'neit",
+      "forms": [
+        "innate"
+      ],
+      "example": "During our follow-up conversations with the children, they also described similar warnings from parents and carers. One child explained, “My mum doesn’t let me climb because I bumped my nose once”. These repeated messages had a lasting impact on how the children perceived risk. Over time, they absorbed these warnings and began to guide their own behaviour. Their hesitancy was learned, not innate.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "feedback",
+      "headword": "feedback",
+      "kind": "word",
+      "zh": "n. 反馈, 反应\n[计] 反馈",
+      "en": "n. the process in which part of the output of a system is returned to its input in order to regulate its further output\nn. response to an inquiry or experiment",
+      "phonetic": "'fi:dbæk",
+      "forms": [
+        "feedback"
+      ],
+      "example": "Based on the children’s feedback and our observations, the school made changes to the outdoor environment.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "reorganised",
+      "headword": "reorganise",
+      "kind": "word",
+      "zh": "vi.vt. 改组, 改革, 整顿, 整编, 改编",
+      "en": "v organize anew, as after a setback\nv organize anew",
+      "phonetic": "",
+      "forms": [
+        "reorganised"
+      ],
+      "example": "Staff reorganised equipment in the outdoor area so children could reach and use it more easily, and they began talking about risk in a more supportive way.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "supportive",
+      "headword": "supportive",
+      "kind": "word",
+      "zh": "a. 支撑, 支承, 资助, 赞助, 支援, 经受, 忍受, 扶养, 证实, 鼓励, 维持, 伴奏",
+      "en": "a. furnishing support or assistance",
+      "phonetic": "sә'pɔ:tiv",
+      "forms": [
+        "supportive"
+      ],
+      "example": "Staff reorganised equipment in the outdoor area so children could reach and use it more easily, and they began talking about risk in a more supportive way.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "pausing",
+      "headword": "pause",
+      "kind": "word",
+      "zh": "n. 暂停, 中止, 停顿, 间歇, 踌躇, 休止符\nvi. 暂停, 中止, 停顿, 踌躇\n[计] DOS内部命令:暂时停止批处理文件的执行",
+      "en": "n. a time interval during which there is a temporary cessation of something\nn. temporary inactivity\nv. cease an action temporarily",
+      "phonetic": "pɒ:z",
+      "forms": [
+        "pausing"
+      ],
+      "example": "Adults also started pausing before stepping in and used language that signalled trust: “have a go and see how it feels first”, “I’m here if you need me”, or “what’s your plan for climbing that?”",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "signalled",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signalled",
+        "signals"
+      ],
+      "example": "Adults also started pausing before stepping in and used language that signalled trust: “have a go and see how it feels first”, “I’m here if you need me”, or “what’s your plan for climbing that?”",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "trust",
+      "headword": "trust",
+      "kind": "word",
+      "zh": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯\na. 信托的, 托拉斯的\nvt. 信赖, 信任, 相信, 盼望, 赊卖给\nvi. 相信, 信赖, 依靠\n[计] 委托, 信任",
+      "en": "n. something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)\nn. the trait of believing in the honesty and reliability of others\nn. a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service\nv. have confidence or faith in",
+      "phonetic": "trʌst",
+      "forms": [
+        "trust"
+      ],
+      "example": "Adults also started pausing before stepping in and used language that signalled trust: “have a go and see how it feels first”, “I’m here if you need me”, or “what’s your plan for climbing that?”",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "rather than “be careful” or “don’t go too high”.",
+      "paragraph": 11,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v68",
+      "term": "aprons",
+      "headword": "apron",
+      "kind": "word",
+      "zh": "n. 围裙\n[医] 围裙",
+      "en": "n. a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing\nn. (golf) the part of the fairway leading onto the green\nn. a paved surface where aircraft stand while not being used",
+      "phonetic": "'eiprәn",
+      "forms": [
+        "aprons"
+      ],
+      "example": "They also added aprons to areas children had previously avoided because they didn’t want to get messy, helping them feel more comfortable exploring those spaces.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "previously",
+      "headword": "previously",
+      "kind": "word",
+      "zh": "adv. 先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先\n[计] 先前地",
+      "en": "r. at an earlier time or formerly",
+      "phonetic": "'pri:vju:sli",
+      "forms": [
+        "previously"
+      ],
+      "example": "They also added aprons to areas children had previously avoided because they didn’t want to get messy, helping them feel more comfortable exploring those spaces.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "messy",
+      "headword": "messy",
+      "kind": "word",
+      "zh": "a. 散乱的, 污秽的, 麻烦的",
+      "en": "s. dirty and disorderly",
+      "phonetic": "'mesi",
+      "forms": [
+        "messy"
+      ],
+      "example": "They also added aprons to areas children had previously avoided because they didn’t want to get messy, helping them feel more comfortable exploring those spaces.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "comfortable",
+      "headword": "comfortable",
+      "kind": "word",
+      "zh": "a. 舒服的, 轻松的\nn. 盖被",
+      "en": "a. providing or experiencing physical well-being or relief (`comfy' is informal)\na. free from stress or conducive to mental ease; having or affording peace of mind\ns. more than adequate\ns. sufficient to provide comfort",
+      "phonetic": "'kʌmfәtәbl",
+      "forms": [
+        "comfortable"
+      ],
+      "example": "They also added aprons to areas children had previously avoided because they didn’t want to get messy, helping them feel more comfortable exploring those spaces.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "engaging",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engaging"
+      ],
+      "example": "Within weeks, children began using areas they had avoided previously, taking more physical risks and engaging in richer sensory play.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "sensory",
+      "headword": "sensory",
+      "kind": "word",
+      "zh": "a. 知觉的, 感觉的, 传递感觉的\n[医] 感觉的",
+      "en": "a. involving or derived from the senses",
+      "phonetic": "'sensәri",
+      "forms": [
+        "sensory"
+      ],
+      "example": "Within weeks, children began using areas they had avoided previously, taking more physical risks and engaging in richer sensory play.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "muddy",
+      "headword": "muddy",
+      "kind": "word",
+      "zh": "a. 泥泞的, 浑浊的, 模糊的\nvt. 使污浊, 使沾上泥污",
+      "en": "v. dirty with mud\nv. cause to become muddy\nv. make turbid",
+      "phonetic": "'mʌdi",
+      "forms": [
+        "muddy"
+      ],
+      "example": "They were getting muddy, experimenting with water and exploring different textures and materials.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "experimenting",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experimenting"
+      ],
+      "example": "They were getting muddy, experimenting with water and exploring different textures and materials.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "textures",
+      "headword": "texture",
+      "kind": "word",
+      "zh": "n. (织物的)密度, (材料等的)结构, 纹理\n[化] 纹理",
+      "en": "n. the feel of a surface or a fabric\nn. the essential quality of something\nn. the musical pattern created by parts being played or sung together\nn. the characteristic appearance of a surface having a tactile quality",
+      "phonetic": "'tekstʃә",
+      "forms": [
+        "textures"
+      ],
+      "example": "They were getting muddy, experimenting with water and exploring different textures and materials.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "frames",
+      "headword": "frame",
+      "kind": "word",
+      "zh": "n. 框, 结构, 体格\nvt. 构成, 设计, 制定, 使适合, 陷害\n[计] 框架, 图文框, 帧",
+      "en": "n. the framework for a pair of eyeglasses\nn. a single one of a series of still transparent pictures forming a cinema, television or video film\nn. a single drawing in a comic_strip\nn. an application that divides the user's display into two or more windows that can be scrolled independently",
+      "phonetic": "freim",
+      "forms": [
+        "frames"
+      ],
+      "example": "We saw children choosing what they wanted to do outdoors, including climbing frames and using the mud kitchen they had previously avoided.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "assured",
+      "headword": "assure",
+      "kind": "word",
+      "zh": "vt. 保证, 使确信, 弄清楚, 担保\n[法] 确信, 保证, 保障",
+      "en": "v. inform positively and with certainty and confidence\nv. assure somebody of the truth of something with the intention of giving the listener confidence",
+      "phonetic": "ә'ʃuә",
+      "forms": [
+        "assured"
+      ],
+      "example": "They became more assured and more willing to explore, with their play increasingly driven by their own interests rather than adult direction.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "They became more assured and more willing to explore, with their play increasingly driven by their own interests rather than adult direction.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "letting",
+      "headword": "letting",
+      "kind": "word",
+      "zh": "[法] 租金",
+      "en": "n property that is leased or rented out or let\nv make it possible through a specific action or lack of action for something to happen\nv actively cause something to happen\nv consent to, give permission\nv cause to move; cause to be in a certain position or condition\nv leave unchanged\nv grant use or occupation of under a term of contract",
+      "phonetic": "'letiŋ",
+      "forms": [
+        "letting"
+      ],
+      "example": "Letting children take risks",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "running",
+      "headword": "running",
+      "kind": "word",
+      "zh": "n. 赛跑, 流出, 运转\na. 流动的, 跑着的, 连续的",
+      "en": "n. the state of being in operation\nn. the act of administering or being in charge of something\na. (of fluids) moving or issuing in a stream\ns. continually repeated over a period of time",
+      "phonetic": "'rʌniŋ",
+      "forms": [
+        "running"
+      ],
+      "example": "This matters because risk taking is not just about climbing higher or running faster.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "resilience",
+      "headword": "resilience",
+      "kind": "word",
+      "zh": "n. 弹回, 有弹力, 恢复力\n[化] 回弹; 弹性; 弹回性; 回能; 弹能",
+      "en": "n. the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit\nn. an occurrence of rebounding or springing back",
+      "phonetic": "ri'ziliәns",
+      "forms": [
+        "resilience"
+      ],
+      "example": "When children never get the chance to test their ideas, push their bodies or make small mistakes, they miss out on experiences that build resilience and agency.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "brave",
+      "headword": "brave",
+      "kind": "word",
+      "zh": "a. 勇敢的, 美好的, 华丽的\nn. 勇敢者\nvt. 勇敢地面对",
+      "en": "n. a North American Indian warrior\nn. people who are brave\na. possessing or displaying courage; able to face and deal with danger or fear without flinching\ns. brightly colored and showy",
+      "phonetic": "breiv",
+      "forms": [
+        "brave"
+      ],
+      "example": "Many adults want children to be brave yet also want them to stay safe and clean.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "clean",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "clean"
+      ],
+      "example": "Many adults want children to be brave yet also want them to stay safe and clean.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "desires",
+      "headword": "desire",
+      "kind": "word",
+      "zh": "n. 欲望, 要求\nvt. 想要, 请求\nvi. 渴望",
+      "en": "n. the feeling that accompanies an unsatisfied state\nn. an inclination to want things\nn. something that is desired\nv. feel or have a desire for; want strongly",
+      "phonetic": "di'zaiә",
+      "forms": [
+        "desires"
+      ],
+      "example": "Many adults want children to be brave yet also want them to stay safe and clean. These two desires often collide. A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "collide",
+      "headword": "collide",
+      "kind": "word",
+      "zh": "vi. 碰撞, 互撞, 抵触",
+      "en": "v. cause to collide\nv. crash together with violent impact",
+      "phonetic": "kә'laid",
+      "forms": [
+        "collide"
+      ],
+      "example": "Many adults want children to be brave yet also want them to stay safe and clean. These two desires often collide. A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "hesitates",
+      "headword": "hesitate",
+      "kind": "word",
+      "zh": "vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿",
+      "en": "v. pause or hold back in uncertainty or unwillingness\nv. interrupt temporarily an activity before continuing",
+      "phonetic": "'heziteit",
+      "forms": [
+        "hesitates"
+      ],
+      "example": "A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "slide",
+      "headword": "slide",
+      "kind": "word",
+      "zh": "n. 滑, 滑道, 山崩, 雪崩, 幻灯片\nvt. 使滑动, 偷偷放入\nvi. 滑动, 滑落, 不知不觉陷入, 偷偷地走",
+      "en": "n. a small flat rectangular piece of glass on which specimens can be mounted for microscopic study\nn. (geology) the descent of a large mass of earth or rocks or snow etc.\nn. plaything consisting of a sloping chute down which children can slide\nn. the act of moving smoothly along a surface while remaining in contact with it",
+      "phonetic": "slaid",
+      "forms": [
+        "slide"
+      ],
+      "example": "A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "courage",
+      "headword": "courage",
+      "kind": "word",
+      "zh": "n. 勇气, 胆量",
+      "en": "n. a quality of spirit that enables you to face danger or pain without showing fear",
+      "phonetic": "'kʌridʒ",
+      "forms": [
+        "courage"
+      ],
+      "example": "A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "disappointing",
+      "headword": "disappoint",
+      "kind": "word",
+      "zh": "vt. 使失望",
+      "en": "v. fail to meet the hopes or expectations of",
+      "phonetic": ".disә'pɒint",
+      "forms": [
+        "disappointing"
+      ],
+      "example": "A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "injuries",
+      "headword": "injury",
+      "kind": "word",
+      "zh": "n. 伤害, 侮辱\n[医] 伤, 损伤",
+      "en": "n. any physical damage to the body caused by violence or accident or fracture etc.\nn. an accident that results in physical damage or hurt\nn. an act that causes someone or something to receive physical damage\nn. wrongdoing that violates another's rights and is unjustly inflicted",
+      "phonetic": "'indʒәri",
+      "forms": [
+        "injuries"
+      ],
+      "example": "A child who hesitates at the top of a slide may not be lacking courage – they may simply be trying to avoid disappointing an adult who dislikes mess or worries about injuries.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "entirely",
+      "headword": "entirely",
+      "kind": "word",
+      "zh": "adv. 完全, 全然, 一概",
+      "en": "r. without any others being included or involved",
+      "phonetic": "in'taiәli",
+      "forms": [
+        "entirely"
+      ],
+      "example": "Supporting children’s risk taking doesn’t mean stepping back entirely.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "intentional",
+      "headword": "intentional",
+      "kind": "word",
+      "zh": "a. 故意的, 与目的有关的\n[法] 故意的, 有意的",
+      "en": "s. characterized by conscious design or purpose",
+      "phonetic": "in'tenʃәnәl",
+      "forms": [
+        "intentional"
+      ],
+      "example": "It means being intentional about the messages we send.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "unlimited",
+      "headword": "unlimited",
+      "kind": "word",
+      "zh": "a. 无限的, 不受限制的, 无条件的\n[经] 无限的, 不定的",
+      "en": "a. having no limits in range or scope",
+      "phonetic": ".ʌn'limitid",
+      "forms": [
+        "unlimited"
+      ],
+      "example": "Neither does supporting children’s ability to make decisions mean handing over unlimited choice to them.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "reframing",
+      "headword": "reframe",
+      "kind": "word",
+      "zh": "vt. 再构造, 重新制订, 再组织, 给...装上新框架",
+      "en": "v. t. To frame again or anew.",
+      "phonetic": "'ri:'freim",
+      "forms": [
+        "reframing"
+      ],
+      "example": "Reframing risk as learning, not danger.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "intervening",
+      "headword": "intervene",
+      "kind": "word",
+      "zh": "vi. 插入, 调停, 干涉\n[经] 进场干预",
+      "en": "v. get involved, so as to alter or hinder an action, or through force or threat of force\nv. be placed or located between other things or extend between spaces and events\nv. occur between other event or between certain points of time",
+      "phonetic": ".intә'vi:n",
+      "forms": [
+        "intervening"
+      ],
+      "example": "Pausing before intervening, giving children time to assess situations themselves.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "assess",
+      "headword": "assess",
+      "kind": "word",
+      "zh": "vt. 估定, 对...征税, 评定\n[经] 估计, 估价, 确定(税款罚款等)的金额",
+      "en": "v. charge (a person or a property) with a payment, such as a tax or a fine\nv. estimate the value of (property) for taxation",
+      "phonetic": "ә'ses",
+      "forms": [
+        "assess"
+      ],
+      "example": "Pausing before intervening, giving children time to assess situations themselves.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "emotional",
+      "headword": "emotional",
+      "kind": "word",
+      "zh": "a. 情绪的, 情感的\n[医] 情绪的",
+      "en": "a. determined or actuated by emotion rather than reason\na. of more than usual emotion\na. of or pertaining to emotion",
+      "phonetic": "i'mәuʃәnәl",
+      "forms": [
+        "emotional"
+      ],
+      "example": "Allowing mess, recognising it as part of sensory and emotional development.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "meaningful",
+      "headword": "meaningful",
+      "kind": "word",
+      "zh": "a. 意味深长的",
+      "en": "a. having a meaning or purpose",
+      "phonetic": "'mi:niŋful",
+      "forms": [
+        "meaningful"
+      ],
+      "example": "Offering meaningful choices, allowing children to make decisions and develop confidence in their own judgment.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "judgment",
+      "headword": "judgment",
+      "kind": "word",
+      "zh": "n. 裁判, 宣告, 判决书\n[医] 判断",
+      "en": "n. an opinion formed by judging something\nn. the act of judging or assessing a person or situation or event\nn. (law) the determination by a court of competent jurisdiction on matters submitted to it\nn. the cognitive process of reaching a decision or drawing conclusions",
+      "phonetic": "'dʒʌdʒmәnt",
+      "forms": [
+        "judgment"
+      ],
+      "example": "Offering meaningful choices, allowing children to make decisions and develop confidence in their own judgment.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "shifts",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shifts"
+      ],
+      "example": "These small shifts help children feel capable rather than cautious.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "capable",
+      "headword": "capable",
+      "kind": "word",
+      "zh": "a. 有能力的, 能的, 能干的",
+      "en": "a. (usually followed by `of') having capacity or ability\ns. possibly accepting or permitting\na. (followed by `of') having the temperament or inclination for",
+      "phonetic": "'keipәbl",
+      "forms": [
+        "capable"
+      ],
+      "example": "These small shifts help children feel capable rather than cautious.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "cautious",
+      "headword": "cautious",
+      "kind": "word",
+      "zh": "a. 谨慎的, 小心的",
+      "en": "a. showing careful forethought; never making swift decisions\"\ns. avoiding excess",
+      "phonetic": "'kɒ:ʃәs",
+      "forms": [
+        "cautious"
+      ],
+      "example": "These small shifts help children feel capable rather than cautious.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "counter",
+      "headword": "counter",
+      "kind": "word",
+      "zh": "n. 计算器, 计算者, 柜台, 筹码\na. 反方向的, 相反的\nadv. 反方向地, 相反地\n[计] 计数器; 计数字",
+      "en": "n. table consisting of a horizontal surface over which business is transacted\nn. game equipment (as a piece of wood, plastic, or ivory) used for keeping a count or reserving a space in various card or board games\nn. a calculator that keeps a record of the number of times something happens\nn. a person who counts things",
+      "phonetic": "'kauntә",
+      "forms": [
+        "counter"
+      ],
+      "example": "They also counter the growing cultural narrative that childhood should be clean, controlled and risk free.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "narrative",
+      "headword": "narrative",
+      "kind": "word",
+      "zh": "n. 叙述, 故事\na. 叙述的, 叙事的, 故事体的",
+      "en": "n. a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program\ns. consisting of or characterized by the telling of a story",
+      "phonetic": "'nærәtiv",
+      "forms": [
+        "narrative"
+      ],
+      "example": "They also counter the growing cultural narrative that childhood should be clean, controlled and risk free.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "childhood",
+      "headword": "childhood",
+      "kind": "word",
+      "zh": "n. 孩童时期\n[医] 儿童期",
+      "en": "n. the time of person's life when they are a child\nn. the state of a child between infancy and adolescence",
+      "phonetic": "'tʃaildhud",
+      "forms": [
+        "childhood"
+      ],
+      "example": "They also counter the growing cultural narrative that childhood should be clean, controlled and risk free.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      9
+    ],
+    "wordBank": [
+      "perceived",
+      "explored",
+      "recurring",
+      "outdoor",
+      "convey",
+      "repeatedly",
+      "declined",
+      "familiar",
+      "restricting",
+      "follow-up"
+    ],
+    "parts": [
+      {
+        "text": "There is growing evidence that children today have fewer opportunities for independent, adventurous "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " play and fewer chances to make decisions and shape their own experiences than previous generations.\n\nJust 43% of children and young people aged from eight to 15 in England report spending time outdoors every day or most days. Research suggests that outdoor play has "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " by 50% within a generation.\n\nDespite this decline, outdoor play is still often viewed as an opportunity for children to learn to manage risk and develop both their confidence and independence.\n\nMy research "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " how children make decisions when playing outside. The findings suggested that when young children hold back and resist risky play outdoors, it is rarely because they lack confidence or even access. Instead, they are responding to the subtle messages adults "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " about risk, mess and safety.\n\nI carried out the research in a school, in collaboration with a nursery teacher. Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " to them.\n\nWe combined observations of children’s play with small focus groups in which children took photographs to show what they liked and disliked about their outdoor environment. From these early conversations with the children, "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " patterns emerged. These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " their access.\n\nChildren expressed things such as “I might fall”, “I don’t want to get wet”, and “My teacher doesn’t let me”. These were not spontaneous fears; they were reflections of the messages the children had "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " heard from adults.\n\nDuring our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.\n\nDuring our "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " conversations with the children, they also described similar warnings from parents and carers. One child explained, “My mum doesn’t let me climb because I bumped my nose once”. These repeated messages had a lasting impact on how the children "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " risk. Over time, they absorbed these warnings and began to guide their own behaviour. Their hesitancy was learned, not innate."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "outdoor",
+        "vocabularyId": "v5",
+        "explanation": "原文此处使用 outdoor（outdoor）。结合上下文辨认词义与词形。",
+        "evidence": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
+        "paragraph": 1
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "declined",
+        "vocabularyId": "v10",
+        "explanation": "原文此处使用 declined（decline）。结合上下文辨认词义与词形。",
+        "evidence": "Research suggests that outdoor play has declined by 50% within a generation.",
+        "paragraph": 2
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "explored",
+        "vocabularyId": "v13",
+        "explanation": "原文此处使用 explored（explore）。结合上下文辨认词义与词形。",
+        "evidence": "My research explored how children make decisions when playing outside.",
+        "paragraph": 4
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "convey",
+        "vocabularyId": "v21",
+        "explanation": "原文此处使用 convey（convey）。结合上下文辨认词义与词形。",
+        "evidence": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
+        "paragraph": 4
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "familiar",
+        "vocabularyId": "v28",
+        "explanation": "原文此处使用 familiar（familiar）。结合上下文辨认词义与词形。",
+        "evidence": "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them.",
+        "paragraph": 5
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "recurring",
+        "vocabularyId": "v33",
+        "explanation": "原文此处使用 recurring（recur）。结合上下文辨认词义与词形。",
+        "evidence": "From these early conversations with the children, recurring patterns emerged.",
+        "paragraph": 6
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "restricting",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 restricting（restrict）。结合上下文辨认词义与词形。",
+        "evidence": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
+        "paragraph": 6
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "repeatedly",
+        "vocabularyId": "v46",
+        "explanation": "原文此处使用 repeatedly（repeatedly）。结合上下文辨认词义与词形。",
+        "evidence": "These were not spontaneous fears; they were reflections of the messages the children had repeatedly heard from adults.",
+        "paragraph": 7
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "follow-up",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 follow-up（follow-up）。结合上下文辨认词义与词形。",
+        "evidence": "During our follow-up conversations with the children, they also described similar warnings from parents and carers.",
+        "paragraph": 9
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "perceived",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 perceived（perceive）。结合上下文辨认词义与词形。",
+        "evidence": "These repeated messages had a lasting impact on how the children perceived risk.",
+        "paragraph": 9
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Adults' responses to risk and mess can limit the benefits children gain from outdoor play.",
+          "Minority language speakers continue to face prejudice in different European settings.",
+          "Private schooling can reinforce class separation and wider social divisions.",
+          "Reducing classroom technology changes school routines and raises questions about digital learning."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Despite this decline, outdoor play is still often viewed as an opportunity for children to learn to manage risk and develop both their confidence and independence.",
+        "paragraph": 3
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which benefits are associated with outdoor play?",
+        "options": [
+          "Ensuring children never make decisions",
+          "Removing every source of uncertainty from childhood",
+          "Learning to manage risk and developing confidence and independence",
+          "Replacing all relationships with solitary screen use"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Despite this decline, outdoor play is still often viewed as an opportunity for children to learn to manage risk and develop both their confidence and independence.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 8?",
+        "options": [
+          "Adults also started pausing before stepping in and used language that signalled trust: “have a go and see how it feels first”, “I’m here if you need me”, or “what’s your plan for climbing that?”",
+          "Offering meaningful choices, allowing children to make decisions and develop confidence in their own judgment.",
+          "During our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.",
+          "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them."
+        ],
+        "answer": 2,
+        "explanation": "定位第 8 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "During our observations, we heard staff within the setting sometimes offering cautions such as “be careful”, “don’t climb too high”, and “watch out” during the children’s free play within the outdoors environment.",
+        "paragraph": 8
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Within weeks, children began using areas they had avoided previously, taking more physical risks and engaging in richer sensory play.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 9",
+          "Paragraph 11",
+          "Paragraph 10"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Within weeks, children began using areas they had avoided previously, taking more physical risks and engaging in richer sensory play.",
+        "paragraph": 13
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Neither does supporting children’s ability to make decisions mean handing over unlimited choice to them.”",
+        "options": [
+          "Paragraph 10",
+          "Paragraph 2",
+          "Paragraph 24",
+          "Paragraph 18"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Neither does supporting children’s ability to make decisions mean handing over unlimited choice to them.",
+        "paragraph": 18
+      }
+    ]
+  },
+  "revision": "7a5cf5442e06786196b4f8f4b92ab3264bb62e7bf77cb0b9ebb7efd45a220f83"
+}

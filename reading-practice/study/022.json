@@ -1,0 +1,2123 @@
+{
+  "schemaVersion": 1,
+  "folder": "022",
+  "articleSha256": "2ce7b509116b4d57d047b7de969bd1246d6f8abaa2aef06cc83a245aa75a8165",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "pumped",
+      "headword": "pump",
+      "kind": "word",
+      "zh": "n. 抽水机, 打气筒, 泵, 抽吸\nvt. 用唧筒抽水, 打气, 盘问, 倾注, 使疲惫\nvi. 抽水, 上下(或往复)运动",
+      "en": "n. a mechanical device that moves fluid or gas by pressure or suction\nn. a low-cut shoe without fastenings\nv. operate like a pump; move up and down, like a handle or a pedal\nv. deliver forth",
+      "phonetic": "pʌmp",
+      "forms": [
+        "pumped"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "billions",
+      "headword": "billions",
+      "kind": "word",
+      "zh": "n. 十亿（billion的复数形式）",
+      "en": "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen\nn. a very large indefinite number (usually hyperbole)\nn. the number that is represented as a one followed by 9 zeros",
+      "phonetic": "'bɪljənz",
+      "forms": [
+        "billions"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "tons",
+      "headword": "ton",
+      "kind": "word",
+      "zh": "n. 吨\n[经] 吨",
+      "en": "n a United States unit of weight equivalent to 2000 pounds\nn a British unit of weight equivalent to 2240 pounds",
+      "phonetic": "tʌn",
+      "forms": [
+        "tons"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "carbon",
+      "headword": "carbon",
+      "kind": "word",
+      "zh": "n. 碳, 副本, 复写纸\n[化] 碳",
+      "en": "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\nn. a copy made with carbon paper",
+      "phonetic": "'kɑ:bәn",
+      "forms": [
+        "carbon"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "carbon dioxide",
+      "headword": "carbon dioxide",
+      "kind": "phrase",
+      "zh": "二氧化碳",
+      "en": "a gas produced by respiration and combustion",
+      "forms": [
+        "carbon dioxide"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v6",
+      "term": "dioxide",
+      "headword": "dioxide",
+      "kind": "word",
+      "zh": "n. 二氧化物\n[医] 二氧化物",
+      "en": "n. an oxide containing two atoms of oxygen in the molecule",
+      "phonetic": "dai'ɒksaid",
+      "forms": [
+        "dioxide"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "atmosphere",
+      "headword": "atmosphere",
+      "kind": "word",
+      "zh": "n. 大气, 空气, 气氛\n[医] 大气; 大气压",
+      "en": "n. a particular environment or surrounding influence\nn. the mass of air surrounding the Earth\nn. the weather or climate at some place\nn. the envelope of gases surrounding any celestial body",
+      "phonetic": "'ætmәsfiә",
+      "forms": [
+        "atmosphere"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "burning",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burning",
+        "burned"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "fossil",
+      "headword": "fossil",
+      "kind": "word",
+      "zh": "n. 化石, 古物\na. 化石的, 陈腐的, 守旧的",
+      "en": "n. the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil\na. characteristic of a fossil",
+      "phonetic": "'fɒsәl",
+      "forms": [
+        "fossil"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "fossil fuels",
+      "headword": "fossil fuels",
+      "kind": "phrase",
+      "zh": "化石燃料",
+      "en": "coal, oil and gas formed from ancient organic matter",
+      "forms": [
+        "fossil fuels"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v11",
+      "term": "fuels",
+      "headword": "fuel",
+      "kind": "word",
+      "zh": "n. 燃料, 木炭\nvt. 加燃料, 供燃料\nvi. 得到燃料",
+      "en": "n. a substance that can be consumed to produce energy\nv. provide with a combustible substance that provides energy\nv. provide with fuel\nv. take in fuel, as of a ship",
+      "phonetic": "'fjuәl",
+      "forms": [
+        "fuels",
+        "fuel"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures"
+      ],
+      "example": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "luckily",
+      "headword": "luckily",
+      "kind": "word",
+      "zh": "adv. 幸运地, 幸亏, 侥幸",
+      "en": "r by good fortune",
+      "phonetic": "'lʌkili",
+      "forms": [
+        "luckily"
+      ],
+      "example": "Luckily for humanity, Earth has done what it could to soften the impact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "humanity",
+      "headword": "humanity",
+      "kind": "word",
+      "zh": "n. 人性, 人类, 博爱",
+      "en": "n. the quality of being humane",
+      "phonetic": "hju:'mæniti",
+      "forms": [
+        "humanity"
+      ],
+      "example": "Luckily for humanity, Earth has done what it could to soften the impact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "soften",
+      "headword": "soften",
+      "kind": "word",
+      "zh": "v. (使)变柔软, (使)变柔和",
+      "en": "v. make (images or sounds) soft or softer\nv. make soft or softer\nv. become soft or softer",
+      "phonetic": "'sɒftn",
+      "forms": [
+        "soften"
+      ],
+      "example": "Luckily for humanity, Earth has done what it could to soften the impact.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "oceans",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "oceans",
+        "ocean"
+      ],
+      "example": "The world’s oceans have absorbed 35% of carbon dioxide emissions from fossil fuels since 1990, our new research shows, and the forests and other plants of the world have absorbed another 13%.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "absorbed",
+      "headword": "absorb",
+      "kind": "word",
+      "zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担\n[医] 吸收",
+      "en": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically",
+      "phonetic": "әb'sɒ:b",
+      "forms": [
+        "absorbed",
+        "absorbing"
+      ],
+      "example": "The world’s oceans have absorbed 35% of carbon dioxide emissions from fossil fuels since 1990, our new research shows, and the forests and other plants of the world have absorbed another 13%.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "emissions",
+      "headword": "emission",
+      "kind": "word",
+      "zh": "n. 发射, 射出, 发行\n[医] 发射, 遗精",
+      "en": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)",
+      "phonetic": "i'miʃәn",
+      "forms": [
+        "emissions"
+      ],
+      "example": "The world’s oceans have absorbed 35% of carbon dioxide emissions from fossil fuels since 1990, our new research shows, and the forests and other plants of the world have absorbed another 13%.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "forests",
+      "headword": "forest",
+      "kind": "word",
+      "zh": "n. 森林, 林区\nvt. 植树于",
+      "en": "n. the trees and other plants in a large densely wooded area\nn. land that is covered with trees and shrubs",
+      "phonetic": "'fɒrist",
+      "forms": [
+        "forests"
+      ],
+      "example": "The world’s oceans have absorbed 35% of carbon dioxide emissions from fossil fuels since 1990, our new research shows, and the forests and other plants of the world have absorbed another 13%.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "carbon sinks",
+      "headword": "carbon sinks",
+      "kind": "phrase",
+      "zh": "碳汇",
+      "en": "systems that absorb more carbon than they release",
+      "forms": [
+        "carbon sinks"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v23",
+      "term": "sinks",
+      "headword": "sink",
+      "kind": "word",
+      "zh": "n. 藏垢的场所, 沟渠, 污水槽\nvi. 下沉, 沉没, 下陷, 减弱, 衰退, 消沉, 堕落, 渗透\nvt. 使低落, 使下沉, 陷于, 投入(资金等), 挖掘",
+      "en": "n. plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe\nn. (technology) a process that acts to absorb or remove energy or a substance from a system\nv. fall or descend to a lower place or level\nv. cause to sink",
+      "phonetic": "siŋk",
+      "forms": [
+        "sinks",
+        "sink"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "overstated",
+      "headword": "overstate",
+      "kind": "word",
+      "zh": "vt. 夸大的叙述, 夸张, 过分强调\n[经] 多计, 高估",
+      "en": "v. to enlarge beyond bounds or the truth",
+      "phonetic": ".әuvә'steit",
+      "forms": [
+        "overstated"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "fueling",
+      "headword": "fueling",
+      "kind": "word",
+      "zh": "[化] 加燃料; 加油; 燃料转注",
+      "en": "n. the activity of supplying or taking on fuel",
+      "phonetic": "",
+      "forms": [
+        "fueling"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "waves",
+      "headword": "wave",
+      "kind": "word",
+      "zh": "n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变\nvi. 波动, 飘动, 挥手示意, 起伏\nvt. 使波动, 使飘扬, 挥舞, 使成波浪形",
+      "en": "n. one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)\nn. a movement like that of a sudden occurrence or increase in a specified phenomenon\nn. (physics) a movement up and down or back and forth\nn. something that rises rapidly",
+      "phonetic": "weiv",
+      "forms": [
+        "waves"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "storms",
+      "headword": "storm",
+      "kind": "word",
+      "zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻\nvi. 起风, 猛冲, 怒吼\nvt. 猛攻",
+      "en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning\nn. a violent commotion or disturbance\nn. a direct and violent assault on a stronghold\nv. take by force",
+      "phonetic": "stɒ:m",
+      "forms": [
+        "storms"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "floods",
+      "headword": "flood",
+      "kind": "word",
+      "zh": "n. 洪水, 大量之水, 涨潮\nvt. 淹没, 使泛滥, 注满\nvi. 被淹, 溢出, 涌进",
+      "en": "n. the rising of a body of water and its overflowing onto normally dry land\nn. an overwhelming number or amount\nn. light that is a source of artificial illumination having a broad beam; used in photography\nn. a large flow",
+      "phonetic": "flʌd",
+      "forms": [
+        "floods"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "droughts",
+      "headword": "drought",
+      "kind": "word",
+      "zh": "n. 干旱, 缺乏",
+      "en": "n. a shortage of rainfall\nn. a prolonged shortage",
+      "phonetic": "draut",
+      "forms": [
+        "droughts"
+      ],
+      "example": "The importance of these two enormous natural carbon sinks cannot be overstated as global temperatures rise, fueling heat waves, fires, storms, floods and droughts around the world.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "importantly",
+      "headword": "importantly",
+      "kind": "word",
+      "zh": "adv. 重要地；大量地；有名望地；自命不凡地",
+      "en": "r. in an important way or to an important degree\nr. in an important way",
+      "phonetic": "",
+      "forms": [
+        "importantly"
+      ],
+      "example": "Yet there is much that scientists do not understand about these carbon sinks – most importantly, how exactly they’ll behave in the future.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "behave",
+      "headword": "behave",
+      "kind": "word",
+      "zh": "vi. 举止端正, 行为规矩\nvt. 检点(自己的)行为, 使表现好",
+      "en": "v. behave in a certain manner\nv. behave well or properly",
+      "phonetic": "bi'heiv",
+      "forms": [
+        "behave"
+      ],
+      "example": "Yet there is much that scientists do not understand about these carbon sinks – most importantly, how exactly they’ll behave in the future.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "keep",
+      "headword": "keep",
+      "kind": "word",
+      "zh": "n. 生计, 维持, 保持\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\nvi. 保持, 继续不断",
+      "en": "n. the main tower within the walls of a medieval castle or fortress\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\nv. retain possession of\nv. look after; be the keeper of; have charge of",
+      "phonetic": "ki:p",
+      "forms": [
+        "keep"
+      ],
+      "example": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "climate change",
+      "headword": "climate change",
+      "kind": "phrase",
+      "zh": "气候变化",
+      "en": "long-term shifts in climate patterns",
+      "forms": [
+        "climate change"
+      ],
+      "example": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v35",
+      "term": "change",
+      "headword": "change",
+      "kind": "word",
+      "zh": "n. 变化, 找回的零钱, 找头, 更换\nvt. 改变, 更换, 兑换",
+      "en": "n. an event that occurs when something passes from one state or phase to another\nn. a relational difference between states; especially between states before and after some event\nn. the action of changing something\nn. the result of alteration or modification",
+      "phonetic": "tʃeindʒ",
+      "forms": [
+        "change"
+      ],
+      "example": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "emitted",
+      "headword": "emit",
+      "kind": "word",
+      "zh": "vt. 发出, 放射, 发表(意见等), 散发, 发行\n[化] 放射",
+      "en": "v. expel (gases or odors)\nv. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",
+      "phonetic": "i'mit",
+      "forms": [
+        "emitted"
+      ],
+      "example": "And governments will know their remaining carbon budgets – that is, how much carbon dioxide can still be emitted into the atmosphere while keeping global temperatures below agreed-to levels.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "below",
+      "headword": "below",
+      "kind": "word",
+      "zh": "prep. 在下面\nadv. 在下面",
+      "en": "r. in or to a place that is lower\nr. at a later place\nr. (in writing) see below",
+      "phonetic": "bi'lәu",
+      "forms": [
+        "below"
+      ],
+      "example": "And governments will know their remaining carbon budgets – that is, how much carbon dioxide can still be emitted into the atmosphere while keeping global temperatures below agreed-to levels.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "greenhouse",
+      "headword": "greenhouse",
+      "kind": "word",
+      "zh": "n. 温室",
+      "en": "n. a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions\na. of or relating to or caused by the greenhouse effect",
+      "phonetic": "'gri:nhaus",
+      "forms": [
+        "greenhouse"
+      ],
+      "example": "We have been working on greenhouse gas measurements for decades.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "measurements",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurements"
+      ],
+      "example": "We have been working on greenhouse gas measurements for decades.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "decades",
+      "headword": "decade",
+      "kind": "word",
+      "zh": "n. 十年, 十",
+      "en": "n. a period of 10 years",
+      "phonetic": "'dekeid",
+      "forms": [
+        "decades"
+      ],
+      "example": "We have been working on greenhouse gas measurements for decades.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "journal",
+      "headword": "journal",
+      "kind": "word",
+      "zh": "n. 日记, 杂志, 日报\n[化] 轴颈",
+      "en": "n. a periodical dedicated to a particular subject\nn. a record book as a physical object\nn. the part of the axle contained by a bearing",
+      "phonetic": "'dʒә:nәl",
+      "forms": [
+        "journal"
+      ],
+      "example": "In a new study, published Nov. 12, 2026, in the journal Science, we describe an alternative method for measuring these crucial carbon sinks, and what it shows.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "alternative",
+      "headword": "alternative",
+      "kind": "word",
+      "zh": "n. 两者择一, 供替代的选择\na. 两者择一的, 供选择的\n[计] 选择对象",
+      "en": "s. necessitating a choice between mutually exclusive possibilities\ns. pertaining to unconventional choices",
+      "phonetic": "ɒ:l'tә:nәtiv",
+      "forms": [
+        "alternative"
+      ],
+      "example": "In a new study, published Nov. 12, 2026, in the journal Science, we describe an alternative method for measuring these crucial carbon sinks, and what it shows.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "crucial",
+      "headword": "crucial",
+      "kind": "word",
+      "zh": "a. 决定性的, 重要的, 严厉的\n[医] 十字形的; 决断的, 定局的",
+      "en": "a. of extreme importance; vital to the resolution of a crisis\ns. having crucial relevance",
+      "phonetic": "'kru:ʃәl",
+      "forms": [
+        "crucial"
+      ],
+      "example": "In a new study, published Nov. 12, 2026, in the journal Science, we describe an alternative method for measuring these crucial carbon sinks, and what it shows.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "expanding",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanding"
+      ],
+      "example": "We found that while the ocean sink has been expanding, meaning the oceans are taking in more carbon dioxide, that expansion might begin to slow down, leaving the oceans less effective at absorbing carbon in the coming decades.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "expansion",
+      "headword": "expansion",
+      "kind": "word",
+      "zh": "n. 扩充, 开展, 膨胀\n[计] 扩展",
+      "en": "n. the act of increasing (something) in size or volume or quantity or scope\nn. a function expressed as a sum or product of terms\nn. a discussion that provides additional information",
+      "phonetic": "ik'spænʃәn",
+      "forms": [
+        "expansion"
+      ],
+      "example": "We found that while the ocean sink has been expanding, meaning the oceans are taking in more carbon dioxide, that expansion might begin to slow down, leaving the oceans less effective at absorbing carbon in the coming decades.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "coming",
+      "headword": "coming",
+      "kind": "word",
+      "zh": "n. 来临\na. 就要来的, 接着的",
+      "en": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future",
+      "phonetic": "'kʌmiŋ",
+      "forms": [
+        "coming"
+      ],
+      "example": "We found that while the ocean sink has been expanding, meaning the oceans are taking in more carbon dioxide, that expansion might begin to slow down, leaving the oceans less effective at absorbing carbon in the coming decades.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "surprise",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprise",
+        "surprising"
+      ],
+      "example": "We found that the land sink has not been expanding, which was something of a surprise.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "fiendishly",
+      "headword": "fiendishly",
+      "kind": "word",
+      "zh": "adv. 恶魔似, 极坏, 残忍, 凶恶, (非正式)非常聪明, 不简单, 不平凡",
+      "en": "r as a devil; in an evil manner",
+      "phonetic": "'fi:ndiʃli",
+      "forms": [
+        "fiendishly"
+      ],
+      "example": "The fiendishly difficult task of measuring carbon sinks",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "devilishly",
+      "headword": "devilishly",
+      "kind": "word",
+      "zh": "adv. 过分地, 厉害地",
+      "en": "r. in a playfully devilish manner",
+      "phonetic": "ˈdevəlɪʃli",
+      "forms": [
+        "devilishly"
+      ],
+      "example": "Measuring how much carbon is being taken up by the world’s oceans and forests is devilishly difficult and prohibitively expensive.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "prohibitively",
+      "headword": "prohibitively",
+      "kind": "word",
+      "zh": "adv. 禁止, 起阻止作用, 抑制",
+      "en": "r. to a prohibitive degree",
+      "phonetic": "",
+      "forms": [
+        "prohibitively"
+      ],
+      "example": "Measuring how much carbon is being taken up by the world’s oceans and forests is devilishly difficult and prohibitively expensive.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "expensive",
+      "headword": "expensive",
+      "kind": "word",
+      "zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
+      "en": "a. high in price or charging high prices",
+      "phonetic": "ik'spensiv",
+      "forms": [
+        "expensive"
+      ],
+      "example": "Measuring how much carbon is being taken up by the world’s oceans and forests is devilishly difficult and prohibitively expensive.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "overcome",
+      "headword": "overcome",
+      "kind": "word",
+      "zh": "vt. 战胜, 克服, 胜过\nvi. 得胜",
+      "en": "v. get on top of; deal with successfully",
+      "phonetic": ".әuvә'kʌm",
+      "forms": [
+        "overcome"
+      ],
+      "example": "Computer models can help overcome some of these complexities, but they too have limitations.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "complexities",
+      "headword": "complexity",
+      "kind": "word",
+      "zh": "n. 复杂, 复杂性, 复杂的事物",
+      "en": "n. the quality of being intricate and compounded",
+      "phonetic": "kәm'pleksiti",
+      "forms": [
+        "complexities"
+      ],
+      "example": "Computer models can help overcome some of these complexities, but they too have limitations.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "limitations",
+      "headword": "limitation",
+      "kind": "word",
+      "zh": "n. 限制, 缺陷, 限额\n[医] 限界, 限制, 限度",
+      "en": "n. the quality of being limited or restricted\nn. (law) a time period after which suits cannot be brought\nn. an act of limiting or restricting (as by regulation)",
+      "phonetic": ".limi'teiʃәn",
+      "forms": [
+        "limitations"
+      ],
+      "example": "Computer models can help overcome some of these complexities, but they too have limitations.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "satellites",
+      "headword": "satellite",
+      "kind": "word",
+      "zh": "n. 人造卫星\n[医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
+      "en": "n. man-made equipment that orbits around the earth or the moon\nn. a person who follows or serves another\nn. any celestial body orbiting around a planet or star\nv. broadcast or disseminate via satellite",
+      "phonetic": "'sætlait",
+      "forms": [
+        "satellites"
+      ],
+      "example": "Satellites can also help, but they cannot see through clouds, nor can they see what is happening in the soil or mid-to-deep ocean.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "clouds",
+      "headword": "cloud",
+      "kind": "word",
+      "zh": "n. 云, 阴暗, 烟雾, 疑团\nvt. 以云遮敝, 笼罩, 使黯然\nvi. 乌云密布, 阴沉",
+      "en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble",
+      "phonetic": "klaud",
+      "forms": [
+        "clouds"
+      ],
+      "example": "Satellites can also help, but they cannot see through clouds, nor can they see what is happening in the soil or mid-to-deep ocean.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "soil",
+      "headword": "soil",
+      "kind": "word",
+      "zh": "n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池\nvt. 弄脏, 污辱\nvi. 变脏",
+      "en": "n. the part of the earth's surface consisting of humus and disintegrated rock",
+      "phonetic": "sɒil",
+      "forms": [
+        "soil"
+      ],
+      "example": "Satellites can also help, but they cannot see through clouds, nor can they see what is happening in the soil or mid-to-deep ocean.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "cycle",
+      "headword": "cycle",
+      "kind": "word",
+      "zh": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
+      "en": "n. an interval during which a recurring sequence of events occurs\nn. a series of poems or songs on the same theme\nn. a periodically repeated sequence of events\nn. a single complete execution of a periodically repeated phenomenon",
+      "phonetic": "'saikl",
+      "forms": [
+        "cycle"
+      ],
+      "example": "As carbon cycle scientists, we set out to find a different way to measure these carbon sinks.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "set out",
+      "headword": "set out",
+      "kind": "phrase",
+      "zh": "着手；阐明",
+      "en": "to begin an undertaking or state something clearly",
+      "forms": [
+        "set out"
+      ],
+      "example": "As carbon cycle scientists, we set out to find a different way to measure these carbon sinks.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v60",
+      "term": "angle",
+      "headword": "angle",
+      "kind": "word",
+      "zh": "n. 角, 角度, 角落\nvi. 钓鱼, 谋取, 博取, 斜向移动, 转变角度\nvt. 使转动角度, 在...钓鱼, 获取",
+      "en": "n. the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians\nn. a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons\nv. move or proceed at an angle\nv. fish with a hook",
+      "phonetic": "'æŋgl",
+      "forms": [
+        "angle"
+      ],
+      "example": "Our new study approaches the problem from another angle.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "atmospheric",
+      "headword": "atmospheric",
+      "kind": "word",
+      "zh": "a. 大气的\n[医] 大气的; 大气压的",
+      "en": "a. relating to or located in the atmosphere",
+      "phonetic": "ætmәs'ferik",
+      "forms": [
+        "atmospheric"
+      ],
+      "example": "We used high-precision measurements of atmospheric oxygen (O₂), combined with atmospheric carbon dioxide (CO₂) measurements, to quantify how the ocean and land carbon sinks take up carbon dioxide.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "oxygen",
+      "headword": "oxygen",
+      "kind": "word",
+      "zh": "n. 氧\n[化] 氧O-2",
+      "en": "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust",
+      "phonetic": "'ɒksәdʒәn",
+      "forms": [
+        "oxygen"
+      ],
+      "example": "We used high-precision measurements of atmospheric oxygen (O₂), combined with atmospheric carbon dioxide (CO₂) measurements, to quantify how the ocean and land carbon sinks take up carbon dioxide.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "combined",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combined",
+        "combining"
+      ],
+      "example": "We used high-precision measurements of atmospheric oxygen (O₂), combined with atmospheric carbon dioxide (CO₂) measurements, to quantify how the ocean and land carbon sinks take up carbon dioxide.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "quantify",
+      "headword": "quantify",
+      "kind": "word",
+      "zh": "vt. 定量, 用数量表示, 测量",
+      "en": "v. use as a quantifier\nv. express as a number or measure or quantity",
+      "phonetic": "'kwɒntifai",
+      "forms": [
+        "quantify"
+      ],
+      "example": "We used high-precision measurements of atmospheric oxygen (O₂), combined with atmospheric carbon dioxide (CO₂) measurements, to quantify how the ocean and land carbon sinks take up carbon dioxide.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "consume",
+      "headword": "consume",
+      "kind": "word",
+      "zh": "vt. 消耗, 消费, 消灭\nvi. 耗尽, 毁灭",
+      "en": "v. serve oneself to, or consume regularly\nv. spend extravagantly\nv. destroy completely\nv. use up (resources or materials)",
+      "phonetic": "kәn'sju:m",
+      "forms": [
+        "consume"
+      ],
+      "example": "This works because land, oceans and burning fossil fuels have different effects on oxygen: When fossil fuels are burned, they not only produce CO₂, they consume O₂.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "simultaneously",
+      "headword": "simultaneously",
+      "kind": "word",
+      "zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+      "en": "r. at the same instant",
+      "phonetic": "simәl'teiniәsly; (?@) saim-",
+      "forms": [
+        "simultaneously"
+      ],
+      "example": "On land, when plants take up CO₂ to grow, they simultaneously release O₂.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "corresponding",
+      "headword": "correspond",
+      "kind": "word",
+      "zh": "vi. 符合, 通信, 相当\n[法] 符合, 一致, 相当",
+      "en": "v. exchange messages",
+      "phonetic": ".kɒri'spɒnd",
+      "forms": [
+        "corresponding"
+      ],
+      "example": "When the oceans take up atmospheric CO₂, there is no corresponding release of O₂.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "straightforward",
+      "headword": "straightforward",
+      "kind": "word",
+      "zh": "a. 笔直的, 率直的, 明确的, 简单的, 直接的",
+      "en": "s. free from ambiguity\ns. pointed directly ahead",
+      "phonetic": "streit'fɒ:wәd",
+      "forms": [
+        "straightforward"
+      ],
+      "example": "It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "mathematical",
+      "headword": "mathematical",
+      "kind": "word",
+      "zh": "a. 数学的, 精确的\n[机] 数学上的",
+      "en": "a. of or pertaining to or of the nature of mathematics\ns. beyond question\ns. statistically possible though highly improbable\ns. characterized by the exactness or precision of mathematics",
+      "phonetic": ".mæθә'mætikl",
+      "forms": [
+        "mathematical"
+      ],
+      "example": "It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "solving",
+      "headword": "solve",
+      "kind": "word",
+      "zh": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解",
+      "en": "v. find the solution to (a problem or question) or understand the meaning of",
+      "phonetic": "sɒlv",
+      "forms": [
+        "solving"
+      ],
+      "example": "It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "equations",
+      "headword": "equation",
+      "kind": "word",
+      "zh": "n. 相等, 等式, 平衡\n[化] 方程式; 等式; 反应式; 公式",
+      "en": "n. a mathematical statement that two expressions are equal\nn. the act of regarding as equal",
+      "phonetic": "i'kweiʃәn",
+      "forms": [
+        "equations"
+      ],
+      "example": "It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "unknowns",
+      "headword": "unknown",
+      "kind": "word",
+      "zh": "a. 不知道的, 未知的, 陌生的\nn. 未知物, 未知数",
+      "en": "n. an unknown and unexplored region\nn. a variable whose values are solutions of an equation\na. not known\ns. not known to exist",
+      "phonetic": ".ʌn'nәun",
+      "forms": [
+        "unknowns"
+      ],
+      "example": "It is a straightforward mathematical approach of solving two equations with two unknowns, combined with our knowledge and measurements of the global budgets of CO₂ and O₂.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "sobering",
+      "headword": "sober",
+      "kind": "word",
+      "zh": "a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的\nvt. 使醒酒, 使严肃\nvi. 从醉里醒来, 变严肃",
+      "en": "v. cause to become sober\na. not affected by a chemical substance (especially alcohol)",
+      "phonetic": "'sәubә",
+      "forms": [
+        "sobering"
+      ],
+      "example": "When we looked at the ocean and land carbon sinks over the past three decades, the results were surprising and sobering.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "In contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "In contrast"
+      ],
+      "example": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+      "paragraph": 19,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v75",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "simulations",
+      "headword": "simulation",
+      "kind": "word",
+      "zh": "n. 模拟, 假冒物, 模仿\n[计] 模拟",
+      "en": "n. the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)\nn. (computer science) the technique of representing the real world by a computer program",
+      "phonetic": ".simju'leiʃәn",
+      "forms": [
+        "simulations"
+      ],
+      "example": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "pace",
+      "headword": "pace",
+      "kind": "word",
+      "zh": "n. 速度, 步调, 步法\nvi. 踱步, 缓慢走\nvt. 用步测, 踱步于",
+      "en": "n. the rate of moving (especially walking or running)\nn. the relative speed of progress or change\nn. a step in walking or running\nv. walk with slow or fast paces",
+      "phonetic": "peis",
+      "forms": [
+        "pace"
+      ],
+      "example": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "predicted",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predicted"
+      ],
+      "example": "We did, however, find a larger ocean carbon sink than predicted by most models, and we found that it has been increasing as emissions grow.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "trends",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trends"
+      ],
+      "example": "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "relying",
+      "headword": "rely",
+      "kind": "word",
+      "zh": "vi. 信赖, 依赖, 信任",
+      "en": "v have confidence or faith in",
+      "phonetic": "ri'lai",
+      "forms": [
+        "relying"
+      ],
+      "example": "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "heavily",
+      "headword": "heavily",
+      "kind": "word",
+      "zh": "adv. 很重地, 严重地, 难以忍受地",
+      "en": "r. to a considerable degree\nr. in a heavy-footed manner\nr. with great force\nr. in a manner designed for heavy duty",
+      "phonetic": "'hevili",
+      "forms": [
+        "heavily"
+      ],
+      "example": "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, warmer waters are not able to hold as much gas, such as carbon dioxide.",
+      "paragraph": 22,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v83",
+      "term": "warmer",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warmer",
+        "warm"
+      ],
+      "example": "For example, warmer waters are not able to hold as much gas, such as carbon dioxide.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "For example, warmer waters are not able to hold as much gas, such as carbon dioxide.",
+      "paragraph": 22,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v85",
+      "term": "efficient",
+      "headword": "efficient",
+      "kind": "word",
+      "zh": "a. 有效率的, 能干的",
+      "en": "a. being effective without wasting time or effort or expense",
+      "phonetic": "i'fiʃәnt",
+      "forms": [
+        "efficient"
+      ],
+      "example": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "beneficial",
+      "headword": "beneficial",
+      "kind": "word",
+      "zh": "a. 有益的, 受益的\n[经] 有使用权的, 可享利益的",
+      "en": "s. promoting or enhancing well-being",
+      "phonetic": ".beni'fiʃәl",
+      "forms": [
+        "beneficial"
+      ],
+      "example": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "locking",
+      "headword": "lock",
+      "kind": "word",
+      "zh": "n. 锁, 刹车, 水闸, 一缕头发\nvt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住\nvi. 锁住, (齿轮等)啮合, (船)过闸",
+      "en": "n. a fastener fitted to a door or drawer to keep it firmly closed\nn. a strand or cluster of hair\nn. a mechanism that detonates the charge of a gun\nn. enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it",
+      "phonetic": "lɒk",
+      "forms": [
+        "locking"
+      ],
+      "example": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "hundreds",
+      "headword": "hundreds",
+      "kind": "word",
+      "zh": "n. 数百",
+      "en": "n ten 10s",
+      "phonetic": "",
+      "forms": [
+        "hundreds"
+      ],
+      "example": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "hints",
+      "headword": "hint",
+      "kind": "word",
+      "zh": "n. 暗示, 提示\nv. 暗示, 示意",
+      "en": "n. an indirect suggestion\nn. a slight indication\nv. drop a hint; intimate by a hint",
+      "phonetic": "hint",
+      "forms": [
+        "hints"
+      ],
+      "example": "The data for the past decade hints at the possibility that while the ocean carbon sink is increasing now, its rate of increase may be slowing down.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "slowing",
+      "headword": "slow",
+      "kind": "word",
+      "zh": "a. 慢的, 缓慢的, 迟缓的, 迟钝的, 冷漠的, 落后的\nadv. 慢地, 迟缓地\nv. (使)慢下来",
+      "en": "v. become slow or slower\nv. cause to proceed more slowly\na. not moving quickly; taking a comparatively long time\na. at a slow tempo",
+      "phonetic": "slәu",
+      "forms": [
+        "slowing"
+      ],
+      "example": "The data for the past decade hints at the possibility that while the ocean carbon sink is increasing now, its rate of increase may be slowing down.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "historical",
+      "headword": "historical",
+      "kind": "word",
+      "zh": "a. 历史的, 史实的, 历史上的\n[法] 历史性的",
+      "en": "a. of or relating to the study of history\ns. having once lived or existed or taken place in the real world as distinct from being legendary",
+      "phonetic": "hi'stɒrikәl",
+      "forms": [
+        "historical"
+      ],
+      "example": "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "match",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "match"
+      ],
+      "example": "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "vary",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "vary"
+      ],
+      "example": "For the land, models vary widely from each other, and most do not match our oxygen-based results.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "widely",
+      "headword": "widely",
+      "kind": "word",
+      "zh": "adv. 广泛地",
+      "en": "r. to a great degree\nr. so as to leave much space or distance between",
+      "phonetic": "'waidli",
+      "forms": [
+        "widely"
+      ],
+      "example": "For the land, models vary widely from each other, and most do not match our oxygen-based results.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "feasible",
+      "headword": "feasible",
+      "kind": "word",
+      "zh": "a. 能实行的, 可行的, 适宜的\n[法] 可行的, 可执行的, 可完成的",
+      "en": "s. capable of being done with means at hand and circumstances as they are",
+      "phonetic": "'fi:zәbl",
+      "forms": [
+        "feasible"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "scenarios",
+      "headword": "scenario",
+      "kind": "word",
+      "zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态\n[计] 方案",
+      "en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\nn. a setting for a work of art or literature\nn. a postulated sequence of possible events",
+      "phonetic": "si'nɑ:riәu",
+      "forms": [
+        "scenarios"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "dangerous",
+      "headword": "dangerous",
+      "kind": "word",
+      "zh": "a. 危险的\n[法] 危险的, 危害的",
+      "en": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm",
+      "phonetic": "'deindʒәrәs",
+      "forms": [
+        "dangerous"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "grounded",
+      "headword": "grounded",
+      "kind": "word",
+      "zh": "a. [物]接地的；有基础的",
+      "en": "v fix firmly and stably\nv confine or restrict to the ground\nv place or put on the ground\nv instruct someone in the fundamentals of a subject\nv bring to the ground\nv hit or reach the ground\nv throw to the ground in order to stop play and avoid being tackled behind the line of scrimmage\nv hit a groundball\nv hit onto the ground\nv cover with a primer; apply a primer to\nv connect to a ground\nv use as a basis for; found on",
+      "phonetic": "'^raundid",
+      "forms": [
+        "grounded"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "planet",
+      "headword": "planet",
+      "kind": "word",
+      "zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+      "en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star",
+      "phonetic": "'plænit",
+      "forms": [
+        "planet"
+      ],
+      "example": "Nature is difficult to represent with a series of equations, and observations are few considering the size of the planet.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "lead to",
+      "headword": "lead to",
+      "kind": "phrase",
+      "zh": "导致",
+      "en": "to cause a result",
+      "forms": [
+        "lead to"
+      ],
+      "example": "We believe our study improves understanding of global carbon sinks and can help lead to more reliable projections of what might happen with climate change in the coming decades.",
+      "paragraph": 28,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v103",
+      "term": "reliable",
+      "headword": "reliable",
+      "kind": "word",
+      "zh": "a. 可靠的, 可信赖的\n[法] 可靠的, 可信赖的, 确实的",
+      "en": "a. worthy of reliance or trust",
+      "phonetic": "ri'laiәbl",
+      "forms": [
+        "reliable"
+      ],
+      "example": "We believe our study improves understanding of global carbon sinks and can help lead to more reliable projections of what might happen with climate change in the coming decades.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "projections",
+      "headword": "projection",
+      "kind": "word",
+      "zh": "n. 发射, 计划, 突出部分, 设计, 推测\n[计] 投影",
+      "en": "n. a prediction made by extrapolating from past observations\nn. the projection of an image from a film onto a screen\nn. any structure that branches out from a central support\nn. any solid convex shape that juts out from something",
+      "phonetic": "prә'dʒekʃәn",
+      "forms": [
+        "projections"
+      ],
+      "example": "We believe our study improves understanding of global carbon sinks and can help lead to more reliable projections of what might happen with climate change in the coming decades.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "scientific",
+      "headword": "scientific",
+      "kind": "word",
+      "zh": "a. 科学的, 系统的, 符合科学规律的\n[计] 科学记数法",
+      "en": "a. of or relating to the practice of science\na. conforming with the principles or methods used in science",
+      "phonetic": ".saiәn'tifik",
+      "forms": [
+        "scientific"
+      ],
+      "example": "But like any scientific approach, our oxygen method also has drawbacks.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "drawbacks",
+      "headword": "drawback",
+      "kind": "word",
+      "zh": "n. 缺点, 退税\n[法] 退款, 退税",
+      "en": "n. the quality of being a hindrance",
+      "phonetic": "'drɒ:bæk",
+      "forms": [
+        "drawbacks"
+      ],
+      "example": "But like any scientific approach, our oxygen method also has drawbacks.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "laboratories",
+      "headword": "laboratory",
+      "kind": "word",
+      "zh": "n. 实验室, 研究室, 化工厂\n[医] 实验室, 检验室, 化验室",
+      "en": "n a workplace for the conduct of scientific research\nn a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
+      "phonetic": "'læbrәtәri",
+      "forms": [
+        "laboratories"
+      ],
+      "example": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "routinely",
+      "headword": "routinely",
+      "kind": "word",
+      "zh": "adv. 日常, 乏味, 常规, 例行",
+      "en": "r. according to routine or established practice",
+      "phonetic": "",
+      "forms": [
+        "routinely"
+      ],
+      "example": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "calibrating",
+      "headword": "calibrate",
+      "kind": "word",
+      "zh": "vt. 测定口径, 校准, 使标准化, 调整\n[化] 校准",
+      "en": "v. make fine adjustments or divide into marked intervals for optimal measuring\nv. mark (the scale of a measuring instrument) so that it can be read in the desired units\nv. measure the caliber of",
+      "phonetic": "'kælibreit",
+      "forms": [
+        "calibrating"
+      ],
+      "example": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an ongoing challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere. We must account for this in our carbon sink calculations. And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "ongoing",
+      "headword": "ongoing",
+      "kind": "word",
+      "zh": "a. 前进的, 进行的, 不间断的\nn. 前进, 发展",
+      "en": "s. currently happening",
+      "phonetic": "'ɒngәuiŋ",
+      "forms": [
+        "ongoing"
+      ],
+      "example": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an ongoing challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere. We must account for this in our carbon sink calculations. And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "in response to",
+      "headword": "in response to",
+      "kind": "phrase",
+      "zh": "回应；针对",
+      "en": "as a reaction to something",
+      "forms": [
+        "in response to"
+      ],
+      "example": "Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v112",
+      "term": "expel",
+      "headword": "expel",
+      "kind": "word",
+      "zh": "vt. 驱逐, 逐出, 排出, 开除\n[医] 排除, 迫出",
+      "en": "v. force to leave or move out",
+      "phonetic": "ik'spel",
+      "forms": [
+        "expel"
+      ],
+      "example": "Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "account for",
+      "headword": "account for",
+      "kind": "phrase",
+      "zh": "解释；占……比例",
+      "en": "to explain something or constitute a proportion",
+      "forms": [
+        "account for"
+      ],
+      "example": "We must account for this in our carbon sink calculations.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v114",
+      "term": "calculations",
+      "headword": "calculation",
+      "kind": "word",
+      "zh": "n. 计算, 考虑, 计算的结果\n[经] 计算",
+      "en": "n. the procedure of calculating; determining something by mathematical or logical methods\nn. problem solving that involves numbers or quantities\nn. planning something carefully and intentionally",
+      "phonetic": ".kælkju'leiʃәn",
+      "forms": [
+        "calculations"
+      ],
+      "example": "We must account for this in our carbon sink calculations.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "take into account",
+      "headword": "take into account",
+      "kind": "phrase",
+      "zh": "把……考虑在内",
+      "en": "to consider something when making a judgement",
+      "forms": [
+        "take into account"
+      ],
+      "example": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v116",
+      "term": "variability",
+      "headword": "variability",
+      "kind": "word",
+      "zh": "n. 易变, 变化性, 变异性\n[化] 可变性; 变异性",
+      "en": "n. the quality of being subject to variation",
+      "phonetic": ".vєәriә'biliti",
+      "forms": [
+        "variability"
+      ],
+      "example": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "circulation",
+      "headword": "circulation",
+      "kind": "word",
+      "zh": "n. 流通, 循环, 发行量\n[化] 环流",
+      "en": "n. the dissemination of copies of periodicals (as newspapers or magazines)\nn. movement through a circuit; especially the movement of blood through the heart and blood vessels\nn. (library science) the count of books that are loaned by a library over a specified period\nn. number of copies of a newspaper or magazine that are sold",
+      "phonetic": ".sә:kju'leiʃәn",
+      "forms": [
+        "circulation"
+      ],
+      "example": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "frames",
+      "headword": "frame",
+      "kind": "word",
+      "zh": "n. 框, 结构, 体格\nvt. 构成, 设计, 制定, 使适合, 陷害\n[计] 框架, 图文框, 帧",
+      "en": "n. the framework for a pair of eyeglasses\nn. a single one of a series of still transparent pictures forming a cinema, television or video film\nn. a single drawing in a comic_strip\nn. an application that divides the user's display into two or more windows that can be scrolled independently",
+      "phonetic": "freim",
+      "forms": [
+        "frames"
+      ],
+      "example": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+      "paragraph": 29,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "policymakers",
+      "headword": "policymaker",
+      "kind": "word",
+      "zh": "n. 政策制定者；决策人",
+      "en": "",
+      "phonetic": "'pɔlisi.meikә",
+      "forms": [
+        "policymakers"
+      ],
+      "example": "Policymakers and the public need answers faster. We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential. Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "solution",
+      "headword": "solution",
+      "kind": "word",
+      "zh": "n. 解决, 解答, 溶液\n[化] 溶液",
+      "en": "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution\nn. a statement that solves a problem or explains how to solve the problem\nn. a method for solving a problem\nn. the set of values that give a true statement when substituted into an equation",
+      "phonetic": "sә'lu:ʃәn",
+      "forms": [
+        "solution"
+      ],
+      "example": "We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "independent",
+      "headword": "independent",
+      "kind": "word",
+      "zh": "n. 独立自主者, 无党派者\na. 独立的, 有主见的, 不须依赖的, 不受约束的",
+      "en": "a. free from external control and constraint\na. (of a clause) capable of standing syntactically alone as a complete sentence\ns. not controlled by a party or interest group",
+      "phonetic": ".indi'pendәnt",
+      "forms": [
+        "independent"
+      ],
+      "example": "We believe the solution involves both improving the atmospheric oxygen approach and using other independent approaches: measurements of carbon and oxygen in the oceans, computer models and satellites are all essential.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "robust",
+      "headword": "robust",
+      "kind": "word",
+      "zh": "a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的\n[计] 健壮性",
+      "en": "a. sturdy and strong in form, constitution, or construction\ns. strong enough to withstand or overcome intellectual challenges or adversity\ns. rough and crude",
+      "phonetic": "rәu'bʌst",
+      "forms": [
+        "robust"
+      ],
+      "example": "Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "valuable",
+      "headword": "valuable",
+      "kind": "word",
+      "zh": "a. 有价值的, 贵重的, 宝贵的, 可估价的\n[经] 有价值的, 可估价的, 贵重的",
+      "en": "n. something of value\na. having great material or monetary value especially for use or exchange\ns. having worth or merit or value",
+      "phonetic": "'væljuәbl",
+      "forms": [
+        "valuable"
+      ],
+      "example": "Combining these approaches will lead to more robust understanding of the carbon cycle and climate change, and better knowledge of where these valuable carbon sinks and the global climate are headed.",
+      "paragraph": 30,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      19,
+      29
+    ],
+    "wordBank": [
+      "sinks",
+      "scientific",
+      "warmer",
+      "feasible",
+      "hundreds",
+      "fossil",
+      "equations",
+      "historical",
+      "variability",
+      "ongoing"
+    ],
+    "parts": [
+      {
+        "text": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " fuel emissions. We did, however, find a larger ocean carbon sink than predicted by most models, and we found that it has been increasing as emissions grow.\n\nWhere is the climate headed?\n\nIf these trends in carbon "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change. But in the next few decades, there are reasons to believe the oceans could become less effective at absorbing carbon.\n\nFor example, "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " waters are not able to hold as much gas, such as carbon dioxide. Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " of years.\n\nThe data for the past decade hints at the possibility that while the ocean carbon sink is increasing now, its rate of increase may be slowing down.\n\nCarbon cycle models need to improve\n\nFor the oceans, most computer models agree with each other, but, for the "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " period, they do not match our oxygen-based results. For the land, models vary widely from each other, and most do not match our oxygen-based results.\n\nComputer models are essential to provide governments with "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing. Nature is difficult to represent with a series of "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": ", and observations are few considering the size of the planet.\n\nLooking ahead\n\nWe believe our study improves understanding of global carbon sinks and can help lead to more reliable projections of what might happen with climate change in the coming decades. But like any "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " approach, our oxygen method also has drawbacks.\n\nThe measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere. We must account for this in our carbon sink calculations. And to take into account "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " in ocean circulation and other ocean processes, we have to average our results over 10-year time frames."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "fossil",
+        "vocabularyId": "v9",
+        "explanation": "原文此处使用 fossil（fossil）。结合上下文辨认词义与词形。",
+        "evidence": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+        "paragraph": 19
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "sinks",
+        "vocabularyId": "v23",
+        "explanation": "原文此处使用 sinks（sink）。结合上下文辨认词义与词形。",
+        "evidence": "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change.",
+        "paragraph": 21
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "warmer",
+        "vocabularyId": "v83",
+        "explanation": "原文此处使用 warmer（warm）。结合上下文辨认词义与词形。",
+        "evidence": "For example, warmer waters are not able to hold as much gas, such as carbon dioxide.",
+        "paragraph": 22
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "hundreds",
+        "vocabularyId": "v88",
+        "explanation": "原文此处使用 hundreds（hundreds）。结合上下文辨认词义与词形。",
+        "evidence": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
+        "paragraph": 22
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "historical",
+        "vocabularyId": "v91",
+        "explanation": "原文此处使用 historical（historical）。结合上下文辨认词义与词形。",
+        "evidence": "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.",
+        "paragraph": 25
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "feasible",
+        "vocabularyId": "v96",
+        "explanation": "原文此处使用 feasible（feasible）。结合上下文辨认词义与词形。",
+        "evidence": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
+        "paragraph": 26
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "equations",
+        "vocabularyId": "v71",
+        "explanation": "原文此处使用 equations（equation）。结合上下文辨认词义与词形。",
+        "evidence": "Nature is difficult to represent with a series of equations, and observations are few considering the size of the planet.",
+        "paragraph": 26
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "scientific",
+        "vocabularyId": "v105",
+        "explanation": "原文此处使用 scientific（scientific）。结合上下文辨认词义与词形。",
+        "evidence": "But like any scientific approach, our oxygen method also has drawbacks.",
+        "paragraph": 28
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "ongoing",
+        "vocabularyId": "v110",
+        "explanation": "原文此处使用 ongoing（ongoing）。结合上下文辨认词义与词形。",
+        "evidence": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an ongoing challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere. We must account for this in our carbon sink calculations. And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+        "paragraph": 29
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "variability",
+        "vocabularyId": "v116",
+        "explanation": "原文此处使用 variability（variability）。结合上下文辨认词义与词形。",
+        "evidence": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
+        "paragraph": 29
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Oceans and forests have slowed warming by absorbing carbon, but their future capacity is uncertain.",
+          "New tracking technologies are changing knowledge of bird migration and opportunities for conservation.",
+          "Research documents an increase in foggy days in southern Australia and explores its causes.",
+          "Past El Niño erosion shows why California's vulnerable coastline remains at risk."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+        "paragraph": 5
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Why is understanding continued carbon absorption by forests and oceans useful?",
+        "options": [
+          "It removes every uncertainty about future weather.",
+          "It proves that burning fossil fuels has no consequences.",
+          "It helps scientists anticipate future conditions and responses to climate change.",
+          "It means climate change has permanently stopped."
+        ],
+        "answer": 2,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "If the oceans and forests keep absorbing the same amount of carbon dioxide, scientists will have a sense of what to expect in the future and what can be done to slow climate change.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 12?",
+        "options": [
+          "This is because many parts of the land and ocean don’t behave in the same ways.",
+          "Computer models can help overcome some of these complexities, but they too have limitations.",
+          "Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere.",
+          "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results."
+        ],
+        "answer": 1,
+        "explanation": "定位第 12 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Computer models can help overcome some of these complexities, but they too have limitations.",
+        "paragraph": 12
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.”",
+        "options": [
+          "Paragraph 19",
+          "Paragraph 30",
+          "Paragraph 29",
+          "Paragraph 3"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
+        "paragraph": 19
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.”",
+        "options": [
+          "Paragraph 26",
+          "Paragraph 8",
+          "Paragraph 4",
+          "Paragraph 25"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 25 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.",
+        "paragraph": 25
+      }
+    ]
+  },
+  "revision": "340c714b64709b188ae639d248bc5b3f26c61e568a6d799a379e5198f6451e7b"
+}

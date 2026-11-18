@@ -1,0 +1,2053 @@
+{
+  "schemaVersion": 1,
+  "folder": "033",
+  "articleSha256": "23164daf640e3192efdd2e390e1ba02673489d7edda7ab0a1a82f76ee35dd209",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "coastal",
+      "headword": "coastal",
+      "kind": "word",
+      "zh": "a. 海岸的, 沿海的, 沿岸的\n[法] 海岸的, 沿海的",
+      "en": "a. of or relating to a coast\na. located on or near or bordering on a coast",
+      "phonetic": "'kәustәl",
+      "forms": [
+        "coastal"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "Coastal wetlands",
+      "headword": "coastal wetlands",
+      "kind": "phrase",
+      "zh": "滨海湿地",
+      "en": "wetland ecosystems near the coast",
+      "forms": [
+        "Coastal wetlands"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "wetlands",
+      "headword": "wetland",
+      "kind": "word",
+      "zh": "n. 湿地, 沼泽地\n[经] 湿地",
+      "en": "n. a low area where the land is saturated with water",
+      "phonetic": "'wetlænd",
+      "forms": [
+        "wetlands",
+        "wetland"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v5",
+      "term": "mangroves",
+      "headword": "mangrove",
+      "kind": "word",
+      "zh": "n. 红树属树木",
+      "en": "n. a tropical tree or shrub bearing fruit that germinates while still on the tree and having numerous prop roots that eventually form an impenetrable mass and are important in land building",
+      "phonetic": "'mæŋgrәuv",
+      "forms": [
+        "mangroves",
+        "mangrove"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "saltmarshes",
+      "headword": "saltmarsh",
+      "kind": "word",
+      "zh": "[生态]盐沼",
+      "en": "",
+      "phonetic": "'sɔ:lt,mɑ:ʃ",
+      "forms": [
+        "saltmarshes"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "rapidly",
+      "headword": "rapidly",
+      "kind": "word",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
+      "en": "r with rapid movements",
+      "phonetic": "'ræpidli",
+      "forms": [
+        "rapidly"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "disappearing",
+      "headword": "disappear",
+      "kind": "word",
+      "zh": "vi. 消失, 不见",
+      "en": "v. get lost, as without warning or explanation",
+      "phonetic": ".disә'piә",
+      "forms": [
+        "disappearing"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "incredibly",
+      "headword": "incredibly",
+      "kind": "word",
+      "zh": "adv. 不能相信地",
+      "en": "r. not easy to believe",
+      "phonetic": "in'kredәbli",
+      "forms": [
+        "incredibly"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "young",
+      "headword": "young",
+      "kind": "word",
+      "zh": "a. 年轻的, 无经验的, 朝气蓬勃的\nn. 青年们, 幼小动物, 崽",
+      "en": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)",
+      "phonetic": "jʌŋ",
+      "forms": [
+        "young"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "turtles",
+      "headword": "turtle",
+      "kind": "word",
+      "zh": "n. 海龟",
+      "en": "n. any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming\nv. hunt for turtles, especially as an occupation",
+      "phonetic": "'tә:tl",
+      "forms": [
+        "turtles",
+        "turtle"
+      ],
+      "example": "Coastal wetlands, such as mangroves and saltmarshes, are rapidly disappearing yet they are incredibly important for young turtles.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "satellite",
+      "headword": "satellite",
+      "kind": "word",
+      "zh": "n. 人造卫星\n[医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
+      "en": "n. man-made equipment that orbits around the earth or the moon\nn. a person who follows or serves another\nn. any celestial body orbiting around a planet or star\nv. broadcast or disseminate via satellite",
+      "phonetic": "'sætlait",
+      "forms": [
+        "satellite"
+      ],
+      "example": "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "satellite tags",
+      "headword": "satellite tags",
+      "kind": "phrase",
+      "zh": "卫星追踪标签",
+      "en": "devices that transmit tracking information through satellites",
+      "forms": [
+        "satellite tags"
+      ],
+      "example": "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v15",
+      "term": "tags",
+      "headword": "tag",
+      "kind": "word",
+      "zh": "n. 标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符\nvt. 附以签条, 尾随, 添饰, 起浑名, 连接\nvi. 紧紧跟随\n[计] 标记",
+      "en": "n. a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.\nn. a label associated with something for the purpose of identification\nn. a game in which one child chases the others; the one who is caught becomes the next chaser\nn. (sports) the act of touching a player in a game (which changes their status in the game)",
+      "phonetic": "tæg",
+      "forms": [
+        "tags"
+      ],
+      "example": "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "sharjah",
+      "headword": "Sharjah",
+      "kind": "word",
+      "zh": "n. 沙迦",
+      "en": "",
+      "phonetic": "'ʃɑ:dʒə",
+      "forms": [
+        "sharjah"
+      ],
+      "example": "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "natural",
+      "headword": "natural",
+      "kind": "word",
+      "zh": "n. 白痴\na. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的",
+      "en": "n. someone regarded as certain to succeed\nn. a notation cancelling a previous sharp or flat\nn. (craps) a first roll of 7 or 11 that immediately wins the stake\na. in accordance with nature; relating to or concerning nature",
+      "phonetic": "'nætʃәrәl",
+      "forms": [
+        "natural"
+      ],
+      "example": "Our results reveal just how important these remaining natural spaces are to young turtles.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "thrive",
+      "headword": "thrive",
+      "kind": "word",
+      "zh": "vi. 繁荣, 兴旺, 茁壮成长\n[经] 兴旺, 繁荣, 旺盛",
+      "en": "v. make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+      "phonetic": "θraiv",
+      "forms": [
+        "thrive"
+      ],
+      "example": "But we also found that nature can find a way to thrive in unexpected, human-made environments too.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "unexpected",
+      "headword": "unexpected",
+      "kind": "word",
+      "zh": "a. 料想不到的, 突然的, 意外的\n[法] 不能预料的, 意外的",
+      "en": "a. not expected or anticipated",
+      "phonetic": ".ʌnik'spektid",
+      "forms": [
+        "unexpected"
+      ],
+      "example": "But we also found that nature can find a way to thrive in unexpected, human-made environments too.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "habitats",
+      "headword": "habitat",
+      "kind": "word",
+      "zh": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+      "en": "n. the type of environment in which an organism or group normally lives or occurs",
+      "phonetic": "'hæbitæt",
+      "forms": [
+        "habitats",
+        "habitat"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "connections",
+      "headword": "connection",
+      "kind": "word",
+      "zh": "n. 连接, 关系, 前后关系\n[计] 连接",
+      "en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it)\nn. the state of being connected\nn. an instrumentality that connects\nn. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+      "phonetic": "kә'nekʃәn",
+      "forms": [
+        "connections",
+        "connection"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "artificial",
+      "headword": "artificial",
+      "kind": "word",
+      "zh": "a. 人造的, 假的, 非原地产的\n[医] 人工的, 人造的, 伟牟",
+      "en": "a. contrived by art rather than nature\ns. artificially formal\ns. not arising from natural growth or characterized by vital processes",
+      "phonetic": ".ɑ:ti'fiʃәl",
+      "forms": [
+        "artificial"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "ensuring",
+      "headword": "ensure",
+      "kind": "word",
+      "zh": "vt. 确定, 保证, 担保, 保护\n[经] 确保, 确定",
+      "en": "v make certain of\nv be careful or certain to do something; make certain of something",
+      "phonetic": "in'ʃuә",
+      "forms": [
+        "ensuring"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "wildlife",
+      "headword": "wildlife",
+      "kind": "word",
+      "zh": "n. 野生动植物",
+      "en": "n. all living things (except people) that are undomesticated",
+      "phonetic": "'waildlaif",
+      "forms": [
+        "wildlife"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "persist",
+      "headword": "persist",
+      "kind": "word",
+      "zh": "vi. 坚持, 固执, 持续, 坚称\n[经] 持续",
+      "en": "v. stay behind",
+      "phonetic": "pә'sist",
+      "forms": [
+        "persist"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "shorelines",
+      "headword": "shoreline",
+      "kind": "word",
+      "zh": "n. 海岸线",
+      "en": "n. a boundary line between land and water",
+      "phonetic": "'ʃɒ:lain",
+      "forms": [
+        "shorelines"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "storms",
+      "headword": "storm",
+      "kind": "word",
+      "zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻\nvi. 起风, 猛冲, 怒吼\nvt. 猛攻",
+      "en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning\nn. a violent commotion or disturbance\nn. a direct and violent assault on a stronghold\nv. take by force",
+      "phonetic": "stɒ:m",
+      "forms": [
+        "storms"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "carbon",
+      "headword": "carbon",
+      "kind": "word",
+      "zh": "n. 碳, 副本, 复写纸\n[化] 碳",
+      "en": "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\nn. a copy made with carbon paper",
+      "phonetic": "'kɑ:bәn",
+      "forms": [
+        "carbon"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "nursery",
+      "headword": "nursery",
+      "kind": "word",
+      "zh": "n. 托儿所, 苗圃, 温床\n[医] 婴儿室, 托儿所",
+      "en": "n. a child's room for a baby",
+      "phonetic": "'nә:sәri",
+      "forms": [
+        "nursery"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "marine",
+      "headword": "marine",
+      "kind": "word",
+      "zh": "n. 舰队, 水兵, 海景画\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+      "en": "n. a member of the United States Marine Corps\nn. a soldier who serves both on shipboard and on land\na. of or relating to the sea\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+      "phonetic": "mә'ri:n",
+      "forms": [
+        "marine"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "marine life",
+      "headword": "marine life",
+      "kind": "phrase",
+      "zh": "海洋生物",
+      "en": "organisms living in the sea",
+      "forms": [
+        "marine life"
+      ],
+      "example": "Coastal wetlands protect our shorelines from storms, store carbon and provide important nursery habitats for marine life.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v34",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "Yet scientists still know surprisingly little about how marine wildlife, including turtles, sharks and rays, use these environments.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "sharks",
+      "headword": "shark",
+      "kind": "word",
+      "zh": "n. 鲨鱼, 骗子\nv. 诈骗",
+      "en": "n. any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales\nn. a person who is ruthless and greedy and dishonest\nn. a person who is unusually skilled in certain ways\nv. play the shark; act with trickery",
+      "phonetic": "ʃɑ:k",
+      "forms": [
+        "sharks"
+      ],
+      "example": "Yet scientists still know surprisingly little about how marine wildlife, including turtles, sharks and rays, use these environments.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "rays",
+      "headword": "ray",
+      "kind": "word",
+      "zh": "n. 光线, 射线, 闪烁, 光辉\nvi. 射出光线, 浮现, 放射光线\nvt. 放射, 显出",
+      "en": "n. a branch of an umbel or an umbelliform inflorescence\nn. (mathematics) a straight line extending from a point\nn. any of the stiff bony spines in the fin of a fish\nn. cartilaginous fishes having horizontally flattened bodies and enlarged winglike pectoral fins with gills on the underside; most swim by moving the pectoral fins",
+      "phonetic": "rei",
+      "forms": [
+        "rays"
+      ],
+      "example": "Yet scientists still know surprisingly little about how marine wildlife, including turtles, sharks and rays, use these environments.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "Knowing where these animals feed, shelter and move helps identify which areas need protection and whether existing protected areas are working.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "shelter",
+      "headword": "shelter",
+      "kind": "word",
+      "zh": "n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽\nvt. 庇护, 保护, 隐匿\nvi. 躲避",
+      "en": "n. a structure that provides privacy and protection from danger\nn. protective covering that provides protection from the weather\nn. temporary housing for homeless or displaced persons\nv. provide shelter for",
+      "phonetic": "'ʃeltә",
+      "forms": [
+        "shelter"
+      ],
+      "example": "Knowing where these animals feed, shelter and move helps identify which areas need protection and whether existing protected areas are working.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "protection",
+      "headword": "protection",
+      "kind": "word",
+      "zh": "n. 保护, 防卫, 贸易保护制度\n[计] 保护",
+      "en": "n. the activity of protecting someone or something\nn. the condition of being protected\nn. the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition\nn. payment extorted by gangsters on threat of violence",
+      "phonetic": "prә'tekʃәn",
+      "forms": [
+        "protection"
+      ],
+      "example": "Knowing where these animals feed, shelter and move helps identify which areas need protection and whether existing protected areas are working.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "collaborative",
+      "headword": "collaborative",
+      "kind": "word",
+      "zh": "a. 合作的, 协作的",
+      "en": "s. accomplished by collaboration",
+      "phonetic": "kә'læbәreitiv",
+      "forms": [
+        "collaborative"
+      ],
+      "example": "Our study, a collaborative effort between the Environment and Protected Areas Authority (EPAA), a UAE government agency, the University of Exeter and the Sharjah Marine Science Research Centre, focused on Al Qurm Wa Lehhfaiiah, a marine protected area encompassing the last major coastal wetland ecosystem on the UAE’s east coast, which is called Khor Kalba.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "encompassing",
+      "headword": "encompass",
+      "kind": "word",
+      "zh": "vt. 围绕, 完成, 包括, 包含, 环绕, 包围",
+      "en": "v include in scope; include as part of something broader; have as one's sphere or territory",
+      "phonetic": "in'kʌmpәs",
+      "forms": [
+        "encompassing"
+      ],
+      "example": "Our study, a collaborative effort between the Environment and Protected Areas Authority (EPAA), a UAE government agency, the University of Exeter and the Sharjah Marine Science Research Centre, focused on Al Qurm Wa Lehhfaiiah, a marine protected area encompassing the last major coastal wetland ecosystem on the UAE’s east coast, which is called Khor Kalba.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "ecosystem",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystem"
+      ],
+      "example": "Our study, a collaborative effort between the Environment and Protected Areas Authority (EPAA), a UAE government agency, the University of Exeter and the Sharjah Marine Science Research Centre, focused on Al Qurm Wa Lehhfaiiah, a marine protected area encompassing the last major coastal wetland ecosystem on the UAE’s east coast, which is called Khor Kalba.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "coast",
+      "headword": "coast",
+      "kind": "word",
+      "zh": "n. 海岸, 滑坡\nv. 沿海岸而行",
+      "en": "n. a slope down which sleds may coast\nn. the area within view\nv. move effortlessly; by force of gravity",
+      "phonetic": "kәust",
+      "forms": [
+        "coast"
+      ],
+      "example": "Our study, a collaborative effort between the Environment and Protected Areas Authority (EPAA), a UAE government agency, the University of Exeter and the Sharjah Marine Science Research Centre, focused on Al Qurm Wa Lehhfaiiah, a marine protected area encompassing the last major coastal wetland ecosystem on the UAE’s east coast, which is called Khor Kalba.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "migratory",
+      "headword": "migratory",
+      "kind": "word",
+      "zh": "a. 迁移的, 流浪的",
+      "en": "a. used of animals that move seasonally",
+      "phonetic": "'maigrәtәri",
+      "forms": [
+        "migratory"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "wading",
+      "headword": "wade",
+      "kind": "word",
+      "zh": "vi. 跋涉\nvt. 涉水\nn. 跋涉, 浅滩",
+      "en": "n. English tennis player who won many women's singles titles (born in 1945)\nv. walk (through relatively shallow water)",
+      "phonetic": "weid",
+      "forms": [
+        "wading"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "numerous",
+      "headword": "numerous",
+      "kind": "word",
+      "zh": "a. 很多的, 数目众多的, 多数的\n[机] 多数的, 甚多的",
+      "en": "s. amounting to a large indefinite number",
+      "phonetic": "'nju:mәrәs",
+      "forms": [
+        "numerous"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "arabian",
+      "headword": "Arabian",
+      "kind": "word",
+      "zh": "a. 阿拉伯的, 阿拉伯人的",
+      "en": "n. a spirited graceful and intelligent riding horse native to Arabia\na. relating to or associated with Arabia or its people\na. of or relating to Arabian horses",
+      "phonetic": "ә'reibiәn",
+      "forms": [
+        "arabian"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "collared",
+      "headword": "collar",
+      "kind": "word",
+      "zh": "n. 衣领, 颈圈\nvt. 控制, 扭住衣领, 给...装上领子",
+      "en": "n. a band that fits around the neck and is usually folded over\nn. (zoology) an encircling band or marking around the neck of any animal\nn. anything worn or placed about the neck\nn. a short ring fastened over a rod or shaft to limit, guide, or secure a machine part",
+      "phonetic": "'kɒlә",
+      "forms": [
+        "collared"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "kingfisher",
+      "headword": "kingfisher",
+      "kind": "word",
+      "zh": "n. 鱼狗, 翠鸟",
+      "en": "n. nonpasserine large-headed bird with a short tail and long sharp bill; usually crested and bright-colored; feed mostly on fish",
+      "phonetic": "'kiŋfiʃә",
+      "forms": [
+        "kingfisher"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "subspecies",
+      "headword": "subspecies",
+      "kind": "word",
+      "zh": "n. 亚种",
+      "en": "n. (biology) a taxonomic group that is a division of a species; usually arises as a consequence of geographical isolation within a species",
+      "phonetic": "'sʌb.spi:ʃi:z",
+      "forms": [
+        "subspecies"
+      ],
+      "example": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "swim",
+      "headword": "swim",
+      "kind": "word",
+      "zh": "n. 游泳, 漂浮, 潮流, 眩晕\nvi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕\nvt. 游过, 使浮起",
+      "en": "v. travel through water\nv. be dizzy or giddy\nv. be covered with or submerged in a liquid\nv. move as if gliding through water",
+      "phonetic": "swim",
+      "forms": [
+        "swim"
+      ],
+      "example": "Young green turtles also swim through its winding mangrove channels.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "channels",
+      "headword": "channel",
+      "kind": "word",
+      "zh": "n. 海峡, 航道, 频道\nvt. 引导, 在...上挖沟, 形成河道\n[计] 信道, 通道",
+      "en": "n. a path over which electrical signals can pass\nn. a passage for water (or other fluids) to flow through\nn. a deep and relatively narrow body of water (as in a river or a harbor or a strait linking two larger bodies) that allows the best passage for vessels\nn. (often plural) a means of communication or access",
+      "phonetic": "'tʃænәl",
+      "forms": [
+        "channels",
+        "channel"
+      ],
+      "example": "Young green turtles also swim through its winding mangrove channels.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "conservation",
+      "headword": "conservation",
+      "kind": "word",
+      "zh": "n. 保护, 保存\n[医] 保存",
+      "en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change\nn. the preservation and careful management of the environment and of natural resources\nn. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+      "phonetic": ".kɒnsә'veiʃәn",
+      "forms": [
+        "conservation"
+      ],
+      "example": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "designation",
+      "headword": "designation",
+      "kind": "word",
+      "zh": "n. 指示, 指定, 命名\n[电] 指定",
+      "en": "n. the act of designating or identifying something",
+      "phonetic": ".dezig'neiʃәn",
+      "forms": [
+        "designation"
+      ],
+      "example": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "internationally",
+      "headword": "internationally",
+      "kind": "word",
+      "zh": "adv. 国际性地, 在国际间",
+      "en": "r. throughout the world",
+      "phonetic": ".intә'næʃәnәli",
+      "forms": [
+        "internationally"
+      ],
+      "example": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "escaped",
+      "headword": "escape",
+      "kind": "word",
+      "zh": "n. 逃亡, 避难设备, 逃跑\nvi. 逃脱, 避开, 溜走\nvt. 逃避, 避免, 被...忘掉",
+      "en": "n. the act of escaping physically\nn. an inclination to retreat from unpleasant realities through diversion or fantasy\nn. an avoidance of danger or difficulty\nn. a means or way of escaping",
+      "phonetic": "i'skeip",
+      "forms": [
+        "escaped"
+      ],
+      "example": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "surrounds",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounds"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "basin",
+      "headword": "basin",
+      "kind": "word",
+      "zh": "n. 盆, 盆地\n[医] 第三脑室, 骨盆",
+      "en": "n. a bowl-shaped vessel; usually used for holding food or liquids\nn. the quantity that a basin will hold\nn. a natural depression in the surface of the land often with a lake at the bottom of it",
+      "phonetic": "'beisn",
+      "forms": [
+        "basin"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "lagoon",
+      "headword": "lagoon",
+      "kind": "word",
+      "zh": "n. 环礁湖, 近海岸的浅水区, 泻湖, 咸水湖",
+      "en": "n. a body of water cut off from a larger body by a reef of sand or coral",
+      "phonetic": "lә'^u:n",
+      "forms": [
+        "lagoon"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "alongside",
+      "headword": "alongside",
+      "kind": "word",
+      "zh": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+      "en": "r side by side",
+      "phonetic": "ә'lɒŋ'said",
+      "forms": [
+        "alongside"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "recreational",
+      "headword": "recreational",
+      "kind": "word",
+      "zh": "a. 消遣的, 娱乐的",
+      "en": "a. of or relating to recreation",
+      "phonetic": ".rekri'eiʃәnәl",
+      "forms": [
+        "recreational"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "waterfront",
+      "headword": "waterfront",
+      "kind": "word",
+      "zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
+      "en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water",
+      "phonetic": "'wɔ:tәfrʌnt",
+      "forms": [
+        "waterfront"
+      ],
+      "example": "The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "intended",
+      "headword": "intend",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 意思是\n[法] 想要, 打算, 意旨",
+      "en": "v. have in mind as a purpose\nv. design or destine",
+      "phonetic": "in'tend",
+      "forms": [
+        "intended"
+      ],
+      "example": "The basin was never used for its intended recreational purposes and has since been incorporated into the protected area.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "incorporated",
+      "headword": "incorporate",
+      "kind": "word",
+      "zh": "a. 合并的, 组成公司的, 一体化的\nvt. 吸收, 合并, 使组成公司, 体现\nvi. 合并, 混合, 组成公司",
+      "en": "v. include or contain; have as a component\nv. form a corporation\nv. unite or merge with something already in existence\ns. formed or united into a whole",
+      "phonetic": "in'kɒ:pәreit",
+      "forms": [
+        "incorporated"
+      ],
+      "example": "The basin was never used for its intended recreational purposes and has since been incorporated into the protected area.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "unusual",
+      "headword": "unusual",
+      "kind": "word",
+      "zh": "a. 不寻常的, 罕见的, 与众不同的",
+      "en": "a. not usual or common or ordinary\ns. not commonly encountered",
+      "phonetic": ".ʌn'ju:ʒu:l",
+      "forms": [
+        "unusual"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "landscape",
+      "headword": "landscape",
+      "kind": "word",
+      "zh": "n. 风景, 山水, 风景画\nvi. 从事景观美化\nvt. 美化...景观\n[计] 横向",
+      "en": "n. an expanse of scenery that can be seen in a single view\nn. painting depicting an expanse of natural scenery\nn. a genre of art dealing with the depiction of natural scenery\nn. an extensive mental viewpoint",
+      "phonetic": "'lændskeip",
+      "forms": [
+        "landscape"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "juvenile",
+      "headword": "juvenile",
+      "kind": "word",
+      "zh": "n. 少年, 少年读物\na. 少年的, 不成熟的, 适于少年的",
+      "en": "n. a young person, not fully developed\na. of or relating to or characteristic of or appropriate for children or young people",
+      "phonetic": "'dʒu:vinail",
+      "forms": [
+        "juvenile"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "attached",
+      "headword": "attach",
+      "kind": "word",
+      "zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\nvi. 附属, 归属, 联系在一起\n[计] 挂接服务器命令, 关联, 挂接, 附加",
+      "en": "v. cause to be attached\nv. be attached; be in contact with\nv. become attached",
+      "phonetic": "ә'tætʃ",
+      "forms": [
+        "attached"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "shells",
+      "headword": "shell",
+      "kind": "word",
+      "zh": "n. 贝壳, 壳, 外形, 炮弹\nvt. 去壳, 脱落, 炮轰\nvi. 剥落, 脱壳\n[计] 外壳; DOS内部命令:指定命令行处理程序",
+      "en": "n. ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun\nn. the material that forms the hard outer covering of many animals\nn. the hard usually fibrous outer layer of some fruits especially nuts\nn. the exterior covering of a bird's egg",
+      "phonetic": "ʃel",
+      "forms": [
+        "shells"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "specialist",
+      "headword": "specialist",
+      "kind": "word",
+      "zh": "n. 专门医师, 专家\na. 专业的, 专家的",
+      "en": "n. an expert who is devoted to one occupation or branch of learning\nn. practices one branch of medicine",
+      "phonetic": "'speiʃәlist",
+      "forms": [
+        "specialist"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "harmless",
+      "headword": "harmless",
+      "kind": "word",
+      "zh": "a. 无害处的, 未受损害的, 无辜的, 无恶意的\n[法] 无害的, 无恶意的, 无损害的",
+      "en": "a. not causing or capable of causing harm",
+      "phonetic": "'hɑ:mlis",
+      "forms": [
+        "harmless"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "resin",
+      "headword": "resin",
+      "kind": "word",
+      "zh": "n. 树脂\nvt. 涂树脂于",
+      "en": "n. any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules",
+      "phonetic": "'rezin",
+      "forms": [
+        "resin"
+      ],
+      "example": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "locations",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "locations"
+      ],
+      "example": "After seven months and over 2,800 satellite locations the results were clear.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "They generally stayed within just 2 miles of the wetland entrance and spent more than 80% of their tracked time inside the marine protected area’s boundary.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "entrance",
+      "headword": "entrance",
+      "kind": "word",
+      "zh": "n. 入口, 进入点, 入场, 入学, 进入, 开始(阶段), 就任\nvt. 使出神, 使入迷\n[计] 入口",
+      "en": "n. something that provides access (to get in or get out)\nn. a movement into or inward\nn. the act of entering\nv. put into a trance",
+      "phonetic": "'entrәns",
+      "forms": [
+        "entrance"
+      ],
+      "example": "They generally stayed within just 2 miles of the wetland entrance and spent more than 80% of their tracked time inside the marine protected area’s boundary.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "boundary",
+      "headword": "boundary",
+      "kind": "word",
+      "zh": "n. 边界, 分界线\n[计] 边界",
+      "en": "n. the line or plane indicating the limit or extent of something\nn. a line determining the limits of an area",
+      "phonetic": "'baundri",
+      "forms": [
+        "boundary"
+      ],
+      "example": "They generally stayed within just 2 miles of the wetland entrance and spent more than 80% of their tracked time inside the marine protected area’s boundary.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "surprising",
+      "headword": "surprise",
+      "kind": "word",
+      "zh": "n. 惊奇, 奇袭, 诧异\nvt. 使惊奇, 撞见, 奇袭",
+      "en": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised",
+      "phonetic": "sә'praiz",
+      "forms": [
+        "surprising"
+      ],
+      "example": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "popularity",
+      "headword": "popularity",
+      "kind": "word",
+      "zh": "n. 名声, 受大众欢迎, 流行",
+      "en": "n. the quality of being widely admired or accepted or sought after",
+      "phonetic": ".pɒpju'læriti",
+      "forms": [
+        "popularity"
+      ],
+      "example": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "saltwater",
+      "headword": "saltwater",
+      "kind": "word",
+      "zh": "a. 盐水的, 海产的, 海上的",
+      "en": "n water containing salts",
+      "phonetic": "'sɒ:ltwɒ:tә",
+      "forms": [
+        "saltwater"
+      ],
+      "example": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "extending",
+      "headword": "extend",
+      "kind": "word",
+      "zh": "v. 扩充, 延伸, 伸展, 扩大\n[计] 扩展",
+      "en": "v. make available; provide\nv. reach outward in space\nv. expand the influence of\nv. open or straighten out; unbend",
+      "phonetic": "ik'stend",
+      "forms": [
+        "extending"
+      ],
+      "example": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "The turtles were around five times more likely to be found there than elsewhere in the wetland, and 77% of their core-use areas were concentrated within it.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "concentrated",
+      "headword": "concentrate",
+      "kind": "word",
+      "zh": "n. 浓缩, 精选\nv. 集中, 专心",
+      "en": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something",
+      "phonetic": "'kɒnsәntreit",
+      "forms": [
+        "concentrated"
+      ],
+      "example": "The turtles were around five times more likely to be found there than elsewhere in the wetland, and 77% of their core-use areas were concentrated within it.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "favoured",
+      "headword": "favour",
+      "kind": "word",
+      "zh": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+      "en": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
+      "phonetic": "'feivә",
+      "forms": [
+        "favoured"
+      ],
+      "example": "We cannot say for certain why the turtles favoured the basin.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "algae",
+      "headword": "alga",
+      "kind": "word",
+      "zh": "n. 藻类, 海藻\n[机] 藻",
+      "en": "n. primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves",
+      "phonetic": "'ælgә",
+      "forms": [
+        "algae"
+      ],
+      "example": "One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "enclosed",
+      "headword": "enclose",
+      "kind": "word",
+      "zh": "vt. 围绕, 圈起, 放入封套, 附上",
+      "en": "v. close in; darkness enclosed him\"\nv. surround completely",
+      "phonetic": "in'klәuz",
+      "forms": [
+        "enclosed"
+      ],
+      "example": "One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "layout",
+      "headword": "layout",
+      "kind": "word",
+      "zh": "n. 布局, 陈列, 规划图, 页面布局, 版面编排\n[计] 页面布局, 版面",
+      "en": "n. a plan or design of something that is laid out\nn. the act of laying out (as by making plans for something)",
+      "phonetic": "'leiaut",
+      "forms": [
+        "layout"
+      ],
+      "example": "One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "predators",
+      "headword": "predator",
+      "kind": "word",
+      "zh": "n. 食肉动物, 掠夺者\n[医] 捕食者",
+      "en": "n. any animal that lives by preying on other animals",
+      "phonetic": "'predәtә",
+      "forms": [
+        "predators"
+      ],
+      "example": "One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "Whatever the explanation, the findings suggest that wildlife can make use of human-modified environments.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "modified",
+      "headword": "modify",
+      "kind": "word",
+      "zh": "vt. 修正, 变更, 修饰, 缓和, 减轻\nvi. 被修改\n[计] 修改",
+      "en": "v. make less severe or harsh or extreme\nv. add a modifier to a constituent",
+      "phonetic": "'mɒdifai",
+      "forms": [
+        "modified"
+      ],
+      "example": "Whatever the explanation, the findings suggest that wildlife can make use of human-modified environments.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "substitute",
+      "headword": "substitute",
+      "kind": "word",
+      "zh": "n. 代理, 代理人, 代用品, 代替者, 代替物\nvt. 代替\nvi. 替代, 取代, 代用\na. 代替的, 代用的, 代用品的\n[计] 置换; 替代",
+      "en": "n. a person or thing that takes or can take the place of another\nn. an athlete who plays only when a starter on the team is replaced\nv. put in the place of another; switch seemingly equivalent items\nv. be a substitute",
+      "phonetic": "'sʌbstitju:t",
+      "forms": [
+        "substitute"
+      ],
+      "example": "However, this is no substitute for protecting natural habitats.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "natural habitats",
+      "headword": "natural habitats",
+      "kind": "phrase",
+      "zh": "自然生境",
+      "en": "the environments where organisms naturally live",
+      "forms": [
+        "natural habitats"
+      ],
+      "example": "However, this is no substitute for protecting natural habitats.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v95",
+      "term": "restored",
+      "headword": "restore",
+      "kind": "word",
+      "zh": "vt. 回复, 恢复, 归还, 修补, 修复\nvt. 还原\nvi. 还原\n[计] 还原; DOS外部命令:从备份盘中取回文件",
+      "en": "v. return to its original or usable and functioning condition\nv. give or bring back\nv. bring back into original existence, use, function, or position",
+      "phonetic": "ri'stɒ:",
+      "forms": [
+        "restored"
+      ],
+      "example": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "retain",
+      "headword": "retain",
+      "kind": "word",
+      "zh": "vt. 保持, 保有, 留住, 记得, 付定金聘请\n[经] 保留, 留存",
+      "en": "v. hold back within\nv. allow to remain in a place or position or maintain a property or feature\nv. secure and keep for possible future use or application\nv. keep in one's mind",
+      "phonetic": "ri'tein",
+      "forms": [
+        "retain"
+      ],
+      "example": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "preserve",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserve"
+      ],
+      "example": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "ecological",
+      "headword": "ecological",
+      "kind": "word",
+      "zh": "a. 生态学的, 主张生态保护的\n[法] 生态的, 生态学的",
+      "en": "a. characterized by the interdependence of living organisms in an environment\na. of or relating to the science of ecology",
+      "phonetic": ".i:kә'lɒdʒikәl",
+      "forms": [
+        "ecological"
+      ],
+      "example": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "depend",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depend"
+      ],
+      "example": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "embarked",
+      "headword": "embark",
+      "kind": "word",
+      "zh": "vi. 乘船, 着手, 从事, 上飞机\nvt. 使上船, 使上飞机, 使从事",
+      "en": "v. go on board\nv. set out on (an enterprise or subject of study)",
+      "phonetic": "im'bɑ:k",
+      "forms": [
+        "embarked"
+      ],
+      "example": "One turtle eventually embarked on a very different journey.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "journey",
+      "headword": "journey",
+      "kind": "word",
+      "zh": "n. 旅程, 旅行, 行程\nvi. 旅行\nvt. 游历",
+      "en": "n. the act of traveling from one place to another",
+      "phonetic": "'dʒә:ni",
+      "forms": [
+        "journey"
+      ],
+      "example": "One turtle eventually embarked on a very different journey.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "island",
+      "headword": "island",
+      "kind": "word",
+      "zh": "n. 岛, 岛屿, 孤立地区, 安全岛\nvt. 使成岛状, 孤立",
+      "en": "n. a land mass (smaller than a continent) that is surrounded by water\nn. a zone or area resembling an island",
+      "phonetic": "'ailәnd",
+      "forms": [
+        "island"
+      ],
+      "example": "After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "neighbouring",
+      "headword": "neighbour",
+      "kind": "word",
+      "zh": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
+      "en": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighbouring"
+      ],
+      "example": "After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "oman",
+      "headword": "Oman",
+      "kind": "word",
+      "zh": "n. 阿曼",
+      "en": "n. a strategically located monarchy on the southern and eastern coasts of the Arabian Peninsula; the economy is dominated by oil",
+      "phonetic": "әu'mɑ:n",
+      "forms": [
+        "oman"
+      ],
+      "example": "After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "remarkable",
+      "headword": "remarkable",
+      "kind": "word",
+      "zh": "a. 不平常的, 值得注意的, 显著的",
+      "en": "s. unusual or striking",
+      "phonetic": "ri'mɑ:kәbl",
+      "forms": [
+        "remarkable"
+      ],
+      "example": "This remarkable journey highlights how a small coastal wetland can be important to young turtles before they move into wider waters.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "highlights",
+      "headword": "highlight",
+      "kind": "word",
+      "zh": "n. 加亮区, 精彩场面\nvt. 加亮, 使显著, 以强光照射, 突出\n[计] 突出",
+      "en": "n. the most interesting or memorable part\nn. an area of lightness in a picture\nv. apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "phonetic": "'hailait",
+      "forms": [
+        "highlights"
+      ],
+      "example": "This remarkable journey highlights how a small coastal wetland can be important to young turtles before they move into wider waters.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "connecting",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connecting"
+      ],
+      "example": "The main natural channel connecting the ocean to the mangroves and basin currently lies outside the marine protected area.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "The main natural channel connecting the ocean to the mangroves and basin currently lies outside the marine protected area.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "currently",
+      "headword": "currently",
+      "kind": "word",
+      "zh": "adv. 现在, 当前, 一般, 普通\n[计] 当前",
+      "en": "r at this time or period; now",
+      "phonetic": "'kʌrәntli",
+      "forms": [
+        "currently"
+      ],
+      "example": "The main natural channel connecting the ocean to the mangroves and basin currently lies outside the marine protected area.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "frequently",
+      "headword": "frequently",
+      "kind": "word",
+      "zh": "adv. 频繁, 经常地",
+      "en": "r. many times at short intervals",
+      "phonetic": "'fri:kwәntli",
+      "forms": [
+        "frequently"
+      ],
+      "example": "Although the turtles used this channel less frequently overall, they gathered there at low tide, possibly waiting for rising water to allow them to move back into the wetland.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Although the turtles used this channel less frequently overall, they gathered there at low tide, possibly waiting for rising water to allow them to move back into the wetland.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "gathered",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gathered"
+      ],
+      "example": "Although the turtles used this channel less frequently overall, they gathered there at low tide, possibly waiting for rising water to allow them to move back into the wetland.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "tide",
+      "headword": "tide",
+      "kind": "word",
+      "zh": "n. 潮, 潮汐, 趋势, 潮流, 涨潮, 高潮\nvt. 使随潮漂流\nvi. 顺潮行驶",
+      "en": "n. the periodic rise and fall of the sea level under the gravitational pull of the moon\nn. something that may increase or decrease (like the tides of the sea)\nn. there are usually two high and two low tides each day\nv. rise or move forward",
+      "phonetic": "taid",
+      "forms": [
+        "tide"
+      ],
+      "example": "Although the turtles used this channel less frequently overall, they gathered there at low tide, possibly waiting for rising water to allow them to move back into the wetland.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "possibly",
+      "headword": "possibly",
+      "kind": "word",
+      "zh": "adv. 可能, 也许",
+      "en": "r. by chance\nr. to a degree possible of achievement or by possible means",
+      "phonetic": "'pɒsәbli",
+      "forms": [
+        "possibly"
+      ],
+      "example": "Although the turtles used this channel less frequently overall, they gathered there at low tide, possibly waiting for rising water to allow them to move back into the wetland.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "strengthen",
+      "headword": "strengthen",
+      "kind": "word",
+      "zh": "vt. 加强, 变坚固\nvi. 变强, 股票上涨",
+      "en": "v. make strong or stronger\nv. gain strength",
+      "phonetic": "'streŋθәn",
+      "forms": [
+        "strengthen"
+      ],
+      "example": "Extending protection to include this connecting channel could therefore strengthen the conservation value of the entire system.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "underline",
+      "headword": "underline",
+      "kind": "word",
+      "zh": "vt. 在...下面划线, 作...的衬里, 强调\nn. 下划线, 图下说明文字\n[计] 加下划线; 下划线",
+      "en": "v. draw a line or lines underneath to call attention to",
+      "phonetic": "'ʌndәlain",
+      "forms": [
+        "underline"
+      ],
+      "example": "Our findings underline the importance of protecting natural coastal wetlands.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "importance",
+      "headword": "importance",
+      "kind": "word",
+      "zh": "n. 重要, 重要性, 重要地位, 自大\n[机] 重要, 重要性",
+      "en": "n. the quality of being important and worthy of note\nn. a prominent status",
+      "phonetic": "im'pɒ:tәns",
+      "forms": [
+        "importance"
+      ],
+      "example": "Our findings underline the importance of protecting natural coastal wetlands.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "Protecting the remaining wetlands at Kalba, including the connections between them and the ocean, is an important step towards securing a future for the young turtles that depend on them.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "securing",
+      "headword": "secure",
+      "kind": "word",
+      "zh": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的\nvt. 固定, 获得, 保证, 使安全, 掩护, 招致\nvi. 停止操作, 船抛锚",
+      "en": "v. assure payment of\na. free from fear or doubt; easy in mind\na. free from danger or risk\na. not likely to fail or give way",
+      "phonetic": "si'kjuә",
+      "forms": [
+        "securing"
+      ],
+      "example": "Protecting the remaining wetlands at Kalba, including the connections between them and the ocean, is an important step towards securing a future for the young turtles that depend on them.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      14
+    ],
+    "wordBank": [
+      "locations",
+      "concentrated",
+      "intended",
+      "popularity",
+      "ecological",
+      "wildlife",
+      "escaped",
+      "remarkable",
+      "subspecies",
+      "attached"
+    ],
+    "parts": [
+      {
+        "text": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " found only in this region. Young green turtles also swim through its winding mangrove channels.\n\nAlthough the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " human development. The city of Kalba surrounds much of the site, and a large human-made basin (like a lagoon) was built alongside the natural mangroves in the early 2000s as a proposed recreational and commercial waterfront. The basin was never used for its "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " recreational purposes and has since been incorporated into the protected area.\n\nTo understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " satellite tags to their shells using a specialist, harmless resin. After the turtles were released, the tags allowed us to follow their movements.\n\nAfter seven months and over 2,800 satellite "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " the results were clear. We found Kalba’s wetlands were a critical habitat for all nine turtles. They generally stayed within just 2 miles of the wetland entrance and spent more than 80% of their tracked time inside the marine protected area’s boundary.\n\nBasin benefits\n\nOne of the more surprising findings was the "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " of the human-made basin (similar to a saltwater lagoon extending from the mangroves). The turtles were around five times more likely to be found there than elsewhere in the wetland, and 77% of their core-use areas were "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " within it.\n\nWe cannot say for certain why the turtles favoured the basin. One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators. Whatever the explanation, the findings suggest that "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " can make use of human-modified environments.\n\nHowever, this is no substitute for protecting natural habitats. Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " processes they depend on may offer the greatest benefits for wildlife.\n\nOne turtle eventually embarked on a very different journey. After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman. This "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " journey highlights how a small coastal wetland can be important to young turtles before they move into wider waters."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "subspecies",
+        "vocabularyId": "v51",
+        "explanation": "原文此处使用 subspecies（subspecies）。结合上下文辨认词义与词形。",
+        "evidence": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "escaped",
+        "vocabularyId": "v57",
+        "explanation": "原文此处使用 escaped（escape）。结合上下文辨认词义与词形。",
+        "evidence": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "intended",
+        "vocabularyId": "v65",
+        "explanation": "原文此处使用 intended（intend）。结合上下文辨认词义与词形。",
+        "evidence": "The basin was never used for its intended recreational purposes and has since been incorporated into the protected area.",
+        "paragraph": 7
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "attached",
+        "vocabularyId": "v71",
+        "explanation": "原文此处使用 attached（attach）。结合上下文辨认词义与词形。",
+        "evidence": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+        "paragraph": 8
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "locations",
+        "vocabularyId": "v76",
+        "explanation": "原文此处使用 locations（location）。结合上下文辨认词义与词形。",
+        "evidence": "After seven months and over 2,800 satellite locations the results were clear.",
+        "paragraph": 9
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "popularity",
+        "vocabularyId": "v81",
+        "explanation": "原文此处使用 popularity（popularity）。结合上下文辨认词义与词形。",
+        "evidence": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
+        "paragraph": 11
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "concentrated",
+        "vocabularyId": "v85",
+        "explanation": "原文此处使用 concentrated（concentrate）。结合上下文辨认词义与词形。",
+        "evidence": "The turtles were around five times more likely to be found there than elsewhere in the wetland, and 77% of their core-use areas were concentrated within it.",
+        "paragraph": 11
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "wildlife",
+        "vocabularyId": "v25",
+        "explanation": "原文此处使用 wildlife（wildlife）。结合上下文辨认词义与词形。",
+        "evidence": "Whatever the explanation, the findings suggest that wildlife can make use of human-modified environments.",
+        "paragraph": 12
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "ecological",
+        "vocabularyId": "v98",
+        "explanation": "原文此处使用 ecological（ecological）。结合上下文辨认词义与词形。",
+        "evidence": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
+        "paragraph": 13
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "remarkable",
+        "vocabularyId": "v105",
+        "explanation": "原文此处使用 remarkable（remarkable）。结合上下文辨认词义与词形。",
+        "evidence": "This remarkable journey highlights how a small coastal wetland can be important to young turtles before they move into wider waters.",
+        "paragraph": 14
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Research documents an increase in foggy days in southern Australia and explores its causes.",
+          "Both artificial and natural wetlands can provide important habitat for young turtles.",
+          "Humidity increases the danger of heatwaves and deserves greater attention in public warnings.",
+          "Periods without wind or sunshine create challenges for electricity systems that depend on renewables."
+        ],
+        "answer": 1,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
+        "paragraph": 8
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What does the turtle study suggest about human-made environments?",
+        "options": [
+          "They make all natural habitats unnecessary.",
+          "They are necessarily unusable by every species.",
+          "They prevent every connection with the open sea.",
+          "Some can support wildlife as well as natural habitats."
+        ],
+        "answer": 3,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "But we also found that nature can find a way to thrive in unexpected, human-made environments too.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 7?",
+        "options": [
+          "So protecting these habitats and the connections between wetlands, artificial environments and the open sea is essential to ensuring wildlife can persist in an increasingly human-shaped world.",
+          "In a new study, my colleagues and I used satellite tags to track young green turtles in a protected wetland in Sharjah, UAE.",
+          "Our results reveal just how important these remaining natural spaces are to young turtles.",
+          "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development."
+        ],
+        "answer": 3,
+        "explanation": "定位第 7 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
+        "paragraph": 7
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.”",
+        "options": [
+          "Paragraph 8",
+          "Paragraph 16",
+          "Paragraph 13",
+          "Paragraph 12"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 12 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "One possibility is that algae growing on its floor provides food, while its enclosed layout may offer shelter from larger predators.",
+        "paragraph": 12
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 4",
+          "Paragraph 14",
+          "Paragraph 12"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "After remaining in the wetland for 93 days, it travelled over 500 miles to Masirah Island in neighbouring Oman.",
+        "paragraph": 14
+      }
+    ]
+  },
+  "revision": "9be7dd73bbb78317f82b4700480f04c7b80b823312868fe2edd11b924382ee5b"
+}

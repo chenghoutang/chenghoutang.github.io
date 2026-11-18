@@ -1,0 +1,2972 @@
+{
+  "schemaVersion": 1,
+  "folder": "071",
+  "articleSha256": "e38b15748f7b1eb2b1111093fcae432513d31d6d3d02a677f9b08f197b0b4fea",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "computer games",
+      "headword": "computer games",
+      "kind": "phrase",
+      "zh": "电脑游戏",
+      "en": "games played using computer systems",
+      "forms": [
+        "computer games"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v2",
+      "term": "portrays",
+      "headword": "portray",
+      "kind": "word",
+      "zh": "vt. 描绘, 描写, 描绘...的肖像",
+      "en": "v. portray in words\nv. make a portrait of\nv. represent abstractly, for example in a painting, drawing, or sculpture",
+      "phonetic": "pɒ:'trei",
+      "forms": [
+        "portrays"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "medieval",
+      "headword": "medieval",
+      "kind": "word",
+      "zh": "a. 中古的, 中世纪的",
+      "en": "a. relating to or belonging to the Middle Ages\ns. as if belonging to the Middle Ages; old-fashioned and unenlightened",
+      "phonetic": ".medi'i:vl",
+      "forms": [
+        "medieval"
+      ],
+      "example": "Leisure activities are often overlooked, despite the fact that they existed in one form or another at most – if not all – levels of medieval society.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "medieval life",
+      "headword": "medieval life",
+      "kind": "phrase",
+      "zh": "中世纪生活",
+      "en": "life during the medieval period",
+      "forms": [
+        "medieval life"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v5",
+      "term": "dominated",
+      "headword": "dominate",
+      "kind": "word",
+      "zh": "v. 支配, 占优势",
+      "en": "v. be in control\nv. have dominance or the power to defeat over\nv. look down on",
+      "phonetic": "'dɒmineit",
+      "forms": [
+        "dominated"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "fighters",
+      "headword": "fighter",
+      "kind": "word",
+      "zh": "n. 斗士, 战士, 好战者, 战斗机",
+      "en": "n. a high-speed military or naval airplane designed to destroy enemy aircraft in the air",
+      "phonetic": "'faitә",
+      "forms": [
+        "fighters"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "farmers",
+      "headword": "farmer",
+      "kind": "word",
+      "zh": "n. 农夫, 农场主\n[法] 农民, 农场主, 承包者",
+      "en": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)",
+      "phonetic": "'fɑ:mә",
+      "forms": [
+        "farmers"
+      ],
+      "example": "Popular media, from computer games to movies, often portrays medieval life as being\ndominated by fighters and farmers. In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "depictions",
+      "headword": "depiction",
+      "kind": "word",
+      "zh": "n. 描写, 叙述",
+      "en": "n. representation by drawing or painting etc",
+      "phonetic": "di'pikʃәn",
+      "forms": [
+        "depictions"
+      ],
+      "example": "In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "struggle",
+      "headword": "struggle",
+      "kind": "word",
+      "zh": "n. 斗争, 努力, 奋斗\nvi. 努力, 奋斗, 挣扎",
+      "en": "n. an energetic attempt to achieve something\nn. strenuous effort\nv. to exert strenuous effort against opposition",
+      "phonetic": "'strʌgl",
+      "forms": [
+        "struggle"
+      ],
+      "example": "In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "subsistence",
+      "headword": "subsistence",
+      "kind": "word",
+      "zh": "n. 生存, 生活\n[医] 生存",
+      "en": "n. minimal (or marginal) resources for subsisting\nn. a means of surviving\nn. the state of existing in reality; having substance",
+      "phonetic": "sәb'sistәns",
+      "forms": [
+        "subsistence"
+      ],
+      "example": "In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "leisure",
+      "headword": "leisure",
+      "kind": "word",
+      "zh": "n. 空闲, 闲暇, 悠闲\na. 空闲的, 有闲的",
+      "en": "n. time available for ease and relaxation\nn. freedom to choose a pastime or enjoyable activity",
+      "phonetic": "'li:ʒә",
+      "forms": [
+        "leisure"
+      ],
+      "example": "Leisure activities are often overlooked, despite the fact that they existed in one form or another at most – if not all – levels of medieval society.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "overlooked",
+      "headword": "overlook",
+      "kind": "word",
+      "zh": "vt. 俯瞰, 远眺, 没注意到\nn. 眺望, 俯瞰到的景色",
+      "en": "n. a high place affording a good view\nv. look past, fail to notice\nv. watch over",
+      "phonetic": ".әuvә'luk",
+      "forms": [
+        "overlooked"
+      ],
+      "example": "Leisure activities are often overlooked, despite the fact that they existed in one form or another at most – if not all – levels of medieval society.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "intangible",
+      "headword": "intangible",
+      "kind": "word",
+      "zh": "a. 难以明了的, 无形的\n[经] 无形的",
+      "en": "n. assets that are saleable though not material or physical\na. (of especially business assets) not having physical substance or intrinsic productive value\na. incapable of being perceived by the senses especially the sense of touch\ns. hard to pin down or identify",
+      "phonetic": "in'tændʒәbl",
+      "forms": [
+        "intangible"
+      ],
+      "example": "The intangible nature of much of the evidence, often coupled with poor preservation of physical objects, can help explain this.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "preservation",
+      "headword": "preservation",
+      "kind": "word",
+      "zh": "n. 保存, 保藏, 保护\n[医] 保藏, 保存, 防腐",
+      "en": "n. the activity of protecting something from loss or danger\nn. the condition of being (well or ill) preserved\nn. a process that saves organic substances from decay",
+      "phonetic": ".prezә'veiʃәn",
+      "forms": [
+        "preservation"
+      ],
+      "example": "The intangible nature of much of the evidence, often coupled with poor preservation of physical objects, can help explain this.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "archaeological",
+      "headword": "archaeological",
+      "kind": "word",
+      "zh": "a. 考古学的, 考古学上的",
+      "en": "a. related to or dealing with or devoted to archaeology",
+      "phonetic": ".ɑ:kiә'lɒdʒikl",
+      "forms": [
+        "archaeological"
+      ],
+      "example": "However, when conditions are right, archaeological remains can shed light on the extra-curricular activities of medieval folk.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "shed",
+      "headword": "shed",
+      "kind": "word",
+      "zh": "n. 车棚, 小屋, 脱落之物, 分水岭\nvt. 使流出, 放射, 脱落, 散发, 摆脱\nvi. 流出, 散布, 脱落",
+      "en": "n. an outbuilding with a single story; used for shelter or storage\nv. get rid of\nv. cast off hair, skin, horn, or feathers",
+      "phonetic": "ʃed",
+      "forms": [
+        "shed"
+      ],
+      "example": "However, when conditions are right, archaeological remains can shed light on the extra-curricular activities of medieval folk.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "folk",
+      "headword": "folk",
+      "kind": "word",
+      "zh": "n. 人们, 家人, 亲属, 民族\na. 民间的",
+      "en": "n. people in general (often used in the plural)",
+      "phonetic": "fәuk",
+      "forms": [
+        "folk"
+      ],
+      "example": "However, when conditions are right, archaeological remains can shed light on the extra-curricular activities of medieval folk.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "My colleagues and I found abundant evidence of life’s luxuries at the site of Caherconnell Cashel in the Burren region of western Ireland.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "abundant",
+      "headword": "abundant",
+      "kind": "word",
+      "zh": "a. 丰富的, 充分的, 大量的",
+      "en": "a. present in great quantity",
+      "phonetic": "ә'bʌndәnt",
+      "forms": [
+        "abundant"
+      ],
+      "example": "My colleagues and I found abundant evidence of life’s luxuries at the site of Caherconnell Cashel in the Burren region of western Ireland.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "luxuries",
+      "headword": "luxury",
+      "kind": "word",
+      "zh": "n. 奢侈, 豪华\na. 奢侈的, 豪华的",
+      "en": "n. something that is an indulgence rather than a necessity\nn. wealth as evidenced by sumptuous living",
+      "phonetic": "'lʌkʃәri",
+      "forms": [
+        "luxuries"
+      ],
+      "example": "My colleagues and I found abundant evidence of life’s luxuries at the site of Caherconnell Cashel in the Burren region of western Ireland.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "farmstead",
+      "headword": "farmstead",
+      "kind": "word",
+      "zh": "n. 农场及其建筑物",
+      "en": "n. the buildings and adjacent grounds of a farm",
+      "phonetic": "'fɑ:msted",
+      "forms": [
+        "farmstead"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "workshops",
+      "headword": "workshop",
+      "kind": "word",
+      "zh": "n. 工场, 车间, 研讨会\n[计] 讨论会; 专题研究组",
+      "en": "n. small workplace where handcrafts or manufacturing are done\nn. a brief intensive course for a small group; emphasizes problem solving",
+      "phonetic": "'wә:kʃɒp",
+      "forms": [
+        "workshops"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "enclosed",
+      "headword": "enclose",
+      "kind": "word",
+      "zh": "vt. 围绕, 圈起, 放入封套, 附上",
+      "en": "v. close in; darkness enclosed him\"\nv. surround completely",
+      "phonetic": "in'klәuz",
+      "forms": [
+        "enclosed"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "well-preserved",
+      "headword": "well-preserved",
+      "kind": "word",
+      "zh": "a. 保养得很好的",
+      "en": "s. used of older persons who are healthy",
+      "phonetic": "",
+      "forms": [
+        "well-preserved"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "circular",
+      "headword": "circular",
+      "kind": "word",
+      "zh": "a. 圆形的, 循环的, 间接的\n[医] 环状的, 循环的",
+      "en": "n. an advertisement (usually printed on a page or in a leaflet) intended for wide distribution\ns. describing a circle; moving in a circle",
+      "phonetic": "'sә:kjulә",
+      "forms": [
+        "circular"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "stone",
+      "headword": "stone",
+      "kind": "word",
+      "zh": "n. 石头, 宝石, 果核, 纪念碑, 结石\nvt. 投扔石子, 铺石头\na. 石的, 石制的, 完全的",
+      "en": "n. building material consisting of a piece of rock hewn in a definite shape for a special purpose\nn. an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds\nn. the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed\nn. United States jurist who was named chief justice of the United States Supreme Court in 1941 by Franklin D. Roosevelt (1872-1946)",
+      "phonetic": "stәun",
+      "forms": [
+        "stone"
+      ],
+      "example": "Caherconnell Cashel was a farmstead of houses and workshops enclosed within a well-preserved circular dry stone wall.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "settlements",
+      "headword": "settlement",
+      "kind": "word",
+      "zh": "n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降\n[医] 居住区; 沉渣",
+      "en": "n. a conclusive resolution of a matter and disposition of it\nn. something settled or resolved; the outcome of decision making\nn. an area where a group of families live together",
+      "phonetic": "'setlmәnt",
+      "forms": [
+        "settlements",
+        "settlement"
+      ],
+      "example": "Such settlements are also known as ringforts and generally housed a single family (possibly multiple generations).",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "Such settlements are also known as ringforts and generally housed a single family (possibly multiple generations).",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "possibly",
+      "headword": "possibly",
+      "kind": "word",
+      "zh": "adv. 可能, 也许",
+      "en": "r. by chance\nr. to a degree possible of achievement or by possible means",
+      "phonetic": "'pɒsәbli",
+      "forms": [
+        "possibly"
+      ],
+      "example": "Such settlements are also known as ringforts and generally housed a single family (possibly multiple generations).",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "multiple",
+      "headword": "multiple",
+      "kind": "word",
+      "zh": "n. 倍数, 并联\na. 多样的, 许多的, 多功能的",
+      "en": "n. the product of a quantity by an integer\na. having or involving or consisting of more than one part or entity or individual",
+      "phonetic": "'mʌltipl",
+      "forms": [
+        "multiple"
+      ],
+      "example": "Such settlements are also known as ringforts and generally housed a single family (possibly multiple generations).",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "wealthy",
+      "headword": "wealthy",
+      "kind": "word",
+      "zh": "a. 富有的, 丰裕的, 充分的",
+      "en": "s having an abundant supply of money or possessions of value",
+      "phonetic": "'welθi",
+      "forms": [
+        "wealthy",
+        "wealthier"
+      ],
+      "example": "Caherconnell was a large ringfort; the home of wealthy local rulers from the late 10th century AD to the early 17th century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "rulers",
+      "headword": "ruler",
+      "kind": "word",
+      "zh": "n. 统治者, 管理者, 尺, 直尺\nn. 划线板\n[计] 标尺",
+      "en": "n. a person who rules or commands",
+      "phonetic": "'ru:lә",
+      "forms": [
+        "rulers"
+      ],
+      "example": "Caherconnell was a large ringfort; the home of wealthy local rulers from the late 10th century AD to the early 17th century.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "concluded",
+      "headword": "conclude",
+      "kind": "word",
+      "zh": "vt. 结束, 作结论, 推断\nvi. 结束, 推断",
+      "en": "v. bring to a close\nv. reach a conclusion after a discussion or deliberation\nv. come to a close\nv. reach agreement on",
+      "phonetic": "kәn'klu:d",
+      "forms": [
+        "concluded"
+      ],
+      "example": "Our recently concluded excavations revealed all aspects of life at this well-preserved family settlement.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "excavations",
+      "headword": "excavation",
+      "kind": "word",
+      "zh": "n. 挖掘, 发掘, 挖掘的洞\n[医] 陷凹, 挖除",
+      "en": "n. the act of digging\nn. a hole in the ground made by excavating",
+      "phonetic": ".ekskә'veiʃәn",
+      "forms": [
+        "excavations"
+      ],
+      "example": "Our recently concluded excavations revealed all aspects of life at this well-preserved family settlement.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "aspects",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspects"
+      ],
+      "example": "Our recently concluded excavations revealed all aspects of life at this well-preserved family settlement.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v37",
+      "term": "farming",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farming"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "crafts",
+      "headword": "craft",
+      "kind": "word",
+      "zh": "n. 技艺, 手艺, 诡计\nvt. 精心制作",
+      "en": "n. a vehicle designed for navigation in or on water or air or through outer space\nn. people who perform a particular kind of skilled work\nn. skill in an occupation or trade\nn. shrewdness as demonstrated by being skilled in deception",
+      "phonetic": "kræft",
+      "forms": [
+        "crafts"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "recovered",
+      "headword": "recover",
+      "kind": "word",
+      "zh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉\n[计] 恢复",
+      "en": "v. get or find back; recover the use of\nv. regain a former condition after a financial loss\nv. regain or make up for\nv. cover anew",
+      "phonetic": "ri'kʌvә",
+      "forms": [
+        "recovered"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "mundane",
+      "headword": "mundane",
+      "kind": "word",
+      "zh": "a. 现世的, 世俗的, 宇宙的",
+      "en": "s. concerned with the world or worldly matters\ns. belonging to this earth or world; not ideal or heavenly; yet a mundane wonder of unimagined kind\"",
+      "phonetic": "'mʌndein",
+      "forms": [
+        "mundane"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "literacy",
+      "headword": "literacy",
+      "kind": "word",
+      "zh": "n. 读写能力, 识字, 精通文学",
+      "en": "n. the ability to read and write",
+      "phonetic": "'litәrәsi",
+      "forms": [
+        "literacy"
+      ],
+      "example": "While activities such as fighting, farming, industry and crafts were clearly represented in material recovered from the site, so too were the less mundane activities of game playing, literacy, and music.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "pens",
+      "headword": "pen",
+      "kind": "word",
+      "zh": "n. 钢笔, 笔, 笔调, 笔杆子, 作家, 围栏, 栅栏, 禽畜\nvt. 写, 关入栏中, 囚禁\nvi. 动笔, 写作",
+      "en": "n. a writing implement with a point from which ink flows\nn. an enclosure for confining livestock\nn. female swan",
+      "phonetic": "pen",
+      "forms": [
+        "pens"
+      ],
+      "example": "Games, pens and harps",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "harps",
+      "headword": "harp",
+      "kind": "word",
+      "zh": "n. 竖琴\nvi. 弹奏竖琴, 不停地说",
+      "en": "n. a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers\nn. a pair of curved vertical supports for a lampshade\nv. come back to\nv. play the harp",
+      "phonetic": "hɑ:p",
+      "forms": [
+        "harps"
+      ],
+      "example": "Games, pens and harps",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "extent",
+      "headword": "extent",
+      "kind": "word",
+      "zh": "n. 范围, 程度, 区域\n[计] 范围",
+      "en": "n. the point or degree to which something extends\nn. the distance or area or volume over which something extends",
+      "phonetic": "ik'stent",
+      "forms": [
+        "extent"
+      ],
+      "example": "The true extent of game playing is undoubtedly lost in the perishable nature of the\nmaterials used extensively in such pursuits – such as wood, leather and textiles. At Caherconnell, however, surviving evidence includes small gaming pieces made of\nbone and antler, metal, clay and stone.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "undoubtedly",
+      "headword": "undoubtedly",
+      "kind": "word",
+      "zh": "adv. 无疑, 必定, 确实地",
+      "en": "r. without doubt; certainly",
+      "phonetic": "ʌn'dajtidli",
+      "forms": [
+        "undoubtedly"
+      ],
+      "example": "The true extent of game playing is undoubtedly lost in the perishable nature of the\nmaterials used extensively in such pursuits – such as wood, leather and textiles. At Caherconnell, however, surviving evidence includes small gaming pieces made of\nbone and antler, metal, clay and stone.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "perishable",
+      "headword": "perishable",
+      "kind": "word",
+      "zh": "a. 易腐坏的, 会枯萎的, 易毁灭的, 不经久的\nn. 易腐坏的东西",
+      "en": "n. food that will decay rapidly if not refrigerated\na. liable to perish; subject to destruction or death or decay",
+      "phonetic": "'periʃәbl",
+      "forms": [
+        "perishable"
+      ],
+      "example": "The true extent of game playing is undoubtedly lost in the perishable nature of the\nmaterials used extensively in such pursuits – such as wood, leather and textiles. At Caherconnell, however, surviving evidence includes small gaming pieces made of\nbone and antler, metal, clay and stone.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "extensively",
+      "headword": "extensively",
+      "kind": "word",
+      "zh": "adv. 广大, 广延, 外延, 大面积(耕种), 粗放, 广博, 广泛, 广阔",
+      "en": "r. in a widespread way",
+      "phonetic": "",
+      "forms": [
+        "extensively"
+      ],
+      "example": "materials used extensively in such pursuits – such as wood, leather and textiles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "pursuits",
+      "headword": "pursuit",
+      "kind": "word",
+      "zh": "n. 追踪, 追求, 追赶, 娱乐, 职业\n[法] 追捕, 追求",
+      "en": "n. the act of pursuing in an effort to overtake or capture\nn. a search for an alternative that meets cognitive criteria",
+      "phonetic": "pә'sju:t",
+      "forms": [
+        "pursuits"
+      ],
+      "example": "materials used extensively in such pursuits – such as wood, leather and textiles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "wood",
+      "headword": "wood",
+      "kind": "word",
+      "zh": "n. 木材, 木制品\nvt. 植林于, 给...添加木柴\nvi. 收集木材",
+      "en": "n. the hard fibrous lignified substance under the bark of trees\nn. United States film actress (1938-1981)\nn. English conductor (1869-1944)\nn. English writer of novels about murders and thefts and forgeries (1814-1887)",
+      "phonetic": "wud",
+      "forms": [
+        "wood"
+      ],
+      "example": "materials used extensively in such pursuits – such as wood, leather and textiles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "leather",
+      "headword": "leather",
+      "kind": "word",
+      "zh": "n. 皮革, 皮制品, 马镫的皮带\nvt. 覆以皮革, 鞭苔, 抽打\na. 皮革的, 皮制的",
+      "en": "n. an animal skin made smooth and flexible by removing the hair and then tanning\nv. whip with a leather strap",
+      "phonetic": "'leðә",
+      "forms": [
+        "leather"
+      ],
+      "example": "materials used extensively in such pursuits – such as wood, leather and textiles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "textiles",
+      "headword": "textile",
+      "kind": "word",
+      "zh": "n. 纺织品, 纺织业\na. 织的, 纺织的",
+      "en": "a. of or relating to fabrics or fabric making",
+      "phonetic": "'tekstail",
+      "forms": [
+        "textiles"
+      ],
+      "example": "materials used extensively in such pursuits – such as wood, leather and textiles.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "surviving",
+      "headword": "survive",
+      "kind": "word",
+      "zh": "vt. 比...活得长, 生存, 生还, 幸免于\nvi. 活下来, 幸存",
+      "en": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)",
+      "phonetic": "sә'vaiv",
+      "forms": [
+        "surviving",
+        "survives",
+        "survive"
+      ],
+      "example": "The true extent of game playing is undoubtedly lost in the perishable nature of the\nmaterials used extensively in such pursuits – such as wood, leather and textiles. At Caherconnell, however, surviving evidence includes small gaming pieces made of\nbone and antler, metal, clay and stone.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "antler",
+      "headword": "antler",
+      "kind": "word",
+      "zh": "n. 鹿角",
+      "en": "n. deciduous horn of a member of the deer family",
+      "phonetic": "'æntlә",
+      "forms": [
+        "antler"
+      ],
+      "example": "One of the more complete finds was an 11th-century barrel-shaped and polished antler gaming piece.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "metal",
+      "headword": "metal",
+      "kind": "word",
+      "zh": "n. 金属, 金属制品, 合金, 本质, 质料\na. 金属制的\nvt. 以金属覆盖",
+      "en": "v. cover with metal",
+      "phonetic": "'metәl",
+      "forms": [
+        "metal"
+      ],
+      "example": "Metal and bone fittings, however, have been found during excavations, including at Caherconnell, where bone and bronze tuning pegs were among the finds.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "clay",
+      "headword": "clay",
+      "kind": "word",
+      "zh": "n. 泥土, 肉体, 黏土\n[化] 粘土",
+      "en": "n. a very fine-grained soil that is plastic when moist but hard when fired\nn. United States general who commanded United States forces in Europe from 1945 to 1949 and who oversaw the Berlin airlift (1897-1978)\nn. United States politician responsible for the Missouri Compromise between free and slave states (1777-1852)",
+      "phonetic": "klei",
+      "forms": [
+        "clay"
+      ],
+      "example": "The true extent of game playing is undoubtedly lost in the perishable nature of the\nmaterials used extensively in such pursuits – such as wood, leather and textiles. At Caherconnell, however, surviving evidence includes small gaming pieces made of\nbone and antler, metal, clay and stone.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "complete",
+      "headword": "complete",
+      "kind": "word",
+      "zh": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+      "en": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form",
+      "phonetic": "kәm'pli:t",
+      "forms": [
+        "complete"
+      ],
+      "example": "One of the more complete finds was an 11th-century barrel-shaped and polished antler gaming piece.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "barrel-shaped",
+      "headword": "barrel-shaped",
+      "kind": "word",
+      "zh": "[医]桶状的",
+      "en": "s having the general shape of a barrel",
+      "phonetic": "'bærəlʃ'eɪpt",
+      "forms": [
+        "barrel-shaped"
+      ],
+      "example": "One of the more complete finds was an 11th-century barrel-shaped and polished antler gaming piece.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "barrel",
+      "headword": "barrel",
+      "kind": "word",
+      "zh": "n. 桶\nvt. 装入桶内",
+      "en": "n. a tube through which a bullet travels when a gun is fired\nn. a cylindrical container that holds liquids\nn. a bulging cylindrical shape; hollow with flat ends\nn. the quantity that a barrel (of any size) will hold",
+      "phonetic": "'bærәl",
+      "forms": [
+        "barrel"
+      ],
+      "example": "One of the more complete finds was an 11th-century barrel-shaped and polished antler gaming piece.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "polished",
+      "headword": "Polish",
+      "kind": "word",
+      "zh": "a. 波兰的\nn. 波兰人, 上光剂, 光泽, 优雅\nvt. 擦亮, 擦去, 使完美\nvi. 擦亮, 变得光亮",
+      "en": "n. the property of being smooth and shiny\nn. a highly developed state of perfection; having a flawless or impeccable quality\nn. a preparation used in polishing\nn. the Slavic language of Poland",
+      "phonetic": "'pɒliʃ",
+      "forms": [
+        "polished"
+      ],
+      "example": "One of the more complete finds was an 11th-century barrel-shaped and polished antler gaming piece.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "bronze",
+      "headword": "bronze",
+      "kind": "word",
+      "zh": "n. 青铜, 铜像\na. 青铜色的",
+      "en": "n. an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in place of tin\nn. a sculpture made of bronze\nv. give the color and appearance of bronze to something\ns. of the color of bronze",
+      "phonetic": "brɒnz",
+      "forms": [
+        "bronze"
+      ],
+      "example": "A bronze peg or stem runs through its hollow core and projects from its base.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "stem",
+      "headword": "stem",
+      "kind": "word",
+      "zh": "n. 茎, 干, 柄, 船首, 血统, 堵塞物\nvt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行\nvi. 堵住, 逆行",
+      "en": "n. the tube of a tobacco pipe\nv. grow out of, have roots in, originate in\nv. cause to point inward\nv. stop the flow of a liquid",
+      "phonetic": "stem",
+      "forms": [
+        "stem"
+      ],
+      "example": "A bronze peg or stem runs through its hollow core and projects from its base.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "hollow",
+      "headword": "hollow",
+      "kind": "word",
+      "zh": "n. 洞, 窟窿, 山谷\na. 空的, 虚伪的, 空腹的, 凹的\nvi. 形成空洞\nvt. 挖空",
+      "en": "n. a cavity or space in something\nn. a small valley between mountains\nv. remove the interior of\na. not solid; having a space or gap or cavity",
+      "phonetic": "'hɒlәu",
+      "forms": [
+        "hollow"
+      ],
+      "example": "A bronze peg or stem runs through its hollow core and projects from its base.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "core",
+      "headword": "CORE",
+      "kind": "word",
+      "zh": "n. 核心, 果心, 要点\nvt. 挖...的核\n[计] 内核, 核心网",
+      "en": "n. a small group of indispensable persons or things\nn. the center of an object\nn. the central part of the Earth\nn. a cylindrical sample of soil or rock obtained with a hollow drill",
+      "phonetic": "kɒ:",
+      "forms": [
+        "core"
+      ],
+      "example": "A bronze peg or stem runs through its hollow core and projects from its base.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "originally",
+      "headword": "originally",
+      "kind": "word",
+      "zh": "adv. 本来, 原来, 最初, 就起源而论, 独创地",
+      "en": "r. in an original manner",
+      "phonetic": "ә'ridʒәnli",
+      "forms": [
+        "originally"
+      ],
+      "example": "It originally had a plate or cap at the top, the loss of which may have resulted in the piece being discarded or set aside for repair.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "plate",
+      "headword": "plate",
+      "kind": "word",
+      "zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)\nvt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版",
+      "en": "n. a sheet of metal or wood or glass or plastic\nn. a full-page illustration (usually on slick paper)\nn. dish on which food is served or from which food is eaten\nn. the quantity contained in a plate",
+      "phonetic": "pleit",
+      "forms": [
+        "plate"
+      ],
+      "example": "It originally had a plate or cap at the top, the loss of which may have resulted in the piece being discarded or set aside for repair.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "discarded",
+      "headword": "discard",
+      "kind": "word",
+      "zh": "vt. 丢弃, 抛弃\nvi. 垫牌\nn. 垫牌, 抛弃",
+      "en": "n. anything that is cast aside or discarded\nn. (cards) the act of throwing out a useless card or of failing to follow suit\nn. getting rid something that is regarded as useless or undesirable\nv. throw or cast away",
+      "phonetic": "dis'kɑ:d",
+      "forms": [
+        "discarded"
+      ],
+      "example": "It originally had a plate or cap at the top, the loss of which may have resulted in the piece being discarded or set aside for repair.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "aside",
+      "headword": "aside",
+      "kind": "word",
+      "zh": "n. 小声说的话, 旁白\nadv. 在一边, 离开, 另外",
+      "en": "n. a line spoken by an actor to the audience but not intended for others on the stage\nr. on or to one side\nr. out of the way (especially away from one's thoughts)\nr. placed or kept separate and distinct as for a purpose",
+      "phonetic": "ә'said",
+      "forms": [
+        "aside"
+      ],
+      "example": "It originally had a plate or cap at the top, the loss of which may have resulted in the piece being discarded or set aside for repair.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "repair",
+      "headword": "repair",
+      "kind": "word",
+      "zh": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
+      "en": "n. the act of putting something in working order again\nn. a formal way of referring to the condition of something\nv. restore by replacing a part or putting together what is torn or broken\nv. move, travel, or proceed toward some place",
+      "phonetic": "ri'pєә",
+      "forms": [
+        "repair"
+      ],
+      "example": "It originally had a plate or cap at the top, the loss of which may have resulted in the piece being discarded or set aside for repair.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "pegged",
+      "headword": "peg",
+      "kind": "word",
+      "zh": "n. 钉, 桩, 栓, 藉口, 销子, 借口\nvt. 钉木钉, 固定, 限制, 使受约束\nvi. 坚持不懈地奋力于, 疾行",
+      "en": "n. a wooden pin pushed or driven into a surface\nn. small markers inserted into a surface to mark scores or define locations etc.\nn. a prosthesis that replaces a missing leg\nn. regulator that can be turned to regulate the pitch of the strings of a stringed instrument",
+      "phonetic": "peg",
+      "forms": [
+        "pegged",
+        "pegs"
+      ],
+      "example": "Pegged game pieces like this were used in the Saxon and Viking board game of hnefatafl, a game that appeared in Ireland around the 9th or 10th century AD.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "saxon",
+      "headword": "Saxon",
+      "kind": "word",
+      "zh": "n. 撒克逊人",
+      "en": "n. a member of a Germanic people who conquered England and merged with the Angles and Jutes to become Anglo-Saxons; dominant in England until the Norman Conquest\na. of or relating to or characteristic of the early Saxons or Anglo-Saxons and their descendents (especially the English or Lowland Scots) and their language",
+      "phonetic": "sæksn",
+      "forms": [
+        "saxon"
+      ],
+      "example": "Pegged game pieces like this were used in the Saxon and Viking board game of hnefatafl, a game that appeared in Ireland around the 9th or 10th century AD.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "viking",
+      "headword": "viking",
+      "kind": "word",
+      "zh": "n. 海盗",
+      "en": "n. any of the Scandinavian people who raided the coasts of Europe from the 8th to the 11th centuries",
+      "phonetic": "'vaikiŋ",
+      "forms": [
+        "viking"
+      ],
+      "example": "Pegged game pieces like this were used in the Saxon and Viking board game of hnefatafl, a game that appeared in Ireland around the 9th or 10th century AD.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "training",
+      "headword": "train",
+      "kind": "word",
+      "zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\nvt. 训练, 教育, 对准\nvi. 受训练, 锻炼",
+      "en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching",
+      "phonetic": "trein",
+      "forms": [
+        "training"
+      ],
+      "example": "Hnefatafl, and other games like it, provided both strategy training and entertainment.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "entertainment",
+      "headword": "entertainment",
+      "kind": "word",
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "en": "n. an activity that is diverting and that holds the attention",
+      "phonetic": ".entә'teinmәnt",
+      "forms": [
+        "entertainment"
+      ],
+      "example": "Hnefatafl, and other games like it, provided both strategy training and entertainment.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "implements",
+      "headword": "implement",
+      "kind": "word",
+      "zh": "n. 工具, 器具, 手段\nvt. 实现, 使生效, 执行",
+      "en": "n. instrumentation (a piece of equipment or tool) used to effect an end\nv. apply in a manner consistent with its purpose or design",
+      "phonetic": "'implimәnt",
+      "forms": [
+        "implements"
+      ],
+      "example": "Evidence of literacy at Caherconnell includes writing implements and associated\nequipment. One of our most remarkable finds was an 11th-century pen made from\nbone and bronze. The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "equipment",
+      "headword": "equipment",
+      "kind": "word",
+      "zh": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置",
+      "en": "n. an instrumentality needed for an undertaking or to perform a service",
+      "phonetic": "i'kwipmәnt",
+      "forms": [
+        "equipment"
+      ],
+      "example": "After all, you didn’t need a fancy bronze and antler game set to play games, writing equipment to create stories, or peg-tuned wired instruments to compose and sing a song.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "remarkable",
+      "headword": "remarkable",
+      "kind": "word",
+      "zh": "a. 不平常的, 值得注意的, 显著的",
+      "en": "s. unusual or striking",
+      "phonetic": "ri'mɑ:kәbl",
+      "forms": [
+        "remarkable"
+      ],
+      "example": "Evidence of literacy at Caherconnell includes writing implements and associated\nequipment. One of our most remarkable finds was an 11th-century pen made from\nbone and bronze. The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "slender",
+      "headword": "slender",
+      "kind": "word",
+      "zh": "a. 苗条的, 纤弱的, 微少的, 微薄的\n[机] 细的, 纤细的",
+      "en": "s. being of delicate or slender build\ns. very narrow\ns. having little width in proportion to the length or height\ns. small in quantity",
+      "phonetic": "'slendә",
+      "forms": [
+        "slender"
+      ],
+      "example": "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "shaft",
+      "headword": "shaft",
+      "kind": "word",
+      "zh": "n. 轴, 箭杆, 矛, 矿井\nvt. 装杆于, 利用",
+      "en": "n. a line that forms the length of an arrow pointer\nn. a long rod or pole (especially the handle of an implement or the body of a weapon like a spear or arrow)\nn. a vertical passageway through a building (as for an elevator)\nn. (architecture) upright consisting of the vertical part of a column",
+      "phonetic": "ʃæft",
+      "forms": [
+        "shaft"
+      ],
+      "example": "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "wader",
+      "headword": "wader",
+      "kind": "word",
+      "zh": "n. 涉水者, 涉禽, 高统防水长靴",
+      "en": "n any of many long-legged birds that wade in water in search of food",
+      "phonetic": "'weidә",
+      "forms": [
+        "wader"
+      ],
+      "example": "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "swan",
+      "headword": "swan",
+      "kind": "word",
+      "zh": "n. 天鹅, 天鹅星座, 有才华的诗人\nvi. 闲荡, 蜿蜒而行",
+      "en": "n. stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult\nv. sweep majestically",
+      "phonetic": "swɒn",
+      "forms": [
+        "swan"
+      ],
+      "example": "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "experimental",
+      "headword": "experimental",
+      "kind": "word",
+      "zh": "a. 实验的, 根据实验的\n[医] 实验的",
+      "en": "a. relating to or based on experiment\ns. relying on observation or experiment\ns. of the nature of or undergoing an experiment",
+      "phonetic": "ik.speri'mentәl",
+      "forms": [
+        "experimental"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "archaeologist",
+      "headword": "archaeologist",
+      "kind": "word",
+      "zh": "n. 考古学家",
+      "en": "n an anthropologist who studies prehistoric people and their culture",
+      "phonetic": ".ɑ:ki'ɒlәdʒist",
+      "forms": [
+        "archaeologist",
+        "archaeologists"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "adam",
+      "headword": "Adam",
+      "kind": "word",
+      "zh": "n. 亚当\n[计] 自动直接存取管理",
+      "en": "n. (Old Testament) in Judeo-Christian mythology; the first man and the husband of Eve and the progenitor of the human race\nn. Scottish architect who designed many public buildings in England and Scotland (1728-1792)\nn. street names for methylenedioxymethamphetamine",
+      "phonetic": "'ædәm",
+      "forms": [
+        "adam"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "parsons",
+      "headword": "parson",
+      "kind": "word",
+      "zh": "n. 教区牧师",
+      "en": "n a person authorized to conduct religious worship",
+      "phonetic": "'pɑ:sn",
+      "forms": [
+        "parsons"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "match",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "match"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "radius",
+      "headword": "radius",
+      "kind": "word",
+      "zh": "n. 半径, 范围, 辐射光线\n[电] 半径",
+      "en": "n. the length of a line segment between the center and circumference of a circle or sphere\nn. a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)\nn. a circular region whose area is indicated by the length of its radius\nn. the outer and slightly shorter of the two bones of the human forearm",
+      "phonetic": "'reidiәs",
+      "forms": [
+        "radius"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "tubular",
+      "headword": "tubular",
+      "kind": "word",
+      "zh": "a. 管状的\n[医] 小管的, 管状的",
+      "en": "s. constituting a tube; having hollow tubes (as for the passage of fluids)",
+      "phonetic": "'tju:bjulә",
+      "forms": [
+        "tubular"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "wing",
+      "headword": "wing",
+      "kind": "word",
+      "zh": "n. 翅膀, 翼, 机翼, 派别\nvt. 给...装上翼, 飞过, 使飞, 空运, 增加...速度\nvi. 飞行",
+      "en": "n. a movable organ for flying (one of a pair)\nn. one of the horizontal airfoils on either side of the fuselage of an airplane\nn. a stage area out of sight of the audience\nn. a unit of military aircraft",
+      "phonetic": "wiŋ",
+      "forms": [
+        "wing"
+      ],
+      "example": "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "inserted",
+      "headword": "insert",
+      "kind": "word",
+      "zh": "n. 插入物\nvt. 插入, 把(人造卫星)射入(轨道), 添写\nvi. 附着\n[计] 插入",
+      "en": "n. a folded section placed between the leaves of another publication\nn. an artifact that is inserted or is to be inserted\nv. put or introduce into something\nv. introduce",
+      "phonetic": "in'sә:t",
+      "forms": [
+        "inserted"
+      ],
+      "example": "Inserted into the narrow end of the barrel is a tapering bronze point or nib.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "narrow",
+      "headword": "narrow",
+      "kind": "word",
+      "zh": "n. 狭窄部分, 隘路\na. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的\nvi. 变窄\nvt. 使变狭窄",
+      "en": "n. a narrow strait connecting two bodies of water\nv. make or become more narrow or restricted\na. not wide\ns. limited in size or scope",
+      "phonetic": "'nærәu",
+      "forms": [
+        "narrow"
+      ],
+      "example": "Inserted into the narrow end of the barrel is a tapering bronze point or nib.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "tapering",
+      "headword": "taper",
+      "kind": "word",
+      "zh": "n. 带子操作工, 小蜡烛, 尖细, 渐弱, 锥形, 尖塔\na. 尖细的, 分等级的\nv. (使)一头逐渐变细, (使)逐渐减少",
+      "en": "n. a convex shape that narrows toward a point\nn. the property possessed by a shape that narrows toward a point (as a wedge or cone)\nv. diminish gradually",
+      "phonetic": "'teipә",
+      "forms": [
+        "tapering"
+      ],
+      "example": "Inserted into the narrow end of the barrel is a tapering bronze point or nib.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "comparisons",
+      "headword": "comparison",
+      "kind": "word",
+      "zh": "n. 比较, 对照, 比喻\n[经] 比较, 对比",
+      "en": "n. the act of examining resemblances\nn. relation based on similarities and differences\nn. qualities that are comparable",
+      "phonetic": "kәm'pærisn",
+      "forms": [
+        "comparisons"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "secular",
+      "headword": "secular",
+      "kind": "word",
+      "zh": "n. 修道院外的教士\na. 世俗的, 现世的, 长期的",
+      "en": "a. of or relating to the doctrine that rejects religion and religious considerations\na. of or relating to clergy not bound by monastic vows",
+      "phonetic": "'sekjulә",
+      "forms": [
+        "secular"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "context",
+      "headword": "context",
+      "kind": "word",
+      "zh": "n. 上下文, 背景, 来龙去脉\nn. 上下文\n[计] 上下文",
+      "en": "n. discourse that surrounds a language unit and helps to determine its interpretation\nn. the set of facts or circumstances that surround a situation or event",
+      "phonetic": "'kɒntekst",
+      "forms": [
+        "context",
+        "contexts"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "Until now, evidence of early literacy in Ireland has been largely confined to monastic and related church sites.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "confined",
+      "headword": "confine",
+      "kind": "word",
+      "zh": "vt. 限制, 使不外出, 禁闭\nvi. 邻接, 交界\nn. 边缘, 范围, 区域",
+      "en": "v. prevent from leaving or from being removed\nv. deprive of freedom; take into confinement",
+      "phonetic": "kәn'fain",
+      "forms": [
+        "confined"
+      ],
+      "example": "Until now, evidence of early literacy in Ireland has been largely confined to monastic and related church sites.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "monastic",
+      "headword": "monastic",
+      "kind": "word",
+      "zh": "a. 修道院的, 僧尼的, 寺院的, 庙宇的, 禁欲生活的\nn. 修道士",
+      "en": "n a male religious living in a cloister and devoting himself to contemplation and prayer and work\ns of communal life sequestered from the world under religious vows",
+      "phonetic": "mә'næstik",
+      "forms": [
+        "monastic"
+      ],
+      "example": "Until now, evidence of early literacy in Ireland has been largely confined to monastic and related church sites.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "external",
+      "headword": "external",
+      "kind": "word",
+      "zh": "n. 外部, 外面\na. 外部的, 客观的, 表面的",
+      "en": "n. outward features\na. happening or arising or located outside or beyond some limits or especially surface\ns. coming from the outside\ns. from or between other countries",
+      "phonetic": "ik'stә:nl",
+      "forms": [
+        "external"
+      ],
+      "example": "At Caherconnell, the pen may have been used in general record keeping and external communications.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "communications",
+      "headword": "communication",
+      "kind": "word",
+      "zh": "n. 交流, 交通, 通讯\n[计] 通信",
+      "en": "n. the activity of communicating; the activity of conveying information\nn. something that is communicated by or to or between people or groups\nn. a connection allowing access between persons or places",
+      "phonetic": "kә.mju:ni'keiʃәn",
+      "forms": [
+        "communications"
+      ],
+      "example": "At Caherconnell, the pen may have been used in general record keeping and external communications.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "reminds",
+      "headword": "remind",
+      "kind": "word",
+      "zh": "vt. 提醒, 使想起",
+      "en": "v. put in the mind of someone",
+      "phonetic": "ri'maind",
+      "forms": [
+        "reminds"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "literate",
+      "headword": "literate",
+      "kind": "word",
+      "zh": "n. 学者\na. 有读写能力的, 精通文学的, 受过教育的",
+      "en": "n. a person who can read and write\na. able to read and write\na. versed in literature; dealing with literature\ns. knowledgeable and educated in one or several fields",
+      "phonetic": "'litәrit",
+      "forms": [
+        "literate"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "occupants",
+      "headword": "occupant",
+      "kind": "word",
+      "zh": "n. 占有者, 居住者, 占用者",
+      "en": "n someone who lives at a particular place for a prolonged period or who was born there",
+      "phonetic": "'ɒkjupәnt",
+      "forms": [
+        "occupants"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "composing",
+      "headword": "compose",
+      "kind": "word",
+      "zh": "vt. 组成, 写作, 作曲, 使平静\nvi. 创作, 排字\n[计] 编写",
+      "en": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet",
+      "phonetic": "kәm'pәuz",
+      "forms": [
+        "composing",
+        "compose"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "reading",
+      "headword": "reading",
+      "kind": "word",
+      "zh": "n. 阅读, 知识, 读物\na. 阅读的",
+      "en": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read",
+      "phonetic": "'ri:diŋ",
+      "forms": [
+        "reading"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "ancestral",
+      "headword": "ancestral",
+      "kind": "word",
+      "zh": "a. 祖先的, 祖传的\n[法] 祖先的, 祖传的",
+      "en": "s. inherited or inheritable by established rules (usually legal rules) of descent\na. of or belonging to or inherited from an ancestor",
+      "phonetic": "æn'sestrәl",
+      "forms": [
+        "ancestral"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "pedigrees",
+      "headword": "pedigree",
+      "kind": "word",
+      "zh": "n. 血统, 家谱, 名门世系\n[法] 家系, 出身, 血统",
+      "en": "n. line of descent of a purebred animal\nn. ancestry of a purebred animal\ns. having a list of ancestors as proof of being a purebred animal",
+      "phonetic": "'pedigri:",
+      "forms": [
+        "pedigrees"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "praise",
+      "headword": "praise",
+      "kind": "word",
+      "zh": "n. 赞美, 称赞, 崇拜\nvt. 称赞, 赞美\nvi. 赞扬, 表扬",
+      "en": "n. an expression of approval and commendation\nn. offering words of homage as an act of worship\nv. express approval of",
+      "phonetic": "preiz",
+      "forms": [
+        "praise"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "poetry",
+      "headword": "poetry",
+      "kind": "word",
+      "zh": "n. 诗, 韵文, 诗歌艺术",
+      "en": "n. literature in metrical form\nn. any communication resembling poetry in beauty or the evocation of feeling",
+      "phonetic": "'pәuitri",
+      "forms": [
+        "poetry"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "epic",
+      "headword": "epic",
+      "kind": "word",
+      "zh": "n. 史诗, 叙事诗\na. 史诗的, 叙事诗的",
+      "en": "s. very imposing or impressive; surpassing the ordinary (especially in size or scale)\na. constituting or having to do with or suggestive of a literary epic",
+      "phonetic": "'epik",
+      "forms": [
+        "epic"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "tales",
+      "headword": "tale",
+      "kind": "word",
+      "zh": "n. 故事, 谎言, 谣言, 陈述, 叙述\n[法] 虚语, 诽语, 谣言",
+      "en": "n a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program\nn a trivial lie",
+      "phonetic": "teil",
+      "forms": [
+        "tales"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "gods",
+      "headword": "God",
+      "kind": "word",
+      "zh": "n. 上帝, 神像, 偶像\nvt. 使神化",
+      "en": "n. the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions\nn. a man of such superior qualities that he seems like a deity to other people",
+      "phonetic": "^ɔd",
+      "forms": [
+        "gods"
+      ],
+      "example": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "musical",
+      "headword": "musical",
+      "kind": "word",
+      "zh": "n. 音乐片, 音乐舞台剧\na. 音乐的, 声音美妙的, 喜爱音乐的",
+      "en": "n. a play or film whose action and dialogue is interspersed with singing and dancing\na. characterized by or capable of producing music\na. talented in or devoted to music\na. characteristic of or resembling or accompanied by music",
+      "phonetic": "'mju:zikl",
+      "forms": [
+        "musical"
+      ],
+      "example": "The musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the construction of various instruments, rarely\nsurvives to the present day.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "rarely",
+      "headword": "rarely",
+      "kind": "word",
+      "zh": "adv. 很少地, 罕有地",
+      "en": "r. not often",
+      "phonetic": "'rєәli",
+      "forms": [
+        "rarely"
+      ],
+      "example": "The musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the construction of various instruments, rarely\nsurvives to the present day.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "construction",
+      "headword": "construction",
+      "kind": "word",
+      "zh": "n. 建筑, 构造, 建筑物\n[化] 施工",
+      "en": "n. the act of constructing something\nn. a group of words that form a constituent of a sentence and are considered as a single unit\nn. the creation of a construct; the process of combining ideas into a congruous object of thought\nn. drawing a figure satisfying certain conditions as part of solving a problem or proving a theorem",
+      "phonetic": "kәn'strʌkʃәn",
+      "forms": [
+        "construction"
+      ],
+      "example": "The musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the construction of various instruments, rarely\nsurvives to the present day.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "instruments",
+      "headword": "instrument",
+      "kind": "word",
+      "zh": "n. 工具, 手段, 仪器\n[化] 仪器",
+      "en": "n. a device that requires skill for proper use\nn. the means whereby some act is accomplished\nn. a person used by another to gain an end\nv. equip with instruments for measuring, recording, or controlling",
+      "phonetic": "'instrumәnt",
+      "forms": [
+        "instruments",
+        "instrument"
+      ],
+      "example": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "fittings",
+      "headword": "fittings",
+      "kind": "word",
+      "zh": "n. 家具；设备；配件（fitting的复数）",
+      "en": "n making or becoming suitable; adjusting to circumstances\nn a small and often standardized accessory to a larger system\nn (usually plural) furnishings and equipment (especially for a ship or hotel)\nn putting clothes on to see whether they fit",
+      "phonetic": "",
+      "forms": [
+        "fittings"
+      ],
+      "example": "Metal and bone fittings, however, have been found during excavations, including at Caherconnell, where bone and bronze tuning pegs were among the finds.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "tuning",
+      "headword": "tune",
+      "kind": "word",
+      "zh": "n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度\nvt. 为...调音, 调整, 调谐, 使一致\nvi. 协调, 调谐",
+      "en": "n. a succession of notes forming a distinctive sequence\nn. the property of producing accurately a note of a given pitch\nn. the adjustment of a radio receiver or other circuit to a required frequency\nv. adjust for (better) functioning",
+      "phonetic": "tju:n",
+      "forms": [
+        "tuning"
+      ],
+      "example": "Metal and bone fittings, however, have been found during excavations, including at Caherconnell, where bone and bronze tuning pegs were among the finds.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "readily",
+      "headword": "readily",
+      "kind": "word",
+      "zh": "adv. 迅速地, 轻易地, 乐意地",
+      "en": "r. without much difficulty",
+      "phonetic": "'redili",
+      "forms": [
+        "readily"
+      ],
+      "example": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "identifiable",
+      "headword": "identifiable",
+      "kind": "word",
+      "zh": "a. 可辨认的\n[法] 可证明为同一的, 可以办清的",
+      "en": "a. capable of being identified",
+      "phonetic": "ai'dentifaiәbl",
+      "forms": [
+        "identifiable"
+      ],
+      "example": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "components",
+      "headword": "component",
+      "kind": "word",
+      "zh": "n. 元件, 组件, 成分\na. 组成的, 构成的\n[计] 组件",
+      "en": "n. an abstract part of something\nn. an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
+      "phonetic": "kәm'pәunәnt",
+      "forms": [
+        "components"
+      ],
+      "example": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "stringed",
+      "headword": "stringed",
+      "kind": "word",
+      "zh": "a. 有弦的",
+      "en": "v thread on or as if on a string\nv add as if on a string\nv move or come along\nv stretch out or arrange like a string\nv string together; tie or fasten with a string\nv remove the stringy parts of\nv provide with strings",
+      "phonetic": "striŋd",
+      "forms": [
+        "stringed"
+      ],
+      "example": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "splays",
+      "headword": "splay",
+      "kind": "word",
+      "zh": "vt. 展开, 张开, 使成八字形\nvi. 伸展开\nn. 展开\na. 八字形的, 倾斜的",
+      "en": "n. an outward bevel around a door or window that makes it seem larger\nv. spread open or apart\ns. turned outward in an ungainly manner",
+      "phonetic": "splei",
+      "forms": [
+        "splays"
+      ],
+      "example": "They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "slightly",
+      "headword": "slightly",
+      "kind": "word",
+      "zh": "adv. 些微地, 苗条地",
+      "en": "r. to a small degree or extent",
+      "phonetic": "'slaitli",
+      "forms": [
+        "slightly"
+      ],
+      "example": "They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "rectangular",
+      "headword": "rectangular",
+      "kind": "word",
+      "zh": "a. 成直角的\n[化] 矩形的",
+      "en": "s. having four right angles",
+      "phonetic": "rek'tæŋgjulә",
+      "forms": [
+        "rectangular"
+      ],
+      "example": "They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "block",
+      "headword": "block",
+      "kind": "word",
+      "zh": "n. 街区, 木块, 石块, 块\nvt. 阻塞, 封锁, 使成块状\n[计] 块, 数据块",
+      "en": "n. a solid piece of something (usually having flat rectangular sides)\nn. a rectangular area in a city surrounded by streets and usually containing several buildings\nn. a three-dimensional shape with six square or rectangular sides\nn. a number or quantity of related things dealt with as a unit",
+      "phonetic": "blɒk",
+      "forms": [
+        "block"
+      ],
+      "example": "They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "opposite",
+      "headword": "opposite",
+      "kind": "word",
+      "zh": "a. 相对的, 相反的, 对面的\nprep. 对面\nn. 对立面",
+      "en": "s. being directly across from each other; facing\na. of leaves etc; growing in pairs on either side of a stem\ns. moving or facing away from each other\ns. the other one of a complementary pair",
+      "phonetic": "'ɒpәzit",
+      "forms": [
+        "opposite"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "pinches",
+      "headword": "pinch",
+      "kind": "word",
+      "zh": "n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头\nvt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入, 逮捕, 勒索\nvi. 收缩, 节省, 挤压, 引起苦恼",
+      "en": "n. a painful or straitened circumstance\nn. an injury resulting from getting some body part squeezed\nn. a squeeze with the fingers\nv. squeeze tightly between the fingers",
+      "phonetic": "pintʃ",
+      "forms": [
+        "pinches"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "perforated",
+      "headword": "perforate",
+      "kind": "word",
+      "zh": "vt. 穿孔于, 刺穿, 打孔穿透\nvi. 穿孔, 穿过\na. 有孔的, 穿孔的",
+      "en": "v make a hole into or between, as for ease of separation\nv pass into or through, often by overcoming resistance\ns having a hole cut through",
+      "phonetic": "'pә:fәreit",
+      "forms": [
+        "perforated"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "hole",
+      "headword": "hole",
+      "kind": "word",
+      "zh": "n. 孔, 洞, 穴, 漏洞\nvt. 挖洞, 掘坑\nvi. 进洞, 凿洞",
+      "en": "n. an opening into or through something\nn. an opening deliberately made in or through something\nn. one playing period (from tee to green) on a golf course\nn. an unoccupied space",
+      "phonetic": "hәul",
+      "forms": [
+        "hole"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "string",
+      "headword": "string",
+      "kind": "word",
+      "zh": "n. 线, 细绳, 一串, 字符串\nvt. 串起, 成串, 收紧, 缚, 扎\nvi. 成一串\n[计] 字符串, 串",
+      "en": "n. a lightweight cord\nn. a tightly stretched cord of wire or gut, which makes sound when plucked, struck, or bowed\nn. a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding\nn. a linear sequence of symbols (characters or words or phrases)",
+      "phonetic": "striŋ",
+      "forms": [
+        "string"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "attached",
+      "headword": "attach",
+      "kind": "word",
+      "zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\nvi. 附属, 归属, 联系在一起\n[计] 挂接服务器命令, 关联, 挂接, 附加",
+      "en": "v. cause to be attached\nv. be attached; be in contact with\nv. become attached",
+      "phonetic": "ә'tætʃ",
+      "forms": [
+        "attached"
+      ],
+      "example": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "relatively",
+      "headword": "relatively",
+      "kind": "word",
+      "zh": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
+      "en": "r. in a relative manner; by comparison to something else",
+      "phonetic": "'relәtivli",
+      "forms": [
+        "relatively"
+      ],
+      "example": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "soft",
+      "headword": "soft",
+      "kind": "word",
+      "zh": "a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的\nn. 柔软的东西, 笨人, 纸币\nadv. 柔软地, 温和地",
+      "en": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)",
+      "phonetic": "sɒft",
+      "forms": [
+        "soft"
+      ],
+      "example": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "bears",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "bears"
+      ],
+      "example": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "impressions",
+      "headword": "impression",
+      "kind": "word",
+      "zh": "n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果\n[医] 压迹, 印模, 印象, 影响",
+      "en": "n. a vague idea in which some confidence is placed\nn. an outward appearance\nn. all the copies of a work printed at one time\nn. (dentistry) an imprint of the teeth and gums in wax or plaster",
+      "phonetic": "im'preʃәn",
+      "forms": [
+        "impressions"
+      ],
+      "example": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "date",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "date"
+      ],
+      "example": "Both date to the 11th century, but they are clearly from different instruments.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "commonly",
+      "headword": "commonly",
+      "kind": "word",
+      "zh": "adv. 一般, 普通, 通常",
+      "en": "r under normal conditions",
+      "phonetic": "'kɒmәnli",
+      "forms": [
+        "commonly"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v143",
+      "term": "lyres",
+      "headword": "lyre",
+      "kind": "word",
+      "zh": "n. 里拉(古希腊乐器), 琵琶类乐器\n[医] 琴, 琴形物",
+      "en": "n. a harp used by ancient Greeks for accompaniment",
+      "phonetic": "'laiә",
+      "forms": [
+        "lyres",
+        "lyre"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "lutes",
+      "headword": "lute",
+      "kind": "word",
+      "zh": "n. 鲁特诗琴, 封泥\nvt. 用封泥封, 弹诗琴表达\nvi. 弹诗琴",
+      "en": "n. a substance for packing a joint or coating a porous surface to make it impervious to gas or liquid\nn. chordophone consisting of a plucked instrument having a pear-shaped body, a usually bent neck, and a fretted fingerboard",
+      "phonetic": "lu:t",
+      "forms": [
+        "lutes"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "fiddles",
+      "headword": "fiddle",
+      "kind": "word",
+      "zh": "n. 小提琴, 提琴类乐器\nvt. 虚度时光, 拉小提琴\nvi. 拉小提琴, (无目的地)拨弄, 瞎搞",
+      "en": "v. avoid (one's assigned duties)\nv. commit fraud and steal from one's employer\nv. play the violin or fiddle\nv. play on a violin",
+      "phonetic": "'fidl",
+      "forms": [
+        "fiddles"
+      ],
+      "example": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "references",
+      "headword": "reference",
+      "kind": "word",
+      "zh": "n. 参考, 索引, 参照\nvt. 给...加上参考资料\nvt. 引用\nvi. 引用\n[计] 引用",
+      "en": "n. the most direct or specific meaning of a word or expression; the class of objects that an expression refers to\nn. the act of referring or consulting\nn. a publication (or a passage from a publication) that is referred to\nn. the relation between a word or phrase and the object or idea it refers to",
+      "phonetic": "'refәrәns",
+      "forms": [
+        "references"
+      ],
+      "example": "No lutes or fiddles survive from early Ireland, however. Nor are there any\nwritten references to, or depictions of them. The lyre, on the other hand, is\nrepresented. Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "on the other hand",
+      "headword": "on the other hand",
+      "kind": "phrase",
+      "zh": "另一方面",
+      "en": "used to introduce a contrasting consideration",
+      "forms": [
+        "on the other hand"
+      ],
+      "example": "No lutes or fiddles survive from early Ireland, however. Nor are there any\nwritten references to, or depictions of them. The lyre, on the other hand, is\nrepresented. Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v148",
+      "term": "ecclesiastical",
+      "headword": "ecclesiastical",
+      "kind": "word",
+      "zh": "a. 教会的, 神职的, 牧师的",
+      "en": "a. of or associated with a church (especially a Christian Church)",
+      "phonetic": "i.kli:zi'æstikәl",
+      "forms": [
+        "ecclesiastical"
+      ],
+      "example": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "irish",
+      "headword": "Irish",
+      "kind": "word",
+      "zh": "n. 爱尔兰人, 爱尔兰语\na. 爱尔兰的",
+      "en": "n. people of Ireland or of Irish extraction\nn. whiskey made in Ireland chiefly from barley\nn. the Celtic language of Ireland",
+      "phonetic": "'airiʃ",
+      "forms": [
+        "irish"
+      ],
+      "example": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "literature",
+      "headword": "literature",
+      "kind": "word",
+      "zh": "n. 文学, 文艺, 著作\n[经] 广告, 商品介绍等文学",
+      "en": "n. creative writing of recognized artistic value\nn. the humanistic study of a body of literature\nn. published writings in a particular style on a particular subject\nn. the profession or art of a writer",
+      "phonetic": "'litәrәtʃә",
+      "forms": [
+        "literature"
+      ],
+      "example": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "confirms",
+      "headword": "confirm",
+      "kind": "word",
+      "zh": "vt. 证实, 确定, 批准, 使巩固\n[计] 确认",
+      "en": "v. establish or strengthen as with new evidence or facts\nv. strengthen or make more firm\nv. make more firm\nv. support a person for a position",
+      "phonetic": "kәn'fә:m",
+      "forms": [
+        "confirms"
+      ],
+      "example": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "settings",
+      "headword": "settings",
+      "kind": "word",
+      "zh": "n. 设置（setting的复数）",
+      "en": "n the context and environment in which something is set\nn the state of the environment in which a situation exists\nn arrangement of scenery and properties to represent the place where a play or movie is enacted\nn the set of facts or circumstances that surround a situation or event\nn the physical position of something\nn a table service for one person\nn a mounting consisting of a piece of metal (as in a ring or other jewelry) that holds a gem in place",
+      "phonetic": "",
+      "forms": [
+        "settings"
+      ],
+      "example": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "accompanying",
+      "headword": "accompany",
+      "kind": "word",
+      "zh": "vt. 陪伴, 伴随, 补充, 为...伴奏\nvi. 伴奏, 伴唱",
+      "en": "v. go or travel along with",
+      "phonetic": "ә'kʌmpәni",
+      "forms": [
+        "accompanying"
+      ],
+      "example": "Music, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "fulfilled",
+      "headword": "fulfill",
+      "kind": "word",
+      "zh": "vt. 实践, 履行, 实行, 完成, 结束, 满足\n[法] 履行, 完成, 达到",
+      "en": "v put in effect\nv meet the requirements or expectations of\nv fill or meet a want or need",
+      "phonetic": "ful'fil",
+      "forms": [
+        "fulfilled"
+      ],
+      "example": "Music, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "functions",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "functions"
+      ],
+      "example": "Music, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "proclaiming",
+      "headword": "proclaim",
+      "kind": "word",
+      "zh": "vt. 宣布, 公告, 宣言, 表明, 赞扬\n[法] 宣布, 宣告, 公布",
+      "en": "v. declare formally; declare someone to be something; of titles\nv. state or announce",
+      "phonetic": "prә'kleim",
+      "forms": [
+        "proclaiming"
+      ],
+      "example": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "magnificence",
+      "headword": "magnificence",
+      "kind": "word",
+      "zh": "n. 富丽堂皇, 华丽, 宏大",
+      "en": "n. the quality of being magnificent or splendid or grand",
+      "phonetic": "mæg'nifisns",
+      "forms": [
+        "magnificence"
+      ],
+      "example": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "nobility",
+      "headword": "nobility",
+      "kind": "word",
+      "zh": "n. 贵族, 高尚, 贵族阶级",
+      "en": "n. a privileged class holding hereditary titles\nn. the quality of elevation of mind and exaltation of character or ideals or conduct\nn. the state of being of noble birth",
+      "phonetic": "nәu'biliti",
+      "forms": [
+        "nobility"
+      ],
+      "example": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "entertaining",
+      "headword": "entertain",
+      "kind": "word",
+      "zh": "vt. 娱乐, 招待, 怀抱\nvi. 款待",
+      "en": "v. provide entertainment for\nv. take into consideration, have in view",
+      "phonetic": ".entә'tein",
+      "forms": [
+        "entertaining"
+      ],
+      "example": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "hearth",
+      "headword": "hearth",
+      "kind": "word",
+      "zh": "n. 炉床, 灶台, 炉边\n[化] 锻造炉; 敞炉; 炉缸; 炉床; 火床; 炉膛",
+      "en": "n. home symbolized as a part of the fireplace\nn. an area near a fireplace (usually paved and extending out into a room)",
+      "phonetic": "hɑ:θ",
+      "forms": [
+        "hearth"
+      ],
+      "example": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "ancestry",
+      "headword": "ancestry",
+      "kind": "word",
+      "zh": "n. 祖先, 世系, 名门出身",
+      "en": "n. inherited properties shared with others of your bloodline",
+      "phonetic": "'ænsestri",
+      "forms": [
+        "ancestry"
+      ],
+      "example": "It was a place where ancestry and heritage were valued, yet it was also a place connected to the outside world.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "heritage",
+      "headword": "heritage",
+      "kind": "word",
+      "zh": "n. 遗产, 祖先遗留物, 继承物\n[医] 遗传性",
+      "en": "n. practices that are handed down from the past by tradition",
+      "phonetic": "'heritidʒ",
+      "forms": [
+        "heritage"
+      ],
+      "example": "It was a place where ancestry and heritage were valued, yet it was also a place connected to the outside world.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "connected",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connected"
+      ],
+      "example": "It was a place where ancestry and heritage were valued, yet it was also a place connected to the outside world.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "facets",
+      "headword": "facet",
+      "kind": "word",
+      "zh": "n. (多面体的)面, 方面, 琢面\n[医] 小平面, 小面",
+      "en": "n. a smooth surface (as of a bone or cut gemstone)",
+      "phonetic": "'fæsit",
+      "forms": [
+        "facets"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "encountered",
+      "headword": "encounter",
+      "kind": "word",
+      "zh": "n. 相会, 相遇, 遭遇\nvt. 遇见, 邂逅, 会战\nvi. 偶然相遇",
+      "en": "n. a casual meeting with a person or thing",
+      "phonetic": "in'kauntә",
+      "forms": [
+        "encountered"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "adopted",
+      "headword": "adopt",
+      "kind": "word",
+      "zh": "vt. 采用, 正式通过, 收养, 接受\n[医] 采取",
+      "en": "v. choose and follow; as of theories, ideas, policies, strategies or plans\nv. take up and practice as one's own\nv. take into one's family",
+      "phonetic": "ә'dɒpt",
+      "forms": [
+        "adopted"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "doubt",
+      "headword": "doubt",
+      "kind": "word",
+      "zh": "n. 怀疑, 疑惑\nv. 怀疑, 不信",
+      "en": "n. the state of being unsure of something\nn. uncertainty about the truth or factuality or existence of something\nv. consider unlikely or have doubts about\nv. lack confidence in or have doubts about",
+      "phonetic": "daut",
+      "forms": [
+        "doubt"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v168",
+      "term": "adapted",
+      "headword": "adapt",
+      "kind": "word",
+      "zh": "vt. 使适应, 改编\nvi. 适应",
+      "en": "v. make fit for, or change to suit a new purpose",
+      "phonetic": "ә'dæpt",
+      "forms": [
+        "adapted"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "desirable",
+      "headword": "desirable",
+      "kind": "word",
+      "zh": "a. 令人想望的, 可取的",
+      "en": "a. worth having or seeking or achieving\ns. worthy of being chosen especially as a spouse",
+      "phonetic": "di'zairәbl",
+      "forms": [
+        "desirable"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "elements",
+      "headword": "element",
+      "kind": "word",
+      "zh": "n. 元件, 元素, 要素\n[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元",
+      "en": "n. the most favorable environment for a plant or animal\nn. one of four substances thought in ancient and medieval cosmology to constitute the physical universe\nn. the situation in which you are happiest and most effective\nn. a straight line that generates a cylinder or cone",
+      "phonetic": "'elimәnt",
+      "forms": [
+        "elements"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "realm",
+      "headword": "realm",
+      "kind": "word",
+      "zh": "n. 王国, 领土, 领域\n[计] 领域",
+      "en": "n a domain in which something is dominant\nn the domain ruled by a king or queen\nn a knowledge domain that you are interested in or are communicating about",
+      "phonetic": "relm",
+      "forms": [
+        "realm"
+      ],
+      "example": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "recreational",
+      "headword": "recreational",
+      "kind": "word",
+      "zh": "a. 消遣的, 娱乐的",
+      "en": "a. of or relating to recreation",
+      "phonetic": ".rekri'eiʃәnәl",
+      "forms": [
+        "recreational"
+      ],
+      "example": "It is clear from this one site that those with more leisure time, often the wealthier in society, filled that time with various recreational pursuits.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "engaged",
+      "headword": "engage",
+      "kind": "word",
+      "zh": "vi. 答应, 从事, 交战\nvt. 使忙碌, 雇佣, 预定, 使从事于, 使参加",
+      "en": "v. ask to represent; of legal counsel\nv. get caught\nv. carry on (wars, battles, or campaigns)\nv. hire for work or assistance",
+      "phonetic": "in'geidʒ",
+      "forms": [
+        "engaged"
+      ],
+      "example": "However, human nature suggests that all classes engaged in such activities, albeit often in a manner that’s less visible to archaeologists.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "albeit",
+      "headword": "albeit",
+      "kind": "word",
+      "zh": "conj. 尽管, 虽然",
+      "en": "conj. Even though; although; notwithstanding.",
+      "phonetic": "ɔ:l'bi:it",
+      "forms": [
+        "albeit"
+      ],
+      "example": "However, human nature suggests that all classes engaged in such activities, albeit often in a manner that’s less visible to archaeologists.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "manner",
+      "headword": "manner",
+      "kind": "word",
+      "zh": "n. 样子, 礼貌, 风格\n[法] 方式, 方法, 样式",
+      "en": "n. how something is done or how it happens\nn. a way of acting or behaving\nn. a kind",
+      "phonetic": "'mænә",
+      "forms": [
+        "manner"
+      ],
+      "example": "However, human nature suggests that all classes engaged in such activities, albeit often in a manner that’s less visible to archaeologists.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "visible",
+      "headword": "visible",
+      "kind": "word",
+      "zh": "a. 看得见的, 明显的, 显然的\nn. 可见物",
+      "en": "a. capable of being seen; or open to easy view\ns. obvious to the eye\ns. present and easily available",
+      "phonetic": "'vizәbl",
+      "forms": [
+        "visible"
+      ],
+      "example": "However, human nature suggests that all classes engaged in such activities, albeit often in a manner that’s less visible to archaeologists.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "fancy",
+      "headword": "fancy",
+      "kind": "word",
+      "zh": "n. 想象力, 幻想, 喜好\na. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的\nvt. 想象, 设想, 相信, 喜爱\nvi. 想象, 幻想",
+      "en": "n. a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination\nv. have a fancy or particular liking or desire for\na. not plain; decorative or ornamented",
+      "phonetic": "'fænsi",
+      "forms": [
+        "fancy"
+      ],
+      "example": "After all, you didn’t need a fancy bronze and antler game set to play games, writing equipment to create stories, or peg-tuned wired instruments to compose and sing a song.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "wired",
+      "headword": "wire",
+      "kind": "word",
+      "zh": "n. 电线, 电报, 电信, 铁丝网, 金属丝\nvt. 用金属丝捆扎, 拍电报\nvi. 打电报",
+      "en": "n. ligament made of metal and used to fasten things or make cages or fences etc\nn. a metal conductor that carries electricity over a distance\nn. the finishing line on a racetrack\nv. provide with electrical circuits",
+      "phonetic": "'waiә",
+      "forms": [
+        "wired"
+      ],
+      "example": "After all, you didn’t need a fancy bronze and antler game set to play games, writing equipment to create stories, or peg-tuned wired instruments to compose and sing a song.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "existence",
+      "headword": "existence",
+      "kind": "word",
+      "zh": "n. 存在, 生存\n[法] 存在, 存在状态, 实体",
+      "en": "n the state or fact of existing\nn everything that exists anywhere",
+      "phonetic": "ig'zistәns",
+      "forms": [
+        "existence"
+      ],
+      "example": "Such things just prove the existence of these activities, not how commonplace they were.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "commonplace",
+      "headword": "commonplace",
+      "kind": "word",
+      "zh": "n. 寻常事, 老生常谈, 普通的东西\na. 平凡的, 普通的",
+      "en": "s. completely ordinary and unremarkable\ns. not challenging; dull and lacking excitement",
+      "phonetic": "'kɒmәnpleis",
+      "forms": [
+        "commonplace"
+      ],
+      "example": "Such things just prove the existence of these activities, not how commonplace they were.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      12,
+      21
+    ],
+    "wordBank": [
+      "pinches",
+      "entertaining",
+      "facets",
+      "fiddles",
+      "unique",
+      "confirms",
+      "impressions",
+      "occupants",
+      "construction",
+      "readily"
+    ],
+    "parts": [
+      {
+        "text": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": ". Until now, evidence of early literacy in Ireland has been largely confined to monastic and related church sites. At Caherconnell, the pen may have been used in general record keeping and external communications.\n\nHowever, it also reminds us that literate "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.\n\nThe musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " of various instruments, rarely\nsurvives to the present day.\n\nMetal and bone fittings, however, have been found during excavations, including at Caherconnell, where bone and bronze tuning pegs were among the finds. Two of the tuning pegs are "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " identifiable as components of stringed instruments.\n\nThey have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example). The opposite end "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " in slightly and is perforated by a small circular hole through which the string was attached.\n\nThe bone tuning peg, being a relatively soft material, still bears "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " from the wire-string of the instrument. Both date to the 11th century, but they are clearly from different instruments.\n\nOne had strong bronze pegs, the other had larger bone versions. Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " (up to 65mm is classed as short).\n\nNo lutes or fiddles survive from early Ireland, however. Nor are there any\nwritten references to, or depictions of them. The lyre, on the other hand, is\nrepresented. Depictions are found in several ecclesiastical contexts and early Irish literature "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " that lyres or lyre-like instruments were also used outside religious settings.\n\nMusic, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions. These range from proclaiming the magnificence of the nobility to "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " a family around their hearth in the evening.\n\nLife at Caherconnell was, in many ways, very traditional. It was a place where ancestry and heritage were valued, yet it was also a place connected to the outside world. In leisure, as in so many other "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "unique",
+        "vocabularyId": "v98",
+        "explanation": "原文此处使用 unique（unique）。结合上下文辨认词义与词形。",
+        "evidence": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
+        "paragraph": 12
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "occupants",
+        "vocabularyId": "v106",
+        "explanation": "原文此处使用 occupants（occupant）。结合上下文辨认词义与词形。",
+        "evidence": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
+        "paragraph": 13
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "construction",
+        "vocabularyId": "v118",
+        "explanation": "原文此处使用 construction（construction）。结合上下文辨认词义与词形。",
+        "evidence": "The musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the construction of various instruments, rarely\nsurvives to the present day.",
+        "paragraph": 14
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "readily",
+        "vocabularyId": "v122",
+        "explanation": "原文此处使用 readily（readily）。结合上下文辨认词义与词形。",
+        "evidence": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
+        "paragraph": 15
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "pinches",
+        "vocabularyId": "v131",
+        "explanation": "原文此处使用 pinches（pinch）。结合上下文辨认词义与词形。",
+        "evidence": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
+        "paragraph": 16
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "impressions",
+        "vocabularyId": "v139",
+        "explanation": "原文此处使用 impressions（impression）。结合上下文辨认词义与词形。",
+        "evidence": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
+        "paragraph": 17
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "fiddles",
+        "vocabularyId": "v145",
+        "explanation": "原文此处使用 fiddles（fiddle）。结合上下文辨认词义与词形。",
+        "evidence": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
+        "paragraph": 18
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "confirms",
+        "vocabularyId": "v151",
+        "explanation": "原文此处使用 confirms（confirm）。结合上下文辨认词义与词形。",
+        "evidence": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
+        "paragraph": 19
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "entertaining",
+        "vocabularyId": "v159",
+        "explanation": "原文此处使用 entertaining（entertain）。结合上下文辨认词义与词形。",
+        "evidence": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
+        "paragraph": 20
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "facets",
+        "vocabularyId": "v164",
+        "explanation": "原文此处使用 facets（facet）。结合上下文辨认词义与词形。",
+        "evidence": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
+        "paragraph": 21
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Tove Jansson's Hobbit illustrations express an imaginative understanding of childhood.",
+          "Denmark's reputation for open-mindedness has a more complicated history than stereotypes suggest.",
+          "An early bestseller offers a historical parallel to modern concerns about low-quality popular content.",
+          "Objects found at a medieval Irish fort reveal details of daily life and material culture."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Leisure activities are often overlooked, despite the fact that they existed in one form or another at most – if not all – levels of medieval society.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What can archaeological remains reveal when preservation conditions are favourable?",
+        "options": [
+          "The exact thoughts of every person who ever lived",
+          "Aspects of medieval life beyond formal work or duties",
+          "Nothing about how people spent their time",
+          "Only the chemical composition of modern computers"
+        ],
+        "answer": 1,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "However, when conditions are right, archaeological remains can shed light on the extra-curricular activities of medieval folk.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 10?",
+        "options": [
+          "In these depictions, there’s little evidence of a world beyond political struggle and simple subsistence.",
+          "Experimental work by the archaeologist Adam Parsons found that the closest match was a swan radius (a tubular bone) from the right-side wing.",
+          "The intangible nature of much of the evidence, often coupled with poor preservation of physical objects, can help explain this.",
+          "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan."
+        ],
+        "answer": 3,
+        "explanation": "定位第 10 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "The slender hollow bone shaft or barrel was probably made from the bone of a wader bird or swan.",
+        "paragraph": 10
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).”",
+        "options": [
+          "Paragraph 8",
+          "Paragraph 16",
+          "Paragraph 2",
+          "Paragraph 1"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 16 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "They have a circular sectioned shaft that splays slightly into a rectangular sectioned turning block at one end (now missing from the larger bone example).",
+        "paragraph": 16
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Music, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions.”",
+        "options": [
+          "Paragraph 20",
+          "Paragraph 13",
+          "Paragraph 9",
+          "Paragraph 2"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 20 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Music, and accompanying songs and poetry, probably fulfilled various social, political, and cultural functions.",
+        "paragraph": 20
+      }
+    ]
+  },
+  "revision": "9e26a0a0beacf8de61c624838cf86f0ad5d57625dd7e47822d9d607f5fa9e37b"
+}

@@ -1,0 +1,3037 @@
+{
+  "schemaVersion": 1,
+  "folder": "034",
+  "articleSha256": "8711a8a96d2ecf68cb651840d3d6c318db658130841c9e05821df093c2aaec6f",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "marine",
+      "headword": "marine",
+      "kind": "word",
+      "zh": "n. 舰队, 水兵, 海景画\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+      "en": "n. a member of the United States Marine Corps\nn. a soldier who serves both on shipboard and on land\na. of or relating to the sea\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+      "phonetic": "mә'ri:n",
+      "forms": [
+        "marine"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "ecologist",
+      "headword": "ecologist",
+      "kind": "word",
+      "zh": "n. 生态学者",
+      "en": "n. a biologist who studies the relation between organisms and their environment",
+      "phonetic": "i:'kɒlәdʒist",
+      "forms": [
+        "ecologist"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "keen",
+      "headword": "keen",
+      "kind": "word",
+      "zh": "a. 锋利的, 敏锐的, 强烈的, 敏捷的, 热心的, 渴望的\nn. 挽歌, 痛哭\nv. 唱挽歌, 痛哭",
+      "en": "n. a funeral lament sung with loud wailing\ns. having a sharp cutting edge or point",
+      "phonetic": "ki:n",
+      "forms": [
+        "keen"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "scuba",
+      "headword": "scuba",
+      "kind": "word",
+      "zh": "n. 自携式水中呼吸器",
+      "en": "n a device (trade name Aqua-Lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus",
+      "phonetic": "'skju:bә",
+      "forms": [
+        "scuba"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "diver",
+      "headword": "diver",
+      "kind": "word",
+      "zh": "n. 潜水者",
+      "en": "n. someone who works underwater\nn. someone who dives (into water)",
+      "phonetic": "'daivә",
+      "forms": [
+        "diver",
+        "divers"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "fascinated",
+      "headword": "fascinate",
+      "kind": "word",
+      "zh": "vt. 令人入神, 使着迷\nvi. 入迷",
+      "en": "v. to render motionless, as with a fixed stare or by arousing terror or awe",
+      "phonetic": "'fæsineit",
+      "forms": [
+        "fascinated"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "introduced",
+      "headword": "introduce",
+      "kind": "word",
+      "zh": "vt. 介绍, 引入, 采用, 输入\n[法] 引进, 输入, 介绍",
+      "en": "v. cause to come to know personally\nv. bring something new to an environment\nv. bring in or establish in a new place or environment\nv. bring before the public for the first time, as of an actor, song, etc.",
+      "phonetic": ".intrә'dju:s",
+      "forms": [
+        "introduced",
+        "introduce",
+        "introducing"
+      ],
+      "example": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "microscopic",
+      "headword": "microscopic",
+      "kind": "word",
+      "zh": "a. 显微镜的, 用显微镜可见的, 微观的, (非正式)极微小的, 细微的\n[计] 微观的",
+      "en": "a. of or relating to or used in microscopy\ns. visible under a microscope; using a microscope\ns. extremely precise with great attention to details\ns. so small as to be invisible without a microscope",
+      "phonetic": "maikrә'skɔpik",
+      "forms": [
+        "microscopic"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "organisms",
+      "headword": "organism",
+      "kind": "word",
+      "zh": "n. 生物, 有机体, 社会组织\n[医] 生物[体],[有]机体",
+      "en": "n. a living thing that has (or can develop) the ability to act or function independently\nn. a system considered analogous in structure or function to a living body",
+      "phonetic": "'ɒ:gәnizm",
+      "forms": [
+        "organisms"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "colonising",
+      "headword": "colonise",
+      "kind": "word",
+      "zh": "vi. 开拓殖民地；移民于殖民地",
+      "en": "v settle as a colony; of countries in the developing world\nv settle as colonists or establish a colony (in)",
+      "phonetic": "'kɔlәnaiz",
+      "forms": [
+        "colonising",
+        "colonise"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "thin",
+      "headword": "thin",
+      "kind": "word",
+      "zh": "a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的\nvt. 使变薄, 使变细, 使稀少, 使淡\nvi. 变薄, 变细, 变少, 变淡\nadv. 薄地, 稀疏地, 微弱地\nn. 细小部分",
+      "en": "v. lose thickness; become thin or thinner\nv. make thin or thinner\na. of relatively small extent from one surface to the opposite or in cross section\na. lacking excess flesh",
+      "phonetic": "θin",
+      "forms": [
+        "thin"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "biological",
+      "headword": "biological",
+      "kind": "word",
+      "zh": "a. 生物学的\n[医] 生物学的",
+      "en": "a. pertaining to biology or to life and living things\na. of parents and children; related by blood",
+      "phonetic": ".baiәu'lɒdʒikәl",
+      "forms": [
+        "biological"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "layer",
+      "headword": "layer",
+      "kind": "word",
+      "zh": "n. 层, 产卵鸡, 放置者\nvt. 分层堆积, 压植\n[计] 层",
+      "en": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells",
+      "phonetic": "'leiә",
+      "forms": [
+        "layer"
+      ],
+      "example": "Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "barnacles",
+      "headword": "barnacle",
+      "kind": "word",
+      "zh": "n. 北极雁, 藤壶",
+      "en": "n. marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces",
+      "phonetic": "'bɑ:nәkl",
+      "forms": [
+        "barnacles"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "mussels",
+      "headword": "mussel",
+      "kind": "word",
+      "zh": "n. 贻贝, 珠蚌\n[医] 贝壳类, 蛤贝",
+      "en": "n. black marine bivalves usually steamed in wine\nn. marine or freshwater bivalve mollusk that lives attached to rocks etc.",
+      "phonetic": "'mʌsl",
+      "forms": [
+        "mussels"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "sponges",
+      "headword": "sponge",
+      "kind": "word",
+      "zh": "n. 海绵, 海绵状的东西\nvt. 用海绵擦拭, 吸收掉, 抹掉\nvi. 采集海绵, 海绵般吸收",
+      "en": "n. a porous mass of interlacing fibers that forms the internal skeleton of various marine animals and usable to absorb water or any porous rubber or cellulose product similarly used\nn. primitive multicellular marine animal whose porous body is supported by a fibrous skeletal framework; usually occurs in sessile colonies\nv. wipe with a sponge, so as to clean or moisten\nv. erase with a sponge; as of words on a blackboard",
+      "phonetic": "spʌndʒ",
+      "forms": [
+        "sponges"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "marine life",
+      "headword": "marine life",
+      "kind": "phrase",
+      "zh": "海洋生物",
+      "en": "organisms living in the sea",
+      "forms": [
+        "marine life"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v18",
+      "term": "habitat",
+      "headword": "habitat",
+      "kind": "word",
+      "zh": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+      "en": "n. the type of environment in which an organism or group normally lives or occurs",
+      "phonetic": "'hæbitæt",
+      "forms": [
+        "habitat",
+        "habitats"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "attracts",
+      "headword": "attract",
+      "kind": "word",
+      "zh": "vt. 吸引, 诱惑\nvi. 有吸引力",
+      "en": "v. direct toward itself or oneself by means of some psychological power or physical attributes\nv. be attractive to\nv. exert a force on (a body) causing it to approach or prevent it from moving away",
+      "phonetic": "ә'trækt",
+      "forms": [
+        "attracts",
+        "attracted"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "diverse",
+      "headword": "diverse",
+      "kind": "word",
+      "zh": "a. 不同的, 变化多的",
+      "en": "s. distinctly dissimilar or unlike",
+      "phonetic": "dai'vә:s",
+      "forms": [
+        "diverse"
+      ],
+      "example": "Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "famous",
+      "headword": "famous",
+      "kind": "word",
+      "zh": "a. 出名的, 极好的",
+      "en": "s widely known and esteemed",
+      "phonetic": "'feimәs",
+      "forms": [
+        "famous"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "liners",
+      "headword": "liner",
+      "kind": "word",
+      "zh": "n. 班机, 划线者, 定期船, 衬里\n[化] 衬垫; 垫带; 套管",
+      "en": "n. (baseball) a hit that flies straight out from the batter\nn. a piece of cloth that is used as the inside surface of a garment\nn. a large commercial ship (especially one that carries passengers on a regular schedule)",
+      "phonetic": "'lainә",
+      "forms": [
+        "liners",
+        "liner"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "states",
+      "headword": "state",
+      "kind": "word",
+      "zh": "n. 州, 状态, 情形, 国家, 政府, 领土, 国务, 社会地位\na. 国家的, 正式的, 礼仪用的, 州的\nvt. 说明, 陈述, 规定\n[计] 状态",
+      "en": "n. the territory occupied by one of the constituent administrative districts of a nation\nn. the way something is with respect to its main attributes\nn. the group of people comprising the government of a sovereign state\nn. a politically organized body of people under a single government",
+      "phonetic": "steit",
+      "forms": [
+        "states"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "sunk",
+      "headword": "sink",
+      "kind": "word",
+      "zh": "n. 藏垢的场所, 沟渠, 污水槽\nvi. 下沉, 沉没, 下陷, 减弱, 衰退, 消沉, 堕落, 渗透\nvt. 使低落, 使下沉, 陷于, 投入(资金等), 挖掘",
+      "en": "n. plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe\nn. (technology) a process that acts to absorb or remove energy or a substance from a system\nv. fall or descend to a lower place or level\nv. cause to sink",
+      "phonetic": "siŋk",
+      "forms": [
+        "sunk",
+        "sinking"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "coast",
+      "headword": "coast",
+      "kind": "word",
+      "zh": "n. 海岸, 滑坡\nv. 沿海岸而行",
+      "en": "n. a slope down which sleds may coast\nn. the area within view\nv. move effortlessly; by force of gravity",
+      "phonetic": "kәust",
+      "forms": [
+        "coast"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "florida",
+      "headword": "Florida",
+      "kind": "word",
+      "zh": "n. 佛罗里达州",
+      "en": "n. a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War",
+      "phonetic": "'flɒridә",
+      "forms": [
+        "florida"
+      ],
+      "example": "This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "metres",
+      "headword": "metre",
+      "kind": "word",
+      "zh": "n. 公尺, 格律, 韵律\n[医] 米, 公尺",
+      "en": "n the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)\nn (prosody) the accent in a metrical foot of verse\nn rhythm as given by division into parts of equal duration",
+      "phonetic": "'mi:tә",
+      "forms": [
+        "metres",
+        "metre"
+      ],
+      "example": "At 302 metres long, it has become the world’s largest artificial reef.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "artificial",
+      "headword": "artificial",
+      "kind": "word",
+      "zh": "a. 人造的, 假的, 非原地产的\n[医] 人工的, 人造的, 伟牟",
+      "en": "a. contrived by art rather than nature\ns. artificially formal\ns. not arising from natural growth or characterized by vital processes",
+      "phonetic": ".ɑ:ti'fiʃәl",
+      "forms": [
+        "artificial"
+      ],
+      "example": "At 302 metres long, it has become the world’s largest artificial reef.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "artificial reef",
+      "headword": "artificial reef",
+      "kind": "phrase",
+      "zh": "人工鱼礁；人工礁",
+      "en": "a human-made structure that provides habitat for marine life",
+      "forms": [
+        "artificial reef"
+      ],
+      "example": "At 302 metres long, it has become the world’s largest artificial reef.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v32",
+      "term": "reef",
+      "headword": "reef",
+      "kind": "word",
+      "zh": "n. 暗礁, 礁, 缩帆\nv. 缩(帆)",
+      "en": "n. a submerged ridge of rock or coral near the surface of the water\nn. one of several strips across a sail that can be taken in or rolled up to lessen the area of the sail that is exposed to the wind\nv. lower and bring partially inboard\nv. roll up (a portion of a sail) in order to reduce its area",
+      "phonetic": "ri:f",
+      "forms": [
+        "reef",
+        "reefs"
+      ],
+      "example": "At 302 metres long, it has become the world’s largest artificial reef.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "exciting",
+      "headword": "excite",
+      "kind": "word",
+      "zh": "vt. 刺激, 使兴奋, 激励",
+      "en": "v. arouse or elicit a feeling\nv. raise to a higher energy level\nv. produce a magnetic field in",
+      "phonetic": "ik'sait",
+      "forms": [
+        "exciting"
+      ],
+      "example": "It is a very exciting prospect to one day dive on such a giant, and to see how it changes as marine life makes it home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "prospect",
+      "headword": "prospect",
+      "kind": "word",
+      "zh": "n. 景色, 展望\nvt. 勘探, 勘察\nvi. 勘探, 有前途",
+      "en": "n. the possibility of future success\nv. search for something desirable\nv. explore for useful or valuable things or substances, such as minerals",
+      "phonetic": "'prɒspekt",
+      "forms": [
+        "prospect"
+      ],
+      "example": "It is a very exciting prospect to one day dive on such a giant, and to see how it changes as marine life makes it home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "dive",
+      "headword": "dive",
+      "kind": "word",
+      "zh": "n. 潜水, 跳水\nvi. 跳水, 俯冲, 猛冲\nvt. 把...突然伸入",
+      "en": "n. a headlong plunge into water\nn. a steep nose-down descent by an aircraft\nv. drop steeply\nv. plunge into water",
+      "phonetic": "daiv",
+      "forms": [
+        "dive",
+        "diving"
+      ],
+      "example": "It is a very exciting prospect to one day dive on such a giant, and to see how it changes as marine life makes it home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "giant",
+      "headword": "giant",
+      "kind": "word",
+      "zh": "n. 巨人, 大力士, 巨大怪物\na. 庞大的, 巨大的",
+      "en": "n. any creature of exceptional size\nn. an unusually large enterprise\nn. a very large person; impressive in size or qualities\nn. someone or something that is abnormally large and powerful",
+      "phonetic": "'dʒaiәnt",
+      "forms": [
+        "giant"
+      ],
+      "example": "It is a very exciting prospect to one day dive on such a giant, and to see how it changes as marine life makes it home.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "luxury",
+      "headword": "luxury",
+      "kind": "word",
+      "zh": "n. 奢侈, 豪华\na. 奢侈的, 豪华的",
+      "en": "n. something that is an indulgence rather than a necessity\nn. wealth as evidenced by sumptuous living",
+      "phonetic": "'lʌkʃәri",
+      "forms": [
+        "luxury"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "maiden",
+      "headword": "maiden",
+      "kind": "word",
+      "zh": "n. 年轻未婚女子, 少女, 处女\na. 未婚的, 处女的, 初次的, 无经验的",
+      "en": "n an unmarried girl (especially a virgin)\nn (cricket) an over in which no runs are scored\ns serving to set in motion",
+      "phonetic": "'meidn",
+      "forms": [
+        "maiden"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "voyage",
+      "headword": "voyage",
+      "kind": "word",
+      "zh": "n. 航行, 航海, 航程, 旅行, 航空\nvi. 航海, 航行\nvt. 航行越过, 飞过",
+      "en": "n. a journey to some distant place\nv. travel on water propelled by wind or by other means",
+      "phonetic": "'vɒiidʒ",
+      "forms": [
+        "voyage"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "coveted",
+      "headword": "covet",
+      "kind": "word",
+      "zh": "v. 妄想, 垂涎",
+      "en": "v. wish, long, or crave for (something, especially the property of another person)",
+      "phonetic": "'kʌvit",
+      "forms": [
+        "coveted"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "riband",
+      "headword": "riband",
+      "kind": "word",
+      "zh": "n. 缎带, 丝带",
+      "en": "n. a ribbon used as a decoration",
+      "phonetic": "'ribәnd",
+      "forms": [
+        "riband"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "crossing",
+      "headword": "cross",
+      "kind": "word",
+      "zh": "n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交\na. 生气的, 交叉的, 相反的\nv. 交叉, 横过, 越过\n[计] 交叉, 十字标",
+      "en": "n. a wooden structure consisting of an upright post with a transverse piece\nn. a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry\nn. any affliction that causes great suffering\nv. fold so as to resemble a cross",
+      "phonetic": "krɒs",
+      "forms": [
+        "crossing"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "atlantic",
+      "headword": "Atlantic",
+      "kind": "word",
+      "zh": "n. 大西洋\na. 大西洋的",
+      "en": "n. the 2nd largest ocean; separates North and South America on the west from Europe and Africa on the east\na. relating to or bordering the Atlantic Ocean",
+      "phonetic": "әt'læntik",
+      "forms": [
+        "atlantic"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "passenger",
+      "headword": "passenger",
+      "kind": "word",
+      "zh": "n. 乘客, 旅客\n[经] 乘客, 旅客",
+      "en": "n. a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+      "phonetic": "'pæsindʒә",
+      "forms": [
+        "passenger"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "unbroken",
+      "headword": "unbroken",
+      "kind": "word",
+      "zh": "a. 未破损的, 未被征服的, 未打垮的, 不屈服的, 不涣散的, 整齐的, 未中断的\n[法] 未被阻断的, 未破损的, 完好的",
+      "en": "a. marked by continuous or uninterrupted extension in space or time or sequence\ns. not subdued or trained for service or use\na. (especially of promises or contracts) not violated or disregarded\na. not broken; whole and intact; in one piece",
+      "phonetic": "'ʌn'brәukәn",
+      "forms": [
+        "unbroken"
+      ],
+      "example": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "jetliners",
+      "headword": "jetliner",
+      "kind": "word",
+      "zh": "n. 喷气客机",
+      "en": "n. a large jet plane that carries passengers",
+      "phonetic": "'dʒetlainә",
+      "forms": [
+        "jetliners"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "superseded",
+      "headword": "supersede",
+      "kind": "word",
+      "zh": "vt. 代替, 取代, 接替\n[法] 替代, 替换, 充任",
+      "en": "v take the place or move into the position of",
+      "phonetic": ".sju:pә'si:d",
+      "forms": [
+        "superseded"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "transatlantic",
+      "headword": "transatlantic",
+      "kind": "word",
+      "zh": "a. 横渡大西洋的, 大西洋彼岸的, 美国的",
+      "en": "a. crossing the Atlantic Ocean",
+      "phonetic": ".trænsәt'læntik",
+      "forms": [
+        "transatlantic"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "vessel",
+      "headword": "vessel",
+      "kind": "word",
+      "zh": "n. 船, 容器, 脉管\n[医] 管, 脉管, (容)器",
+      "en": "n. a tube in which a body fluid circulates\nn. a craft designed for water transportation\nn. an object used as a container (especially for liquids)",
+      "phonetic": "'vesl",
+      "forms": [
+        "vessel"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "retired",
+      "headword": "retire",
+      "kind": "word",
+      "zh": "n. 隐居\nvi. 引退, 退役, 退休, 退去, 撤退, 退却\nvt. 使...撤退, 辞退",
+      "en": "v. go into retirement; stop performing one's work or withdraw from one's position\nv. withdraw from active participation\nv. withdraw from circulation or from the market, as of bills, shares, and bonds\nv. make (someone) retire",
+      "phonetic": "ri'taiә",
+      "forms": [
+        "retired"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "neglected",
+      "headword": "neglect",
+      "kind": "word",
+      "zh": "n. 疏忽, 忽略, 漏做\nvt. 疏忽, 忽视, 不顾",
+      "en": "n. the state of something that has been unused and neglected\nv. leave undone or leave out\nv. fail to attend to\nv. give little or no attention to",
+      "phonetic": "ni'glekt",
+      "forms": [
+        "neglected"
+      ],
+      "example": "As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "Rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "Rather than"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v54",
+      "term": "ignominy",
+      "headword": "ignominy",
+      "kind": "word",
+      "zh": "n. 耻辱, 无耻行为, 不体面\n[法] 无耻行为, 丑行, 耻辱",
+      "en": "n a state of dishonor",
+      "phonetic": "'ignәmini",
+      "forms": [
+        "ignominy"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "legendary",
+      "headword": "legendary",
+      "kind": "word",
+      "zh": "a. 传说的, 传奇中说的, 传奇般的, 传说中的, 著名的",
+      "en": "s. so celebrated as to having taken on the nature of a legend",
+      "phonetic": "'ledʒәndәri",
+      "forms": [
+        "legendary"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "ship",
+      "headword": "ship",
+      "kind": "word",
+      "zh": "n. 船, 舰\nvt. 以船运送, 装船, 运送\nvi. 上船, 乘船",
+      "en": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship",
+      "phonetic": "ʃip",
+      "forms": [
+        "ship"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "county",
+      "headword": "county",
+      "kind": "word",
+      "zh": "n. 县, 郡",
+      "en": "n. (United Kingdom) a region created by territorial division for the purpose of local government\nn. (United States) the largest administrative district within a state",
+      "phonetic": "'kaunti",
+      "forms": [
+        "county"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "attraction",
+      "headword": "attraction",
+      "kind": "word",
+      "zh": "n. 吸引, 吸引人的事物, 吸引力\n[医] 吸引",
+      "en": "n. the force by which one object attracts another\nn. an entertainment that is offered to the public\nn. the quality of arousing interest; being attractive or something that attracts\nn. a characteristic that provides pleasure and attracts",
+      "phonetic": "ә'trækʃәn",
+      "forms": [
+        "attraction"
+      ],
+      "example": "Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "enormous",
+      "headword": "enormous",
+      "kind": "word",
+      "zh": "a. 巨大的, 庞大的",
+      "en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+      "phonetic": "i'nɒ:mәs",
+      "forms": [
+        "enormous"
+      ],
+      "example": "The SS United States is a particularly enormous structure to introduce to the seabed – longer even than the Titanic.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "seabed",
+      "headword": "seabed",
+      "kind": "word",
+      "zh": "n. 海底, 海床",
+      "en": "n the bottom of a sea or ocean",
+      "phonetic": "'si:bed",
+      "forms": [
+        "seabed"
+      ],
+      "example": "The SS United States is a particularly enormous structure to introduce to the seabed – longer even than the Titanic.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "titanic",
+      "headword": "Titanic",
+      "kind": "word",
+      "zh": "a. 四价钛的\n[化] 钛; 正钛; 四价钛",
+      "en": "s. of great force or power",
+      "phonetic": "tai'tænik",
+      "forms": [
+        "titanic"
+      ],
+      "example": "The SS United States is a particularly enormous structure to introduce to the seabed – longer even than the Titanic.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "upper",
+      "headword": "upper",
+      "kind": "word",
+      "zh": "a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的\nn. 鞋帮, 上齿",
+      "en": "n. piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot\ns. the topmost one of two\ns. higher in place or position\ns. superior in rank or accomplishment",
+      "phonetic": "'ʌpә",
+      "forms": [
+        "upper"
+      ],
+      "example": "It will rest in around 55 metres of water, with its upper sections rising to within about 17 metres of the surface.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "depths",
+      "headword": "depth",
+      "kind": "word",
+      "zh": "n. 深度, 深处, 深奥\n[计] 深度",
+      "en": "n. the extent downward or backward or inward\nn. degree of psychological or intellectual profundity\nn. (usually plural) the deepest and most remote part\nn. (usually plural) a low moral state",
+      "phonetic": "depθ",
+      "forms": [
+        "depths"
+      ],
+      "example": "This will create habitats at different depths, making it an unusually varied site for both wildlife and divers of different abilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "unusually",
+      "headword": "unusually",
+      "kind": "word",
+      "zh": "adv. 不寻常地, 异乎寻常地, (非正式)非常",
+      "en": "r. to a remarkable degree or extent",
+      "phonetic": "ʌn'ju:ʒәli",
+      "forms": [
+        "unusually"
+      ],
+      "example": "This will create habitats at different depths, making it an unusually varied site for both wildlife and divers of different abilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "varied",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "varied"
+      ],
+      "example": "This will create habitats at different depths, making it an unusually varied site for both wildlife and divers of different abilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "wildlife",
+      "headword": "wildlife",
+      "kind": "word",
+      "zh": "n. 野生动植物",
+      "en": "n. all living things (except people) that are undomesticated",
+      "phonetic": "'waildlaif",
+      "forms": [
+        "wildlife"
+      ],
+      "example": "This will create habitats at different depths, making it an unusually varied site for both wildlife and divers of different abilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "eclipse",
+      "headword": "eclipse",
+      "kind": "word",
+      "zh": "n. 日食, 月食, (地位名誉等的)消失\nvt. 引起日食, 引起月食, 使黯然失色",
+      "en": "n. one celestial body obscures another\nv. cause an eclipse of (a celestial body) by intervention",
+      "phonetic": "i'klips",
+      "forms": [
+        "eclipse"
+      ],
+      "example": "It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "nearby",
+      "headword": "nearby",
+      "kind": "word",
+      "zh": "a. 附近的, 近旁的\nadv. 在附近, 近旁地\nprep. 在...附近",
+      "en": "s. close at hand\nr. not far away in relative terms",
+      "phonetic": "'niәbai",
+      "forms": [
+        "nearby"
+      ],
+      "example": "It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "aircraft",
+      "headword": "aircraft",
+      "kind": "word",
+      "zh": "n. 航空器, 飞机\n[机] 航空器",
+      "en": "n. a vehicle that can fly",
+      "phonetic": "'єәkræft",
+      "forms": [
+        "aircraft"
+      ],
+      "example": "It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "carrier",
+      "headword": "carrier",
+      "kind": "word",
+      "zh": "n. 运送者, 邮递员, 带菌者\n[计] 载波",
+      "en": "n. someone whose employment involves carrying something\nn. a self-propelled wheeled vehicle designed specifically to carry something\nn. an inactive substance that is a vehicle for a radioactive tracer of the same substance and that assists in its recovery after some chemical reaction\nn. a person or firm in the business of transporting people or goods or messages",
+      "phonetic": "'kæriә",
+      "forms": [
+        "carrier"
+      ],
+      "example": "It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "deliberately",
+      "headword": "deliberately",
+      "kind": "word",
+      "zh": "adv. 故意地",
+      "en": "r with intention; in an intentional manner\nr in a deliberate unhurried manner",
+      "phonetic": "di'libәrәtli",
+      "forms": [
+        "deliberately"
+      ],
+      "example": "It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "ecological",
+      "headword": "ecological",
+      "kind": "word",
+      "zh": "a. 生态学的, 主张生态保护的\n[法] 生态的, 生态学的",
+      "en": "a. characterized by the interdependence of living organisms in an environment\na. of or relating to the science of ecology",
+      "phonetic": ".i:kә'lɒdʒikәl",
+      "forms": [
+        "ecological"
+      ],
+      "example": "So what do we expect to happen? Here’s a suggested ecological succession pattern, month-by-month.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "succession",
+      "headword": "succession",
+      "kind": "word",
+      "zh": "n. 连续, 继承权, 继位, 演替, 地层次序\n[法] 继承, 继承权, 继位",
+      "en": "n. a group of people or things arranged or following in order\nn. the action of following in order\nn. (ecology) the gradual and orderly process of change in an ecosystem brought about by the progressive replacement of one community by another until a stable climax is established\nn. acquisition of property by descent or by will",
+      "phonetic": "sәk'seʃәn",
+      "forms": [
+        "succession"
+      ],
+      "example": "So what do we expect to happen? Here’s a suggested ecological succession pattern, month-by-month.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "microorganisms",
+      "headword": "microorganism",
+      "kind": "word",
+      "zh": "n. 微生物, 微小动植物\n[化] 微生物",
+      "en": "n. any organism of microscopic size",
+      "phonetic": ".maikrәu'ɒ:gәnizm",
+      "forms": [
+        "microorganisms"
+      ],
+      "example": "First, microorganisms arrive",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "invisible",
+      "headword": "invisible",
+      "kind": "word",
+      "zh": "a. 看不见的, 无形的\n[经] 无形的, 表面上看不见的, 未列在公开帐目的",
+      "en": "a. impossible or nearly impossible to see; imperceptible by the eye",
+      "phonetic": "in'vizәbl",
+      "forms": [
+        "invisible"
+      ],
+      "example": "The first organisms to colonise the SS United States will be almost invisible.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "immersion",
+      "headword": "immersion",
+      "kind": "word",
+      "zh": "n. 沉浸, 专心, 陷入\n[医] 浸, 浸渍",
+      "en": "n. a form of baptism in which part or all of a person's body is submerged",
+      "phonetic": "i'mә:ʃәn",
+      "forms": [
+        "immersion"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "bacteria",
+      "headword": "bacterium",
+      "kind": "word",
+      "zh": "n. 细菌\n[医] [无芽胞]杆菌属",
+      "en": "n (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
+      "phonetic": "bæk'tiәriәm",
+      "forms": [
+        "bacteria"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "attaching",
+      "headword": "attach",
+      "kind": "word",
+      "zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\nvi. 附属, 归属, 联系在一起\n[计] 挂接服务器命令, 关联, 挂接, 附加",
+      "en": "v. cause to be attached\nv. be attached; be in contact with\nv. become attached",
+      "phonetic": "ә'tætʃ",
+      "forms": [
+        "attaching",
+        "attach"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "cleaned",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "cleaned"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "metal",
+      "headword": "metal",
+      "kind": "word",
+      "zh": "n. 金属, 金属制品, 合金, 本质, 质料\na. 金属制的\nvt. 以金属覆盖",
+      "en": "v. cover with metal",
+      "phonetic": "'metәl",
+      "forms": [
+        "metal"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "biofilm",
+      "headword": "biofilm",
+      "kind": "word",
+      "zh": "生物膜",
+      "en": "",
+      "phonetic": "'bɪɒfɪlm",
+      "forms": [
+        "biofilm"
+      ],
+      "example": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "slime",
+      "headword": "slime",
+      "kind": "word",
+      "zh": "n. 烂泥, 粘液\nvt. 涂上泥\nvi. 变粘滑",
+      "en": "v. cover or stain with slime",
+      "phonetic": "slaim",
+      "forms": [
+        "slime"
+      ],
+      "example": "This slime is the foundation of the new ecosystem.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "foundation",
+      "headword": "foundation",
+      "kind": "word",
+      "zh": "n. 基础, 根据, 建立\n[化] 地基",
+      "en": "n. the basis on which something is grounded\nn. an institution supported by an endowment\nn. lowest support of a structure\nn. education or instruction in the fundamentals of a field of knowledge",
+      "phonetic": "faun'deiʃәn",
+      "forms": [
+        "foundation"
+      ],
+      "example": "This slime is the foundation of the new ecosystem.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "ecosystem",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystem"
+      ],
+      "example": "This slime is the foundation of the new ecosystem.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "cues",
+      "headword": "cue",
+      "kind": "word",
+      "zh": "n. 提示, 线索\nvt. 给...暗示(或提示)\n[计] 尾接指令",
+      "en": "n. an actor's line that immediately precedes and serves as a reminder for some action or speech\nn. sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards",
+      "phonetic": "kju:",
+      "forms": [
+        "cues"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "drifting",
+      "headword": "drift",
+      "kind": "word",
+      "zh": "n. 漂流物, 漂流, 动向\nv. (使)漂流",
+      "en": "n. a force that moves something along\nn. the gradual departure from an intended course due to external influences (as a ship or plane)\nn. a process of linguistic change over a period of time\nn. a large mass of material that is heaped up by the wind or by water currents",
+      "phonetic": "drift",
+      "forms": [
+        "drifting"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "larvae",
+      "headword": "larva",
+      "kind": "word",
+      "zh": "n. 幼虫\n[医] 幼虫(昆虫), 蚴(蠕虫)",
+      "en": "n. the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundamentally unlike its parent and must metamorphose",
+      "phonetic": "'lɑ:vә",
+      "forms": [
+        "larvae"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "suitable",
+      "headword": "suitable",
+      "kind": "word",
+      "zh": "a. 适当的, 相配的\n[法] 合适的, 适宜的, 适当的",
+      "en": "s. meant or adapted for an occasion or use",
+      "phonetic": "'sju:tәbl",
+      "forms": [
+        "suitable"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "settle",
+      "headword": "settle",
+      "kind": "word",
+      "zh": "n. 有背长椅\nvt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算\nvi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家",
+      "en": "n. a long wooden bench with a back\nv. settle into a position, usually on a surface or ground\nv. settle conclusively; come to terms\nv. take up residence and become established",
+      "phonetic": "'setl",
+      "forms": [
+        "settle"
+      ],
+      "example": "As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "gulf",
+      "headword": "gulf",
+      "kind": "word",
+      "zh": "n. 海湾, 深渊, 漩涡, 隔阂\nvt. 吞没",
+      "en": "n. an arm of a sea or ocean partly enclosed by land; larger than a bay\nn. an unbridgeable disparity (as from a failure of understanding)\nn. a deep wide chasm",
+      "phonetic": "gʌlf",
+      "forms": [
+        "gulf"
+      ],
+      "example": "Carried by Gulf currents, these tiny organisms begin attaching themselves to the structure.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "Carried by Gulf currents, these tiny organisms begin attaching themselves to the structure.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "algae",
+      "headword": "alga",
+      "kind": "word",
+      "zh": "n. 藻类, 海藻\n[机] 藻",
+      "en": "n. primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves",
+      "phonetic": "'ælgә",
+      "forms": [
+        "algae"
+      ],
+      "example": "By the end of the first three months, a variety of small animals and algae will have established themselves on the hull, beginning the transformation of bare metal into a living reef.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "hull",
+      "headword": "hull",
+      "kind": "word",
+      "zh": "n. 壳, 皮, 船体\nvt. 去壳",
+      "en": "n. dry outer covering of a fruit or seed or nut\nn. persistent enlarged calyx at base of e.g. a strawberry or raspberry\nn. United States naval officer who commanded the `Constitution' during the War of 1812 and won a series of brilliant victories against the British (1773-1843)\nn. United States diplomat who did the groundwork for creating the United Nations (1871-1955)",
+      "phonetic": "hʌl",
+      "forms": [
+        "hull"
+      ],
+      "example": "By the end of the first three months, a variety of small animals and algae will have established themselves on the hull, beginning the transformation of bare metal into a living reef.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "transformation",
+      "headword": "transformation",
+      "kind": "word",
+      "zh": "n. 变形, 变质, 变化, 改革, 变换\n[化] 转化; 变换",
+      "en": "n. a qualitative change\nn. (mathematics) a function that changes the position or direction of the axes of a coordinate system\nn. a rule describing the conversion of one syntactic structure into another related syntactic structure",
+      "phonetic": ".trænsfә'meiʃәn",
+      "forms": [
+        "transformation"
+      ],
+      "example": "By the end of the first three months, a variety of small animals and algae will have established themselves on the hull, beginning the transformation of bare metal into a living reef.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "bare",
+      "headword": "bare",
+      "kind": "word",
+      "zh": "a. 赤裸的, 缺少的, 无遮蔽的, 坦率的\nvt. 使赤裸, 露出",
+      "en": "v. lay bare\ns. completely unclothed\ns. lacking in amplitude or quantity\na. lacking its natural or customary covering",
+      "phonetic": "bєә",
+      "forms": [
+        "bare"
+      ],
+      "example": "By the end of the first three months, a variety of small animals and algae will have established themselves on the hull, beginning the transformation of bare metal into a living reef.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "Then the ship becomes covered in marine life",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "matures",
+      "headword": "mature",
+      "kind": "word",
+      "zh": "a. 成熟的, 到期的, 充分考虑的\nvt. 使成熟\nvi. 成熟, 到期",
+      "en": "v. develop and reach maturity; undergo maturation\nv. develop and work out fully in one's mind\nv. become due for repayment\na. characteristic of maturity",
+      "phonetic": "mә'tjuә",
+      "forms": [
+        "matures"
+      ],
+      "example": "As the biofilm matures, larger organisms arrive to feed on it.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "As the biofilm matures, larger organisms arrive to feed on it.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "mobile",
+      "headword": "mobile",
+      "kind": "word",
+      "zh": "a. 移动的, 易变的, 机动的\nn. 活动物体",
+      "en": "n. a river in southwestern Alabama; flows into Mobile Bay\nn. a port in southwestern Alabama on Mobile Bay\nn. sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents\ns. migratory",
+      "phonetic": "'mәubil",
+      "forms": [
+        "mobile"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "invertebrates",
+      "headword": "invertebrate",
+      "kind": "word",
+      "zh": "a. 无脊椎的, 无骨气的\nn. 无脊椎动物, 无骨气的人",
+      "en": "n. any animal lacking a backbone or notochord; the term is not used as a scientific classification\na. lacking a backbone or spinal column",
+      "phonetic": "in'vә:tәbrit",
+      "forms": [
+        "invertebrates"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "urchins",
+      "headword": "urchin",
+      "kind": "word",
+      "zh": "n. 淘气鬼, 顽童",
+      "en": "n. poor and often mischievous city child",
+      "phonetic": "'ә:tʃin",
+      "forms": [
+        "urchins"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "porcelain",
+      "headword": "porcelain",
+      "kind": "word",
+      "zh": "n. 瓷器, 瓷\na. 瓷制的",
+      "en": "n. ceramic ware made of a more or less translucent ceramic",
+      "phonetic": "'pɒ:slin",
+      "forms": [
+        "porcelain"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "crabs",
+      "headword": "crab",
+      "kind": "word",
+      "zh": "n. 螃蟹, 偏航, 脾气乖戾的人, 沙果\nvi. 捕蟹, 偏航, 发牢骚\nvt. 使偏航, 抱怨, 破坏",
+      "en": "n. decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers\nn. a quarrelsome grouch\nn. the edible flesh of any of various crabs\nn. a stroke of the oar that either misses the water or digs too deeply",
+      "phonetic": "kræb",
+      "forms": [
+        "crabs"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "oysters",
+      "headword": "oyster",
+      "kind": "word",
+      "zh": "n. 牡蛎, 蚝, 沉默者",
+      "en": "n. marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters\nn. a small muscle on each side of the back of a fowl\nv. gather oysters, dig oysters",
+      "phonetic": "'ɒistә",
+      "forms": [
+        "oysters"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "vertical",
+      "headword": "vertical",
+      "kind": "word",
+      "zh": "a. 垂直的, 直立的\n[医] 垂直的, 顶的, 头顶的",
+      "en": "n. something that is oriented vertically\na. at right angles to the plane of the horizon or a base line\na. relating to or involving all stages of a business from production to distribution\ns. of or relating to different levels in a hierarchy (as levels of social class or income group)",
+      "phonetic": "'vә:tikl",
+      "forms": [
+        "vertical"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "nutrients",
+      "headword": "nutrient",
+      "kind": "word",
+      "zh": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+      "en": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+      "phonetic": "'nju:triәnt",
+      "forms": [
+        "nutrients"
+      ],
+      "example": "These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "predators",
+      "headword": "predator",
+      "kind": "word",
+      "zh": "n. 食肉动物, 掠夺者\n[医] 捕食者",
+      "en": "n. any animal that lives by preying on other animals",
+      "phonetic": "'predәtә",
+      "forms": [
+        "predators"
+      ],
+      "example": "Smaller fish will begin to find refuge to evade open-water predators.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "corals",
+      "headword": "coral",
+      "kind": "word",
+      "zh": "n. 珊瑚, 珊瑚色\n[化] 珊瑚",
+      "en": "n. a variable color averaging a deep pink\nn. the hard stony skeleton of a Mediterranean coral that has a delicate red or pink color and is used for jewelry\nn. unfertilized lobster roe; reddens in cooking; used as garnish or to color sauces\nn. marine colonial polyp characterized by a calcareous skeleton; masses in a variety of shapes often forming reefs",
+      "phonetic": "'kɒrәl",
+      "forms": [
+        "corals",
+        "coral"
+      ],
+      "example": "By the end of the first year, hard corals will begin to establish themselves permanently.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "permanently",
+      "headword": "permanently",
+      "kind": "word",
+      "zh": "adv. 永久, 不变, 持久\n[计] 永久性的",
+      "en": "r. for a long time without essential change",
+      "phonetic": "'p\\\\\\\\:mәntli",
+      "forms": [
+        "permanently"
+      ],
+      "example": "By the end of the first year, hard corals will begin to establish themselves permanently.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "The transformation will still be in its early stages, but over the next five to ten years the hull will become increasingly encrusted with corals, sponges and other marine life.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "encrusted",
+      "headword": "encrust",
+      "kind": "word",
+      "zh": "vt. 包上外壳, 镶嵌外层\nvi. 结壳",
+      "en": "v. cover or coat with a crust\nv. decorate or cover lavishly (as with gems)\nv. form a crust or a hard layer",
+      "phonetic": "in'krʌst",
+      "forms": [
+        "encrusted"
+      ],
+      "example": "The transformation will still be in its early stages, but over the next five to ten years the hull will become increasingly encrusted with corals, sponges and other marine life.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "casual",
+      "headword": "casual",
+      "kind": "word",
+      "zh": "a. 偶然的, 不经意的, 便装的\nn. 临时工, 待命士兵",
+      "en": "s. marked by blithe unconcern\ns. without or seeming to be without plan or method; offhand\ns. appropriate for ordinary or routine occasions\ns. occurring or appearing or singled out by chance",
+      "phonetic": "'kæʒjuәl",
+      "forms": [
+        "casual"
+      ],
+      "example": "At some point, casual divers will no longer see a ship covered in coral, but a coral-covered reef that happens to contain a ship.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "shelter",
+      "headword": "shelter",
+      "kind": "word",
+      "zh": "n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽\nvt. 庇护, 保护, 隐匿\nvi. 躲避",
+      "en": "n. a structure that provides privacy and protection from danger\nn. protective covering that provides protection from the weather\nn. temporary housing for homeless or displaced persons\nv. provide shelter for",
+      "phonetic": "'ʃeltә",
+      "forms": [
+        "shelter",
+        "sheltered"
+      ],
+      "example": "As the reef develops, fish will be attracted by the shelter and the growing supply of food.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "supply",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supply"
+      ],
+      "example": "As the reef develops, fish will be attracted by the shelter and the growing supply of food.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "refuge",
+      "headword": "refuge",
+      "kind": "word",
+      "zh": "n. 避难所, 安全地带, 避难, 庇护\nvi. 躲避\nvt. 给予...庇护",
+      "en": "n. a shelter from danger or hardship",
+      "phonetic": "'refju:dʒ",
+      "forms": [
+        "refuge"
+      ],
+      "example": "Smaller fish will begin to find refuge to evade open-water predators.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "evade",
+      "headword": "evade",
+      "kind": "word",
+      "zh": "v. (巧妙地)逃脱, 规避, 逃避",
+      "en": "v. practice evasion\nv. use cunning or deceit to escape or avoid",
+      "phonetic": "i'veid",
+      "forms": [
+        "evade"
+      ],
+      "example": "Smaller fish will begin to find refuge to evade open-water predators.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "snappers",
+      "headword": "snapper",
+      "kind": "word",
+      "zh": "n. 咬人的狗, 厉声说话的人, 揿钮",
+      "en": "n. flesh of any of various important food fishes of warm seas\nn. Australian food fish having a pinkish body with blue spots\nn. any of several large sharp-toothed marine food and sport fishes of the family Lutjanidae of mainly tropical coastal waters",
+      "phonetic": "'snæpә",
+      "forms": [
+        "snappers"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "groupers",
+      "headword": "grouper",
+      "kind": "word",
+      "zh": "n. 石斑鱼",
+      "en": "n. flesh of a saltwater fish similar to sea bass\nn. usually solitary bottom sea basses of warm seas",
+      "phonetic": "'gru:pә",
+      "forms": [
+        "groupers"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "medium-sized",
+      "headword": "medium-sized",
+      "kind": "word",
+      "zh": "a. 中型的, 中等大小的",
+      "en": "s. intermediate in size",
+      "phonetic": "'mi:diәm'saizd",
+      "forms": [
+        "medium-sized"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "permanent",
+      "headword": "permanent",
+      "kind": "word",
+      "zh": "a. 永久的, 不变的, 固定的, 持久的\nn. 烫发\n[计] 永久的",
+      "en": "a. continuing or enduring without marked change in status or condition or place\ns. not capable of being reversed or returned to the original condition",
+      "phonetic": "'pә:mәnәnt",
+      "forms": [
+        "permanent"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "residency",
+      "headword": "residency",
+      "kind": "word",
+      "zh": "n. 住处\n[法] 住处, 管辖区",
+      "en": "n. the act of dwelling in a place\nn. the position of physician who is receiving special training in a hospital (usually after completing an internship)",
+      "phonetic": "'rezidәnsi",
+      "forms": [
+        "residency"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "wreck",
+      "headword": "wreck",
+      "kind": "word",
+      "zh": "n. 失事, 残骸, 破坏\nvt. 使失事, 拆毁, 破坏\nvi. (船)失事, 营救失事船只",
+      "en": "n. something or someone that has suffered ruin or dilapidation\nn. a ship that has been destroyed at sea",
+      "phonetic": "rek",
+      "forms": [
+        "wreck"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "internal",
+      "headword": "internal",
+      "kind": "word",
+      "zh": "a. 内在的, 国内的\n[医] 内的, 内部的",
+      "en": "a. happening or arising or located within some limits or especially surface\ns. occurring within an institution or community",
+      "phonetic": "in'tә:nәl",
+      "forms": [
+        "internal"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "corridors",
+      "headword": "corridor",
+      "kind": "word",
+      "zh": "n. 走廊, 回廊, 人口密集地带",
+      "en": "n. an enclosed passageway; rooms usually open onto it",
+      "phonetic": "'kɒridɒ:",
+      "forms": [
+        "corridors"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "protection",
+      "headword": "protection",
+      "kind": "word",
+      "zh": "n. 保护, 防卫, 贸易保护制度\n[计] 保护",
+      "en": "n. the activity of protecting someone or something\nn. the condition of being protected\nn. the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition\nn. payment extorted by gangsters on threat of violence",
+      "phonetic": "prә'tekʃәn",
+      "forms": [
+        "protection"
+      ],
+      "example": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "barracuda",
+      "headword": "barracuda",
+      "kind": "word",
+      "zh": "n. 梭子鱼",
+      "en": "n. any voracious marine fish of the genus Sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth",
+      "phonetic": ",bærә'ku:dә",
+      "forms": [
+        "barracuda"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "king",
+      "headword": "king",
+      "kind": "word",
+      "zh": "n. 国王, 君主\nvt. 使...成为君主\nvi. 君临, 统治",
+      "en": "n. a male sovereign; ruler of a kingdom\nn. a competitor who holds a preeminent position\nn. preeminence in a particular category or group or field\nn. United States woman tennis player (born in 1943)",
+      "phonetic": "kiŋ",
+      "forms": [
+        "king"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "mackerel",
+      "headword": "mackerel",
+      "kind": "word",
+      "zh": "n. 鲭",
+      "en": "n. flesh of very important usually small (to 18 in) fatty Atlantic fish\nn. any of various fishes of the family Scombridae",
+      "phonetic": "'mækәrәl",
+      "forms": [
+        "mackerel"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "sharks",
+      "headword": "shark",
+      "kind": "word",
+      "zh": "n. 鲨鱼, 骗子\nv. 诈骗",
+      "en": "n. any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales\nn. a person who is ruthless and greedy and dishonest\nn. a person who is unusually skilled in certain ways\nv. play the shark; act with trickery",
+      "phonetic": "ʃɑ:k",
+      "forms": [
+        "sharks"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "patrol",
+      "headword": "patrol",
+      "kind": "word",
+      "zh": "n. 巡逻, 巡逻员, 侦察队\nv. 巡逻, 巡视",
+      "en": "n. a detachment used for security or reconnaissance\nn. the activity of going around or through an area at regular intervals for security purposes\nn. a group that goes through a region at regular intervals for the purpose of security\nv. maintain the security of by carrying out a patrol",
+      "phonetic": "pә'trәul",
+      "forms": [
+        "patrol"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "decks",
+      "headword": "deck",
+      "kind": "word",
+      "zh": "n. 甲板, (汽车后部的)行李仓\nvt. 装饰, 打扮, 装甲板\n[计] 纸牌背面图案",
+      "en": "n. any of various platforms built into a vessel\nn. street name for a packet of illegal drugs\nn. a porch that resembles the deck on a ship\nv. be beautiful to look at",
+      "phonetic": "dek",
+      "forms": [
+        "decks"
+      ],
+      "example": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "exposed",
+      "headword": "expose",
+      "kind": "word",
+      "zh": "vt. 使暴露, 使曝光, 揭穿, 陈列\n[医] 暴露, 露置",
+      "en": "n. the exposure of an impostor or a fraud\nv. expose or make accessible to some action or influence\nv. to show, make visible or apparent\nv. expose to light, of photographic film",
+      "phonetic": "ik'spәuz",
+      "forms": [
+        "exposed"
+      ],
+      "example": "The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "free-swimming",
+      "headword": "free-swimming",
+      "kind": "word",
+      "zh": "自由游动的",
+      "en": "s (of animals) able to swim about; not attached",
+      "phonetic": "f'ri:sw'ɪmɪŋ",
+      "forms": [
+        "free-swimming"
+      ],
+      "example": "The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "hunt",
+      "headword": "hunt",
+      "kind": "word",
+      "zh": "n. 狩猎, 追捕, 搜寻, 猎区\nvt. 狩猎, 打猎, 搜索\nvi. 打猎, 猎食, 搜寻",
+      "en": "n. Englishman and Pre-Raphaelite painter (1827-1910)\nn. United States architect (1827-1895)\nn. British writer who defended the Romanticism of Keats and Shelley (1784-1859)\nn. an association of huntsmen who hunt for sport",
+      "phonetic": "hʌnt",
+      "forms": [
+        "hunt"
+      ],
+      "example": "The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "interactions",
+      "headword": "interaction",
+      "kind": "word",
+      "zh": "n. 交互作用, 交感\n[计] 交互作用",
+      "en": "n. a mutual or reciprocal action; interacting\nn. (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons",
+      "phonetic": ".intәr'ækʃәn",
+      "forms": [
+        "interactions"
+      ],
+      "example": "Over time, these interactions could create a complex food web, turning the wreck into a significant biological hotspot.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "Over time, these interactions could create a complex food web, turning the wreck into a significant biological hotspot.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "hotspot",
+      "headword": "hotspot",
+      "kind": "word",
+      "zh": "n. 热区；热点",
+      "en": "n a place of political unrest and potential violence\nn a point of relatively intense heat or radiation\nn a lively entertainment spot",
+      "phonetic": "",
+      "forms": [
+        "hotspot"
+      ],
+      "example": "Over time, these interactions could create a complex food web, turning the wreck into a significant biological hotspot.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "misconception",
+      "headword": "misconception",
+      "kind": "word",
+      "zh": "n. 误解",
+      "en": "n. an incorrect conception",
+      "phonetic": ".miskәn'sepʃәn",
+      "forms": [
+        "misconception"
+      ],
+      "example": "A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "concentrate",
+      "headword": "concentrate",
+      "kind": "word",
+      "zh": "n. 浓缩, 精选\nv. 集中, 专心",
+      "en": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something",
+      "phonetic": "'kɒnsәntreit",
+      "forms": [
+        "concentrate"
+      ],
+      "example": "A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "surrounding",
+      "headword": "surround",
+      "kind": "word",
+      "zh": "vt. 包围, 环绕, 围绕\nn. 围绕物",
+      "en": "v. extend on all sides of simultaneously; encircle",
+      "phonetic": "sә'raund",
+      "forms": [
+        "surrounding"
+      ],
+      "example": "A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "In reality, while some fish are attracted from elsewhere, a large reef structure also creates vast amounts of new habitat and food.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "vast",
+      "headword": "vast",
+      "kind": "word",
+      "zh": "a. 巨大的, 广大的, 非常的, 大量的",
+      "en": "s unusually great in size or amount or degree or especially extent or scope",
+      "phonetic": "vɑ:st",
+      "forms": [
+        "vast"
+      ],
+      "example": "In reality, while some fish are attracted from elsewhere, a large reef structure also creates vast amounts of new habitat and food.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "builders",
+      "headword": "builder",
+      "kind": "word",
+      "zh": "n. 建立者\n[机] 组份",
+      "en": "n. a substance added to soaps or detergents to increase their cleansing action\nn. a person who creates a business or who organizes and develops a country\nn. someone who contracts for and supervises construction (as of a building)",
+      "phonetic": "'bildә",
+      "forms": [
+        "builders"
+      ],
+      "example": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "previously",
+      "headword": "previously",
+      "kind": "word",
+      "zh": "adv. 先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先\n[计] 先前地",
+      "en": "r. at an earlier time or formerly",
+      "phonetic": "'pri:vju:sli",
+      "forms": [
+        "previously"
+      ],
+      "example": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "generally",
+      "headword": "generally",
+      "kind": "word",
+      "zh": "adv. 通常, 逐渐地, 普遍地",
+      "en": "r. without distinction of one from others",
+      "phonetic": "'dʒenәrәli",
+      "forms": [
+        "generally"
+      ],
+      "example": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "underwater",
+      "headword": "underwater",
+      "kind": "word",
+      "zh": "a. 在水中的\nadv. 在水下",
+      "en": "s beneath the surface of the water\ns growing or remaining under water",
+      "phonetic": "'ʌndә'wɒ:tә",
+      "forms": [
+        "underwater"
+      ],
+      "example": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "crowd",
+      "headword": "crowd",
+      "kind": "word",
+      "zh": "n. 群众, 一伙人\nvt. 拥挤, 挤满, 挤进",
+      "en": "n. a large number of things or people considered together\nn. an informal body of friends\nv. fill or occupy to the point of overflowing\nv. to gather together in large numbers",
+      "phonetic": "kraud",
+      "forms": [
+        "crowd"
+      ],
+      "example": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "gathered",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gathered"
+      ],
+      "example": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "gradual",
+      "headword": "gradual",
+      "kind": "word",
+      "zh": "a. 逐渐的, 渐增的\nn. 弥撒升阶圣歌",
+      "en": "n. (Roman Catholic Church) an antiphon (usually from the Book of Psalms) immediately after the epistle at Mass\na. proceeding in small stages\na. (of a topographical gradient) not steep or abrupt",
+      "phonetic": "'grædʒuәl",
+      "forms": [
+        "gradual"
+      ],
+      "example": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "widespread",
+      "headword": "widespread",
+      "kind": "word",
+      "zh": "a. 充分伸展的, 广布的, 普及的, 流传广的",
+      "en": "s. widely circulated or diffused",
+      "phonetic": "'waidspred",
+      "forms": [
+        "widespread"
+      ],
+      "example": "Another widespread misconception is that marine scientists “seed” artificial reefs with organisms or their larvae.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "seed",
+      "headword": "seed",
+      "kind": "word",
+      "zh": "n. 种子, 籽, 萌芽, 子孙, 精液\nvt. 在...播种, 催...发育, 脱...籽\nvi. 结实, 播种",
+      "en": "n. a small hard fruit\nn. a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa\nv. go to seed; shed seeds\nv. help (an enterprise) in its early stages of development by providing seed money",
+      "phonetic": "si:d",
+      "forms": [
+        "seed"
+      ],
+      "example": "Another widespread misconception is that marine scientists “seed” artificial reefs with organisms or their larvae.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "colonisation",
+      "headword": "colonisation",
+      "kind": "word",
+      "zh": "n. 定殖；殖民地化；集群现象",
+      "en": "n the act of colonizing; the establishment of colonies",
+      "phonetic": ",kɔlənai'zeiʃən",
+      "forms": [
+        "colonisation"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "naturally",
+      "headword": "naturally",
+      "kind": "word",
+      "zh": "adv. 自然地, 以自然力, 天生地",
+      "en": "r. as might be expected\nr. according to nature; by natural means; without artificial help\nr. through inherent nature\nr. in a natural or normal manner",
+      "phonetic": "'nætʃәrәli",
+      "forms": [
+        "naturally"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "mexico",
+      "headword": "Mexico",
+      "kind": "word",
+      "zh": "n. 墨西哥",
+      "en": "n. a republic in southern North America; became independent from Spain in 1810",
+      "phonetic": "'meksikәu",
+      "forms": [
+        "mexico"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "harbours",
+      "headword": "harbour",
+      "kind": "word",
+      "zh": "n. 港, 避难所\nv. 庇护, 藏匿, (使)入港停泊",
+      "en": "n a sheltered port where ships can take on or discharge cargo\nn a place of refuge and comfort and security\nv secretly shelter (as of fugitives or criminals)\nv keep in one's possession; of animals\nv hold back a thought or feeling about\nv maintain (a theory, thoughts, or feelings)",
+      "phonetic": "'hɑ:bә",
+      "forms": [
+        "harbours"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "abundant",
+      "headword": "abundant",
+      "kind": "word",
+      "zh": "a. 丰富的, 充分的, 大量的",
+      "en": "a. present in great quantity",
+      "phonetic": "ә'bʌndәnt",
+      "forms": [
+        "abundant"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "pool",
+      "headword": "pool",
+      "kind": "word",
+      "zh": "n. 池, 水塘, 石油层, 联营\nvt. 合伙经营, 共享, 采掘, 汇聚成\nvi. 汇合成塘, 淤积, 联营",
+      "en": "n. an excavation that is (usually) filled with water\nn. an organization of people or resources that can be shared\nn. any communal combination of funds\nn. a small body of standing water (rainwater) or other liquid",
+      "phonetic": "pu:l",
+      "forms": [
+        "pool"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "migratory",
+      "headword": "migratory",
+      "kind": "word",
+      "zh": "a. 迁移的, 流浪的",
+      "en": "a. used of animals that move seasonally",
+      "phonetic": "'maigrәtәri",
+      "forms": [
+        "migratory"
+      ],
+      "example": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "artificially",
+      "headword": "artificially",
+      "kind": "word",
+      "zh": "adv. 人工地, 人为地, 不自然地",
+      "en": "r. not according to nature; not by natural means",
+      "phonetic": ".ɑ:ti'fiʃәli",
+      "forms": [
+        "artificially"
+      ],
+      "example": "Artificially introducing marine life is unnecessary and risks introducing non-native species or pathogens.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "unnecessary",
+      "headword": "unnecessary",
+      "kind": "word",
+      "zh": "a. 不必要的",
+      "en": "a. not necessary",
+      "phonetic": ".ʌn'nesәsәri",
+      "forms": [
+        "unnecessary"
+      ],
+      "example": "Artificially introducing marine life is unnecessary and risks introducing non-native species or pathogens.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "pathogens",
+      "headword": "pathogen",
+      "kind": "word",
+      "zh": "n. 病原体\n[医] 病原体",
+      "en": "n. any disease-producing agent (especially a virus or bacterium or other microorganism)",
+      "phonetic": "'pæθәdʒ(ә)n",
+      "forms": [
+        "pathogens"
+      ],
+      "example": "Artificially introducing marine life is unnecessary and risks introducing non-native species or pathogens.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "engineering",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineering"
+      ],
+      "example": "Instead, human engineering is largely about preparing the ship for sinking.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "Instead, human engineering is largely about preparing the ship for sinking.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "hazards",
+      "headword": "hazard",
+      "kind": "word",
+      "zh": "n. 冒险, 危险, 机会\nvt. 冒...的危险, 赌运气, 使冒危险\n[计] 相关危险; 冒险",
+      "en": "n. a source of danger; a possibility of incurring loss or misfortune\nn. an obstacle on a golf course",
+      "phonetic": "'hæzәd",
+      "forms": [
+        "hazards"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v167",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v168",
+      "term": "asbestos",
+      "headword": "asbestos",
+      "kind": "word",
+      "zh": "n. 石棉\n[化] 石棉",
+      "en": "n. a fibrous amphibole; used for making fireproof articles; inhaling fibers can cause asbestosis or lung cancer",
+      "phonetic": "æs'bestɒs",
+      "forms": [
+        "asbestos"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v169",
+      "term": "loose",
+      "headword": "loose",
+      "kind": "word",
+      "zh": "n. 发射, 放任, 放纵\na. 宽松的, 松的, 宽的, 不牢固的, 散漫的, 自由的, 不精确的\nvt. 释放, 放枪, 开船\nvi. 变松, 开火\nadv. 松散地",
+      "en": "a. not compact or dense in structure or arrangement\ns. (of a ball in sport) not in the possession or control of any player\na. not tight; not closely constrained or constricted or constricting\ns. not tense or taut",
+      "phonetic": "lu:s",
+      "forms": [
+        "loose"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v170",
+      "term": "wires",
+      "headword": "wire",
+      "kind": "word",
+      "zh": "n. 电线, 电报, 电信, 铁丝网, 金属丝\nvt. 用金属丝捆扎, 拍电报\nvi. 打电报",
+      "en": "n. ligament made of metal and used to fasten things or make cages or fences etc\nn. a metal conductor that carries electricity over a distance\nn. the finishing line on a racetrack\nv. provide with electrical circuits",
+      "phonetic": "'waiә",
+      "forms": [
+        "wires"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v171",
+      "term": "sealing",
+      "headword": "seal",
+      "kind": "word",
+      "zh": "n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志\nvt. 封闭, 盖印, 盖章\nvi. 猎海豹",
+      "en": "n. a device incised to make an impression; used to secure a closing or to authenticate documents\nn. the pelt or fur (especially the underfur) of a seal\nn. a stamp affixed to a document (as to attest to its authenticity or to seal it)\nn. a finishing coat applied to exclude moisture",
+      "phonetic": "si:l",
+      "forms": [
+        "sealing"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v172",
+      "term": "disorientated",
+      "headword": "disorientate",
+      "kind": "word",
+      "zh": "vt. 使失去方向, 使迷惑",
+      "en": "v cause to be lost or disoriented",
+      "phonetic": "dis'ɒ:rienteit",
+      "forms": [
+        "disorientated"
+      ],
+      "example": "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v173",
+      "term": "scuttling",
+      "headword": "scuttle",
+      "kind": "word",
+      "zh": "n. 箩, 筐, 急速逃走, 天窗, 小舱口\nvi. 急速逃走, 急忙撤退\nvt. 凿沉, 毁坏",
+      "en": "n. container for coal; shaped to permit pouring the coal onto the fire",
+      "phonetic": "'skʌtl",
+      "forms": [
+        "scuttling"
+      ],
+      "example": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v174",
+      "term": "rare",
+      "headword": "rare",
+      "kind": "word",
+      "zh": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的\nadv. 非常",
+      "en": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density",
+      "phonetic": "rєә",
+      "forms": [
+        "rare"
+      ],
+      "example": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v175",
+      "term": "convergence",
+      "headword": "convergence",
+      "kind": "word",
+      "zh": "n. 集中, 收敛\n[计] 收敛, 会聚",
+      "en": "n. the occurrence of two or more things coming together\nn. the approach of an infinite series to a finite limit\nn. the act of converging (coming closer)",
+      "phonetic": "kәn'vә:dʒәns",
+      "forms": [
+        "convergence"
+      ],
+      "example": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v176",
+      "term": "maritime",
+      "headword": "maritime",
+      "kind": "word",
+      "zh": "a. 海的, 海上的, 海事的, 沿海的, 海员的\n[经] 海事的, 海上的, 海员的",
+      "en": "s. bordering on or living or characteristic of those near the sea",
+      "phonetic": "'mæritaim",
+      "forms": [
+        "maritime"
+      ],
+      "example": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v177",
+      "term": "ecology",
+      "headword": "ecology",
+      "kind": "word",
+      "zh": "n. 生态学, 社会生态学\n[化] 生态学",
+      "en": "n. the environment as it relates to living organisms\nn. the branch of biology concerned with the relations between organisms and their environment",
+      "phonetic": "i:'kɒlәdʒi",
+      "forms": [
+        "ecology"
+      ],
+      "example": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v178",
+      "term": "transformed",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transformed"
+      ],
+      "example": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v179",
+      "term": "record-breaking",
+      "headword": "record-breaking",
+      "kind": "word",
+      "zh": "a. 打破记录的",
+      "en": "s. surpassing any previously established record",
+      "phonetic": "",
+      "forms": [
+        "record-breaking"
+      ],
+      "example": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v180",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v181",
+      "term": "anchor",
+      "headword": "anchor",
+      "kind": "word",
+      "zh": "n. 锚\nvt. 抛锚停泊, 使固定\n[计] 锚",
+      "en": "n. a mechanical device that prevents a vessel from moving\nn. a central cohesive source of support and stability\nn. a television reporter who coordinates a broadcast to which several correspondents contribute\nv. fix firmly and stably",
+      "phonetic": "'æŋkә",
+      "forms": [
+        "anchor"
+      ],
+      "example": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v182",
+      "term": "vibrant",
+      "headword": "vibrant",
+      "kind": "word",
+      "zh": "a. 振动的, 战栗的, 响亮的, 活跃的",
+      "en": "s. vigorous and animated\ns. of sounds that are strong and resonating\ns. of colors that are bright and striking",
+      "phonetic": "'vaibrәnt",
+      "forms": [
+        "vibrant"
+      ],
+      "example": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v183",
+      "term": "unfolds",
+      "headword": "unfold",
+      "kind": "word",
+      "zh": "vt. 展开, 打开, 披露, 开展, 挑明\nvi. 伸展, 开花, 呈现",
+      "en": "v. open to the view\nv. extend or stretch out to a greater or the full length\nv. spread out or open from a closed or folded state",
+      "phonetic": ".ʌn'fәuld",
+      "forms": [
+        "unfolds"
+      ],
+      "example": "I’m looking forward to seeing how that transformation unfolds – and maybe, one day, exploring it myself.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v184",
+      "term": "exploring",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "exploring"
+      ],
+      "example": "I’m looking forward to seeing how that transformation unfolds – and maybe, one day, exploring it myself.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      15,
+      22
+    ],
+    "wordBank": [
+      "harbours",
+      "free-swimming",
+      "concentrate",
+      "vibrant",
+      "barracuda",
+      "builders",
+      "gradual",
+      "refuge",
+      "largely",
+      "scuttling"
+    ],
+    "parts": [
+      {
+        "text": "As the reef develops, fish will be attracted by the shelter and the growing supply of food. Smaller fish will begin to find "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " to evade open-water predators.\n\nSnappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection. Larger predators, including "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ", king mackerel and sharks, could also patrol its decks and upper sections.\n\nThe ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " species can hunt. Over time, these interactions could create a complex food web, turning the wreck into a significant biological hotspot.\n\nA common misconception is that artificial reefs simply "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " fish that were already present, leaving surrounding waters poorer. In reality, while some fish are attracted from elsewhere, a large reef structure also creates vast amounts of new habitat and food.\n\nAs corals, sponges, barnacles and other reef "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall. The result is generally not an underwater crowd gathered around a ship, but a "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " increase in the total amount of marine life the area can support.\n\nAnother widespread misconception is that marine scientists “seed” artificial reefs with organisms or their larvae. In reality, colonisation happens naturally: the Gulf of Mexico already "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " an abundant pool of drifting larvae and migratory fish. Artificially introducing marine life is unnecessary and risks introducing non-native species or pathogens.\n\nInstead, human engineering is "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " about preparing the ship for sinking. This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.\n\nThe "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " of the SS United States represents a rare convergence of maritime history, ecology, and engineering. Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " marine ecosystem for decades to come. I’m looking forward to seeing how that transformation unfolds – and maybe, one day, exploring it myself."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "refuge",
+        "vocabularyId": "v116",
+        "explanation": "原文此处使用 refuge（refuge）。结合上下文辨认词义与词形。",
+        "evidence": "Smaller fish will begin to find refuge to evade open-water predators.",
+        "paragraph": 15
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "barracuda",
+        "vocabularyId": "v127",
+        "explanation": "原文此处使用 barracuda（barracuda）。结合上下文辨认词义与词形。",
+        "evidence": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
+        "paragraph": 16
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "free-swimming",
+        "vocabularyId": "v134",
+        "explanation": "原文此处使用 free-swimming（free-swimming）。结合上下文辨认词义与词形。",
+        "evidence": "The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt.",
+        "paragraph": 17
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "concentrate",
+        "vocabularyId": "v140",
+        "explanation": "原文此处使用 concentrate（concentrate）。结合上下文辨认词义与词形。",
+        "evidence": "A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer.",
+        "paragraph": 18
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "builders",
+        "vocabularyId": "v144",
+        "explanation": "原文此处使用 builders（builder）。结合上下文辨认词义与词形。",
+        "evidence": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
+        "paragraph": 19
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "gradual",
+        "vocabularyId": "v151",
+        "explanation": "原文此处使用 gradual（gradual）。结合上下文辨认词义与词形。",
+        "evidence": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
+        "paragraph": 19
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "harbours",
+        "vocabularyId": "v157",
+        "explanation": "原文此处使用 harbours（harbour）。结合上下文辨认词义与词形。",
+        "evidence": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
+        "paragraph": 20
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "largely",
+        "vocabularyId": "v165",
+        "explanation": "原文此处使用 largely（largely）。结合上下文辨认词义与词形。",
+        "evidence": "Instead, human engineering is largely about preparing the ship for sinking.",
+        "paragraph": 21
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "scuttling",
+        "vocabularyId": "v173",
+        "explanation": "原文此处使用 scuttling（scuttle）。结合上下文辨认词义与词形。",
+        "evidence": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
+        "paragraph": 22
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "vibrant",
+        "vocabularyId": "v182",
+        "explanation": "原文此处使用 vibrant（vibrant）。结合上下文辨认词义与词形。",
+        "evidence": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Human development creates opportunities for mosquitoes and the diseases they transmit.",
+          "Dry climates can increase river nitrate pollution even far from intensive human activity.",
+          "The sinking of a large ship creates an artificial reef that marine organisms will gradually colonise.",
+          "Natural ecosystems can provide climate adaptation at lower cost than many engineered structures."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "At some point, casual divers will no longer see a ship covered in coral, but a coral-covered reef that happens to contain a ship.",
+        "paragraph": 14
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What achievement made the SS United States' first voyage notable?",
+        "options": [
+          "A record-breaking Atlantic crossing by a passenger liner",
+          "The first voyage ever made by any ship",
+          "A nonstop journey across the Pacific in one hour",
+          "The first landing on the Moon"
+        ],
+        "answer": 0,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea.",
+          "The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.",
+          "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+          "This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull."
+        ],
+        "answer": 2,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.”",
+        "options": [
+          "Paragraph 16",
+          "Paragraph 19",
+          "Paragraph 1",
+          "Paragraph 18"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 16 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection.",
+        "paragraph": 16
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.”",
+        "options": [
+          "Paragraph 2",
+          "Paragraph 17",
+          "Paragraph 20",
+          "Paragraph 19"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
+        "paragraph": 19
+      }
+    ]
+  },
+  "revision": "73ae06dcb85ef782e8b5c7495a55b2e241fb4672f1dceddc41daf996a3319b81"
+}

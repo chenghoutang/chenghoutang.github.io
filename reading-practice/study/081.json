@@ -1,0 +1,2368 @@
+{
+  "schemaVersion": 1,
+  "folder": "081",
+  "articleSha256": "db7d3320c1b6c6a83e38679d35e475dc5ddf24dfa1ad3a0e74690e31fe6fb482",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "productivity",
+      "headword": "productivity",
+      "kind": "word",
+      "zh": "n. 生产力\n[经] 生产率, 生产能力",
+      "en": "n. (economics) the ratio of the quantity and quality of units produced to the labor per unit of time",
+      "phonetic": ".prәudʌk'tiviti",
+      "forms": [
+        "productivity"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "gains",
+      "headword": "gain",
+      "kind": "word",
+      "zh": "n. 增益, 获得, 利润, 收获, 增加\nvt. 得到, 增进, 赚到\nvi. 获利, 增加\n[计] 增益",
+      "en": "n. the amount by which the revenue of a business exceeds its cost of operating\nv. obtain advantages, such as points, etc.\nv. increase or develop\nv. earn on some commercial or business transaction; earn as salary or wages",
+      "phonetic": "gein",
+      "forms": [
+        "gains"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "generative",
+      "headword": "generative",
+      "kind": "word",
+      "zh": "a. 生殖的, 生产的, 有生殖力的\n[医] 生殖的, 发生的",
+      "en": "a. having the ability to produce or originate\ns. producing new life or offspring",
+      "phonetic": "'dʒenәrәtiv",
+      "forms": [
+        "generative"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "touted",
+      "headword": "tout",
+      "kind": "word",
+      "zh": "vi. 招徕顾客, 兜售物品\nvt. 招徕, 刺探...情报\nn. 兜售者, 侦查者",
+      "en": "n. someone who buys tickets to an event in order to resell them at a profit\nn. someone who advertises for customers in an especially brazen way\nv. advertize in strongly positive terms",
+      "phonetic": "taut",
+      "forms": [
+        "touted"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "rapid",
+      "headword": "rapid",
+      "kind": "word",
+      "zh": "a. 迅速的, 飞快的, 急促的, 陡的\nn. 急流",
+      "en": "n. a part of a river where the current is very fast\ns. done or occurring in a brief period of time\ns. characterized by speed; moving with or capable of moving with high speed",
+      "phonetic": "'ræpid",
+      "forms": [
+        "rapid"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "adoption",
+      "headword": "adoption",
+      "kind": "word",
+      "zh": "n. 采用, 采纳, 收养\n[法] 收养, 采纳, 采用",
+      "en": "n. the act of accepting with approval; favorable reception\nn. a legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit)",
+      "phonetic": "ә'dɒpʃәn",
+      "forms": [
+        "adoption"
+      ],
+      "example": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "calculator",
+      "headword": "calculator",
+      "kind": "word",
+      "zh": "n. 计算者, 计算器\n[计] 计算器",
+      "en": "n. an expert at calculation (or at operating calculating machines)\nn. a small machine that is used for mathematical calculations",
+      "phonetic": "'kælkjuleitә",
+      "forms": [
+        "calculator"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "instantly",
+      "headword": "instantly",
+      "kind": "word",
+      "zh": "adv. 立即地, 即刻地",
+      "en": "r without delay or hesitation; with no time intervening\nr without any delay",
+      "phonetic": "'instәntli",
+      "forms": [
+        "instantly"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "solve",
+      "headword": "solve",
+      "kind": "word",
+      "zh": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解",
+      "en": "v. find the solution to (a problem or question) or understand the meaning of",
+      "phonetic": "sɒlv",
+      "forms": [
+        "solve"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "mathematical",
+      "headword": "mathematical",
+      "kind": "word",
+      "zh": "a. 数学的, 精确的\n[机] 数学上的",
+      "en": "a. of or pertaining to or of the nature of mathematics\ns. beyond question\ns. statistically possible though highly improbable\ns. characterized by the exactness or precision of mathematics",
+      "phonetic": ".mæθә'mætikl",
+      "forms": [
+        "mathematical"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "equations",
+      "headword": "equation",
+      "kind": "word",
+      "zh": "n. 相等, 等式, 平衡\n[化] 方程式; 等式; 反应式; 公式",
+      "en": "n. a mathematical statement that two expressions are equal\nn. the act of regarding as equal",
+      "phonetic": "i'kweiʃәn",
+      "forms": [
+        "equations"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "compute",
+      "headword": "compute",
+      "kind": "word",
+      "zh": "v. 计算, 估算\nn. 计算, 估算",
+      "en": "v make a mathematical calculation or computation",
+      "phonetic": "kәm'pju:t",
+      "forms": [
+        "compute"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "quickly",
+      "headword": "quickly",
+      "kind": "word",
+      "zh": "adv. 很快地",
+      "en": "r. with rapid movements",
+      "phonetic": "'kwikli",
+      "forms": [
+        "quickly"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "summarize",
+      "headword": "summarize",
+      "kind": "word",
+      "zh": "v. 概述, 总结",
+      "en": "v. be a summary of",
+      "phonetic": "'sʌmәraiz",
+      "forms": [
+        "summarize"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "draft",
+      "headword": "draft",
+      "kind": "word",
+      "zh": "n. 气流, 草稿, 汇票, 草案\nvt. 起草, 征兵\n[计] 草稿",
+      "en": "n. a document ordering the payment of money; drawn by one person or bank on another\nn. a current of air (usually coming into a chimney or room or vehicle)\nn. a preliminary sketch of a design or picture\nn. a serving of drink (usually alcoholic) drawn from a keg",
+      "phonetic": "dræft. drɑ:ft",
+      "forms": [
+        "draft"
+      ],
+      "example": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "quintessentially",
+      "headword": "quintessentially",
+      "kind": "word",
+      "zh": "adv. 典型地, 标准地",
+      "en": "",
+      "phonetic": ",kwinti'senʃəli",
+      "forms": [
+        "quintessentially"
+      ],
+      "example": "But beyond productivity, a key question remains: How is AI affecting quintessentially human activities, such as collaboration and creativity?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "But beyond productivity, a key question remains: How is AI affecting quintessentially human activities, such as collaboration and creativity?",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v18",
+      "term": "collaboration",
+      "headword": "collaboration",
+      "kind": "word",
+      "zh": "n. 合作, 勾结\n[法] 通敌卖国者, 奸细",
+      "en": "n. act of working jointly\nn. act of cooperating traitorously with an enemy that is occupying your country",
+      "phonetic": "kә.læbә'ræʃәn",
+      "forms": [
+        "collaboration"
+      ],
+      "example": "But beyond productivity, a key question remains: How is AI affecting quintessentially human activities, such as collaboration and creativity?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "creativity",
+      "headword": "creativity",
+      "kind": "word",
+      "zh": "n. 创造力, 创造性",
+      "en": "n. the ability to create",
+      "phonetic": ".kri:ei'tiviti",
+      "forms": [
+        "creativity"
+      ],
+      "example": "But beyond productivity, a key question remains: How is AI affecting quintessentially human activities, such as collaboration and creativity?",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "cognitive",
+      "headword": "cognitive",
+      "kind": "word",
+      "zh": "a. 认知的, 认识的",
+      "en": "a. of or being or relating to or involving cognition",
+      "phonetic": "'kɒgnitiv",
+      "forms": [
+        "cognitive"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "experiment",
+      "headword": "experiment",
+      "kind": "word",
+      "zh": "n. 实验, 试验, 实验仪器\nvi. 实验, 尝试",
+      "en": "n. the act of conducting a controlled test or investigation\nn. the testing of an idea\nn. a venture at something new or different\nv. to conduct a test or investigation",
+      "phonetic": "ik'sperimәnt",
+      "forms": [
+        "experiment"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "explored",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "explored",
+        "explore"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "originality",
+      "headword": "originality",
+      "kind": "word",
+      "zh": "n. 创意, 新奇, 独创能力, 原始",
+      "en": "n. the ability to think and act independently\nn. the quality of being new and original (not derived from something else)",
+      "phonetic": "ә.ridʒә'næliti",
+      "forms": [
+        "originality"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "aspects",
+      "headword": "aspect",
+      "kind": "word",
+      "zh": "n. 外观, 方面, 面貌, 方向\n[医] 方面, 局面; 外观",
+      "en": "n. a distinct feature or element in a problem\nn. a characteristic to be considered\nn. the beginning or duration or completion or repetition of the action of a verb",
+      "phonetic": "'æspekt",
+      "forms": [
+        "aspects"
+      ],
+      "example": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "speedy",
+      "headword": "speedy",
+      "kind": "word",
+      "zh": "a. 快的, 迅速的\n[经] 快的, 迅速的",
+      "en": "s characterized by speed; moving with or capable of moving with high speed\ns accomplished rapidly and without delay",
+      "phonetic": "'spi:di",
+      "forms": [
+        "speedy"
+      ],
+      "example": "Speedy and wordy doesn’t mean creative",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "wordy",
+      "headword": "wordy",
+      "kind": "word",
+      "zh": "a. 罗唆的, 口头的, 多言的",
+      "en": "s using or containing too many words",
+      "phonetic": "'wә:di",
+      "forms": [
+        "wordy"
+      ],
+      "example": "Speedy and wordy doesn’t mean creative",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "creative",
+      "headword": "creative",
+      "kind": "word",
+      "zh": "a. 有创造力的, 创作的, 产生的",
+      "en": "a. having the ability or power to create\ns. promoting construction or creation",
+      "phonetic": "kri:'eitiv",
+      "forms": [
+        "creative"
+      ],
+      "example": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "tied",
+      "headword": "tie",
+      "kind": "word",
+      "zh": "n. 带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负\nvt. 系, 打结, 扎, 约束, 与...成平局\nvi. 结合, 打结, 不分胜负",
+      "en": "n. equality of score in a contest\nn. a horizontal beam used to prevent two other structural members from spreading apart or separating\nn. (music) a slur over two notes of the same pitch; indicates that the note is to be sustained for their combined time value\nn. one of the cross braces that support the rails on a railway track",
+      "phonetic": "tai",
+      "forms": [
+        "tied"
+      ],
+      "example": "Creativity is often tied to what cognitive scientists call “divergent thinking.”",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "divergent",
+      "headword": "divergent",
+      "kind": "word",
+      "zh": "a. 有分歧的\n[医] 散开的, 偏斜的",
+      "en": "s. diverging from another or from a standard\na. tending to move apart in different directions",
+      "phonetic": "dai'vә:dʒәnt",
+      "forms": [
+        "divergent"
+      ],
+      "example": "Creativity is often tied to what cognitive scientists call “divergent thinking.”",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "brick",
+      "headword": "brick",
+      "kind": "word",
+      "zh": "n. 砖块, 积木\na. 用砖做的\nvt. 用砖造, 用砖砌",
+      "en": "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material\nn. a good fellow; helpful and trustworthy",
+      "phonetic": "brik",
+      "forms": [
+        "brick"
+      ],
+      "example": "One way of measuring divergent thinking is to ask someone to come up with a range of uses for a common item, such as a brick or a book.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "alternate",
+      "headword": "alternate",
+      "kind": "word",
+      "zh": "a. 交替的, 轮流的, 间隔的\nv. 轮流, (使)交替",
+      "en": "v. go back and forth; swing back and forth between two states or conditions\nv. exchange people temporarily to fulfill certain jobs and functions\nv. do something in turns\ns. every second one of a series",
+      "phonetic": "'ɒ:ltәnәt",
+      "forms": [
+        "alternate"
+      ],
+      "example": "This is known as the alternate uses task.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "number",
+      "headword": "numb",
+      "kind": "word",
+      "zh": "a. 麻木的, 失去知觉的\nvt. 使麻木, 使昏迷, 使失去知觉",
+      "en": "v. make numb or insensitive\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
+      "phonetic": "nʌm",
+      "forms": [
+        "number"
+      ],
+      "example": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "ideas",
+      "headword": "idea",
+      "kind": "word",
+      "zh": "n. 主意, 办法, 理想, 思想, 概念, 意见\n[医] 观念, 思想",
+      "en": "n. the content of cognition; the main thing you are thinking about\nn. a personal view",
+      "phonetic": "ai'diә",
+      "forms": [
+        "ideas"
+      ],
+      "example": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "assess",
+      "headword": "assess",
+      "kind": "word",
+      "zh": "vt. 估定, 对...征税, 评定\n[经] 估计, 估价, 确定(税款罚款等)的金额",
+      "en": "v. charge (a person or a property) with a payment, such as a tax or a fine\nv. estimate the value of (property) for taxation",
+      "phonetic": "ә'ses",
+      "forms": [
+        "assess"
+      ],
+      "example": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "capacity",
+      "headword": "capacity",
+      "kind": "word",
+      "zh": "n. 容量, 能力, 才能, 资格\n[计] 容量",
+      "en": "n. capability to perform or produce\nn. the amount that can be contained\nn. the maximum production possible\nn. a specified function",
+      "phonetic": "kә'pæsiti",
+      "forms": [
+        "capacity"
+      ],
+      "example": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "Large language models",
+      "headword": "large language models",
+      "kind": "phrase",
+      "zh": "大语言模型",
+      "en": "AI models trained on very large collections of language",
+      "forms": [
+        "Large language models"
+      ],
+      "example": "Large language models appear to have the “number of ideas” part down pat: They can generate many more ideas than humans can.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v38",
+      "term": "generate",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generate",
+        "generated"
+      ],
+      "example": "Large language models appear to have the “number of ideas” part down pat: They can generate many more ideas than humans can.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "volume",
+      "headword": "volume",
+      "kind": "word",
+      "zh": "n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量\nvi. 成团卷起\nvt. 把...收集成卷\na. 大量的\n[计] 卷",
+      "en": "n. the amount of 3-dimensional space occupied by an object\nn. a publication that is one of a set of several similar publications\nn. a relative amount\nn. the magnitude of sound (usually in a specified direction)",
+      "phonetic": "'vɒljum",
+      "forms": [
+        "volume"
+      ],
+      "example": "This ability to produce more – and produce that high volume more quickly – partially explains why more than half of new articles online are now generated by AI.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "partially",
+      "headword": "partially",
+      "kind": "word",
+      "zh": "adv. 部分地, 一部分地, 不公平地",
+      "en": "r. in part; in some degree; not wholly",
+      "phonetic": "'pɑ:ʃәli",
+      "forms": [
+        "partially"
+      ],
+      "example": "This ability to produce more – and produce that high volume more quickly – partially explains why more than half of new articles online are now generated by AI.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "online",
+      "headword": "online",
+      "kind": "word",
+      "zh": "[计] 联机",
+      "en": "a on a regular route of a railroad or bus or airline system\na connected to a computer network or accessible by computer\ns being in progress now",
+      "phonetic": "",
+      "forms": [
+        "online"
+      ],
+      "example": "This ability to produce more – and produce that high volume more quickly – partially explains why more than half of new articles online are now generated by AI.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "texts",
+      "headword": "text",
+      "kind": "word",
+      "zh": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\n[计] 电文; 文本; 正文",
+      "en": "n. the words of something written\nn. a passage from the Bible that is used as the subject of a sermon\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)",
+      "phonetic": "tekst",
+      "forms": [
+        "texts",
+        "text"
+      ],
+      "example": "These texts, however, are often verbose, with redundant information.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "verbose",
+      "headword": "verbose",
+      "kind": "word",
+      "zh": "a. 用字多的, 冗长的, 累赘的\n[计] 详述",
+      "en": "s using or containing too many words",
+      "phonetic": "vә'bәus",
+      "forms": [
+        "verbose"
+      ],
+      "example": "These texts, however, are often verbose, with redundant information.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "redundant",
+      "headword": "redundant",
+      "kind": "word",
+      "zh": "a. 多余的, 过多的, 冗长的\n[医] 过多的, 多余的",
+      "en": "s more than is needed, desired, or required\ns repetition of same sense in different words",
+      "phonetic": "ri'dʌndәnt",
+      "forms": [
+        "redundant"
+      ],
+      "example": "These texts, however, are often verbose, with redundant information.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "Researchers who tested 12 AI chatbots across different companies on thousands of factual questions found that their answers were often many times longer than human-written answers, with the actual answer making up only about 42% of the text.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "factual",
+      "headword": "factual",
+      "kind": "word",
+      "zh": "a. 事实的, 实际的\n[法] 事实的, 与事实有关的, 实际的",
+      "en": "a. of or relating to or characterized by facts",
+      "phonetic": "'fæktʃuәl",
+      "forms": [
+        "factual"
+      ],
+      "example": "Researchers who tested 12 AI chatbots across different companies on thousands of factual questions found that their answers were often many times longer than human-written answers, with the actual answer making up only about 42% of the text.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "actual",
+      "headword": "actual",
+      "kind": "word",
+      "zh": "a. 真实的, 实际的, 现行的\n[医] 实际死亡率",
+      "en": "a. presently existing in fact and not merely potential or possible\ns. taking place in reality; not pretended or imitated\ns. being or reflecting the essential or genuine character of something\ns. existing in act or fact",
+      "phonetic": "'æktʃuәl",
+      "forms": [
+        "actual"
+      ],
+      "example": "Researchers who tested 12 AI chatbots across different companies on thousands of factual questions found that their answers were often many times longer than human-written answers, with the actual answer making up only about 42% of the text.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "extra",
+      "headword": "extra",
+      "kind": "word",
+      "zh": "n. 额外的事物, 另外的收费\na. 额外的, 特别的\nadv. 额外地, 特别地, 非常地",
+      "en": "n. an additional edition of a newspaper (usually to report a crisis)\nn. something additional of the same kind\ns. added to a regular schedule\ns. further or added",
+      "phonetic": "'ekstrә",
+      "forms": [
+        "extra"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "padding",
+      "headword": "pad",
+      "kind": "word",
+      "zh": "n. 填补, 衬垫, 印色盒, 路\nvt. 填补, 走, 夸大\nvi. 步行\n[计] 焊接点; 包装配/拆卸",
+      "en": "n. a number of sheets of paper fastened together along one edge\nn. the large floating leaf of an aquatic plant (as the water lily)\nn. a block of absorbent material saturated with ink; used to transfer ink evenly to a rubber stamp\nn. a flat mass of soft material used for protection, stuffing, or comfort",
+      "phonetic": "pæd",
+      "forms": [
+        "padding"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "repetitive",
+      "headword": "repetitive",
+      "kind": "word",
+      "zh": "a. 重复的, 反复性的",
+      "en": "a. characterized by repetition",
+      "phonetic": "ri'petitiv",
+      "forms": [
+        "repetitive"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "unnecessary",
+      "headword": "unnecessary",
+      "kind": "word",
+      "zh": "a. 不必要的",
+      "en": "a. not necessary",
+      "phonetic": ".ʌn'nesәsәri",
+      "forms": [
+        "unnecessary"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "background",
+      "headword": "background",
+      "kind": "word",
+      "zh": "n. 背景, 背景资料\n[计] 背景, 后台",
+      "en": "n. a person's social heritage: previous experience or training\nn. the part of a scene (or picture) that lies behind objects in the foreground\nn. information that is essential to understanding a situation or problem\nn. extraneous signals that can be confused with the phenomenon to be observed or measured",
+      "phonetic": "'bækgraund",
+      "forms": [
+        "background"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "explanations",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanations"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "veered",
+      "headword": "veer",
+      "kind": "word",
+      "zh": "vi. 转向\nvt. 使转向\nn. 转向",
+      "en": "v. shift to a clockwise direction",
+      "phonetic": "viә",
+      "forms": [
+        "veered"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "topic",
+      "headword": "topic",
+      "kind": "word",
+      "zh": "n. 主题, 论题, 话题",
+      "en": "n. some situation or event that is thought about",
+      "phonetic": "'tɒpik",
+      "forms": [
+        "topic"
+      ],
+      "example": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "struggle",
+      "headword": "struggle",
+      "kind": "word",
+      "zh": "n. 斗争, 努力, 奋斗\nvi. 努力, 奋斗, 挣扎",
+      "en": "n. an energetic attempt to achieve something\nn. strenuous effort\nv. to exert strenuous effort against opposition",
+      "phonetic": "'strʌgl",
+      "forms": [
+        "struggle"
+      ],
+      "example": "Large language models also seem to struggle with the originality of their outputs.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "outputs",
+      "headword": "outputs",
+      "kind": "word",
+      "zh": "n. 输出；产出；产量（output复数）",
+      "en": "n final product; the things produced\nn production of a certain amount\nn signal that comes out of an electronic system\nn the quantity of something (as a commodity) that is created (usually within a given period of time)\nn what is produced in a given time period\nv to create or manufacture a specific amount",
+      "phonetic": "",
+      "forms": [
+        "outputs"
+      ],
+      "example": "Large language models also seem to struggle with the originality of their outputs.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "collaborated",
+      "headword": "collaborate",
+      "kind": "word",
+      "zh": "vi. 合作, 勾结\n[法] 合作, 合著, 通敌",
+      "en": "v. work together on a common enterprise of project\nv. cooperate as a traitor",
+      "phonetic": "kә'læbәreit",
+      "forms": [
+        "collaborated",
+        "collaborating"
+      ],
+      "example": "In our research, we compared the results of people working on the alternate uses task with another person to those who collaborated with ChatGPT on the same task.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "randomly",
+      "headword": "randomly",
+      "kind": "word",
+      "zh": "adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地\n[计] 随机地",
+      "en": "r. in a random manner",
+      "phonetic": "",
+      "forms": [
+        "randomly"
+      ],
+      "example": "We randomly assigned 208 participants to work with either AI or another person.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "assigned",
+      "headword": "assign",
+      "kind": "word",
+      "zh": "vt. 分配, 指派, 赋值\n[计] 赋值",
+      "en": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme",
+      "phonetic": "ә'sain",
+      "forms": [
+        "assigned"
+      ],
+      "example": "We randomly assigned 208 participants to work with either AI or another person.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "pairs",
+      "headword": "pair",
+      "kind": "word",
+      "zh": "n. 一双, 一对, 一副\nv. (使)成对",
+      "en": "n. a set of two similar things considered as a unit\nn. two people considered as a unit\nn. a poker hand with 2 cards of the same value\nv. form a pair or pairs",
+      "phonetic": "pєә",
+      "forms": [
+        "pairs"
+      ],
+      "example": "But human pairs came up with more creative ideas than the humans working with ChatGPT.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "distinct",
+      "headword": "distinct",
+      "kind": "word",
+      "zh": "a. 清楚的, 显著的, 不同的",
+      "en": "s. (often followed by `from') not alike; different in nature or quality\na. easy to perceive; especially clearly outlined\ns. recognizable; marked",
+      "phonetic": "dis'tiŋkt",
+      "forms": [
+        "distinct"
+      ],
+      "example": "We also found that the ideas people came up with when working with other people tended to be more distinct and diverse than those who worked with large language models.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "diverse",
+      "headword": "diverse",
+      "kind": "word",
+      "zh": "a. 不同的, 变化多的",
+      "en": "s. distinctly dissimilar or unlike",
+      "phonetic": "dai'vә:s",
+      "forms": [
+        "diverse"
+      ],
+      "example": "We also found that the ideas people came up with when working with other people tended to be more distinct and diverse than those who worked with large language models.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "suggestions",
+      "headword": "suggestion",
+      "kind": "word",
+      "zh": "n. 提议, 意见\n[医] 暗示",
+      "en": "n. an idea that is suggested\nn. a proposal offered for acceptance or rejection\nn. persuasion formulated as a suggestion\nn. the sequential mental process in which one thought leads to another by association",
+      "phonetic": "sә'dʒestʃәn",
+      "forms": [
+        "suggestions"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "dampener",
+      "headword": "dampener",
+      "kind": "word",
+      "zh": "[机] 缓冲器",
+      "en": "n. a device that dampens or moistens something",
+      "phonetic": "",
+      "forms": [
+        "dampener"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "for example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "for example"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v68",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "sessions",
+      "headword": "session",
+      "kind": "word",
+      "zh": "n. 期间, 开庭期, 会议, 学期\n[计] 会话, 对话, 会晤, 通用任务程序",
+      "en": "n. a meeting for execution of a group's functions\nn. a meeting devoted to a particular activity",
+      "phonetic": "'seʃәn",
+      "forms": [
+        "sessions"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "overall",
+      "headword": "overall",
+      "kind": "word",
+      "zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的\nadv. 从头到尾, 总的说来\nn. 罩衫, 工作服",
+      "en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\nn. a loose protective coverall or smock worn over ordinary clothing for dirty work\ns. involving only main features\ns. including everything",
+      "phonetic": "'әuvәrɒ:l",
+      "forms": [
+        "overall"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "pool",
+      "headword": "pool",
+      "kind": "word",
+      "zh": "n. 池, 水塘, 石油层, 联营\nvt. 合伙经营, 共享, 采掘, 汇聚成\nvi. 汇合成塘, 淤积, 联营",
+      "en": "n. an excavation that is (usually) filled with water\nn. an organization of people or resources that can be shared\nn. any communal combination of funds\nn. a small body of standing water (rainwater) or other liquid",
+      "phonetic": "pu:l",
+      "forms": [
+        "pool"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "homogeneous",
+      "headword": "homogeneous",
+      "kind": "word",
+      "zh": "a. 同种的, 同质的, 齐性的\n[医] 同种的, 纯一的, 同质的, 均匀的",
+      "en": "a. all of the same or similar kind or nature",
+      "phonetic": ".hәumә'dʒi:niәs",
+      "forms": [
+        "homogeneous"
+      ],
+      "example": "Individual AI suggestions could be quite creative – using a book as a sound dampener, for example – but ChatGPT presented that same idea across many separate sessions, making its overall pool of ideas more homogeneous.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "highlighted",
+      "headword": "highlight",
+      "kind": "word",
+      "zh": "n. 加亮区, 精彩场面\nvt. 加亮, 使显著, 以强光照射, 突出\n[计] 突出",
+      "en": "n. the most interesting or memorable part\nn. an area of lightness in a picture\nv. apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "phonetic": "'hailait",
+      "forms": [
+        "highlighted"
+      ],
+      "example": "Other studies have highlighted the homogeneity of generative AI’s outputs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "homogeneity",
+      "headword": "homogeneity",
+      "kind": "word",
+      "zh": "n. 同种, 同质, 齐性\n[医] 同种性, 纯一性, 同质性, 均匀性",
+      "en": "n. the quality of being similar or comparable in kind or nature\nn. the quality of being of uniform throughout in composition or structure",
+      "phonetic": ".hɒmәdʒe'ni:iti",
+      "forms": [
+        "homogeneity"
+      ],
+      "example": "Other studies have highlighted the homogeneity of generative AI’s outputs.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "repeatedly",
+      "headword": "repeatedly",
+      "kind": "word",
+      "zh": "adv. 重复地, 再三地",
+      "en": "r. several time",
+      "phonetic": "ri'pi:tidli",
+      "forms": [
+        "repeatedly"
+      ],
+      "example": "One group of researchers found that using AI repeatedly over time to generate images often results in bland, generic pictures – what they call “visual elevator music.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "bland",
+      "headword": "bland",
+      "kind": "word",
+      "zh": "a. 温和的, 乏味的, 冷漠的\n[医] 温和的, 淡的",
+      "en": "s. lacking taste or flavor or tang\ns. lacking stimulating characteristics; uninteresting",
+      "phonetic": "blænd",
+      "forms": [
+        "bland"
+      ],
+      "example": "One group of researchers found that using AI repeatedly over time to generate images often results in bland, generic pictures – what they call “visual elevator music.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "generic",
+      "headword": "generic",
+      "kind": "word",
+      "zh": "a. 属类的, 一般的\n[计] 一般的",
+      "en": "n. a wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape\nn. any product that can be sold without a brand name\na. relating to or common to or descriptive of all members of a genus\ns. (of drugs) not protected by trademark",
+      "phonetic": "dʒi'nerik",
+      "forms": [
+        "generic"
+      ],
+      "example": "One group of researchers found that using AI repeatedly over time to generate images often results in bland, generic pictures – what they call “visual elevator music.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "visual",
+      "headword": "visual",
+      "kind": "word",
+      "zh": "a. 视觉的\n[医] 视觉的, 视力的, 视觉性记忆优势者",
+      "en": "a relating to or using sight\ns visible; give me the ocular proof\"- Shakespeare",
+      "phonetic": "'viʒuәl",
+      "forms": [
+        "visual"
+      ],
+      "example": "One group of researchers found that using AI repeatedly over time to generate images often results in bland, generic pictures – what they call “visual elevator music.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "elevator",
+      "headword": "elevator",
+      "kind": "word",
+      "zh": "n. 电梯, 升降机\n[化] 提升机",
+      "en": "n. lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building\nn. the airfoil on the tailplane of an aircraft that makes it ascend or descend",
+      "phonetic": "'eliveitә",
+      "forms": [
+        "elevator"
+      ],
+      "example": "One group of researchers found that using AI repeatedly over time to generate images often results in bland, generic pictures – what they call “visual elevator music.”",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "preexisting",
+      "headword": "preexist",
+      "kind": "word",
+      "zh": "v. 先前存在",
+      "en": "v. exist beforehand or prior to a certain point in time",
+      "phonetic": ".pri:ig'zist",
+      "forms": [
+        "preexisting"
+      ],
+      "example": "Other studies have found that although AI may help an individual write a more creative story when compared with their preexisting work, AI-assisted writing as a whole, across all users, tends to be more similar.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "users",
+      "headword": "user",
+      "kind": "word",
+      "zh": "n. 使用者\n[计] 用户",
+      "en": "n. a person who makes use of a thing; someone who uses or employs something",
+      "phonetic": "'ju:zә",
+      "forms": [
+        "users"
+      ],
+      "example": "Other studies have found that although AI may help an individual write a more creative story when compared with their preexisting work, AI-assisted writing as a whole, across all users, tends to be more similar.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "trained",
+      "headword": "train",
+      "kind": "word",
+      "zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\nvt. 训练, 教育, 对准\nvi. 受训练, 锻炼",
+      "en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching",
+      "phonetic": "trein",
+      "forms": [
+        "trained",
+        "training"
+      ],
+      "example": "After being trained on massive sets of texts, large language models predict the next most likely words.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "massive",
+      "headword": "massive",
+      "kind": "word",
+      "zh": "a. 大而重的, 宽大的, 宏伟的\n[医] 大块的, 整块的, 大量的",
+      "en": "s. imposing in size or bulk or solidity\ns. being the same substance throughout\ns. imposing in scale or scope or degree or power\ns. consisting of great mass; containing a great quantity of matter",
+      "phonetic": "'mæsiv",
+      "forms": [
+        "massive"
+      ],
+      "example": "After being trained on massive sets of texts, large language models predict the next most likely words.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "predict",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predict"
+      ],
+      "example": "After being trained on massive sets of texts, large language models predict the next most likely words.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "gemini",
+      "headword": "gemini",
+      "kind": "word",
+      "zh": "[医] 双胎, 双生子",
+      "en": "n. (astrology) a person who is born while the sun is in Gemini\nn. a zodiacal constellation in the northern hemisphere between Taurus and Cancer on the ecliptic\nn. the third sign of the zodiac; the sun is in this sign from about May 21 to June 20",
+      "phonetic": "'dʒeminai",
+      "forms": [
+        "gemini"
+      ],
+      "example": "Because their training processes were similar, different large language models, whether it’s ChatGPT, Claude or Gemini, tend to have similar cadences, diction, syntax and suggestions – particularly when compared with the work of two random human writers.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "cadences",
+      "headword": "cadence",
+      "kind": "word",
+      "zh": "n. 韵律, 抑扬, 调子, 节奏\n[电] 步调",
+      "en": "n. the close of a musical section\nn. a recurrent rhythmical series",
+      "phonetic": "'keidns",
+      "forms": [
+        "cadences"
+      ],
+      "example": "Because their training processes were similar, different large language models, whether it’s ChatGPT, Claude or Gemini, tend to have similar cadences, diction, syntax and suggestions – particularly when compared with the work of two random human writers.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "diction",
+      "headword": "diction",
+      "kind": "word",
+      "zh": "n. 措辞, 发音, 用语",
+      "en": "n the articulation of speech regarded from the point of view of its intelligibility to the audience\nn the manner in which something is expressed in words",
+      "phonetic": "'dikʃәn",
+      "forms": [
+        "diction"
+      ],
+      "example": "Because their training processes were similar, different large language models, whether it’s ChatGPT, Claude or Gemini, tend to have similar cadences, diction, syntax and suggestions – particularly when compared with the work of two random human writers.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "syntax",
+      "headword": "syntax",
+      "kind": "word",
+      "zh": "n. 句法, 语法, 句子构造\n[计] 句法, 语法",
+      "en": "n. the grammatical arrangement of words in sentences\nn. a systematic orderly arrangement\nn. studies of the rules for forming admissible sentences",
+      "phonetic": "'sintæks",
+      "forms": [
+        "syntax"
+      ],
+      "example": "Because their training processes were similar, different large language models, whether it’s ChatGPT, Claude or Gemini, tend to have similar cadences, diction, syntax and suggestions – particularly when compared with the work of two random human writers.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "random",
+      "headword": "random",
+      "kind": "word",
+      "zh": "n. 随意, 随机\na. 任意的, 随便的, 胡乱的, 随机的\nadv. 胡乱地",
+      "en": "a. lacking any definite plan or order or purpose; governed by or depending on chance",
+      "phonetic": "'rændәm",
+      "forms": [
+        "random"
+      ],
+      "example": "Because their training processes were similar, different large language models, whether it’s ChatGPT, Claude or Gemini, tend to have similar cadences, diction, syntax and suggestions – particularly when compared with the work of two random human writers.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "In other words",
+      "headword": "in other words",
+      "kind": "phrase",
+      "zh": "换句话说",
+      "en": "used to express the same idea differently",
+      "forms": [
+        "In other words"
+      ],
+      "example": "In other words, generative AI’s ideas may seem unique in a vacuum.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v91",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "In other words, generative AI’s ideas may seem unique in a vacuum.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "vacuum",
+      "headword": "vacuum",
+      "kind": "word",
+      "zh": "n. 真空, 空间, 真空吸尘器\na. 真空的, 产生真空的, 利用真空的\nvt. 用吸尘器打扫",
+      "en": "n. the absence of matter\nn. a region that is devoid of matter\nn. an electrical home appliance that cleans by suction\nv. clean with a vacuum cleaner",
+      "phonetic": "''vækjuәm",
+      "forms": [
+        "vacuum"
+      ],
+      "example": "In other words, generative AI’s ideas may seem unique in a vacuum.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "converge",
+      "headword": "converge",
+      "kind": "word",
+      "zh": "vi. 聚合, 集中于一点\nvt. 使集合",
+      "en": "v. be adjacent or come together\nv. approach a limit as the number of terms increases without limit\nv. move or draw together at a certain location\nv. come together so as to form a single product",
+      "phonetic": "kәn'vә:dʒ",
+      "forms": [
+        "converge"
+      ],
+      "example": "But if everyone’s using AI, the ideas and writing style start to converge.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "progressed",
+      "headword": "progress",
+      "kind": "word",
+      "zh": "n. 进步, 发展, 前进\nvi. 进步, 进行",
+      "en": "n. the act of moving forward (as toward a goal)\nn. a movement forward\nv. develop in a positive way",
+      "phonetic": "'prәugres",
+      "forms": [
+        "progressed"
+      ],
+      "example": "Finally, we also found that the creativity benefits of working with another person became even stronger as the collaboration progressed.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "semantic",
+      "headword": "semantic",
+      "kind": "word",
+      "zh": "a. 语义的\n[计] 语义",
+      "en": "a. of or relating to meaning or the study of meaning",
+      "phonetic": "si'mæntik",
+      "forms": [
+        "semantic"
+      ],
+      "example": "Ideas can be measured through semantic distance, which is a way of quantifying how distinct individual concepts are.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "distance",
+      "headword": "distance",
+      "kind": "word",
+      "zh": "n. 距离, 远方, 遥远\n[计] 位距",
+      "en": "n. the property created by the space between two objects or points\nn. a distant region\nn. size of the gap between two places\nn. indifference by personal withdrawal",
+      "phonetic": "'distәns",
+      "forms": [
+        "distance"
+      ],
+      "example": "Ideas can be measured through semantic distance, which is a way of quantifying how distinct individual concepts are.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "quantifying",
+      "headword": "quantify",
+      "kind": "word",
+      "zh": "vt. 定量, 用数量表示, 测量",
+      "en": "v. use as a quantifier\nv. express as a number or measure or quantity",
+      "phonetic": "'kwɒntifai",
+      "forms": [
+        "quantifying"
+      ],
+      "example": "Ideas can be measured through semantic distance, which is a way of quantifying how distinct individual concepts are.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "interacting",
+      "headword": "interact",
+      "kind": "word",
+      "zh": "vi. 互相影响, 交互作用\nn. 幕间剧, 幕间休息",
+      "en": "v. act together or towards others or with others",
+      "phonetic": ".intәr'ækt",
+      "forms": [
+        "interacting"
+      ],
+      "example": "Over time, interacting with other humans seems to result in larger semantic distance than interacting with a chatbot.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "traverse",
+      "headword": "traverse",
+      "kind": "word",
+      "zh": "n. 越过, 横贯, 横断物, 屏障, 否认, 反驳\nvt. 横过, 穿过, 经过, 详细研究, 反对, 在...来回移动\nvi. 横越, 横断, 旋转, 来回移动\na. 横亘的, 横贯的",
+      "en": "v. travel across or pass over\nv. deny formally (an allegation of fact by the opposing party) in a legal suit",
+      "phonetic": "'trævә:s",
+      "forms": [
+        "traverse"
+      ],
+      "example": "In other words, people may traverse more creative terrain when collaborating with other people.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "terrain",
+      "headword": "terrain",
+      "kind": "word",
+      "zh": "n. 地带, 地区, 地形, 领域, 范围",
+      "en": "n. a piece of ground having specific characteristics or military potential",
+      "phonetic": "'terein",
+      "forms": [
+        "terrain"
+      ],
+      "example": "In other words, people may traverse more creative terrain when collaborating with other people.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "meanwhile",
+      "headword": "meanwhile",
+      "kind": "word",
+      "zh": "n. 其时, 其间\nadv. 同时, 于此时",
+      "en": "r. at the same time but in another place\nr. during the intervening time",
+      "phonetic": "'mi:nhwail",
+      "forms": [
+        "meanwhile"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "tendency",
+      "headword": "tendency",
+      "kind": "word",
+      "zh": "n. 趋向, 倾向\n[医] 趋向, 趋势",
+      "en": "n. a characteristic likelihood of or natural disposition toward a certain condition or character or effect\nn. a general direction in which something tends to move",
+      "phonetic": "'tendәnsi",
+      "forms": [
+        "tendency"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "brainstorming",
+      "headword": "brainstorm",
+      "kind": "word",
+      "zh": "n. 灵机一动\nv. 集体讨论",
+      "en": "v. try to solve a problem by thinking intensely about it",
+      "phonetic": "'breinstɒ:m",
+      "forms": [
+        "brainstorming"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "accumulate",
+      "headword": "accumulate",
+      "kind": "word",
+      "zh": "v. 积聚, 堆积",
+      "en": "v. collect or gather",
+      "phonetic": "ә'kju:mjuleit",
+      "forms": [
+        "accumulate"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "narrowing",
+      "headword": "narrow",
+      "kind": "word",
+      "zh": "n. 狭窄部分, 隘路\na. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的\nvi. 变窄\nvt. 使变狭窄",
+      "en": "n. a narrow strait connecting two bodies of water\nv. make or become more narrow or restricted\na. not wide\ns. limited in size or scope",
+      "phonetic": "'nærәu",
+      "forms": [
+        "narrowing"
+      ],
+      "example": "Meanwhile, the tendency for ideas to converge in chatbot-assisted brainstorming could accumulate, potentially narrowing the range of ideas people explore over the course of a long period of time.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "engagement",
+      "headword": "engagement",
+      "kind": "word",
+      "zh": "n. 诺言, 约会, 婚约, 交战\n[医] 衔接",
+      "en": "n. employment for performers or performing groups that lasts for a limited period of time\nn. contact by fitting together\nn. the act of sharing in the activities of a group",
+      "phonetic": "in'geidʒdmәnt",
+      "forms": [
+        "engagement"
+      ],
+      "example": "This is important because many creative projects involve long-term engagement.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "launch",
+      "headword": "launch",
+      "kind": "word",
+      "zh": "n. 下水, 汽艇, 发射\nvt. 使下水, 发射, 发动\nvi. 起飞, 下水, 投入, 开始",
+      "en": "n. a motorboat with an open deck or a half deck\nv. propel with force\nv. launch for the first time; launch on a maiden voyage\nv. get going; give impetus to",
+      "phonetic": "lɒ:ntʃ",
+      "forms": [
+        "launch"
+      ],
+      "example": "For example, to launch a new product, researchers have found that it takes an average of 27 months to go from the initial idea to the finished product.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "For example, to launch a new product, researchers have found that it takes an average of 27 months to go from the initial idea to the finished product.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "initial",
+      "headword": "initial",
+      "kind": "word",
+      "zh": "n. 字首, 首字母\na. 开始的, 最初的, 字首的\nvt. 用姓名的首字母签名",
+      "en": "n. the first letter of a word (especially a person's name)\nv. mark with one's initials\ns. occurring at the beginning",
+      "phonetic": "i'niʃәl",
+      "forms": [
+        "initial"
+      ],
+      "example": "For example, to launch a new product, researchers have found that it takes an average of 27 months to go from the initial idea to the finished product.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "innovative",
+      "headword": "innovative",
+      "kind": "word",
+      "zh": "a. 革新的, 创新的, 富有革新精神的",
+      "en": "s. being or producing something like nothing done or experienced or created before",
+      "phonetic": "'inәjveitiv",
+      "forms": [
+        "innovative"
+      ],
+      "example": "More innovative products can take as long as 54 months.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "chat",
+      "headword": "chat",
+      "kind": "word",
+      "zh": "n. 闲谈\nvi. 闲谈, 聊天",
+      "en": "n. an informal conversation",
+      "phonetic": "tʃæt",
+      "forms": [
+        "chat",
+        "chatting"
+      ],
+      "example": "If you need help with a creative task, we suggest going back to the basics: Chat with a person before chatting with AI.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "preserve",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserve"
+      ],
+      "example": "If you want to work with a chatbot, how can you preserve your creativity in the face of AI’s tendency toward homogeneity?",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "persona",
+      "headword": "persona",
+      "kind": "word",
+      "zh": "n. 人, 人物, 角色, 外表印象, 人格面具\n[医] 伪装人格",
+      "en": "n. (Jungian psychology) a personal facade that one presents to the world",
+      "phonetic": "pә:'sәunә",
+      "forms": [
+        "persona"
+      ],
+      "example": "Some research suggests using what’s called “persona prompting.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "prompting",
+      "headword": "prompt",
+      "kind": "word",
+      "zh": "n. 激励, 提示, 提醒物, 提词, 付款期限\na. 迅速的, 敏捷的, 立刻的, 提词员的\nvt. 激励, 鼓动, 提示\nadv. 准时地\n[计] 提示符; DOS内部命令:设定DOS命令行的提示符",
+      "en": "n. a cue given to a performer (usually the beginning of the next line to be spoken)\nn. (computer science) a symbol that appears on the computer screen to indicate that the computer is ready to receive a command\nv. serve as the inciting cause of\nv. assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned",
+      "phonetic": "prɒmpt",
+      "forms": [
+        "prompting",
+        "prompt"
+      ],
+      "example": "Some research suggests using what’s called “persona prompting.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "perspectives",
+      "headword": "perspective",
+      "kind": "word",
+      "zh": "n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图\na. 透视的, 透视法的\n[计] 透视",
+      "en": "n. the appearance of things relative to one another as determined by their distance from the viewer",
+      "phonetic": "pә'spektiv",
+      "forms": [
+        "perspectives"
+      ],
+      "example": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "extensive",
+      "headword": "extensive",
+      "kind": "word",
+      "zh": "a. 广的, 广泛的, 多方面的\n[经] 广大的, 扩大的",
+      "en": "s. large in spatial extent or range or scope or quantity\na. of agriculture; increasing productivity by using large areas with minimal outlay and labor",
+      "phonetic": "ik'stensiv",
+      "forms": [
+        "extensive"
+      ],
+      "example": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "pretend",
+      "headword": "pretend",
+      "kind": "word",
+      "zh": "v. 假装, 伪称, 自命, 自称",
+      "en": "v. put forward a claim and assert right or possession of",
+      "phonetic": "pri'tend",
+      "forms": [
+        "pretend"
+      ],
+      "example": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "personality",
+      "headword": "personality",
+      "kind": "word",
+      "zh": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人\n[医] 人格; 个性",
+      "en": "n. the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual\nn. a person of considerable prominence",
+      "phonetic": ".pә:sә'næliti",
+      "forms": [
+        "personality"
+      ],
+      "example": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "simulate",
+      "headword": "simulate",
+      "kind": "word",
+      "zh": "vt. 模拟, 假装, 模仿\n[法] 伪装的, 模拟的; 假装的, 伪装的, 冒充",
+      "en": "v. make a pretence of",
+      "phonetic": "'simjuleit",
+      "forms": [
+        "simulate"
+      ],
+      "example": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "as if",
+      "headword": "as if",
+      "kind": "phrase",
+      "zh": "仿佛；好像",
+      "en": "in a way that suggests something is the case",
+      "forms": [
+        "as if"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v122",
+      "term": "male",
+      "headword": "male",
+      "kind": "word",
+      "zh": "n. 男人, 雄性动物\na. 男性的, 雄性的, 有力的",
+      "en": "n. an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\nn. a person who belongs to the sex that cannot have babies\nn. the capital of Maldives in the center of the islands\na. being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
+      "phonetic": "meil",
+      "forms": [
+        "male"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "india",
+      "headword": "India",
+      "kind": "word",
+      "zh": "n. 印度",
+      "en": "n. a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947",
+      "phonetic": "'indjә",
+      "forms": [
+        "india"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "female",
+      "headword": "female",
+      "kind": "word",
+      "zh": "n. 女性, 女人, 雌性动物\na. 女性的, 女子的",
+      "en": "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\nn. a person who belongs to the sex that can have babies\na. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop\ns. characteristic of or peculiar to a woman",
+      "phonetic": "'fi:meil",
+      "forms": [
+        "female"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "founder",
+      "headword": "founder",
+      "kind": "word",
+      "zh": "n. 创立者, 建立者\nvt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏\nvi. 沉没, 摔到, 变跛, 倒塌, 失败",
+      "en": "n. a person who founds or establishes some institution\nn. a worker who makes metal castings\nv. sink below the surface\nv. stumble and nearly fall",
+      "phonetic": "'faundә",
+      "forms": [
+        "founder"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "construction",
+      "headword": "construction",
+      "kind": "word",
+      "zh": "n. 建筑, 构造, 建筑物\n[化] 施工",
+      "en": "n. the act of constructing something\nn. a group of words that form a constituent of a sentence and are considered as a single unit\nn. the creation of a construct; the process of combining ideas into a congruous object of thought\nn. drawing a figure satisfying certain conditions as part of solving a problem or proving a theorem",
+      "phonetic": "kәn'strʌkʃәn",
+      "forms": [
+        "construction"
+      ],
+      "example": "For example, you might prompt it to respond as if it is “a male college professor from India who is an expert in teaching” or “a 58-year-old female founder of a construction company.”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "diversity",
+      "headword": "diversity",
+      "kind": "word",
+      "zh": "n. 差异, 多样性\n[化] 多样性",
+      "en": "n. the condition or result of being changeable",
+      "phonetic": "dai'vә:siti",
+      "forms": [
+        "diversity"
+      ],
+      "example": "Researchers found that while this persona prompting increased ChatGPT’s idea diversity, the overall range of ideas still fell short of that produced by human writers.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "echo",
+      "headword": "echo",
+      "kind": "word",
+      "zh": "n. 回声, 回音, 回波\nvi. 发回声, 随声附和\nvt. 摹仿, 重复, 反射\n[计] 回显; DOS批处理命令:控制MS-DOS命令是否在屏幕上显示",
+      "en": "n. the repetition of a sound resulting from reflection of the sound waves\nn. (Greek mythology) a nymph who was spurned by Narcissus and pined away until only her voice remained\nn. a reply that repeats what has just been said\nn. a reflected television or radio or radar beam",
+      "phonetic": "'ekәu",
+      "forms": [
+        "echo"
+      ],
+      "example": "These findings echo other recent research suggesting that chatbots are poor simulators of human personality.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v129",
+      "term": "simulators",
+      "headword": "simulator",
+      "kind": "word",
+      "zh": "n. 模拟器, 假装者\n[计] 模拟器",
+      "en": "n. a machine that simulates an environment for the purpose of training or research",
+      "phonetic": "'simjuleitә",
+      "forms": [
+        "simulators"
+      ],
+      "example": "These findings echo other recent research suggesting that chatbots are poor simulators of human personality.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "idiosyncratic",
+      "headword": "idiosyncratic",
+      "kind": "word",
+      "zh": "a. 特质的, 异质的, 特殊的\n[医] 特[异反]应性的, 特异体质的",
+      "en": "s. peculiar to the individual",
+      "phonetic": ".idiәsiŋ'krætik",
+      "forms": [
+        "idiosyncratic"
+      ],
+      "example": "They’ll have idiosyncratic personal experiences that can’t be captured by a large language model that’s trained to generate average responses.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "captured",
+      "headword": "capture",
+      "kind": "word",
+      "zh": "n. 抓取, 战利品, 捕获之物\nvt. 抓取, 获得, 迷住\n[计] 截获命令",
+      "en": "n. the act of forcibly dispossessing an owner of property\nn. a process whereby a star or planet holds an object in its gravitational field\nn. any process in which an atomic or nuclear system acquires an additional particle\nn. the act of taking of a person by force",
+      "phonetic": "'kæptʃә",
+      "forms": [
+        "captured"
+      ],
+      "example": "They’ll have idiosyncratic personal experiences that can’t be captured by a large language model that’s trained to generate average responses.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "composing",
+      "headword": "compose",
+      "kind": "word",
+      "zh": "vt. 组成, 写作, 作曲, 使平静\nvi. 创作, 排字\n[计] 编写",
+      "en": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet",
+      "phonetic": "kәm'pәuz",
+      "forms": [
+        "composing"
+      ],
+      "example": "Composing a sentence, however modest, is a creative act, whether it’s in a text to a friend or a wedding speech.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "sentence",
+      "headword": "sentence",
+      "kind": "word",
+      "zh": "n. 句子, 命题, 宣判\nvt. 宣判, 判决\n[计] 句子",
+      "en": "n. a string of words satisfying the grammatical rules of a language\nv. pronounce a sentence on (somebody) in a court of law",
+      "phonetic": "'sentәns",
+      "forms": [
+        "sentence"
+      ],
+      "example": "Composing a sentence, however modest, is a creative act, whether it’s in a text to a friend or a wedding speech.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "modest",
+      "headword": "modest",
+      "kind": "word",
+      "zh": "a. 谦逊的, 羞怯的, 端庄的, 适度的\n[经] 适当的",
+      "en": "a. marked by simplicity; having a humble opinion of yourself\ns. not large but sufficient in size or amount\ns. free from pomp or affectation\na. not offensive to sexual mores in conduct or appearance",
+      "phonetic": "'mɒdist",
+      "forms": [
+        "modest"
+      ],
+      "example": "Composing a sentence, however modest, is a creative act, whether it’s in a text to a friend or a wedding speech.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "wedding",
+      "headword": "wedding",
+      "kind": "word",
+      "zh": "n. 婚礼, 结婚, 结婚周年纪念日, 结合\n[法] 结婚, 婚礼, 结婚纪念日",
+      "en": "n. the social event at which the ceremony of marriage is performed\nn. a party of people at a wedding",
+      "phonetic": "'wediŋ",
+      "forms": [
+        "wedding"
+      ],
+      "example": "Composing a sentence, however modest, is a creative act, whether it’s in a text to a friend or a wedding speech.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "integrated",
+      "headword": "integrate",
+      "kind": "word",
+      "zh": "vt. 综合, 使完整, 使成整体\nvi. 成一体\na. 完整的, 完全的",
+      "en": "v. make into a whole or make part of a whole\nv. become one; become integrated\nv. calculate the integral of; calculate by integration",
+      "phonetic": "'intigreit",
+      "forms": [
+        "integrated"
+      ],
+      "example": "As AI is integrated into workflows, it’s important to remember that other people can still be a valuable resource.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "valuable",
+      "headword": "valuable",
+      "kind": "word",
+      "zh": "a. 有价值的, 贵重的, 宝贵的, 可估价的\n[经] 有价值的, 可估价的, 贵重的",
+      "en": "n. something of value\na. having great material or monetary value especially for use or exchange\ns. having worth or merit or value",
+      "phonetic": "'væljuәbl",
+      "forms": [
+        "valuable"
+      ],
+      "example": "As AI is integrated into workflows, it’s important to remember that other people can still be a valuable resource.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "completed",
+      "headword": "complete",
+      "kind": "word",
+      "zh": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+      "en": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form",
+      "phonetic": "kәm'pli:t",
+      "forms": [
+        "completed"
+      ],
+      "example": "Work completed in collaboration with other humans feels more meaningful.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "meaningful",
+      "headword": "meaningful",
+      "kind": "word",
+      "zh": "a. 意味深长的",
+      "en": "a. having a meaning or purpose",
+      "phonetic": "'mi:niŋful",
+      "forms": [
+        "meaningful"
+      ],
+      "example": "Work completed in collaboration with other humans feels more meaningful.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "comprehensively",
+      "headword": "comprehensively",
+      "kind": "word",
+      "zh": "adv. 包括地；包括一切地",
+      "en": "r. in an all-inclusive manner",
+      "phonetic": "",
+      "forms": [
+        "comprehensively"
+      ],
+      "example": "They might not respond as quickly or as comprehensively.",
+      "paragraph": 28,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      9
+    ],
+    "wordBank": [
+      "cognitive",
+      "actual",
+      "adoption",
+      "brick",
+      "volume",
+      "draft",
+      "redundant",
+      "topic",
+      "capacity",
+      "creative"
+    ],
+    "parts": [
+      {
+        "text": "The productivity gains of generative AI are often touted as the main reason for its rapid "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": ". Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " emails.\n\nBut beyond productivity, a key question remains: How is AI affecting quintessentially human activities, such as collaboration and creativity?\n\nAs "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.\n\nSpeedy and wordy doesn’t mean "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": "\n\nCreativity is often tied to what cognitive scientists call “divergent thinking.” One way of measuring divergent thinking is to ask someone to come up with a range of uses for a common item, such as a "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " or a book. This is known as the alternate uses task.\n\nResearchers then compare the number of ideas and the originality of these ideas to assess creative "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ".\n\nLarge language models appear to have the “number of ideas” part down pat: They can generate many more ideas than humans can. This ability to produce more – and produce that high "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " more quickly – partially explains why more than half of new articles online are now generated by AI.\n\nThese texts, however, are often verbose, with "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " information. Researchers who tested 12 AI chatbots across different companies on thousands of factual questions found that their answers were often many times longer than human-written answers, with the "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " answer making up only about 42% of the text. The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": ".\n\nLarge language models also seem to struggle with the originality of their outputs."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "adoption",
+        "vocabularyId": "v6",
+        "explanation": "原文此处使用 adoption（adoption）。结合上下文辨认词义与词形。",
+        "evidence": "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+        "paragraph": 1
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "draft",
+        "vocabularyId": "v15",
+        "explanation": "原文此处使用 draft（draft）。结合上下文辨认词义与词形。",
+        "evidence": "Much like how a calculator can instantly solve mathematical equations too long for the human brain to compute, generative AI can help someone quickly summarize long articles and draft emails.",
+        "paragraph": 1
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "cognitive",
+        "vocabularyId": "v20",
+        "explanation": "原文此处使用 cognitive（cognitive）。结合上下文辨认词义与词形。",
+        "evidence": "As cognitive scientists who study creativity, we recently conducted an experiment that explored how working with AI – rather than humans – affects originality and other aspects of creativity.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "creative",
+        "vocabularyId": "v28",
+        "explanation": "原文此处使用 creative（creative）。结合上下文辨认词义与词形。",
+        "evidence": "Speedy and wordy doesn’t mean creative",
+        "paragraph": 4
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "brick",
+        "vocabularyId": "v31",
+        "explanation": "原文此处使用 brick（brick）。结合上下文辨认词义与词形。",
+        "evidence": "One way of measuring divergent thinking is to ask someone to come up with a range of uses for a common item, such as a brick or a book.",
+        "paragraph": 5
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "capacity",
+        "vocabularyId": "v36",
+        "explanation": "原文此处使用 capacity（capacity）。结合上下文辨认词义与词形。",
+        "evidence": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+        "paragraph": 6
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "volume",
+        "vocabularyId": "v39",
+        "explanation": "原文此处使用 volume（volume）。结合上下文辨认词义与词形。",
+        "evidence": "This ability to produce more – and produce that high volume more quickly – partially explains why more than half of new articles online are now generated by AI.",
+        "paragraph": 7
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "redundant",
+        "vocabularyId": "v44",
+        "explanation": "原文此处使用 redundant（redundant）。结合上下文辨认词义与词形。",
+        "evidence": "These texts, however, are often verbose, with redundant information.",
+        "paragraph": 8
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "actual",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 actual（actual）。结合上下文辨认词义与词形。",
+        "evidence": "Researchers who tested 12 AI chatbots across different companies on thousands of factual questions found that their answers were often many times longer than human-written answers, with the actual answer making up only about 42% of the text.",
+        "paragraph": 8
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "topic",
+        "vocabularyId": "v56",
+        "explanation": "原文此处使用 topic（topic）。结合上下文辨认词义与词形。",
+        "evidence": "The rest was largely extra padding: repetitive information, unnecessary background details and explanations that went into too much detail or veered off topic.",
+        "paragraph": 8
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The discovery of a Roman fort revives interest in an emperor's place in Welsh tradition.",
+          "Working with other people can produce more creative and meaningful ideas than relying on AI alone.",
+          "Objects found at a medieval Irish fort reveal details of daily life and material culture.",
+          "A public poetry project connects Shakespeare's influence with everyday journeys on the Underground."
+        ],
+        "answer": 1,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+        "paragraph": 6
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "How can divergent thinking be assessed?",
+        "options": [
+          "By counting how many objects a person owns",
+          "By requiring one memorised answer to every question",
+          "By measuring only typing speed",
+          "By asking for multiple possible uses of an everyday object"
+        ],
+        "answer": 3,
+        "explanation": "第 5 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "One way of measuring divergent thinking is to ask someone to come up with a range of uses for a common item, such as a brick or a book.",
+        "paragraph": 5
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "Researchers then compare the number of ideas and the originality of these ideas to assess creative capacity.",
+          "This ability to produce more – and produce that high volume more quickly – partially explains why more than half of new articles online are now generated by AI.",
+          "The productivity gains of generative AI are often touted as the main reason for its rapid adoption.",
+          "In our research, we compared the results of people working on the alternate uses task with another person to those who collaborated with ChatGPT on the same task."
+        ],
+        "answer": 3,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "In our research, we compared the results of people working on the alternate uses task with another person to those who collaborated with ChatGPT on the same task.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Finally, we also found that the creativity benefits of working with another person became even stronger as the collaboration progressed.”",
+        "options": [
+          "Paragraph 25",
+          "Paragraph 21",
+          "Paragraph 14",
+          "Paragraph 18"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Finally, we also found that the creativity benefits of working with another person became even stronger as the collaboration progressed.",
+        "paragraph": 18
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.”",
+        "options": [
+          "Paragraph 24",
+          "Paragraph 15",
+          "Paragraph 1",
+          "Paragraph 25"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 24 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Like talking to other people with different perspectives, users could provide an extensive prompt to give chatbots a pretend personality that can simulate different types of people.",
+        "paragraph": 24
+      }
+    ]
+  },
+  "revision": "7cc2788f53828a15b4661f6235acfc31c8b5b3bab94626849bb007a1e2edb57f"
+}

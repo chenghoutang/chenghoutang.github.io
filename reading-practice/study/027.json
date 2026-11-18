@@ -1,0 +1,2762 @@
+{
+  "schemaVersion": 1,
+  "folder": "027",
+  "articleSha256": "e959b5edcc351cdf3865ea0cf555d742f85dc35fdf22dac2e6ab65d5e0c14912",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "hurricane",
+      "headword": "hurricane",
+      "kind": "word",
+      "zh": "n. 飓风, 暴风, 暴风雨",
+      "en": "n. a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)",
+      "phonetic": "'hә:rikәn",
+      "forms": [
+        "hurricane"
+      ],
+      "example": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "belle",
+      "headword": "belle",
+      "kind": "word",
+      "zh": "n. 美女",
+      "en": "n. a young woman who is the most charming and beautiful of several rivals",
+      "phonetic": "bel",
+      "forms": [
+        "belle"
+      ],
+      "example": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "barreling",
+      "headword": "barreling",
+      "kind": "word",
+      "zh": "[机] 滚光",
+      "en": "v put in barrels",
+      "phonetic": "",
+      "forms": [
+        "barreling"
+      ],
+      "example": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "editor",
+      "headword": "editor",
+      "kind": "word",
+      "zh": "n. 编者, 编辑, 主笔, 编辑器, 编辑装置\n[计] 编辑器",
+      "en": "n. a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)",
+      "phonetic": "'editә",
+      "forms": [
+        "editor"
+      ],
+      "example": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "affairs",
+      "headword": "affair",
+      "kind": "word",
+      "zh": "n. 事件, 事务, 恋爱事件",
+      "en": "n. a usually secretive or illicit sexual relationship\nn. a vaguely specified social event",
+      "phonetic": "ә'fєә",
+      "forms": [
+        "affairs"
+      ],
+      "example": "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "physicist",
+      "headword": "physicist",
+      "kind": "word",
+      "zh": "n. 物理学家, 机械唯物论者, 自然科学家\n[医] 菲西克氏手术(虹膜圆片切除)",
+      "en": "n. a scientist trained in physics",
+      "phonetic": "'fizisist",
+      "forms": [
+        "physicist"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "payphone",
+      "headword": "payphone",
+      "kind": "word",
+      "zh": "n. 公用电话; 付费电话",
+      "en": "",
+      "phonetic": "ˈpeɪfəʊn",
+      "forms": [
+        "payphone"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "shack",
+      "headword": "shack",
+      "kind": "word",
+      "zh": "n. 陋屋, 棚屋\nvi. 居住, 暂住",
+      "en": "n small crude shelter used as a dwelling\nv make one's home in a particular place or community\nv move, proceed, or walk draggingly or slowly",
+      "phonetic": "ʃæk",
+      "forms": [
+        "shack"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "maine",
+      "headword": "Maine",
+      "kind": "word",
+      "zh": "n. 缅因州",
+      "en": "n. a state in New England",
+      "phonetic": "mein",
+      "forms": [
+        "maine"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "woods",
+      "headword": "wood",
+      "kind": "word",
+      "zh": "n. 木材, 木制品\nvt. 植林于, 给...添加木柴\nvi. 收集木材",
+      "en": "n. the hard fibrous lignified substance under the bark of trees\nn. United States film actress (1938-1981)\nn. English conductor (1869-1944)\nn. English writer of novels about murders and thefts and forgeries (1814-1887)",
+      "phonetic": "wud",
+      "forms": [
+        "woods",
+        "wood"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "guide",
+      "headword": "guide",
+      "kind": "word",
+      "zh": "n. 引导者, 导游, 指南, 路标\nvt. 指导, 支配, 管理, 带领, 操纵\nvi. 任向导\n[计] 辅助线",
+      "en": "n. someone who shows the way by leading or advising\nn. a structure or marking that serves to direct the motion or positioning of something\nv. be a guiding or motivating force or drive\nv. use as a guide",
+      "phonetic": "gaid",
+      "forms": [
+        "guide"
+      ],
+      "example": "Physicist Amory Lovins took the call on a payphone in a shack in the Maine woods, where he spent summers as a camp guide.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "wires",
+      "headword": "wire",
+      "kind": "word",
+      "zh": "n. 电线, 电报, 电信, 铁丝网, 金属丝\nvt. 用金属丝捆扎, 拍电报\nvi. 打电报",
+      "en": "n. ligament made of metal and used to fasten things or make cages or fences etc\nn. a metal conductor that carries electricity over a distance\nn. the finishing line on a racetrack\nv. provide with electrical circuits",
+      "phonetic": "'waiә",
+      "forms": [
+        "wires"
+      ],
+      "example": "“If it happened to hit that area, the wires would be down with trees on them for weeks, so we’d miss the press date,” Lovins told me in a 2025 interview.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "date",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "date"
+      ],
+      "example": "“If it happened to hit that area, the wires would be down with trees on them for weeks, so we’d miss the press date,” Lovins told me in a 2025 interview.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "edits",
+      "headword": "edit",
+      "kind": "word",
+      "zh": "vt. 编辑, 编校, 修订, 剪辑\n[计] 编辑; DOS外部命令:该命令是一个用于编辑文本文件的全屏幕编辑程序",
+      "en": "v. prepare for publication or presentation by correcting, revising, or adapting\nv. supervise the publication of\nv. cut and assemble the components of\nv. cut or eliminate",
+      "phonetic": "'edit",
+      "forms": [
+        "edits"
+      ],
+      "example": "The lines held up as he and the editor worked through final edits on a 14-hour phone call.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "in the wake of",
+      "headword": "in the wake of",
+      "kind": "phrase",
+      "zh": "在……之后；作为……的后果",
+      "en": "following something and often as a consequence of it",
+      "forms": [
+        "in the wake of"
+      ],
+      "example": "Published in October 1976 in the wake of the 1973 oil crisis, “Energy Strategy: The Road Not Taken?”",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v16",
+      "term": "crisis",
+      "headword": "crisis",
+      "kind": "word",
+      "zh": "n. 危机, 危险期, 紧要关头\n[医] 危象; 骤退, 临界, 极期",
+      "en": "n. an unstable situation of extreme danger or difficulty\nn. a crucial stage or turning point in the course of something",
+      "phonetic": "'kraisis",
+      "forms": [
+        "crisis"
+      ],
+      "example": "Published in October 1976 in the wake of the 1973 oil crisis, “Energy Strategy: The Road Not Taken?”",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "energy",
+      "headword": "energy",
+      "kind": "word",
+      "zh": "n. 精力, 精神, 活力, 能量\n[化] 能; 能量",
+      "en": "n. (physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs\nn. forceful exertion\nn. enterprising or ambitious drive\nn. an imaginative lively style (especially style of writing)",
+      "phonetic": "'enәdʒi",
+      "forms": [
+        "energy"
+      ],
+      "example": "Published in October 1976 in the wake of the 1973 oil crisis, “Energy Strategy: The Road Not Taken?”",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "reprint",
+      "headword": "reprint",
+      "kind": "word",
+      "zh": "n. 再版, 翻版, 重印\nvt. 再版, 翻版",
+      "en": "v. print anew",
+      "phonetic": "'ri:print",
+      "forms": [
+        "reprint"
+      ],
+      "example": "drew more reprint requests than any Foreign Affairs article in decades.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "requests",
+      "headword": "request",
+      "kind": "word",
+      "zh": "n. 请求, 需要, 申请书\nvt. 请求, 要求, 邀请\n[计] 请求",
+      "en": "n. a formal message requesting something that is submitted to an authority\nn. the verbal act of requesting\nv. express the need or desire for; ask for\nv. ask (a person) to do something",
+      "phonetic": "ri'kwest",
+      "forms": [
+        "requests"
+      ],
+      "example": "drew more reprint requests than any Foreign Affairs article in decades.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "committees",
+      "headword": "committee",
+      "kind": "word",
+      "zh": "n. 委员会\n[经] 委员会",
+      "en": "n. a special group delegated to consider some matter\nn. a self-constituted organization to promote something",
+      "phonetic": "kә'miti",
+      "forms": [
+        "committees"
+      ],
+      "example": "Two U.S. Senate committees called on the 29-year-old Lovins to testify about his ideas that December.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "testify",
+      "headword": "testify",
+      "kind": "word",
+      "zh": "v. 证明, 作证, 声明, 表明",
+      "en": "v. give testimony in a court of law\nv. provide evidence for",
+      "phonetic": "'testifai",
+      "forms": [
+        "testify"
+      ],
+      "example": "Two U.S. Senate committees called on the 29-year-old Lovins to testify about his ideas that December.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "jimmy",
+      "headword": "jimmy",
+      "kind": "word",
+      "zh": "n. 铁撬\nvt. 撬",
+      "en": "n. a short crowbar",
+      "phonetic": "'dʒimi",
+      "forms": [
+        "jimmy"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "carter",
+      "headword": "carter",
+      "kind": "word",
+      "zh": "n. 运货马车夫",
+      "en": "n. Englishman and Egyptologist who in 1922 discovered and excavated the tomb of Tutankhamen (1873-1939)\nn. 39th President of the United States (1924-)\nn. someone whose work is driving carts",
+      "phonetic": "'kɑ:tә",
+      "forms": [
+        "carter"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "advisers",
+      "headword": "adviser",
+      "kind": "word",
+      "zh": "n. 顾问, 劝告者, 指导教师\n[法] 顾问, 劝告者",
+      "en": "n. an expert who gives advice",
+      "phonetic": "әd'vaizә",
+      "forms": [
+        "advisers"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "oval",
+      "headword": "oval",
+      "kind": "word",
+      "zh": "n. 椭圆形\na. 卵形的, 椭圆形的",
+      "en": "n a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it\ns rounded like an egg",
+      "phonetic": "'әuvәl",
+      "forms": [
+        "oval"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "expanded",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanded"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "soft",
+      "headword": "soft",
+      "kind": "word",
+      "zh": "a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的\nn. 柔软的东西, 笨人, 纸币\nadv. 柔软地, 温和地",
+      "en": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)",
+      "phonetic": "sɒft",
+      "forms": [
+        "soft",
+        "softest"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "paths",
+      "headword": "path",
+      "kind": "word",
+      "zh": "n. 路径, 小路, 道路, 途径, 路线, 轨道\n[计] 路径; DOS内部命令:设定DOS读取程序的路径",
+      "en": "n. a way especially designed for a particular use\nn. an established line of travel or access\nn. a line or route along which something travels or moves",
+      "phonetic": "pɑ:θ",
+      "forms": [
+        "paths",
+        "path"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "durable",
+      "headword": "durable",
+      "kind": "word",
+      "zh": "a. 持久的, 耐用的",
+      "en": "s. existing for a long time\ns. capable of withstanding wear and tear and decay\ns. very long lasting",
+      "phonetic": "'djurәbl",
+      "forms": [
+        "durable"
+      ],
+      "example": "The following year, Lovins met with President Jimmy Carter and his top energy advisers in the Oval Office and expanded his article into a book, “Soft Energy Paths: Toward a Durable Peace.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "chronicled",
+      "headword": "chronicle",
+      "kind": "word",
+      "zh": "n. 年代记, 记录, 编年史\nvt. 把...载入编年史",
+      "en": "v. record in chronological order; make a historical record",
+      "phonetic": "'krɒnikl",
+      "forms": [
+        "chronicled"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "raging",
+      "headword": "rage",
+      "kind": "word",
+      "zh": "n. 愤怒, 情绪激动, 狂暴\nvi. 大怒, 狂吹, 流行",
+      "en": "n. a state of extreme anger\nn. something that is desired intensely\nn. violent state of the elements\nv. be violent; as of fires and storms",
+      "phonetic": "reidʒ",
+      "forms": [
+        "raging"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "sparked",
+      "headword": "spark",
+      "kind": "word",
+      "zh": "n. 火花, 火星, 闪光, 无线电报务员, 瞬间放电, 活力, 朝气, 花花公子, 情郎\nvi. 闪光, 发火花, 求婚\nvt. 发动, 鼓舞, 使有朝气, 求婚",
+      "en": "n. a small but noticeable trace of some quality that might become stronger\nn. Scottish writer of satirical novels (born in 1918)\nn. a small fragment of a burning substance thrown out by burning material or by friction\nv. emit or produce sparks",
+      "phonetic": "spɑ:k",
+      "forms": [
+        "sparked"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "critics",
+      "headword": "critic",
+      "kind": "word",
+      "zh": "n. 批评家, 鉴定家",
+      "en": "n. a person who is professionally engaged in the analysis and interpretation of works of art\nn. anyone who expresses a reasoned judgment of something\nn. someone who frequently finds fault or makes harsh and unfair judgments",
+      "phonetic": "'kritik",
+      "forms": [
+        "critics"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "concede",
+      "headword": "concede",
+      "kind": "word",
+      "zh": "vt. 承认, 退让\nvi. 让步",
+      "en": "v. admit (to a wrongdoing)\nv. be willing to concede\nv. give over; surrender or relinquish to the physical control of another\nv. acknowledge defeat",
+      "phonetic": "kәn'si:d",
+      "forms": [
+        "concede"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "genius",
+      "headword": "genius",
+      "kind": "word",
+      "zh": "n. 天才, 天赋, 精神, 神魔\n[医] 特征",
+      "en": "n. someone who has exceptional intellectual ability and originality\nn. exceptional creative ability",
+      "phonetic": "'dʒi:njәs",
+      "forms": [
+        "genius"
+      ],
+      "example": "The New York Times chronicled the “raging debate” sparked by Lovins, noting that “even his critics concede that he is something of a genius.”",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "charted",
+      "headword": "chart",
+      "kind": "word",
+      "zh": "n. 图表, 海图\nvt. 制成图表\n[计] 图表",
+      "en": "n. a visual display of information\nn. a map designed to assist navigation by air or sea\nv. make a chart of\nv. plan in detail",
+      "phonetic": "tʃɑ:t",
+      "forms": [
+        "charted"
+      ],
+      "example": "The article charted two paths for the future of energy.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "supply",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supply",
+        "supplies",
+        "supplied"
+      ],
+      "example": "One, which Lovins called the “hard” path, required ever more energy supply to meet inexorably rising demand.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "inexorably",
+      "headword": "inexorably",
+      "kind": "word",
+      "zh": "adv. 冷酷地；无情地",
+      "en": "r. in an inexorable manner",
+      "phonetic": "",
+      "forms": [
+        "inexorably"
+      ],
+      "example": "One, which Lovins called the “hard” path, required ever more energy supply to meet inexorably rising demand.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "demand",
+      "headword": "demand",
+      "kind": "word",
+      "zh": "n. 要求, 需求, 需要\nv. 要求, 查询",
+      "en": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+      "phonetic": "di'mɑ:nd",
+      "forms": [
+        "demand"
+      ],
+      "example": "One, which Lovins called the “hard” path, required ever more energy supply to meet inexorably rising demand.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "decline",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "decline"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "coal",
+      "headword": "coal",
+      "kind": "word",
+      "zh": "n. 煤, 木炭\nv. 加煤",
+      "en": "n. fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period\nv. supply with coal\nv. take in coal",
+      "phonetic": "kәul",
+      "forms": [
+        "coal"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "uranium",
+      "headword": "uranium",
+      "kind": "word",
+      "zh": "n. 铀\n[化] 铀U",
+      "en": "n. a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "phonetic": "ju'reiniәm",
+      "forms": [
+        "uranium"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "generating",
+      "headword": "generate",
+      "kind": "word",
+      "zh": "vt. 产生, 发生, 导致\n[电] 产生",
+      "en": "v. bring into existence\nv. produce (energy)",
+      "phonetic": "'dʒenәreit",
+      "forms": [
+        "generating",
+        "generated",
+        "generate"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "electricity",
+      "headword": "electricity",
+      "kind": "word",
+      "zh": "n. 电, 电流, 电学, 热情, 电力供应\n[化] 电学; 电",
+      "en": "n. a physical phenomenon associated with stationary or moving electrons and protons\nn. energy made available by the flow of electric charge through a conductor\nn. keen and shared excitement",
+      "phonetic": ".ilek'trisiti",
+      "forms": [
+        "electricity"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "remote",
+      "headword": "remote",
+      "kind": "word",
+      "zh": "a. 遥远的, 偏僻的, 疏远的, 微少的\n[计] 远程, 远程访问实用程序",
+      "en": "n a device that can be used to control a machine or apparatus from a distance\ns located far away spatially\ns very unlikely\ns separate or apart in time\ns inaccessible and sparsely populated; \na far apart in relevance or relationship or kinship",
+      "phonetic": "ri'mәut",
+      "forms": [
+        "remote"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "facilities",
+      "headword": "facility",
+      "kind": "word",
+      "zh": "n. 容易, 灵巧, 设备\n[计] 设施; 设备; 装备",
+      "en": "n. a building or place that provides a particular service or is used for a particular industry\nn. a natural effortlessness\nn. something designed and created to serve a particular function and to afford a particular convenience or service\nn. a service that an organization or a piece of equipment offers you",
+      "phonetic": "fә'siliti",
+      "forms": [
+        "facilities"
+      ],
+      "example": "With U.S. oil production in decline since 1970, coal and uranium would supply most growth by generating electricity at large, remote facilities.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "championed",
+      "headword": "champion",
+      "kind": "word",
+      "zh": "n. 冠军, 拥护者, 战士\nvt. 保卫, 拥护\na. 优胜的",
+      "en": "n. someone who has won first place in a competition\nn. someone who fights for a cause\nv. protect or fight for as a champion\ns. holding first place in a contest",
+      "phonetic": "'tʃæmpiәn",
+      "forms": [
+        "championed"
+      ],
+      "example": "Lovins instead championed a “soft” path that put people’s wants ahead of supplies.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "comfortable",
+      "headword": "comfortable",
+      "kind": "word",
+      "zh": "a. 舒服的, 轻松的\nn. 盖被",
+      "en": "a. providing or experiencing physical well-being or relief (`comfy' is informal)\na. free from stress or conducive to mental ease; having or affording peace of mind\ns. more than adequate\ns. sufficient to provide comfort",
+      "phonetic": "'kʌmfәtәbl",
+      "forms": [
+        "comfortable"
+      ],
+      "example": "“People do not want electricity or oil … but rather comfortable rooms, light, vehicular motion … and other real things,” he wrote.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "vehicular",
+      "headword": "vehicular",
+      "kind": "word",
+      "zh": "a. 车的, 作为媒介的, 用车辆运载的",
+      "en": "a. of or relating to or intended for (motor) vehicles",
+      "phonetic": "vi'hikjulә",
+      "forms": [
+        "vehicular"
+      ],
+      "example": "“People do not want electricity or oil … but rather comfortable rooms, light, vehicular motion … and other real things,” he wrote.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "motion",
+      "headword": "motion",
+      "kind": "word",
+      "zh": "n. 移动, 手势, 动作, 意向, 请求, 提议\nv. 打手势",
+      "en": "n. a change of position that does not entail a change of location\nn. a state of change\nn. a formal proposal for action made to a deliberative assembly for discussion and vote\nn. the act of changing location from one place to another",
+      "phonetic": "'mәuʃәn",
+      "forms": [
+        "motion"
+      ],
+      "example": "“People do not want electricity or oil … but rather comfortable rooms, light, vehicular motion … and other real things,” he wrote.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "diverse",
+      "headword": "diverse",
+      "kind": "word",
+      "zh": "a. 不同的, 变化多的",
+      "en": "s. distinctly dissimilar or unlike",
+      "phonetic": "dai'vә:s",
+      "forms": [
+        "diverse"
+      ],
+      "example": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "array",
+      "headword": "array",
+      "kind": "word",
+      "zh": "n. 排列, 衣服, 大批, 军队\nvt. 布署, 打扮, 排列\n[计] 数组; 阵列",
+      "en": "n. an orderly arrangement\nn. an impressive display\nn. especially fine or decorative clothing\nn. an arrangement of aerials spaced to give desired directional characteristics",
+      "phonetic": "ә'rei",
+      "forms": [
+        "array"
+      ],
+      "example": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "renewable",
+      "headword": "renewable",
+      "kind": "word",
+      "zh": "a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的\n[计] 可更新, 可再生的",
+      "en": "a. that can be renewed or extended\ns. capable of being renewed; replaceable",
+      "phonetic": "ri'nju(:)әbl",
+      "forms": [
+        "renewable"
+      ],
+      "example": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "renewable energy",
+      "headword": "renewable energy",
+      "kind": "phrase",
+      "zh": "可再生能源",
+      "en": "energy from sources naturally replenished over time",
+      "forms": [
+        "renewable energy"
+      ],
+      "example": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v55",
+      "term": "locally",
+      "headword": "locally",
+      "kind": "word",
+      "zh": "adv. 地方性地, 局部性地, 在当地",
+      "en": "r. by a particular locality\nr. to a restricted area of the body",
+      "phonetic": "'lәukәli",
+      "forms": [
+        "locally"
+      ],
+      "example": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "solar",
+      "headword": "solar",
+      "kind": "word",
+      "zh": "a. 太阳的, 日光的, 源自太阳的\n[医] 太阳的; 腹腔丛的",
+      "en": "a. relating to or derived from the sun or utilizing the energies of the sun",
+      "phonetic": "'sәulә",
+      "forms": [
+        "solar"
+      ],
+      "example": "Heating would come from solar collectors and waste heat.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "collectors",
+      "headword": "collector",
+      "kind": "word",
+      "zh": "n. 收集家, 收取款项的人\n[化] 集电极; 捕收剂",
+      "en": "n. a person who collects things\nn. a person who is employed to collect payments (as for rent or taxes)\nn. a crater that has collected cosmic material hitting the earth\nn. the electrode in a transistor through which a primary flow of carriers leaves the region between the electrodes",
+      "phonetic": "kә'lektә",
+      "forms": [
+        "collectors"
+      ],
+      "example": "Heating would come from solar collectors and waste heat.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "waste",
+      "headword": "waste",
+      "kind": "word",
+      "zh": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\na. 废弃的, 荒芜的, 多余的\nvt. 浪费, 消耗, 使荒芜\nvi. 浪费, 消耗, 变消瘦",
+      "en": "n. any materials unused and rejected as worthless or unwanted\nn. useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\nn. (law) reduction in the value of an estate caused by act or neglect\nv. spend thoughtlessly; throw away",
+      "phonetic": "weist",
+      "forms": [
+        "waste"
+      ],
+      "example": "Heating would come from solar collectors and waste heat.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "vehicles",
+      "headword": "vehicle",
+      "kind": "word",
+      "zh": "n. 交通工具, 车辆, 传播媒介\n[化] 载体; 运载体; 漆料",
+      "en": "n. a conveyance that transports people or objects\nn. a medium for the expression or achievement of something\nn. any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
+      "phonetic": "'vi:ikl",
+      "forms": [
+        "vehicles"
+      ],
+      "example": "Vehicles would be made more efficient and run on biofuels.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "efficient",
+      "headword": "efficient",
+      "kind": "word",
+      "zh": "a. 有效率的, 能干的",
+      "en": "a. being effective without wasting time or effort or expense",
+      "phonetic": "i'fiʃәnt",
+      "forms": [
+        "efficient"
+      ],
+      "example": "Vehicles would be made more efficient and run on biofuels.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "biofuels",
+      "headword": "biofuel",
+      "kind": "word",
+      "zh": "[机] 生物燃料",
+      "en": "",
+      "phonetic": "baiәu'fju:әl",
+      "forms": [
+        "biofuels"
+      ],
+      "example": "Vehicles would be made more efficient and run on biofuels.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "compress",
+      "headword": "compress",
+      "kind": "word",
+      "zh": "vt. 压缩, 压紧\nvi. 受压缩小\n[计] 压缩程序",
+      "en": "n. a cloth pad or dressing (with or without medication) applied firmly to some part of the body (to relieve discomfort or reduce fever)\nv. make more compact by or as if by pressing\nv. squeeze or press together",
+      "phonetic": "kәm'pres",
+      "forms": [
+        "compress"
+      ],
+      "example": "Wind power would be used to compress air to drive machinery.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "machinery",
+      "headword": "machinery",
+      "kind": "word",
+      "zh": "n. 机器, 机械装置, 机构\n[化] 机械",
+      "en": "n. machines or machine systems collectively\nn. a system of means and activities whereby a social institution functions",
+      "phonetic": "mә'ʃi:nәri",
+      "forms": [
+        "machinery"
+      ],
+      "example": "Wind power would be used to compress air to drive machinery.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "reserved",
+      "headword": "reserve",
+      "kind": "word",
+      "zh": "n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金\nvt. 保留, 保存, 预订, 延期, 推迟",
+      "en": "n. something kept back or saved for future use or a special purpose\nn. (medicine) potential capacity to respond in order to maintain vital functions\nn. the trait of being uncommunicative; not volunteering anything more than necessary\nv. hold back or set aside, especially for future use or contingency",
+      "phonetic": "ri'zә:v",
+      "forms": [
+        "reserved"
+      ],
+      "example": "Oil and gas would be reserved for making chemicals.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "chemicals",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemicals"
+      ],
+      "example": "Oil and gas would be reserved for making chemicals.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "matching",
+      "headword": "match",
+      "kind": "word",
+      "zh": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+      "en": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate",
+      "phonetic": "mætʃ",
+      "forms": [
+        "matching",
+        "matched"
+      ],
+      "example": "Lovins hoped that matching form with function could enable U.S. energy use to plateau and then decline so that it could be supplied renewably by 2025.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "function",
+      "headword": "function",
+      "kind": "word",
+      "zh": "n. 官能, 职务, 功能, 函数\nvi. 活动, 运行, 行使职责\n[计] 功能, 函数",
+      "en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)\nn. what something is used for\nn. the actions and activities assigned to or required or expected of a person or group\nn. a relation such that one thing is dependent on another",
+      "phonetic": "'fʌŋkʃәn",
+      "forms": [
+        "function"
+      ],
+      "example": "Lovins hoped that matching form with function could enable U.S. energy use to plateau and then decline so that it could be supplied renewably by 2025.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "enable",
+      "headword": "enable",
+      "kind": "word",
+      "zh": "vt. 使能够\n[计] 允许, 使能, 打开",
+      "en": "v. render capable or able for some task",
+      "phonetic": "i'neibl",
+      "forms": [
+        "enable"
+      ],
+      "example": "Lovins hoped that matching form with function could enable U.S. energy use to plateau and then decline so that it could be supplied renewably by 2025.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "plateau",
+      "headword": "plateau",
+      "kind": "word",
+      "zh": "n. 高地, 高原, (上升后的)稳定水平\n[医] 高原, 平顶, 坪",
+      "en": "n a relatively flat highland",
+      "phonetic": "plæ'tәu",
+      "forms": [
+        "plateau"
+      ],
+      "example": "Lovins hoped that matching form with function could enable U.S. energy use to plateau and then decline so that it could be supplied renewably by 2025.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "inefficiently",
+      "headword": "inefficiently",
+      "kind": "word",
+      "zh": "adv. 无效率地",
+      "en": "r. in an inefficient manner",
+      "phonetic": "ˌɪnɪ'fɪʃntlɪ",
+      "forms": [
+        "inefficiently"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "fossil",
+      "headword": "fossil",
+      "kind": "word",
+      "zh": "n. 化石, 古物\na. 化石的, 陈腐的, 守旧的",
+      "en": "n. the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil\na. characteristic of a fossil",
+      "phonetic": "'fɒsәl",
+      "forms": [
+        "fossil"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "fossil fuels",
+      "headword": "fossil fuels",
+      "kind": "phrase",
+      "zh": "化石燃料",
+      "en": "coal, oil and gas formed from ancient organic matter",
+      "forms": [
+        "fossil fuels"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v73",
+      "term": "fuels",
+      "headword": "fuel",
+      "kind": "word",
+      "zh": "n. 燃料, 木炭\nvt. 加燃料, 供燃料\nvi. 得到燃料",
+      "en": "n. a substance that can be consumed to produce energy\nv. provide with a combustible substance that provides energy\nv. provide with fuel\nv. take in fuel, as of a ship",
+      "phonetic": "'fjuәl",
+      "forms": [
+        "fuels",
+        "fuel"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "prohibitively",
+      "headword": "prohibitively",
+      "kind": "word",
+      "zh": "adv. 禁止, 起阻止作用, 抑制",
+      "en": "r. to a prohibitive degree",
+      "phonetic": "",
+      "forms": [
+        "prohibitively"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "expensive",
+      "headword": "expensive",
+      "kind": "word",
+      "zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
+      "en": "a. high in price or charging high prices",
+      "phonetic": "ik'spensiv",
+      "forms": [
+        "expensive"
+      ],
+      "example": "When Lovins wrote his article, most electricity was generated inefficiently from fossil fuels or uranium, while wind and solar power remained prohibitively expensive.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "photovoltaics",
+      "headword": "photovoltaic",
+      "kind": "word",
+      "zh": "[电] 光电伏打",
+      "en": "a. producing a voltage when exposed to radiant energy (especially light)",
+      "phonetic": ",fәutәuvɔl'teiik",
+      "forms": [
+        "photovoltaics"
+      ],
+      "example": "“Photovoltaics were out of bounds intellectually; that gets you laughed out of the room, and I didn’t actually think they would get cheap enough,” Lovins told me in 2025.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "intellectually",
+      "headword": "intellectually",
+      "kind": "word",
+      "zh": "adv. 智力上；知性上；理智地",
+      "en": "r. in an intellectual manner",
+      "phonetic": "",
+      "forms": [
+        "intellectually"
+      ],
+      "example": "“Photovoltaics were out of bounds intellectually; that gets you laughed out of the room, and I didn’t actually think they would get cheap enough,” Lovins told me in 2025.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "cheap",
+      "headword": "cheap",
+      "kind": "word",
+      "zh": "a. 便宜的, 不值钱的, 可鄙的\nadv. 便宜地",
+      "en": "a. relatively low in price or charging low prices\ns. embarrassingly stingy",
+      "phonetic": "tʃi:p",
+      "forms": [
+        "cheap"
+      ],
+      "example": "“Photovoltaics were out of bounds intellectually; that gets you laughed out of the room, and I didn’t actually think they would get cheap enough,” Lovins told me in 2025.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "burning",
+      "headword": "burn",
+      "kind": "word",
+      "zh": "vt. 烧, 烧毁, 烧伤\nvi. 燃烧, 发热, 烧毁\nn. 烧伤, 烙印",
+      "en": "n. pain that feels hot as if it were on fire\nn. an injury caused by exposure to heat or chemicals or radiation\nn. a place or area that has been burned (especially on a person's body)\nn. damage inflicted by fire",
+      "phonetic": "bә:n",
+      "forms": [
+        "burning"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "fissioning",
+      "headword": "fission",
+      "kind": "word",
+      "zh": "n. 裂开, 分裂, 分体\n[化] 裂变",
+      "en": "n. reproduction of some unicellular organisms by division of the cell into two more or less equal parts\nn. a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy",
+      "phonetic": "'fiʃәn",
+      "forms": [
+        "fissioning"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "transmitting",
+      "headword": "transmit",
+      "kind": "word",
+      "zh": "vt. 传输, 传染, 传达, 遗传, 发射, 传播\nvi. 发射信号, 留传下来\n[计] 传送",
+      "en": "v. send from one person or place to another",
+      "phonetic": "træns'mit",
+      "forms": [
+        "transmitting"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "low-grade",
+      "headword": "low-grade",
+      "kind": "word",
+      "zh": "a. 低级的, 劣等的, 轻度的\n[医] 轻度的(如感染), 低的(如热度)",
+      "en": "s. of inferior quality",
+      "phonetic": "",
+      "forms": [
+        "low-grade"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "cutting",
+      "headword": "cutting",
+      "kind": "word",
+      "zh": "n. 切断, 切下, 路堑\n[化] 切屑",
+      "en": "n. a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting\nn. a piece cut off from the main part of something\nn. the act of diluting something\ns. (of speech) harsh or hurtful in tone or character",
+      "phonetic": "'kʌtiŋ",
+      "forms": [
+        "cutting"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "butter",
+      "headword": "butter",
+      "kind": "word",
+      "zh": "n. 奶油, 黄油\nvt. 涂黄油于",
+      "en": "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use\nn. a fighter who strikes the opponent with his head\nv. spread butter on",
+      "phonetic": "'bʌtә",
+      "forms": [
+        "butter"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "chainsaw",
+      "headword": "chainsaw",
+      "kind": "word",
+      "zh": "vt.用链锯割,<喻>肢解",
+      "en": "n portable power saw; teeth linked to form an endless chain",
+      "phonetic": "'tʃeinsɔ:",
+      "forms": [
+        "chainsaw"
+      ],
+      "example": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "narrowing",
+      "headword": "narrow",
+      "kind": "word",
+      "zh": "n. 狭窄部分, 隘路\na. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的\nvi. 变窄\nvt. 使变狭窄",
+      "en": "n. a narrow strait connecting two bodies of water\nv. make or become more narrow or restricted\na. not wide\ns. limited in size or scope",
+      "phonetic": "'nærәu",
+      "forms": [
+        "narrowing"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "lane",
+      "headword": "lane",
+      "kind": "word",
+      "zh": "n. 小路, 巷, 弄, 单行道",
+      "en": "n. a narrow way or road\nn. a well-defined track or path; for e.g. swimmers or lines of traffic",
+      "phonetic": "lein",
+      "forms": [
+        "lane"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "steering",
+      "headword": "steer",
+      "kind": "word",
+      "zh": "vt. 引导, 驾驶, 航行, 控制\nvi. 驾驶, 掌舵, 行驶\nn. 驾驶指示, 劝告",
+      "en": "v. direct the course; determine the direction of travelling\nv. direct (oneself) somewhere",
+      "phonetic": "stiә",
+      "forms": [
+        "steering"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "essential",
+      "headword": "essential",
+      "kind": "word",
+      "zh": "n. 要素, 要点, 本质\na. 必要的, 重要的, 本质的\n[计] 本质冒险",
+      "en": "s. absolutely necessary; vitally necessary\na. basic and fundamental\na. being or relating to or containing the essence of a plant etc",
+      "phonetic": "i'senʃәl",
+      "forms": [
+        "essential"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v91",
+      "term": "electronics",
+      "headword": "electronics",
+      "kind": "word",
+      "zh": "n. 电子学\n[计] 电子学",
+      "en": "n. the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices",
+      "phonetic": ".ilek'trɒniks",
+      "forms": [
+        "electronics"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "subways",
+      "headword": "subway",
+      "kind": "word",
+      "zh": "n. 地铁, 地道\nvi. 乘地铁",
+      "en": "n an electric railway operating below the surface of the ground (usually in a city)\nn an underground tunnel or passage enabling pedestrians to cross a road or railway",
+      "phonetic": "'sʌbwei",
+      "forms": [
+        "subways"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "smelting",
+      "headword": "smelting",
+      "kind": "word",
+      "zh": "[化] 熔炼; 冶炼",
+      "en": "v extract (metals) by heating",
+      "phonetic": "'smeltiŋ",
+      "forms": [
+        "smelting"
+      ],
+      "example": "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "posited",
+      "headword": "posit",
+      "kind": "word",
+      "zh": "vt. 假设, 安置, 布置",
+      "en": "n (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning\nv put (something somewhere) firmly\nv put before\nv take as a given; assume as a postulate or axiom",
+      "phonetic": "'pɒzit",
+      "forms": [
+        "posited"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "affluent",
+      "headword": "affluent",
+      "kind": "word",
+      "zh": "a. 丰富的, 富裕的\nn. 支流, 富人",
+      "en": "n. an affluent person; a person who is financially well off\ns. having an abundant supply of money or possessions of value",
+      "phonetic": "'æfluәnt",
+      "forms": [
+        "affluent"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "industrial",
+      "headword": "industrial",
+      "kind": "word",
+      "zh": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
+      "en": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear",
+      "phonetic": "in'dʌstriәl",
+      "forms": [
+        "industrial"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "advantageously",
+      "headword": "advantageously",
+      "kind": "word",
+      "zh": "adv. 有利地；方便地；有助地",
+      "en": "r in a manner affording benefit or advantage",
+      "phonetic": ",ædvən'teidʒəsli",
+      "forms": [
+        "advantageously"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "operate",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operate"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "advocate",
+      "headword": "advocate",
+      "kind": "word",
+      "zh": "n. 提倡者, 拥护者\nvt. 主张, 提倡",
+      "en": "n. a person who pleads for a cause or propounds an idea\nn. a lawyer who pleads cases in court",
+      "phonetic": "'ædvәkeit",
+      "forms": [
+        "advocate"
+      ],
+      "example": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "predictions",
+      "headword": "prediction",
+      "kind": "word",
+      "zh": "n. 预言, 预报\n[化] 预测",
+      "en": "n. the act of predicting (as by reasoning about the future)\nn. a statement made about the future",
+      "phonetic": "pri'dikʃәn",
+      "forms": [
+        "predictions"
+      ],
+      "example": "They were paths, not predictions, and neither path foretold the road actually taken in the 50 years since.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "foretold",
+      "headword": "foretell",
+      "kind": "word",
+      "zh": "vt. 预言, 预告, 预示",
+      "en": "v foreshadow or presage\nv make a prediction about; tell in advance\nv indicate by signs",
+      "phonetic": "fɒ:'tel",
+      "forms": [
+        "foretold"
+      ],
+      "example": "They were paths, not predictions, and neither path foretold the road actually taken in the 50 years since.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "unlike",
+      "headword": "unlike",
+      "kind": "word",
+      "zh": "a. 不像的, 不同的\nprep. 不像, 和...不同",
+      "en": "a. marked by dissimilarity\na. not equal in amount",
+      "phonetic": ".ʌn'laik",
+      "forms": [
+        "unlike"
+      ],
+      "example": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "forecasts",
+      "headword": "forecasts",
+      "kind": "word",
+      "zh": "n. 预测, 预报( forecast的名词复数 )\nv. 预言, 预报( forecast的第三人称单数 )",
+      "en": "n a prediction about how something (as the weather) will develop\nv predict in advance\nv judge to be probable\nv indicate by signs",
+      "phonetic": "ˈfɔ:-kɑ:sts",
+      "forms": [
+        "forecasts"
+      ],
+      "example": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "foresaw",
+      "headword": "foresee",
+      "kind": "word",
+      "zh": "vt. 预见, 预知",
+      "en": "v realize beforehand\nv picture to oneself; imagine possible\nv act in advance of; deal with ahead of time",
+      "phonetic": "fɒ:'si:",
+      "forms": [
+        "foresaw",
+        "foresee"
+      ],
+      "example": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "actual",
+      "headword": "actual",
+      "kind": "word",
+      "zh": "a. 真实的, 实际的, 现行的\n[医] 实际死亡率",
+      "en": "a. presently existing in fact and not merely potential or possible\ns. taking place in reality; not pretended or imitated\ns. being or reflecting the essential or genuine character of something\ns. existing in act or fact",
+      "phonetic": "'æktʃuәl",
+      "forms": [
+        "actual"
+      ],
+      "example": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "contemporaries",
+      "headword": "contemporary",
+      "kind": "word",
+      "zh": "n. 同时代的人\na. 同时代的, 属于同一时期的",
+      "en": "n. a person of nearly the same age as another\ns. characteristic of the present\ns. belonging to the present time",
+      "phonetic": "kәn'tempәrәri",
+      "forms": [
+        "contemporaries"
+      ],
+      "example": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "drilling",
+      "headword": "drill",
+      "kind": "word",
+      "zh": "n. 钻孔机, 钻子, 播种机, 粗斜纹布\nv. 训练, 钻孔",
+      "en": "n. a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)\nn. similar to the mandrill but smaller and less brightly colored\nn. (military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms\nv. train in the military, e.g., in the use of weapons",
+      "phonetic": "dril",
+      "forms": [
+        "drilling"
+      ],
+      "example": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "advances",
+      "headword": "advance",
+      "kind": "word",
+      "zh": "n. 前进, 进展, 行过的路程\nvi. 前进, 进展, 提高, 上涨\nvt. 使前进, 促进, 提出, 提高, 使提前, 预付\na. 前面的, 预先的",
+      "en": "n. an amount paid before it is earned\nn. increase in price or value\nv. move forward, also in the metaphorical sense\nv. bring forward for consideration or acceptance",
+      "phonetic": "әd'vɑ:ns",
+      "forms": [
+        "advances"
+      ],
+      "example": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "dominant",
+      "headword": "dominant",
+      "kind": "word",
+      "zh": "a. 占优势的, 支配的\n[医] 优性的, 显性的",
+      "en": "n. (music) the fifth note of the diatonic scale\na. exercising influence or control\na. (of genes) producing the same phenotype whether its allele is identical or dissimilar",
+      "phonetic": "'dɒminәnt",
+      "forms": [
+        "dominant"
+      ],
+      "example": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "engineer",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineer"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "completing",
+      "headword": "complete",
+      "kind": "word",
+      "zh": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+      "en": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form",
+      "phonetic": "kәm'pli:t",
+      "forms": [
+        "completing"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "visions",
+      "headword": "vision",
+      "kind": "word",
+      "zh": "n. 视觉, 眼光, 视力, 幻想\nvt. 梦见, 想象, 显示",
+      "en": "n. a vivid mental image\nn. the perceptual experience of seeing\nn. a religious or mystical experience of a supernatural appearance",
+      "phonetic": "'viʒәn",
+      "forms": [
+        "visions"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "shaping",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shaping"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "secure",
+      "headword": "secure",
+      "kind": "word",
+      "zh": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的\nvt. 固定, 获得, 保证, 使安全, 掩护, 招致\nvi. 停止操作, 船抛锚",
+      "en": "v. assure payment of\na. free from fear or doubt; easy in mind\na. free from danger or risk\na. not likely to fail or give way",
+      "phonetic": "si'kjuә",
+      "forms": [
+        "secure"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "sustainable",
+      "headword": "sustainable",
+      "kind": "word",
+      "zh": "a. 足可支撑的, 养得起的, 可以忍受的",
+      "en": "a. capable of being sustained",
+      "phonetic": "sә'steinәbl",
+      "forms": [
+        "sustainable"
+      ],
+      "example": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "efficiency",
+      "headword": "efficiency",
+      "kind": "word",
+      "zh": "n. 效率, 效能, 功效\n[医] 效率, 效力",
+      "en": "n. the ratio of the output to the input of any system\nn. skillfulness in avoiding wasted time and effort",
+      "phonetic": "i'fiʃәnsi",
+      "forms": [
+        "efficiency"
+      ],
+      "example": "Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v117",
+      "term": "clean",
+      "headword": "clean",
+      "kind": "word",
+      "zh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+      "en": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc.",
+      "phonetic": "kli:n",
+      "forms": [
+        "clean"
+      ],
+      "example": "Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "electrification",
+      "headword": "electrification",
+      "kind": "word",
+      "zh": "n. 起电, 带电, 电气化\n[化] 起电",
+      "en": "n. the activity of thrilling or markedly exciting some person or group\nn. the act of providing electricity",
+      "phonetic": "i.lektrifi'keiʃәn",
+      "forms": [
+        "electrification"
+      ],
+      "example": "Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "underestimated",
+      "headword": "underestimate",
+      "kind": "word",
+      "zh": "n. 低估\nvt. 低估, 看轻",
+      "en": "n. an estimation that is too low; an estimate that is less than the true or actual value\nv. make too low an estimate of",
+      "phonetic": ".ʌndәr'estimeit",
+      "forms": [
+        "underestimated"
+      ],
+      "example": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "costs",
+      "headword": "costs",
+      "kind": "word",
+      "zh": "n. 费用；诉讼费；损失（cost的复数）",
+      "en": "n. pecuniary reimbursement to the winning party for the expenses of litigation",
+      "phonetic": "",
+      "forms": [
+        "costs"
+      ],
+      "example": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "overstated",
+      "headword": "overstate",
+      "kind": "word",
+      "zh": "vt. 夸大的叙述, 夸张, 过分强调\n[经] 多计, 高估",
+      "en": "v. to enlarge beyond bounds or the truth",
+      "phonetic": ".әuvә'steit",
+      "forms": [
+        "overstated"
+      ],
+      "example": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "In fact",
+      "headword": "in fact",
+      "kind": "phrase",
+      "zh": "事实上",
+      "en": "used to emphasise what is actually true",
+      "forms": [
+        "In fact"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v123",
+      "term": "transformed",
+      "headword": "transform",
+      "kind": "word",
+      "zh": "vt. 使转换, 改变, 改造, 使...变形\nvi. 改变, 转化, 变换\n[计] 变换",
+      "en": "v. subject to a mathematical transformation\nv. change or alter in form, appearance, or nature\nv. change in outward structure or looks\nv. convert (one form of energy) to another",
+      "phonetic": "træns'fɒ:m",
+      "forms": [
+        "transformed"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "unanticipated",
+      "headword": "unanticipated",
+      "kind": "word",
+      "zh": "[计] 非先行的",
+      "en": "s. not anticipated",
+      "phonetic": "",
+      "forms": [
+        "unanticipated"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "plunges",
+      "headword": "plunge",
+      "kind": "word",
+      "zh": "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资\nvi. 投入, 投身于, 跳进, 陷入, 下降\nvt. 使投入, 使插入, 使陷入, 使遭受",
+      "en": "n. a steep and rapid fall\nv. dash violently or with great speed or impetuosity\nv. begin with vigor\nv. cause to be immersed",
+      "phonetic": "plʌndʒ",
+      "forms": [
+        "plunges"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "battery",
+      "headword": "battery",
+      "kind": "word",
+      "zh": "n. 电池, 殴打\n[化] 蓄电池",
+      "en": "n. group of guns or missile launchers operated together at one place\nn. a device that produces electricity; may have several primary or secondary cells arranged in parallel or series\nn. a collection of related things intended for use together\nn. a unit composed of the pitcher and catcher",
+      "phonetic": "'bætәri",
+      "forms": [
+        "battery",
+        "batteries"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "storage",
+      "headword": "storage",
+      "kind": "word",
+      "zh": "n. 存储器, 储藏, 保管, 库存, 仓库\n[计] 存放处; 存储",
+      "en": "n. the act of storing something\nn. the commercial enterprise of storing goods and materials\nn. (computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
+      "phonetic": "'stɒ:ridʒ",
+      "forms": [
+        "storage"
+      ],
+      "example": "In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v128",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v129",
+      "term": "watt",
+      "headword": "watt",
+      "kind": "word",
+      "zh": "n. 瓦(特)\n[化] 瓦; 瓦特",
+      "en": "n. a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm\nn. Scottish engineer and inventor whose improvements in the steam engine led to its wide use in industry (1736-1819)",
+      "phonetic": "wɒt",
+      "forms": [
+        "watt"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v130",
+      "term": "panels",
+      "headword": "panel",
+      "kind": "word",
+      "zh": "n. 嵌板, 仪表板, 专题讨论小组, 全体陪审员\nvt. 嵌镶板",
+      "en": "n. sheet that forms a distinct (usually flat and rectangular) section or component of something\nn. (law) a group of people summoned for jury service (from whom a jury will be chosen)\nn. a group of people gathered for a special purpose as to plan or discuss an issue or judge a contest etc\nn. a soft pad placed under a saddle",
+      "phonetic": "'pænl",
+      "forms": [
+        "panels"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v131",
+      "term": "tumbled",
+      "headword": "tumble",
+      "kind": "word",
+      "zh": "n. 跌倒, 摔跤, 翻斤斗\nvi. 翻倒, 摔倒, 倒塌, 滚动, 翻斤斗, 仓促地行动\nvt. 使摔倒, 使滚翻, 弄乱",
+      "en": "n. an acrobatic feat of rolling or turning end over end\nv. fall down, as if collapsing\nv. roll over and over, back and forth\nv. throw together in a confused mass",
+      "phonetic": "tʌmbl",
+      "forms": [
+        "tumbled"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v132",
+      "term": "dollars",
+      "headword": "dollar",
+      "kind": "word",
+      "zh": "n. 美元, 元(加、澳等国货币单位)\n[经] 纯经济的, 美元, 元",
+      "en": "n. the basic monetary unit in many countries; equal to 100 cents\nn. a piece of paper money worth one dollar\nn. a United States coin worth one dollar\nn. a symbol of commercialism or greed",
+      "phonetic": "'dɒlә",
+      "forms": [
+        "dollars"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v133",
+      "term": "cents",
+      "headword": "cent",
+      "kind": "word",
+      "zh": "n. 分\n[经] 美分",
+      "en": "n. a fractional monetary unit of several countries",
+      "phonetic": "sent",
+      "forms": [
+        "cents"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v134",
+      "term": "minimum",
+      "headword": "minimum",
+      "kind": "word",
+      "zh": "a. 最小的, 最低的\nn. 最小值\n[计] 最小值",
+      "en": "n. the smallest possible quantity\nn. the point on a curve where the tangent changes from negative on the left to positive on the right",
+      "phonetic": "'minimәm",
+      "forms": [
+        "minimum"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v135",
+      "term": "imported",
+      "headword": "import",
+      "kind": "word",
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性\nvt. 输入, 引入, 进口, 含...的意思, 重要\nvi. 有关系\n[计] 引入",
+      "en": "n. commodities (goods or services) bought from a foreign country\nn. an imported person brought from a foreign country\nv. bring in from abroad\nv. transfer (electronic data) into a database or document",
+      "phonetic": "im'pɒ:t",
+      "forms": [
+        "imported"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v136",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v137",
+      "term": "electric",
+      "headword": "electric",
+      "kind": "word",
+      "zh": "a. 电的, 导电的, 电动的\n[医] 电的",
+      "en": "n. a car that is powered by electricity\na. using or providing or producing or transmitting or operated by electricity\ns. (of a situation) exceptionally tense\ns. affected by emotion as if by electricity; thrilling",
+      "phonetic": "i'lektik",
+      "forms": [
+        "electric"
+      ],
+      "example": "And electric vehicles are a few times more efficient than gasoline ones.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v138",
+      "term": "analogy",
+      "headword": "analogy",
+      "kind": "word",
+      "zh": "n. 相似, 类似\n[计] 模拟",
+      "en": "n. an inference that if things agree in some respects they probably agree in others\nn. drawing a comparison in order to show a similarity in some respect",
+      "phonetic": "ә'nælәdʒi",
+      "forms": [
+        "analogy"
+      ],
+      "example": "Modern technologies turn the chainsaw analogy on its head by making electrification the soft path to reducing energy use.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v139",
+      "term": "pumps",
+      "headword": "pump",
+      "kind": "word",
+      "zh": "n. 抽水机, 打气筒, 泵, 抽吸\nvt. 用唧筒抽水, 打气, 盘问, 倾注, 使疲惫\nvi. 抽水, 上下(或往复)运动",
+      "en": "n. a mechanical device that moves fluid or gas by pressure or suction\nn. a low-cut shoe without fastenings\nv. operate like a pump; move up and down, like a handle or a pedal\nv. deliver forth",
+      "phonetic": "pʌmp",
+      "forms": [
+        "pumps"
+      ],
+      "example": "Heat pumps supply several times as much heat as the electricity they consume.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v140",
+      "term": "consume",
+      "headword": "consume",
+      "kind": "word",
+      "zh": "vt. 消耗, 消费, 消灭\nvi. 耗尽, 毁灭",
+      "en": "v. serve oneself to, or consume regularly\nv. spend extravagantly\nv. destroy completely\nv. use up (resources or materials)",
+      "phonetic": "kәn'sju:m",
+      "forms": [
+        "consume"
+      ],
+      "example": "Heat pumps supply several times as much heat as the electricity they consume.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v141",
+      "term": "induction",
+      "headword": "induction",
+      "kind": "word",
+      "zh": "n. 归纳法, 感应, 就职, 入门\n[计] 归纳法",
+      "en": "n. an electrical phenomenon whereby an electromotive force (EMF) is generated in a closed circuit by a change in the flow of current\nn. the act of bringing about something (especially at an early time)",
+      "phonetic": "in'dʌkʃәn",
+      "forms": [
+        "induction"
+      ],
+      "example": "Induction stoves cook food far more efficiently than gas flames.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v142",
+      "term": "efficiently",
+      "headword": "efficiently",
+      "kind": "word",
+      "zh": "adv. 生效, 能胜任, 有能力, 效率高, 有效",
+      "en": "r. with efficiency; in an efficient manner",
+      "phonetic": "i'fiʃәntli",
+      "forms": [
+        "efficiently"
+      ],
+      "example": "Induction stoves cook food far more efficiently than gas flames.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v143",
+      "term": "flames",
+      "headword": "flame",
+      "kind": "word",
+      "zh": "n. 火焰, 火舌, 热情, 光辉\nvt. 焚烧, 用火焰给...灭菌, 用火焰传送(信号), 点燃, 激动\nvi. 燃烧, 爆发, 闪耀\n[计] 无聊邮件, 无益邮件",
+      "en": "v. be in flames or aflame\nv. criticize harshly, usually via an electronic medium",
+      "phonetic": "fleim",
+      "forms": [
+        "flames"
+      ],
+      "example": "Induction stoves cook food far more efficiently than gas flames.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v144",
+      "term": "gasoline",
+      "headword": "gasoline",
+      "kind": "word",
+      "zh": "n. 汽油\n[化] 汽油",
+      "en": "n. a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines",
+      "phonetic": "'gæsәli:n",
+      "forms": [
+        "gasoline"
+      ],
+      "example": "And electric vehicles are a few times more efficient than gasoline ones.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v145",
+      "term": "roof",
+      "headword": "roof",
+      "kind": "word",
+      "zh": "n. 屋顶, 室顶\nvt. 给...盖屋顶, 遮蔽",
+      "en": "n. a protective covering that covers or forms the top of a building\nn. protective covering on top of a motor vehicle\nn. the inner top surface of a covered area or hollow space\nv. provide a building with a roof; cover a building with a roof",
+      "phonetic": "ru:f",
+      "forms": [
+        "roof"
+      ],
+      "example": "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v146",
+      "term": "mine",
+      "headword": "mine",
+      "kind": "word",
+      "zh": "n. 矿, 矿藏, 地雷\nvt. 挖掘, 开采, 在...布雷, 破坏\nvi. 开矿, 埋设地雷\npron. 我的",
+      "en": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines",
+      "phonetic": "main",
+      "forms": [
+        "mine"
+      ],
+      "example": "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v147",
+      "term": "geothermal",
+      "headword": "geothermal",
+      "kind": "word",
+      "zh": "a. 地温的, 地热的",
+      "en": "a. of or relating to the heat in the interior of the earth",
+      "phonetic": ",dʒi(:)әu'θәmәl",
+      "forms": [
+        "geothermal"
+      ],
+      "example": "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v148",
+      "term": "slash",
+      "headword": "slash",
+      "kind": "word",
+      "zh": "v. 猛砍, 乱砍\nn. 猛砍, 乱砍, 删减\n[计] 斜线",
+      "en": "n. an open tract of land in a forest that is strewn with debris from logging (or fire or wind)\nn. a strong sweeping cut made with a sharp instrument\nv. cut with sweeping strokes; as with an ax or machete\nv. cut open",
+      "phonetic": "slæʃ",
+      "forms": [
+        "slash"
+      ],
+      "example": "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v149",
+      "term": "diversity",
+      "headword": "diversity",
+      "kind": "word",
+      "zh": "n. 差异, 多样性\n[化] 多样性",
+      "en": "n. the condition or result of being changeable",
+      "phonetic": "dai'vә:siti",
+      "forms": [
+        "diversity"
+      ],
+      "example": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v150",
+      "term": "blended",
+      "headword": "blend",
+      "kind": "word",
+      "zh": "vt. 混合\nn. 混合",
+      "en": "n. an occurrence of thorough mixing\nn. a new word formed by joining two others and combining their meanings\nn. the act of blending components together thoroughly\nv. combine into one",
+      "phonetic": "blend",
+      "forms": [
+        "blended"
+      ],
+      "example": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v151",
+      "term": "high-voltage",
+      "headword": "high-voltage",
+      "kind": "word",
+      "zh": "a. 高电压的；有力的；激动活跃的",
+      "en": "s operating on or powered by a high voltage\ns vigorously energetic or forceful",
+      "phonetic": "'hai'vəultidʒ",
+      "forms": [
+        "high-voltage"
+      ],
+      "example": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v152",
+      "term": "transmission",
+      "headword": "transmission",
+      "kind": "word",
+      "zh": "n. 传输, 传送, 变速器\n[计] 传输",
+      "en": "n. the act of sending a message; causing a message to be transmitted\nn. communication by means of transmitted signals\nn. the gears that transmit power from an automobile engine via the driveshaft to the live axle",
+      "phonetic": "træns'miʃәn",
+      "forms": [
+        "transmission"
+      ],
+      "example": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v153",
+      "term": "clock",
+      "headword": "clock",
+      "kind": "word",
+      "zh": "n. 时钟, 计时器, (袜子上的)绣花边花\nvt. 绣花样, 记时, 记录\nvi. 记录时间\n[计] 时钟",
+      "en": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "phonetic": "klɒk",
+      "forms": [
+        "clock"
+      ],
+      "example": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v154",
+      "term": "colorado",
+      "headword": "Colorado",
+      "kind": "word",
+      "zh": "n. 科罗拉多, 科罗拉多河",
+      "en": "n. a state in west central United States in the Rocky Mountains\nn. a river in Texas; flows southeast into the Gulf of Mexico\nn. an important river in the southwestern United States; rises in the Rocky Mountains of northern Colorado and flows southwest through Utah into Arizona (where it flows through the Grand Canyon) and then southward through the southern tip of Nevada, then forming the border between California and Arizona and finally into Mexico where it empties into the Gulf of California; the main source of water in the southwestern United States",
+      "phonetic": ",kɔlә'rɑ:dәu",
+      "forms": [
+        "colorado"
+      ],
+      "example": "When I visited Lovins’ ultra-efficient, solar-powered Colorado home in 2025, electrification took center stage.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v155",
+      "term": "stove",
+      "headword": "stove",
+      "kind": "word",
+      "zh": "n. 火炉, 窑\nvt. 用火炉烤\nstave的过去式和过去分词",
+      "en": "n. a kitchen appliance used for cooking food\nn. any heating apparatus",
+      "phonetic": "stәuv",
+      "forms": [
+        "stove"
+      ],
+      "example": "It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v156",
+      "term": "boiling",
+      "headword": "boil",
+      "kind": "word",
+      "zh": "n. 煮沸, 沸腾, 疖\nv. 煮沸, 激动",
+      "en": "n. a painful sore with a hard core filled with pus\nv. come to the boiling point and change from a liquid to vapor\nv. immerse or be immersed in a boiling liquid, often for cooking purposes\nv. bring to, or maintain at, the boiling point",
+      "phonetic": "bɒil",
+      "forms": [
+        "boiling"
+      ],
+      "example": "It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v157",
+      "term": "lightning",
+      "headword": "lightning",
+      "kind": "word",
+      "zh": "n. 闪电\nvi. 闪电\na. 闪电的",
+      "en": "n. abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light\nn. the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more",
+      "phonetic": "'laitniŋ",
+      "forms": [
+        "lightning"
+      ],
+      "example": "It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v158",
+      "term": "speed",
+      "headword": "speed",
+      "kind": "word",
+      "zh": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+      "en": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity",
+      "phonetic": "spi:d",
+      "forms": [
+        "speed"
+      ],
+      "example": "It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v159",
+      "term": "utility",
+      "headword": "utility",
+      "kind": "word",
+      "zh": "n. 功用, 有用之物, 实用, 公用事业, 实用程序\na. 实用的, 有多种用途的\n[计] 实用程序, 工具",
+      "en": "n. a company that performs a public service; subject to government regulation\nn. the quality of being of practical use\nn. the service (electric power or water or transportation) provided by a public utility\nn. (economics) a measure that is to be maximized in any situation involving choice",
+      "phonetic": "ju:'tiliti",
+      "forms": [
+        "utility"
+      ],
+      "example": "It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v160",
+      "term": "retired",
+      "headword": "retire",
+      "kind": "word",
+      "zh": "n. 隐居\nvi. 引退, 退役, 退休, 退去, 撤退, 退却\nvt. 使...撤退, 辞退",
+      "en": "v. go into retirement; stop performing one's work or withdraw from one's position\nv. withdraw from active participation\nv. withdraw from circulation or from the market, as of bills, shares, and bonds\nv. make (someone) retire",
+      "phonetic": "ri'taiә",
+      "forms": [
+        "retired"
+      ],
+      "example": "When I visited Lovins’ ultra-efficient, solar-powered Colorado home in 2025, electrification took center stage. It was the induction stove that he showed off first, boiling water at lightning speed, then the batteries in the utility room. Two electric cars were charging outside. The wood stoves had been retired.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v161",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "Former colleagues of Lovins now advocate an “electrotech revolution” centered on renewable electricity and increased electrification.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v162",
+      "term": "revolution",
+      "headword": "revolution",
+      "kind": "word",
+      "zh": "n. 革命, 大变革, 旋转, 转数, 循环\n[化] 回转",
+      "en": "n. a drastic and far-reaching change in ways of thinking and behaving\nn. the overthrow of a government by those who are governed",
+      "phonetic": ".revә'lu:ʃәn",
+      "forms": [
+        "revolution"
+      ],
+      "example": "Former colleagues of Lovins now advocate an “electrotech revolution” centered on renewable electricity and increased electrification.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v163",
+      "term": "embraces",
+      "headword": "embrace",
+      "kind": "word",
+      "zh": "n. 拥抱\nvt. 拥抱, 互相拥抱, 包含, 收买\nvi. 拥抱",
+      "en": "n. the act of clasping another person in the arms (as in greeting or affection)\nn. the state of taking in or encircling\nn. a close affectionate and protective acceptance\nv. include in scope; include as part of something broader; have as one's sphere or territory",
+      "phonetic": "im'breis",
+      "forms": [
+        "embraces"
+      ],
+      "example": "Lovins told me he embraces their work but is pushing them to add integrative design — optimizing efficiency by redesigning whole systems — a subject he teaches at Stanford.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v164",
+      "term": "integrative",
+      "headword": "integrative",
+      "kind": "word",
+      "zh": "a. 综合的, 一体化的",
+      "en": "a. combining and coordinating diverse elements into a whole",
+      "phonetic": "'intigreitiv",
+      "forms": [
+        "integrative"
+      ],
+      "example": "Lovins told me he embraces their work but is pushing them to add integrative design — optimizing efficiency by redesigning whole systems — a subject he teaches at Stanford.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v165",
+      "term": "optimizing",
+      "headword": "optimize",
+      "kind": "word",
+      "zh": "vt. 使完美, 使完善, 充分利用, 乐观地对待, 优化\nvi. 持乐观态度\n[计] 优化",
+      "en": "v. make optimal; get the most out of; use best\nv. modify to achieve maximum efficiency in storage capacity or time or cost\nv. act as an optimist and take a sunny view of the world",
+      "phonetic": "'ɒptimaiz",
+      "forms": [
+        "optimizing"
+      ],
+      "example": "Lovins told me he embraces their work but is pushing them to add integrative design — optimizing efficiency by redesigning whole systems — a subject he teaches at Stanford.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v166",
+      "term": "redesigning",
+      "headword": "redesign",
+      "kind": "word",
+      "zh": "[化] 重新设计",
+      "en": "v. design anew, make a new design for",
+      "phonetic": ",ri:di'zain",
+      "forms": [
+        "redesigning"
+      ],
+      "example": "Lovins told me he embraces their work but is pushing them to add integrative design — optimizing efficiency by redesigning whole systems — a subject he teaches at Stanford.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      9,
+      17
+    ],
+    "wordBank": [
+      "low-grade",
+      "forecasts",
+      "diversity",
+      "tumbled",
+      "sustainable",
+      "affluent",
+      "efficient",
+      "overstated",
+      "analogy",
+      "drilling"
+    ],
+    "parts": [
+      {
+        "text": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " heat for homes was “like cutting butter with a chainsaw,” Lovins wrote. Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting. Lovins posited that “an "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.\n\nThe road taken\n\nThey were paths, not predictions, and neither path foretold the road actually taken in the 50 years since. Unlike most "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000. However, Lovins and his contemporaries failed to foresee the "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " advances that have kept oil and gas dominant.\n\nAs an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " energy. Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.\n\nCritics argued that Lovins underestimated the costs of clean technologies and "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " what they could achieve. In fact, opportunities for clean energy have been transformed by unanticipated plunges in the costs of wind and solar electricity, battery storage and LED lighting.\n\nFor example, the price per watt of solar panels "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.\n\nThe soft path goes electric\n\nModern technologies turn the chainsaw "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " on its head by making electrification the soft path to reducing energy use. Heat pumps supply several times as much heat as the electricity they consume. Induction stoves cook food far more efficiently than gas flames. And electric vehicles are a few times more "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " than gasoline ones.\n\nPowered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use. A "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " of resources blended with high-voltage transmission and storage can make clean electricity available around the clock."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "low-grade",
+        "vocabularyId": "v82",
+        "explanation": "原文此处使用 low-grade（low-grade）。结合上下文辨认词义与词形。",
+        "evidence": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
+        "paragraph": 9
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "affluent",
+        "vocabularyId": "v95",
+        "explanation": "原文此处使用 affluent（affluent）。结合上下文辨认词义与词形。",
+        "evidence": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
+        "paragraph": 9
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "forecasts",
+        "vocabularyId": "v103",
+        "explanation": "原文此处使用 forecasts（forecasts）。结合上下文辨认词义与词形。",
+        "evidence": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
+        "paragraph": 11
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "drilling",
+        "vocabularyId": "v107",
+        "explanation": "原文此处使用 drilling（drill）。结合上下文辨认词义与词形。",
+        "evidence": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
+        "paragraph": 11
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "sustainable",
+        "vocabularyId": "v115",
+        "explanation": "原文此处使用 sustainable（sustainable）。结合上下文辨认词义与词形。",
+        "evidence": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
+        "paragraph": 12
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "overstated",
+        "vocabularyId": "v121",
+        "explanation": "原文此处使用 overstated（overstate）。结合上下文辨认词义与词形。",
+        "evidence": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
+        "paragraph": 13
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "tumbled",
+        "vocabularyId": "v131",
+        "explanation": "原文此处使用 tumbled（tumble）。结合上下文辨认词义与词形。",
+        "evidence": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
+        "paragraph": 14
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "analogy",
+        "vocabularyId": "v138",
+        "explanation": "原文此处使用 analogy（analogy）。结合上下文辨认词义与词形。",
+        "evidence": "Modern technologies turn the chainsaw analogy on its head by making electrification the soft path to reducing energy use.",
+        "paragraph": 16
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "efficient",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 efficient（efficient）。结合上下文辨认词义与词形。",
+        "evidence": "And electric vehicles are a few times more efficient than gasoline ones.",
+        "paragraph": 16
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "diversity",
+        "vocabularyId": "v149",
+        "explanation": "原文此处使用 diversity（diversity）。结合上下文辨认词义与词形。",
+        "evidence": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Research documents an increase in foggy days in southern Australia and explores its causes.",
+          "Both artificial and natural wetlands can provide important habitat for young turtles.",
+          "Past El Niño erosion shows why California's vulnerable coastline remains at risk.",
+          "A long-standing vision of energy efficiency offers a useful perspective on modern electrification."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "Efficiency and renewable energy are indeed essential, but clean electricity and electrification are proving far more important than Lovins expected.",
+        "paragraph": 12
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which earlier event formed the backdrop to Lovins' 1976 article?",
+        "options": [
+          "The invention of the World Wide Web",
+          "The launch of the first smartphone",
+          "The 1973 oil crisis",
+          "The 2026 wildfire season"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "Published in October 1976 in the wake of the 1973 oil crisis, “Energy Strategy: The Road Not Taken?”",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 7?",
+        "options": [
+          "Hurricane Belle was barreling toward New England in August 1976 when an editor from Foreign Affairs called.",
+          "Published in October 1976 in the wake of the 1973 oil crisis, “Energy Strategy: The Road Not Taken?”",
+          "Thus, his soft path included only a narrowing lane for electricity, steering it toward essential purposes such as electronics, subways, lighting and smelting.",
+          "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible."
+        ],
+        "answer": 3,
+        "explanation": "定位第 7 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "The soft path would meet those wants with a diverse array of renewable energy resources, sourced locally where possible.",
+        "paragraph": 7
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.”",
+        "options": [
+          "Paragraph 6",
+          "Paragraph 13",
+          "Paragraph 19",
+          "Paragraph 12"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
+        "paragraph": 13
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.”",
+        "options": [
+          "Paragraph 17",
+          "Paragraph 9",
+          "Paragraph 7",
+          "Paragraph 5"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Powered by renewable electricity, from local resources like the solar panels on Lovins’ roof and mine, or from larger solar, wind and geothermal facilities, these technologies can slash fossil fuel use.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "revision": "528c57240e16b5b5b5df13bc4c9abcb74475831c3d46db7060ea897b1aa245ae"
+}

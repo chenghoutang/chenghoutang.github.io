@@ -1,0 +1,2092 @@
+{
+  "schemaVersion": 1,
+  "folder": "008",
+  "articleSha256": "ba38b428ce23b0c257f082f43955bdc3cdc978696e5c251d206aa9e697f7e7ed",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "millions",
+      "headword": "millions",
+      "kind": "word",
+      "zh": "n. 数百万",
+      "en": "n the number that is represented as a one followed by 6 zeros\nn a very large indefinite number (usually hyperbole)",
+      "phonetic": "",
+      "forms": [
+        "millions"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "active",
+      "headword": "active",
+      "kind": "word",
+      "zh": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的\nn. 主动语态, 积极分子",
+      "en": "n. a person who is a participating member of an organization\na. tending to become more severe or wider in scope\ns. engaged in or ready for military or naval operations\na. disposed to take action or effectuate change",
+      "phonetic": "'æktiv",
+      "forms": [
+        "active"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "volcanoes",
+      "headword": "volcanoes",
+      "kind": "word",
+      "zh": "n. 火山( volcano的名词复数 )",
+      "en": "pl.  of Volcano",
+      "phonetic": "vɔlˈkeinəuz",
+      "forms": [
+        "volcanoes"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "pacific",
+      "headword": "pacific",
+      "kind": "word",
+      "zh": "n. 太平洋\na. 太平洋的, 太平洋沿岸的, 爱好和平的, 安静的, 平息的",
+      "en": "n. the largest ocean in the world\na. relating to or bordering the Pacific Ocean\ns. disposed to peace or of a peaceful nature",
+      "phonetic": "pә'sifik",
+      "forms": [
+        "pacific"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "ring",
+      "headword": "ring",
+      "kind": "word",
+      "zh": "n. 环, 环形物, 拳击场, 戒指, 角逐, 小集团, 铃声, 钟声, 声调\nvt. 包围, 套住, 按铃, 敲钟\nvi. 成环形, 响, 鸣, 按铃, 敲钟, 回响",
+      "en": "n. a characteristic sound\nn. a toroidal shape\nn. the sound of a bell ringing\nn. a platform usually marked off by ropes in which contestants box or wrestle",
+      "phonetic": "riŋ",
+      "forms": [
+        "ring"
+      ],
+      "example": "Thousands of millions of people live near active volcanoes along the Pacific Ring of Fire.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "belt",
+      "headword": "belt",
+      "kind": "word",
+      "zh": "n. 带子, 地带\n[医] 带, 腰带, 束带, 地带, 区",
+      "en": "n. endless loop of flexible material between two rotating shafts or pulleys\nn. a band to tie or buckle around the body (usually at the waist)\nn. an elongated region where a specific condition or characteristic is found\nn. ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
+      "phonetic": "belt",
+      "forms": [
+        "belt"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "seismic",
+      "headword": "seismic",
+      "kind": "word",
+      "zh": "a. 地震的",
+      "en": "s. subject to or caused by an earthquake or earth vibration",
+      "phonetic": "'saizmik",
+      "forms": [
+        "seismic"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "volcanic",
+      "headword": "volcanic",
+      "kind": "word",
+      "zh": "a. 火山的, 猛烈的\nn. 火山岩",
+      "en": "a. relating to or produced by or consisting of volcanoes\ns. explosively unstable\ns. igneous rock produced by eruption and solidified on or near the earth's surface; rhyolite or andesite or basalt",
+      "phonetic": "vɒl'kænik",
+      "forms": [
+        "volcanic"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "arcs",
+      "headword": "arc",
+      "kind": "word",
+      "zh": "n. 弧, 弧形, 弓形, 弧光\n[化] 弧",
+      "en": "n. a continuous portion of a circle",
+      "phonetic": "ɑ:k",
+      "forms": [
+        "arcs"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "ocean",
+      "headword": "ocean",
+      "kind": "word",
+      "zh": "n. 海洋, 广阔, 许多, 一大片\n[法] 海洋, 海",
+      "en": "n. a large body of water constituting a principal part of the hydrosphere\nn. anything apparently limitless in quantity or volume",
+      "phonetic": "'әuʃәn",
+      "forms": [
+        "ocean"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "zealand",
+      "headword": "zealand",
+      "kind": "word",
+      "zh": "n. 西兰岛（丹麦最大的岛）",
+      "en": "n. the largest island of Denmark and the site of Copenhagen",
+      "phonetic": "'zi:lәnd",
+      "forms": [
+        "zealand"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "islands",
+      "headword": "island",
+      "kind": "word",
+      "zh": "n. 岛, 岛屿, 孤立地区, 安全岛\nvt. 使成岛状, 孤立",
+      "en": "n. a land mass (smaller than a continent) that is surrounded by water\nn. a zone or area resembling an island",
+      "phonetic": "'ailәnd",
+      "forms": [
+        "islands"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "coast",
+      "headword": "coast",
+      "kind": "word",
+      "zh": "n. 海岸, 滑坡\nv. 沿海岸而行",
+      "en": "n. a slope down which sleds may coast\nn. the area within view\nv. move effortlessly; by force of gravity",
+      "phonetic": "kәust",
+      "forms": [
+        "coast"
+      ],
+      "example": "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "precisely",
+      "headword": "precisely",
+      "kind": "word",
+      "zh": "adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错",
+      "en": "r. indicating exactness or preciseness\nr. in a precise manner\nr. just as it should be",
+      "phonetic": "pri'saisli",
+      "forms": [
+        "precisely"
+      ],
+      "example": "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "predict",
+      "headword": "predict",
+      "kind": "word",
+      "zh": "v. 预知, 预言, 预报",
+      "en": "v. make a prediction about; tell in advance",
+      "phonetic": "pri'dikt",
+      "forms": [
+        "predict"
+      ],
+      "example": "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "volcanic eruptions",
+      "headword": "volcanic eruptions",
+      "kind": "phrase",
+      "zh": "火山喷发",
+      "en": "releases of magma, gas and material from a volcano",
+      "forms": [
+        "volcanic eruptions"
+      ],
+      "example": "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v18",
+      "term": "eruptions",
+      "headword": "eruption",
+      "kind": "word",
+      "zh": "n. 爆发, 喷出物, 出疹\n[化] 喷发",
+      "en": "n. symptom consisting of a breaking out and becoming visible\nn. (of volcanos) pouring out fumes or lava (or a deposit so formed)\nn. the emergence of a tooth as it breaks through the gum",
+      "phonetic": "i'rʌpʃәn",
+      "forms": [
+        "eruptions",
+        "eruption"
+      ],
+      "example": "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "triggers",
+      "headword": "trigger",
+      "kind": "word",
+      "zh": "n. 触发器, 扳机\nvt. 触发, 发射, 引起\nvi. 松开扳柄\n[计] 切换开关",
+      "en": "n. a device that activates or releases or causes something to happen\nn. an act that sets in motion some course of events\nv. release or pull the trigger on",
+      "phonetic": "'trigә",
+      "forms": [
+        "triggers",
+        "trigger"
+      ],
+      "example": "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "monitor",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitor"
+      ],
+      "example": "We monitor active volcanoes and try to interpret warning signs such as earthquakes.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "interpret",
+      "headword": "interpret",
+      "kind": "word",
+      "zh": "vt. 解释, 演出, 翻译, 理解\nvi. 翻译, 解释",
+      "en": "v. make sense of; assign a meaning to\nv. give an interpretation or rendition of",
+      "phonetic": "in'tә:prit",
+      "forms": [
+        "interpret"
+      ],
+      "example": "We monitor active volcanoes and try to interpret warning signs such as earthquakes.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "warning",
+      "headword": "warn",
+      "kind": "word",
+      "zh": "vt. 警告, 提醒, 通知\nvi. 发出警告",
+      "en": "v. notify of danger, potential harm, or risk\nv. admonish or counsel in terms of someone's behavior\nv. ask to go away\nv. notify, usually in advance",
+      "phonetic": "wɒ:n",
+      "forms": [
+        "warning"
+      ],
+      "example": "We monitor active volcanoes and try to interpret warning signs such as earthquakes.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "We monitor active volcanoes and try to interpret warning signs such as earthquakes.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v24",
+      "term": "earthquakes",
+      "headword": "earthquake",
+      "kind": "word",
+      "zh": "n. 地震",
+      "en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity\nn. a disturbance that is extremely disruptive",
+      "phonetic": "'ә:θkweik",
+      "forms": [
+        "earthquakes"
+      ],
+      "example": "We monitor active volcanoes and try to interpret warning signs such as earthquakes.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "communications",
+      "headword": "communication",
+      "kind": "word",
+      "zh": "n. 交流, 交通, 通讯\n[计] 通信",
+      "en": "n. the activity of communicating; the activity of conveying information\nn. something that is communicated by or to or between people or groups\nn. a connection allowing access between persons or places",
+      "phonetic": "kә.mju:ni'keiʃәn",
+      "forms": [
+        "communications"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "abundant",
+      "headword": "abundant",
+      "kind": "word",
+      "zh": "a. 丰富的, 充分的, 大量的",
+      "en": "a. present in great quantity",
+      "phonetic": "ә'bʌndәnt",
+      "forms": [
+        "abundant"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "crystal",
+      "headword": "crystal",
+      "kind": "word",
+      "zh": "n. 水晶, 水晶装饰品, 结晶\na. 水晶的, 水晶一样的, 透明的",
+      "en": "n. a solid formed by the solidification of a chemical and having a highly regular atomic structure\nn. a crystalline element used as a component in various electronic devices\nn. a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces\nn. glassware made of quartz",
+      "phonetic": "'kristl",
+      "forms": [
+        "crystal",
+        "crystals"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "mineral",
+      "headword": "mineral",
+      "kind": "word",
+      "zh": "n. 矿物, 无机物, 苏打水\na. 矿物的, 似矿物的",
+      "en": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition\na. relating to minerals\ns. composed of matter other than plant or animal",
+      "phonetic": "'minәrәl",
+      "forms": [
+        "mineral",
+        "minerals"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "plagioclase",
+      "headword": "plagioclase",
+      "kind": "word",
+      "zh": "n. 斜长岩\n[化] 斜长石",
+      "en": "n. any of a series of triclinic feldspars that form rocks",
+      "phonetic": "'pleidʒiәkleis",
+      "forms": [
+        "plagioclase"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape",
+        "shapes"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "chemistry",
+      "headword": "chemistry",
+      "kind": "word",
+      "zh": "n. 化学, 化学过程\n[化] 化学",
+      "en": "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions\nn. the chemical composition and properties of a substance or object\nn. the way two individuals relate to each other",
+      "phonetic": "'kemistri",
+      "forms": [
+        "chemistry"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "shortly",
+      "headword": "shortly",
+      "kind": "word",
+      "zh": "adv. 不久, 简短, 唐突地",
+      "en": "r. for a short time\nr. at a short distance",
+      "phonetic": "'ʃɒ:tli",
+      "forms": [
+        "shortly"
+      ],
+      "example": "In our new research published in Nature Communications, we found that the most abundant crystal in Pacific Ring of Fire volcanoes, a mineral called plagioclase, takes a specific shape and chemistry shortly before eruption.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny",
+        "tiniest"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "reveal",
+      "headword": "reveal",
+      "kind": "word",
+      "zh": "vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示\nn. 窗侧, 门侧",
+      "en": "v. disclose directly or through prophets",
+      "phonetic": "ri'vi:l",
+      "forms": [
+        "reveal"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "chemical",
+      "headword": "chemical",
+      "kind": "word",
+      "zh": "n. 化学药品\na. 化学的, 化学上用的",
+      "en": "n. material produced by or used in a reaction involving changes in atoms or molecules\na. relating to or used in chemistry\na. of or made from or using substances produced by or used in reactions involving atomic or molecular changes",
+      "phonetic": "'kemikl",
+      "forms": [
+        "chemical"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "fingerprint",
+      "headword": "fingerprint",
+      "kind": "word",
+      "zh": "n. 指纹\nvt. 采指纹",
+      "en": "n. a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations\nn. a generic term for any identifying characteristic\nv. take an impression of a person's fingerprints",
+      "phonetic": "'fiŋgәprint",
+      "forms": [
+        "fingerprint"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "magma",
+      "headword": "magma",
+      "kind": "word",
+      "zh": "n. 岩浆, 糊剂, 乳浆剂\n[化] 晶浆",
+      "en": "n. molten rock in the earth's crust",
+      "phonetic": "'mægmә",
+      "forms": [
+        "magma",
+        "magmas"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "erupt",
+      "headword": "erupt",
+      "kind": "word",
+      "zh": "vi. 爆发\nvt. 喷出",
+      "en": "v. start abruptly\nv. erupt or intensify suddenly\nv. start to burn or burst into flames\nv. break out",
+      "phonetic": "i'rʌpt",
+      "forms": [
+        "erupt",
+        "erupts",
+        "erupted"
+      ],
+      "example": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "complex",
+      "headword": "complex",
+      "kind": "word",
+      "zh": "n. 综合体, 情结, 络合物\na. 复杂的, 组合的",
+      "en": "n. a conceptual whole made up of complicated and related parts\nn. a compound described in terms of the central atom to which other atoms are bound or coordinated\nn. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior\na. complicated in structure; consisting of interconnected parts",
+      "phonetic": "kәm'pleks",
+      "forms": [
+        "complex"
+      ],
+      "example": "Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "molten",
+      "headword": "molten",
+      "kind": "word",
+      "zh": "a. 熔化的, 炽热的, 铸造的\nmelt的过去分词",
+      "en": "s. reduced to liquid form by heating",
+      "phonetic": "'mәultәn",
+      "forms": [
+        "molten"
+      ],
+      "example": "Magma is molten rock stored beneath a volcano.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "beneath",
+      "headword": "beneath",
+      "kind": "word",
+      "zh": "prep. 在...下方\nadv. 在...下方",
+      "en": "r in or to a place that is lower",
+      "phonetic": "bi'ni:θ",
+      "forms": [
+        "beneath"
+      ],
+      "example": "Magma is molten rock stored beneath a volcano.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "volcano",
+      "headword": "volcano",
+      "kind": "word",
+      "zh": "n. 火山",
+      "en": "n. a mountain formed by volcanic material",
+      "phonetic": "vɒl'keinәu",
+      "forms": [
+        "volcano"
+      ],
+      "example": "Magma is molten rock stored beneath a volcano.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "liquid",
+      "headword": "liquid",
+      "kind": "word",
+      "zh": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+      "en": "n. a substance that is liquid at room temperature and pressure\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\nn. fluid matter having no fixed shape but a fixed volume\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+      "phonetic": "'likwid",
+      "forms": [
+        "liquid"
+      ],
+      "example": "It’s made of liquid, crystals (minerals) and gases, such as water vapour.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "vapour",
+      "headword": "vapour",
+      "kind": "word",
+      "zh": "n. 汽, 蒸气\nvi. 蒸发, 吹牛\nvt. 使蒸发, 使汽化",
+      "en": "n a visible suspension in the air of particles of some substance\nn the process of becoming a vapor",
+      "phonetic": "'veipә",
+      "forms": [
+        "vapour"
+      ],
+      "example": "It’s made of liquid, crystals (minerals) and gases, such as water vapour.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "volumes",
+      "headword": "volume",
+      "kind": "word",
+      "zh": "n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量\nvi. 成团卷起\nvt. 把...收集成卷\na. 大量的\n[计] 卷",
+      "en": "n. the amount of 3-dimensional space occupied by an object\nn. a publication that is one of a set of several similar publications\nn. a relative amount\nn. the magnitude of sound (usually in a specified direction)",
+      "phonetic": "'vɒljum",
+      "forms": [
+        "volumes"
+      ],
+      "example": "Large volumes of magma can remain stored quietly under volcanoes for days, months, even years.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "quietly",
+      "headword": "quietly",
+      "kind": "word",
+      "zh": "adv. 安静地, 沉着地, 秘密地",
+      "en": "r. with little or no sound\nr. with little or no activity or no agitation (`quiet' is a nonstandard variant for `quietly')",
+      "phonetic": "'kwaiәtli",
+      "forms": [
+        "quietly"
+      ],
+      "example": "Large volumes of magma can remain stored quietly under volcanoes for days, months, even years.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "underground",
+      "headword": "underground",
+      "kind": "word",
+      "zh": "n. 地下, 地铁, 地道, 秘密活动\na. 地下的, 秘密的\nadv. 在地下, 秘密地",
+      "en": "n. a secret group organized to overthrow a government or occupation force\nr. in or into hiding or secret operation\nr. beneath the surface of the earth",
+      "phonetic": "'ʌndәgraund",
+      "forms": [
+        "underground"
+      ],
+      "example": "If nothing upsets this magma, it may eventually cool down underground and never see the light of day.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "disturbs",
+      "headword": "disturb",
+      "kind": "word",
+      "zh": "vt. 扰乱, 妨碍, 使不安\n[法] 滋扰, 扰乱",
+      "en": "v. move deeply\nv. damage as if by shaking or jarring",
+      "phonetic": "dis'tә:b",
+      "forms": [
+        "disturbs"
+      ],
+      "example": "However, when a critical event disturbs its peace, the magma will travel to the surface, causing a volcanic eruption.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "lava",
+      "headword": "lava",
+      "kind": "word",
+      "zh": "n. 熔岩, 火山岩\n[医] 火山石(一种顺势疗法药)",
+      "en": "n. rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface",
+      "phonetic": "'lɑ:vә",
+      "forms": [
+        "lava"
+      ],
+      "example": "When it reaches the surface, it’s known as lava.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "luckily",
+      "headword": "luckily",
+      "kind": "word",
+      "zh": "adv. 幸运地, 幸亏, 侥幸",
+      "en": "r by good fortune",
+      "phonetic": "'lʌkili",
+      "forms": [
+        "luckily"
+      ],
+      "example": "Luckily, not all disruptions of magma are powerful enough to trigger volcanic eruptions.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "disruptions",
+      "headword": "disruption",
+      "kind": "word",
+      "zh": "n. 分裂, 崩溃, 瓦解",
+      "en": "n. the act of causing disorder",
+      "phonetic": "dis'rʌpʃәn",
+      "forms": [
+        "disruptions"
+      ],
+      "example": "Luckily, not all disruptions of magma are powerful enough to trigger volcanic eruptions.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "repeat",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeat"
+      ],
+      "example": "Knowing when this will happen is a challenge, but the good news is that volcanoes have a memory – they tend to repeat their eruptive behaviour.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "eruptive",
+      "headword": "eruptive",
+      "kind": "word",
+      "zh": "a. 暴发的, 喷发的\n[医] 疹的, 长出的, 萌出的",
+      "en": "a. producing or characterized by eruptions\ns. actively spewing out lava",
+      "phonetic": "i'rʌptiv",
+      "forms": [
+        "eruptive"
+      ],
+      "example": "Knowing when this will happen is a challenge, but the good news is that volcanoes have a memory – they tend to repeat their eruptive behaviour.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour"
+      ],
+      "example": "Knowing when this will happen is a challenge, but the good news is that volcanoes have a memory – they tend to repeat their eruptive behaviour.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "exploring",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "exploring",
+        "explore"
+      ],
+      "example": "This means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even forecast it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "clues",
+      "headword": "clue",
+      "kind": "word",
+      "zh": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+      "en": "n. evidence that helps to solve a problem\nv. roll into a ball",
+      "phonetic": "klu:",
+      "forms": [
+        "clues"
+      ],
+      "example": "This means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even forecast it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "forecast",
+      "headword": "forecast",
+      "kind": "word",
+      "zh": "n. 预想, 预测, 预报\nvt. 预想, 预测, 预报\n[计] 趋势预测",
+      "en": "v. predict in advance",
+      "phonetic": "'fɒ:kɑ:st",
+      "forms": [
+        "forecast"
+      ],
+      "example": "This means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even forecast it.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "depths",
+      "headword": "depth",
+      "kind": "word",
+      "zh": "n. 深度, 深处, 深奥\n[计] 深度",
+      "en": "n. the extent downward or backward or inward\nn. degree of psychological or intellectual profundity\nn. (usually plural) the deepest and most remote part\nn. (usually plural) a low moral state",
+      "phonetic": "depθ",
+      "forms": [
+        "depths"
+      ],
+      "example": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "vary",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "vary"
+      ],
+      "example": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface. These depths can vary by several kilometres. Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "kilometres",
+      "headword": "kilometre",
+      "kind": "word",
+      "zh": "n. 公里, 千米",
+      "en": "n a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+      "phonetic": "'kilәjmi:tә(r)",
+      "forms": [
+        "kilometres"
+      ],
+      "example": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface. These depths can vary by several kilometres. Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "interior",
+      "headword": "interior",
+      "kind": "word",
+      "zh": "n. 内部, 内政\na. 内部的, 心灵的, 内地的, 内政的",
+      "en": "a. situated within or suitable for inside a building\ns. inside and toward a center\ns. of or coming from the middle of a region or country",
+      "phonetic": "in'tiәriә",
+      "forms": [
+        "interior"
+      ],
+      "example": "Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "separate",
+      "headword": "separate",
+      "kind": "word",
+      "zh": "n. 独立件, 抽印本\na. 分开的, 各别的, 单独的, 分隔的\nvi. 分开, 隔开, 分居\nvt. 使分离, 使分开, 区分, 使分居",
+      "en": "n. a garment that can be purchased separately and worn in combinations with other garments\nv. act as a barrier between; stand between\nv. force, take, or pull apart\nv. divide into components or constituents",
+      "phonetic": "'sepәreit",
+      "forms": [
+        "separate"
+      ],
+      "example": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "signals",
+      "headword": "signal",
+      "kind": "word",
+      "zh": "n. 信号, 暗号, 近因, 导火线\nvt. 向...作信号, 标志, 用信号通知\nvi. 发信号\na. 作为信号的, 显著的\n[计] 信号",
+      "en": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary",
+      "phonetic": "'signl",
+      "forms": [
+        "signals"
+      ],
+      "example": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "superb",
+      "headword": "superb",
+      "kind": "word",
+      "zh": "a. 极度的, 华丽的, 极好的",
+      "en": "s. surpassingly good",
+      "phonetic": "sju'pә:b",
+      "forms": [
+        "superb"
+      ],
+      "example": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "storyteller",
+      "headword": "storyteller",
+      "kind": "word",
+      "zh": "n. 说故事的人, 故事作者",
+      "en": "n. someone who tells lies",
+      "phonetic": "'stɒ:ritelә",
+      "forms": [
+        "storyteller"
+      ],
+      "example": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "chameleon",
+      "headword": "chameleon",
+      "kind": "word",
+      "zh": "n. 美洲变色蜥蜴, 善变的人\n[医] 避役属(蜴蜥之一属)",
+      "en": "n. a changeable or inconstant person\nn. lizard of Africa and Madagascar able to change skin color and having a projectile tongue",
+      "phonetic": "kә'mi:liәn",
+      "forms": [
+        "chameleon"
+      ],
+      "example": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "appearance",
+      "headword": "appearance",
+      "kind": "word",
+      "zh": "n. 出现, 露面, 外观, 外表, 出版\n[计] 外观, 版面",
+      "en": "n. outward or visible aspect of a person or thing\nn. the event of coming into sight\nn. formal attendance (in court or at a hearing) of a party in an action\nn. a mental representation",
+      "phonetic": "ә'piәrәns",
+      "forms": [
+        "appearance"
+      ],
+      "example": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "chemical composition",
+      "headword": "chemical composition",
+      "kind": "phrase",
+      "zh": "化学组成",
+      "en": "the substances and proportions making up a material",
+      "forms": [
+        "chemical composition"
+      ],
+      "example": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+      "paragraph": 14,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v69",
+      "term": "composition",
+      "headword": "composition",
+      "kind": "word",
+      "zh": "n. 作文, 创作, 组成\n[化] 成分; 组成",
+      "en": "n. the spatial property resulting from the arrangement of parts in relation to each other and to the whole\nn. a mixture of ingredients\nn. an essay (especially one written as an assignment)\nn. something that is created by arranging several things to form a unified whole",
+      "phonetic": "kɒmpә'ziʃәn",
+      "forms": [
+        "composition"
+      ],
+      "example": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "shift",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shift"
+      ],
+      "example": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "largely",
+      "headword": "largely",
+      "kind": "word",
+      "zh": "adv. 大量地, 很多地, 大半地",
+      "en": "r. in large part; mainly or chiefly\nr. on a large scale",
+      "phonetic": "'lɑ:dʒli",
+      "forms": [
+        "largely"
+      ],
+      "example": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "defined",
+      "headword": "define",
+      "kind": "word",
+      "zh": "vt. 定义, 规定, 使明确\n[计] 定义",
+      "en": "v. give a definition for the meaning of a word\nv. determine the nature of\nv. show the form or outline of",
+      "phonetic": "di'fain",
+      "forms": [
+        "defined"
+      ],
+      "example": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "elements",
+      "headword": "element",
+      "kind": "word",
+      "zh": "n. 元件, 元素, 要素\n[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元",
+      "en": "n. the most favorable environment for a plant or animal\nn. one of four substances thought in ancient and medieval cosmology to constitute the physical universe\nn. the situation in which you are happiest and most effective\nn. a straight line that generates a cylinder or cone",
+      "phonetic": "'elimәnt",
+      "forms": [
+        "elements"
+      ],
+      "example": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "calcium",
+      "headword": "calcium",
+      "kind": "word",
+      "zh": "n. 钙\n[化] 钙Ca",
+      "en": "n. a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals",
+      "phonetic": "'kælsiәm",
+      "forms": [
+        "calcium"
+      ],
+      "example": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sodium",
+      "headword": "sodium",
+      "kind": "word",
+      "zh": "n. 钠\n[化] 钠Na",
+      "en": "n. a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)",
+      "phonetic": "'sәudiәm",
+      "forms": [
+        "sodium"
+      ],
+      "example": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "temperature",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperature",
+        "temperatures"
+      ],
+      "example": "If the temperature or water content of the magma increases, plagioclase will increase its calcium content in response.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content",
+        "contents"
+      ],
+      "example": "If the temperature or water content of the magma increases, plagioclase will increase its calcium content in response.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "considerable",
+      "headword": "considerable",
+      "kind": "word",
+      "zh": "a. 相当的, 可观的, 重要的",
+      "en": "a. large or relatively large in number or amount or extent or degree",
+      "phonetic": "kәn'sidәrәbl",
+      "forms": [
+        "considerable"
+      ],
+      "example": "If the temperature change is considerable, it might also dissolve part of the plagioclase before regrowing around it with a different composition.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "dissolve",
+      "headword": "dissolve",
+      "kind": "word",
+      "zh": "v. 溶解, 解散",
+      "en": "n. (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out\nv. become weaker\nv. cause to go into a solution\nv. come to an end",
+      "phonetic": "di'zɒlv",
+      "forms": [
+        "dissolve"
+      ],
+      "example": "If the temperature change is considerable, it might also dissolve part of the plagioclase before regrowing around it with a different composition.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "regrowing",
+      "headword": "regrow",
+      "kind": "word",
+      "zh": "vt. 再生；重新长出",
+      "en": "v. grow anew or continue growth after an injury or interruption",
+      "phonetic": "ri:'ɡrәu",
+      "forms": [
+        "regrowing"
+      ],
+      "example": "If the temperature change is considerable, it might also dissolve part of the plagioclase before regrowing around it with a different composition.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "geologists",
+      "headword": "geologist",
+      "kind": "word",
+      "zh": "n. 地质学家, 地质学者",
+      "en": "n. a specialist in geology",
+      "phonetic": "dʒi'ɔlәdʒist",
+      "forms": [
+        "geologists"
+      ],
+      "example": "This produces what geologists call “crystal zoning”, which makes plagioclase look different under the microscope.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "zoning",
+      "headword": "zone",
+      "kind": "word",
+      "zh": "n. 地带, 带, 地区\nvt. 环绕, 使分成地带\nvi. 分成区\n[计] 卡片顶部的三行区; 区; 区域",
+      "en": "n. a locally circumscribed place characterized by some distinctive features\nn. any of the regions of the surface of the Earth loosely divided according to latitude or longitude\nn. an area or region distinguished from adjacent parts by a distinctive feature or characteristic\nn. (anatomy) any encircling or beltlike structure",
+      "phonetic": "zәun",
+      "forms": [
+        "zoning"
+      ],
+      "example": "This produces what geologists call “crystal zoning”, which makes plagioclase look different under the microscope.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "microscope",
+      "headword": "microscope",
+      "kind": "word",
+      "zh": "n. 显微镜\n[化] 显微镜",
+      "en": "n. magnifier of the image of small objects",
+      "phonetic": "'maikrәuskәup",
+      "forms": [
+        "microscope"
+      ],
+      "example": "This produces what geologists call “crystal zoning”, which makes plagioclase look different under the microscope.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "In contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "In contrast"
+      ],
+      "example": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v85",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "immensely",
+      "headword": "immensely",
+      "kind": "word",
+      "zh": "adv. 无限地, 广大地, 庞大地",
+      "en": "r to an exceedingly great extent or degree",
+      "phonetic": "i'mensli",
+      "forms": [
+        "immensely"
+      ],
+      "example": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "diverse",
+      "headword": "diverse",
+      "kind": "word",
+      "zh": "a. 不同的, 变化多的",
+      "en": "s. distinctly dissimilar or unlike",
+      "phonetic": "dai'vә:s",
+      "forms": [
+        "diverse"
+      ],
+      "example": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "isolating",
+      "headword": "isolate",
+      "kind": "word",
+      "zh": "vt. 使隔离, 使孤立, 使绝缘\nn. 隔离种群",
+      "en": "v. place or set apart\nv. obtain in pure form\nv. separate (experiences) from the emotions relating to them",
+      "phonetic": "'aisәleit",
+      "forms": [
+        "isolating"
+      ],
+      "example": "Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "textural",
+      "headword": "textural",
+      "kind": "word",
+      "zh": "a. 组织上的, 构造上的\n[医] 结构的, 构造的; 组织的",
+      "en": "a. Of or pertaining to texture.",
+      "phonetic": "'tekstʃuәrәl",
+      "forms": [
+        "textural"
+      ],
+      "example": "Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "signatures",
+      "headword": "signature",
+      "kind": "word",
+      "zh": "n. 签字, 识别标志, 调号\n[计] 签名附件",
+      "en": "n. your name written in your own handwriting\nn. a melody used to identify a performer or a dance band or radio/tv program\nn. a sheet with several pages printed on it; it folds to page size and is bound with other signatures to form a book",
+      "phonetic": "'signәtʃә",
+      "forms": [
+        "signatures",
+        "signature"
+      ],
+      "example": "Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "unveil",
+      "headword": "unveil",
+      "kind": "word",
+      "zh": "vt. 揭开, 揭幕, 除去...的面纱\nvi. 显露, 除去面纱",
+      "en": "v. remove the veil from\nv. remove the cover from",
+      "phonetic": ".ʌn'veil",
+      "forms": [
+        "unveil"
+      ],
+      "example": "Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "investigated",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigated",
+        "investigating"
+      ],
+      "example": "In our work, we investigated plagioclase crystals across different Pacific Ring of Fire volcanoes, discovering that the final changes recorded before eruption are remarkably similar worldwide.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "remarkably",
+      "headword": "remarkably",
+      "kind": "word",
+      "zh": "adv. 显著地, 引人注目地, 非常地",
+      "en": "r to a remarkable degree or extent\nr in a signal manner",
+      "phonetic": "ri'mɑ:kәbli",
+      "forms": [
+        "remarkably"
+      ],
+      "example": "In our work, we investigated plagioclase crystals across different Pacific Ring of Fire volcanoes, discovering that the final changes recorded before eruption are remarkably similar worldwide.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "worldwide",
+      "headword": "worldwide",
+      "kind": "word",
+      "zh": "a. 全世界的",
+      "en": "s. spanning or extending throughout the entire world",
+      "phonetic": "'wә:ldwaid",
+      "forms": [
+        "worldwide"
+      ],
+      "example": "In our work, we investigated plagioclase crystals across different Pacific Ring of Fire volcanoes, discovering that the final changes recorded before eruption are remarkably similar worldwide.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "collected",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collected"
+      ],
+      "example": "We collected volcanic rocks across the Andean Mountains in South America to explore one of the most active regions of the Pacific Ring of Fire.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "andean",
+      "headword": "andean",
+      "kind": "word",
+      "zh": "a. 安第斯山脉的",
+      "en": "a. relating to the Andes and their inhabitants",
+      "phonetic": "'ændiәn, æn'di:әn",
+      "forms": [
+        "andean"
+      ],
+      "example": "We collected volcanic rocks across the Andean Mountains in South America to explore one of the most active regions of the Pacific Ring of Fire.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "mountains",
+      "headword": "mountain",
+      "kind": "word",
+      "zh": "n. 山, 山脉, 大堆",
+      "en": "n. a land mass that projects well above its surroundings; higher than a hill",
+      "phonetic": "'mauntin",
+      "forms": [
+        "mountains"
+      ],
+      "example": "We collected volcanic rocks across the Andean Mountains in South America to explore one of the most active regions of the Pacific Ring of Fire.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "microscopy",
+      "headword": "microscopy",
+      "kind": "word",
+      "zh": "n. 显微镜使用, 用显微镜检查, 显微镜学\n[医] 显微镜检查",
+      "en": "n. research with the use of microscopes",
+      "phonetic": "mai'krɒskәpi",
+      "forms": [
+        "microscopy"
+      ],
+      "example": "We used microscopy to describe the different plagioclase crystals in these volcanoes.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "lasers",
+      "headword": "laser",
+      "kind": "word",
+      "zh": "n. 激光\n[计] 激光器",
+      "en": "n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light",
+      "phonetic": "'leizә",
+      "forms": [
+        "lasers"
+      ],
+      "example": "Then, we used a range of technologies including lasers to find out the chemistry of each plagioclase type.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "maps",
+      "headword": "map",
+      "kind": "word",
+      "zh": "n. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议",
+      "en": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences",
+      "phonetic": "mæp",
+      "forms": [
+        "maps"
+      ],
+      "example": "This allowed us to produce maps of the key elements the plagioclase crystals are made of.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "calculated",
+      "headword": "calculate",
+      "kind": "word",
+      "zh": "v. 计算, 预测, 计划, 打算",
+      "en": "v. make a mathematical calculation or computation\nv. judge to be probable\nv. specifically design a product, event, or activity for a certain public",
+      "phonetic": "'kælkjuleit",
+      "forms": [
+        "calculated"
+      ],
+      "example": "When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "unique",
+      "headword": "unique",
+      "kind": "word",
+      "zh": "a. 独一无二的, 独特的, 稀罕的",
+      "en": "s. (followed by `to') applying exclusively to a given category or condition or locality\ns. highly unusual or rare but not the single instance",
+      "phonetic": "ju:'ni:k",
+      "forms": [
+        "unique"
+      ],
+      "example": "When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "replenishing",
+      "headword": "replenish",
+      "kind": "word",
+      "zh": "vt. 把...重新补足, 把...再装满\nvi. 被再装满, 充满",
+      "en": "v. fill something that had previously been emptied",
+      "phonetic": "ri'pleniʃ",
+      "forms": [
+        "replenishing"
+      ],
+      "example": "When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "reservoirs",
+      "headword": "reservoir",
+      "kind": "word",
+      "zh": "n. 贮水池, 贮藏处, 贮备, 水库\nvt. 储藏",
+      "en": "n. a large or extra supply of something\nn. lake used to store water for community use\nn. tank used for collecting and storing a liquid (as water or oil)\nn. anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies",
+      "phonetic": "'rezәvwɑ:",
+      "forms": [
+        "reservoirs"
+      ],
+      "example": "When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "accumulating",
+      "headword": "accumulate",
+      "kind": "word",
+      "zh": "v. 积聚, 堆积",
+      "en": "v. collect or gather",
+      "phonetic": "ә'kju:mjuleit",
+      "forms": [
+        "accumulating",
+        "accumulate"
+      ],
+      "example": "In contrast, we found that plagioclase crystals forming earlier than “microcrysts” with lower calcium contents reflect magma that can’t erupt – meaning it’s accumulating and cooling inside the Earth’s crust.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "crust",
+      "headword": "crust",
+      "kind": "word",
+      "zh": "n. 外壳, 坚硬外皮, 面包皮\nvt. 盖以硬皮\nvi. 结硬皮",
+      "en": "n. the outer layer of the Earth\nn. a hard outer layer that covers something\nn. the trait of being rude and impertinent; inclined to take liberties\nv. form a crust or form into a crust",
+      "phonetic": "krʌst",
+      "forms": [
+        "crust"
+      ],
+      "example": "In contrast, we found that plagioclase crystals forming earlier than “microcrysts” with lower calcium contents reflect magma that can’t erupt – meaning it’s accumulating and cooling inside the Earth’s crust.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "cradle",
+      "headword": "cradle",
+      "kind": "word",
+      "zh": "n. 摇篮, 发祥地, 孩提时代\nvt. 放在摇篮内, 抚育\nvi. 刈割",
+      "en": "n. a baby bed with sides and rockers\nn. birth of a person\nv. hold gently and carefully\nv. bring up from infancy",
+      "phonetic": "'kreidl",
+      "forms": [
+        "cradle"
+      ],
+      "example": "This non-eruptible magma is important because it can be a cradle for the accumulation of critical metals, such as copper.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "accumulation",
+      "headword": "accumulation",
+      "kind": "word",
+      "zh": "n. 积聚, 累积, 积聚物\n[医] 蓄积, 累积",
+      "en": "n. the act of accumulating\nn. (finance) profits that are not paid out as dividends but are added to the capital base of the corporation",
+      "phonetic": "ә.kju:mju'leiʃәn",
+      "forms": [
+        "accumulation"
+      ],
+      "example": "This non-eruptible magma is important because it can be a cradle for the accumulation of critical metals, such as copper.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "metals",
+      "headword": "metal",
+      "kind": "word",
+      "zh": "n. 金属, 金属制品, 合金, 本质, 质料\na. 金属制的\nvt. 以金属覆盖",
+      "en": "v. cover with metal",
+      "phonetic": "'metәl",
+      "forms": [
+        "metals"
+      ],
+      "example": "This non-eruptible magma is important because it can be a cradle for the accumulation of critical metals, such as copper.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "copper",
+      "headword": "copper",
+      "kind": "word",
+      "zh": "n. 铜, 警察\n[化] 铜Cu",
+      "en": "n. a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is the only metal that occurs abundantly in large masses; used as an electrical and thermal conductor\nn. a copper penny\nn. a reddish-brown color resembling the color of polished copper\nn. any of various small butterflies of the family Lycaenidae having coppery wings",
+      "phonetic": "'kɒpә",
+      "forms": [
+        "copper"
+      ],
+      "example": "This non-eruptible magma is important because it can be a cradle for the accumulation of critical metals, such as copper.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "exceptional",
+      "headword": "exceptional",
+      "kind": "word",
+      "zh": "a. 例外的, 异常的, 特别的",
+      "en": "s. deviating widely from a norm of physical or mental ability; used especially of children below normal in intelligence",
+      "phonetic": "ik'sepʃәnәl",
+      "forms": [
+        "exceptional"
+      ],
+      "example": "Also, it can only erupt in exceptional super-eruptions, such as the Yellowstone super volcano in the US.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "super",
+      "headword": "super",
+      "kind": "word",
+      "zh": "n. 跑龙套角色, 冗员, 特级品, 特大号, 管理人\na. 上等的, 特大的, 超级的, 极好的, 十分的, 过分的\nadv. 非常",
+      "en": "s. including more than a specified category\ns. extremely large",
+      "phonetic": "'sju:pә",
+      "forms": [
+        "super"
+      ],
+      "example": "Also, it can only erupt in exceptional super-eruptions, such as the Yellowstone super volcano in the US.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "yellowstone",
+      "headword": "Yellowstone",
+      "kind": "word",
+      "zh": "n. 黄石河",
+      "en": "n. a tributary of the Missouri River that flows through the Yellowstone National Park",
+      "phonetic": "'jelәjstәjn",
+      "forms": [
+        "yellowstone"
+      ],
+      "example": "Also, it can only erupt in exceptional super-eruptions, such as the Yellowstone super volcano in the US.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "gold",
+      "headword": "gold",
+      "kind": "word",
+      "zh": "n. 黄金, 钱财, 金块, 金色, 宝贵\na. 金的, 似金的, 金色的, 金制的",
+      "en": "n. coins made of gold\nn. a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia\nn. great wealth\nn. something likened to the metal in brightness or preciousness or superiority etc.",
+      "phonetic": "gәuld",
+      "forms": [
+        "gold"
+      ],
+      "example": "Now, we are investigating if we can use plagioclase to identify specific magmas that can accumulate metals such as copper and gold, critical to renewable energy.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "renewable",
+      "headword": "renewable",
+      "kind": "word",
+      "zh": "a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的\n[计] 可更新, 可再生的",
+      "en": "a. that can be renewed or extended\ns. capable of being renewed; replaceable",
+      "phonetic": "ri'nju(:)әbl",
+      "forms": [
+        "renewable"
+      ],
+      "example": "Now, we are investigating if we can use plagioclase to identify specific magmas that can accumulate metals such as copper and gold, critical to renewable energy.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "renewable energy",
+      "headword": "renewable energy",
+      "kind": "phrase",
+      "zh": "可再生能源",
+      "en": "energy from sources naturally replenished over time",
+      "forms": [
+        "renewable energy"
+      ],
+      "example": "Now, we are investigating if we can use plagioclase to identify specific magmas that can accumulate metals such as copper and gold, critical to renewable energy.",
+      "paragraph": 26,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v117",
+      "term": "versatile",
+      "headword": "versatile",
+      "kind": "word",
+      "zh": "a. 多才多艺的, 万用的, 万向的",
+      "en": "s. having great diversity or variety\ns. changeable or inconstant\ns. competent in many areas and able to turn with ease from one thing to another\ns. able to move freely in all directions",
+      "phonetic": "'vә:sәtail",
+      "forms": [
+        "versatile"
+      ],
+      "example": "Our findings suggest that tiny versatile plagioclase crystals could become a powerful new tool to identify the potential for volcanic eruptions.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "tool",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tool"
+      ],
+      "example": "Our findings suggest that tiny versatile plagioclase crystals could become a powerful new tool to identify the potential for volcanic eruptions.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "potential",
+      "headword": "potential",
+      "kind": "word",
+      "zh": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的",
+      "en": "n. the inherent capacity for coming into being\na. existing in possibility",
+      "phonetic": "pә'tenʃәl",
+      "forms": [
+        "potential"
+      ],
+      "example": "Our findings suggest that tiny versatile plagioclase crystals could become a powerful new tool to identify the potential for volcanic eruptions.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "Potentially, this could help us identify seemingly “quiet” volcanoes that might need a closer look.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v121",
+      "term": "seemingly",
+      "headword": "seemingly",
+      "kind": "word",
+      "zh": "adv. 看来似乎, 表面上看来",
+      "en": "r from appearances alone",
+      "phonetic": "'si:miŋli",
+      "forms": [
+        "seemingly"
+      ],
+      "example": "Potentially, this could help us identify seemingly “quiet” volcanoes that might need a closer look.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      6,
+      17
+    ],
+    "wordBank": [
+      "disturbs",
+      "volumes",
+      "forecast",
+      "eruptions",
+      "separate",
+      "immensely",
+      "elements",
+      "appearance",
+      "kilometres",
+      "regrowing"
+    ],
+    "parts": [
+      {
+        "text": "Magma is molten rock stored beneath a volcano. It’s made of liquid, crystals (minerals) and gases, such as water vapour. Large "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " of magma can remain stored quietly under volcanoes for days, months, even years. If nothing upsets this magma, it may eventually cool down underground and never see the light of day.\n\nHowever, when a critical event "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " its peace, the magma will travel to the surface, causing a volcanic eruption. When it reaches the surface, it’s known as lava.\n\nLuckily, not all disruptions of magma are powerful enough to trigger volcanic "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ". Knowing when this will happen is a challenge, but the good news is that volcanoes have a memory – they tend to repeat their eruptive behaviour.\n\nThis means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " it.\n\nBut how can we explore the past of volcanoes?\n\nWhen a volcano erupts, the magma carries different types of crystals from different depths beneath the surface. These depths can vary by several "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": ". Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.\n\nThe challenge is to read these deep stories, and get to know what caused the eruption. In our research, we use a new approach to "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " these different signals, using a superb magmatic crystal storyteller: plagioclase.\n\nA chameleon crystal\n\nPlagioclase is one of the most abundant minerals in volcanoes along the Pacific Ring of Fire. Like a chameleon, it changes its "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " and chemical composition as magma conditions shift. This means it can record the history of the volcano before it erupts, from deep within Earth to the surface.\n\nPlagioclase chemistry is largely defined by the chemical "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " calcium and sodium. If the temperature or water content of the magma increases, plagioclase will increase its calcium content in response.\n\nIf the temperature change is considerable, it might also dissolve part of the plagioclase before "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " around it with a different composition. This produces what geologists call “crystal zoning”, which makes plagioclase look different under the microscope.\n\nIn contrast with other crystals we find in magma, plagioclase shapes can be "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " diverse. Isolating the chemical and textural signatures of this crystal can unveil the complex history of a volcano."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "volumes",
+        "vocabularyId": "v45",
+        "explanation": "原文此处使用 volumes（volume）。结合上下文辨认词义与词形。",
+        "evidence": "Large volumes of magma can remain stored quietly under volcanoes for days, months, even years.",
+        "paragraph": 6
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "disturbs",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 disturbs（disturb）。结合上下文辨认词义与词形。",
+        "evidence": "However, when a critical event disturbs its peace, the magma will travel to the surface, causing a volcanic eruption.",
+        "paragraph": 7
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "eruptions",
+        "vocabularyId": "v18",
+        "explanation": "原文此处使用 eruptions（eruption）。结合上下文辨认词义与词形。",
+        "evidence": "Luckily, not all disruptions of magma are powerful enough to trigger volcanic eruptions.",
+        "paragraph": 8
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "forecast",
+        "vocabularyId": "v57",
+        "explanation": "原文此处使用 forecast（forecast）。结合上下文辨认词义与词形。",
+        "evidence": "This means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even forecast it.",
+        "paragraph": 9
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "kilometres",
+        "vocabularyId": "v60",
+        "explanation": "原文此处使用 kilometres（kilometre）。结合上下文辨认词义与词形。",
+        "evidence": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface. These depths can vary by several kilometres. Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.",
+        "paragraph": 11
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "separate",
+        "vocabularyId": "v62",
+        "explanation": "原文此处使用 separate（separate）。结合上下文辨认词义与词形。",
+        "evidence": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
+        "paragraph": 12
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "appearance",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 appearance（appearance）。结合上下文辨认词义与词形。",
+        "evidence": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
+        "paragraph": 14
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "elements",
+        "vocabularyId": "v73",
+        "explanation": "原文此处使用 elements（element）。结合上下文辨认词义与词形。",
+        "evidence": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
+        "paragraph": 15
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "regrowing",
+        "vocabularyId": "v80",
+        "explanation": "原文此处使用 regrowing（regrow）。结合上下文辨认词义与词形。",
+        "evidence": "If the temperature change is considerable, it might also dissolve part of the plagioclase before regrowing around it with a different composition.",
+        "paragraph": 16
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "immensely",
+        "vocabularyId": "v86",
+        "explanation": "原文此处使用 immensely（immensely）。结合上下文辨认词义与词形。",
+        "evidence": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
+        "paragraph": 17
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "New Zealand's distinctive natural history makes a case for a museum devoted to evolution and geology.",
+          "An ancient Arabian lakeshore provides evidence of human life in a landscape once much greener than today.",
+          "Crystals inside volcanoes can preserve signals that help researchers understand approaching eruptions.",
+          "Individual skin conditions change how perfume molecules evaporate and how a fragrance smells."
+        ],
+        "answer": 2,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+        "paragraph": 4
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What information might crystals inside volcanoes provide?",
+        "options": [
+          "Chemical clues about whether magma is ready to erupt",
+          "Proof that all volcanoes have stopped changing",
+          "A direct count of people living near a volcano",
+          "An exact timetable for every future earthquake"
+        ],
+        "answer": 0,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "These tiny crystals that grow inside volcanoes reveal a common chemical fingerprint that could help identify when magma is ready to erupt.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "This belt of seismic and volcanic activity arcs around the Pacific Ocean from Aotearoa New Zealand and the Pacific Islands through to Japan, and the Pacific coast of North and South America.",
+          "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface.",
+          "We can’t precisely predict volcanic eruptions, but we can try to understand what triggers them.",
+          "This produces what geologists call “crystal zoning”, which makes plagioclase look different under the microscope."
+        ],
+        "answer": 1,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“In our work, we investigated plagioclase crystals across different Pacific Ring of Fire volcanoes, discovering that the final changes recorded before eruption are remarkably similar worldwide.”",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 20",
+          "Paragraph 18",
+          "Paragraph 2"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 18 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "In our work, we investigated plagioclase crystals across different Pacific Ring of Fire volcanoes, discovering that the final changes recorded before eruption are remarkably similar worldwide.",
+        "paragraph": 18
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.”",
+        "options": [
+          "Paragraph 14",
+          "Paragraph 23",
+          "Paragraph 11",
+          "Paragraph 16"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 23 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "When we calculated the temperatures under which these plagioclase crystals grew, we found this unique signature means hotter magma was replenishing colder magma reservoirs.",
+        "paragraph": 23
+      }
+    ]
+  },
+  "revision": "de07cd6c902c9f8165532d70e6660311c3dc3115408ba77ef9a5f104b7934560"
+}

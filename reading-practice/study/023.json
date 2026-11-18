@@ -1,0 +1,1961 @@
+{
+  "schemaVersion": 1,
+  "folder": "023",
+  "articleSha256": "b52d09bd62ff63483933469ad3fb40a9e80c68823b09871aad74e55ac73a0454",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "nitrates",
+      "headword": "nitrate",
+      "kind": "word",
+      "zh": "n. 硝酸盐\n[化] 硝酸盐(或酯)",
+      "en": "n. any compound containing the nitrate group (such as a salt or ester of nitric acid)\nv. treat with nitric acid, so as to change an organic compound into a nitrate",
+      "phonetic": "'naitreit",
+      "forms": [
+        "nitrates",
+        "nitrate"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "runoff",
+      "headword": "runoff",
+      "kind": "word",
+      "zh": "n. 径流(量), 决赛, 决定性竞选",
+      "en": "n. a final election to resolve an earlier election that did not produce a winner",
+      "phonetic": "'rʌnɒf",
+      "forms": [
+        "runoff"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "farm",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farm",
+        "farming"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "sewage",
+      "headword": "sewage",
+      "kind": "word",
+      "zh": "n. 脏水, 污水\n[医] 污水, 污物",
+      "en": "n. waste matter carried away in sewers or drains",
+      "phonetic": "'sju:idʒ",
+      "forms": [
+        "sewage"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "fuel",
+      "headword": "fuel",
+      "kind": "word",
+      "zh": "n. 燃料, 木炭\nvt. 加燃料, 供燃料\nvi. 得到燃料",
+      "en": "n. a substance that can be consumed to produce energy\nv. provide with a combustible substance that provides energy\nv. provide with fuel\nv. take in fuel, as of a ship",
+      "phonetic": "'fjuәl",
+      "forms": [
+        "fuel"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "harmful",
+      "headword": "harmful",
+      "kind": "word",
+      "zh": "a. 有害的, 伤害的",
+      "en": "a. causing or capable of causing harm",
+      "phonetic": "'hɑ:mful",
+      "forms": [
+        "harmful"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "algae",
+      "headword": "alga",
+      "kind": "word",
+      "zh": "n. 藻类, 海藻\n[机] 藻",
+      "en": "n. primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves",
+      "phonetic": "'ælgә",
+      "forms": [
+        "algae"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "blooms",
+      "headword": "bloom",
+      "kind": "word",
+      "zh": "n. 花, 开花, 青春, 钢块\nvi. 开花, 焕发青春, 茂盛\nvt. 使茂盛, 把...轧成钢坯",
+      "en": "n. the best time of youth\nn. a rosy color (especially in the cheeks) taken as a sign of good health\nv. produce or yield flowers",
+      "phonetic": "blu:m",
+      "forms": [
+        "blooms"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "illness",
+      "headword": "illness",
+      "kind": "word",
+      "zh": "n. 疾病, 恶意\n[医] 病",
+      "en": "n. impairment of normal physiological function affecting part or all of an organism",
+      "phonetic": "'ilnis",
+      "forms": [
+        "illness",
+        "illnesses"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "infants",
+      "headword": "infant",
+      "kind": "word",
+      "zh": "n. 婴儿, 儿童, 初学者\na. 婴儿的, 幼稚的",
+      "en": "n a very young child (birth to 1 year) who has not yet begun to walk or talk",
+      "phonetic": "'infәnt",
+      "forms": [
+        "infants"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "syndrome",
+      "headword": "syndrome",
+      "kind": "word",
+      "zh": "n. 并发症状, 综合征, 同时存在的事物\n[计] 校验子; 并发位",
+      "en": "n. a complex of concurrent things\nn. a pattern of symptoms indicative of some disease",
+      "phonetic": "'sindrәum",
+      "forms": [
+        "syndrome"
+      ],
+      "example": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "river",
+      "headword": "river",
+      "kind": "word",
+      "zh": "n. 河, 江\n[法] 河流, 江河, 内河",
+      "en": "n. a large natural stream of water (larger than a creek)",
+      "phonetic": "'rivә",
+      "forms": [
+        "river"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "sparsely",
+      "headword": "sparsely",
+      "kind": "word",
+      "zh": "adv. 稀疏地; 稀少地; 不足地; 贫乏地",
+      "en": "r. in a sparse manner",
+      "phonetic": "spɑ:slɪ",
+      "forms": [
+        "sparsely"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "populated",
+      "headword": "populate",
+      "kind": "word",
+      "zh": "vt. 使人口聚居在...中, 殖民于, 移民于, 居住于, 定居于",
+      "en": "v. inhabit or live in; be an inhabitant of\nv. fill with inhabitants",
+      "phonetic": "'pɔpjuleit",
+      "forms": [
+        "populated"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "landscape",
+      "headword": "landscape",
+      "kind": "word",
+      "zh": "n. 风景, 山水, 风景画\nvi. 从事景观美化\nvt. 美化...景观\n[计] 横向",
+      "en": "n. an expanse of scenery that can be seen in a single view\nn. painting depicting an expanse of natural scenery\nn. a genre of art dealing with the depiction of natural scenery\nn. an extensive mental viewpoint",
+      "phonetic": "'lændskeip",
+      "forms": [
+        "landscape"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "nitrogen",
+      "headword": "nitrogen",
+      "kind": "word",
+      "zh": "n. 氮\n[化] 氮N-2",
+      "en": "n. a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues",
+      "phonetic": "'naitrәdʒәn",
+      "forms": [
+        "nitrogen"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "harm",
+      "headword": "harm",
+      "kind": "word",
+      "zh": "n. 伤害, 害处\nvt. 伤害, 损害",
+      "en": "v. cause or do harm to",
+      "phonetic": "hɑ:m",
+      "forms": [
+        "harm"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "aquatic",
+      "headword": "aquatic",
+      "kind": "word",
+      "zh": "n. 水生动物, 水生植物\na. 水生的, 水中的, 水上的",
+      "en": "n. a plant that lives in or on water\na. relating to or consisting of or being in water\na. operating or living or growing in water",
+      "phonetic": "ә'kwætik",
+      "forms": [
+        "aquatic"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "drinking water",
+      "headword": "drinking water",
+      "kind": "phrase",
+      "zh": "饮用水",
+      "en": "water intended to be consumed by people",
+      "forms": [
+        "drinking water"
+      ],
+      "example": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v22",
+      "term": "colleague",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleague"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v26",
+      "term": "concentrations",
+      "headword": "concentration",
+      "kind": "word",
+      "zh": "n. 集中, 专心\n[化] 浓度; 浓缩",
+      "en": "n. the strength of a solution; number of molecules of a substance in a given volume\nn. the spatial property of being crowded together\nn. strengthening the concentration (as of a solute in a mixture) by removing diluting material\nn. increase in density",
+      "phonetic": ".kɒnsәn'treiʃәn",
+      "forms": [
+        "concentrations"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "urban development",
+      "headword": "urban development",
+      "kind": "phrase",
+      "zh": "城市开发",
+      "en": "the construction and expansion of urban areas",
+      "forms": [
+        "urban development"
+      ],
+      "example": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v28",
+      "term": "spots",
+      "headword": "spot",
+      "kind": "word",
+      "zh": "n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量\na. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的\nvt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射\nvi. 玷污, (从空中)侦察敌方目标",
+      "en": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment",
+      "phonetic": "spɒt",
+      "forms": [
+        "spots"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "unexpected",
+      "headword": "unexpected",
+      "kind": "word",
+      "zh": "a. 料想不到的, 突然的, 意外的\n[法] 不能预料的, 意外的",
+      "en": "a. not expected or anticipated",
+      "phonetic": ".ʌnik'spektid",
+      "forms": [
+        "unexpected"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "rocky",
+      "headword": "rocky",
+      "kind": "word",
+      "zh": "a. 岩石的, 多石的, 像岩石的, 无情的, 摇动的, 摇晃的",
+      "en": "s. abounding in rocks or stones\ns. liable to rock\ns. full of hardship or trials",
+      "phonetic": "'rɒki",
+      "forms": [
+        "rocky"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "mountains",
+      "headword": "mountain",
+      "kind": "word",
+      "zh": "n. 山, 山脉, 大堆",
+      "en": "n. a land mass that projects well above its surroundings; higher than a hill",
+      "phonetic": "'mauntin",
+      "forms": [
+        "mountains"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "united",
+      "headword": "unite",
+      "kind": "word",
+      "zh": "vi. 联合, 接合, 混合\nvt. 使联合, 统一, 使粘合, 使结合",
+      "en": "v. act in concert or unite in a common purpose or belief\nv. have or possess in combination\nv. bring together for a common purpose or action or ideology or in a shared situation\nv. join or combine",
+      "phonetic": "ju:'nait",
+      "forms": [
+        "united"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "northern",
+      "headword": "northern",
+      "kind": "word",
+      "zh": "n. 北方人\na. 北方的, 向北的, 自北方来的",
+      "en": "n. a dialect of Middle English that developed into Scottish Lallans\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the north",
+      "phonetic": "'nɒ:ðәn",
+      "forms": [
+        "northern"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "sahara",
+      "headword": "Sahara",
+      "kind": "word",
+      "zh": "n. 撒哈拉沙漠",
+      "en": "n. the world's largest desert (3,500,000 square miles) in northern Africa",
+      "phonetic": "sә'hɑ:rә",
+      "forms": [
+        "sahara"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "desert",
+      "headword": "desert",
+      "kind": "word",
+      "zh": "n. 沙漠, 应得的赏罚, 功劳\na. 沙漠的, 不毛的\nvt. 放弃, 遗弃, 擅离\nvi. 逃掉",
+      "en": "n. arid land with little or no vegetation\nv. leave behind",
+      "phonetic": "'dezәt. di'sә:t",
+      "forms": [
+        "desert"
+      ],
+      "example": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "scarce",
+      "headword": "scarce",
+      "kind": "word",
+      "zh": "a. 难得的, 稀罕的, 缺乏的",
+      "en": "a. deficient in quantity or number compared with the demand",
+      "phonetic": "skɑ:s",
+      "forms": [
+        "scarce"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "naturally",
+      "headword": "naturally",
+      "kind": "word",
+      "zh": "adv. 自然地, 以自然力, 天生地",
+      "en": "r. as might be expected\nr. according to nature; by natural means; without artificial help\nr. through inherent nature\nr. in a natural or normal manner",
+      "phonetic": "'nætʃәrәli",
+      "forms": [
+        "naturally"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "leach",
+      "headword": "leach",
+      "kind": "word",
+      "zh": "vt. 过滤, 萃取\nvi. 滤掉\nn. 过滤, 过滤器, 沥出物",
+      "en": "n. the process of leaching\nv. cause (a liquid) to leach or percolate\nv. permeate or penetrate gradually",
+      "phonetic": "li:tʃ",
+      "forms": [
+        "leach"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "groundwater",
+      "headword": "groundwater",
+      "kind": "word",
+      "zh": "n. 地下水",
+      "en": "",
+      "phonetic": "'graundwɒ:tә",
+      "forms": [
+        "groundwater"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "soil",
+      "headword": "soil",
+      "kind": "word",
+      "zh": "n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池\nvt. 弄脏, 污辱\nvi. 变脏",
+      "en": "n. the part of the earth's surface consisting of humus and disintegrated rock",
+      "phonetic": "sɒil",
+      "forms": [
+        "soil",
+        "soils"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "microbes",
+      "headword": "microbe",
+      "kind": "word",
+      "zh": "n. 微生物, 细菌\n[医] 微生物",
+      "en": "n. a minute life form (especially a disease-causing bacterium); the term is not in technical use",
+      "phonetic": "'maikrәub",
+      "forms": [
+        "microbes"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "organic",
+      "headword": "organic",
+      "kind": "word",
+      "zh": "a. 器官的, 有机的, 组织的, 根本的\n[医] 器官的, 有生命的, 有机的, 器质的",
+      "en": "n. a fertilizer that is derived from animal or vegetable matter\na. relating or belonging to the class of chemical compounds having a carbon basis\na. being or relating to or derived from or having properties characteristic of living organisms\na. involving or affecting physiology or bodily organs",
+      "phonetic": "ɒ:'gænik",
+      "forms": [
+        "organic"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "accumulate",
+      "headword": "accumulate",
+      "kind": "word",
+      "zh": "v. 积聚, 堆积",
+      "en": "v. collect or gather",
+      "phonetic": "ә'kju:mjuleit",
+      "forms": [
+        "accumulate"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "concentrated",
+      "headword": "concentrate",
+      "kind": "word",
+      "zh": "n. 浓缩, 精选\nv. 集中, 专心",
+      "en": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something",
+      "phonetic": "'kɒnsәntreit",
+      "forms": [
+        "concentrated"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v46",
+      "term": "diluted",
+      "headword": "dilute",
+      "kind": "word",
+      "zh": "vt. 冲淡, 稀释\na. 淡的, 稀释的",
+      "en": "v. lessen the strength or flavor of a solution or mixture",
+      "phonetic": "dai'lju:t",
+      "forms": [
+        "diluted"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "flushed",
+      "headword": "flush",
+      "kind": "word",
+      "zh": "n. 流溢, 面红, 旺盛, 发烧, 惊飞的鸟, 同花牌\na. 丰足的, 齐平的, 满盈的, 泛滥的\nadv. 齐平地, 直接地\nvi. 脸发红, 奔涌, 旺盛, 惊飞\nvt. 淹没, 冲洗, 使脸红, 使激动, 使齐平, 使惊飞",
+      "en": "n. a poker hand with all 5 cards in the same suit\nn. a sudden rapid flow (as of water)\nv. flow freely\nv. glow or cause to glow with warm color or light",
+      "phonetic": "flʌʃ",
+      "forms": [
+        "flushed"
+      ],
+      "example": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "health risks",
+      "headword": "health risks",
+      "kind": "phrase",
+      "zh": "健康风险",
+      "en": "factors that may cause harm to health",
+      "forms": [
+        "health risks"
+      ],
+      "example": "It also raises questions about how nitrate-related health risks will increase as global temperatures rise.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v49",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures"
+      ],
+      "example": "It also raises questions about how nitrate-related health risks will increase as global temperatures rise.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "widespread",
+      "headword": "widespread",
+      "kind": "word",
+      "zh": "a. 充分伸展的, 广布的, 普及的, 流传广的",
+      "en": "s. widely circulated or diffused",
+      "phonetic": "'waidspred",
+      "forms": [
+        "widespread"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "combined",
+      "headword": "combine",
+      "kind": "word",
+      "zh": "v. (使)联合, (使)结合\nn. (企业的)联合, 联合收割机",
+      "en": "n. harvester that heads and threshes and cleans grain while moving across the field\nv. add together from different sources\nv. join for a common purpose or in a common action",
+      "phonetic": "kәm'bain",
+      "forms": [
+        "combined"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "measurements",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurements"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "monitoring",
+      "headword": "monitor",
+      "kind": "word",
+      "zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物\nv. 监视, 监听, 监督\n[计] 监视器, 监视程序; 监视",
+      "en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac\nn. display produced by a device that takes signals and displays them on a television screen or a computer monitor\nn. electronic equipment that is used to check the quality or content of electronic transmissions\nn. a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
+      "phonetic": "'mɒnitә",
+      "forms": [
+        "monitoring",
+        "monitored"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "additionally",
+      "headword": "additionally",
+      "kind": "word",
+      "zh": "adv. 另外, 此外",
+      "en": "r. in addition, by way of addition; furthermore",
+      "phonetic": "",
+      "forms": [
+        "additionally"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "extracted",
+      "headword": "extract",
+      "kind": "word",
+      "zh": "n. 榨出物, 精汁, 摘录, 选段\nvt. (费力地)取出, 采掘, 榨取, 摘录, 吸取\n[计] 提取",
+      "en": "v. remove, usually with some force or effort; also used in an abstract sense\nv. get despite difficulties or obstacles\nv. separate (a metal) from an ore\nv. calculate the root of a number",
+      "phonetic": "ik'strækt",
+      "forms": [
+        "extracted"
+      ],
+      "example": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "trained",
+      "headword": "train",
+      "kind": "word",
+      "zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\nvt. 训练, 教育, 对准\nvi. 受训练, 锻炼",
+      "en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching",
+      "phonetic": "trein",
+      "forms": [
+        "trained"
+      ],
+      "example": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "estimate",
+      "headword": "estimate",
+      "kind": "word",
+      "zh": "n. 估计, 判断\nvt. 估计, 评价, 判断\nvi. 估计",
+      "en": "n. an approximate calculation of quantity or degree or worth\nn. a judgment of the qualities of something or somebody\nn. a statement indicating the likely cost of some job\nn. the respect with which a person is held",
+      "phonetic": "'estimeit",
+      "forms": [
+        "estimate"
+      ],
+      "example": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average",
+        "averages"
+      ],
+      "example": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "segments",
+      "headword": "segment",
+      "kind": "word",
+      "zh": "n. 片段, 部分, 分节, 段\nv. 分割, 分裂\n[计] 段",
+      "en": "n. one of the parts into which something naturally divides\nv. divide into segments\nv. divide or split up",
+      "phonetic": "'segmәnt",
+      "forms": [
+        "segments"
+      ],
+      "example": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "worldwide",
+      "headword": "worldwide",
+      "kind": "word",
+      "zh": "a. 全世界的",
+      "en": "s. spanning or extending throughout the entire world",
+      "phonetic": "'wә:ldwaid",
+      "forms": [
+        "worldwide"
+      ],
+      "example": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "deserve",
+      "headword": "deserve",
+      "kind": "word",
+      "zh": "vt. 该得到, 值得\nvi. 应得报答",
+      "en": "v. be worthy or deserving",
+      "phonetic": "di'zә:v",
+      "forms": [
+        "deserve"
+      ],
+      "example": "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "agricultural",
+      "headword": "agricultural",
+      "kind": "word",
+      "zh": "a. 农业的\n[法] 农业的, 耕作的",
+      "en": "a. relating to or used in or promoting agriculture or farming",
+      "phonetic": ".ægri'kʌltʃәrәl",
+      "forms": [
+        "agricultural"
+      ],
+      "example": "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "exposure",
+      "headword": "exposure",
+      "kind": "word",
+      "zh": "n. 暴露, 揭发, 揭露\n[化] 曝光量; 照射; 照射量",
+      "en": "n. vulnerability to the elements; to the action of heat or cold or wind or rain; \nn. the act of subjecting someone to an influencing experience\nn. the disclosure of something secret\nn. aspect resulting from the direction a building or window faces",
+      "phonetic": "ik'spәuʒә",
+      "forms": [
+        "exposure"
+      ],
+      "example": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "dangerous",
+      "headword": "dangerous",
+      "kind": "word",
+      "zh": "a. 危险的\n[法] 危险的, 危害的",
+      "en": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm",
+      "phonetic": "'deindʒәrәs",
+      "forms": [
+        "dangerous"
+      ],
+      "example": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "interfere",
+      "headword": "interfere",
+      "kind": "word",
+      "zh": "vi. 妨碍, 冲突, 干涉, 抵触\n[医] 干扰, 干涉, 阻碍, 碰腿(马)",
+      "en": "v. come between so as to be hindrance or obstacle",
+      "phonetic": ".intә'fiә",
+      "forms": [
+        "interfere"
+      ],
+      "example": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "oxygen",
+      "headword": "oxygen",
+      "kind": "word",
+      "zh": "n. 氧\n[化] 氧O-2",
+      "en": "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust",
+      "phonetic": "'ɒksәdʒәn",
+      "forms": [
+        "oxygen"
+      ],
+      "example": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "poisoning",
+      "headword": "poison",
+      "kind": "word",
+      "zh": "n. 毒药, 毒, 毒物, 有毒害的事物\nvt. 毒害, 毒杀, 使中毒\nvi. 放毒, 下毒",
+      "en": "n. any substance that causes injury or illness or death of a living organism\nn. anything that harms or destroys\nv. spoil as if by poison\nv. kill with poison",
+      "phonetic": "'pɒizn",
+      "forms": [
+        "poisoning"
+      ],
+      "example": "Blue baby syndrome, or methemoglobinemia, can result in serious illnesses and be caused by nitrate poisoning.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "milligrams",
+      "headword": "milligram",
+      "kind": "word",
+      "zh": "n. 毫克\n[电] 毫克",
+      "en": "n. one thousandth (1/1,000) gram",
+      "phonetic": "'miligræm",
+      "forms": [
+        "milligrams"
+      ],
+      "example": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "liter",
+      "headword": "liter",
+      "kind": "word",
+      "zh": "n. 公升\n[化] 升",
+      "en": "n. a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)",
+      "phonetic": "'li:tә",
+      "forms": [
+        "liter"
+      ],
+      "example": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "primarily",
+      "headword": "primarily",
+      "kind": "word",
+      "zh": "adv. 主要地, 首先地",
+      "en": "r. of primary import",
+      "phonetic": "'praimәrili",
+      "forms": [
+        "primarily"
+      ],
+      "example": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "guard",
+      "headword": "guard",
+      "kind": "word",
+      "zh": "n. 守卫者, 警戒, 护卫队, 防护装置\nvt. 保卫, 看守, 当心\nvi. 防止, 警惕, 警卫, 看守",
+      "en": "n. a person who keeps watch over something or someone\nn. the person who plays that position on a football team\nn. a device designed to prevent injury or accidents\nn. a posture of defence in boxing or fencing",
+      "phonetic": "gɑ:d",
+      "forms": [
+        "guard"
+      ],
+      "example": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "acute",
+      "headword": "acute",
+      "kind": "word",
+      "zh": "a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的\n[医] 急性的; 尖锐的",
+      "en": "a. having or experiencing a rapid onset and short but severe course\ns. extremely sharp or intense\ns. having or demonstrating ability to recognize or draw fine distinctions\na. of an angle; less than 90 degrees",
+      "phonetic": "ә'kju:t",
+      "forms": [
+        "acute"
+      ],
+      "example": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "exceed",
+      "headword": "exceed",
+      "kind": "word",
+      "zh": "vt. 超过, 超越, 胜过\nvi. 超过其他",
+      "en": "v. be greater in scope or size than some standard\nv. be superior or better than some standard",
+      "phonetic": "ik'si:d",
+      "forms": [
+        "exceed"
+      ],
+      "example": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "predominantly",
+      "headword": "predominantly",
+      "kind": "word",
+      "zh": "adv. 主要地, 显著地, 大多数地, 突出地",
+      "en": "r. much greater in number or influence",
+      "phonetic": "",
+      "forms": [
+        "predominantly"
+      ],
+      "example": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "corn",
+      "headword": "corn",
+      "kind": "word",
+      "zh": "n. 玉蜀黍, 谷类, 谷粒, 鸡眼\nvt. 使成颗粒, 腌",
+      "en": "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times\nn. the dried grains or kernels or corn used as animal feed or ground for meal\nn. ears of corn that can be prepared and served for human food\nn. a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes",
+      "phonetic": "kɒ:n",
+      "forms": [
+        "corn"
+      ],
+      "example": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "belt",
+      "headword": "belt",
+      "kind": "word",
+      "zh": "n. 带子, 地带\n[医] 带, 腰带, 束带, 地带, 区",
+      "en": "n. endless loop of flexible material between two rotating shafts or pulleys\nn. a band to tie or buckle around the body (usually at the waist)\nn. an elongated region where a specific condition or characteristic is found\nn. ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
+      "phonetic": "belt",
+      "forms": [
+        "belt"
+      ],
+      "example": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "supplied",
+      "headword": "supply",
+      "kind": "word",
+      "zh": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+      "en": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to",
+      "phonetic": "sә'plai",
+      "forms": [
+        "supplied",
+        "supply"
+      ],
+      "example": "That doesn’t mean 37,000 people are drinking water at those concentrations, since river water in many regions is treated before it is supplied for drinking.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "aware",
+      "headword": "aware",
+      "kind": "word",
+      "zh": "a. 知道的, 有觉悟的",
+      "en": "a. (sometimes followed by `of') having or showing knowledge or understanding or realization or perception",
+      "phonetic": "ә'wєә",
+      "forms": [
+        "aware"
+      ],
+      "example": "But it’s a concerning level they should be aware of, particularly those using well water.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "adverse",
+      "headword": "adverse",
+      "kind": "word",
+      "zh": "a. 不利的, 敌对的, 相反的, 逆的\n[法] 相反的, 敌对的, 逆的",
+      "en": "s. contrary to your interests or welfare\ns. in an opposing direction",
+      "phonetic": "'ædvә:s",
+      "forms": [
+        "adverse"
+      ],
+      "example": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "birth",
+      "headword": "birth",
+      "kind": "word",
+      "zh": "n. 出生, 起源\n[医] 生产, 分娩",
+      "en": "n. the time when something begins (especially life)\nn. the event of being born\nn. a baby born; an offspring",
+      "phonetic": "bә:θ",
+      "forms": [
+        "birth"
+      ],
+      "example": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "outcomes",
+      "headword": "outcome",
+      "kind": "word",
+      "zh": "n. 结果, 出口",
+      "en": "n something that results\nn a phenomenon that follows and is caused by some previous phenomenon",
+      "phonetic": "'autkʌm",
+      "forms": [
+        "outcomes"
+      ],
+      "example": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "paragraph": 13,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v83",
+      "term": "born",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "born"
+      ],
+      "example": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "nearby",
+      "headword": "nearby",
+      "kind": "word",
+      "zh": "a. 附近的, 近旁的\nadv. 在附近, 近旁地\nprep. 在...附近",
+      "en": "s. close at hand\nr. not far away in relative terms",
+      "phonetic": "'niәbai",
+      "forms": [
+        "nearby"
+      ],
+      "example": "We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2.5 milligrams per liter.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "elevated",
+      "headword": "elevate",
+      "kind": "word",
+      "zh": "vt. 举起, 提拔, 鼓舞",
+      "en": "v give a promotion to or assign to a higher position\nv raise from a lower to a higher position\nv raise in rank or condition",
+      "phonetic": "'eliveit",
+      "forms": [
+        "elevated"
+      ],
+      "example": "We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2.5 milligrams per liter.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "headwater",
+      "headword": "headwater",
+      "kind": "word",
+      "zh": "n. [常作～s](河流)上游源头",
+      "en": "n. the source of a river",
+      "phonetic": "'hed,wɔ:tә(r)",
+      "forms": [
+        "headwater"
+      ],
+      "example": "Many of the rivers our models identified as having elevated nitrate levels are small headwater streams.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "streams",
+      "headword": "stream",
+      "kind": "word",
+      "zh": "n. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流",
+      "en": "n. a natural body of running water flowing on or under the earth\nn. dominant course (suggestive of running water) of successive events or ideas\nn. something that resembles a flowing stream in moving continuously\nv. to extend, wave or float outward, as if in the wind",
+      "phonetic": "stri:m",
+      "forms": [
+        "streams"
+      ],
+      "example": "Many of the rivers our models identified as having elevated nitrate levels are small headwater streams.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "cease",
+      "headword": "cease",
+      "kind": "word",
+      "zh": "n. 停止\nv. 停止, 终了",
+      "en": "n. (`cease' is a noun only in the phrase `without cease') end",
+      "phonetic": "si:s",
+      "forms": [
+        "cease"
+      ],
+      "example": "Many headwater streams cease to flow for some periods of time every year, and nitrates can accumulate to high concentrations under dry or low-flow conditions.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "flow",
+      "headword": "flow",
+      "kind": "word",
+      "zh": "n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮\nvi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出\nvt. 使流动, 淹没, 流出",
+      "en": "n. the motion characteristic of fluids (liquids or gases)\nn. the amount of fluid that flows in a given time\nn. the act of flowing or streaming; continuous progression\nn. any uninterrupted stream or discharge",
+      "phonetic": "flәu",
+      "forms": [
+        "flow"
+      ],
+      "example": "Many headwater streams cease to flow for some periods of time every year, and nitrates can accumulate to high concentrations under dry or low-flow conditions.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "overlooked",
+      "headword": "overlook",
+      "kind": "word",
+      "zh": "vt. 俯瞰, 远眺, 没注意到\nn. 眺望, 俯瞰到的景色",
+      "en": "n. a high place affording a good view\nv. look past, fail to notice\nv. watch over",
+      "phonetic": ".әuvә'luk",
+      "forms": [
+        "overlooked"
+      ],
+      "example": "These small streams make up most of the global river networks, have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "feed",
+      "headword": "fee",
+      "kind": "word",
+      "zh": "n. 费用, 小费, 封地, 所有权\nvt. 付费给",
+      "en": "n. a fixed charge for a privilege or for professional services\nn. an interest in land capable of being inherited",
+      "phonetic": "fi:",
+      "forms": [
+        "feed"
+      ],
+      "example": "These small streams make up most of the global river networks, have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape"
+      ],
+      "example": "These small streams make up most of the global river networks, have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "downstream",
+      "headword": "downstream",
+      "kind": "word",
+      "zh": "adv. 下游地\na. 下游的",
+      "en": "a. in the direction of a stream's current",
+      "phonetic": "'daun'stri:m",
+      "forms": [
+        "downstream"
+      ],
+      "example": "These small streams make up most of the global river networks, have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "lakes",
+      "headword": "lake",
+      "kind": "word",
+      "zh": "n. 湖, 池, 色淀\nv. (使)血球溶解",
+      "en": "n. a body of (usually fresh) water surrounded by land\nn. a purplish red pigment prepared from lac or cochineal\nn. any of numerous bright translucent organic pigments",
+      "phonetic": "leik",
+      "forms": [
+        "lakes"
+      ],
+      "example": "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "algal",
+      "headword": "algal",
+      "kind": "word",
+      "zh": "[医] 藻的",
+      "en": "a. of or relating to alga",
+      "phonetic": "'æl^әl",
+      "forms": [
+        "algal"
+      ],
+      "example": "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "disrupt",
+      "headword": "disrupt",
+      "kind": "word",
+      "zh": "a. 分裂的, 中断的\nvt. 使分裂, 使瓦解",
+      "en": "v. throw into disorder",
+      "phonetic": "dis'rʌpt",
+      "forms": [
+        "disrupt"
+      ],
+      "example": "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "ecosystems",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystems"
+      ],
+      "example": "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "actual",
+      "headword": "actual",
+      "kind": "word",
+      "zh": "a. 真实的, 实际的, 现行的\n[医] 实际死亡率",
+      "en": "a. presently existing in fact and not merely potential or possible\ns. taking place in reality; not pretended or imitated\ns. being or reflecting the essential or genuine character of something\ns. existing in act or fact",
+      "phonetic": "'æktʃuәl",
+      "forms": [
+        "actual"
+      ],
+      "example": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "connecting",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connecting"
+      ],
+      "example": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "delivered",
+      "headword": "deliver",
+      "kind": "word",
+      "zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付\n[经] 交运",
+      "en": "v. deliver (a speech, oration, or idea)\nv. bring to a destination, make a delivery\nv. utter (an exclamation, noise, etc.)\nv. save from sins",
+      "phonetic": "di'livә",
+      "forms": [
+        "delivered"
+      ],
+      "example": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "households",
+      "headword": "household",
+      "kind": "word",
+      "zh": "n. 一家人, 家庭, 家族, 王室\na. 家庭的, 家常的, 王室的",
+      "en": "n a social unit living together",
+      "phonetic": "'haushәuld",
+      "forms": [
+        "households"
+      ],
+      "example": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "limited",
+      "headword": "limit",
+      "kind": "word",
+      "zh": "n. 界限, 边界, 限度, 极限, 限制\nvt. 限制, 限定",
+      "en": "n. the greatest possible degree of something\nn. as far as something can go\nn. the boundary of a specific area\nn. the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "phonetic": "'limit",
+      "forms": [
+        "limited"
+      ],
+      "example": "Many rivers with nitrate concentrations above 2.5 milligrams per liter flow through sparsely populated regions where access to treated drinking water may be limited.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "facilities",
+      "headword": "facility",
+      "kind": "word",
+      "zh": "n. 容易, 灵巧, 设备\n[计] 设施; 设备; 装备",
+      "en": "n. a building or place that provides a particular service or is used for a particular industry\nn. a natural effortlessness\nn. something designed and created to serve a particular function and to afford a particular convenience or service\nn. a service that an organization or a piece of equipment offers you",
+      "phonetic": "fә'siliti",
+      "forms": [
+        "facilities"
+      ],
+      "example": "Even where treatment facilities exist, conventional methods remove little nitrate.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "conventional",
+      "headword": "conventional",
+      "kind": "word",
+      "zh": "a. 传统的, 习惯的, 约定的\n[经] 惯例的, 常规的, 传统的",
+      "en": "a. following accepted customs and proprieties\ns. conforming with accepted standards\na. (weapons) using energy for propulsion or destruction that is not nuclear energy\na. unimaginative and conformist",
+      "phonetic": "kәn'venʃәnl",
+      "forms": [
+        "conventional"
+      ],
+      "example": "Even where treatment facilities exist, conventional methods remove little nitrate.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "specialized",
+      "headword": "specialize",
+      "kind": "word",
+      "zh": "vt. 使特殊化, 列举, 特别指明, 限定...的范围\nvi. 成为专家, 专攻",
+      "en": "v. become more focus on an area of activity or field of study\nv. suit to a special purpose\nv. devote oneself to a special area of work",
+      "phonetic": "'speʃәlaiz",
+      "forms": [
+        "specialized"
+      ],
+      "example": "Removing it requires specialized technologies that can be costly to operate.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "costly",
+      "headword": "costly",
+      "kind": "word",
+      "zh": "a. 昂贵的, 奢华的, 费用大的",
+      "en": "s. having a high price",
+      "phonetic": "'kɒstli",
+      "forms": [
+        "costly"
+      ],
+      "example": "Removing it requires specialized technologies that can be costly to operate.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "operate",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operate"
+      ],
+      "example": "Removing it requires specialized technologies that can be costly to operate.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "drylands",
+      "headword": "dryland",
+      "kind": "word",
+      "zh": "n. 旱地",
+      "en": "",
+      "phonetic": "'drailænd",
+      "forms": [
+        "drylands"
+      ],
+      "example": "Our study shows why more drylands and small headwater streams need to be monitored for nitrate.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "warming",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warming"
+      ],
+      "example": "It also raises a question for a warming world: If a region becomes drier, how much will nitrate concentrations rise even if people do not add more nitrogen to the landscape?",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "becomes",
+      "headword": "becomes",
+      "kind": "word",
+      "zh": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+      "en": "v enter or assume a certain state or condition\nv undergo a change or development\nv come into existence\nv enhance the appearance of",
+      "phonetic": "biˈkʌmz",
+      "forms": [
+        "becomes"
+      ],
+      "example": "It also raises a question for a warming world: If a region becomes drier, how much will nitrate concentrations rise even if people do not add more nitrogen to the landscape?",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "paired",
+      "headword": "pair",
+      "kind": "word",
+      "zh": "n. 一双, 一对, 一副\nv. (使)成对",
+      "en": "n. a set of two similar things considered as a unit\nn. two people considered as a unit\nn. a poker hand with 2 cards of the same value\nv. form a pair or pairs",
+      "phonetic": "pєә",
+      "forms": [
+        "paired"
+      ],
+      "example": "Answering that will require measurements through wet and dry periods, paired with studies of how water moves through soils, groundwater and rivers.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "water quality",
+      "headword": "water quality",
+      "kind": "phrase",
+      "zh": "水质",
+      "en": "the chemical, physical and biological characteristics of water",
+      "forms": [
+        "water quality"
+      ],
+      "example": "For now, the message is clear: Protecting water quality requires paying attention to the climate as well as to the human activities that put nitrogen into the environment.",
+      "paragraph": 23,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v113",
+      "term": "as well as",
+      "headword": "as well as",
+      "kind": "phrase",
+      "zh": "以及；除……之外还",
+      "en": "in addition to",
+      "forms": [
+        "as well as"
+      ],
+      "example": "For now, the message is clear: Protecting water quality requires paying attention to the climate as well as to the human activities that put nitrogen into the environment.",
+      "paragraph": 23,
+      "source": "Editorial glossary"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      11
+    ],
+    "wordBank": [
+      "concentrations",
+      "flushed",
+      "harmful",
+      "agricultural",
+      "widespread",
+      "poisoning",
+      "exceed",
+      "nitrogen",
+      "estimate",
+      "scarce"
+    ],
+    "parts": [
+      {
+        "text": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”\n\nBut a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " that can harm aquatic life, drinking water and human health.\n\nIn a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": ", even in places with little farming or urban development.\n\nWe found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert. Where water is "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": ", we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " away.\n\nThat raises health concerns for regions where nitrates in rivers and well water might not be given much thought. It also raises questions about how nitrate-related health risks will increase as global temperatures rise.\n\nTo see how "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features. We then trained machine learning models to "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.\n\nThe resulting map suggests that nitrates deserve attention well beyond the urban and "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " regions where they are usually monitored.\n\nWhy it matters\n\nHigh nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen. Blue baby syndrome, or methemoglobinemia, can result in serious illnesses and be caused by nitrate "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": ".\n\nThe U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.\n\nWe estimate that about 37,000 people worldwide live in areas where rivers "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "harmful",
+        "vocabularyId": "v7",
+        "explanation": "原文此处使用 harmful（harmful）。结合上下文辨认词义与词形。",
+        "evidence": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+        "paragraph": 1
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "nitrogen",
+        "vocabularyId": "v18",
+        "explanation": "原文此处使用 nitrogen（nitrogen）。结合上下文辨认词义与词形。",
+        "evidence": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+        "paragraph": 2
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "concentrations",
+        "vocabularyId": "v26",
+        "explanation": "原文此处使用 concentrations（concentration）。结合上下文辨认词义与词形。",
+        "evidence": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "scarce",
+        "vocabularyId": "v36",
+        "explanation": "原文此处使用 scarce（scarce）。结合上下文辨认词义与词形。",
+        "evidence": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+        "paragraph": 4
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "flushed",
+        "vocabularyId": "v47",
+        "explanation": "原文此处使用 flushed（flush）。结合上下文辨认词义与词形。",
+        "evidence": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+        "paragraph": 4
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "widespread",
+        "vocabularyId": "v50",
+        "explanation": "原文此处使用 widespread（widespread）。结合上下文辨认词义与词形。",
+        "evidence": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
+        "paragraph": 6
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "estimate",
+        "vocabularyId": "v57",
+        "explanation": "原文此处使用 estimate（estimate）。结合上下文辨认词义与词形。",
+        "evidence": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+        "paragraph": 6
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "agricultural",
+        "vocabularyId": "v62",
+        "explanation": "原文此处使用 agricultural（agricultural）。结合上下文辨认词义与词形。",
+        "evidence": "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+        "paragraph": 7
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "poisoning",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 poisoning（poison）。结合上下文辨认词义与词形。",
+        "evidence": "Blue baby syndrome, or methemoglobinemia, can result in serious illnesses and be caused by nitrate poisoning.",
+        "paragraph": 9
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "exceed",
+        "vocabularyId": "v73",
+        "explanation": "原文此处使用 exceed（exceed）。结合上下文辨认词义与词形。",
+        "evidence": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+        "paragraph": 11
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Rocky habitats support many reptile species but are often overlooked in conservation.",
+          "Periods without wind or sunshine create challenges for electricity systems that depend on renewables.",
+          "Wildfire damage is likely to increase, but affordable protective measures can reduce future losses.",
+          "Dry climates can increase river nitrate pollution even far from intensive human activity."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Where can high river nitrate concentrations occur, according to the study?",
+        "options": [
+          "Only in wet tropical city centres",
+          "Exclusively in rivers with no natural nitrogen",
+          "In dry climates even where farming and urban development are limited",
+          "Only immediately below large factories"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 9?",
+        "options": [
+          "Nitrate concentrations can also rise and fall over time, while our map shows long-term averages.",
+          "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+          "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+          "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen."
+        ],
+        "answer": 3,
+        "explanation": "定位第 9 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen.",
+        "paragraph": 9
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2.5 milligrams per liter.”",
+        "options": [
+          "Paragraph 13",
+          "Paragraph 14",
+          "Paragraph 19",
+          "Paragraph 23"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 14 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2.5 milligrams per liter.",
+        "paragraph": 14
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.”",
+        "options": [
+          "Paragraph 19",
+          "Paragraph 7",
+          "Paragraph 1",
+          "Paragraph 12"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 19 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+        "paragraph": 19
+      }
+    ]
+  },
+  "revision": "a4443a0ebfc66a91858ab71927da69f86d1a372e36a5bb11ce1de7dd0a050e87"
+}

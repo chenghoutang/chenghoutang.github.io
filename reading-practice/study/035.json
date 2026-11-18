@@ -1,0 +1,1906 @@
+{
+  "schemaVersion": 1,
+  "folder": "035",
+  "articleSha256": "80b349d85fdce3e979686b8ac1e84a3a00e787470c27a7c5a53310f477abe44a",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "autumn",
+      "headword": "autumn",
+      "kind": "word",
+      "zh": "n. 秋天, 成熟期",
+      "en": "n the season when the leaves fall from the trees",
+      "phonetic": "'ɒ:tәm",
+      "forms": [
+        "autumn"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "wetlands",
+      "headword": "wetland",
+      "kind": "word",
+      "zh": "n. 湿地, 沼泽地\n[经] 湿地",
+      "en": "n. a low area where the land is saturated with water",
+      "phonetic": "'wetlænd",
+      "forms": [
+        "wetlands"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "starling",
+      "headword": "starling",
+      "kind": "word",
+      "zh": "n. 欧椋鸟, 桥墩尖端",
+      "en": "n. gregarious birds native to the Old World",
+      "phonetic": "'stɑ:liŋ",
+      "forms": [
+        "starling",
+        "starlings"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "attract",
+      "headword": "attract",
+      "kind": "word",
+      "zh": "vt. 吸引, 诱惑\nvi. 有吸引力",
+      "en": "v. direct toward itself or oneself by means of some psychological power or physical attributes\nv. be attractive to\nv. exert a force on (a body) causing it to approach or prevent it from moving away",
+      "phonetic": "ә'trækt",
+      "forms": [
+        "attract",
+        "attracting"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "crowds",
+      "headword": "crowd",
+      "kind": "word",
+      "zh": "n. 群众, 一伙人\nvt. 拥挤, 挤满, 挤进",
+      "en": "n. a large number of things or people considered together\nn. an informal body of friends\nv. fill or occupy to the point of overflowing\nv. to gather together in large numbers",
+      "phonetic": "kraud",
+      "forms": [
+        "crowds"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "spectators",
+      "headword": "spectator",
+      "kind": "word",
+      "zh": "n. 观众, 目击者, 旁观者",
+      "en": "n. a close observer; someone who looks at something (such as an exhibition of some kind)",
+      "phonetic": "spek'teitә",
+      "forms": [
+        "spectators"
+      ],
+      "example": "Every autumn, from city centres to wetlands, starling murmurations attract crowds of spectators.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "thousands",
+      "headword": "thousands",
+      "kind": "word",
+      "zh": "n. 数千（thousand的复数）",
+      "en": "n the cardinal number that is the product of 10 and 100",
+      "phonetic": "",
+      "forms": [
+        "thousands"
+      ],
+      "example": "Thousands of birds fill the sky, twisting and turning in extraordinary waves as the sun sets.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "twisting",
+      "headword": "twist",
+      "kind": "word",
+      "zh": "n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法\nvt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转\nvi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形",
+      "en": "n. a jerky pulling movement\nn. social dancing in which couples vigorously twist their hips and arms in time to the music; was popular in the 1960s\nn. turning or twisting around (in place)\nv. turn in the opposite direction",
+      "phonetic": "twist",
+      "forms": [
+        "twisting"
+      ],
+      "example": "Thousands of birds fill the sky, twisting and turning in extraordinary waves as the sun sets.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "extraordinary",
+      "headword": "extraordinary",
+      "kind": "word",
+      "zh": "a. 非常的, 特别的, 非凡的\n[经] 非常的, 特别的, 临时的",
+      "en": "a. beyond what is ordinary or usual; highly unusual or exceptional or remarkable\ns. far more than usual or expected\ns. (of an official) serving an unusual or special function in addition to those of the regular officials",
+      "phonetic": "ik'strɒ:dәnәri",
+      "forms": [
+        "extraordinary"
+      ],
+      "example": "Thousands of birds fill the sky, twisting and turning in extraordinary waves as the sun sets.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "waves",
+      "headword": "wave",
+      "kind": "word",
+      "zh": "n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变\nvi. 波动, 飘动, 挥手示意, 起伏\nvt. 使波动, 使飘扬, 挥舞, 使成波浪形",
+      "en": "n. one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)\nn. a movement like that of a sudden occurrence or increase in a specified phenomenon\nn. (physics) a movement up and down or back and forth\nn. something that rises rapidly",
+      "phonetic": "weiv",
+      "forms": [
+        "waves"
+      ],
+      "example": "Thousands of birds fill the sky, twisting and turning in extraordinary waves as the sun sets.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "flock",
+      "headword": "flock",
+      "kind": "word",
+      "zh": "n. 兽群, 鸟群, 一群人, 大量, 棉束\nvi. 成群而行, 聚集\nvt. 用棉束填满",
+      "en": "n. a church congregation guided by a pastor\nn. a group of birds\nn. a group of sheep or goats\nv. move as a crowd or in a group",
+      "phonetic": "flɒk",
+      "forms": [
+        "flock"
+      ],
+      "example": "An entire flock moves as one, creating shapes that shift and dissolve as quickly as they appear.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "shapes",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shapes"
+      ],
+      "example": "An entire flock moves as one, creating shapes that shift and dissolve as quickly as they appear.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "shift",
+      "headword": "shift",
+      "kind": "word",
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位\nvt. 替换, 转移, 改变, 推卸, 变速\nvi. 转换, 移动, 转变, 推托, 变速\n[计] DOS内部命令:该命令可将批处理参数向左移动一个位置",
+      "en": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time",
+      "phonetic": "ʃift",
+      "forms": [
+        "shift",
+        "shifting"
+      ],
+      "example": "An entire flock moves as one, creating shapes that shift and dissolve as quickly as they appear.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "dissolve",
+      "headword": "dissolve",
+      "kind": "word",
+      "zh": "v. 溶解, 解散",
+      "en": "n. (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out\nv. become weaker\nv. cause to go into a solution\nv. come to an end",
+      "phonetic": "di'zɒlv",
+      "forms": [
+        "dissolve"
+      ],
+      "example": "An entire flock moves as one, creating shapes that shift and dissolve as quickly as they appear.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "breeding",
+      "headword": "breed",
+      "kind": "word",
+      "zh": "n. 种类, 品种\nv. 养育, 引起, 饲养, 繁殖",
+      "en": "n. a special variety of domesticated animals within a species\nn. a special type\nv. copulate with a female, used especially of horses\nv. cause to procreate (animals)",
+      "phonetic": "bri:d",
+      "forms": [
+        "breeding"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "declined",
+      "headword": "decline",
+      "kind": "word",
+      "zh": "n. 衰退, 跌落, 下降\nvt. 使降低, 婉谢\nvi. 下降, 衰落, 偏斜",
+      "en": "n. change toward something smaller or lower\nn. a condition inferior to an earlier condition; a gradual falling off from a better state\nv. grow smaller\nv. go down",
+      "phonetic": "di'klain",
+      "forms": [
+        "declined",
+        "declines"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "dramatically",
+      "headword": "dramatically",
+      "kind": "word",
+      "zh": "adv. 戏剧地, 引人注目地, 突然地",
+      "en": "r. in a very impressive manner\nr. in a dramatic manner\nr. with respect to dramatic value",
+      "phonetic": "drә'mætikli",
+      "forms": [
+        "dramatically"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "climate",
+      "headword": "climate",
+      "kind": "word",
+      "zh": "n. 气候, 社会趋势, 气候区\n[医] 气候",
+      "en": "n. the weather in some location averaged over some long period of time\nn. the prevailing psychological state",
+      "phonetic": "'klaimit",
+      "forms": [
+        "climate"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "migration",
+      "headword": "migration",
+      "kind": "word",
+      "zh": "n. 移民, 移往, 移动\n[计] 迁移",
+      "en": "n. the movement of persons from one country or locality to another\nn. a group of people migrating together (especially in some given time period)\nn. (chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule",
+      "phonetic": "mai'greiʃәn",
+      "forms": [
+        "migration"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "habitats",
+      "headword": "habitat",
+      "kind": "word",
+      "zh": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+      "en": "n. the type of environment in which an organism or group normally lives or occurs",
+      "phonetic": "'hæbitæt",
+      "forms": [
+        "habitats",
+        "habitat"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "reshaping",
+      "headword": "reshape",
+      "kind": "word",
+      "zh": "vt. 改造, 使成新的形状, 打开新局面\nvt. 整形\nvi. 整形\n[计] 整形",
+      "en": "v. shape anew or differently\nv. shape again or shape differently",
+      "phonetic": "ri:'ʃeip",
+      "forms": [
+        "reshaping"
+      ],
+      "example": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "repeating",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeating"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "survey",
+      "headword": "survey",
+      "kind": "word",
+      "zh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地",
+      "en": "n. a detailed critical inspection\nv. consider in a comprehensive way\nv. look over carefully or inspect\nv. make a survey of; for statistical purposes",
+      "phonetic": "sә'vei",
+      "forms": [
+        "survey"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "carried out",
+      "headword": "carried out",
+      "kind": "phrase",
+      "zh": "开展了；执行了",
+      "en": "performed a task or investigation",
+      "forms": [
+        "carried out"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v25",
+      "term": "we're",
+      "headword": "we're",
+      "kind": "word",
+      "zh": "(we are 的常用口语形式)",
+      "en": "",
+      "phonetic": "wɪə(r)",
+      "forms": [
+        "we're"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "spectacular",
+      "headword": "spectacular",
+      "kind": "word",
+      "zh": "a. 公开展示的, 惊人的, 壮观的\nn. 奇观, 惊人之举, 展览物",
+      "en": "n. a lavishly produced performance\ns. characteristic of spectacles or drama",
+      "phonetic": "spek'tækjulә",
+      "forms": [
+        "spectacular"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "displays",
+      "headword": "display",
+      "kind": "word",
+      "zh": "n. 显示, 陈列, 炫耀, 显示器\nvt. 陈列, 显示, 表现, 夸示\n[计] 显示器; 显示",
+      "en": "n. something intended to communicate a particular impression\nn. something shown to the public\nn. a visual representation of something\nn. behavior that makes your feelings public",
+      "phonetic": "dis'plei",
+      "forms": [
+        "displays"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "changing",
+      "headword": "change",
+      "kind": "word",
+      "zh": "n. 变化, 找回的零钱, 找头, 更换\nvt. 改变, 更换, 兑换",
+      "en": "n. an event that occurs when something passes from one state or phase to another\nn. a relational difference between states; especially between states before and after some event\nn. the action of changing something\nn. the result of alteration or modification",
+      "phonetic": "tʃeindʒ",
+      "forms": [
+        "changing"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "location",
+      "headword": "location",
+      "kind": "word",
+      "zh": "n. 位置, 场所, 特定区域\n[计] 位置",
+      "en": "n. a point or extent in space\nn. a workplace away from a studio at which some or all of a movie may be made",
+      "phonetic": "lәu'keiʃәn",
+      "forms": [
+        "location"
+      ],
+      "example": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "according",
+      "headword": "accord",
+      "kind": "word",
+      "zh": "n. 一致, 调和, 协定\nvt. 给与, 使一致\nvi. 相符合",
+      "en": "n. concurrence of opinion\nn. sympathetic compatibility\nv. allow to have",
+      "phonetic": "ә'kɒ:d",
+      "forms": [
+        "according"
+      ],
+      "example": "According to the British Trust for Ornithology, the UK’s breeding starling population declined by 61% between 1995 and 2024.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "According to",
+      "headword": "according to",
+      "kind": "phrase",
+      "zh": "根据；据……所说",
+      "en": "as stated or reported by a source",
+      "forms": [
+        "According to"
+      ],
+      "example": "According to the British Trust for Ornithology, the UK’s breeding starling population declined by 61% between 1995 and 2024.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v32",
+      "term": "trust",
+      "headword": "trust",
+      "kind": "word",
+      "zh": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯\na. 信托的, 托拉斯的\nvt. 信赖, 信任, 相信, 盼望, 赊卖给\nvi. 相信, 信赖, 依靠\n[计] 委托, 信任",
+      "en": "n. something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)\nn. the trait of believing in the honesty and reliability of others\nn. a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service\nv. have confidence or faith in",
+      "phonetic": "trʌst",
+      "forms": [
+        "trust"
+      ],
+      "example": "According to the British Trust for Ornithology, the UK’s breeding starling population declined by 61% between 1995 and 2024.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "ornithology",
+      "headword": "ornithology",
+      "kind": "word",
+      "zh": "n. 鸟类学",
+      "en": "n. the branch of zoology that studies birds",
+      "phonetic": ".ɒ:ni'θɒlәdʒi",
+      "forms": [
+        "ornithology"
+      ],
+      "example": "According to the British Trust for Ornithology, the UK’s breeding starling population declined by 61% between 1995 and 2024.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "farmland",
+      "headword": "farmland",
+      "kind": "word",
+      "zh": "n. 农田",
+      "en": "n. a rural area where farming is practiced",
+      "phonetic": "'fɑ:mlænd",
+      "forms": [
+        "farmland"
+      ],
+      "example": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "index",
+      "headword": "index",
+      "kind": "word",
+      "zh": "n. 索引, 指针, 指数, 指标\nvt. 编入索引中, 指出\nvi. 做索引\n[计] 下标; 附标; 变址; 索引; 编索引",
+      "en": "n. a numerical scale used to compare variables with one another or with some reference number\nn. a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time\nn. an alphabetical listing of names and topics along with page numbers where they are discussed\nn. the finger next to the thumb",
+      "phonetic": "'indeks",
+      "forms": [
+        "index"
+      ],
+      "example": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "intensification",
+      "headword": "intensification",
+      "kind": "word",
+      "zh": "n. 增强, 强化\n[医] 强化[作用], 增强",
+      "en": "n. action that makes something stronger or more extreme\nn. the act of increasing the contrast of (a photographic film)",
+      "phonetic": "in,tensifi'keiʃәn",
+      "forms": [
+        "intensification"
+      ],
+      "example": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "farming",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farming"
+      ],
+      "example": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "necessarily",
+      "headword": "necessarily",
+      "kind": "word",
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "en": "r. in an essential manner\nr. as a highly likely consequence",
+      "phonetic": "'nesisәrili",
+      "forms": [
+        "necessarily"
+      ],
+      "example": "But that doesn’t necessarily mean individual murmurations are becoming smaller.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "becoming",
+      "headword": "becoming",
+      "kind": "word",
+      "zh": "a. 合适的, 适当的",
+      "en": "s. according with custom or propriety\ns. displaying or setting off to best advantage",
+      "phonetic": "bi'kʌmiŋ",
+      "forms": [
+        "becoming"
+      ],
+      "example": "But that doesn’t necessarily mean individual murmurations are becoming smaller.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "gather",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gather",
+        "gathering"
+      ],
+      "example": "Changes in where birds gather, when they arrive and how they behave could all influence the displays we see each winter.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "behave",
+      "headword": "behave",
+      "kind": "word",
+      "zh": "vi. 举止端正, 行为规矩\nvt. 检点(自己的)行为, 使表现好",
+      "en": "v. behave in a certain manner\nv. behave well or properly",
+      "phonetic": "bi'heiv",
+      "forms": [
+        "behave"
+      ],
+      "example": "Changes in where birds gather, when they arrive and how they behave could all influence the displays we see each winter.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "influence",
+      "headword": "influence",
+      "kind": "word",
+      "zh": "n. 影响力, 权力, 势力\nvt. 影响, 改变",
+      "en": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another",
+      "phonetic": "'influәns",
+      "forms": [
+        "influence"
+      ],
+      "example": "Changes in where birds gather, when they arrive and how they behave could all influence the displays we see each winter.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "Climate change",
+      "headword": "climate change",
+      "kind": "phrase",
+      "zh": "气候变化",
+      "en": "long-term shifts in climate patterns",
+      "forms": [
+        "Climate change"
+      ],
+      "example": "Climate change may also be playing a part in shifting patterns and timings of murmuration displays.",
+      "paragraph": 4,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v44",
+      "term": "timings",
+      "headword": "timings",
+      "kind": "word",
+      "zh": "n. 时间控制；时间安排；[计量] 计时（timing的复数）",
+      "en": "n. the time when something happens\nn. the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "phonetic": "",
+      "forms": [
+        "timings"
+      ],
+      "example": "Climate change may also be playing a part in shifting patterns and timings of murmuration displays.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "murmuration",
+      "headword": "murmuration",
+      "kind": "word",
+      "zh": "低声咕哝\n掠鸟群",
+      "en": "n. The act of murmuring; a murmur.",
+      "phonetic": "",
+      "forms": [
+        "murmuration"
+      ],
+      "example": "Climate change may also be playing a part in shifting patterns and timings of murmuration displays.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "numbers",
+      "headword": "numbers",
+      "kind": "word",
+      "zh": "n. 数字（number的复数）；算术",
+      "en": "n. the fourth book of the Old Testament; contains a record of the number of Israelites who followed Moses out of Egypt",
+      "phonetic": "'nʌmbәz",
+      "forms": [
+        "numbers"
+      ],
+      "example": "Britain’s winter starling population includes large numbers of birds arriving from continental Europe.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "continental",
+      "headword": "continental",
+      "kind": "word",
+      "zh": "a. 大陆的, 洲的\nn. 欧洲大陆人",
+      "en": "a. of or pertaining to or typical of Europe\na. of or relating to or concerning the American colonies during and immediately after the American Revolutionary War\na. of or relating to or characteristic of a continent\na. being or concerning or limited to a continent especially the continents of North America or Europe",
+      "phonetic": ".kɒnti'nentl",
+      "forms": [
+        "continental"
+      ],
+      "example": "Britain’s winter starling population includes large numbers of birds arriving from continental Europe.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "potentially",
+      "headword": "potentially",
+      "kind": "word",
+      "zh": "adv. 可能地, 潜在地",
+      "en": "r. with a possibility of becoming actual",
+      "phonetic": "pә'tenʃәli",
+      "forms": [
+        "potentially"
+      ],
+      "example": "As winter conditions change, so might their migration patterns, potentially affecting the timing, location and size of murmurations.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "availability",
+      "headword": "availability",
+      "kind": "word",
+      "zh": "n. 有效性, 可利用性, 可利用的人\n[计] 有效性; 可用性",
+      "en": "n the quality of being at hand when needed",
+      "phonetic": "ә.veilә'biliti",
+      "forms": [
+        "availability"
+      ],
+      "example": "Changes in food availability and roosting habitat could also be important.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "roosting",
+      "headword": "roost",
+      "kind": "word",
+      "zh": "n. 栖木, 休息所, 群栖的禽鸟\nvi. 栖息, 安歇\nvt. 使栖息",
+      "en": "n. a shelter with perches for fowl or other birds\nn. a perch on which domestic fowl rest or sleep\nv. settle down or stay, as if on a roost",
+      "phonetic": "ru:st",
+      "forms": [
+        "roosting",
+        "roosts",
+        "roost"
+      ],
+      "example": "Changes in food availability and roosting habitat could also be important.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "royal",
+      "headword": "royal",
+      "kind": "word",
+      "zh": "n. 王室, 皇族\na. 王室的, 皇家的, 盛大的, 庄严的",
+      "en": "n. a sail set next above the topgallant on a royal mast\nn. stag with antlers of 12 or more branches\na. of or relating to or indicative of or issued or performed by a king or queen or other monarch\na. established or chartered or authorized by royalty",
+      "phonetic": "'rɒiәl",
+      "forms": [
+        "royal"
+      ],
+      "example": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "biology",
+      "headword": "biology",
+      "kind": "word",
+      "zh": "n. 生物学\n[化] 生物; 生物学",
+      "en": "n. the science that studies living organisms\nn. characteristic life processes and phenomena of living organisms",
+      "phonetic": "bai'ɒlәdʒi",
+      "forms": [
+        "biology"
+      ],
+      "example": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "harnessed",
+      "headword": "harness",
+      "kind": "word",
+      "zh": "n. 马具, 挽具状带子, 甲胄\nvt. 给...上挽具, 驾驭, 披上甲胄, 利用...以产生动力",
+      "en": "n. a support consisting of an arrangement of straps for holding something to the body (especially one supporting a person suspended from a parachute)\nn. stable gear consisting of an arrangement of leather straps fitted to a draft animal so that it can be attached to and pull a cart\nv. put a harness\nv. exploit the power of",
+      "phonetic": "'hɑ:nis",
+      "forms": [
+        "harnessed"
+      ],
+      "example": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "volunteer",
+      "headword": "volunteer",
+      "kind": "word",
+      "zh": "n. 志愿者\na. 志愿的\nv. 自愿",
+      "en": "n. (military) a person who freely enlists for service\nn. a person who performs voluntary work\nv. tell voluntarily\nv. agree freely",
+      "phonetic": ".vɒlәn'tiә",
+      "forms": [
+        "volunteer"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "submitted",
+      "headword": "submit",
+      "kind": "word",
+      "zh": "vt. 使服从, 使受到, 委托, 提交, 认为\nvi. 屈服, 服从",
+      "en": "v. refer for judgment or consideration\nv. put before\nv. yield to the control of another\nv. yield to another's wish or opinion",
+      "phonetic": "sәb'mit",
+      "forms": [
+        "submitted"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "observations",
+      "headword": "observation",
+      "kind": "word",
+      "zh": "n. 观察, 注意, 观测, 观察力\n[化] 观察",
+      "en": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing",
+      "phonetic": ".ɒbzә:'veiʃәn",
+      "forms": [
+        "observations"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "duration",
+      "headword": "duration",
+      "kind": "word",
+      "zh": "n. 持续时间, 持续\n[计] 持续时间",
+      "en": "n. the period of time during which something continues\nn. the property of enduring or continuing in time\nn. continuance in time",
+      "phonetic": "dju'reiʃәn",
+      "forms": [
+        "duration"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "plus",
+      "headword": "plus",
+      "kind": "word",
+      "zh": "prep. 加上, 加, 外加\na. 正的, 附加的\nn. 正号, 加号, 附加额, 正数, 增益\n[计] 正差",
+      "en": "a. on the positive side or higher end of a scale\ns. involving advantage or good",
+      "phonetic": "plʌs",
+      "forms": [
+        "plus"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "presence",
+      "headword": "presence",
+      "kind": "word",
+      "zh": "n. 出席, 面前, 存在, 仪态, 风度\n[电] 出现",
+      "en": "n. the state of being present; current existence\nn. the immediate proximity of someone or something\nn. an invisible spiritual being felt to be nearby\nn. the impression that something is present",
+      "phonetic": "'prezns",
+      "forms": [
+        "presence"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "prey",
+      "headword": "prey",
+      "kind": "word",
+      "zh": "n. 被掠食者, 牺牲者\nvi. 捕食",
+      "en": "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence\nn. animal hunted or caught for food\nv. profit from in an exploitatory manner",
+      "phonetic": "prei",
+      "forms": [
+        "prey"
+      ],
+      "example": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "unusually",
+      "headword": "unusually",
+      "kind": "word",
+      "zh": "adv. 不寻常地, 异乎寻常地, (非正式)非常",
+      "en": "r. to a remarkable degree or extent",
+      "phonetic": "ʌn'ju:ʒәli",
+      "forms": [
+        "unusually"
+      ],
+      "example": "Observations from 23 countries provided an unusually large dataset.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "dataset",
+      "headword": "dataset",
+      "kind": "word",
+      "zh": "[电] 资料组",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "dataset"
+      ],
+      "example": "Observations from 23 countries provided an unusually large dataset.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "considerable",
+      "headword": "considerable",
+      "kind": "word",
+      "zh": "a. 相当的, 可观的, 重要的",
+      "en": "a. large or relatively large in number or amount or extent or degree",
+      "phonetic": "kәn'sidәrәbl",
+      "forms": [
+        "considerable"
+      ],
+      "example": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "progress",
+      "headword": "progress",
+      "kind": "word",
+      "zh": "n. 进步, 发展, 前进\nvi. 进步, 进行",
+      "en": "n. the act of moving forward (as toward a goal)\nn. a movement forward\nv. develop in a positive way",
+      "phonetic": "'prәugres",
+      "forms": [
+        "progress"
+      ],
+      "example": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "coordinate",
+      "headword": "coordinate",
+      "kind": "word",
+      "zh": "n. 同等的人(或物), 坐标\na. 同等的, 并列的\nv. (使)协调",
+      "en": "n. a number that identifies a position relative to an axis\nv. bring into common action, movement, or condition\nv. be co-ordinated\ns. of equal importance, rank, or degree",
+      "phonetic": "kәu'ɒ:dineit",
+      "forms": [
+        "coordinate"
+      ],
+      "example": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "neighbours",
+      "headword": "neighbour",
+      "kind": "word",
+      "zh": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
+      "en": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to",
+      "phonetic": "'neibә",
+      "forms": [
+        "neighbours"
+      ],
+      "example": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "formations",
+      "headword": "formation",
+      "kind": "word",
+      "zh": "n. 形成, 构造, 编队\n[医] 形成, 结构",
+      "en": "n. an arrangement of people or things acting as a unit\nn. the act of fabricating something in a particular shape\nn. a particular spatial arrangement\nn. natural process that causes something to form",
+      "phonetic": "fɒ:'meiʃәn",
+      "forms": [
+        "formations"
+      ],
+      "example": "But why do starlings gather in such spectacular formations in the first place?",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "explanation",
+      "headword": "explanation",
+      "kind": "word",
+      "zh": "n. 解释, 说明, 辩解, 表明\n[经] 解释, 注释, 说明",
+      "en": "n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.\nn. thought that makes something comprehensible\nn. the act of explaining; making something plain or intelligible",
+      "phonetic": ".eksplә'neiʃәn",
+      "forms": [
+        "explanation"
+      ],
+      "example": "One explanation was that the displays helped attract birds to communal roosts, where gathering in large numbers might provide warmth.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "communal",
+      "headword": "communal",
+      "kind": "word",
+      "zh": "a. 公有的, 公社的\n[法] 公共的, 自治体的, 巴黎公社的",
+      "en": "s. for or by a group rather than individuals\na. relating to a small administrative district or community",
+      "phonetic": "'kɒmjunәl",
+      "forms": [
+        "communal"
+      ],
+      "example": "One explanation was that the displays helped attract birds to communal roosts, where gathering in large numbers might provide warmth.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "warmth",
+      "headword": "warmth",
+      "kind": "word",
+      "zh": "n. 温暖, 温情, 暖和, 激动, 生气",
+      "en": "n. the quality of having a moderate degree of heat",
+      "phonetic": "wɒ:mθ",
+      "forms": [
+        "warmth"
+      ],
+      "example": "One explanation was that the displays helped attract birds to communal roosts, where gathering in large numbers might provide warmth.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "predators",
+      "headword": "predator",
+      "kind": "word",
+      "zh": "n. 食肉动物, 掠夺者\n[医] 捕食者",
+      "en": "n. any animal that lives by preying on other animals",
+      "phonetic": "'predәtә",
+      "forms": [
+        "predators",
+        "predator"
+      ],
+      "example": "Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v73",
+      "term": "peregrine",
+      "headword": "peregrine",
+      "kind": "word",
+      "zh": "a. 流浪的, 移居的, 漫游的, 外国的, 异样的, 异国风味的, 外来的\nn. 寄居外国的人",
+      "en": "n. a widely distributed falcon formerly used in falconry",
+      "phonetic": "'peri^rin",
+      "forms": [
+        "peregrine"
+      ],
+      "example": "Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "falcons",
+      "headword": "falcon",
+      "kind": "word",
+      "zh": "n. 隼, 猎鹰",
+      "en": "n. diurnal birds of prey having long pointed powerful wings adapted for swift flight\nv. hunt with falcons",
+      "phonetic": "'fɒ:lkәn",
+      "forms": [
+        "falcons"
+      ],
+      "example": "Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "sparrowhawks",
+      "headword": "sparrowhawk",
+      "kind": "word",
+      "zh": "雀鹰",
+      "en": "",
+      "phonetic": "",
+      "forms": [
+        "sparrowhawks"
+      ],
+      "example": "Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "dense",
+      "headword": "dense",
+      "kind": "word",
+      "zh": "a. 密集的, 浓厚的",
+      "en": "s. permitting little if any light to pass through because of denseness of matter\ns. hard to pass through because of dense growth\ns. having high relative density or specific gravity\ns. slow to learn or understand; lacking intellectual acuity",
+      "phonetic": "dens",
+      "forms": [
+        "dense"
+      ],
+      "example": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "constantly",
+      "headword": "constantly",
+      "kind": "word",
+      "zh": "adv. 不变地, 不断地, 时常地",
+      "en": "r. without variation or change, in every case\nr. without interruption",
+      "phonetic": "'kɒnstәntli",
+      "forms": [
+        "constantly"
+      ],
+      "example": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "detect",
+      "headword": "detect",
+      "kind": "word",
+      "zh": "vt. 发现, 察觉, 探测\n[法] 发现, 查明, 探测",
+      "en": "v. discover or determine the existence, presence, or fact of",
+      "phonetic": "di'tekt",
+      "forms": [
+        "detect"
+      ],
+      "example": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "danger",
+      "headword": "danger",
+      "kind": "word",
+      "zh": "n. 危险, 威胁\n[法] 危险, 危险物, 危机",
+      "en": "n. the condition of being susceptible to harm or injury\nn. a cause of pain or injury or loss\nn. a dangerous place",
+      "phonetic": "'deindʒә",
+      "forms": [
+        "danger"
+      ],
+      "example": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "avoidance",
+      "headword": "avoidance",
+      "kind": "word",
+      "zh": "n. 避免, 避开, 逃避\n[经] 回避, 废止, 宣告无效",
+      "en": "n. deliberately avoiding; keeping away from or preventing from happening",
+      "phonetic": "ә'vɒidәns",
+      "forms": [
+        "avoidance"
+      ],
+      "example": "Our findings, published in 2017, provided strong support for this predator avoidance explanation.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "warm",
+      "headword": "warm",
+      "kind": "word",
+      "zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物",
+      "en": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive",
+      "phonetic": "wɒ:m",
+      "forms": [
+        "warm"
+      ],
+      "example": "Although we couldn’t establish cause and effect from these observations alone, the evidence suggested that avoiding predators was a major reason for these spectacular displays, with attracting birds to a warm communal roost on cold nights being a secondary factor.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "secondary",
+      "headword": "secondary",
+      "kind": "word",
+      "zh": "a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的\n[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二",
+      "en": "n. the defensive football players who line up behind the linemen\na. being of second rank or importance or value; not direct or immediate\ns. depending on or incidental to what is original or primary\ns. not of major importance",
+      "phonetic": "'sekәndәri",
+      "forms": [
+        "secondary"
+      ],
+      "example": "Although we couldn’t establish cause and effect from these observations alone, the evidence suggested that avoiding predators was a major reason for these spectacular displays, with attracting birds to a warm communal roost on cold nights being a secondary factor.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "seasonal",
+      "headword": "seasonal",
+      "kind": "word",
+      "zh": "a. 季节的, 依照季节的, 周期性的\n[经] 季节性的, 季节的",
+      "en": "a. occurring at or dependent on a particular season",
+      "phonetic": "'si:znәl",
+      "forms": [
+        "seasonal"
+      ],
+      "example": "Our research also revealed a seasonal pattern in murmuration size and duration, with day length associated with how long displays lasted.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "length",
+      "headword": "length",
+      "kind": "word",
+      "zh": "n. 长度, 长, 期间, 一段\n[计] 记录长度; 块长; 字长",
+      "en": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place\nn. the property of being the extent of something from beginning to end\nn. a section of something that is long and narrow",
+      "phonetic": "leŋθ",
+      "forms": [
+        "length"
+      ],
+      "example": "Our research also revealed a seasonal pattern in murmuration size and duration, with day length associated with how long displays lasted.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "Our research also revealed a seasonal pattern in murmuration size and duration, with day length associated with how long displays lasted.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "Our research also revealed a seasonal pattern in murmuration size and duration, with day length associated with how long displays lasted.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v87",
+      "term": "twelve",
+      "headword": "twelve",
+      "kind": "word",
+      "zh": "num. 十二, 十二个",
+      "en": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units",
+      "phonetic": "twelv",
+      "forms": [
+        "twelve"
+      ],
+      "example": "Twelve years later, we are exploring whether those patterns have persisted, and whether the relationships between murmurations, predators and temperatures remain the same.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "exploring",
+      "headword": "explore",
+      "kind": "word",
+      "zh": "v. 探险, 探测, 探究",
+      "en": "v. travel to or penetrate into\nv. examine minutely\nv. examine (organs) for diagnostic purposes",
+      "phonetic": "ik'splɒ:",
+      "forms": [
+        "exploring"
+      ],
+      "example": "Twelve years later, we are exploring whether those patterns have persisted, and whether the relationships between murmurations, predators and temperatures remain the same.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "persisted",
+      "headword": "persist",
+      "kind": "word",
+      "zh": "vi. 坚持, 固执, 持续, 坚称\n[经] 持续",
+      "en": "v. stay behind",
+      "phonetic": "pә'sist",
+      "forms": [
+        "persisted"
+      ],
+      "example": "Twelve years later, we are exploring whether those patterns have persisted, and whether the relationships between murmurations, predators and temperatures remain the same.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "temperatures",
+      "headword": "temperature",
+      "kind": "word",
+      "zh": "n. 温度, 发烧, 热度\n[化] 温度",
+      "en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)\nn. the somatic sensation of cold or heat",
+      "phonetic": "'temprәtʃә",
+      "forms": [
+        "temperatures"
+      ],
+      "example": "Twelve years later, we are exploring whether those patterns have persisted, and whether the relationships between murmurations, predators and temperatures remain the same.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "observers",
+      "headword": "observer",
+      "kind": "word",
+      "zh": "n. 观察者, 遵守者, 观察员\n[法] 观察者, 观察员, 监场员",
+      "en": "n. an expert who observes and comments on something",
+      "phonetic": "әb'zә:vә",
+      "forms": [
+        "observers"
+      ],
+      "example": "By recording where and when they see murmurations, how many birds are involved, how long the displays last and whether predators are present, observers can help us investigate whether this extraordinary behaviour is changing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "investigate",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigate"
+      ],
+      "example": "By recording where and when they see murmurations, how many birds are involved, how long the displays last and whether predators are present, observers can help us investigate whether this extraordinary behaviour is changing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour"
+      ],
+      "example": "By recording where and when they see murmurations, how many birds are involved, how long the displays last and whether predators are present, observers can help us investigate whether this extraordinary behaviour is changing.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "feast",
+      "headword": "feast",
+      "kind": "word",
+      "zh": "n. 宴会, 酒席, 享受, 节日\nvt. 款待, 享乐, 请客\nvi. 参加宴会, 尽情地吃, 享受",
+      "en": "n. something experienced with great delight\nv. partake in a feast or banquet\nv. provide a feast or banquet for",
+      "phonetic": "fi:st",
+      "forms": [
+        "feast"
+      ],
+      "example": "A starling murmuration isn’t just a feast for the eyes.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "sweep",
+      "headword": "sweep",
+      "kind": "word",
+      "zh": "n. 扫除, 打扫, 肃清, 视野, 范围, 全胜\nvt. 扫除, 掸去, 猛拉, 扫荡, 肃清, 冲走, 刮起, 环视, 掠过, 扫射\nvi. 扫, 打扫, 袭击, 席卷, 扫视, 掠过",
+      "en": "n. a wide scope\nn. a long oar used in an open boat\nn. a movement in an arc\nv. move with sweeping, effortless, gliding motions",
+      "phonetic": "swi:p",
+      "forms": [
+        "sweep"
+      ],
+      "example": "As the birds sweep low overhead, you can hear the collective rush of thousands of wings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "overhead",
+      "headword": "overhead",
+      "kind": "word",
+      "zh": "n. 经常开支, 普通用费, 天花板\na. 在头上的, 高架的\nadv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地\n[计] 总开销; 额外开销",
+      "en": "n. (nautical) the top surface of an enclosed space on a ship\nn. a hard return hitting the tennis ball above your head\na. located or originating from above\nr. above your head; in the sky",
+      "phonetic": "'әuvәhed",
+      "forms": [
+        "overhead"
+      ],
+      "example": "As the birds sweep low overhead, you can hear the collective rush of thousands of wings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "collective",
+      "headword": "collective",
+      "kind": "word",
+      "zh": "a. 集体的, 聚集的, 共同的\n[医] 集体的, 集合的",
+      "en": "n. members of a cooperative enterprise\na. forming a whole or aggregate\ns. set up on the principle of collectivism or ownership and production by the workers involved usually under the supervision of a government",
+      "phonetic": "kә'leiktiv",
+      "forms": [
+        "collective"
+      ],
+      "example": "As the birds sweep low overhead, you can hear the collective rush of thousands of wings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "rush",
+      "headword": "rush",
+      "kind": "word",
+      "zh": "n. 匆促, 冲进, 急流, 灯心草\nvi. 冲, 奔, 闯, 赶紧, 匆促行事, 涌现\nvt. 使冲, 匆忙地做, 突袭, 飞跃, 用灯心草做\na. 紧急的",
+      "en": "n. a sudden forceful flow\nn. grasslike plants growing in wet places and having cylindrical often hollow stems\nn. physician and American Revolutionary leader; signer of the Declaration of Independence (1745-1813)\nn. a sudden burst of activity",
+      "phonetic": "rʌʃ",
+      "forms": [
+        "rush"
+      ],
+      "example": "As the birds sweep low overhead, you can hear the collective rush of thousands of wings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "wings",
+      "headword": "wing",
+      "kind": "word",
+      "zh": "n. 翅膀, 翼, 机翼, 派别\nvt. 给...装上翼, 飞过, 使飞, 空运, 增加...速度\nvi. 飞行",
+      "en": "n. a movable organ for flying (one of a pair)\nn. one of the horizontal airfoils on either side of the fuselage of an airplane\nn. a stage area out of sight of the audience\nn. a unit of military aircraft",
+      "phonetic": "wiŋ",
+      "forms": [
+        "wings"
+      ],
+      "example": "As the birds sweep low overhead, you can hear the collective rush of thousands of wings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "sensory",
+      "headword": "sensory",
+      "kind": "word",
+      "zh": "a. 知觉的, 感觉的, 传递感觉的\n[医] 感觉的",
+      "en": "a. involving or derived from the senses",
+      "phonetic": "'sensәri",
+      "forms": [
+        "sensory"
+      ],
+      "example": "And there’s another sensory experience, too: a shower of starling droppings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "shower",
+      "headword": "shower",
+      "kind": "word",
+      "zh": "n. 阵雨, 淋浴, 一阵, 展出者, 显示者\nvi. 淋浴, 下阵雨\nvt. 淋湿, 倾注",
+      "en": "n. a plumbing fixture that sprays water over you\nn. washing yourself by standing upright under water sprayed from a nozzle\nn. a brief period of precipitation\nn. a sudden downpour (as of tears or sparks etc) likened to a rain shower",
+      "phonetic": "'ʃauә",
+      "forms": [
+        "shower"
+      ],
+      "example": "And there’s another sensory experience, too: a shower of starling droppings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "droppings",
+      "headword": "droppings",
+      "kind": "word",
+      "zh": "n. 禽兽的粪便",
+      "en": "n. fecal matter of animals",
+      "phonetic": "",
+      "forms": [
+        "droppings"
+      ],
+      "example": "And there’s another sensory experience, too: a shower of starling droppings.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "somehow",
+      "headword": "somehow",
+      "kind": "word",
+      "zh": "adv. 不知何故",
+      "en": "r. in some unspecified way or manner; or by some unspecified means\nr. for some unspecified reason;",
+      "phonetic": "'sʌmhau",
+      "forms": [
+        "somehow"
+      ],
+      "example": "Somehow, even that adds to the occasion, although we’d recommend taking an umbrella.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "occasion",
+      "headword": "occasion",
+      "kind": "word",
+      "zh": "n. 场合, 时机, 机会, 诱因, 理由\nvt. 惹起, 引起",
+      "en": "n. reason\nn. the time of a particular event\nn. an opportunity to do something\nv. give occasion to",
+      "phonetic": "ә'keiʒәn",
+      "forms": [
+        "occasion"
+      ],
+      "example": "Somehow, even that adds to the occasion, although we’d recommend taking an umbrella.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "recommend",
+      "headword": "recommend",
+      "kind": "word",
+      "zh": "vt. 推荐, 介绍, 劝告, 使受欢迎, 托付\n[经] 建议, 推荐",
+      "en": "v. push for something\nv. make attractive or acceptable",
+      "phonetic": ".rekә'mend",
+      "forms": [
+        "recommend"
+      ],
+      "example": "Somehow, even that adds to the occasion, although we’d recommend taking an umbrella.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "umbrella",
+      "headword": "umbrella",
+      "kind": "word",
+      "zh": "n. 伞, 雨伞, 保护伞\na. 伞的, 包罗万象的\nvt. 用伞遮掩",
+      "en": "n. a lightweight handheld collapsible canopy\nn. a formation of military planes maintained over ground operations or targets\nn. having the function of uniting a group of similar things\ns. covering or applying simultaneously to a number of similar items or elements or groups",
+      "phonetic": "ʌm'brelә",
+      "forms": [
+        "umbrella"
+      ],
+      "example": "Somehow, even that adds to the occasion, although we’d recommend taking an umbrella.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "lucky",
+      "headword": "lucky",
+      "kind": "word",
+      "zh": "a. 幸运的, 吉祥的, 好运的, 侥幸的",
+      "en": "s. occurring by chance\na. having or bringing good fortune",
+      "phonetic": "'lʌki",
+      "forms": [
+        "lucky"
+      ],
+      "example": "If you’re lucky enough to witness a murmuration this autumn or winter, take a moment to enjoy the spectacle and log what you see.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "witness",
+      "headword": "witness",
+      "kind": "word",
+      "zh": "n. 证人, 目击者, 证据, 证词\nvt. 目击, 作证, 证明, 表明\nvi. 作证人, 作为证据",
+      "en": "n. someone who sees an event and reports what happened\nn. testimony by word or deed to your religious faith\nn. (law) a person who attests to the genuineness of a document or signature by adding their own signature\nn. (law) a person who testifies under oath in a court of law",
+      "phonetic": "'witnis",
+      "forms": [
+        "witness"
+      ],
+      "example": "If you’re lucky enough to witness a murmuration this autumn or winter, take a moment to enjoy the spectacle and log what you see.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "spectacle",
+      "headword": "spectacle",
+      "kind": "word",
+      "zh": "n. 引人羡慕的东西, 景象, 眼镜, 场面, 公开展示",
+      "en": "n. something or someone seen (especially a notable or unusual sight)\nn. an elaborate and remarkable display on a lavish scale\nn. a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself",
+      "phonetic": "'spektәkl",
+      "forms": [
+        "spectacle"
+      ],
+      "example": "If you’re lucky enough to witness a murmuration this autumn or winter, take a moment to enjoy the spectacle and log what you see.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      2,
+      7
+    ],
+    "wordBank": [
+      "habitats",
+      "index",
+      "flock",
+      "potentially",
+      "presence",
+      "changing",
+      "progress",
+      "attract",
+      "harnessed",
+      "influence"
+    ],
+    "parts": [
+      {
+        "text": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " are reshaping the lives of many birds. Could these wider changes also be affecting murmurations? By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " in size, timing or location.\n\nAccording to the British Trust for Ornithology, the UK’s breeding starling population declined by 61% between 1995 and 2024. This is part of a wider pattern of bird declines: the UK’s farmland bird population "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " has fallen by 62% since 1970, with intensification of farming playing a major role. But that doesn’t necessarily mean individual murmurations are becoming smaller. Changes in where birds gather, when they arrive and how they behave could all "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " the displays we see each winter.\n\nClimate change may also be playing a part in shifting patterns and timings of murmuration displays. Britain’s winter starling population includes large numbers of birds arriving from continental Europe. As winter conditions change, so might their migration patterns, "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " affecting the timing, location and size of murmurations. Changes in food availability and roosting habitat could also be important.\n\nOur original citizen-science project began in 2014. Working with the Royal Society of Biology, we "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " people power to record murmurations between 2014 and 2016. Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " of any birds of prey. Observations from 23 countries provided an unusually large dataset.\n\nBack then, our main question wasn’t whether murmurations were changing, but why they happened at all. Over the last 20 years, scientists have made considerable "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns. But why do starlings gather in such spectacular formations in the first place?\n\nOne explanation was that the displays helped "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " birds to communal roosts, where gathering in large numbers might provide warmth. Another was that murmurations helped protect starlings from predators such as peregrine falcons and sparrowhawks. Moving together in a dense, constantly changing "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "habitats",
+        "vocabularyId": "v20",
+        "explanation": "原文此处使用 habitats（habitat）。结合上下文辨认词义与词形。",
+        "evidence": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+        "paragraph": 2
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "changing",
+        "vocabularyId": "v28",
+        "explanation": "原文此处使用 changing（change）。结合上下文辨认词义与词形。",
+        "evidence": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+        "paragraph": 2
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "index",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 index（index）。结合上下文辨认词义与词形。",
+        "evidence": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "influence",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 influence（influence）。结合上下文辨认词义与词形。",
+        "evidence": "Changes in where birds gather, when they arrive and how they behave could all influence the displays we see each winter.",
+        "paragraph": 3
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "potentially",
+        "vocabularyId": "v48",
+        "explanation": "原文此处使用 potentially（potentially）。结合上下文辨认词义与词形。",
+        "evidence": "As winter conditions change, so might their migration patterns, potentially affecting the timing, location and size of murmurations.",
+        "paragraph": 4
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "harnessed",
+        "vocabularyId": "v53",
+        "explanation": "原文此处使用 harnessed（harness）。结合上下文辨认词义与词形。",
+        "evidence": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
+        "paragraph": 5
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "presence",
+        "vocabularyId": "v59",
+        "explanation": "原文此处使用 presence（presence）。结合上下文辨认词义与词形。",
+        "evidence": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
+        "paragraph": 5
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "progress",
+        "vocabularyId": "v64",
+        "explanation": "原文此处使用 progress（progress）。结合上下文辨认词义与词形。",
+        "evidence": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
+        "paragraph": 6
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "attract",
+        "vocabularyId": "v4",
+        "explanation": "原文此处使用 attract（attract）。结合上下文辨认词义与词形。",
+        "evidence": "One explanation was that the displays helped attract birds to communal roosts, where gathering in large numbers might provide warmth.",
+        "paragraph": 7
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "flock",
+        "vocabularyId": "v11",
+        "explanation": "原文此处使用 flock（flock）。结合上下文辨认词义与词形。",
+        "evidence": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
+        "paragraph": 7
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The sinking of a large ship creates an artificial reef that marine organisms will gradually colonise.",
+          "Both artificial and natural wetlands can provide important habitat for young turtles.",
+          "New tracking technologies are changing knowledge of bird migration and opportunities for conservation.",
+          "Studying starling murmurations may reveal how spectacular flocking displays change as bird numbers fall."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What change in Britain's breeding starling population is described?",
+        "options": [
+          "Its complete replacement by reptiles",
+          "A dramatic decline over recent decades",
+          "The absence of any population change",
+          "An unbroken increase with no environmental changes"
+        ],
+        "answer": 1,
+        "explanation": "第 2 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
+        "paragraph": 2
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 5?",
+        "options": [
+          "As winter conditions change, so might their migration patterns, potentially affecting the timing, location and size of murmurations.",
+          "If you’re lucky enough to witness a murmuration this autumn or winter, take a moment to enjoy the spectacle and log what you see.",
+          "Climate change may also be playing a part in shifting patterns and timings of murmuration displays.",
+          "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016."
+        ],
+        "answer": 3,
+        "explanation": "定位第 5 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
+        "paragraph": 5
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Murmurations tended to be larger and last longer when predators were present, particularly when they approached or attacked the flock.”",
+        "options": [
+          "Paragraph 2",
+          "Paragraph 8",
+          "Paragraph 11",
+          "Paragraph 13"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 8 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Murmurations tended to be larger and last longer when predators were present, particularly when they approached or attacked the flock.",
+        "paragraph": 8
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“By recording where and when they see murmurations, how many birds are involved, how long the displays last and whether predators are present, observers can help us investigate whether this extraordinary behaviour is changing.”",
+        "options": [
+          "Paragraph 5",
+          "Paragraph 1",
+          "Paragraph 11",
+          "Paragraph 3"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 11 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "By recording where and when they see murmurations, how many birds are involved, how long the displays last and whether predators are present, observers can help us investigate whether this extraordinary behaviour is changing.",
+        "paragraph": 11
+      }
+    ]
+  },
+  "revision": "a7de54d6e82e479d16a8449a92ec0ef5cf4203aeac2a4e7035f340ce601ecf74"
+}

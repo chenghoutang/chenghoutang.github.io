@@ -1,0 +1,1295 @@
+{
+  "schemaVersion": 1,
+  "folder": "056",
+  "articleSha256": "ce4e7a53f3bc20e70f6492394d41b8e8d00846d0b860f5048e1e8d670450e31a",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "mental",
+      "headword": "mental",
+      "kind": "word",
+      "zh": "a. 心智的, 精神病的, 心理的, 颏的\nn. 精神病患者",
+      "en": "a. involving the mind or an intellectual process\na. of or relating to the mind\na. of or relating to the chin- or liplike structure in insects and certain mollusks\ns. affected by a disorder of the mind",
+      "phonetic": "'mentl",
+      "forms": [
+        "mental"
+      ],
+      "example": "Child mental health issues have been rising in the UK over the last decade.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "mental health",
+      "headword": "mental health",
+      "kind": "phrase",
+      "zh": "心理健康",
+      "en": "a person's psychological and emotional well-being",
+      "forms": [
+        "mental health"
+      ],
+      "example": "Child mental health issues have been rising in the UK over the last decade.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v3",
+      "term": "health",
+      "headword": "health",
+      "kind": "word",
+      "zh": "n. 健康, 卫生, 蓬勃, 健康状态\n[医] 健康",
+      "en": "n. a healthy state of wellbeing free from disease\nn. the general condition of body and mind",
+      "phonetic": "'helθ",
+      "forms": [
+        "health"
+      ],
+      "example": "Child mental health issues have been rising in the UK over the last decade.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "exacerbated",
+      "headword": "exacerbate",
+      "kind": "word",
+      "zh": "vt. 使恶化, 使增剧, 激怒, 使加剧",
+      "en": "v. exasperate or irritate",
+      "phonetic": "ek'sæsәbeit",
+      "forms": [
+        "exacerbated"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "pandemic",
+      "headword": "pandemic",
+      "kind": "word",
+      "zh": "a. 大流行的, 普遍的, 全世界的\n[医] 大流行的, 大流行病",
+      "en": "n. an epidemic that is geographically widespread; occurring throughout a region or even throughout the world\ns. epidemic over a wide geographical area\ns. existing everywhere",
+      "phonetic": "pæn'demik",
+      "forms": [
+        "pandemic"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v7",
+      "term": "sedentary",
+      "headword": "sedentary",
+      "kind": "word",
+      "zh": "a. 久坐的, 坐惯的, 定栖的\n[医] 静坐的; 坐式的",
+      "en": "s. requiring sitting or little activity",
+      "phonetic": "'sedәntәri",
+      "forms": [
+        "sedentary"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "lifestyles",
+      "headword": "lifestyle",
+      "kind": "word",
+      "zh": "n. 生活方式",
+      "en": "n a manner of living that reflects the person's values and attitudes",
+      "phonetic": "'laifstail",
+      "forms": [
+        "lifestyles"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "excessive",
+      "headword": "excessive",
+      "kind": "word",
+      "zh": "a. 过度的, 过多的, 极端的\n[法] 过度的, 过分的, 额外的",
+      "en": "s. beyond normal limits\ns. unrestrained, especially with regard to feelings",
+      "phonetic": "ik'sesiv",
+      "forms": [
+        "excessive"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "screen",
+      "headword": "screen",
+      "kind": "word",
+      "zh": "n. 幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子\nvt. 掩蔽, 放映, 拍摄, 掩护, 筛, 甄别\nvi. 拍电影\n[计] 筛选; 屏幕",
+      "en": "n. a white or silvered surface where pictures can be projected for viewing\nn. the display that is electronically created on the surface of the large end of a cathode-ray tube\nn. a covering that serves to conceal or shelter something\nn. a protective covering consisting of netting; can be mounted in a frame",
+      "phonetic": "skri:n",
+      "forms": [
+        "screen"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "screen time",
+      "headword": "screen time",
+      "kind": "phrase",
+      "zh": "使用屏幕的时间",
+      "en": "time spent looking at screens on electronic devices",
+      "forms": [
+        "screen time"
+      ],
+      "example": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v12",
+      "term": "colleagues",
+      "headword": "colleague",
+      "kind": "word",
+      "zh": "n. 同事, 同僚",
+      "en": "n. an associate that one works with\nn. a person who is member of one's class or profession",
+      "phonetic": "'kɒli:g",
+      "forms": [
+        "colleagues"
+      ],
+      "example": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "park",
+      "headword": "park",
+      "kind": "word",
+      "zh": "n. 公园, 停车处\nvt. 停车, 置于\nvi. 停车",
+      "en": "n. a large area of land preserved in its natural state as public property\nn. a piece of open land for recreational use in an urban area\nn. Scottish explorer in Africa (1771-1806)\nn. a gear position that acts as a parking brake",
+      "phonetic": "pɑ:k",
+      "forms": [
+        "park",
+        "parks"
+      ],
+      "example": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "regularly",
+      "headword": "regularly",
+      "kind": "word",
+      "zh": "adv. 有规则地, 一丝不苟地, 正式地",
+      "en": "r. in a regular manner\nr. having a regular form\nr. in a regular way without variation",
+      "phonetic": "'regjulәli",
+      "forms": [
+        "regularly"
+      ],
+      "example": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "measurable",
+      "headword": "measurable",
+      "kind": "word",
+      "zh": "a. 可测量的, 不久的, 重要的",
+      "en": "a. capable of being measured\ns. of distinguished importance",
+      "phonetic": "'meʒәrәbl",
+      "forms": [
+        "measurable"
+      ],
+      "example": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "impact",
+      "headword": "impact",
+      "kind": "word",
+      "zh": "n. 冲击, 冲突, 影响, 效果\nvt. 挤入, 撞击, 压紧, 对...发生影响",
+      "en": "n. the striking of one body against another\nn. a forceful consequence; a strong effect\nv. press or wedge together; pack together",
+      "phonetic": "'impækt",
+      "forms": [
+        "impact"
+      ],
+      "example": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "childhood",
+      "headword": "childhood",
+      "kind": "word",
+      "zh": "n. 孩童时期\n[医] 儿童期",
+      "en": "n. the time of person's life when they are a child\nn. the state of a child between infancy and adolescence",
+      "phonetic": "'tʃaildhud",
+      "forms": [
+        "childhood"
+      ],
+      "example": "Throughout childhood and through adolescence, children are developing their social and emotional skills.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "adolescence",
+      "headword": "adolescence",
+      "kind": "word",
+      "zh": "n. 青春期\n[医] 青年期, 青春期",
+      "en": "n. the time period between the beginning of puberty and adulthood\nn. in the state that someone is in between puberty and adulthood",
+      "phonetic": ".ædәu'lesәns",
+      "forms": [
+        "adolescence"
+      ],
+      "example": "Throughout childhood and through adolescence, children are developing their social and emotional skills.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "emotional",
+      "headword": "emotional",
+      "kind": "word",
+      "zh": "a. 情绪的, 情感的\n[医] 情绪的",
+      "en": "a. determined or actuated by emotion rather than reason\na. of more than usual emotion\na. of or pertaining to emotion",
+      "phonetic": "i'mәuʃәnәl",
+      "forms": [
+        "emotional"
+      ],
+      "example": "Throughout childhood and through adolescence, children are developing their social and emotional skills.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "foundation",
+      "headword": "foundation",
+      "kind": "word",
+      "zh": "n. 基础, 根据, 建立\n[化] 地基",
+      "en": "n. the basis on which something is grounded\nn. an institution supported by an endowment\nn. lowest support of a structure\nn. education or instruction in the fundamentals of a field of knowledge",
+      "phonetic": "faun'deiʃәn",
+      "forms": [
+        "foundation"
+      ],
+      "example": "This social-emotional development provides the foundation for good mental health.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "typical",
+      "headword": "typical",
+      "kind": "word",
+      "zh": "a. 典型的, 象征性的\n[医] 典型的",
+      "en": "a. exhibiting the qualities or characteristics that identify a group or kind or category\ns. conforming to a type",
+      "phonetic": "'tipikl",
+      "forms": [
+        "typical"
+      ],
+      "example": "Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "milestones",
+      "headword": "milestone",
+      "kind": "word",
+      "zh": "n. 里程碑, 里程石, 里程标",
+      "en": "n. stone post at side of a road to show distances\nn. a significant event in your life (or in a project)",
+      "phonetic": "'mailstәun",
+      "forms": [
+        "milestones"
+      ],
+      "example": "Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "friendships",
+      "headword": "friendship",
+      "kind": "word",
+      "zh": "n. 友谊, 友爱, 友善",
+      "en": "n. the state of being friends (or friendly)",
+      "phonetic": "'frendʃip",
+      "forms": [
+        "friendships"
+      ],
+      "example": "Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "indication",
+      "headword": "indication",
+      "kind": "word",
+      "zh": "n. 指示, 象征, 暗示\n[医] 指示, 指征, 适应征",
+      "en": "n. something that serves to indicate or suggest\nn. the act of indicating or pointing out by name\nn. (medicine) a reason to prescribe a drug or perform a procedure\nn. something (as a course of action) that is indicated as expedient or necessary",
+      "phonetic": ".indi'keiʃәn",
+      "forms": [
+        "indication"
+      ],
+      "example": "Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "as well as",
+      "headword": "as well as",
+      "kind": "phrase",
+      "zh": "以及；除……之外还",
+      "en": "in addition to",
+      "forms": [
+        "as well as"
+      ],
+      "example": "Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.",
+      "paragraph": 3,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v26",
+      "term": "facilitate",
+      "headword": "facilitate",
+      "kind": "word",
+      "zh": "vt. 使容易, 促进, 帮助\n[法] 使容易, 使便利, 推进",
+      "en": "v. make easier\nv. increase the likelihood of (a response)",
+      "phonetic": "fә'siliteit",
+      "forms": [
+        "facilitate"
+      ],
+      "example": "This means that finding ways to facilitate and encourage healthy social-emotional development is a way to improve child mental health and give them the foundation for good mental health throughout their lives.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "previous",
+      "headword": "previous",
+      "kind": "word",
+      "zh": "a. 早先的, 前面的, 过急的\n[法] 以前的, 生前的, 前述的",
+      "en": "s. just preceding something else in time or order\ns. too soon or too hasty",
+      "phonetic": "'pri:viәs",
+      "forms": [
+        "previous"
+      ],
+      "example": "Having green and natural spaces close to people’s homes is one factor which previous studies have shown is linked with improved child mental health.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "Having green and natural spaces close to people’s homes is one factor which previous studies have shown is linked with improved child mental health.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "behaviour",
+      "headword": "behaviour",
+      "kind": "word",
+      "zh": "n. 行为, 举止\n[计] 特性, 性能, 特点, 行为, 动作, 状态",
+      "en": "n the action or reaction of something (as a machine or substance) under specified circumstances\nn (behavioral attributes) the way a person behaves toward other people\nn (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation\nn manner of acting or controlling yourself",
+      "phonetic": "bi'heivjә",
+      "forms": [
+        "behaviour",
+        "behaviours"
+      ],
+      "example": "These spaces are thought to improve child mental health by encouraging healthy behaviour.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, they encourage physical activity, socialising and imaginative and adventurous play.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v31",
+      "term": "physical activity",
+      "headword": "physical activity",
+      "kind": "phrase",
+      "zh": "身体活动",
+      "en": "bodily movement that uses energy",
+      "forms": [
+        "physical activity"
+      ],
+      "example": "For example, they encourage physical activity, socialising and imaginative and adventurous play.",
+      "paragraph": 5,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v32",
+      "term": "socialising",
+      "headword": "socialise",
+      "kind": "word",
+      "zh": "vt. 使社会化, 使社会主义化, 使适合社会需要\nvi. (美)(非正式)参加社交活动, 发生社交往来",
+      "en": "v take part in social activities; interact with others\nv train for a social environment\nv prepare for social life\nv make conform to socialist ideas and philosophies",
+      "phonetic": "'sәjʃәlaiz",
+      "forms": [
+        "socialising"
+      ],
+      "example": "For example, they encourage physical activity, socialising and imaginative and adventurous play.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "imaginative",
+      "headword": "imaginative",
+      "kind": "word",
+      "zh": "a. 想像的, 虚构的",
+      "en": "s. (used of persons or artifacts) marked by independence and creativity in thought or action",
+      "phonetic": "i'mædʒinәtiv",
+      "forms": [
+        "imaginative"
+      ],
+      "example": "For example, they encourage physical activity, socialising and imaginative and adventurous play.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "adventurous",
+      "headword": "adventurous",
+      "kind": "word",
+      "zh": "a. 喜欢冒险的, 有进取心的, 危险的",
+      "en": "a. willing to undertake or seeking out new and daring enterprises",
+      "phonetic": "әd'ventʃәrәs",
+      "forms": [
+        "adventurous"
+      ],
+      "example": "For example, they encourage physical activity, socialising and imaginative and adventurous play.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "restorative",
+      "headword": "restorative",
+      "kind": "word",
+      "zh": "a. 恢复健康的, 滋补的\nn. 兴奋药, 补药",
+      "en": "n a medicine that strengthens and invigorates\nn a device for treating injury or disease\ns tending to impart new life and vigor to\ns promoting recuperation",
+      "phonetic": "ri'stɒrәtiv",
+      "forms": [
+        "restorative"
+      ],
+      "example": "Research suggests that being in natural spaces can have restorative and stress-reducing effects for both children and adults.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "cross-sectional",
+      "headword": "cross-sectional",
+      "kind": "word",
+      "zh": "a. 代表性的",
+      "en": "a of or relating to a cross section\ns representing a plane made by cutting across something at right angles to its length",
+      "phonetic": "'krɔs'sekʃənәl",
+      "forms": [
+        "cross-sectional"
+      ],
+      "example": "Much of the research related to green spaces and child mental health has been cross-sectional study designs.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "measurements",
+      "headword": "measurement",
+      "kind": "word",
+      "zh": "n. 尺寸, 度量, 度量单位\n[计] 度量, 度量单位",
+      "en": "n. the act or process of assigning numbers to phenomena according to a rule",
+      "phonetic": "'meʒәdmәnt",
+      "forms": [
+        "measurements"
+      ],
+      "example": "This means that the study measurements are taken at a single point in time, rather than following children over time.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "rather than",
+      "headword": "rather than",
+      "kind": "phrase",
+      "zh": "而不是",
+      "en": "instead of",
+      "forms": [
+        "rather than"
+      ],
+      "example": "This means that the study measurements are taken at a single point in time, rather than following children over time.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v39",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "While these studies are good at discovering factors which are linked to each other, such as natural spaces and child mental health, they cannot determine whether it was the natural space, or other factors that impacted child mental health.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v40",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "residential",
+      "headword": "residential",
+      "kind": "word",
+      "zh": "a. 住宅的, 与居住有关的\n[法] 有关居住的, 房产的:居所的, 适于居住的",
+      "en": "a. used or designed for residence or limited to residences\na. of or relating to or connected with residence",
+      "phonetic": ".rezi'denʃәl",
+      "forms": [
+        "residential"
+      ],
+      "example": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "proximity",
+      "headword": "proximity",
+      "kind": "word",
+      "zh": "n. 接近, 亲近",
+      "en": "n. the property of being close together\nn. the region close around a person or thing\nn. a Gestalt principle of organization holding that (other things being equal) objects or events that are near to one another (in space or time) are perceived as belonging together as a unit",
+      "phonetic": "prɒk'simiti",
+      "forms": [
+        "proximity"
+      ],
+      "example": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "enable",
+      "headword": "enable",
+      "kind": "word",
+      "zh": "vt. 使能够\n[计] 允许, 使能, 打开",
+      "en": "v. render capable or able for some task",
+      "phonetic": "i'neibl",
+      "forms": [
+        "enable"
+      ],
+      "example": "For our study, we chose to focus on visiting parks, as we thought this was likely to enable many of the ways that research has suggested green and natural spaces could improve mental health.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "avon",
+      "headword": "avon",
+      "kind": "word",
+      "zh": "n. 埃文河（英国西南部一河）；雅芳（化妆品品牌）",
+      "en": "n. a river in southwestern England rising in Gloucestershire and flowing through Bristol to empty into the estuary of the Severn\nn. a river in central England that flows through Stratford-on-Avon and empties into the Severn\nn. a county in southwestern England",
+      "phonetic": "'eivɔn",
+      "forms": [
+        "avon"
+      ],
+      "example": "We used data from the Children of the 90s study, also known as Alspac (Avon Longitudinal Study of Parents and Children), where information was collected about 14,062 children born in and around the English city of Bristol from the early 1990s to the present day.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "longitudinal",
+      "headword": "longitudinal",
+      "kind": "word",
+      "zh": "a. 经度的, 经线的, 纵的\n[医] 纵的",
+      "en": "a. of or relating to lines of longitude\ns. running lengthwise\ns. over an extended time",
+      "phonetic": ".lɒndʒi'tju:dinәl",
+      "forms": [
+        "longitudinal"
+      ],
+      "example": "We used data from the Children of the 90s study, also known as Alspac (Avon Longitudinal Study of Parents and Children), where information was collected about 14,062 children born in and around the English city of Bristol from the early 1990s to the present day.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "collected",
+      "headword": "collect",
+      "kind": "word",
+      "zh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地",
+      "en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\nv. call for and obtain payment of\nv. get or bring together\nv. gather or collect",
+      "phonetic": "kә'lekt",
+      "forms": [
+        "collected"
+      ],
+      "example": "We used data from the Children of the 90s study, also known as Alspac (Avon Longitudinal Study of Parents and Children), where information was collected about 14,062 children born in and around the English city of Bristol from the early 1990s to the present day.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "born",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "born"
+      ],
+      "example": "We used data from the Children of the 90s study, also known as Alspac (Avon Longitudinal Study of Parents and Children), where information was collected about 14,062 children born in and around the English city of Bristol from the early 1990s to the present day.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "bristol",
+      "headword": "Bristol",
+      "kind": "word",
+      "zh": "n. 布里斯托尔(英国西部港口)",
+      "en": "n. an industrial city and port in southwestern England near the mouth of the River Avon",
+      "phonetic": "'bristәl",
+      "forms": [
+        "bristol"
+      ],
+      "example": "We used data from the Children of the 90s study, also known as Alspac (Avon Longitudinal Study of Parents and Children), where information was collected about 14,062 children born in and around the English city of Bristol from the early 1990s to the present day.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "circumstances",
+      "headword": "circumstance",
+      "kind": "word",
+      "zh": "n. 环境, 状况, 事件",
+      "en": "n. a condition that accompanies or influences some event or activity\nn. information that should be kept in mind when making a decision\nn. formal ceremony about important occasions",
+      "phonetic": "'sә:kәmstәns",
+      "forms": [
+        "circumstances"
+      ],
+      "example": "We used data on children’s visits to parks, as well as their mental health, behaviours and family circumstances from birth to 11 years old.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "birth",
+      "headword": "birth",
+      "kind": "word",
+      "zh": "n. 出生, 起源\n[医] 生产, 分娩",
+      "en": "n. the time when something begins (especially life)\nn. the event of being born\nn. a baby born; an offspring",
+      "phonetic": "bә:θ",
+      "forms": [
+        "birth"
+      ],
+      "example": "We used data on children’s visits to parks, as well as their mental health, behaviours and family circumstances from birth to 11 years old.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "at least",
+      "headword": "at least",
+      "kind": "phrase",
+      "zh": "至少",
+      "en": "not less than a stated amount",
+      "forms": [
+        "at least"
+      ],
+      "example": "We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v52",
+      "term": "once",
+      "headword": "once",
+      "kind": "word",
+      "zh": "adv. 一次, 曾经, 一旦\nconj. 一旦, 一经\nn. 一次\na. 从前的",
+      "en": "r. on one occasion\nr. as soon as\nr. at a previous time;",
+      "phonetic": "wʌns",
+      "forms": [
+        "once"
+      ],
+      "example": "We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "average",
+      "headword": "average",
+      "kind": "word",
+      "zh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
+      "en": "n. a statistic describing the location of a distribution\nn. (sports) the ratio of successful performances to opportunities\nn. an intermediate scale value regarded as normal or usual\nv. amount to or come to an average, without loss or gain",
+      "phonetic": "'ævәridʒ",
+      "forms": [
+        "average"
+      ],
+      "example": "We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "assessments",
+      "headword": "assessment",
+      "kind": "word",
+      "zh": "n. 评估, 估定, 评定的款额\n[化] 评估",
+      "en": "n. an amount determined as payable\nn. the market value set on assets",
+      "phonetic": "ә'sesmәnt",
+      "forms": [
+        "assessments"
+      ],
+      "example": "We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "repeated",
+      "headword": "repeat",
+      "kind": "word",
+      "zh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复\n[计] 重复",
+      "en": "n. an event that repeats\nv. to say, state, or perform again\nv. to say again or imitate\nv. do over",
+      "phonetic": "ri'pi:t",
+      "forms": [
+        "repeated"
+      ],
+      "example": "As we had repeated measurements of visiting parks and mental health, we were also able to understand the impact of going to parks on specific children, rather than only comparing groups of children who visited more and less.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "display",
+      "headword": "display",
+      "kind": "word",
+      "zh": "n. 显示, 陈列, 炫耀, 显示器\nvt. 陈列, 显示, 表现, 夸示\n[计] 显示器; 显示",
+      "en": "n. something intended to communicate a particular impression\nn. something shown to the public\nn. a visual representation of something\nn. behavior that makes your feelings public",
+      "phonetic": "dis'plei",
+      "forms": [
+        "display",
+        "displays"
+      ],
+      "example": "We found children tended to display better mental health during periods when they went to parks more often compared to when they went less.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "disadvantageous",
+      "headword": "disadvantageous",
+      "kind": "word",
+      "zh": "a. 不利的, 蔑视的, 贬抑的",
+      "en": "a. constituting a disadvantage",
+      "phonetic": ",disædvɑ:n'teidʒәs",
+      "forms": [
+        "disadvantageous"
+      ],
+      "example": "These findings remained after accounting for disadvantageous family circumstances such as poor housing and maternal mental health, which are known to affect child mental health.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "maternal",
+      "headword": "maternal",
+      "kind": "word",
+      "zh": "a. 母亲的, 母系的, 母方的\n[医] 属母的, 母的, 母性的",
+      "en": "a. characteristic of a mother\na. relating to or derived from one's mother",
+      "phonetic": "mә'tә:nl",
+      "forms": [
+        "maternal"
+      ],
+      "example": "These findings remained after accounting for disadvantageous family circumstances such as poor housing and maternal mental health, which are known to affect child mental health.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "unchanged",
+      "headword": "unchanged",
+      "kind": "word",
+      "zh": "a. 无变化的\n[经] 持稳的",
+      "en": "a. not made or become different",
+      "phonetic": ".ʌn'tʃeindʒd",
+      "forms": [
+        "unchanged"
+      ],
+      "example": "The findings were also unchanged when we carried out sensitivity analyses.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "carried out",
+      "headword": "carried out",
+      "kind": "phrase",
+      "zh": "开展了；执行了",
+      "en": "performed a task or investigation",
+      "forms": [
+        "carried out"
+      ],
+      "example": "The findings were also unchanged when we carried out sensitivity analyses.",
+      "paragraph": 12,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v61",
+      "term": "sensitivity",
+      "headword": "sensitivity",
+      "kind": "word",
+      "zh": "n. 敏感, 灵敏度\n[计] 灵敏度",
+      "en": "n. (physiology) responsiveness to external stimuli; the faculty of sensation\nn. the ability to respond to physical stimuli or to register small physical amounts or differences\nn. sensitivity to emotional feelings (of self and others)",
+      "phonetic": ".sensә'tiviti",
+      "forms": [
+        "sensitivity"
+      ],
+      "example": "The findings were also unchanged when we carried out sensitivity analyses.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "elements",
+      "headword": "element",
+      "kind": "word",
+      "zh": "n. 元件, 元素, 要素\n[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元",
+      "en": "n. the most favorable environment for a plant or animal\nn. one of four substances thought in ancient and medieval cosmology to constitute the physical universe\nn. the situation in which you are happiest and most effective\nn. a straight line that generates a cylinder or cone",
+      "phonetic": "'elimәnt",
+      "forms": [
+        "elements"
+      ],
+      "example": "This is where we change elements of the study, such as what measures we include in the statistical model or which study participants we include in the sample, to see if it affects the results.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "statistical",
+      "headword": "statistical",
+      "kind": "word",
+      "zh": "a. 统计的, 统计上的, 统计学的\n[经] 统计的, 统计学的",
+      "en": "a. of or relating to statistics",
+      "phonetic": "stә'tistikl",
+      "forms": [
+        "statistical"
+      ],
+      "example": "This is where we change elements of the study, such as what measures we include in the statistical model or which study participants we include in the sample, to see if it affects the results.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "sample",
+      "headword": "sample",
+      "kind": "word",
+      "zh": "n. 样品, 范例, 样本\nvt. 抽样, 尝试\n[计] 示例, 字样",
+      "en": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of",
+      "phonetic": "'sæmpl",
+      "forms": [
+        "sample"
+      ],
+      "example": "This is where we change elements of the study, such as what measures we include in the statistical model or which study participants we include in the sample, to see if it affects the results.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "consistent",
+      "headword": "consistent",
+      "kind": "word",
+      "zh": "a. 一致的, 坚持的, 并立的, 坚固的",
+      "en": "a. (sometimes followed by `with') in agreement or consistent or reliable\ns. the same throughout in structure or composition",
+      "phonetic": "kәn'sistәnt",
+      "forms": [
+        "consistent"
+      ],
+      "example": "When the results are consistent across sensitivity analyses, this gives more confidence in them.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "confidence",
+      "headword": "confidence",
+      "kind": "word",
+      "zh": "n. 信心\n[电] 可靠",
+      "en": "n. a feeling of trust (in someone or something)\nn. a state of confident hopefulness that events will be favorable\nn. a trustful relationship\nn. a secret that is confided or entrusted to another",
+      "phonetic": "'kɒnfidәns",
+      "forms": [
+        "confidence"
+      ],
+      "example": "When the results are consistent across sensitivity analyses, this gives more confidence in them.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "investigated",
+      "headword": "investigate",
+      "kind": "word",
+      "zh": "v. 调查, 审查",
+      "en": "v. investigate scientifically\nv. conduct an inquiry or investigation of",
+      "phonetic": "in'vestigeit",
+      "forms": [
+        "investigated"
+      ],
+      "example": "We also investigated differences in the frequency of park visits for different groups.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "frequency",
+      "headword": "frequency",
+      "kind": "word",
+      "zh": "n. 频率, 频数\n[计] 频率",
+      "en": "n. the number of occurrences within a given time period\nn. the ratio of the number of observations in a statistical category to the total number of observations\nn. the number of observations in a given statistical category",
+      "phonetic": "'fri:kwәnsi",
+      "forms": [
+        "frequency"
+      ],
+      "example": "We also investigated differences in the frequency of park visits for different groups.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "inequalities",
+      "headword": "inequality",
+      "kind": "word",
+      "zh": "n. 不平等, 不同, 不平坦, 不平均\nn. 不平等, 不等式\n[计] 不等式",
+      "en": "n. lack of equality",
+      "phonetic": ".ini'kwɒliti",
+      "forms": [
+        "inequalities"
+      ],
+      "example": "Our results suggest increasing opportunities to visit parks in childhood could improve children’s mental health and reduce inequalities.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      1,
+      7
+    ],
+    "wordBank": [
+      "previous",
+      "facilitate",
+      "proximity",
+      "measurements",
+      "regularly",
+      "foundation",
+      "behaviour",
+      "restorative",
+      "pandemic",
+      "typically"
+    ],
+    "parts": [
+      {
+        "text": "Child mental health issues have been rising in the UK over the last decade. This was exacerbated by the COVID "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.\n\nIn a new study, colleagues and I have found that visiting a local park "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " had a measurable impact on child mental health.\n\nThroughout childhood and through adolescence, children are developing their social and emotional skills. This social-emotional development provides the "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " for good mental health. Failing to reach typical milestones such as developing social skills and friendships provides an indication of a child’s current mental health, as well as their mental health in later life.\n\nThis means that finding ways to "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " and encourage healthy social-emotional development is a way to improve child mental health and give them the foundation for good mental health throughout their lives.\n\nHaving green and natural spaces close to people’s homes is one factor which "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": " studies have shown is linked with improved child mental health. These spaces are thought to improve child mental health by encouraging healthy "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": ". For example, they encourage physical activity, socialising and imaginative and adventurous play. Research suggests that being in natural spaces can have "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " and stress-reducing effects for both children and adults.\n\nMuch of the research related to green spaces and child mental health has been cross-sectional study designs. This means that the study "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " are taken at a single point in time, rather than following children over time. While these studies are good at discovering factors which are linked to each other, such as natural spaces and child mental health, they cannot determine whether it was the natural space, or other factors that impacted child mental health.\n\nThese studies also "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " measure residential "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " to green and natural spaces, rather than measuring how often children are actually taken to these spaces."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "pandemic",
+        "vocabularyId": "v5",
+        "explanation": "原文此处使用 pandemic（pandemic）。结合上下文辨认词义与词形。",
+        "evidence": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
+        "paragraph": 1
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "regularly",
+        "vocabularyId": "v14",
+        "explanation": "原文此处使用 regularly（regularly）。结合上下文辨认词义与词形。",
+        "evidence": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+        "paragraph": 2
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "foundation",
+        "vocabularyId": "v20",
+        "explanation": "原文此处使用 foundation（foundation）。结合上下文辨认词义与词形。",
+        "evidence": "This social-emotional development provides the foundation for good mental health.",
+        "paragraph": 3
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "facilitate",
+        "vocabularyId": "v26",
+        "explanation": "原文此处使用 facilitate（facilitate）。结合上下文辨认词义与词形。",
+        "evidence": "This means that finding ways to facilitate and encourage healthy social-emotional development is a way to improve child mental health and give them the foundation for good mental health throughout their lives.",
+        "paragraph": 4
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "previous",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 previous（previous）。结合上下文辨认词义与词形。",
+        "evidence": "Having green and natural spaces close to people’s homes is one factor which previous studies have shown is linked with improved child mental health.",
+        "paragraph": 5
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "behaviour",
+        "vocabularyId": "v29",
+        "explanation": "原文此处使用 behaviour（behaviour）。结合上下文辨认词义与词形。",
+        "evidence": "These spaces are thought to improve child mental health by encouraging healthy behaviour.",
+        "paragraph": 5
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "restorative",
+        "vocabularyId": "v35",
+        "explanation": "原文此处使用 restorative（restorative）。结合上下文辨认词义与词形。",
+        "evidence": "Research suggests that being in natural spaces can have restorative and stress-reducing effects for both children and adults.",
+        "paragraph": 5
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "measurements",
+        "vocabularyId": "v37",
+        "explanation": "原文此处使用 measurements（measurement）。结合上下文辨认词义与词形。",
+        "evidence": "This means that the study measurements are taken at a single point in time, rather than following children over time.",
+        "paragraph": 6
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "typically",
+        "vocabularyId": "v40",
+        "explanation": "原文此处使用 typically（typically）。结合上下文辨认词义与词形。",
+        "evidence": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
+        "paragraph": 7
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "proximity",
+        "vocabularyId": "v42",
+        "explanation": "原文此处使用 proximity（proximity）。结合上下文辨认词义与词形。",
+        "evidence": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
+        "paragraph": 7
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "Regular park visits are associated with measurable differences in children's mental health.",
+          "Schools can reduce some learning gaps while advantages linked to family wealth persist.",
+          "Adults' responses to risk and mess can limit the benefits children gain from outdoor play.",
+          "Science curricula often overlook women whose work helped shape scientific knowledge."
+        ],
+        "answer": 0,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+        "paragraph": 2
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "What did the park study examine?",
+        "options": [
+          "Only the number of cars sold in a city",
+          "The effects of deep-space travel on adults",
+          "The relationship between regular local park visits and child mental health",
+          "Whether parks can replace every school subject"
+        ],
+        "answer": 2,
+        "explanation": "第 2 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+        "paragraph": 2
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 6?",
+        "options": [
+          "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
+          "Much of the research related to green spaces and child mental health has been cross-sectional study designs.",
+          "Child mental health issues have been rising in the UK over the last decade.",
+          "We found children tended to display better mental health during periods when they went to parks more often compared to when they went less."
+        ],
+        "answer": 1,
+        "explanation": "定位第 6 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Much of the research related to green spaces and child mental health has been cross-sectional study designs.",
+        "paragraph": 6
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.”",
+        "options": [
+          "Paragraph 10",
+          "Paragraph 5",
+          "Paragraph 3",
+          "Paragraph 11"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 10 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "We found that children who were taken to the park at least once a week from six months to 11 years old scored, on average, 16.5% better on their mental health assessments compared to those who were taken less than once a week over the same period.",
+        "paragraph": 10
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“Children from more advantaged families were taken to parks more often when they were younger, but as children got older this pattern changed.”",
+        "options": [
+          "Paragraph 2",
+          "Paragraph 13",
+          "Paragraph 7",
+          "Paragraph 15"
+        ],
+        "answer": 1,
+        "explanation": "这句话位于第 13 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "Children from more advantaged families were taken to parks more often when they were younger, but as children got older this pattern changed.",
+        "paragraph": 13
+      }
+    ]
+  },
+  "revision": "8e7f0dee9f42c3283d3097b04d35749f3ab6f07617810b2ccddf87ae3ff8b581"
+}

@@ -1,0 +1,2012 @@
+{
+  "schemaVersion": 1,
+  "folder": "085",
+  "articleSha256": "9fdae7f86cc23300befd6b5c3d33c3d7b52f050d36ca8422b47424235377637b",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "archives",
+      "headword": "archive",
+      "kind": "word",
+      "zh": "vt. 把...存档\nn. 档案馆, 档案文件\n[计] 挡案库, 存档",
+      "en": "n. a depository containing historical records and documents\nv. put into an archive",
+      "phonetic": "'ɑ:kaiv",
+      "forms": [
+        "archives",
+        "archive"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "dusty",
+      "headword": "dusty",
+      "kind": "word",
+      "zh": "a. 灰尘多的, 无聊的, 含糊的, 粉末状的",
+      "en": "s. covered with a layer of dust",
+      "phonetic": "'dʌsti",
+      "forms": [
+        "dusty"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "documents",
+      "headword": "document",
+      "kind": "word",
+      "zh": "n. 文件, 公文, 文档\nvt. 证明, 为...引证\n[计] 文档",
+      "en": "n. writing that provides information (especially information of an official nature)\nn. anything serving as a representation of a person's thinking by means of symbolic marks\nn. a written account of ownership or obligation\nv. record in detail",
+      "phonetic": "'dɒkjumәnt",
+      "forms": [
+        "documents"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "diaries",
+      "headword": "diary",
+      "kind": "word",
+      "zh": "n. 日记\n[经] 日记簿",
+      "en": "n. a daily written record of (usually personal) experiences and observations\nn. a personal journal (as a physical object)",
+      "phonetic": "'daiәri",
+      "forms": [
+        "diaries"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "flyers",
+      "headword": "flyer",
+      "kind": "word",
+      "zh": "n. 飞鸟, 飞行物, 飞行员, 快车, 传单, 飞跳\n[经] 投机买卖, 孤注一掷, (广告)传单",
+      "en": "n an advertisement (usually printed on a page or in a leaflet) intended for wide distribution\nn someone who travels by air\nn someone who operates an aircraft\ns (British informal) not to be deceived or hoodwinked",
+      "phonetic": "'flaiә",
+      "forms": [
+        "flyers"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "filed",
+      "headword": "file",
+      "kind": "word",
+      "zh": "n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀\nvi. 列队行进, 用锉刀做\nvt. 归档, 申请, 锉, 琢磨\n[计] 文件",
+      "en": "n. a set of related records (either written or electronic) kept together\nn. a line of persons or things ranged one behind the other\nn. office furniture consisting of a container for keeping papers in order\nn. a steel hand tool with small sharp teeth on some or all of its surfaces; used for smoothing wood or metal",
+      "phonetic": "fail",
+      "forms": [
+        "filed",
+        "file",
+        "files"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "storage",
+      "headword": "storage",
+      "kind": "word",
+      "zh": "n. 存储器, 储藏, 保管, 库存, 仓库\n[计] 存放处; 存储",
+      "en": "n. the act of storing something\nn. the commercial enterprise of storing goods and materials\nn. (computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
+      "phonetic": "'stɒ:ridʒ",
+      "forms": [
+        "storage"
+      ],
+      "example": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "increasingly",
+      "headword": "increasingly",
+      "kind": "word",
+      "zh": "adv. 逐渐地, 渐增地",
+      "en": "r. advancing in amount or intensity",
+      "phonetic": "in'kri:siŋli",
+      "forms": [
+        "increasingly"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "archival",
+      "headword": "archival",
+      "kind": "word",
+      "zh": "a. 档案的, 档案中的",
+      "en": "a. of or relating to or contained in or serving as an archive",
+      "phonetic": "ɑ: 'kaivәl",
+      "forms": [
+        "archival"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v10",
+      "term": "digital",
+      "headword": "digital",
+      "kind": "word",
+      "zh": "a. 数字显示的, 数字的\nn. 数字仪表, 数字式电子表(或时钟)\n[计] 数字, 数字式",
+      "en": "a. displaying numbers rather than scale positions\na. relating to or performed with the fingers\na. of a circuit or device that represents magnitudes in digits",
+      "phonetic": "'didʒitәl",
+      "forms": [
+        "digital"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "formats",
+      "headword": "format",
+      "kind": "word",
+      "zh": "n. 开本, 版式, 形式, 格式\nvt. 格式化\n[计] 格式; DOS外部命令:对磁盘进行格式化",
+      "en": "n. the organization of information according to preset specifications (usually for computer processing)\nn. the general appearance of a publication\nv. set (printed matter) into a specific format\nv. determine the arrangement of (data) for storage and display (in computer science)",
+      "phonetic": "'fɒ:mæt",
+      "forms": [
+        "formats",
+        "format"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "floppy",
+      "headword": "floppy",
+      "kind": "word",
+      "zh": "a. 叭嗒叭嗒响的, 松软的",
+      "en": "s. hanging limply",
+      "phonetic": "'flɒpi",
+      "forms": [
+        "floppy"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "floppy disks",
+      "headword": "floppy disks",
+      "kind": "phrase",
+      "zh": "软盘",
+      "en": "older removable magnetic storage media",
+      "forms": [
+        "floppy disks"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v14",
+      "term": "disks",
+      "headword": "disk",
+      "kind": "word",
+      "zh": "n. 圆盘, 磁盘\n[计] 磁盘",
+      "en": "n. something with a round shape resembling a flat circular plate\nn. a flat circular plate",
+      "phonetic": "disk",
+      "forms": [
+        "disks",
+        "disk"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "cd-roms",
+      "headword": "CD-ROM",
+      "kind": "word",
+      "zh": "n. 光盘驱动器",
+      "en": "n a compact disk that is used with a computer (rather than with an audio system); a large amount of digital information can be stored and accessed but it cannot be altered by the user",
+      "phonetic": "si:di:'rɔm",
+      "forms": [
+        "cd-roms",
+        "cd-rom"
+      ],
+      "example": "But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "aging",
+      "headword": "aging",
+      "kind": "word",
+      "zh": "n. 老化, 变陈\n[计] 老化, 陈化",
+      "en": "n. the organic process of growing older and showing the effects of increasing age\ns. growing old",
+      "phonetic": "'eidʒiŋ",
+      "forms": [
+        "aging"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "outdated",
+      "headword": "outdate",
+      "kind": "word",
+      "zh": "vt. 使过时",
+      "en": "",
+      "phonetic": ".aut'deit",
+      "forms": [
+        "outdated"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "rendered",
+      "headword": "render",
+      "kind": "word",
+      "zh": "vt. 回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施\nvi. 给予补偿\nn. 交纳, 打底",
+      "en": "n. a substance similar to stucco but exclusively applied to masonry walls\nv. cause to become\nv. give or supply\nv. pass down",
+      "phonetic": "'rendә",
+      "forms": [
+        "rendered"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "cultural heritage",
+      "headword": "cultural heritage",
+      "kind": "phrase",
+      "zh": "文化遗产",
+      "en": "cultural resources inherited from the past",
+      "forms": [
+        "cultural heritage"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v20",
+      "term": "heritage",
+      "headword": "heritage",
+      "kind": "word",
+      "zh": "n. 遗产, 祖先遗留物, 继承物\n[医] 遗传性",
+      "en": "n. practices that are handed down from the past by tradition",
+      "phonetic": "'heritidʒ",
+      "forms": [
+        "heritage"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "inaccessible",
+      "headword": "inaccessible",
+      "kind": "word",
+      "zh": "a. 难得到的, 难接近的, 难达成的",
+      "en": "a. capable of being reached only with great difficulty or not at all\ns. not capable of being obtained",
+      "phonetic": ".inæk'sesәbl",
+      "forms": [
+        "inaccessible"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "at risk",
+      "headword": "at risk",
+      "kind": "phrase",
+      "zh": "处于风险中",
+      "en": "in danger of being harmed",
+      "forms": [
+        "at risk"
+      ],
+      "example": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost.",
+      "paragraph": 2,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v23",
+      "term": "constant",
+      "headword": "constant",
+      "kind": "word",
+      "zh": "n. 常数, 恒量\na. 不变的, 一定的, 时常的\n[计] 常量; 常数; 恒值",
+      "en": "n. a quantity that does not vary\nn. a number representing a quantity assumed to have a fixed value in a specified mathematical context\na. steadfast in purpose or devotion or affection",
+      "phonetic": "'kɒnstәnt",
+      "forms": [
+        "constant"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "churn",
+      "headword": "churn",
+      "kind": "word",
+      "zh": "n. 搅乳器\nv. 搅拌, 搅动",
+      "en": "n. a vessel in which cream is agitated to separate butterfat from buttermilk\nv. stir (cream) vigorously in order to make butter\nv. be agitated",
+      "phonetic": "tʃә:n",
+      "forms": [
+        "churn"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "computer",
+      "headword": "computer",
+      "kind": "word",
+      "zh": "n. 电脑, 电子计算机\n[计] 计算机",
+      "en": "n. a machine for performing calculations automatically",
+      "phonetic": "kәm'pju:tә",
+      "forms": [
+        "computer"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "hardware",
+      "headword": "hardware",
+      "kind": "word",
+      "zh": "n. 硬件, 五金器具, 零件\n[计] 硬件",
+      "en": "n. major items of military weaponry (as tanks or missile)\nn. instrumentalities (tools or implements) made of metal\nn. (computer science) the mechanical, magnetic, electronic, and electrical components making up a computer system",
+      "phonetic": "'hɑ:dwєә",
+      "forms": [
+        "hardware"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "software",
+      "headword": "software",
+      "kind": "word",
+      "zh": "n. 软件\n[计] 软设备",
+      "en": "n. (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
+      "phonetic": "'sɒftwєә",
+      "forms": [
+        "software"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "upgrades",
+      "headword": "upgrade",
+      "kind": "word",
+      "zh": "n. 上坡, 升级, 上升\nadv. 往上\nvt. 使升级, 提升, 改良品种\nvi. 升级\n[计] 升级",
+      "en": "n. software that provides better performance than an earlier version did\nn. a reservation that is improved\nn. the property possessed by a slope or surface that rises\nn. hardware that provides better performance than an earlier version did",
+      "phonetic": "'ʌpgreid",
+      "forms": [
+        "upgrades"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "content",
+      "headword": "content",
+      "kind": "word",
+      "zh": "n. 内容, 满足, 意义, 要旨\na. 满足的, 满意的\nvt. 使...满足, 使...安心\n[计] 内容",
+      "en": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way",
+      "phonetic": "kәn'tent",
+      "forms": [
+        "content",
+        "contents"
+      ],
+      "example": "The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "everyday",
+      "headword": "everyday",
+      "kind": "word",
+      "zh": "a. 每天的, 日常的, 平常的",
+      "en": "s. found in the ordinary course of events\ns. commonplace and ordinary",
+      "phonetic": "'evri'dei",
+      "forms": [
+        "everyday"
+      ],
+      "example": "We know so little about what everyday people used computers for when they first became available.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "narratives",
+      "headword": "narrative",
+      "kind": "word",
+      "zh": "n. 叙述, 故事\na. 叙述的, 叙事的, 故事体的",
+      "en": "n. a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program\ns. consisting of or characterized by the telling of a story",
+      "phonetic": "'nærәtiv",
+      "forms": [
+        "narratives"
+      ],
+      "example": "This means we don’t exactly know what we might be losing – family narratives, unpublished memoirs and other important records.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "unpublished",
+      "headword": "unpublished",
+      "kind": "word",
+      "zh": "a. 未公开出版的；未发表过的",
+      "en": "a. not published",
+      "phonetic": ".ʌn'pʌbliʃt",
+      "forms": [
+        "unpublished"
+      ],
+      "example": "This means we don’t exactly know what we might be losing – family narratives, unpublished memoirs and other important records.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "memoirs",
+      "headword": "memoir",
+      "kind": "word",
+      "zh": "n. 传记, 实录, 追思录, 回忆录, 自传\n[化] 研究报告",
+      "en": "n. an account of the author's personal experiences\nn. an essay on a scientific or scholarly topic",
+      "phonetic": "'memwɑ:",
+      "forms": [
+        "memoirs"
+      ],
+      "example": "This means we don’t exactly know what we might be losing – family narratives, unpublished memoirs and other important records.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "history",
+      "headword": "history",
+      "kind": "word",
+      "zh": "n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录\n[计] 历史记录",
+      "en": "n. the aggregate of past events\nn. a record or narrative description of past events\nn. the discipline that records and interprets past events involving human beings\nn. the continuum of events occurring in succession leading from the past to the present and even into the future",
+      "phonetic": "'histәri",
+      "forms": [
+        "history"
+      ],
+      "example": "So much of our history is now stored on outmoded digital platforms.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "outmoded",
+      "headword": "outmode",
+      "kind": "word",
+      "zh": "vt. 使…过时；使…不流行",
+      "en": "v. make unfashionable, outdated, or obsolete",
+      "phonetic": ".aut'mәud",
+      "forms": [
+        "outmoded"
+      ],
+      "example": "So much of our history is now stored on outmoded digital platforms.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "platforms",
+      "headword": "platform",
+      "kind": "word",
+      "zh": "n. 站台, 月台, 讲台, 论坛, 平台\n[计] 平台",
+      "en": "n. a raised horizontal surface\nn. a document stating the aims and principles of a political party\nn. the combination of a particular computer and a particular operating system\nn. any military structure or vehicle bearing weapons",
+      "phonetic": "'plætfɒ:m",
+      "forms": [
+        "platforms"
+      ],
+      "example": "So much of our history is now stored on outmoded digital platforms.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "combat",
+      "headword": "combat",
+      "kind": "word",
+      "zh": "n. 争斗, 战斗\nvi. 战斗, 争斗\nvt. 与...战斗, 与...斗争",
+      "en": "n. an engagement fought between two military forces",
+      "phonetic": "'kɒmbæt",
+      "forms": [
+        "combat"
+      ],
+      "example": "To help combat this, we recently worked with members of the Royal Historical Society of Victoria to archive their own materials.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "royal",
+      "headword": "royal",
+      "kind": "word",
+      "zh": "n. 王室, 皇族\na. 王室的, 皇家的, 盛大的, 庄严的",
+      "en": "n. a sail set next above the topgallant on a royal mast\nn. stag with antlers of 12 or more branches\na. of or relating to or indicative of or issued or performed by a king or queen or other monarch\na. established or chartered or authorized by royalty",
+      "phonetic": "'rɒiәl",
+      "forms": [
+        "royal"
+      ],
+      "example": "To help combat this, we recently worked with members of the Royal Historical Society of Victoria to archive their own materials.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "historical",
+      "headword": "historical",
+      "kind": "word",
+      "zh": "a. 历史的, 史实的, 历史上的\n[法] 历史性的",
+      "en": "a. of or relating to the study of history\ns. having once lived or existed or taken place in the real world as distinct from being legendary",
+      "phonetic": "hi'stɒrikәl",
+      "forms": [
+        "historical"
+      ],
+      "example": "To help combat this, we recently worked with members of the Royal Historical Society of Victoria to archive their own materials.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v40",
+      "term": "born",
+      "headword": "bear",
+      "kind": "word",
+      "zh": "n. 熊\nvt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价\nvi. 忍受, 结果实, 压挤, 行进, 转向",
+      "en": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting",
+      "phonetic": "bєә",
+      "forms": [
+        "born"
+      ],
+      "example": "“Born digital” content is artefacts that have been created using a computer.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "contemporary",
+      "headword": "contemporary",
+      "kind": "word",
+      "zh": "n. 同时代的人\na. 同时代的, 属于同一时期的",
+      "en": "n. a person of nearly the same age as another\ns. characteristic of the present\ns. belonging to the present time",
+      "phonetic": "kәn'tempәrәri",
+      "forms": [
+        "contemporary"
+      ],
+      "example": "New computers don’t include CD-ROM drives, let alone floppy drives, and a lot of older software will not run on contemporary operating systems.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "operating",
+      "headword": "operate",
+      "kind": "word",
+      "zh": "v. 操作, 运转, 动手术, 活动",
+      "en": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen",
+      "phonetic": "'ɒpәreit",
+      "forms": [
+        "operating"
+      ],
+      "example": "New computers don’t include CD-ROM drives, let alone floppy drives, and a lot of older software will not run on contemporary operating systems.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "deteriorating",
+      "headword": "deteriorate",
+      "kind": "word",
+      "zh": "v. (使)恶化",
+      "en": "v. become worse or disintegrate",
+      "phonetic": "di'tiәriәreit",
+      "forms": [
+        "deteriorating"
+      ],
+      "example": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "alarming",
+      "headword": "alarm",
+      "kind": "word",
+      "zh": "n. 惊恐, 警报, 警钟\nvt. 使惊恐, 警告\n[计] 报警信号",
+      "en": "n. fear resulting from the awareness of danger\nn. a device that signals the occurrence of some undesirable event\nn. an automatic signal (usually a sound) warning of danger\nv. warn or arouse to a sense of danger or call to a state of preparedness",
+      "phonetic": "ә'lɑ:m",
+      "forms": [
+        "alarming"
+      ],
+      "example": "CD-ROMs and floppy disks fail at alarming rates: in one study, only 8% of old CD-ROMs could be read today.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "artefacts",
+      "headword": "artefact",
+      "kind": "word",
+      "zh": "n. 人工制品, 制造物, 人为现象, 膺象, 矫作物, 古代文物\n[医] 人为现象, 人工产物",
+      "en": "n a man-made object taken as a whole",
+      "phonetic": "'ɑ:tifækt",
+      "forms": [
+        "artefacts"
+      ],
+      "example": "“Born digital” content is artefacts that have been created using a computer.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "save",
+      "headword": "save",
+      "kind": "word",
+      "zh": "n. 救球\nvt. 解救, 挽救, 储蓄, 保存, 节省, 保留\nvi. 挽救, 节省, 救球\nprep. 除...之外\n[计] 保存",
+      "en": "n. (sports) the act of preventing the opposition from scoring\nv. to keep up and reserve for personal or special use\nv. bring into safety\nv. spend less; buy at a reduced price",
+      "phonetic": "seiv",
+      "forms": [
+        "save"
+      ],
+      "example": "If we don’t save this content, it will not be available for future use.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "preserving",
+      "headword": "preserve",
+      "kind": "word",
+      "zh": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+      "en": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
+      "phonetic": "pri'zә:v",
+      "forms": [
+        "preserving",
+        "preserve"
+      ],
+      "example": "Our research is concerned with preserving the born digital, from Australian videogames of the 1980s and 1990s to interactive artworks.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v48",
+      "term": "australian",
+      "headword": "Australian",
+      "kind": "word",
+      "zh": "n. 澳大利亚人\na. 澳大利亚的, 澳洲的, 澳洲人的",
+      "en": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages",
+      "phonetic": "ɒ'streiljәn",
+      "forms": [
+        "australian"
+      ],
+      "example": "Our research is concerned with preserving the born digital, from Australian videogames of the 1980s and 1990s to interactive artworks.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "interactive",
+      "headword": "interactive",
+      "kind": "word",
+      "zh": "a. 相互作用的, 相互影响的\n[计] 交互, 人机对话的",
+      "en": "a used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)\ns capable of acting on or influencing each other",
+      "phonetic": ",intәr'æktiv",
+      "forms": [
+        "interactive"
+      ],
+      "example": "Our research is concerned with preserving the born digital, from Australian videogames of the 1980s and 1990s to interactive artworks.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "artworks",
+      "headword": "artwork",
+      "kind": "word",
+      "zh": "n. 插图, 艺术作品\n[计] 原图",
+      "en": "n. photographs or other visual representations in a printed publication",
+      "phonetic": "'ɑ:twә:k",
+      "forms": [
+        "artworks"
+      ],
+      "example": "Our research is concerned with preserving the born digital, from Australian videogames of the 1980s and 1990s to interactive artworks.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v51",
+      "term": "digital preservation",
+      "headword": "digital preservation",
+      "kind": "phrase",
+      "zh": "数字保存",
+      "en": "maintaining access to digital information over time",
+      "forms": [
+        "digital preservation"
+      ],
+      "example": "There are three main steps in our digital preservation workflow.",
+      "paragraph": 10,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v52",
+      "term": "preservation",
+      "headword": "preservation",
+      "kind": "word",
+      "zh": "n. 保存, 保藏, 保护\n[医] 保藏, 保存, 防腐",
+      "en": "n. the activity of protecting something from loss or danger\nn. the condition of being (well or ill) preserved\nn. a process that saves organic substances from decay",
+      "phonetic": ".prezә'veiʃәn",
+      "forms": [
+        "preservation"
+      ],
+      "example": "There are three main steps in our digital preservation workflow.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "workflow",
+      "headword": "workflow",
+      "kind": "word",
+      "zh": "工作流程",
+      "en": "n progress (or rate of progress) in work being done",
+      "phonetic": "'wɜ:kfləʊ",
+      "forms": [
+        "workflow"
+      ],
+      "example": "There are three main steps in our digital preservation workflow.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "vintage",
+      "headword": "vintage",
+      "kind": "word",
+      "zh": "n. 酒, 葡萄收获(期、量), 酿酒\nv. 采葡萄\na. 佳酿的, 古典的, 老式的",
+      "en": "n. a season's yield of wine from a vineyard\nn. the oldness of wines",
+      "phonetic": "'vintidʒ",
+      "forms": [
+        "vintage"
+      ],
+      "example": "Using vintage and restored drives, we can read floppy disks, CD-ROMs and Zip disks.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "restored",
+      "headword": "restore",
+      "kind": "word",
+      "zh": "vt. 回复, 恢复, 归还, 修补, 修复\nvt. 还原\nvi. 还原\n[计] 还原; DOS外部命令:从备份盘中取回文件",
+      "en": "v. return to its original or usable and functioning condition\nv. give or bring back\nv. bring back into original existence, use, function, or position",
+      "phonetic": "ri'stɒ:",
+      "forms": [
+        "restored"
+      ],
+      "example": "Using vintage and restored drives, we can read floppy disks, CD-ROMs and Zip disks.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "copy",
+      "headword": "copy",
+      "kind": "word",
+      "zh": "n. 副本, 摹仿, 一册\nv. 复印, 抄袭, 复制\n[计] 副本; 复制; DOS内部命令:复制文件\n将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送",
+      "en": "n. a thing made to be similar or identical to another thing\nn. matter to be printed; exclusive of graphical materials\nn. material suitable for a journalistic account\nv. copy down as is",
+      "phonetic": "'kɒpi",
+      "forms": [
+        "copy",
+        "copied"
+      ],
+      "example": "We then make a “bit-perfect” copy – a single file which holds the entire contents, including all hidden or unused sections, of the disk.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "hidden",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hidden"
+      ],
+      "example": "We then make a “bit-perfect” copy – a single file which holds the entire contents, including all hidden or unused sections, of the disk.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "unused",
+      "headword": "unused",
+      "kind": "word",
+      "zh": "a. 不用的, 不在使用的, 从未用过的",
+      "en": "s. not yet put into use\ns. infrequently exposed to",
+      "phonetic": ".ʌn'ju:zd",
+      "forms": [
+        "unused"
+      ],
+      "example": "We then make a “bit-perfect” copy – a single file which holds the entire contents, including all hidden or unused sections, of the disk.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "analyse",
+      "headword": "analyse",
+      "kind": "word",
+      "zh": "vt. 分析, 细察, 分解\n[经] 分析",
+      "en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\nv break down into components or essential features\nv make a mathematical, chemical, or grammatical analysis of; break down into components or essential features\nv subject to psychoanalytic treatment",
+      "phonetic": "'ænәlaiz",
+      "forms": [
+        "analyse"
+      ],
+      "example": "Analyse the content. Sometimes, all that’s needed is a computer’s native file explorer. At other times, additional software may be needed to view the file names and types stored on the disk.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "native",
+      "headword": "native",
+      "kind": "word",
+      "zh": "n. 本地人, 土产, 当地人\na. 本国的, 与生俱来的, 自然的",
+      "en": "n. an indigenous person who was born in a particular place\nn. a person born in a particular place or country\nn. indigenous plants and animals\na. characteristic of or existing by virtue of geographic origin",
+      "phonetic": "'neitiv",
+      "forms": [
+        "native"
+      ],
+      "example": "Sometimes, all that’s needed is a computer’s native file explorer.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v61",
+      "term": "explorer",
+      "headword": "explorer",
+      "kind": "word",
+      "zh": "n. 探险家, 探测者, 勘探器\n[医] 探察器",
+      "en": "n. someone who travels into little known regions (especially for some scientific purpose)",
+      "phonetic": "ik'splɒ:rә",
+      "forms": [
+        "explorer"
+      ],
+      "example": "Sometimes, all that’s needed is a computer’s native file explorer.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "additional",
+      "headword": "additional",
+      "kind": "word",
+      "zh": "a. 附加的, 另外的, 额外的\n[机] 加添的, 附加的",
+      "en": "s further or added",
+      "phonetic": "ә'diʃәnәl",
+      "forms": [
+        "additional"
+      ],
+      "example": "At other times, additional software may be needed to view the file names and types stored on the disk.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "cloud",
+      "headword": "cloud",
+      "kind": "word",
+      "zh": "n. 云, 阴暗, 烟雾, 疑团\nvt. 以云遮敝, 笼罩, 使黯然\nvi. 乌云密布, 阴沉",
+      "en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble",
+      "phonetic": "klaud",
+      "forms": [
+        "cloud"
+      ],
+      "example": "Freed from the need for old hardware drives to open them, the disk image files can be stored on hard drives, cloud storage or added to content management systems.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "ongoing",
+      "headword": "ongoing",
+      "kind": "word",
+      "zh": "a. 前进的, 进行的, 不间断的\nn. 前进, 发展",
+      "en": "s. currently happening",
+      "phonetic": "'ɒngәuiŋ",
+      "forms": [
+        "ongoing"
+      ],
+      "example": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "careful",
+      "headword": "careful",
+      "kind": "word",
+      "zh": "a. 小心的, 谨慎的",
+      "en": "a. exercising caution or showing care or attention\ns. cautiously attentive\ns. unhurried and with care and dignity\ns. full of cares or anxiety",
+      "phonetic": "'kєәful",
+      "forms": [
+        "careful"
+      ],
+      "example": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "stewardship",
+      "headword": "stewardship",
+      "kind": "word",
+      "zh": "n. steward的职务, 管理工作",
+      "en": "n. the position of steward",
+      "phonetic": "'stju:wәdʃip",
+      "forms": [
+        "stewardship"
+      ],
+      "example": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "liberated",
+      "headword": "liberate",
+      "kind": "word",
+      "zh": "vt. 解放, 释放, 使自由\n[机] 释出, 放出",
+      "en": "v. grant freedom to",
+      "phonetic": "'libәreit",
+      "forms": [
+        "liberated"
+      ],
+      "example": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "recovered",
+      "headword": "recover",
+      "kind": "word",
+      "zh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉\n[计] 恢复",
+      "en": "v. get or find back; recover the use of\nv. regain a former condition after a financial loss\nv. regain or make up for\nv. cover anew",
+      "phonetic": "ri'kʌvә",
+      "forms": [
+        "recovered"
+      ],
+      "example": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v69",
+      "term": "migrated",
+      "headword": "migrate",
+      "kind": "word",
+      "zh": "vi. 移动, 移往, 随季节而移居\n[计] 迁移程序",
+      "en": "v. move from one country or region to another and settle there\nv. move periodically or seasonally",
+      "phonetic": "'maigreit",
+      "forms": [
+        "migrated"
+      ],
+      "example": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "galleries",
+      "headword": "gallery",
+      "kind": "word",
+      "zh": "n. 走廊, 最高楼座, 画廊, 收集, 图库\n[计] 图库",
+      "en": "n. spectators at a golf or tennis match\nn. a room or series of rooms where works of art are exhibited\nn. a long usually narrow room used for some specific purpose\nn. a covered corridor (especially one extending along the wall of a building and supported with arches or columns)",
+      "phonetic": "'gælәri",
+      "forms": [
+        "galleries"
+      ],
+      "example": "Major galleries, libraries, archives and museums have been working for years to build and preserve digital archives.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "libraries",
+      "headword": "library",
+      "kind": "word",
+      "zh": "n. 图书馆, 藏书, 库\n[计] 库",
+      "en": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+      "phonetic": "'laibrәri",
+      "forms": [
+        "libraries",
+        "library"
+      ],
+      "example": "Major galleries, libraries, archives and museums have been working for years to build and preserve digital archives.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "museums",
+      "headword": "museum",
+      "kind": "word",
+      "zh": "n. 博物馆",
+      "en": "n. a depository for collecting and displaying objects having scientific or historical or artistic value",
+      "phonetic": "mju:'ziәm",
+      "forms": [
+        "museums"
+      ],
+      "example": "Major galleries, libraries, archives and museums have been working for years to build and preserve digital archives.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "historically",
+      "headword": "historically",
+      "kind": "word",
+      "zh": "adv. 历史上地；从历史观点上说",
+      "en": "r. throughout history\nr. with respect to history",
+      "phonetic": "his'tɔrikәli",
+      "forms": [
+        "historically"
+      ],
+      "example": "But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "formal",
+      "headword": "formal",
+      "kind": "word",
+      "zh": "a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的\nn. 正式的社交活动",
+      "en": "a. being in accord with established forms and conventions and requirements (as e.g. of formal dress)\ns. characteristic of or befitting a person in authority\na. (of spoken and written language) adhering to traditional standards of correctness and without casual, contracted, and colloquial forms\ns. logically deductive",
+      "phonetic": "'fɒ:mәl",
+      "forms": [
+        "formal"
+      ],
+      "example": "But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "ecosystems",
+      "headword": "ecosystem",
+      "kind": "word",
+      "zh": "n. 生态系统\n[医] 生态系",
+      "en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+      "phonetic": "'i:kәu.sistәm",
+      "forms": [
+        "ecosystems"
+      ],
+      "example": "But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "victorian",
+      "headword": "Victorian",
+      "kind": "word",
+      "zh": "a. 英国维多利亚女王时代的, 笃信宗教的, 讲究体面的\nn. 维多利亚女王时代的英国人",
+      "en": "n. a person who lived during the reign of Victoria\na. of or relating to Queen Victoria of Great Britain or to the age in which she ruled\ns. typical of the moral standards or conduct of the age of Queen Victoria",
+      "phonetic": "vik'tɔ:riәn",
+      "forms": [
+        "victorian"
+      ],
+      "example": "Into the Victorian archives",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "holdings",
+      "headword": "holdings",
+      "kind": "word",
+      "zh": "n. 占有的财产；所持股份",
+      "en": "n the act of retaining something\nn something owned; any tangible or intangible possession that is owned by someone; \nv keep in a certain state, position, or activity; e.g., \"keep clean\"\nv have or hold in one's hands or grip\nv organize or be responsible for\nv have or possess, either in a concrete or an abstract sense\nv keep in mind or convey as a conviction or view\nv maintain (a theory, thoughts, or feelings)\nv to close within bounds, limit or hold back from movement\nv secure and keep for possible future use or application\nv have rightfully; of rights, titles, and offices\nv be the physical support of; carry the weight of\nv contain or hold; have within\nv have room for; hold without crowding\nv remain in a certain state, position, or condition\nv support or hold in a certain manner\nv be valid, applicable, or true\nv assert or affirm\nv have as a major characteristic\nv be capable of holding or containing\nv arrange for and reserve (something for someone else) in advance\nv protect against a challenge or attack\nv bind by an obligation; cause to be indebted\nv hold the attention of\nv remain committed to\nv resist or confront with resistance\nv be pertinent or relevant or applicable\nv stop dealing with\nv lessen the intensity of; temper; hold in restraint; hold or keep within limits\nv keep from departing\nv take and maintain control over, often by violent means\nv cause to stop\nv cover as for protection against noise or smell\nv drink alcohol without showing ill effects\nv aim, point, or direct\nv declare to be\nv be in accord; be in agreement\nv keep from exhaling or expelling",
+      "phonetic": "",
+      "forms": [
+        "holdings"
+      ],
+      "example": "To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "inexpensive",
+      "headword": "inexpensive",
+      "kind": "word",
+      "zh": "a. 便宜的, 不贵重的",
+      "en": "a relatively low in price or charging low prices",
+      "phonetic": ".inik'spensiv",
+      "forms": [
+        "inexpensive"
+      ],
+      "example": "Some files on CD-ROMs were able to be copied without imaging; all that was required was an inexpensive USB CD drive.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "trickier",
+      "headword": "tricky",
+      "kind": "word",
+      "zh": "a. 狡猾的, 机敏的",
+      "en": "s not to be trusted\ns having concealed difficulty\ns marked by skill in deception",
+      "phonetic": "'triki",
+      "forms": [
+        "trickier"
+      ],
+      "example": "Floppy disks can be much trickier as drives are increasingly rare.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "rare",
+      "headword": "rare",
+      "kind": "word",
+      "zh": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的\nadv. 非常",
+      "en": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density",
+      "phonetic": "rєә",
+      "forms": [
+        "rare"
+      ],
+      "example": "Floppy disks can be much trickier as drives are increasingly rare.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "controllers",
+      "headword": "controller",
+      "kind": "word",
+      "zh": "n. 控制器, 管理者\n[计] 控制器",
+      "en": "n someone who maintains and audits business accounts\nn a person who directs and restrains\nn a mechanism that controls the operation of a machine",
+      "phonetic": "kәn'trәulә",
+      "forms": [
+        "controllers"
+      ],
+      "example": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "connect",
+      "headword": "connect",
+      "kind": "word",
+      "zh": "v. 连接, 联合, 联系",
+      "en": "v. connect, fasten, or put together two or more pieces\nv. be or become joined or united or linked\nv. join by means of communication equipment\nv. land on or hit solidly",
+      "phonetic": "kә'nekt",
+      "forms": [
+        "connect"
+      ],
+      "example": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "playful",
+      "headword": "playful",
+      "kind": "word",
+      "zh": "a. 爱打趣的, 多趣的, 开玩笑的, 嬉戏的",
+      "en": "a. full of fun and high spirits",
+      "phonetic": "'pleiful",
+      "forms": [
+        "playful"
+      ],
+      "example": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "applesauce",
+      "headword": "applesauce",
+      "kind": "word",
+      "zh": "n. 苹果沙司, 胡说",
+      "en": "n. puree of stewed apples usually sweetened and spiced",
+      "phonetic": ".æpl'sɒ:s",
+      "forms": [
+        "applesauce"
+      ],
+      "example": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "excited",
+      "headword": "excite",
+      "kind": "word",
+      "zh": "vt. 刺激, 使兴奋, 激励",
+      "en": "v. arouse or elicit a feeling\nv. raise to a higher energy level\nv. produce a magnetic field in",
+      "phonetic": "ik'sait",
+      "forms": [
+        "excited"
+      ],
+      "example": "We were excited to see what materials were brought in.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "genealogical",
+      "headword": "genealogical",
+      "kind": "word",
+      "zh": "a. 宗谱的, 家系的, 系谱的",
+      "en": "a of or relating to genealogy",
+      "phonetic": ".dʒi:niә'lɒdʒikl",
+      "forms": [
+        "genealogical"
+      ],
+      "example": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "oral",
+      "headword": "oral",
+      "kind": "word",
+      "zh": "n. 口试\na. 口头的, 口述的, 口部的",
+      "en": "n. an examination conducted by spoken communication\ns. using speech rather than writing\na. of or relating to or affecting or for use in the mouth\na. of or involving the mouth or mouth region or the surface on which the mouth is located",
+      "phonetic": "'ɒ:rәl",
+      "forms": [
+        "oral"
+      ],
+      "example": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "club",
+      "headword": "club",
+      "kind": "word",
+      "zh": "n. 俱乐部, 木棍, 球棒\nvt. 用棍棒打, 缴纳\nvi. 联合起来\na. 俱乐部的",
+      "en": "n. a formal association of people with similar interests\nn. stout stick that is larger at one end\nn. a playing card in the minor suit that has one or more black trefoils on it\nv. unite with a common purpose",
+      "phonetic": "klʌb",
+      "forms": [
+        "club"
+      ],
+      "example": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "photographs",
+      "headword": "photograph",
+      "kind": "word",
+      "zh": "n. 相片, 照片, 逼真的描绘\nv. 照相, 摄影",
+      "en": "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\nv. record on photographic film\nv. undergo being photographed in a certain way",
+      "phonetic": "'fәutәgrɑ:f",
+      "forms": [
+        "photographs"
+      ],
+      "example": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "engineering",
+      "headword": "engineer",
+      "kind": "word",
+      "zh": "n. 工程师, 工兵\nvt. 设计, 监造, 精明地处理, 策划",
+      "en": "n. a person who uses scientific knowledge to solve practical problems\nn. the operator of a railway locomotive\nv. design as an engineer",
+      "phonetic": ".endʒi'niә",
+      "forms": [
+        "engineering"
+      ],
+      "example": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "paragraph": 20,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v92",
+      "term": "recordings",
+      "headword": "recordings",
+      "kind": "word",
+      "zh": "n. 记录( recording的复数形式 ); 录音; 录像; 唱片",
+      "en": "n. a signal that encodes something (e.g., picture or sound) that has been recorded\nn. the act of making a record (especially an audio record)\nn. a storage device on which information (sounds or images) have been recorded",
+      "phonetic": "rɪˈkɔ:dɪŋz",
+      "forms": [
+        "recordings"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "chamber",
+      "headword": "chamber",
+      "kind": "word",
+      "zh": "n. 室, 房间, 枪膛\nvt. 装(弹药), 把...关在室内\na. 室内的",
+      "en": "n. a natural or artificial enclosed space\nn. an enclosed volume in the body\nn. a room where a judge transacts business\nn. a deliberative or legislative or administrative or judicial assembly",
+      "phonetic": "'tʃeimbә",
+      "forms": [
+        "chamber"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "opera",
+      "headword": "opera",
+      "kind": "word",
+      "zh": "n. 歌剧",
+      "en": "n. a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes\nn. a commercial browser\nn. a building where musical dramas are performed",
+      "phonetic": "'ɒpәrә",
+      "forms": [
+        "opera"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "seduction",
+      "headword": "seduction",
+      "kind": "word",
+      "zh": "n. 教唆, 怂恿, 诱惑, 诱惑物, 诱饵\n[法] 诱奸, 勾引, 引诱",
+      "en": "n. enticing someone astray from right behavior\nn. an act of winning the love or sexual favor of someone",
+      "phonetic": "si'dʌkʃәn",
+      "forms": [
+        "seduction"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "composer",
+      "headword": "composer",
+      "kind": "word",
+      "zh": "n. 作曲家, 作家, 调停者",
+      "en": "n. someone who composes music as a profession",
+      "phonetic": "kәm'pәuzә",
+      "forms": [
+        "composer"
+      ],
+      "example": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "paragraph": 21,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "indexes",
+      "headword": "index",
+      "kind": "word",
+      "zh": "n. 索引, 指针, 指数, 指标\nvt. 编入索引中, 指出\nvi. 做索引\n[计] 下标; 附标; 变址; 索引; 编索引",
+      "en": "n. a numerical scale used to compare variables with one another or with some reference number\nn. a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time\nn. an alphabetical listing of names and topics along with page numbers where they are discussed\nn. the finger next to the thumb",
+      "phonetic": "'indeks",
+      "forms": [
+        "indexes"
+      ],
+      "example": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "cemetery",
+      "headword": "cemetery",
+      "kind": "word",
+      "zh": "n. 墓地, 公墓\n[法] 公墓, 墓地",
+      "en": "n. a tract of land used for burials",
+      "phonetic": "'semitәri",
+      "forms": [
+        "cemetery"
+      ],
+      "example": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "scanned",
+      "headword": "scan",
+      "kind": "word",
+      "zh": "n. 审视, 浏览, 扫描, 细查\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\nvi. 押韵, 扫描\n[计] 网络软件目录, 编码与分析系统",
+      "en": "n. the act of scanning; systematic examination of a prescribed region\nn. an image produced by scanning\nv. examine minutely or intensely\nv. examine hastily",
+      "phonetic": "skæn",
+      "forms": [
+        "scanned"
+      ],
+      "example": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "construction",
+      "headword": "construction",
+      "kind": "word",
+      "zh": "n. 建筑, 构造, 建筑物\n[化] 施工",
+      "en": "n. the act of constructing something\nn. a group of words that form a constituent of a sentence and are considered as a single unit\nn. the creation of a construct; the process of combining ideas into a congruous object of thought\nn. drawing a figure satisfying certain conditions as part of solving a problem or proving a theorem",
+      "phonetic": "kәn'strʌkʃәn",
+      "forms": [
+        "construction"
+      ],
+      "example": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "weir",
+      "headword": "weir",
+      "kind": "word",
+      "zh": "n. 堰, 鱼梁\n[化] 堰",
+      "en": "n. a low dam built across a stream to raise its level or divert its flow\nn. a fence or wattle built across a stream to catch or retain fish",
+      "phonetic": "wiә",
+      "forms": [
+        "weir"
+      ],
+      "example": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "paragraph": 22,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "discontinued",
+      "headword": "discontinue",
+      "kind": "word",
+      "zh": "vi. 中断, 终止, 停止\nvt. 使中止",
+      "en": "v. put an end to a state or an activity\nv. come to or be at an end",
+      "phonetic": ".diskәn'tinju:",
+      "forms": [
+        "discontinued"
+      ],
+      "example": "One member brought six 3.5\" floppy disks with files for a discontinued genealogical program from 1996.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "doubly",
+      "headword": "doubly",
+      "kind": "word",
+      "zh": "adv. 加倍地, 双重地\n[计] 双地",
+      "en": "r. to double the degree\nr. in a twofold manner",
+      "phonetic": "'dʌbli",
+      "forms": [
+        "doubly"
+      ],
+      "example": "Imaging her disks, we were able to help her re-access the data which was doubly stranded: on floppy disks and file-types particular to the old software.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "stranded",
+      "headword": "strand",
+      "kind": "word",
+      "zh": "n. (绳索的)股, 绳, 串, 海滨, 河岸\nvi. 搁浅\nvt. 使搁浅, 使落后, 使陷于困境, 弄断, 搓",
+      "en": "n. a pattern forming a unity within a larger structural whole\nn. line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable\nn. a poetic term for a shore (as the area periodically covered and uncovered by the tides)\nn. a street in west central London famous for its theaters and hotels",
+      "phonetic": "strænd",
+      "forms": [
+        "stranded"
+      ],
+      "example": "Imaging her disks, we were able to help her re-access the data which was doubly stranded: on floppy disks and file-types particular to the old software.",
+      "paragraph": 23,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v105",
+      "term": "thrilled",
+      "headword": "thrill",
+      "kind": "word",
+      "zh": "n. 震颤, 激动, 刺激性, 一阵激动\nvi. 震颤, 颤抖, 激动\nvt. 使激动, 使颤动",
+      "en": "n. something that causes you to experience a sudden intense feeling or sensation\nv. cause to be thrilled by some perceptual input\nv. feel sudden intense sensation or emotion",
+      "phonetic": "θril",
+      "forms": [
+        "thrilled"
+      ],
+      "example": "She said she was “thrilled to access the information on family members.",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "magic",
+      "headword": "magic",
+      "kind": "word",
+      "zh": "n. 魔术, 魔法\na. 魔术的, 有魔力的, 不可思议的",
+      "en": "n. any art that invokes supernatural powers",
+      "phonetic": "'mædʒik",
+      "forms": [
+        "magic"
+      ],
+      "example": "She said she was “thrilled to access the information on family members. It’s almost magic!”",
+      "paragraph": 24,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "exporting",
+      "headword": "export",
+      "kind": "word",
+      "zh": "n. 输出品, 输出\nvt. 输出, 出口\nvi. 输出物资\n[计] 导出",
+      "en": "n. commodities (goods or services) sold to a foreign country\nv. sell or transfer abroad\nv. transfer (electronic data) out of a database or document in a format that can be used by other programs\nv. cause to spread in another part of the world",
+      "phonetic": "ik'spɒ:t",
+      "forms": [
+        "exporting"
+      ],
+      "example": "And by exporting to an open file format, she will now be able to import the data into a current genealogical program.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "import",
+      "headword": "import",
+      "kind": "word",
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性\nvt. 输入, 引入, 进口, 含...的意思, 重要\nvi. 有关系\n[计] 引入",
+      "en": "n. commodities (goods or services) bought from a foreign country\nn. an imported person brought from a foreign country\nv. bring in from abroad\nv. transfer (electronic data) into a database or document",
+      "phonetic": "im'pɒ:t",
+      "forms": [
+        "import"
+      ],
+      "example": "And by exporting to an open file format, she will now be able to import the data into a current genealogical program.",
+      "paragraph": 25,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v109",
+      "term": "hold",
+      "headword": "hold",
+      "kind": "word",
+      "zh": "n. 把握, 把持力, 柄, 控制, 掌握, 监禁\nvt. 保存, 握住, 拿住, 占据, 持有, 拥有\nvi. 支持, 持续, 有效\nn. 保留\n[计] 保留",
+      "en": "n. power by which something or someone is affected or dominated\nn. a stronghold\nn. a cell in a jail or prison\nv. have or hold in one's hands or grip",
+      "phonetic": "hәuld",
+      "forms": [
+        "hold"
+      ],
+      "example": "Local archives often hold information that is not stored elsewhere.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "elsewhere",
+      "headword": "elsewhere",
+      "kind": "word",
+      "zh": "adv. 在别处",
+      "en": "r. in or to another place",
+      "phonetic": "'elshwєә",
+      "forms": [
+        "elsewhere"
+      ],
+      "example": "Local archives often hold information that is not stored elsewhere.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "obsolete",
+      "headword": "obsolete",
+      "kind": "word",
+      "zh": "a. 荒废的, 成废物的, 陈旧的, 老式的\nn. 废词, 废物",
+      "en": "s no longer in use",
+      "phonetic": "'ɒbsәli:t",
+      "forms": [
+        "obsolete"
+      ],
+      "example": "Getting data off obsolete media is a start.",
+      "paragraph": 26,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "equipment",
+      "headword": "equipment",
+      "kind": "word",
+      "zh": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置",
+      "en": "n. an instrumentality needed for an undertaking or to perform a service",
+      "phonetic": "i'kwipmәnt",
+      "forms": [
+        "equipment"
+      ],
+      "example": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "know-how",
+      "headword": "know-how",
+      "kind": "word",
+      "zh": "n. 实际知识, 技术秘诀, 诀窍\n[计] 技术诀窍",
+      "en": "n. the (technical) knowledge and skill required to do something",
+      "phonetic": "'nәuhau",
+      "forms": [
+        "know-how"
+      ],
+      "example": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "reassured",
+      "headword": "reassure",
+      "kind": "word",
+      "zh": "vt. 使...安心, 向...再保证\n[法] 重新保证, 再保险, 使清除疑虑",
+      "en": "v. cause to feel sure; give reassurance to\nv. give or restore confidence in; cause to feel sure or certain",
+      "phonetic": ".ri:ә'ʃuә",
+      "forms": [
+        "reassured"
+      ],
+      "example": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "custodians",
+      "headword": "custodian",
+      "kind": "word",
+      "zh": "n. 管理人, 保管人, 监护人\n[经] 保管人, 管理人",
+      "en": "n. one having charge of buildings or grounds or animals",
+      "phonetic": "kʌ'stәudjәn",
+      "forms": [
+        "custodians"
+      ],
+      "example": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "obsolescence",
+      "headword": "obsolescence",
+      "kind": "word",
+      "zh": "n. 荒废, 淘汰, 过时, 退化\n[医] 废弃",
+      "en": "n. the process of becoming obsolete; falling into disuse or becoming out of date",
+      "phonetic": ".ɒbsә'lesәns",
+      "forms": [
+        "obsolescence"
+      ],
+      "example": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "paragraph": 27,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      12,
+      25
+    ],
+    "wordBank": [
+      "software",
+      "discontinued",
+      "Digital",
+      "engineering",
+      "holdings",
+      "magic",
+      "playful",
+      "composer",
+      "migrated",
+      "formal"
+    ],
+    "parts": [
+      {
+        "text": "Analyse the content. Sometimes, all that’s needed is a computer’s native file explorer. At other times, additional "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": " may be needed to view the file names and types stored on the disk.\n\nStore the new content. Freed from the need for old hardware drives to open them, the disk image files can be stored on hard drives, cloud storage or added to content management systems.\n\n"
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": " preservation is ongoing, and digital objects will still require careful stewardship into the future. But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " as our technology changes.\n\nMajor galleries, libraries, archives and museums have been working for years to build and preserve digital archives. But much historically significant content remains with individuals and smaller organisations, outside of "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " digital preservation ecosystems.\n\nInto the Victorian archives\n\nTo help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": ".\n\nSome files on CD-ROMs were able to be copied without imaging; all that was required was an inexpensive USB CD drive. Floppy disks can be much trickier as drives are increasingly rare. They require controllers to connect to current computers: some of these have "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " names like Greaseweazle and Applesauce.\n\nWe were excited to see what materials were brought in.\n\nThere were genealogical files, Word documents, oral history materials, sporting club records and photographs of large "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " projects.\n\nOne local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " Martin Friedel.\n\nThe Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.\n\nOne member brought six 3.5\" floppy disks with files for a "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " genealogical program from 1996. Imaging her disks, we were able to help her re-access the data which was doubly stranded: on floppy disks and file-types particular to the old software.\n\nShe said she was “thrilled to access the information on family members. It’s almost "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": "!”\n\nAnd by exporting to an open file format, she will now be able to import the data into a current genealogical program."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "software",
+        "vocabularyId": "v27",
+        "explanation": "原文此处使用 software（software）。结合上下文辨认词义与词形。",
+        "evidence": "At other times, additional software may be needed to view the file names and types stored on the disk.",
+        "paragraph": 12
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "Digital",
+        "vocabularyId": "v10",
+        "explanation": "原文此处使用 Digital（digital）。结合上下文辨认词义与词形。",
+        "evidence": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future.",
+        "paragraph": 14
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "migrated",
+        "vocabularyId": "v69",
+        "explanation": "原文此处使用 migrated（migrate）。结合上下文辨认词义与词形。",
+        "evidence": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+        "paragraph": 14
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "formal",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 formal（formal）。结合上下文辨认词义与词形。",
+        "evidence": "But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
+        "paragraph": 15
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "holdings",
+        "vocabularyId": "v77",
+        "explanation": "原文此处使用 holdings（holdings）。结合上下文辨认词义与词形。",
+        "evidence": "To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.",
+        "paragraph": 17
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "playful",
+        "vocabularyId": "v83",
+        "explanation": "原文此处使用 playful（playful）。结合上下文辨认词义与词形。",
+        "evidence": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+        "paragraph": 18
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "engineering",
+        "vocabularyId": "v90",
+        "explanation": "原文此处使用 engineering（engineer）。结合上下文辨认词义与词形。",
+        "evidence": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+        "paragraph": 20
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "composer",
+        "vocabularyId": "v96",
+        "explanation": "原文此处使用 composer（composer）。结合上下文辨认词义与词形。",
+        "evidence": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+        "paragraph": 21
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "discontinued",
+        "vocabularyId": "v102",
+        "explanation": "原文此处使用 discontinued（discontinue）。结合上下文辨认词义与词形。",
+        "evidence": "One member brought six 3.5\" floppy disks with files for a discontinued genealogical program from 1996.",
+        "paragraph": 23
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "magic",
+        "vocabularyId": "v106",
+        "explanation": "原文此处使用 magic（magic）。结合上下文辨认词义与词形。",
+        "evidence": "She said she was “thrilled to access the information on family members. It’s almost magic!”",
+        "paragraph": 24
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "The discovery of a Roman fort revives interest in an emperor's place in Welsh tradition.",
+          "Preserving floppy-disk contents requires overcoming problems of obsolete hardware and digital access.",
+          "A public poetry project connects Shakespeare's influence with everyday journeys on the Underground.",
+          "An early bestseller offers a historical parallel to modern concerns about low-quality popular content."
+        ],
+        "answer": 1,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+        "paragraph": 27
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which organisation worked with the researchers to archive digital materials?",
+        "options": [
+          "The Clay Mathematics Institute",
+          "The Swedish Academy",
+          "CERN's particle-collider team",
+          "The Royal Historical Society of Victoria"
+        ],
+        "answer": 3,
+        "explanation": "第 4 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "To help combat this, we recently worked with members of the Royal Historical Society of Victoria to archive their own materials.",
+        "paragraph": 4
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 11?",
+        "options": [
+          "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage.",
+          "If we don’t save this content, it will not be available for future use.",
+          "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+          "Using vintage and restored drives, we can read floppy disks, CD-ROMs and Zip disks."
+        ],
+        "answer": 3,
+        "explanation": "定位第 11 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Using vintage and restored drives, we can read floppy disks, CD-ROMs and Zip disks.",
+        "paragraph": 11
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.”",
+        "options": [
+          "Paragraph 2",
+          "Paragraph 4",
+          "Paragraph 12",
+          "Paragraph 17"
+        ],
+        "answer": 3,
+        "explanation": "这句话位于第 17 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.",
+        "paragraph": 17
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.”",
+        "options": [
+          "Paragraph 22",
+          "Paragraph 2",
+          "Paragraph 27",
+          "Paragraph 11"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 22 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+        "paragraph": 22
+      }
+    ]
+  },
+  "revision": "43606c59d0823fc6149b3dadfcbe3b8c797962ea49774c552bd91bcc7aebd475"
+}

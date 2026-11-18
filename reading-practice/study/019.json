@@ -1,0 +1,2172 @@
+{
+  "schemaVersion": 1,
+  "folder": "019",
+  "articleSha256": "12f9880dba70c94e7ef8da165a695b586f4090fa783a6f89beb86a841083b2ca",
+  "vocabularyNote": "学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "term": "autumn",
+      "headword": "autumn",
+      "kind": "word",
+      "zh": "n. 秋天, 成熟期",
+      "en": "n the season when the leaves fall from the trees",
+      "phonetic": "'ɒ:tәm",
+      "forms": [
+        "autumn"
+      ],
+      "example": "Autumn walks in Britain are glorious, as the foliage changes colour and cool crisp air begins to bite.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v2",
+      "term": "glorious",
+      "headword": "glorious",
+      "kind": "word",
+      "zh": "a. 光荣的",
+      "en": "a. having or deserving or conferring glory\ns. having great beauty and splendor",
+      "phonetic": "'glɒ:riәs",
+      "forms": [
+        "glorious"
+      ],
+      "example": "Autumn walks in Britain are glorious, as the foliage changes colour and cool crisp air begins to bite.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v3",
+      "term": "foliage",
+      "headword": "foliage",
+      "kind": "word",
+      "zh": "n. 树叶, 植物",
+      "en": "n the main organ of photosynthesis and transpiration in higher plants\nn (architecture) leaf-like architectural ornament",
+      "phonetic": "'fәuliidʒ",
+      "forms": [
+        "foliage"
+      ],
+      "example": "Autumn walks in Britain are glorious, as the foliage changes colour and cool crisp air begins to bite.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v4",
+      "term": "crisp",
+      "headword": "crisp",
+      "kind": "word",
+      "zh": "a. 脆的, 新鲜的, 活泼的\nv. (使)烘脆, (使)拳曲, (使)起皱\nn. 松脆物",
+      "en": "s. (of something seen or heard) clearly defined\ns. tender and brittle\ns. pleasantly cold and invigorating\ns. pleasingly firm and fresh",
+      "phonetic": "krisp",
+      "forms": [
+        "crisp"
+      ],
+      "example": "Autumn walks in Britain are glorious, as the foliage changes colour and cool crisp air begins to bite.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v5",
+      "term": "bite",
+      "headword": "bite",
+      "kind": "word",
+      "zh": "n. 咬, 一口\nv. 咬, 刺痛, 穿透",
+      "en": "n. a wound resulting from biting by an animal or a person\nn. a light informal meal\nn. (angling) an instance of a fish taking the bait\nn. the act of gripping or chewing off with the teeth and jaws",
+      "phonetic": "bait",
+      "forms": [
+        "bite"
+      ],
+      "example": "Autumn walks in Britain are glorious, as the foliage changes colour and cool crisp air begins to bite.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v6",
+      "term": "european",
+      "headword": "European",
+      "kind": "word",
+      "zh": "n. 欧洲人\na. 欧洲的, 欧洲人的",
+      "en": "n. a native or inhabitant of Europe\na. of or relating to or characteristic of Europe or the people of Europe",
+      "phonetic": ".juәrә'pi:әn",
+      "forms": [
+        "european"
+      ],
+      "example": "However, some of these European trees hide a much darker secret.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v7",
+      "term": "hide",
+      "headword": "hide",
+      "kind": "word",
+      "zh": "n. 兽皮, 迹象, 躲藏处\nvt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏\nvi. 躲藏\n[计] 隐藏",
+      "en": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety",
+      "phonetic": "haid",
+      "forms": [
+        "hide"
+      ],
+      "example": "However, some of these European trees hide a much darker secret.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v8",
+      "term": "secret",
+      "headword": "secret",
+      "kind": "word",
+      "zh": "n. 秘密, 机密, 秘诀, 秘方\na. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的",
+      "en": "n. something that should remain hidden from others (especially information that is not to be passed on)\nn. information known only to a special group\ns. not open or public; kept private or not revealed\ns. communicated covertly",
+      "phonetic": "'si:krit",
+      "forms": [
+        "secret",
+        "secrets"
+      ],
+      "example": "However, some of these European trees hide a much darker secret.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v9",
+      "term": "For example",
+      "headword": "for example",
+      "kind": "phrase",
+      "zh": "例如",
+      "en": "used to introduce an illustration of a point",
+      "forms": [
+        "For example"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v10",
+      "term": "lovely",
+      "headword": "lovely",
+      "kind": "word",
+      "zh": "a. 可爱的, 有趣的",
+      "en": "s. appealing to the emotions as well as the eye",
+      "phonetic": "'lʌvli",
+      "forms": [
+        "lovely"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v11",
+      "term": "conceal",
+      "headword": "conceal",
+      "kind": "word",
+      "zh": "vt. 隐藏, 掩盖, 隐瞒\n[法] 隐瞒, 隐匿, 保守秘密",
+      "en": "v. hold back; keep from being perceived by others",
+      "phonetic": "kәn'si:l",
+      "forms": [
+        "conceal"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v12",
+      "term": "seeds",
+      "headword": "seed",
+      "kind": "word",
+      "zh": "n. 种子, 籽, 萌芽, 子孙, 精液\nvt. 在...播种, 催...发育, 脱...籽\nvi. 结实, 播种",
+      "en": "n. a small hard fruit\nn. a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa\nv. go to seed; shed seeds\nv. help (an enterprise) in its early stages of development by providing seed money",
+      "phonetic": "si:d",
+      "forms": [
+        "seeds"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v13",
+      "term": "dangerous",
+      "headword": "dangerous",
+      "kind": "word",
+      "zh": "a. 危险的\n[法] 危险的, 危害的",
+      "en": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm",
+      "phonetic": "'deindʒәrәs",
+      "forms": [
+        "dangerous"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v14",
+      "term": "toxins",
+      "headword": "toxin",
+      "kind": "word",
+      "zh": "n. 毒素\n[化] 毒素",
+      "en": "n. a poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species",
+      "phonetic": "'tɒksin",
+      "forms": [
+        "toxins",
+        "toxin"
+      ],
+      "example": "For example, the lovely red cup-shaped structures on a yew tree, known as arils, conceal seeds that carry dangerous toxins.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v15",
+      "term": "poison",
+      "headword": "poison",
+      "kind": "word",
+      "zh": "n. 毒药, 毒, 毒物, 有毒害的事物\nvt. 毒害, 毒杀, 使中毒\nvi. 放毒, 下毒",
+      "en": "n. any substance that causes injury or illness or death of a living organism\nn. anything that harms or destroys\nv. spoil as if by poison\nv. kill with poison",
+      "phonetic": "'pɒizn",
+      "forms": [
+        "poison",
+        "poisons",
+        "poisoned"
+      ],
+      "example": "These toxins may have been used to poison arrow tips in the past.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v16",
+      "term": "arrow",
+      "headword": "arrow",
+      "kind": "word",
+      "zh": "n. 箭, 箭状物, 箭头记号",
+      "en": "n. a mark to indicate a direction or relation\nn. a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow",
+      "phonetic": "'ærәu",
+      "forms": [
+        "arrow",
+        "arrows"
+      ],
+      "example": "These toxins may have been used to poison arrow tips in the past.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v17",
+      "term": "tips",
+      "headword": "tip",
+      "kind": "word",
+      "zh": "n. 顶, 尖端, 梢, 末端, 倾斜, 垃圾场, 小费, 轻击, 指点, 秘密消息\nvt. 装顶端, 使倾斜, 使翻倒, 泄露, 告诫, 暗示, 给...小费, 轻击\nvi. 倾斜, 翻倒, 倾覆, 踮脚走, 给小费\n[计] 终端接口处理器, 提示, 技巧",
+      "en": "n. the extreme end of something; especially something pointed\nn. an indication of potential opportunity\nv. cause to tilt\nv. mark with a tip",
+      "phonetic": "tip",
+      "forms": [
+        "tips"
+      ],
+      "example": "These toxins may have been used to poison arrow tips in the past.",
+      "paragraph": 1,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v18",
+      "term": "danish",
+      "headword": "Danish",
+      "kind": "word",
+      "zh": "n. 丹麦文\na. 丹麦的, 丹麦人的, 丹麦文的",
+      "en": "n. a Scandinavian language that is the official language of Denmark\nn. light sweet yeast-raised roll usually filled with fruits or cheese\na. of or relating to or characteristic of Denmark or the Danes or their language",
+      "phonetic": "'deiniʃ",
+      "forms": [
+        "danish"
+      ],
+      "example": "A new Danish study has shown that the “smoking gun” is not the poison itself, but the size of the small arrowheads used to deliver the toxin into the hunted animal.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v19",
+      "term": "smoking",
+      "headword": "smoke",
+      "kind": "word",
+      "zh": "n. 烟, 雾气, 烟熏剂, 抽烟, 烟色\nvi. 吸烟, 冒烟, 弥漫\nvt. 以烟熏, 抽烟而导致...",
+      "en": "n. a cloud of fine particles suspended in a gas\nn. a hot vapor containing fine particles of carbon being produced by combustion\nn. an indication of some hidden activity\nn. something with no concrete substance",
+      "phonetic": "smәuk",
+      "forms": [
+        "smoking"
+      ],
+      "example": "A new Danish study has shown that the “smoking gun” is not the poison itself, but the size of the small arrowheads used to deliver the toxin into the hunted animal.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v20",
+      "term": "arrowheads",
+      "headword": "arrowhead",
+      "kind": "word",
+      "zh": "n. 箭头, 镞, 慈菇\n[计] 箭头尖",
+      "en": "n. the pointed head or striking tip of an arrow",
+      "phonetic": "'ærәuhed",
+      "forms": [
+        "arrowheads"
+      ],
+      "example": "A new Danish study has shown that the “smoking gun” is not the poison itself, but the size of the small arrowheads used to deliver the toxin into the hunted animal.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v21",
+      "term": "deliver",
+      "headword": "deliver",
+      "kind": "word",
+      "zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付\n[经] 交运",
+      "en": "v. deliver (a speech, oration, or idea)\nv. bring to a destination, make a delivery\nv. utter (an exclamation, noise, etc.)\nv. save from sins",
+      "phonetic": "di'livә",
+      "forms": [
+        "deliver"
+      ],
+      "example": "A new Danish study has shown that the “smoking gun” is not the poison itself, but the size of the small arrowheads used to deliver the toxin into the hunted animal.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v22",
+      "term": "hunted",
+      "headword": "hunt",
+      "kind": "word",
+      "zh": "n. 狩猎, 追捕, 搜寻, 猎区\nvt. 狩猎, 打猎, 搜索\nvi. 打猎, 猎食, 搜寻",
+      "en": "n. Englishman and Pre-Raphaelite painter (1827-1910)\nn. United States architect (1827-1895)\nn. British writer who defended the Romanticism of Keats and Shelley (1784-1859)\nn. an association of huntsmen who hunt for sport",
+      "phonetic": "hʌnt",
+      "forms": [
+        "hunted",
+        "hunt",
+        "hunting"
+      ],
+      "example": "A new Danish study has shown that the “smoking gun” is not the poison itself, but the size of the small arrowheads used to deliver the toxin into the hunted animal.",
+      "paragraph": 2,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v23",
+      "term": "stone",
+      "headword": "stone",
+      "kind": "word",
+      "zh": "n. 石头, 宝石, 果核, 纪念碑, 结石\nvt. 投扔石子, 铺石头\na. 石的, 石制的, 完全的",
+      "en": "n. building material consisting of a piece of rock hewn in a definite shape for a special purpose\nn. an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds\nn. the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed\nn. United States jurist who was named chief justice of the United States Supreme Court in 1941 by Franklin D. Roosevelt (1872-1946)",
+      "phonetic": "stәun",
+      "forms": [
+        "stone"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v24",
+      "term": "tool",
+      "headword": "tool",
+      "kind": "word",
+      "zh": "n. 工具, 机床, 傀儡\nvt. 用工具加工\nvi. 使用工具",
+      "en": "n. an implement used in the practice of a vocation\nv. drive\nv. furnish with tools\nv. work with a tool",
+      "phonetic": "tu:l",
+      "forms": [
+        "tool",
+        "tools"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v25",
+      "term": "preceding",
+      "headword": "precede",
+      "kind": "word",
+      "zh": "vt. 在...之前, 优于, 较...优先\nvi. 在前面",
+      "en": "v. come before\nv. be the predecessor of\nv. move ahead (of others) in time or space\nv. furnish with a preface or introduction",
+      "phonetic": ".pri:'si:d",
+      "forms": [
+        "preceding"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v26",
+      "term": "arrival",
+      "headword": "arrival",
+      "kind": "word",
+      "zh": "n. 到达, 抵达, 到达者\n[经] 到达, 到达物",
+      "en": "n. accomplishment of an objective\nn. the act of arriving at a certain place\nn. someone who arrives (or has arrived)",
+      "phonetic": "ә'raivl",
+      "forms": [
+        "arrival"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v27",
+      "term": "farming",
+      "headword": "farm",
+      "kind": "word",
+      "zh": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+      "en": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits",
+      "phonetic": "fɑ:m",
+      "forms": [
+        "farming"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v28",
+      "term": "europe",
+      "headword": "Europe",
+      "kind": "word",
+      "zh": "n. 欧洲",
+      "en": "n. the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles\nn. the nations of the European continent collectively",
+      "phonetic": "'juәrәp",
+      "forms": [
+        "europe"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v29",
+      "term": "mesolithic",
+      "headword": "Mesolithic",
+      "kind": "word",
+      "zh": "n. 中石器时代(旧石器时代与新石器时代之间的时代)",
+      "en": "n middle part of the Stone Age beginning about 15,000 years ago\na of or relating to a middle period of the Stone Age (following the paleolithic)",
+      "phonetic": ",mesәu'liθik, ,mez-",
+      "forms": [
+        "mesolithic"
+      ],
+      "example": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+      "paragraph": 3,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v30",
+      "term": "distinctive",
+      "headword": "distinctive",
+      "kind": "word",
+      "zh": "a. 有特色的, 出众的",
+      "en": "s. of a feature that helps to distinguish a person or thing",
+      "phonetic": "di'stiŋktiv",
+      "forms": [
+        "distinctive"
+      ],
+      "example": "They argue that the distinctive small size of stone arrow tips from the early Mesolithic period (about 9,000–3,950BC) suggest they were used to hunt large prey with the help of poisons.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v31",
+      "term": "prey",
+      "headword": "prey",
+      "kind": "word",
+      "zh": "n. 被掠食者, 牺牲者\nvi. 捕食",
+      "en": "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence\nn. animal hunted or caught for food\nv. profit from in an exploitatory manner",
+      "phonetic": "prei",
+      "forms": [
+        "prey"
+      ],
+      "example": "They argue that the distinctive small size of stone arrow tips from the early Mesolithic period (about 9,000–3,950BC) suggest they were used to hunt large prey with the help of poisons.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v32",
+      "term": "vanished",
+      "headword": "vanish",
+      "kind": "word",
+      "zh": "vi. 消失, 不见, 成为零",
+      "en": "v. become invisible or unnoticeable\nv. cease to exist\nv. decrease rapidly and disappear",
+      "phonetic": "'væniʃ",
+      "forms": [
+        "vanished"
+      ],
+      "example": "The poison has long since vanished, leaving only the stone tip.",
+      "paragraph": 4,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v33",
+      "term": "typically",
+      "headword": "typically",
+      "kind": "word",
+      "zh": "adv. 代表性地；作为特色地",
+      "en": "r. in a typical manner",
+      "phonetic": "'tipikәli",
+      "forms": [
+        "typically"
+      ],
+      "example": "Arrows that do not use poison are typically larger, since they need to damage the animal’s flesh.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v34",
+      "term": "damage",
+      "headword": "damage",
+      "kind": "word",
+      "zh": "n. 损害, 伤害\nv. 损害",
+      "en": "n. the occurrence of a change for the worse\nn. loss of military equipment\nn. the act of damaging something or someone\nv. inflict damage upon",
+      "phonetic": "'dæmidʒ",
+      "forms": [
+        "damage"
+      ],
+      "example": "Arrows that do not use poison are typically larger, since they need to damage the animal’s flesh.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v35",
+      "term": "flesh",
+      "headword": "flesh",
+      "kind": "word",
+      "zh": "n. 肉, 肉体, 肉欲, 人性, 亲属, 人类, 众生, 人体\nvt. 以肉喂, 激起...的杀戳情绪, 使肥, 赋以血肉\nvi. 长胖",
+      "en": "n. the soft tissue of the body of a vertebrate: mainly muscle tissue and fat\nv. remove adhering flesh from (hides) when preparing leather manufacture",
+      "phonetic": "'fleʃ",
+      "forms": [
+        "flesh"
+      ],
+      "example": "Arrows that do not use poison are typically larger, since they need to damage the animal’s flesh.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v36",
+      "term": "stream",
+      "headword": "stream",
+      "kind": "word",
+      "zh": "n. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流",
+      "en": "n. a natural body of running water flowing on or under the earth\nn. dominant course (suggestive of running water) of successive events or ideas\nn. something that resembles a flowing stream in moving continuously\nv. to extend, wave or float outward, as if in the wind",
+      "phonetic": "stri:m",
+      "forms": [
+        "stream"
+      ],
+      "example": "But poisoned arrows need only wound a prey animal enough to allow the poison to enter the blood stream.",
+      "paragraph": 5,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v37",
+      "term": "poisonous",
+      "headword": "poisonous",
+      "kind": "word",
+      "zh": "a. 有毒的, 恶毒的, 讨厌的\n[医] 有毒的",
+      "en": "s. having the qualities or effects of a poison\ns. not safe to eat\ns. marked by deep ill will; deliberately harmful",
+      "phonetic": "'pɒizәnәs",
+      "forms": [
+        "poisonous"
+      ],
+      "example": "There were several poisonous plants available to hunter-gatherers in early Mesolithic Denmark.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v38",
+      "term": "hunter-gatherers",
+      "headword": "hunter-gatherer",
+      "kind": "word",
+      "zh": "n. （多指原始社会）依靠狩猎和采集生活的人",
+      "en": "n. a member of a hunting and gathering society",
+      "phonetic": "ˈhʌntə ˈɡæðərə(r)",
+      "forms": [
+        "hunter-gatherers",
+        "hunter-gatherer"
+      ],
+      "example": "There were several poisonous plants available to hunter-gatherers in early Mesolithic Denmark.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v39",
+      "term": "hunter-gatherers",
+      "headword": "hunter-gatherers",
+      "kind": "phrase",
+      "zh": "狩猎采集者",
+      "en": "people who obtain food by hunting and gathering wild resources",
+      "forms": [
+        "hunter-gatherers"
+      ],
+      "example": "There were several poisonous plants available to hunter-gatherers in early Mesolithic Denmark.",
+      "paragraph": 6,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v40",
+      "term": "denmark",
+      "headword": "Denmark",
+      "kind": "word",
+      "zh": "n. 丹麦",
+      "en": "n. a constitutional monarchy in northern Europe; consists of the mainland of Jutland and many islands between the North Sea and the Baltic Sea",
+      "phonetic": "'denmɑ:k",
+      "forms": [
+        "denmark"
+      ],
+      "example": "There were several poisonous plants available to hunter-gatherers in early Mesolithic Denmark.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v41",
+      "term": "northern",
+      "headword": "northern",
+      "kind": "word",
+      "zh": "n. 北方人\na. 北方的, 向北的, 自北方来的",
+      "en": "n. a dialect of Middle English that developed into Scottish Lallans\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\na. situated in or coming from regions of the north",
+      "phonetic": "'nɒ:ðәn",
+      "forms": [
+        "northern"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v42",
+      "term": "hemlock",
+      "headword": "hemlock",
+      "kind": "word",
+      "zh": "n. 毒芹属植物, 铁杉\n[医] 毒茴类毒草(如毒茴、毒芹), 铁杉属植物, 铁杉",
+      "en": "n. poisonous drug derived from an Eurasian plant of the genus Conium\nn. large branching biennial herb native to Eurasia and Africa and adventive in North America having large fernlike leaves and white flowers; usually found in damp habitats; all parts extremely poisonous\nn. soft coarse splintery wood of a hemlock tree especially the western hemlock",
+      "phonetic": "'hemlɒk",
+      "forms": [
+        "hemlock"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v43",
+      "term": "buttercup",
+      "headword": "buttercup",
+      "kind": "word",
+      "zh": "n. 毛茛属植物",
+      "en": "n. any of various plants of the genus Ranunculus",
+      "phonetic": "'bʌtәkʌp",
+      "forms": [
+        "buttercup"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v44",
+      "term": "bittersweet",
+      "headword": "bittersweet",
+      "kind": "word",
+      "zh": "a. 又苦又甜的, 苦乐参半的\n[医] 白英, 蜀羊泉",
+      "en": "n. poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America\nn. twining shrub of North America having yellow capsules enclosing scarlet seeds\ns. tinged with sadness",
+      "phonetic": "'bitәswi:t",
+      "forms": [
+        "bittersweet"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v45",
+      "term": "nightshade",
+      "headword": "nightshade",
+      "kind": "word",
+      "zh": "n. 茄属植物\n[医] 茄属植物",
+      "en": "n. any of numerous shrubs or herbs or vines of the genus Solanum; most are poisonous though many bear edible fruit",
+      "phonetic": "'naitʃeid",
+      "forms": [
+        "nightshade"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v46",
+      "term": "proposed",
+      "headword": "propose",
+      "kind": "word",
+      "zh": "vt. 计划, 打算, 建议, 提议, 求(婚)\nvi. 打算, 求婚",
+      "en": "v. make a proposal, declare a plan for something\nv. ask (someone) to marry you",
+      "phonetic": "prә'pәuz",
+      "forms": [
+        "proposed"
+      ],
+      "example": "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+      "paragraph": 6,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v47",
+      "term": "In contrast",
+      "headword": "in contrast",
+      "kind": "phrase",
+      "zh": "相比之下",
+      "en": "used to introduce an important difference",
+      "forms": [
+        "In contrast"
+      ],
+      "example": "In contrast, the authors report that stone arrowheads from the Middle and Later Mesolithic (about 6,400–3,950BC) are larger and were used to hunt smaller prey.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v48",
+      "term": "contrast",
+      "headword": "contrast",
+      "kind": "word",
+      "zh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+      "en": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+      "phonetic": "kәn'træst",
+      "forms": [
+        "contrast"
+      ],
+      "example": "In contrast, the authors report that stone arrowheads from the Middle and Later Mesolithic (about 6,400–3,950BC) are larger and were used to hunt smaller prey.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v49",
+      "term": "according",
+      "headword": "accord",
+      "kind": "word",
+      "zh": "n. 一致, 调和, 协定\nvt. 给与, 使一致\nvi. 相符合",
+      "en": "n. concurrence of opinion\nn. sympathetic compatibility\nv. allow to have",
+      "phonetic": "ә'kɒ:d",
+      "forms": [
+        "according"
+      ],
+      "example": "According to the researchers, the sizes of arrowheads used during this period do not indicate poison use.",
+      "paragraph": 7,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v50",
+      "term": "According to",
+      "headword": "according to",
+      "kind": "phrase",
+      "zh": "根据；据……所说",
+      "en": "as stated or reported by a source",
+      "forms": [
+        "According to"
+      ],
+      "example": "According to the researchers, the sizes of arrowheads used during this period do not indicate poison use.",
+      "paragraph": 7,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v51",
+      "term": "surprisingly",
+      "headword": "surprisingly",
+      "kind": "word",
+      "zh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶",
+      "en": "r. in a surprising manner",
+      "phonetic": "",
+      "forms": [
+        "surprisingly"
+      ],
+      "example": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v52",
+      "term": "widely",
+      "headword": "widely",
+      "kind": "word",
+      "zh": "adv. 广泛地",
+      "en": "r. to a great degree\nr. so as to leave much space or distance between",
+      "phonetic": "'waidli",
+      "forms": [
+        "widely"
+      ],
+      "example": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v53",
+      "term": "archaeological",
+      "headword": "archaeological",
+      "kind": "word",
+      "zh": "a. 考古学的, 考古学上的",
+      "en": "a. related to or dealing with or devoted to archaeology",
+      "phonetic": ".ɑ:kiә'lɒdʒikl",
+      "forms": [
+        "archaeological"
+      ],
+      "example": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v54",
+      "term": "ethnographic",
+      "headword": "ethnographic",
+      "kind": "word",
+      "zh": "a. 人种志的",
+      "en": "a. of or relating to ethnography",
+      "phonetic": "ˌeθnə'ɡræfɪk",
+      "forms": [
+        "ethnographic"
+      ],
+      "example": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v55",
+      "term": "contexts",
+      "headword": "context",
+      "kind": "word",
+      "zh": "n. 上下文, 背景, 来龙去脉\nn. 上下文\n[计] 上下文",
+      "en": "n. discourse that surrounds a language unit and helps to determine its interpretation\nn. the set of facts or circumstances that surround a situation or event",
+      "phonetic": "'kɒntekst",
+      "forms": [
+        "contexts"
+      ],
+      "example": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v56",
+      "term": "ricin",
+      "headword": "ricin",
+      "kind": "word",
+      "zh": "n. 篦麻毒\n[化] 蓖麻毒; 蓖麻子白蛋白",
+      "en": "n. a toxic protein extracted from castor beans; used as a chemical reagent; can be used as a bioweapon",
+      "phonetic": "'raisin",
+      "forms": [
+        "ricin"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v57",
+      "term": "castor",
+      "headword": "castor",
+      "kind": "word",
+      "zh": "n. 调味瓶, 海狸\n[机] 脚轮",
+      "en": "n. a multiple star with 6 components; second brightest in Gemini; close to Pollux\nn. type genus of the Castoridae: beavers",
+      "phonetic": "'kɑ:stә",
+      "forms": [
+        "castor"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v58",
+      "term": "bean",
+      "headword": "bean",
+      "kind": "word",
+      "zh": "n. 豆子\n[化] 油嘴; 豆",
+      "en": "n. any of various edible seeds of plants of the family Leguminosae used for food\nn. any of various seeds or fruits that are beans or resemble beans\nn. any of various leguminous plants grown for their edible seeds and pods\nv. hit on the head, especially with a pitched baseball",
+      "phonetic": "bi:n",
+      "forms": [
+        "bean"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v59",
+      "term": "linked",
+      "headword": "link",
+      "kind": "word",
+      "zh": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路",
+      "en": "n. the means of connection between things linked in series\nn. a fastener that serves to join or connect\nn. a unit of length equal to 1/100 of a chain\nn. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
+      "phonetic": "liŋk",
+      "forms": [
+        "linked"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v60",
+      "term": "linked to",
+      "headword": "linked to",
+      "kind": "phrase",
+      "zh": "与……有关联",
+      "en": "connected or associated with",
+      "forms": [
+        "linked to"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v61",
+      "term": "applicator",
+      "headword": "applicator",
+      "kind": "word",
+      "zh": "[医] 声极(超声治疗用); 敷料器, 涂药器",
+      "en": "n. a device for applying a substance",
+      "phonetic": "'æplikeitә",
+      "forms": [
+        "applicator"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v62",
+      "term": "border",
+      "headword": "border",
+      "kind": "word",
+      "zh": "n. 边缘, 边境, 边界, 花坛\nvt. 在...上镶边, 接近\nvi. 接界, 近似\n[计] 边框",
+      "en": "n. a strip forming the outer edge of something\nv. provide with a border or edge\nv. lie adjacent to another or share a boundary",
+      "phonetic": "'bɒ:dә",
+      "forms": [
+        "border"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v63",
+      "term": "cave",
+      "headword": "cave",
+      "kind": "word",
+      "zh": "n. 洞, 穴\nvi. 凹陷, 塌落\nvt. 挖洞, 使凹陷, 损坏...的基础",
+      "en": "n. a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea\nv. hollow out as if making a cave or opening\nv. explore natural caves",
+      "phonetic": "keiv",
+      "forms": [
+        "cave"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v64",
+      "term": "africa",
+      "headword": "Africa",
+      "kind": "word",
+      "zh": "n. 非洲",
+      "en": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean",
+      "phonetic": "'æfrikә",
+      "forms": [
+        "africa"
+      ],
+      "example": "For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.",
+      "paragraph": 8,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v65",
+      "term": "namibia",
+      "headword": "Namibia",
+      "kind": "word",
+      "zh": "n. 纳米比亚",
+      "en": "n. a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa",
+      "phonetic": "nә'mi:biә",
+      "forms": [
+        "namibia"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v66",
+      "term": "beetle",
+      "headword": "beetle",
+      "kind": "word",
+      "zh": "n. 甲虫, 大槌\nvi. 快速移动\nvt. 捶",
+      "en": "n. insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings\nv. fly or go in a manner resembling a beetle\nv. beat with a beetle\ns. jutting or overhanging",
+      "phonetic": "'bi:tl",
+      "forms": [
+        "beetle"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v67",
+      "term": "larvae",
+      "headword": "larva",
+      "kind": "word",
+      "zh": "n. 幼虫\n[医] 幼虫(昆虫), 蚴(蠕虫)",
+      "en": "n. the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundamentally unlike its parent and must metamorphose",
+      "phonetic": "'lɑ:vә",
+      "forms": [
+        "larvae"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v68",
+      "term": "as well as",
+      "headword": "as well as",
+      "kind": "phrase",
+      "zh": "以及；除……之外还",
+      "en": "in addition to",
+      "forms": [
+        "as well as"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v69",
+      "term": "succulent",
+      "headword": "succulent",
+      "kind": "word",
+      "zh": "a. 多汁的, 多水分的\n[医] 多汁的(植物)",
+      "en": "n. a plant adapted to arid conditions and characterized by fleshy water-storing tissues that act as water reservoirs",
+      "phonetic": "'sʌkjulәnt",
+      "forms": [
+        "succulent"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v70",
+      "term": "bushman",
+      "headword": "bushman",
+      "kind": "word",
+      "zh": "n. 澳大利亚丛林中的居民,林区(或边远地区)的人",
+      "en": "n. a member of the race of nomadic hunters and gatherers who live in southern Africa\nn. a dweller in the Australian bush country",
+      "phonetic": "'bjʃmәn",
+      "forms": [
+        "bushman"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v71",
+      "term": "adenium",
+      "headword": "adenium",
+      "kind": "word",
+      "zh": "[医] 箭毒胶属(夹竹桃科)",
+      "en": "n one species: succulent shrub or tree of tropical Africa and Arabia",
+      "phonetic": "",
+      "forms": [
+        "adenium"
+      ],
+      "example": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v72",
+      "term": "unidentified",
+      "headword": "unidentified",
+      "kind": "word",
+      "zh": "a. 未被认出的, 未经确认的",
+      "en": "s. not yet identified",
+      "phonetic": ".ʌnai'dentifaid",
+      "forms": [
+        "unidentified"
+      ],
+      "example": "Many other toxins remain unidentified, despite their use as a hunting aid being well established.",
+      "paragraph": 9,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v73",
+      "term": "direct",
+      "headword": "direct",
+      "kind": "word",
+      "zh": "a. 直接的, 坦白的\nvt. 指示, 指挥, 命令, 导演\nvi. 指导, 指挥\nadv. 直接地",
+      "en": "v. command with authority\nv. guide the actors in (plays and films)\nv. be in charge of\nv. give directions to; point somebody into a certain direction",
+      "phonetic": "di'rekt",
+      "forms": [
+        "direct"
+      ],
+      "example": "The oldest direct evidence of the use of poisoned microlithic (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v74",
+      "term": "microlithic",
+      "headword": "microlithic",
+      "kind": "word",
+      "zh": "a. 细石器的",
+      "en": "a. Formed of small stones.",
+      "phonetic": "'maikrәu'liθik",
+      "forms": [
+        "microlithic"
+      ],
+      "example": "The oldest direct evidence of the use of poisoned microlithic (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v75",
+      "term": "shelter",
+      "headword": "shelter",
+      "kind": "word",
+      "zh": "n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽\nvt. 庇护, 保护, 隐匿\nvi. 躲避",
+      "en": "n. a structure that provides privacy and protection from danger\nn. protective covering that provides protection from the weather\nn. temporary housing for homeless or displaced persons\nv. provide shelter for",
+      "phonetic": "'ʃeltә",
+      "forms": [
+        "shelter"
+      ],
+      "example": "The oldest direct evidence of the use of poisoned microlithic (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v76",
+      "term": "derived",
+      "headword": "derive",
+      "kind": "word",
+      "zh": "vt. 得自\nvi. 起源",
+      "en": "v. obtain\nv. come from\nv. develop or evolve from a latent or potential state\nv. come from; be connected by a relationship of blood, for example",
+      "phonetic": "di'raiv",
+      "forms": [
+        "derived"
+      ],
+      "example": "The poison is likely to have derived from a bulbous plant native to Africa called Boophone disticha.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v77",
+      "term": "bulbous",
+      "headword": "bulbous",
+      "kind": "word",
+      "zh": "a. 球茎的, 球茎状的, 由球茎生长的\n[医] 球状的, 球的",
+      "en": "s shaped like a bulb\ns curving outward",
+      "phonetic": "'bʌlbәs",
+      "forms": [
+        "bulbous"
+      ],
+      "example": "The poison is likely to have derived from a bulbous plant native to Africa called Boophone disticha.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v78",
+      "term": "native",
+      "headword": "native",
+      "kind": "word",
+      "zh": "n. 本地人, 土产, 当地人\na. 本国的, 与生俱来的, 自然的",
+      "en": "n. an indigenous person who was born in a particular place\nn. a person born in a particular place or country\nn. indigenous plants and animals\na. characteristic of or existing by virtue of geographic origin",
+      "phonetic": "'neitiv",
+      "forms": [
+        "native"
+      ],
+      "example": "The poison is likely to have derived from a bulbous plant native to Africa called Boophone disticha.",
+      "paragraph": 10,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v79",
+      "term": "recovered",
+      "headword": "recover",
+      "kind": "word",
+      "zh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉\n[计] 恢复",
+      "en": "v. get or find back; recover the use of\nv. regain a former condition after a financial loss\nv. regain or make up for\nv. cover anew",
+      "phonetic": "ri'kʌvә",
+      "forms": [
+        "recovered"
+      ],
+      "example": "The archaeological levels in which these poisoned arrows were recovered have been dated to 60,000 years old, suggesting that this technology has deep roots.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v80",
+      "term": "dated",
+      "headword": "date",
+      "kind": "word",
+      "zh": "n. 日期, 约会, 枣椰树\nvt. 约会, 定日期\nvi. 注明日期, 过时",
+      "en": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time",
+      "phonetic": "deit",
+      "forms": [
+        "dated"
+      ],
+      "example": "The archaeological levels in which these poisoned arrows were recovered have been dated to 60,000 years old, suggesting that this technology has deep roots.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v81",
+      "term": "roots",
+      "headword": "root",
+      "kind": "word",
+      "zh": "n. 根, 根本, 根源, 基础, 底部\nvt. 使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱\nvi. 生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持",
+      "en": "n. (botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground\nn. (linguistics) the form of a word after all affixes are removed\nn. a number that, when multiplied by itself some number of times, equals a given number\nn. the part of a tooth that is embedded in the jaw and serves as support",
+      "phonetic": "ru:t",
+      "forms": [
+        "roots"
+      ],
+      "example": "The archaeological levels in which these poisoned arrows were recovered have been dated to 60,000 years old, suggesting that this technology has deep roots.",
+      "paragraph": 11,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v82",
+      "term": "precautions",
+      "headword": "precaution",
+      "kind": "word",
+      "zh": "n. 预防, 留心, 警戒\nvt. 预先警告",
+      "en": "n. a precautionary measure warding off impending danger or damage or injury etc.\nn. the trait of practicing caution in advance",
+      "phonetic": "pri'kɒ:ʃәn",
+      "forms": [
+        "precautions"
+      ],
+      "example": "For poison to be effective, a certain set of skills and precautions are vital.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v83",
+      "term": "vital",
+      "headword": "vital",
+      "kind": "word",
+      "zh": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+      "en": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+      "phonetic": "'vaitl",
+      "forms": [
+        "vital"
+      ],
+      "example": "For poison to be effective, a certain set of skills and precautions are vital.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v84",
+      "term": "hunters",
+      "headword": "hunter",
+      "kind": "word",
+      "zh": "n. 猎人, 猎犬, 追求者",
+      "en": "n. someone who hunts game\nn. a person who searches for something\nn. a watch with a hinged metal lid to protect the crystal",
+      "phonetic": "'hʌntә",
+      "forms": [
+        "hunters"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v85",
+      "term": "gathered",
+      "headword": "gather",
+      "kind": "word",
+      "zh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚",
+      "en": "n. sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching\nn. the act of gathering something\nv. assemble or get together\nv. conclude from evidence",
+      "phonetic": "'gæðә",
+      "forms": [
+        "gathered"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v86",
+      "term": "exact",
+      "headword": "exact",
+      "kind": "word",
+      "zh": "a. 精确的, 准确的, 精密的\nvt. 强求, 急需",
+      "en": "a. marked by strict and particular and complete accordance with fact",
+      "phonetic": "ig'zækt",
+      "forms": [
+        "exact"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v87",
+      "term": "concentrate",
+      "headword": "concentrate",
+      "kind": "word",
+      "zh": "n. 浓缩, 精选\nv. 集中, 专心",
+      "en": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something",
+      "phonetic": "'kɒnsәntreit",
+      "forms": [
+        "concentrate"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v88",
+      "term": "employ",
+      "headword": "employ",
+      "kind": "word",
+      "zh": "n. 雇用\nvt. 雇用, 使用, 使从事于",
+      "en": "n the state of being employed or having a job\nv put into service; make work or employ for a particular purpose or for its inherent or natural purpose\nv engage or hire for work",
+      "phonetic": "im'plɒi",
+      "forms": [
+        "employ"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v89",
+      "term": "contaminating",
+      "headword": "contaminate",
+      "kind": "word",
+      "zh": "vt. 弄污, 弄脏, 污染, 毒害\n[化] 污染",
+      "en": "v. make radioactive by adding radioactive material",
+      "phonetic": "kәn'tæmineit",
+      "forms": [
+        "contaminating"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v90",
+      "term": "meat",
+      "headword": "meat",
+      "kind": "word",
+      "zh": "n. 肉, 餐, 食物\n[经] 肉类",
+      "en": "n. the flesh of animals (including fishes and birds and snails) used as food",
+      "phonetic": "mi:t",
+      "forms": [
+        "meat"
+      ],
+      "example": "Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.",
+      "paragraph": 12,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v91",
+      "term": "depends",
+      "headword": "depend",
+      "kind": "word",
+      "zh": "vi. 靠, 视...而定, 信赖",
+      "en": "v. be contingent upon (something that is elided)",
+      "phonetic": "di'pend",
+      "forms": [
+        "depends"
+      ],
+      "example": "This depends on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v92",
+      "term": "necessitates",
+      "headword": "necessitate",
+      "kind": "word",
+      "zh": "vt. 迫使, 使成为必需, 需要",
+      "en": "v. require as useful, just, or proper\nv. cause to be a concomitant",
+      "phonetic": "ni'sesiteit",
+      "forms": [
+        "necessitates"
+      ],
+      "example": "This depends on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v93",
+      "term": "crucial",
+      "headword": "crucial",
+      "kind": "word",
+      "zh": "a. 决定性的, 重要的, 严厉的\n[医] 十字形的; 决断的, 定局的",
+      "en": "a. of extreme importance; vital to the resolution of a crisis\ns. having crucial relevance",
+      "phonetic": "'kru:ʃәl",
+      "forms": [
+        "crucial"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v94",
+      "term": "distinction",
+      "headword": "distinction",
+      "kind": "word",
+      "zh": "n. 区别",
+      "en": "n. a distinguishing quality\nn. a distinguishing difference",
+      "phonetic": "dis'tiŋkʃәn",
+      "forms": [
+        "distinction"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v95",
+      "term": "substance",
+      "headword": "substance",
+      "kind": "word",
+      "zh": "n. 物质, 实质, 主旨, 资产, 本质, 牢固\n[化] 物质",
+      "en": "n. the real physical matter of which a person or thing consists\nn. material of a particular kind or constitution\nn. a particular kind or species of matter with uniform properties",
+      "phonetic": "'sʌbstәns",
+      "forms": [
+        "substance"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v96",
+      "term": "deadly",
+      "headword": "deadly",
+      "kind": "word",
+      "zh": "a. 致命的, 致死的\nadv. 非常, 如死一般地",
+      "en": "s. causing or capable of causing death\ns. of an instrument of certain death\ns. extremely poisonous or injurious; producing venom\ns. involving loss of divine grace or spiritual death",
+      "phonetic": "'dedli",
+      "forms": [
+        "deadly"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v97",
+      "term": "poorly",
+      "headword": "poorly",
+      "kind": "word",
+      "zh": "adv. 贫穷地, 不充分地, 贫乏地\na. 身体不舒服的",
+      "en": "s somewhat ill or prone to illness\nr (`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well",
+      "phonetic": "'puәli",
+      "forms": [
+        "poorly"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v98",
+      "term": "absorbed",
+      "headword": "absorb",
+      "kind": "word",
+      "zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担\n[医] 吸收",
+      "en": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically",
+      "phonetic": "әb'sɒ:b",
+      "forms": [
+        "absorbed"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v99",
+      "term": "swallowed",
+      "headword": "swallow",
+      "kind": "word",
+      "zh": "n. 燕子, 吞咽, 喉\nvt. 咽, 淹没, 吞没, 耗尽, 轻信, 忍受, 抑制\nvi. 吞下, 咽下",
+      "en": "n. a small amount of liquid food\nn. the act of swallowing\nn. small long-winged songbird noted for swift graceful flight and the regularity of its migrations\nv. pass through the esophagus as part of eating or drinking",
+      "phonetic": "'swɒlәu",
+      "forms": [
+        "swallowed"
+      ],
+      "example": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+      "paragraph": 13,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v100",
+      "term": "infer",
+      "headword": "infer",
+      "kind": "word",
+      "zh": "vt. 推论出, 推断\nvi. 作推论",
+      "en": "v reason by deduction; establish by deduction\nv draw from specific cases for more general cases\nv conclude by reasoning; in logic\nv guess correctly; solve by guessing\nv believe to be the case",
+      "phonetic": "in'fә:",
+      "forms": [
+        "infer"
+      ],
+      "example": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v101",
+      "term": "shape",
+      "headword": "shape",
+      "kind": "word",
+      "zh": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+      "en": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function",
+      "phonetic": "ʃeip",
+      "forms": [
+        "shape",
+        "shaped"
+      ],
+      "example": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v102",
+      "term": "availability",
+      "headword": "availability",
+      "kind": "word",
+      "zh": "n. 有效性, 可利用性, 可利用的人\n[计] 有效性; 可用性",
+      "en": "n the quality of being at hand when needed",
+      "phonetic": "ә.veilә'biliti",
+      "forms": [
+        "availability"
+      ],
+      "example": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v103",
+      "term": "toxic",
+      "headword": "toxic",
+      "kind": "word",
+      "zh": "a. 有毒的, 中毒的\n[医] 中毒的, 毒物的",
+      "en": "a. of or relating to or caused by a toxin or poison",
+      "phonetic": "'tɒksik",
+      "forms": [
+        "toxic"
+      ],
+      "example": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
+      "paragraph": 14,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v104",
+      "term": "such as",
+      "headword": "such as",
+      "kind": "phrase",
+      "zh": "例如；诸如",
+      "en": "used to introduce examples",
+      "forms": [
+        "such as"
+      ],
+      "example": "Their study suggests poison may have been common in the early Mesolithic to hunt large animals such as elk and aurochs.",
+      "paragraph": 15,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v105",
+      "term": "aurochs",
+      "headword": "aurochs",
+      "kind": "word",
+      "zh": "n. 现代欧洲野牛",
+      "en": "n. large recently extinct long-horned European wild ox; considered one of the ancestors of domestic cattle",
+      "phonetic": "'ɒ:rɒks",
+      "forms": [
+        "aurochs"
+      ],
+      "example": "Their study suggests poison may have been common in the early Mesolithic to hunt large animals such as elk and aurochs.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v106",
+      "term": "traces",
+      "headword": "trace",
+      "kind": "word",
+      "zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳\nvt. 追踪, 回溯, 描绘\nvi. 追溯, 沿路走",
+      "en": "n. a just detectable amount\nn. an indication that something has been present\nn. either of two lines that connect a horse's harness to a wagon or other vehicle or to a whiffletree\nn. a visible mark (as a footprint) left by the passage of person or animal or vehicle",
+      "phonetic": "treis",
+      "forms": [
+        "traces"
+      ],
+      "example": "The authors suggest that future studies might be able to directly test for minute traces of toxin.",
+      "paragraph": 15,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v107",
+      "term": "associated",
+      "headword": "associate",
+      "kind": "word",
+      "zh": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+      "en": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
+      "phonetic": "ә'sәuʃieit",
+      "forms": [
+        "associated"
+      ],
+      "example": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v108",
+      "term": "associated with",
+      "headword": "associated with",
+      "kind": "phrase",
+      "zh": "与……相关",
+      "en": "connected with without necessarily implying causation",
+      "forms": [
+        "associated with"
+      ],
+      "example": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v109",
+      "term": "tradition",
+      "headword": "tradition",
+      "kind": "word",
+      "zh": "n. 传说, 传统, 交付\n[法] 传统, 惯例, 移交",
+      "en": "n. an inherited pattern of thought or action",
+      "phonetic": "trә'diʃәn",
+      "forms": [
+        "tradition"
+      ],
+      "example": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v110",
+      "term": "duration",
+      "headword": "duration",
+      "kind": "word",
+      "zh": "n. 持续时间, 持续\n[计] 持续时间",
+      "en": "n. the period of time during which something continues\nn. the property of enduring or continuing in time\nn. continuance in time",
+      "phonetic": "dju'reiʃәn",
+      "forms": [
+        "duration"
+      ],
+      "example": "The tradition’s duration and expression varied by region.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v111",
+      "term": "expression",
+      "headword": "expression",
+      "kind": "word",
+      "zh": "n. 表达, 表现, 词语, 措辞\n[计] 表达式",
+      "en": "n. the feelings expressed on a person's face\nn. expression without words\nn. the communication (in speech or writing) of your beliefs or opinions\nn. (genetics) the process of expressing a gene",
+      "phonetic": "ik'spreʃәn",
+      "forms": [
+        "expression"
+      ],
+      "example": "The tradition’s duration and expression varied by region.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v112",
+      "term": "varied",
+      "headword": "vary",
+      "kind": "word",
+      "zh": "vt. 改变, 使多样化\nvi. 变化, 有不同, 违反",
+      "en": "v. be subject to change in accordance with a variable\nv. make something more diverse and varied",
+      "phonetic": "'vєәri",
+      "forms": [
+        "varied"
+      ],
+      "example": "The tradition’s duration and expression varied by region.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v113",
+      "term": "trend",
+      "headword": "trend",
+      "kind": "word",
+      "zh": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+      "en": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+      "phonetic": "trend",
+      "forms": [
+        "trend"
+      ],
+      "example": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v114",
+      "term": "towards",
+      "headword": "towards",
+      "kind": "word",
+      "zh": "prep. 向, 对于, 为了",
+      "en": "prep. In the direction of; to.\nprep. With direction to, in a moral sense; with respect or\n   reference to; regarding; concerning.\nprep. Tending to; in the direction of; in behalf of.\nprep. Near; about; approaching to.\nadv. Near; at hand; in state of preparation.\nprep. & adv. See Toward.",
+      "phonetic": "tә'wɔ:dz",
+      "forms": [
+        "towards"
+      ],
+      "example": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v115",
+      "term": "miniaturisation",
+      "headword": "miniaturisation",
+      "kind": "word",
+      "zh": "[医]小型化, 微型化",
+      "en": "n act of making on a greatly reduced scale",
+      "phonetic": "mɪnɪtʃəraɪ'zeɪʃən",
+      "forms": [
+        "miniaturisation"
+      ],
+      "example": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v116",
+      "term": "stone tools",
+      "headword": "stone tools",
+      "kind": "phrase",
+      "zh": "石器",
+      "en": "tools made from stone",
+      "forms": [
+        "stone tools"
+      ],
+      "example": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+      "paragraph": 16,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v117",
+      "term": "successor",
+      "headword": "successor",
+      "kind": "word",
+      "zh": "n. 继承者, 接任者\n[计] 后继",
+      "en": "n. a person who follows next in order\nn. a thing or person that immediately replaces something or someone\nn. a person who inherits some title or office",
+      "phonetic": "sәk'sesә",
+      "forms": [
+        "successor"
+      ],
+      "example": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v118",
+      "term": "fits",
+      "headword": "fit",
+      "kind": "word",
+      "zh": "n. 适宜, 合身, 发作, 痉挛\na. 适宜的, 对的, 准备好的\nvt. 适合, 安装, 使合身, 使适应, 使合格\nvi. 适合, 符合, 合身\n[计] 非特",
+      "en": "n. a display of bad temper\nn. the manner in which something fits\nv. be the right size or shape; fit correctly or as desired\nv. make fit",
+      "phonetic": "fit",
+      "forms": [
+        "fits"
+      ],
+      "example": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe. The tradition’s duration and expression varied by region. As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures. The Danish evidence fits into this trend.",
+      "paragraph": 16,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v119",
+      "term": "ancient",
+      "headword": "ancient",
+      "kind": "word",
+      "zh": "a. 古代的, 古老的, 年老的, 旧的",
+      "en": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old",
+      "phonetic": "'einʃәnt",
+      "forms": [
+        "ancient"
+      ],
+      "example": "Ancient DNA evidence suggests a new population was expanding across Europe at this time.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v120",
+      "term": "Ancient DNA",
+      "headword": "ancient DNA",
+      "kind": "phrase",
+      "zh": "古代 DNA",
+      "en": "genetic material recovered from ancient remains",
+      "forms": [
+        "Ancient DNA"
+      ],
+      "example": "Ancient DNA evidence suggests a new population was expanding across Europe at this time.",
+      "paragraph": 17,
+      "source": "Editorial glossary"
+    },
+    {
+      "id": "v121",
+      "term": "expanding",
+      "headword": "expand",
+      "kind": "word",
+      "zh": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+      "en": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
+      "phonetic": "ik'spænd",
+      "forms": [
+        "expanding"
+      ],
+      "example": "Ancient DNA evidence suggests a new population was expanding across Europe at this time.",
+      "paragraph": 17,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v122",
+      "term": "universal",
+      "headword": "universal",
+      "kind": "word",
+      "zh": "a. 全世界的, 普遍的, 宇宙的, 通用的\nn. 一般概念",
+      "en": "n. (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages\nn. (logic) a proposition that asserts something of all members of a class\nn. a behavioral convention or pattern characteristic of all members of a particular culture or of all human beings\ns. applicable to or common to all members of a group or set",
+      "phonetic": ".ju:ni'vә:sl",
+      "forms": [
+        "universal"
+      ],
+      "example": "Poisoned arrows were not a universal hunter-gatherer technology, but they were used by many hunting peoples in different parts of the world.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v123",
+      "term": "tiny",
+      "headword": "tiny",
+      "kind": "word",
+      "zh": "a. 很少的, 微小的",
+      "en": "s very small",
+      "phonetic": "'taini",
+      "forms": [
+        "tiny"
+      ],
+      "example": "The Danish finds raise the possibility that this strategy also shaped how Mesolithic hunters designed their tiny stone arrow tips.",
+      "paragraph": 18,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v124",
+      "term": "inferences",
+      "headword": "inference",
+      "kind": "word",
+      "zh": "n. 推论\n[法] 推论, 推理, 推断",
+      "en": "n. the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation",
+      "phonetic": "'infәrәns",
+      "forms": [
+        "inferences"
+      ],
+      "example": "The study shows that important inferences can be made about ancient technology, even in the absence of the toxin itself.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v125",
+      "term": "absence",
+      "headword": "absence",
+      "kind": "word",
+      "zh": "n. 缺席, 缺乏, 没有\n[医] 失神",
+      "en": "n. the state of being absent\nn. failure to be present\nn. the time interval during which something or somebody is away\nn. the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc.; common in petit mal epilepsy",
+      "phonetic": "'æbsәns",
+      "forms": [
+        "absence"
+      ],
+      "example": "The study shows that important inferences can be made about ancient technology, even in the absence of the toxin itself.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v126",
+      "term": "ponder",
+      "headword": "ponder",
+      "kind": "word",
+      "zh": "v. 沉思, 考虑",
+      "en": "v reflect deeply on a subject",
+      "phonetic": "'pɒndә",
+      "forms": [
+        "ponder"
+      ],
+      "example": "Something to ponder on your next woodland walk.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    },
+    {
+      "id": "v127",
+      "term": "woodland",
+      "headword": "woodland",
+      "kind": "word",
+      "zh": "n. 林区, 林地",
+      "en": "n land that is covered with trees and shrubs",
+      "phonetic": "'wudlænd",
+      "forms": [
+        "woodland"
+      ],
+      "example": "Something to ponder on your next woodland walk.",
+      "paragraph": 19,
+      "source": "ECDICT"
+    }
+  ],
+  "cloze": {
+    "title": "原文选词填空",
+    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "sourceParagraphs": [
+      8,
+      16
+    ],
+    "wordBank": [
+      "contexts",
+      "towards",
+      "vital",
+      "poorly",
+      "microlithic",
+      "toxic",
+      "larvae",
+      "hunter-gatherers",
+      "depends",
+      "recovered"
+    ],
+    "parts": [
+      {
+        "text": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic "
+      },
+      {
+        "gap": 1
+      },
+      {
+        "text": ". For example, ricin – which is made from the castor bean plant – has been linked to a 24,000-year-old poison applicator at Border Cave, KwaZulu-Natal in South Africa.\n\nThe San and Ju|’hoan people of Namibia use beetle "
+      },
+      {
+        "gap": 2
+      },
+      {
+        "text": ", as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum). Many other toxins remain unidentified, despite their use as a hunting aid being well established.\n\nThe oldest direct evidence of the use of poisoned "
+      },
+      {
+        "gap": 3
+      },
+      {
+        "text": " (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal. The poison is likely to have derived from a bulbous plant native to Africa called Boophone disticha.\n\nThe archaeological levels in which these poisoned arrows were "
+      },
+      {
+        "gap": 4
+      },
+      {
+        "text": " have been dated to 60,000 years old, suggesting that this technology has deep roots.\n\nFor poison to be effective, a certain set of skills and precautions are "
+      },
+      {
+        "gap": 5
+      },
+      {
+        "text": ". Hunters require detailed knowledge of the plant or animal from which the poison can be gathered, the exact way to prepare it, how to concentrate and mix the poison and the best way to employ the toxin without contaminating the meat of your kill.\n\nThis "
+      },
+      {
+        "gap": 6
+      },
+      {
+        "text": " on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound. The crucial distinction is that a substance can be deadly through a wound but may only be "
+      },
+      {
+        "gap": 7
+      },
+      {
+        "text": " absorbed when swallowed.\n\nFor the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of "
+      },
+      {
+        "gap": 8
+      },
+      {
+        "text": " plants in the environment.\n\nTheir study suggests poison may have been common in the early Mesolithic to hunt large animals such as elk and aurochs. The authors suggest that future studies might be able to directly test for minute traces of toxin.\n\nFrom about 19,000 to 12,500 BC, "
+      },
+      {
+        "gap": 9
+      },
+      {
+        "text": " associated with the Magdalenian tradition lived across much of western and central Europe. The tradition’s duration and expression varied by region. As the Magdalenian came to an end, there’s a trend "
+      },
+      {
+        "gap": 10
+      },
+      {
+        "text": " miniaturisation in the stone tools used by successor cultures. The Danish evidence fits into this trend."
+      }
+    ],
+    "questions": [
+      {
+        "id": "c1",
+        "number": 1,
+        "answer": "contexts",
+        "vocabularyId": "v55",
+        "explanation": "原文此处使用 contexts（context）。结合上下文辨认词义与词形。",
+        "evidence": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+        "paragraph": 8
+      },
+      {
+        "id": "c2",
+        "number": 2,
+        "answer": "larvae",
+        "vocabularyId": "v67",
+        "explanation": "原文此处使用 larvae（larva）。结合上下文辨认词义与词形。",
+        "evidence": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
+        "paragraph": 9
+      },
+      {
+        "id": "c3",
+        "number": 3,
+        "answer": "microlithic",
+        "vocabularyId": "v74",
+        "explanation": "原文此处使用 microlithic（microlithic）。结合上下文辨认词义与词形。",
+        "evidence": "The oldest direct evidence of the use of poisoned microlithic (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal.",
+        "paragraph": 10
+      },
+      {
+        "id": "c4",
+        "number": 4,
+        "answer": "recovered",
+        "vocabularyId": "v79",
+        "explanation": "原文此处使用 recovered（recover）。结合上下文辨认词义与词形。",
+        "evidence": "The archaeological levels in which these poisoned arrows were recovered have been dated to 60,000 years old, suggesting that this technology has deep roots.",
+        "paragraph": 11
+      },
+      {
+        "id": "c5",
+        "number": 5,
+        "answer": "vital",
+        "vocabularyId": "v83",
+        "explanation": "原文此处使用 vital（vital）。结合上下文辨认词义与词形。",
+        "evidence": "For poison to be effective, a certain set of skills and precautions are vital.",
+        "paragraph": 12
+      },
+      {
+        "id": "c6",
+        "number": 6,
+        "answer": "depends",
+        "vocabularyId": "v91",
+        "explanation": "原文此处使用 depends（depend）。结合上下文辨认词义与词形。",
+        "evidence": "This depends on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound.",
+        "paragraph": 13
+      },
+      {
+        "id": "c7",
+        "number": 7,
+        "answer": "poorly",
+        "vocabularyId": "v97",
+        "explanation": "原文此处使用 poorly（poorly）。结合上下文辨认词义与词形。",
+        "evidence": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
+        "paragraph": 13
+      },
+      {
+        "id": "c8",
+        "number": 8,
+        "answer": "toxic",
+        "vocabularyId": "v103",
+        "explanation": "原文此处使用 toxic（toxic）。结合上下文辨认词义与词形。",
+        "evidence": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
+        "paragraph": 14
+      },
+      {
+        "id": "c9",
+        "number": 9,
+        "answer": "hunter-gatherers",
+        "vocabularyId": "v38",
+        "explanation": "原文此处使用 hunter-gatherers（hunter-gatherer）。结合上下文辨认词义与词形。",
+        "evidence": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
+        "paragraph": 16
+      },
+      {
+        "id": "c10",
+        "number": 10,
+        "answer": "towards",
+        "vocabularyId": "v114",
+        "explanation": "原文此处使用 towards（towards）。结合上下文辨认词义与词形。",
+        "evidence": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
+        "paragraph": 16
+      }
+    ]
+  },
+  "reading": {
+    "title": "主旨、理解与信息定位",
+    "instruction": "阅读原文后回答 5 道选择题：1 道主旨、1 道内容理解、1 道段落细节、2 道信息定位。段落细节题以题干指定段落为准。",
+    "questions": [
+      {
+        "id": "r1",
+        "type": "main-idea",
+        "prompt": "Which statement best summarises the overall focus of this article?",
+        "options": [
+          "A compass works by aligning a magnetised needle with Earth's magnetic field.",
+          "An ancient Arabian lakeshore provides evidence of human life in a landscape once much greener than today.",
+          "Safety practices in hazardous industries offer lessons for regulating artificial intelligence.",
+          "Evidence suggests prehistoric northern European hunters may have used poisoned arrows."
+        ],
+        "answer": 3,
+        "explanation": "把标题与全文各段的中心内容连起来判断主旨，避免把同一主题下的其他话题当成本文重点。",
+        "evidence": "But poisoned arrows need only wound a prey animal enough to allow the poison to enter the blood stream.",
+        "paragraph": 5
+      },
+      {
+        "id": "r2",
+        "type": "comprehension",
+        "prompt": "Which period's Danish stone tools did the researchers examine?",
+        "options": [
+          "The era of commercial spaceflight",
+          "The period after modern antibiotics were developed",
+          "The Mesolithic, before farming arrived",
+          "The age of industrial railways"
+        ],
+        "answer": 2,
+        "explanation": "第 3 段提供了作答依据。正确选项用不同说法表达了文中的信息；请比较范围、数量、因果关系与限定词。",
+        "evidence": "The authors of the latest research examined Danish stone tool technology from the period immediately preceding the arrival of farming in Europe – the Mesolithic.",
+        "paragraph": 3
+      },
+      {
+        "id": "r3",
+        "type": "detail",
+        "prompt": "Which of the following statements is explicitly made in paragraph 8?",
+        "options": [
+          "These include northern water hemlock, European birdcherry, buttercup and bittersweet nightshade, which have been proposed as possible toxins on arrow points.",
+          "This depends on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound.",
+          "For poison to be effective, a certain set of skills and precautions are vital.",
+          "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts."
+        ],
+        "answer": 3,
+        "explanation": "定位第 8 段，比较四个选项的具体信息。其余选项来自本文其他段落，并非本段明确陈述的内容。",
+        "evidence": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
+        "paragraph": 8
+      },
+      {
+        "id": "r4",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“For poison to be effective, a certain set of skills and precautions are vital.”",
+        "options": [
+          "Paragraph 9",
+          "Paragraph 1",
+          "Paragraph 12",
+          "Paragraph 11"
+        ],
+        "answer": 2,
+        "explanation": "这句话位于第 12 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "For poison to be effective, a certain set of skills and precautions are vital.",
+        "paragraph": 12
+      },
+      {
+        "id": "r5",
+        "type": "locate-information",
+        "prompt": "Which paragraph contains the following information?\n“From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.”",
+        "options": [
+          "Paragraph 16",
+          "Paragraph 19",
+          "Paragraph 2",
+          "Paragraph 6"
+        ],
+        "answer": 0,
+        "explanation": "这句话位于第 16 段。先找关键词，再核对上下文；正文页显示相同的段落编号。",
+        "evidence": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
+        "paragraph": 16
+      }
+    ]
+  },
+  "revision": "60e1aa913a87e1128b0bb8f626d0e07a28f22e601407f4918f10894975f59250"
+}

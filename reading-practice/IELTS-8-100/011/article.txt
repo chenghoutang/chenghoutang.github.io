@@ -1,0 +1,47 @@
+When you walk through a gallery, admiring the paintings on the walls, what you are seeing are finished products. They are the result of countless hours of learning and practice and trial and error, but none of that is on display.
+
+Most expert work we see is like this. Musical recordings don’t include the bad takes and jam sessions, published books leave out the messy drafts, and scientific papers don’t mention the years of false starts and dead ends.
+
+In other words, what we actually see is a trace of the real process that produced it. These traces are what artificial intelligence (AI) models are trained on – and as a result, they produce traces themselves, which are shaped like the products of thought but aren’t necessarily made the same way.
+
+In a new paper, we argue that focusing on traces while leaving out process hobbles current AI systems – and the same problem can arise for the people who use those systems.
+
+Traces and friction
+
+Newer “reasoning” models may print out a report of their steps, but that reported reasoning is itself another trace. It often fails to line up with the actual computation driving the answer.
+
+Agentic systems come slightly closer to real thinking. Here, a software “harness” around a large language model runs a loop, feeds results back, and introduces some genuine trial-and-error revision into the process. But the chain of thought in the middle – the part produced by the large language model – is still a trace.
+
+The gap is widest in creative domains. Painters and musicians sometimes talk about how their work was transformed by accidents and friction that happened while making it, such as paint running unexpectedly, or an instrument sounding “off”. AI models never encounter anything like this.
+
+Use it or lose it
+
+The human form of this problem is much older than AI. In 1997, an American Airlines captain warned that pilots were becoming “children of the magenta line”.
+
+They followed the plane’s flight computer so faithfully that their manual flying skills were decaying. Aviation has taken steps to manage automation dependency ever since.
+
+The same thing happened when some medical clinics adopted AI-assisted colonoscopy, using software to flag possible polyps on the live camera feed. After a while, the skills of the human clinicians began to erode: they detected fewer polyps when working without the AI system than they had before its introduction.
+
+This effect has been seen in classrooms, too. High school mathematics students given unrestricted generative AI support outperformed their peers when the tool was available, but scored lower once it was taken away.
+
+This deterioration can occur rapidly. One study found roughly ten minutes of AI assistance was enough to make people perform worse without the AI, and to give up on problems sooner.
+
+Failures and mistakes are teachers
+
+What can be done about the problem? The answer may be to bring more process into the equation.
+
+For AI, this means building systems that use more human-like processes themselves. An assistant could revise its answer when someone challenges how it framed the problem, rather than simply agreeing, as current systems often do. Or an agent could learn from failures and mistakes, allowing pushback from the world to materially change how it treats the task.
+
+For humans, this means designing AI tools that preserve the processes of intelligence within a person. In a trial at Harvard, students taught by a well-built AI physics tutor learned more, and faster, than peers in an active-learning classroom because the tutor kept them doing the generative work.
+
+A good AI teaching assistant should offer the next question along the path to an answer more often than it simply offers the answer. Sometimes it should raise an ambiguity rather than resolve one, because sound judgement often emerges from slow deliberation over what one does not know.
+
+Process, process, process
+
+Process is what lets real intelligence and creativity emerge. An artificial system that incorporates more of that process will more closely resemble the real thing.
+
+Human learning too requires process. In education, and in any skilled enterprise, we need to consider how AI systems are designed and used to preserve more of the thinking and learning process.
+
+It is currently easy for machines to produce more traces of thought, but process is much harder to build. If we get it right, our machines can become more intelligent without making us less so.
+
+This article was written with Rachel W. Kallen, Ayeh Alhasan, Cassandra Crone, and David M. Kaplan. It draws on research with our colleagues Manuel Varlet, M. Paula Diaz Monfort, Patrick Nalepka, and Mark Dras.
