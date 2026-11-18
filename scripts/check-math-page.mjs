@@ -1,8 +1,8 @@
-import fs from 'node:fs';import os from 'node:os';import path from 'node:path';import assert from 'node:assert/strict';import {spawn} from 'node:child_process';import {pathToFileURL} from 'node:url';
-const root=path.resolve(new URL('..',import.meta.url).pathname.replace(/^\/([A-Za-z]:)/,'$1'));
+import fs from 'node:fs';import os from 'node:os';import path from 'node:path';import http from 'node:http';import assert from 'node:assert/strict';import {spawn} from 'node:child_process';import {pathToFileURL,fileURLToPath} from 'node:url';
+const root=fileURLToPath(new URL('..',import.meta.url));
 const profile=fs.mkdtempSync(path.join(os.tmpdir(),'dengduck-math-'));
 const browser=spawn('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',['--headless=new','--no-sandbox','--disable-extensions','--disable-gpu','--no-first-run','--remote-debugging-port=0','--user-data-dir='+profile,'about:blank'],{windowsHide:true,stdio:'ignore'});
-const delay=ms=>new Promise(r=>setTimeout(r,ms));let ws;const errors=[],pending=new Map();let id=0;
+const delay=ms=>new Promise(r=>setTimeout(r,ms));let ws,server;const errors=[],pending=new Map();let id=0;
 try{
  const file=path.join(profile,'DevToolsActivePort');for(let i=0;i<100&&!fs.existsSync(file);i++)await delay(100);
  const port=+fs.readFileSync(file,'utf8').split('\n')[0],tabs=await(await fetch(`http://127.0.0.1:${port}/json`)).json();
@@ -23,6 +23,9 @@ try{
  assert.equal(await run('document.querySelectorAll(".incorrect").length'),1);
  await run('document.querySelector("#scope").value="wrong";document.querySelector("#scope").dispatchEvent(new Event("change"))');
  assert.equal(await run('document.querySelectorAll(".question-link").length'),1);
+ assert.equal(await run('document.querySelector("#next").disabled'),true);
+ await run('document.querySelector("#scope").value="starred";document.querySelector("#scope").dispatchEvent(new Event("change"))');
+ assert.equal(await run('document.querySelectorAll(".question-link").length'),1);
  await cdp('Page.reload');await until('document.querySelectorAll("#options input").length===4');
  assert.equal(await run('document.querySelector("#feedback").hidden'),false);assert.equal(await run('document.querySelector("#star").getAttribute("aria-pressed")'),'true');
  await run('document.querySelector("#retry").click();const q=window.MATH_BATCHES[0].questions[0];document.querySelectorAll("#options input")[q.answer].click();document.querySelector("#submit").click()');
@@ -32,8 +35,20 @@ try{
  assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),String(total/3));
  await run('document.querySelector("#pause").click()');const t=await run('document.querySelector("#timer").textContent');await delay(1100);assert.equal(await run('document.querySelector("#timer").textContent'),t);
  for(const width of [320,390,1280]){await cdp('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<500});assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`overflow ${width}`);}
+ await cdp('Emulation.setDeviceMetricsOverride',{width:320,height:900,deviceScaleFactor:1,mobile:true});
+ const families=await run('window.MATH_BATCHES.flatMap(b=>b.questions).filter(q=>q.variant===1).map(q=>q.id)');
+ for(const qid of families){await run(`location.hash='${qid}'`);await until(`document.querySelector('#questionMeta').textContent.startsWith('${qid}')`);await run(`{const q=window.MATH_BATCHES.flatMap(b=>b.questions).find(q=>q.id==='${qid}');document.querySelectorAll('#options input')[q.answer].click();document.querySelector('#submit').click();}`);assert.equal(await run('document.querySelectorAll(".correct").length'),1,qid);assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`long formula overflow ${qid}`);assert.equal(await run('document.querySelectorAll(".katex-error").length'),0,qid);}
+ await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'math-mobile.png'),Buffer.from(p.data,'base64')));
  await run('document.querySelector("#search").value="no-such-question";document.querySelector("#search").dispatchEvent(new Event("input"))');assert.equal(await run('document.querySelector("#empty").hidden'),false);
  await cdp('Page.navigate',{url:url+'#M'+String(total).padStart(4,'0')});await until(`document.querySelector('#questionMeta').textContent.startsWith('M${String(total).padStart(4,'0')}')`);
  assert.equal(errors.length,0,JSON.stringify(errors));assert.equal(await run('document.querySelectorAll(".katex-error").length'),0);
- console.log(`PASS: ${total} questions in offline Chrome; LaTeX, answers, retry, wrong/starred records, reload, filters, timer, deep links, 320/390/1280px.`);
-}finally{ws?.close();browser.kill();}
+ await run('localStorage.setItem("dengduck-math-v1",JSON.stringify({answers:{M0001:null,M0002:{selected:99,submitted:true,elapsed:-1}},stars:["M0001","invalid"]}))');await cdp('Page.reload');await until('document.querySelectorAll("#options input").length===4');
+ server=http.createServer((req,res)=>{const name=decodeURIComponent(new URL(req.url,'http://localhost').pathname);let filename=path.resolve(root,'.'+name);if(!filename.startsWith(root)){res.writeHead(403);res.end();return;}if(name.endsWith('/'))filename=path.join(filename,'index.html');if(!fs.existsSync(filename)){res.writeHead(404);res.end();return;}res.setHeader('Content-Type',({'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json','.woff2':'font/woff2'}[path.extname(filename)]||'application/octet-stream'));fs.createReadStream(filename).pipe(res);});
+ await new Promise(r=>server.listen(0,'127.0.0.1',r));await cdp('Network.setBlockedURLs',{urls:['https://*']});await cdp('Emulation.setDeviceMetricsOverride',{width:1280,height:900,deviceScaleFactor:1,mobile:false});
+ await cdp('Page.navigate',{url:`http://127.0.0.1:${server.address().port}/index.html`});await until('!!document.querySelector("#learningFolder")');await run('document.querySelector("#learningFolder").click();document.querySelector("#learningDialog .c-math").click()');await until('document.querySelectorAll("#options input").length===4');
+ assert.equal(await run('window.MATH_MANIFEST.total'),total);assert.equal(await run('document.querySelectorAll("#topic option").length'),total/60+1);
+ await run('location.hash="M0041"');await until('document.querySelector("#questionMeta").textContent.startsWith("M0041")');await run('const question=window.MATH_BATCHES[0].questions.find(q=>q.id==="M0041");document.querySelectorAll("#options input")[question.answer].click();document.querySelector("#submit").click()');
+ await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'math-desktop.png'),Buffer.from(p.data,'base64')));
+ assert.equal(errors.length,0,JSON.stringify(errors));
+ console.log(`PASS: ${total} questions in offline Chrome and HTTP homepage entry; ${families.length} families answered at 320px; LaTeX, retry, wrong/starred records, reload, filters, timer, deep links, invalid saved data. Screenshots: ${profile}`);
+}finally{ws?.close();browser.kill();server?.close();}

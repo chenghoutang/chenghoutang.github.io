@@ -23,6 +23,7 @@ for(const batch of manifest.batches){
   assert.ok(!/NaN|undefined|待补|重新按|TODO|�/.test(JSON.stringify(q)),q.id);
   for(const text of [q.stem,q.explanation]){
    assert.equal((text.match(/\$/g)||[]).length%2,0,q.id);
+   assert.ok(!text.split('$').filter((_,i)=>i%2===0).some(part=>/\\[a-zA-Z]+/.test(part)),`Unrendered LaTeX: ${q.id}`);
    for(const m of text.matchAll(/\$([^$]+)\$/g))render(m[1]);
   }
   q.options.forEach(render);families.set(q.family,(families.get(q.family)||0)+1);all.push(q);
@@ -130,6 +131,33 @@ for(const q of all){
  if(q.topic==='conditional'&&q.difficulty==='hard'){
   if(v){let condition=0,yes=0;for(const red of [2,a])for(let i=0;i<a+2;i++)for(let j=0;j<a+2;j++)for(let k=0;k<a+2;k++)if(i!==j&&i!==k&&j!==k&&i<red&&j<red){condition++;if(k<red)yes++;}eq(numeric(answer),yes/condition,q.id);}
   else{const population=100*a,infected=10,positiveSick=infected*.9,positiveHealthy=(population-infected)*.1;eq(numeric(answer),positiveSick/(positiveSick+positiveHealthy),q.id);}
+ }
+ if(q.topic==='random-variable'&&q.difficulty==='hard'){
+  if(v){const count=[0,0,0];let total=0;for(let i=0;i<2*a;i++)for(let j=i+1;j<2*a;j++){count[Number(i<a)+Number(j<a)]++;total++;}const mean=count.reduce((t,c,x)=>t+c*x*x/total,0),second=count.reduce((t,c,x)=>t+c*x**4/total,0);eq(numeric(answer),second-mean*mean,q.id);}
+  else{const n=a+2,p=2/(n+1);let distribution=[1];for(let i=0;i<n;i++){const next=Array(distribution.length+1).fill(0);distribution.forEach((x,j)=>{next[j]+=x*(1-p);next[j+1]+=x*p;});distribution=next;}eq(distribution[1],distribution[2],q.id);eq(numeric(answer),distribution.reduce((t,c,x)=>t+c*x*(x-1),0),q.id);}
+ }
+ if(q.topic==='statistics'&&q.difficulty==='hard'){
+  if(v){const pts=[[0,0],[1,a],[2,0],[3,a]];let min=Infinity;for(let j=-1000;j<=1000;j++){const b=a*j/1000,c=a/2-1.5*b;min=Math.min(min,pts.reduce((t,[x,y])=>t+(y-b*x-c)**2,0));}eq(numeric(answer),min,q.id);}
+  else{const n=a+3,values=Array(n).fill(2);values[0]+=Math.sqrt(2*n);values[1]-=Math.sqrt(2*n);values.push(n+3);const mean=values.reduce((x,y)=>x+y)/values.length;eq(mean,3,q.id);eq(numeric(answer),values.reduce((t,x)=>t+(x-mean)**2,0)/values.length,q.id);}
+ }
+ if(q.topic==='derivative'&&q.difficulty==='hard'){
+  if(v){const f=x=>2/x**2-x*x,h=1e-4;eq(numeric(answer),(f(a+h)-f(a-h))/(2*h),q.id);for(const x of [.5,1,2,a])eq(f(x)+2*f(1/x),3*x*x,q.id);}
+  else for(const b of [-1,0,a**4/6,a**4/3,a**4/3+1]){
+   const D=4*a**4-12*b,us=D<-1e-7?[]:Math.abs(D)<1e-7?[a*a/3]:[(2*a*a-Math.sqrt(D))/6,(2*a*a+Math.sqrt(D))/6];const lines=[];
+   for(const u of us.filter(x=>x>=0))for(const t of u===0?[0]:[Math.sqrt(u),-Math.sqrt(u)]){const slope=4*t**3-4*a*a*t;if(!lines.some(l=>Math.abs(l-slope)<1e-6))lines.push(slope);eq(t**4-2*a*a*t*t-slope*t,b,q.id);}
+   assert.equal(lines.length===4,b>0&&b<a**4/3,q.id);
+  }
+ }
+ if(q.topic==='derivative-use'&&q.difficulty==='hard'){
+  if(v)for(const m of [-1,0,Math.exp(-a-1)*.5,Math.exp(-a-1),Math.exp(-a-1)*2]){const roots=m<=0?1:-Math.log(m)-1>a+1e-8?2:Math.abs(-Math.log(m)-1-a)<1e-8?1:0;assert.equal(roots===2,m>0&&m<Math.exp(-a-1),q.id);}
+  else for(const m of [-2*a**3-1,-2*a**3,0,2*a**3,2*a**3+1]){const h=x=>x**3-3*a*a*x-m;const intervals=[[-2*a,-a],[-a,a],[a,2*a]];const roots=intervals.filter(([x,y])=>h(x)*h(y)<0).length;assert.equal(roots===3,Math.abs(m)<2*a**3,q.id);}
+ }
+ if(q.topic==='integral')for(const x of [.5,1,2,3]){
+  let primitive,integrand;
+  if(q.difficulty==='easy'){primitive=v?t=>Math.exp(a*t)/a:t=>t**(a+1)/(a+1);integrand=v?Math.exp(a*x):x**a;}
+  else if(q.difficulty==='medium'){primitive=v?t=>Math.sin(a*t+1)/a:t=>Math.log(t*t+a);integrand=v?Math.cos(a*x+1):2*x/(x*x+a);}
+  else{primitive=v?t=>Math.log(t)-Math.log(1+t**a)/a:t=>t*t/2-a*Math.log(t*t+a)/2;integrand=v?1/(x*(1+x**a)):x**3/(x*x+a);}
+  const h=1e-5;eq((primitive(x+h)-primitive(x-h))/(2*h),integrand,q.id);
  }
 }
 console.log(`PASS: ${all.length} questions, ${families.size} families, ${formulas} LaTeX expressions; schema, offline scripts and independent boundary/numerical audits.`);

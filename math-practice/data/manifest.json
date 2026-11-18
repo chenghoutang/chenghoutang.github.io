@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "total": 1500,
+  "total": 1800,
   "target": 1800,
   "batches": [
     1,
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "topics": [
     {
@@ -109,6 +110,26 @@
     {
       "id": "conditional",
       "name": "条件概率、全概率与贝叶斯"
+    },
+    {
+      "id": "random-variable",
+      "name": "随机变量、二项分布与正态分布"
+    },
+    {
+      "id": "statistics",
+      "name": "统计、方差与线性回归"
+    },
+    {
+      "id": "derivative",
+      "name": "导数公式、运算与切线"
+    },
+    {
+      "id": "derivative-use",
+      "name": "导数应用、零点与参数"
+    },
+    {
+      "id": "integral",
+      "name": "基础不定积分与换元"
     }
   ]
 }
