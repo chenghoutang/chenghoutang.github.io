@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#fff5f9">
     <title>鸭语录集 · DengDuck</title>
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -10,15 +11,15 @@
     <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-warm-1: #fff6ec;
-            --bg-warm-2: #ffe8d2;
-            --bg-warm-3: #ffd9b8;
-            --text-main: #5a4130;
-            --text-soft: #8a6f58;
-            --accent: #e8913f;
-            --accent-deep: #d97a2b;
-            --accent-soft: #f6c084;
-            --pink: #f2a9a0;
+            --bg-warm-1: #fff5f9;
+            --bg-warm-2: #ffe5ef;
+            --bg-warm-3: #f8ccdf;
+            --text-main: #553344;
+            --text-soft: #806070;
+            --accent: #b8326b;
+            --accent-deep: #982653;
+            --accent-soft: #efacc8;
+            --pink: #e887b0;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -44,13 +45,13 @@
 
         body::before {
             width: 420px; height: 420px;
-            background: rgba(246, 192, 132, 0.45);
+            background: rgba(239,172,200, 0.45);
             top: -120px; left: -100px;
         }
 
         body::after {
             width: 380px; height: 380px;
-            background: rgba(242, 169, 160, 0.35);
+            background: rgba(232,135,176, 0.35);
             bottom: -120px; right: -90px;
         }
 
@@ -147,14 +148,14 @@
             border: 1px solid rgba(255, 255, 255, 0.9);
             border-radius: 18px;
             padding: 24px 28px;
-            box-shadow: 0 6px 20px rgba(186, 124, 58, 0.1);
+            box-shadow: 0 6px 20px rgba(152,38,83, 0.1);
             transition: transform 0.25s ease, box-shadow 0.25s ease;
             animation: cardIn 0.5s ease both;
         }
 
         .quote-card:hover {
             transform: translateY(-3px);
-            box-shadow: 0 12px 30px rgba(186, 124, 58, 0.18);
+            box-shadow: 0 12px 30px rgba(152,38,83, 0.18);
         }
 
         @keyframes cardIn {

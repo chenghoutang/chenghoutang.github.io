@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#fff5f9">
     <title>禁毒知识考试 · DengDuck の 小窝</title>
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -10,21 +11,21 @@
     <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&family=Noto+Serif+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-warm-1: #fff6ec;
-            --bg-warm-2: #ffe8d2;
-            --bg-warm-3: #ffd9b8;
-            --card-bg: rgba(255, 252, 247, 0.95);
-            --text-main: #5a4130;
-            --text-soft: #8a6f58;
-            --accent: #e8913f;
-            --accent-deep: #d97a2b;
-            --accent-soft: #f6c084;
-            --pink: #f2a9a0;
+            --bg-warm-1: #fff5f9;
+            --bg-warm-2: #ffe5ef;
+            --bg-warm-3: #f8ccdf;
+            --card-bg: rgba(255,249,252, 0.95);
+            --text-main: #553344;
+            --text-soft: #806070;
+            --accent: #b8326b;
+            --accent-deep: #982653;
+            --accent-soft: #efacc8;
+            --pink: #e887b0;
             --green: #5fa876;
             --red: #e06a5f;
-            --border-warm: #f0ddc6;
-            --shadow-soft: 0 10px 40px rgba(186, 124, 58, 0.15);
-            --shadow-hover: 0 16px 48px rgba(186, 124, 58, 0.25);
+            --border-warm: #efd1de;
+            --shadow-soft: 0 10px 40px rgba(152,38,83, 0.15);
+            --shadow-hover: 0 16px 48px rgba(152,38,83, 0.25);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -62,7 +63,7 @@
             background: var(--card-bg);
             border: 1px solid var(--border-warm);
             border-radius: 999px;
-            box-shadow: 0 4px 14px rgba(186, 124, 58, 0.1);
+            box-shadow: 0 4px 14px rgba(152,38,83, 0.1);
             transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
 
@@ -124,7 +125,7 @@
             align-items: center;
             justify-content: center;
             font-family: 'ZCOOL KuaiLe', serif;
-            box-shadow: 0 6px 16px rgba(217, 122, 43, 0.3);
+            box-shadow: 0 6px 16px rgba(152,38,83, 0.3);
         }
 
         .paper-badge .y { font-size: 1.5rem; line-height: 1; }
@@ -167,7 +168,7 @@
 
         /* 试卷标签 */
         .paper-tag { display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 6px; font-size: 0.72rem; font-weight: 700; vertical-align: middle; }
-        .paper-tag.real { background: #fff1e0; color: #d97706; }
+        .paper-tag.real { background: #fce0ec; color: #982653; }
         .paper-tag.mock { background: #e8f5e9; color: #2e7d32; }
         .paper-badge.mock .y { font-size: 1.5rem; }
 
@@ -223,7 +224,7 @@
         .btn-primary {
             color: #fff;
             background: linear-gradient(135deg, var(--accent-soft) 0%, var(--accent) 45%, var(--accent-deep) 100%);
-            box-shadow: 0 8px 24px rgba(217, 122, 43, 0.35);
+            box-shadow: 0 8px 24px rgba(152,38,83, 0.35);
         }
 
         .btn-primary:hover { transform: translateY(-2px) scale(1.02); box-shadow: var(--shadow-hover); }
@@ -235,7 +236,7 @@
             border: 2px solid var(--accent-soft);
         }
 
-        .btn-ghost:hover { background: #fff6ec; transform: translateY(-2px); }
+        .btn-ghost:hover { background: #fff5f9; transform: translateY(-2px); }
 
         .btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none !important; }
 
@@ -313,7 +314,7 @@
             font-weight: 700;
             font-size: 1.05rem;
             color: var(--accent-deep);
-            background: #fff3e4;
+            background: #fff0f6;
             border: 1px solid var(--accent-soft);
             padding: 7px 14px;
             border-radius: 999px;
@@ -346,12 +347,12 @@
             transition: background 0.2s ease;
         }
 
-        .mini-btn:hover { background: #fff3e4; }
+        .mini-btn:hover { background: #fff0f6; }
 
         .progress-bar {
             height: 8px;
             border-radius: 999px;
-            background: #f3e3cf;
+            background: #f0dce5;
             overflow: hidden;
             margin-bottom: 16px;
         }
@@ -412,7 +413,7 @@
             transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
         }
 
-        .opt:hover { border-color: var(--accent-soft); background: #fffaf2; transform: translateX(3px); }
+        .opt:hover { border-color: var(--accent-soft); background: #fff8fb; transform: translateX(3px); }
 
         .opt .letter {
             flex-shrink: 0;
@@ -431,7 +432,7 @@
 
         .opt.selected {
             border-color: var(--accent);
-            background: linear-gradient(135deg, #fff3e4, #ffe9d2);
+            background: linear-gradient(135deg, #fff0f6, #fce0ec);
         }
 
         .opt.selected .letter {
@@ -504,7 +505,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            background: conic-gradient(var(--accent) 0deg, #f3e3cf 0deg);
+            background: conic-gradient(var(--accent) 0deg, #f0dce5 0deg);
             position: relative;
             transition: background 1s ease;
         }
@@ -595,7 +596,7 @@
 
         .r-tag.right { background: #eef8f1; color: var(--green); }
         .r-tag.bad { background: #fdeeec; color: var(--red); }
-        .r-tag.none { background: #f3e3cf; color: var(--text-soft); }
+        .r-tag.none { background: #f0dce5; color: var(--text-soft); }
 
         .r-q { font-weight: 600; line-height: 1.8; font-size: 1rem; }
         .r-ans { margin-top: 10px; font-size: 0.9rem; color: var(--text-soft); line-height: 1.7; }
@@ -1079,11 +1080,11 @@
             function renderResult(score, right, wrong, skip, used, detail, auto) {
                 // 分数环动画
                 var ring = $('score-ring');
-                ring.style.background = 'conic-gradient(#f3e3cf 0deg, #f3e3cf 360deg)';
+                ring.style.background = 'conic-gradient(#f0dce5 0deg, #f0dce5 360deg)';
                 $('score-num').textContent = '0';
                 requestAnimationFrame(function () {
                     setTimeout(function () {
-                        ring.style.background = 'conic-gradient(var(--accent) ' + (score * 3.6) + 'deg, #f3e3cf 0deg)';
+                        ring.style.background = 'conic-gradient(var(--accent) ' + (score * 3.6) + 'deg, #f0dce5 0deg)';
                         var n = 0;
                         var step = Math.max(1, Math.round(score / 30));
                         var timer = setInterval(function () {

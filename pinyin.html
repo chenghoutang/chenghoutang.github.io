@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#fff5f9">
     <title>字音练习 - 多音字读音训练</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,19 +13,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-primary: #faf8f5;
-            --bg-secondary: #f5f0e8;
+            --bg-primary: #fff5f9;
+            --bg-secondary: #fce6f0;
             --bg-card: #ffffff;
-            --text-primary: #1a1510;
-            --text-secondary: #4a3f30;
-            --text-muted: #7a6d5a;
+            --text-primary: #35232d;
+            --text-secondary: #634654;
+            --text-muted: #806070;
             --accent-correct: #1e7a48;
             --accent-wrong: #b02a1d;
-            --accent-gold: #b89445;
-            --accent-blue: #2d5a7a;
-            --border-light: #ddd4c4;
-            --shadow-soft: 0 2px 14px rgba(44, 36, 22, 0.07);
-            --shadow-hover: 0 6px 22px rgba(44, 36, 22, 0.11);
+            --accent: #b8326b;
+            --accent-deep: #982653;
+            --border-light: #e8cbd9;
+            --shadow-soft: 0 2px 14px rgba(85,51,68, 0.07);
+            --shadow-hover: 0 6px 22px rgba(85,51,68, 0.11);
         }
 
         * {
@@ -51,8 +52,8 @@
             right: 0;
             bottom: 0;
             background-image: 
-                radial-gradient(circle at 20% 30%, rgba(201, 169, 97, 0.05) 0%, transparent 50%),
-                radial-gradient(circle at 80% 70%, rgba(58, 107, 140, 0.05) 0%, transparent 50%);
+                radial-gradient(circle at 20% 30%, rgba(184,50,107, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(152,38,83, 0.05) 0%, transparent 50%);
             pointer-events: none;
             z-index: 0;
         }
@@ -100,8 +101,8 @@
             margin-bottom: 3px;
             letter-spacing: 0.18em;
             /* 毛笔字轻微的墨迹效果，增加质感 */
-            text-shadow: 1px 1px 0 rgba(184, 148, 69, 0.08),
-                         2px 2px 4px rgba(26, 21, 16, 0.05);
+            text-shadow: 1px 1px 0 rgba(184,50,107, 0.08),
+                         2px 2px 4px rgba(53,35,45, 0.05);
         }
 
         .header .subtitle {
@@ -115,7 +116,7 @@
             margin-top: 8px;
             height: 2px;
             width: 96px;
-            background: linear-gradient(90deg, transparent, var(--accent-gold), transparent);
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
             margin-left: auto;
             margin-right: auto;
         }
@@ -151,10 +152,10 @@
             font-family: inherit;
         }
 
-        .stat-value.total { color: var(--accent-blue); }
+        .stat-value.total { color: var(--accent-deep); }
         .stat-value.correct { color: var(--accent-correct); }
         .stat-value.wrong { color: var(--accent-wrong); }
-        .stat-value.rate { color: var(--accent-gold); }
+        .stat-value.rate { color: var(--accent); }
 
         .stat-label {
             font-size: 0.75rem;
@@ -192,7 +193,7 @@
             position: absolute;
             top: -6px;
             right: -6px;
-            background: var(--accent-blue);
+            background: var(--accent-deep);
             color: #fff;
             font-size: 0.6rem;
             font-weight: 700;
@@ -202,14 +203,14 @@
         }
 
         .tab-btn:hover {
-            border-color: var(--accent-gold);
+            border-color: var(--accent);
             color: var(--text-primary);
         }
 
         .tab-btn.active {
-            background: var(--text-primary);
+            background: var(--accent-deep);
             color: var(--bg-primary);
-            border-color: var(--text-primary);
+            border-color: var(--accent-deep);
         }
 
         /* Question Card */
@@ -231,7 +232,7 @@
             left: 0;
             right: 0;
             height: 3px;
-            background: linear-gradient(90deg, var(--accent-gold), var(--accent-blue));
+            background: linear-gradient(90deg, var(--accent), var(--accent-deep));
         }
 
         .question-type {
@@ -265,7 +266,7 @@
             font-family: inherit;
             font-size: calc(3rem * var(--font-scale));
             font-weight: 700;
-            color: #0d0a07;
+            color: #35232d;
             letter-spacing: 0.18em;
             line-height: 1.3;
             margin-bottom: 8px;
@@ -296,7 +297,7 @@
             font-weight: 600;
             cursor: pointer;
             transition: all 0.3s ease;
-            color: #0d0a07;
+            color: #35232d;
             position: relative;
             overflow: hidden;
             text-align: left;
@@ -306,7 +307,7 @@
             position: absolute;
             top: 8px;
             left: 10px;
-            background: var(--accent-blue);
+            background: var(--accent-deep);
             color: #fff;
             width: 28px;
             height: 28px;
@@ -317,7 +318,7 @@
             font-size: 0.9rem;
             font-weight: 800;
             letter-spacing: 0;
-            box-shadow: 0 2px 6px rgba(45, 90, 122, 0.3);
+            box-shadow: 0 2px 6px rgba(152,38,83, 0.3);
             font-family: 'Noto Serif SC', sans-serif;
         }
 
@@ -330,7 +331,7 @@
         }
 
         .option-btn.selected .hotkey-badge {
-            background: var(--accent-gold);
+            background: var(--accent);
         }
 
         .option-btn::before {
@@ -340,7 +341,7 @@
             left: 50%;
             width: 0;
             height: 0;
-            background: rgba(201, 169, 97, 0.1);
+            background: rgba(184,50,107, 0.1);
             border-radius: 50%;
             transform: translate(-50%, -50%);
             transition: width 0.5s ease, height 0.5s ease;
@@ -352,7 +353,7 @@
         }
 
         .option-btn:hover:not(:disabled) {
-            border-color: var(--accent-gold);
+            border-color: var(--accent);
             transform: translateY(-2px);
             box-shadow: var(--shadow-hover);
         }
@@ -362,8 +363,8 @@
         }
 
         .option-btn.selected {
-            border-color: var(--accent-blue);
-            background: rgba(58, 107, 140, 0.08);
+            border-color: var(--accent-deep);
+            background: rgba(152,38,83, 0.08);
         }
 
         .option-btn.correct {
@@ -398,9 +399,16 @@
             letter-spacing: 0.1em;
         }
 
+        .tested-char {
+            font-weight: 900;
+            text-decoration: underline;
+            text-decoration-thickness: 2px;
+            text-underline-offset: 4px;
+        }
+
         .option-pron {
             font-size: 0.78em;
-            color: var(--accent-blue);
+            color: var(--accent-deep);
             font-weight: 600;
             letter-spacing: 0.06em;
         }
@@ -456,7 +464,7 @@
 
         .result-answer strong {
             font-size: 1.4rem;
-            color: #0d0a07;
+            color: #35232d;
             font-family: inherit;
             font-weight: 700;
         }
@@ -497,18 +505,18 @@
 
         .action-btn.secondary .btn-hotkey,
         .action-btn.danger .btn-hotkey {
-            background: rgba(44, 36, 22, 0.08);
+            background: rgba(85,51,68, 0.08);
         }
 
         .action-btn.primary {
-            background: linear-gradient(135deg, var(--accent-gold), #b8944f);
+            background: linear-gradient(135deg, var(--accent), #982653);
             color: #fff;
-            box-shadow: 0 4px 16px rgba(201, 169, 97, 0.3);
+            box-shadow: 0 4px 16px rgba(184,50,107, 0.3);
         }
 
         .action-btn.primary:hover {
             transform: translateY(-2px);
-            box-shadow: 0 6px 24px rgba(201, 169, 97, 0.4);
+            box-shadow: 0 6px 24px rgba(184,50,107, 0.4);
         }
 
         .action-btn.secondary {
@@ -518,7 +526,7 @@
         }
 
         .action-btn.secondary:hover {
-            border-color: var(--accent-gold);
+            border-color: var(--accent);
             background: var(--bg-card);
         }
 
@@ -595,7 +603,7 @@
             font-family: inherit;
             font-size: calc(1.6rem * var(--font-scale));
             font-weight: 700;
-            color: #0d0a07;
+            color: #35232d;
             margin-bottom: 6px;
             letter-spacing: 0.1em;
         }
@@ -643,7 +651,7 @@
 
         .icon-btn:hover {
             background: var(--bg-card);
-            border-color: var(--accent-gold);
+            border-color: var(--accent);
             transform: scale(1.1);
         }
 
@@ -680,7 +688,7 @@
             width: 48px;
             height: 48px;
             border: 3px solid var(--border-light);
-            border-top-color: var(--accent-gold);
+            border-top-color: var(--accent);
             border-radius: 50%;
             animation: spin 1s linear infinite;
             margin: 0 auto 16px;
@@ -771,9 +779,9 @@
         }
 
         .keyboard-help kbd.accent {
-            background: var(--accent-blue);
+            background: var(--accent-deep);
             color: #fff;
-            border-color: var(--accent-blue);
+            border-color: var(--accent-deep);
         }
 
         .keyboard-help .help-divider {
@@ -1012,10 +1020,11 @@
             }
         }
 
-        // ==================== 题库数据（已内联，单文件部署，无需 data.json） ====================
+        // ==================== 题库数据（由 Chinese_DATA.json 生成，运行 node scripts/build-pinyin.mjs 同步） ====================
         const EMBEDDED_WORD_DATA = [
   {
     "text": "阿爸",
+    "target": "阿",
     "right": "ā",
     "wrong": [
       "ē"
@@ -1023,6 +1032,7 @@
   },
   {
     "text": "阿拉伯",
+    "target": "阿",
     "right": "ā",
     "wrong": [
       "ē"
@@ -1030,6 +1040,7 @@
   },
   {
     "text": "阿谀",
+    "target": "阿",
     "right": "ē",
     "wrong": [
       "ā"
@@ -1037,6 +1048,7 @@
   },
   {
     "text": "阿其所好",
+    "target": "阿",
     "right": "ē",
     "wrong": [
       "ā"
@@ -1044,6 +1056,7 @@
   },
   {
     "text": "刚直不阿",
+    "target": "阿",
     "right": "ē",
     "wrong": [
       "ā"
@@ -1051,6 +1064,7 @@
   },
   {
     "text": "腌臜",
+    "target": "腌",
     "right": "ā",
     "wrong": [
       "yān"
@@ -1058,6 +1072,7 @@
   },
   {
     "text": "腌制",
+    "target": "腌",
     "right": "yān",
     "wrong": [
       "ā"
@@ -1065,6 +1080,7 @@
   },
   {
     "text": "腌肉",
+    "target": "腌",
     "right": "yān",
     "wrong": [
       "ā"
@@ -1072,6 +1088,7 @@
   },
   {
     "text": "挨个儿",
+    "target": "挨",
     "right": "āi",
     "wrong": [
       "ái"
@@ -1079,6 +1096,7 @@
   },
   {
     "text": "挨近",
+    "target": "挨",
     "right": "āi",
     "wrong": [
       "ái"
@@ -1086,6 +1104,7 @@
   },
   {
     "text": "挨打",
+    "target": "挨",
     "right": "ái",
     "wrong": [
       "āi"
@@ -1093,6 +1112,7 @@
   },
   {
     "text": "挨时间",
+    "target": "挨",
     "right": "ái",
     "wrong": [
       "āi"
@@ -1100,6 +1120,7 @@
   },
   {
     "text": "艾蒿",
+    "target": "艾",
     "right": "ài",
     "wrong": [
       "yì"
@@ -1107,6 +1128,7 @@
   },
   {
     "text": "方兴未艾",
+    "target": "艾",
     "right": "ài",
     "wrong": [
       "yì"
@@ -1114,6 +1136,7 @@
   },
   {
     "text": "惩艾",
+    "target": "艾",
     "right": "yì",
     "wrong": [
       "ài"
@@ -1121,6 +1144,7 @@
   },
   {
     "text": "自怨自艾",
+    "target": "艾",
     "right": "yì",
     "wrong": [
       "ài"
@@ -1128,7 +1152,8 @@
   },
   {
     "text": "把竹竿拗断",
-    "right": "ăo",
+    "target": "拗",
+    "right": "ǎo",
     "wrong": [
       "ào",
       "niù"
@@ -1136,38 +1161,43 @@
   },
   {
     "text": "违拗",
+    "target": "拗",
     "right": "ào",
     "wrong": [
-      "ăo",
+      "ǎo",
       "niù"
     ]
   },
   {
     "text": "拗口",
+    "target": "拗",
     "right": "ào",
     "wrong": [
-      "ăo",
+      "ǎo",
       "niù"
     ]
   },
   {
     "text": "执拗",
+    "target": "拗",
     "right": "niù",
     "wrong": [
-      "ăo",
+      "ǎo",
       "ào"
     ]
   },
   {
     "text": "脾气拗",
+    "target": "拗",
     "right": "niù",
     "wrong": [
-      "ăo",
+      "ǎo",
       "ào"
     ]
   },
   {
     "text": "扒车",
+    "target": "扒",
     "right": "bā",
     "wrong": [
       "pá"
@@ -1175,20 +1205,23 @@
   },
   {
     "text": "扒屋",
+    "target": "扒",
     "right": "bā",
     "wrong": [
       "pá"
     ]
   },
   {
-    "text": "扒谷",
+    "text": "扒谷（用耙子聚拢谷物）",
+    "target": "扒",
     "right": "pá",
     "wrong": [
       "bā"
     ]
   },
   {
-    "text": "扒草",
+    "text": "扒草（用耙子聚拢草）",
+    "target": "扒",
     "right": "pá",
     "wrong": [
       "bā"
@@ -1196,7 +1229,8 @@
   },
   {
     "text": "臂膀",
-    "right": "băng",
+    "target": "膀",
+    "right": "bǎng",
     "wrong": [
       "pāng",
       "páng"
@@ -1204,38 +1238,44 @@
   },
   {
     "text": "翅膀",
-    "right": "băng",
+    "target": "膀",
+    "right": "bǎng",
     "wrong": [
       "pāng",
       "páng"
     ]
   },
   {
-    "text": "吊膀子",
-    "right": "băng",
+    "text": "吊膀子（方言：调情）",
+    "target": "膀",
+    "right": "bàng",
     "wrong": [
+      "bǎng",
       "pāng",
       "páng"
     ]
   },
   {
     "text": "膀肿",
+    "target": "膀",
     "right": "pāng",
     "wrong": [
-      "băng",
+      "bǎng",
       "páng"
     ]
   },
   {
     "text": "膀胱",
+    "target": "膀",
     "right": "páng",
     "wrong": [
-      "băng",
+      "bǎng",
       "pāng"
     ]
   },
   {
     "text": "河蚌",
+    "target": "蚌",
     "right": "bàng",
     "wrong": [
       "bèng"
@@ -1243,6 +1283,7 @@
   },
   {
     "text": "鹬蚌相争，渔人得利",
+    "target": "蚌",
     "right": "bàng",
     "wrong": [
       "bèng"
@@ -1250,6 +1291,7 @@
   },
   {
     "text": "蚌埠",
+    "target": "蚌",
     "right": "bèng",
     "wrong": [
       "bàng"
@@ -1257,6 +1299,7 @@
   },
   {
     "text": "磅秤",
+    "target": "磅",
     "right": "bàng",
     "wrong": [
       "páng"
@@ -1264,6 +1307,7 @@
   },
   {
     "text": "过磅",
+    "target": "磅",
     "right": "bàng",
     "wrong": [
       "páng"
@@ -1271,6 +1315,7 @@
   },
   {
     "text": "磅礴",
+    "target": "磅",
     "right": "páng",
     "wrong": [
       "bàng"
@@ -1278,6 +1323,7 @@
   },
   {
     "text": "剥花生",
+    "target": "剥",
     "right": "bāo",
     "wrong": [
       "bō"
@@ -1285,6 +1331,7 @@
   },
   {
     "text": "剥皮",
+    "target": "剥",
     "right": "bāo",
     "wrong": [
       "bō"
@@ -1292,6 +1339,7 @@
   },
   {
     "text": "剥削",
+    "target": "剥",
     "right": "bō",
     "wrong": [
       "bāo"
@@ -1299,6 +1347,7 @@
   },
   {
     "text": "盘剥",
+    "target": "剥",
     "right": "bō",
     "wrong": [
       "bāo"
@@ -1306,6 +1355,7 @@
   },
   {
     "text": "生吞活剥",
+    "target": "剥",
     "right": "bō",
     "wrong": [
       "bāo"
@@ -1313,6 +1363,7 @@
   },
   {
     "text": "底子薄",
+    "target": "薄",
     "right": "báo",
     "wrong": [
       "bó",
@@ -1321,6 +1372,7 @@
   },
   {
     "text": "情分薄",
+    "target": "薄",
     "right": "báo",
     "wrong": [
       "bó",
@@ -1329,6 +1381,7 @@
   },
   {
     "text": "这儿地薄，产量不高",
+    "target": "薄",
     "right": "báo",
     "wrong": [
       "bó",
@@ -1337,6 +1390,7 @@
   },
   {
     "text": "菲薄",
+    "target": "薄",
     "right": "bó",
     "wrong": [
       "báo",
@@ -1345,6 +1399,7 @@
   },
   {
     "text": "鄙薄",
+    "target": "薄",
     "right": "bó",
     "wrong": [
       "báo",
@@ -1353,6 +1408,7 @@
   },
   {
     "text": "厚古薄今",
+    "target": "薄",
     "right": "bó",
     "wrong": [
       "báo",
@@ -1361,6 +1417,7 @@
   },
   {
     "text": "日薄西山",
+    "target": "薄",
     "right": "bó",
     "wrong": [
       "báo",
@@ -1369,6 +1426,7 @@
   },
   {
     "text": "薄荷",
+    "target": "薄",
     "right": "bò",
     "wrong": [
       "báo",
@@ -1377,6 +1435,7 @@
   },
   {
     "text": "刨刃儿",
+    "target": "刨",
     "right": "bào",
     "wrong": [
       "páo"
@@ -1384,6 +1443,7 @@
   },
   {
     "text": "槽刨",
+    "target": "刨",
     "right": "bào",
     "wrong": [
       "páo"
@@ -1391,6 +1451,7 @@
   },
   {
     "text": "刨木头",
+    "target": "刨",
     "right": "bào",
     "wrong": [
       "páo"
@@ -1398,6 +1459,7 @@
   },
   {
     "text": "刨坑",
+    "target": "刨",
     "right": "páo",
     "wrong": [
       "bào"
@@ -1405,6 +1467,7 @@
   },
   {
     "text": "十五天刨去五天，只剩下十天了",
+    "target": "刨",
     "right": "páo",
     "wrong": [
       "bào"
@@ -1412,6 +1475,7 @@
   },
   {
     "text": "曝光",
+    "target": "曝",
     "right": "bào",
     "wrong": [
       "pù"
@@ -1419,13 +1483,15 @@
   },
   {
     "text": "暴露",
-    "right": "pù",
+    "target": "暴",
+    "right": "bào",
     "wrong": [
-      "bào"
+      "pù"
     ]
   },
   {
     "text": "一曝十寒",
+    "target": "曝",
     "right": "pù",
     "wrong": [
       "bào"
@@ -1433,6 +1499,7 @@
   },
   {
     "text": "背负",
+    "target": "背",
     "right": "bēi",
     "wrong": [
       "bèi"
@@ -1440,6 +1507,7 @@
   },
   {
     "text": "背债",
+    "target": "背",
     "right": "bēi",
     "wrong": [
       "bèi"
@@ -1447,6 +1515,7 @@
   },
   {
     "text": "背风",
+    "target": "背",
     "right": "bèi",
     "wrong": [
       "bēi"
@@ -1454,6 +1523,7 @@
   },
   {
     "text": "背约",
+    "target": "背",
     "right": "bèi",
     "wrong": [
       "bēi"
@@ -1461,6 +1531,7 @@
   },
   {
     "text": "背信弃义",
+    "target": "背",
     "right": "bèi",
     "wrong": [
       "bēi"
@@ -1468,6 +1539,7 @@
   },
   {
     "text": "背道而驰",
+    "target": "背",
     "right": "bèi",
     "wrong": [
       "bēi"
@@ -1475,6 +1547,7 @@
   },
   {
     "text": "胳臂",
+    "target": "臂",
     "right": "bei",
     "wrong": [
       "bì"
@@ -1482,6 +1555,7 @@
   },
   {
     "text": "臂膀",
+    "target": "臂",
     "right": "bì",
     "wrong": [
       "bei"
@@ -1489,6 +1563,7 @@
   },
   {
     "text": "臂助",
+    "target": "臂",
     "right": "bì",
     "wrong": [
       "bei"
@@ -1496,6 +1571,7 @@
   },
   {
     "text": "奔波",
+    "target": "奔",
     "right": "bēn",
     "wrong": [
       "bèn"
@@ -1503,13 +1579,15 @@
   },
   {
     "text": "奔流",
+    "target": "奔",
     "right": "bēn",
     "wrong": [
       "bèn"
     ]
   },
   {
-    "text": "奔命",
+    "text": "奔命（拼命赶路）",
+    "target": "奔",
     "right": "bèn",
     "wrong": [
       "bēn"
@@ -1517,6 +1595,7 @@
   },
   {
     "text": "奔头儿",
+    "target": "奔",
     "right": "bèn",
     "wrong": [
       "bēn"
@@ -1524,6 +1603,7 @@
   },
   {
     "text": "各奔东西",
+    "target": "奔",
     "right": "bèn",
     "wrong": [
       "bēn"
@@ -1531,6 +1611,7 @@
   },
   {
     "text": "复辟",
+    "target": "辟",
     "right": "bì",
     "wrong": [
       "pì"
@@ -1538,6 +1619,7 @@
   },
   {
     "text": "征辟",
+    "target": "辟",
     "right": "bì",
     "wrong": [
       "pì"
@@ -1545,6 +1627,7 @@
   },
   {
     "text": "辟邪",
+    "target": "辟",
     "right": "bì",
     "wrong": [
       "pì"
@@ -1552,6 +1635,7 @@
   },
   {
     "text": "辟谣",
+    "target": "辟",
     "right": "pì",
     "wrong": [
       "bì"
@@ -1559,6 +1643,7 @@
   },
   {
     "text": "辟邪说",
+    "target": "辟",
     "right": "pì",
     "wrong": [
       "bì"
@@ -1566,6 +1651,7 @@
   },
   {
     "text": "精辟",
+    "target": "辟",
     "right": "pì",
     "wrong": [
       "bì"
@@ -1573,6 +1659,7 @@
   },
   {
     "text": "裨益",
+    "target": "裨",
     "right": "bì",
     "wrong": [
       "pí"
@@ -1580,6 +1667,7 @@
   },
   {
     "text": "无裨于事",
+    "target": "裨",
     "right": "bì",
     "wrong": [
       "pí"
@@ -1587,6 +1675,7 @@
   },
   {
     "text": "偏裨",
+    "target": "裨",
     "right": "pí",
     "wrong": [
       "bì"
@@ -1594,6 +1683,7 @@
   },
   {
     "text": "裨将",
+    "target": "裨",
     "right": "pí",
     "wrong": [
       "bì"
@@ -1601,20 +1691,23 @@
   },
   {
     "text": "扁平",
-    "right": "biăn",
+    "target": "扁",
+    "right": "biǎn",
     "wrong": [
       "piān"
     ]
   },
   {
     "text": "扁舟",
+    "target": "扁",
     "right": "piān",
     "wrong": [
-      "biăn"
+      "biǎn"
     ]
   },
   {
     "text": "轻便",
+    "target": "便",
     "right": "biàn",
     "wrong": [
       "pián"
@@ -1622,6 +1715,7 @@
   },
   {
     "text": "得便",
+    "target": "便",
     "right": "biàn",
     "wrong": [
       "pián"
@@ -1629,13 +1723,15 @@
   },
   {
     "text": "大腹便便",
+    "target": "便",
     "right": "pián",
     "wrong": [
       "biàn"
     ]
   },
   {
-    "text": "便宜",
+    "text": "便宜（价格低）",
+    "target": "便",
     "right": "pián",
     "wrong": [
       "biàn"
@@ -1643,6 +1739,7 @@
   },
   {
     "text": "黄骠马",
+    "target": "骠",
     "right": "biāo",
     "wrong": [
       "piào"
@@ -1650,6 +1747,7 @@
   },
   {
     "text": "骠骑",
+    "target": "骠",
     "right": "piào",
     "wrong": [
       "biāo"
@@ -1657,6 +1755,7 @@
   },
   {
     "text": "骠勇",
+    "target": "骠",
     "right": "piào",
     "wrong": [
       "biāo"
@@ -1664,55 +1763,66 @@
   },
   {
     "text": "瘪三",
-    "right": "biě",
+    "target": "瘪",
+    "right": "biē",
     "wrong": [
+      "biě",
       "biè"
     ]
   },
   {
     "text": "干瘪",
-    "right": "biè",
+    "target": "瘪",
+    "right": "biě",
     "wrong": [
-      "biě"
+      "biē",
+      "biè"
     ]
   },
   {
     "text": "瘪谷",
-    "right": "biè",
+    "target": "瘪",
+    "right": "biě",
     "wrong": [
-      "biě"
+      "biē",
+      "biè"
     ]
   },
   {
     "text": "屏气",
-    "right": "bĭng",
+    "target": "屏",
+    "right": "bǐng",
     "wrong": [
       "píng"
     ]
   },
   {
     "text": "屏弃",
-    "right": "bĭng",
+    "target": "屏",
+    "right": "bǐng",
     "wrong": [
       "píng"
     ]
   },
   {
     "text": "画屏",
+    "target": "屏",
     "right": "píng",
     "wrong": [
-      "bĭng"
+      "bǐng"
     ]
   },
   {
     "text": "屏蔽",
+    "target": "屏",
     "right": "píng",
     "wrong": [
-      "bĭng"
+      "bǐng"
     ]
   },
   {
     "text": "停泊",
+    "target": "泊",
     "right": "bó",
     "wrong": [
       "pō"
@@ -1720,6 +1830,7 @@
   },
   {
     "text": "漂泊",
+    "target": "泊",
     "right": "bó",
     "wrong": [
       "pō"
@@ -1727,6 +1838,7 @@
   },
   {
     "text": "梁山泊",
+    "target": "泊",
     "right": "pō",
     "wrong": [
       "bó"
@@ -1734,6 +1846,7 @@
   },
   {
     "text": "血泊",
+    "target": "泊",
     "right": "pō",
     "wrong": [
       "bó"
@@ -1741,20 +1854,23 @@
   },
   {
     "text": "颠簸",
-    "right": "bŏ",
+    "target": "簸",
+    "right": "bǒ",
     "wrong": [
       "bò"
     ]
   },
   {
     "text": "簸箕",
+    "target": "簸",
     "right": "bò",
     "wrong": [
-      "bŏ"
+      "bǒ"
     ]
   },
   {
     "text": "参阅",
+    "target": "参",
     "right": "cān",
     "wrong": [
       "cēn",
@@ -1763,6 +1879,7 @@
   },
   {
     "text": "参谒",
+    "target": "参",
     "right": "cān",
     "wrong": [
       "cēn",
@@ -1771,6 +1888,7 @@
   },
   {
     "text": "参差不齐",
+    "target": "参",
     "right": "cēn",
     "wrong": [
       "cān",
@@ -1779,6 +1897,7 @@
   },
   {
     "text": "人参",
+    "target": "参",
     "right": "shēn",
     "wrong": [
       "cān",
@@ -1787,6 +1906,7 @@
   },
   {
     "text": "参商",
+    "target": "参",
     "right": "shēn",
     "wrong": [
       "cān",
@@ -1795,6 +1915,7 @@
   },
   {
     "text": "孱头",
+    "target": "孱",
     "right": "càn",
     "wrong": [
       "chán"
@@ -1802,6 +1923,7 @@
   },
   {
     "text": "孱弱",
+    "target": "孱",
     "right": "chán",
     "wrong": [
       "càn"
@@ -1809,6 +1931,7 @@
   },
   {
     "text": "孱羸",
+    "target": "孱",
     "right": "chán",
     "wrong": [
       "càn"
@@ -1816,6 +1939,7 @@
   },
   {
     "text": "伧俗",
+    "target": "伧",
     "right": "cāng",
     "wrong": [
       "chen"
@@ -1823,6 +1947,7 @@
   },
   {
     "text": "寒伧",
+    "target": "伧",
     "right": "chen",
     "wrong": [
       "cāng"
@@ -1830,6 +1955,7 @@
   },
   {
     "text": "差强人意",
+    "target": "差",
     "right": "chā",
     "wrong": [
       "chà",
@@ -1839,6 +1965,7 @@
   },
   {
     "text": "差可告慰",
+    "target": "差",
     "right": "chā",
     "wrong": [
       "chà",
@@ -1848,6 +1975,7 @@
   },
   {
     "text": "差异",
+    "target": "差",
     "right": "chā",
     "wrong": [
       "chà",
@@ -1857,6 +1985,7 @@
   },
   {
     "text": "差劲",
+    "target": "差",
     "right": "chà",
     "wrong": [
       "chā",
@@ -1866,6 +1995,7 @@
   },
   {
     "text": "差得远",
+    "target": "差",
     "right": "chà",
     "wrong": [
       "chā",
@@ -1875,6 +2005,7 @@
   },
   {
     "text": "质量差",
+    "target": "差",
     "right": "chà",
     "wrong": [
       "chā",
@@ -1884,6 +2015,7 @@
   },
   {
     "text": "差遣",
+    "target": "差",
     "right": "chāi",
     "wrong": [
       "chā",
@@ -1893,6 +2025,7 @@
   },
   {
     "text": "出差",
+    "target": "差",
     "right": "chāi",
     "wrong": [
       "chā",
@@ -1902,6 +2035,7 @@
   },
   {
     "text": "听差",
+    "target": "差",
     "right": "chāi",
     "wrong": [
       "chā",
@@ -1911,6 +2045,7 @@
   },
   {
     "text": "参差",
+    "target": "差",
     "right": "cī",
     "wrong": [
       "chā",
@@ -1920,6 +2055,7 @@
   },
   {
     "text": "坐禅",
+    "target": "禅",
     "right": "chán",
     "wrong": [
       "shàn"
@@ -1927,6 +2063,7 @@
   },
   {
     "text": "禅学",
+    "target": "禅",
     "right": "chán",
     "wrong": [
       "shàn"
@@ -1934,6 +2071,7 @@
   },
   {
     "text": "禅让",
+    "target": "禅",
     "right": "shàn",
     "wrong": [
       "chán"
@@ -1941,6 +2079,7 @@
   },
   {
     "text": "颤抖",
+    "target": "颤",
     "right": "chàn",
     "wrong": [
       "zhàn"
@@ -1948,6 +2087,7 @@
   },
   {
     "text": "颤巍巍",
+    "target": "颤",
     "right": "chàn",
     "wrong": [
       "zhàn"
@@ -1955,6 +2095,7 @@
   },
   {
     "text": "颤栗",
+    "target": "颤",
     "right": "zhàn",
     "wrong": [
       "chàn"
@@ -1962,48 +2103,55 @@
   },
   {
     "text": "场院",
+    "target": "场",
     "right": "cháng",
     "wrong": [
-      "chăng"
+      "chǎng"
     ]
   },
   {
     "text": "圩场",
+    "target": "场",
     "right": "cháng",
     "wrong": [
-      "chăng"
+      "chǎng"
     ]
   },
   {
     "text": "一场透雨",
+    "target": "场",
     "right": "cháng",
     "wrong": [
-      "chăng"
+      "chǎng"
     ]
   },
   {
     "text": "冷场",
-    "right": "chăng",
+    "target": "场",
+    "right": "chǎng",
     "wrong": [
       "cháng"
     ]
   },
   {
     "text": "捧场",
-    "right": "chăng",
+    "target": "场",
+    "right": "chǎng",
     "wrong": [
       "cháng"
     ]
   },
   {
     "text": "一场戏",
-    "right": "chăng",
+    "target": "场",
+    "right": "chǎng",
     "wrong": [
       "cháng"
     ]
   },
   {
     "text": "绰起一根木棍",
+    "target": "绰",
     "right": "chāo",
     "wrong": [
       "chuò"
@@ -2011,6 +2159,7 @@
   },
   {
     "text": "绰绰有余",
+    "target": "绰",
     "right": "chuò",
     "wrong": [
       "chāo"
@@ -2018,6 +2167,7 @@
   },
   {
     "text": "绰号",
+    "target": "绰",
     "right": "chuò",
     "wrong": [
       "chāo"
@@ -2025,6 +2175,7 @@
   },
   {
     "text": "绰约",
+    "target": "绰",
     "right": "chuò",
     "wrong": [
       "chāo"
@@ -2032,6 +2183,7 @@
   },
   {
     "text": "称心",
+    "target": "称",
     "right": "chèn",
     "wrong": [
       "chēng",
@@ -2040,6 +2192,7 @@
   },
   {
     "text": "称职",
+    "target": "称",
     "right": "chèn",
     "wrong": [
       "chēng",
@@ -2048,6 +2201,7 @@
   },
   {
     "text": "匀称",
+    "target": "称",
     "right": "chèn",
     "wrong": [
       "chēng",
@@ -2056,6 +2210,7 @@
   },
   {
     "text": "自称",
+    "target": "称",
     "right": "chēng",
     "wrong": [
       "chèn",
@@ -2064,6 +2219,7 @@
   },
   {
     "text": "称一称",
+    "target": "称",
     "right": "chēng",
     "wrong": [
       "chèn",
@@ -2072,6 +2228,7 @@
   },
   {
     "text": "乘势",
+    "target": "乘",
     "right": "chéng",
     "wrong": [
       "shèng"
@@ -2079,6 +2236,7 @@
   },
   {
     "text": "千乘之国",
+    "target": "乘",
     "right": "shèng",
     "wrong": [
       "chéng"
@@ -2086,6 +2244,7 @@
   },
   {
     "text": "澄江如练",
+    "target": "澄",
     "right": "chéng",
     "wrong": [
       "dèng"
@@ -2093,6 +2252,7 @@
   },
   {
     "text": "澄净",
+    "target": "澄",
     "right": "chéng",
     "wrong": [
       "dèng"
@@ -2100,6 +2260,7 @@
   },
   {
     "text": "澄清事实",
+    "target": "澄",
     "right": "chéng",
     "wrong": [
       "dèng"
@@ -2107,6 +2268,7 @@
   },
   {
     "text": "把浑水澄清",
+    "target": "澄",
     "right": "dèng",
     "wrong": [
       "chéng"
@@ -2114,6 +2276,7 @@
   },
   {
     "text": "要冲",
+    "target": "冲",
     "right": "chōng",
     "wrong": [
       "chòng"
@@ -2121,6 +2284,7 @@
   },
   {
     "text": "首当其冲",
+    "target": "冲",
     "right": "chōng",
     "wrong": [
       "chòng"
@@ -2128,6 +2292,7 @@
   },
   {
     "text": "冲床",
+    "target": "冲",
     "right": "chòng",
     "wrong": [
       "chōng"
@@ -2135,6 +2300,7 @@
   },
   {
     "text": "冲压",
+    "target": "冲",
     "right": "chòng",
     "wrong": [
       "chōng"
@@ -2142,6 +2308,7 @@
   },
   {
     "text": "冲劲儿",
+    "target": "冲",
     "right": "chòng",
     "wrong": [
       "chōng"
@@ -2149,6 +2316,7 @@
   },
   {
     "text": "臭骂",
+    "target": "臭",
     "right": "chòu",
     "wrong": [
       "xiù"
@@ -2156,6 +2324,7 @@
   },
   {
     "text": "无色无臭",
+    "target": "臭",
     "right": "xiù",
     "wrong": [
       "chòu"
@@ -2163,6 +2332,7 @@
   },
   {
     "text": "乳臭未干",
+    "target": "臭",
     "right": "xiù",
     "wrong": [
       "chòu"
@@ -2170,48 +2340,55 @@
   },
   {
     "text": "处变不惊",
-    "right": "chŭ",
+    "target": "处",
+    "right": "chǔ",
     "wrong": [
       "chù"
     ]
   },
   {
     "text": "设身处地",
-    "right": "chŭ",
+    "target": "处",
+    "right": "chǔ",
     "wrong": [
       "chù"
     ]
   },
   {
     "text": "处女作",
-    "right": "chŭ",
+    "target": "处",
+    "right": "chǔ",
     "wrong": [
       "chù"
     ]
   },
   {
     "text": "处方药",
-    "right": "chŭ",
+    "target": "处",
+    "right": "chǔ",
     "wrong": [
       "chù"
     ]
   },
   {
     "text": "住处",
+    "target": "处",
     "right": "chù",
     "wrong": [
-      "chŭ"
+      "chǔ"
     ]
   },
   {
     "text": "公证处",
+    "target": "处",
     "right": "chù",
     "wrong": [
-      "chŭ"
+      "chǔ"
     ]
   },
   {
     "text": "六畜",
+    "target": "畜",
     "right": "chù",
     "wrong": [
       "xù"
@@ -2219,6 +2396,7 @@
   },
   {
     "text": "牲畜",
+    "target": "畜",
     "right": "chù",
     "wrong": [
       "xù"
@@ -2226,6 +2404,7 @@
   },
   {
     "text": "畜牧",
+    "target": "畜",
     "right": "xù",
     "wrong": [
       "chù"
@@ -2233,23 +2412,26 @@
   },
   {
     "text": "揣手",
+    "target": "揣",
     "right": "chuāi",
     "wrong": [
-      "chuăi",
+      "chuǎi",
       "chuài"
     ]
   },
   {
     "text": "揣在怀里",
+    "target": "揣",
     "right": "chuāi",
     "wrong": [
-      "chuăi",
+      "chuǎi",
       "chuài"
     ]
   },
   {
     "text": "揣测",
-    "right": "chuăi",
+    "target": "揣",
+    "right": "chuǎi",
     "wrong": [
       "chuāi",
       "chuài"
@@ -2257,7 +2439,8 @@
   },
   {
     "text": "揣摩",
-    "right": "chuăi",
+    "target": "揣",
+    "right": "chuǎi",
     "wrong": [
       "chuāi",
       "chuài"
@@ -2265,7 +2448,8 @@
   },
   {
     "text": "不揣冒昧",
-    "right": "chuăi",
+    "target": "揣",
+    "right": "chuǎi",
     "wrong": [
       "chuāi",
       "chuài"
@@ -2273,21 +2457,24 @@
   },
   {
     "text": "挣揣",
+    "target": "揣",
     "right": "chuài",
     "wrong": [
       "chuāi",
-      "chuăi"
+      "chuǎi"
     ]
   },
   {
     "text": "创伤",
+    "target": "创",
     "right": "chuāng",
     "wrong": [
       "chuàng"
     ]
   },
   {
-    "text": "重创",
+    "text": "重创（严重创伤）",
+    "target": "创",
     "right": "chuāng",
     "wrong": [
       "chuàng"
@@ -2295,6 +2482,7 @@
   },
   {
     "text": "首创",
+    "target": "创",
     "right": "chuàng",
     "wrong": [
       "chuāng"
@@ -2302,6 +2490,7 @@
   },
   {
     "text": "创举",
+    "target": "创",
     "right": "chuàng",
     "wrong": [
       "chuāng"
@@ -2309,13 +2498,15 @@
   },
   {
     "text": "经幢",
+    "target": "幢",
     "right": "chuáng",
     "wrong": [
       "zhuàng"
     ]
   },
   {
-    "text": "幢幢",
+    "text": "幢幢（影子摇晃）",
+    "target": "幢",
     "right": "chuáng",
     "wrong": [
       "zhuàng"
@@ -2323,6 +2514,7 @@
   },
   {
     "text": "一幢房子",
+    "target": "幢",
     "right": "zhuàng",
     "wrong": [
       "chuáng"
@@ -2330,6 +2522,7 @@
   },
   {
     "text": "椎心泣血",
+    "target": "椎",
     "right": "chuí",
     "wrong": [
       "zhuī"
@@ -2337,6 +2530,7 @@
   },
   {
     "text": "脊椎",
+    "target": "椎",
     "right": "zhuī",
     "wrong": [
       "chuí"
@@ -2344,6 +2538,7 @@
   },
   {
     "text": "伺候",
+    "target": "伺",
     "right": "cì",
     "wrong": [
       "sì"
@@ -2351,6 +2546,7 @@
   },
   {
     "text": "窥伺",
+    "target": "伺",
     "right": "sì",
     "wrong": [
       "cì"
@@ -2358,6 +2554,7 @@
   },
   {
     "text": "伺机而动",
+    "target": "伺",
     "right": "sì",
     "wrong": [
       "cì"
@@ -2365,34 +2562,31 @@
   },
   {
     "text": "人头攒动",
+    "target": "攒",
     "right": "cuán",
     "wrong": [
-      "zăn"
+      "zǎn"
     ]
   },
   {
     "text": "攒钱",
-    "right": "cuán",
-    "wrong": [
-      "zăn"
-    ]
-  },
-  {
-    "text": "积攒",
-    "right": "zăn",
+    "target": "攒",
+    "right": "zǎn",
     "wrong": [
       "cuán"
     ]
   },
   {
-    "text": "攒钱",
-    "right": "zăn",
+    "text": "积攒",
+    "target": "攒",
+    "right": "zǎn",
     "wrong": [
       "cuán"
     ]
   },
   {
     "text": "撮土",
+    "target": "撮",
     "right": "cuō",
     "wrong": [
       "zuō"
@@ -2400,6 +2594,7 @@
   },
   {
     "text": "撮要",
+    "target": "撮",
     "right": "cuō",
     "wrong": [
       "zuō"
@@ -2407,6 +2602,7 @@
   },
   {
     "text": "一撮盐",
+    "target": "撮",
     "right": "cuō",
     "wrong": [
       "zuō"
@@ -2414,6 +2610,7 @@
   },
   {
     "text": "一撮儿头发",
+    "target": "撮",
     "right": "zuō",
     "wrong": [
       "cuō"
@@ -2421,27 +2618,31 @@
   },
   {
     "text": "逮猫捉老鼠",
-    "right": "dăi",
+    "target": "逮",
+    "right": "dǎi",
     "wrong": [
       "dài"
     ]
   },
   {
     "text": "力有未逮",
+    "target": "逮",
     "right": "dài",
     "wrong": [
-      "dăi"
+      "dǎi"
     ]
   },
   {
     "text": "逮捕",
+    "target": "逮",
     "right": "dài",
     "wrong": [
-      "dăi"
+      "dǎi"
     ]
   },
   {
-    "text": "当年",
+    "text": "当年（从前）",
+    "target": "当",
     "right": "dāng",
     "wrong": [
       "dàng"
@@ -2449,13 +2650,15 @@
   },
   {
     "text": "螳臂当车",
+    "target": "当",
     "right": "dāng",
     "wrong": [
       "dàng"
     ]
   },
   {
-    "text": "当年",
+    "text": "当年（同一年：当年种，当年收）",
+    "target": "当",
     "right": "dàng",
     "wrong": [
       "dāng"
@@ -2463,6 +2666,7 @@
   },
   {
     "text": "安步当车",
+    "target": "当",
     "right": "dàng",
     "wrong": [
       "dāng"
@@ -2470,6 +2674,7 @@
   },
   {
     "text": "钟敲得铛铛响",
+    "target": "铛",
     "right": "dāng",
     "wrong": [
       "chēng"
@@ -2477,6 +2682,7 @@
   },
   {
     "text": "电饼铛",
+    "target": "铛",
     "right": "chēng",
     "wrong": [
       "dāng"
@@ -2484,6 +2690,7 @@
   },
   {
     "text": "鼎铛玉石",
+    "target": "铛",
     "right": "chēng",
     "wrong": [
       "dāng"
@@ -2491,6 +2698,7 @@
   },
   {
     "text": "叨登",
+    "target": "叨",
     "right": "dāo",
     "wrong": [
       "tāo"
@@ -2498,13 +2706,15 @@
   },
   {
     "text": "叨咕",
-    "right": "dāo",
+    "target": "叨",
+    "right": "dáo",
     "wrong": [
       "tāo"
     ]
   },
   {
     "text": "叨教",
+    "target": "叨",
     "right": "tāo",
     "wrong": [
       "dāo"
@@ -2512,6 +2722,7 @@
   },
   {
     "text": "叨扰",
+    "target": "叨",
     "right": "tāo",
     "wrong": [
       "dāo"
@@ -2519,6 +2730,7 @@
   },
   {
     "text": "叨光",
+    "target": "叨",
     "right": "tāo",
     "wrong": [
       "dāo"
@@ -2526,48 +2738,55 @@
   },
   {
     "text": "倒戈",
-    "right": "dăo",
+    "target": "倒",
+    "right": "dǎo",
     "wrong": [
       "dào"
     ]
   },
   {
     "text": "倒茬",
-    "right": "dăo",
+    "target": "倒",
+    "right": "dǎo",
     "wrong": [
       "dào"
     ]
   },
   {
     "text": "倒手",
-    "right": "dăo",
+    "target": "倒",
+    "right": "dǎo",
     "wrong": [
       "dào"
     ]
   },
   {
     "text": "喝倒彩",
+    "target": "倒",
     "right": "dào",
     "wrong": [
-      "dăo"
+      "dǎo"
     ]
   },
   {
     "text": "倒春寒",
+    "target": "倒",
     "right": "dào",
     "wrong": [
-      "dăo"
+      "dǎo"
     ]
   },
   {
     "text": "倒行逆施",
+    "target": "倒",
     "right": "dào",
     "wrong": [
-      "dăo"
+      "dǎo"
     ]
   },
   {
     "text": "提防",
+    "target": "提",
     "right": "dī",
     "wrong": [
       "tí"
@@ -2575,6 +2794,7 @@
   },
   {
     "text": "提溜",
+    "target": "提",
     "right": "dī",
     "wrong": [
       "tí"
@@ -2582,6 +2802,7 @@
   },
   {
     "text": "提纲挈领",
+    "target": "提",
     "right": "tí",
     "wrong": [
       "dī"
@@ -2589,6 +2810,7 @@
   },
   {
     "text": "互相提携",
+    "target": "提",
     "right": "tí",
     "wrong": [
       "dī"
@@ -2596,6 +2818,7 @@
   },
   {
     "text": "度命",
+    "target": "度",
     "right": "dù",
     "wrong": [
       "duó"
@@ -2603,6 +2826,7 @@
   },
   {
     "text": "度曲",
+    "target": "度",
     "right": "dù",
     "wrong": [
       "duó"
@@ -2610,6 +2834,7 @@
   },
   {
     "text": "揣度",
+    "target": "度",
     "right": "duó",
     "wrong": [
       "dù"
@@ -2617,6 +2842,7 @@
   },
   {
     "text": "度德量力",
+    "target": "度",
     "right": "duó",
     "wrong": [
       "dù"
@@ -2624,6 +2850,7 @@
   },
   {
     "text": "揆情度理",
+    "target": "度",
     "right": "duó",
     "wrong": [
       "dù"
@@ -2631,6 +2858,7 @@
   },
   {
     "text": "粮食囤",
+    "target": "囤",
     "right": "dùn",
     "wrong": [
       "tún"
@@ -2638,6 +2866,7 @@
   },
   {
     "text": "囤聚",
+    "target": "囤",
     "right": "tún",
     "wrong": [
       "dùn"
@@ -2645,6 +2874,7 @@
   },
   {
     "text": "囤积居奇",
+    "target": "囤",
     "right": "tún",
     "wrong": [
       "dùn"
@@ -2652,6 +2882,7 @@
   },
   {
     "text": "恶心",
+    "target": "恶",
     "right": "ě",
     "wrong": [
       "è",
@@ -2661,6 +2892,7 @@
   },
   {
     "text": "凶神恶煞",
+    "target": "恶",
     "right": "è",
     "wrong": [
       "ě",
@@ -2670,6 +2902,7 @@
   },
   {
     "text": "恶贯满盈",
+    "target": "恶",
     "right": "è",
     "wrong": [
       "ě",
@@ -2679,6 +2912,7 @@
   },
   {
     "text": "恶，是何言也！",
+    "target": "恶",
     "right": "wū",
     "wrong": [
       "ě",
@@ -2688,6 +2922,7 @@
   },
   {
     "text": "深恶痛绝",
+    "target": "恶",
     "right": "wù",
     "wrong": [
       "ě",
@@ -2697,6 +2932,7 @@
   },
   {
     "text": "发落",
+    "target": "发",
     "right": "fā",
     "wrong": [
       "fà"
@@ -2704,6 +2940,7 @@
   },
   {
     "text": "不悱不发",
+    "target": "发",
     "right": "fā",
     "wrong": [
       "fà"
@@ -2711,6 +2948,7 @@
   },
   {
     "text": "理发",
+    "target": "发",
     "right": "fà",
     "wrong": [
       "fā"
@@ -2718,6 +2956,7 @@
   },
   {
     "text": "间不容发",
+    "target": "发",
     "right": "fà",
     "wrong": [
       "fā"
@@ -2725,6 +2964,7 @@
   },
   {
     "text": "坊间",
+    "target": "坊",
     "right": "fāng",
     "wrong": [
       "fáng"
@@ -2732,6 +2972,7 @@
   },
   {
     "text": "牌坊",
+    "target": "坊",
     "right": "fāng",
     "wrong": [
       "fáng"
@@ -2739,6 +2980,7 @@
   },
   {
     "text": "磨坊",
+    "target": "坊",
     "right": "fáng",
     "wrong": [
       "fāng"
@@ -2746,6 +2988,7 @@
   },
   {
     "text": "芳菲",
+    "target": "菲",
     "right": "fēi",
     "wrong": [
       "fěi"
@@ -2753,6 +2996,7 @@
   },
   {
     "text": "菲薄",
+    "target": "菲",
     "right": "fěi",
     "wrong": [
       "fēi"
@@ -2760,6 +3004,7 @@
   },
   {
     "text": "菲仪",
+    "target": "菲",
     "right": "fěi",
     "wrong": [
       "fēi"
@@ -2767,6 +3012,7 @@
   },
   {
     "text": "分裂",
+    "target": "分",
     "right": "fēn",
     "wrong": [
       "fèn"
@@ -2774,6 +3020,7 @@
   },
   {
     "text": "养分",
+    "target": "分",
     "right": "fèn",
     "wrong": [
       "fēn"
@@ -2781,13 +3028,15 @@
   },
   {
     "text": "职分",
+    "target": "分",
     "right": "fèn",
     "wrong": [
       "fēn"
     ]
   },
   {
-    "text": "自分",
+    "text": "自分（自己料想）",
+    "target": "分",
     "right": "fèn",
     "wrong": [
       "fēn"
@@ -2795,41 +3044,47 @@
   },
   {
     "text": "否定",
-    "right": "fŏu",
+    "target": "否",
+    "right": "fǒu",
     "wrong": [
-      "pĭ"
+      "pǐ"
     ]
   },
   {
     "text": "否极泰来",
-    "right": "pĭ",
+    "target": "否",
+    "right": "pǐ",
     "wrong": [
-      "fŏu"
+      "fǒu"
     ]
   },
   {
     "text": "臧否人物",
-    "right": "pĭ",
+    "target": "否",
+    "right": "pǐ",
     "wrong": [
-      "fŏu"
+      "fǒu"
     ]
   },
   {
     "text": "果脯",
-    "right": "fŭ",
+    "target": "脯",
+    "right": "fǔ",
     "wrong": [
       "pú"
     ]
   },
   {
     "text": "胸脯",
+    "target": "脯",
     "right": "pú",
     "wrong": [
-      "fŭ"
+      "fǔ"
     ]
   },
   {
     "text": "轧朋友",
+    "target": "轧",
     "right": "gá",
     "wrong": [
       "yà",
@@ -2838,6 +3093,7 @@
   },
   {
     "text": "轧账",
+    "target": "轧",
     "right": "gá",
     "wrong": [
       "yà",
@@ -2846,6 +3102,7 @@
   },
   {
     "text": "倾轧",
+    "target": "轧",
     "right": "yà",
     "wrong": [
       "gá",
@@ -2854,6 +3111,7 @@
   },
   {
     "text": "碾轧",
+    "target": "轧",
     "right": "yà",
     "wrong": [
       "gá",
@@ -2862,6 +3120,7 @@
   },
   {
     "text": "轧钢",
+    "target": "轧",
     "right": "zhá",
     "wrong": [
       "gá",
@@ -2870,6 +3129,7 @@
   },
   {
     "text": "干犯",
+    "target": "干",
     "right": "gān",
     "wrong": [
       "gàn"
@@ -2877,13 +3137,15 @@
   },
   {
     "text": "干涉",
+    "target": "干",
     "right": "gān",
     "wrong": [
       "gàn"
     ]
   },
   {
-    "text": "干禄",
+    "text": "干禄（求取官职俸禄）",
+    "target": "干",
     "right": "gān",
     "wrong": [
       "gàn"
@@ -2891,6 +3153,7 @@
   },
   {
     "text": "骨干",
+    "target": "干",
     "right": "gàn",
     "wrong": [
       "gān"
@@ -2898,6 +3161,7 @@
   },
   {
     "text": "干细胞",
+    "target": "干",
     "right": "gàn",
     "wrong": [
       "gān"
@@ -2905,34 +3169,39 @@
   },
   {
     "text": "旗杆",
+    "target": "杆",
     "right": "gān",
     "wrong": [
-      "găn"
+      "gǎn"
     ]
   },
   {
     "text": "笔杆",
-    "right": "găn",
+    "target": "杆",
+    "right": "gǎn",
     "wrong": [
       "gān"
     ]
   },
   {
     "text": "杆菌",
-    "right": "găn",
+    "target": "杆",
+    "right": "gǎn",
     "wrong": [
       "gān"
     ]
   },
   {
     "text": "一杆秤",
-    "right": "găn",
+    "target": "杆",
+    "right": "gǎn",
     "wrong": [
       "gān"
     ]
   },
   {
     "text": "力能扛鼎",
+    "target": "扛",
     "right": "gāng",
     "wrong": [
       "káng"
@@ -2940,6 +3209,7 @@
   },
   {
     "text": "扛鼎之作",
+    "target": "扛",
     "right": "gāng",
     "wrong": [
       "káng"
@@ -2947,6 +3217,7 @@
   },
   {
     "text": "扛枪",
+    "target": "扛",
     "right": "káng",
     "wrong": [
       "gāng"
@@ -2954,6 +3225,7 @@
   },
   {
     "text": "胳臂",
+    "target": "胳",
     "right": "gē",
     "wrong": [
       "gé",
@@ -2962,6 +3234,7 @@
   },
   {
     "text": "胳膊",
+    "target": "胳",
     "right": "gē",
     "wrong": [
       "gé",
@@ -2970,6 +3243,7 @@
   },
   {
     "text": "胳肢",
+    "target": "胳",
     "right": "gé",
     "wrong": [
       "gē",
@@ -2978,6 +3252,7 @@
   },
   {
     "text": "胳肢窝",
+    "target": "胳",
     "right": "gā",
     "wrong": [
       "gē",
@@ -2986,41 +3261,47 @@
   },
   {
     "text": "给力",
+    "target": "给",
     "right": "gěi",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "给面子",
+    "target": "给",
     "right": "gěi",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "补给",
-    "right": "jĭ",
+    "target": "给",
+    "right": "jǐ",
     "wrong": [
       "gěi"
     ]
   },
   {
     "text": "自给自足",
-    "right": "jĭ",
+    "target": "给",
+    "right": "jǐ",
     "wrong": [
       "gěi"
     ]
   },
   {
     "text": "家给人足",
-    "right": "jĭ",
+    "target": "给",
+    "right": "jǐ",
     "wrong": [
       "gěi"
     ]
   },
   {
     "text": "更动",
+    "target": "更",
     "right": "gēng",
     "wrong": [
       "gèng"
@@ -3028,6 +3309,7 @@
   },
   {
     "text": "少不更事",
+    "target": "更",
     "right": "gēng",
     "wrong": [
       "gèng"
@@ -3035,6 +3317,7 @@
   },
   {
     "text": "更上一层楼",
+    "target": "更",
     "right": "gèng",
     "wrong": [
       "gēng"
@@ -3042,27 +3325,31 @@
   },
   {
     "text": "脖颈儿",
-    "right": "gĕng",
+    "target": "颈",
+    "right": "gěng",
     "wrong": [
-      "jĭng"
+      "jǐng"
     ]
   },
   {
     "text": "颈椎",
-    "right": "jĭng",
+    "target": "颈",
+    "right": "jǐng",
     "wrong": [
-      "gĕng"
+      "gěng"
     ]
   },
   {
     "text": "刎颈之交",
-    "right": "jĭng",
+    "target": "颈",
+    "right": "jǐng",
     "wrong": [
-      "gĕng"
+      "gěng"
     ]
   },
   {
     "text": "供给",
+    "target": "供",
     "right": "gōng",
     "wrong": [
       "gòng"
@@ -3070,13 +3357,15 @@
   },
   {
     "text": "供求",
+    "target": "供",
     "right": "gōng",
     "wrong": [
       "gòng"
     ]
   },
   {
-    "text": "供养",
+    "text": "供养（供给长辈生活所需）",
+    "target": "供",
     "right": "gōng",
     "wrong": [
       "gòng"
@@ -3084,6 +3373,7 @@
   },
   {
     "text": "供品",
+    "target": "供",
     "right": "gòng",
     "wrong": [
       "gōng"
@@ -3091,6 +3381,7 @@
   },
   {
     "text": "供职",
+    "target": "供",
     "right": "gòng",
     "wrong": [
       "gōng"
@@ -3098,6 +3389,7 @@
   },
   {
     "text": "供状",
+    "target": "供",
     "right": "gòng",
     "wrong": [
       "gōng"
@@ -3105,6 +3397,7 @@
   },
   {
     "text": "勾勒",
+    "target": "勾",
     "right": "gōu",
     "wrong": [
       "gòu"
@@ -3112,6 +3405,7 @@
   },
   {
     "text": "勾当",
+    "target": "勾",
     "right": "gòu",
     "wrong": [
       "gōu"
@@ -3119,51 +3413,58 @@
   },
   {
     "text": "骨朵儿",
+    "target": "骨",
     "right": "gū",
     "wrong": [
-      "gŭ"
+      "gǔ"
     ]
   },
   {
     "text": "骨碌碌",
+    "target": "骨",
     "right": "gū",
     "wrong": [
-      "gŭ"
+      "gǔ"
     ]
   },
   {
     "text": "骨骼",
-    "right": "gŭ",
+    "target": "骨",
+    "right": "gǔ",
     "wrong": [
       "gū"
     ]
   },
   {
     "text": "骨干",
-    "right": "gŭ",
+    "target": "骨",
+    "right": "gǔ",
     "wrong": [
       "gū"
     ]
   },
   {
     "text": "呱呱坠地",
+    "target": "呱",
     "right": "gū",
     "wrong": [
       "guā",
-      "guă"
+      "guǎ"
     ]
   },
   {
     "text": "呱呱叫",
+    "target": "呱",
     "right": "guā",
     "wrong": [
       "gū",
-      "guă"
+      "guǎ"
     ]
   },
   {
     "text": "拉呱儿",
-    "right": "guă",
+    "target": "呱",
+    "right": "guǎ",
     "wrong": [
       "gū",
       "guā"
@@ -3171,6 +3472,7 @@
   },
   {
     "text": "叹为观止",
+    "target": "观",
     "right": "guān",
     "wrong": [
       "guàn"
@@ -3178,6 +3480,7 @@
   },
   {
     "text": "道观",
+    "target": "观",
     "right": "guàn",
     "wrong": [
       "guān"
@@ -3185,6 +3488,7 @@
   },
   {
     "text": "王冠",
+    "target": "冠",
     "right": "guān",
     "wrong": [
       "guàn"
@@ -3192,6 +3496,7 @@
   },
   {
     "text": "弹冠相庆",
+    "target": "冠",
     "right": "guān",
     "wrong": [
       "guàn"
@@ -3199,6 +3504,7 @@
   },
   {
     "text": "冠心病",
+    "target": "冠",
     "right": "guān",
     "wrong": [
       "guàn"
@@ -3206,6 +3512,7 @@
   },
   {
     "text": "冠名",
+    "target": "冠",
     "right": "guàn",
     "wrong": [
       "guān"
@@ -3213,6 +3520,7 @@
   },
   {
     "text": "夺冠",
+    "target": "冠",
     "right": "guàn",
     "wrong": [
       "guān"
@@ -3220,6 +3528,7 @@
   },
   {
     "text": "行当",
+    "target": "行",
     "right": "háng",
     "wrong": [
       "hàng",
@@ -3229,6 +3538,7 @@
   },
   {
     "text": "行款",
+    "target": "行",
     "right": "háng",
     "wrong": [
       "hàng",
@@ -3238,6 +3548,7 @@
   },
   {
     "text": "树行子",
+    "target": "行",
     "right": "hàng",
     "wrong": [
       "háng",
@@ -3246,7 +3557,8 @@
     ]
   },
   {
-    "text": "道行",
+    "text": "道行（修行的功夫）",
+    "target": "行",
     "right": "héng",
     "wrong": [
       "háng",
@@ -3256,6 +3568,7 @@
   },
   {
     "text": "行径",
+    "target": "行",
     "right": "xíng",
     "wrong": [
       "háng",
@@ -3265,6 +3578,7 @@
   },
   {
     "text": "行云流水",
+    "target": "行",
     "right": "xíng",
     "wrong": [
       "háng",
@@ -3274,6 +3588,7 @@
   },
   {
     "text": "引吭高歌",
+    "target": "吭",
     "right": "háng",
     "wrong": [
       "kēng"
@@ -3281,13 +3596,15 @@
   },
   {
     "text": "一声不吭",
+    "target": "吭",
     "right": "kēng",
     "wrong": [
       "háng"
     ]
   },
   {
-    "text": "巷道",
+    "text": "巷道（采矿坑道）",
+    "target": "巷",
     "right": "hàng",
     "wrong": [
       "xiàng"
@@ -3295,6 +3612,7 @@
   },
   {
     "text": "街头巷尾",
+    "target": "巷",
     "right": "xiàng",
     "wrong": [
       "hàng"
@@ -3302,6 +3620,7 @@
   },
   {
     "text": "巷战",
+    "target": "巷",
     "right": "xiàng",
     "wrong": [
       "hàng"
@@ -3309,6 +3628,7 @@
   },
   {
     "text": "喝水",
+    "target": "喝",
     "right": "hē",
     "wrong": [
       "hè"
@@ -3316,6 +3636,7 @@
   },
   {
     "text": "喝西北风",
+    "target": "喝",
     "right": "hē",
     "wrong": [
       "hè"
@@ -3323,6 +3644,7 @@
   },
   {
     "text": "喝问",
+    "target": "喝",
     "right": "hè",
     "wrong": [
       "hē"
@@ -3330,6 +3652,7 @@
   },
   {
     "text": "喝彩",
+    "target": "喝",
     "right": "hè",
     "wrong": [
       "hē"
@@ -3337,6 +3660,7 @@
   },
   {
     "text": "吆五喝六",
+    "target": "喝",
     "right": "hè",
     "wrong": [
       "hē"
@@ -3344,6 +3668,7 @@
   },
   {
     "text": "和衣而卧",
+    "target": "和",
     "right": "hé",
     "wrong": [
       "hè",
@@ -3354,6 +3679,7 @@
   },
   {
     "text": "和盘托出",
+    "target": "和",
     "right": "hé",
     "wrong": [
       "hè",
@@ -3364,6 +3690,7 @@
   },
   {
     "text": "曲高和寡",
+    "target": "和",
     "right": "hè",
     "wrong": [
       "hé",
@@ -3374,6 +3701,7 @@
   },
   {
     "text": "和诗",
+    "target": "和",
     "right": "hè",
     "wrong": [
       "hé",
@@ -3384,6 +3712,7 @@
   },
   {
     "text": "和面",
+    "target": "和",
     "right": "huó",
     "wrong": [
       "hé",
@@ -3394,6 +3723,7 @@
   },
   {
     "text": "和泥",
+    "target": "和",
     "right": "huó",
     "wrong": [
       "hé",
@@ -3404,6 +3734,7 @@
   },
   {
     "text": "和药",
+    "target": "和",
     "right": "huò",
     "wrong": [
       "hé",
@@ -3414,6 +3745,7 @@
   },
   {
     "text": "和稀泥",
+    "target": "和",
     "right": "huò",
     "wrong": [
       "hé",
@@ -3424,6 +3756,7 @@
   },
   {
     "text": "衣服洗了三和",
+    "target": "和",
     "right": "huò",
     "wrong": [
       "hé",
@@ -3434,6 +3767,7 @@
   },
   {
     "text": "和牌",
+    "target": "和",
     "right": "hú",
     "wrong": [
       "hé",
@@ -3444,6 +3778,7 @@
   },
   {
     "text": "荷花",
+    "target": "荷",
     "right": "hé",
     "wrong": [
       "hè"
@@ -3451,6 +3786,7 @@
   },
   {
     "text": "荷兰",
+    "target": "荷",
     "right": "hé",
     "wrong": [
       "hè"
@@ -3458,6 +3794,7 @@
   },
   {
     "text": "负荷",
+    "target": "荷",
     "right": "hè",
     "wrong": [
       "hé"
@@ -3465,6 +3802,7 @@
   },
   {
     "text": "荷载",
+    "target": "荷",
     "right": "hè",
     "wrong": [
       "hé"
@@ -3472,6 +3810,7 @@
   },
   {
     "text": "荷枪实弹",
+    "target": "荷",
     "right": "hè",
     "wrong": [
       "hé"
@@ -3479,6 +3818,7 @@
   },
   {
     "text": "横竖",
+    "target": "横",
     "right": "héng",
     "wrong": [
       "hèng"
@@ -3486,6 +3826,7 @@
   },
   {
     "text": "横加阻拦",
+    "target": "横",
     "right": "héng",
     "wrong": [
       "hèng"
@@ -3493,6 +3834,7 @@
   },
   {
     "text": "蛮横",
+    "target": "横",
     "right": "hèng",
     "wrong": [
       "héng"
@@ -3500,6 +3842,7 @@
   },
   {
     "text": "横死",
+    "target": "横",
     "right": "hèng",
     "wrong": [
       "héng"
@@ -3507,6 +3850,7 @@
   },
   {
     "text": "飞来横祸",
+    "target": "横",
     "right": "hèng",
     "wrong": [
       "héng"
@@ -3514,31 +3858,35 @@
   },
   {
     "text": "哄传",
+    "target": "哄",
     "right": "hōng",
     "wrong": [
-      "hŏng",
+      "hǒng",
       "hòng"
     ]
   },
   {
     "text": "哄抬",
+    "target": "哄",
     "right": "hōng",
     "wrong": [
-      "hŏng",
+      "hǒng",
       "hòng"
     ]
   },
   {
     "text": "哄堂大笑",
+    "target": "哄",
     "right": "hōng",
     "wrong": [
-      "hŏng",
+      "hǒng",
       "hòng"
     ]
   },
   {
     "text": "哄骗",
-    "right": "hŏng",
+    "target": "哄",
+    "right": "hǒng",
     "wrong": [
       "hōng",
       "hòng"
@@ -3546,7 +3894,8 @@
   },
   {
     "text": "哄逗",
-    "right": "hŏng",
+    "target": "哄",
+    "right": "hǒng",
     "wrong": [
       "hōng",
       "hòng"
@@ -3554,22 +3903,25 @@
   },
   {
     "text": "起哄",
+    "target": "哄",
     "right": "hòng",
     "wrong": [
       "hōng",
-      "hŏng"
+      "hǒng"
     ]
   },
   {
     "text": "一哄而散",
+    "target": "哄",
     "right": "hòng",
     "wrong": [
       "hōng",
-      "hŏng"
+      "hǒng"
     ]
   },
   {
     "text": "红色",
+    "target": "红",
     "right": "hóng",
     "wrong": [
       "gōng"
@@ -3577,6 +3929,7 @@
   },
   {
     "text": "红利",
+    "target": "红",
     "right": "hóng",
     "wrong": [
       "gōng"
@@ -3584,6 +3937,7 @@
   },
   {
     "text": "女红",
+    "target": "红",
     "right": "gōng",
     "wrong": [
       "hóng"
@@ -3591,20 +3945,23 @@
   },
   {
     "text": "晃眼",
-    "right": "huăng",
+    "target": "晃",
+    "right": "huǎng",
     "wrong": [
       "huàng"
     ]
   },
   {
     "text": "晃动",
+    "target": "晃",
     "right": "huàng",
     "wrong": [
-      "huăng"
+      "huǎng"
     ]
   },
   {
     "text": "混蛋",
+    "target": "混",
     "right": "hún",
     "wrong": [
       "hùn"
@@ -3612,6 +3969,7 @@
   },
   {
     "text": "混水摸鱼",
+    "target": "混",
     "right": "hún",
     "wrong": [
       "hùn"
@@ -3619,6 +3977,7 @@
   },
   {
     "text": "混充",
+    "target": "混",
     "right": "hùn",
     "wrong": [
       "hún"
@@ -3626,6 +3985,7 @@
   },
   {
     "text": "混沌",
+    "target": "混",
     "right": "hùn",
     "wrong": [
       "hún"
@@ -3633,6 +3993,7 @@
   },
   {
     "text": "混迹",
+    "target": "混",
     "right": "hùn",
     "wrong": [
       "hún"
@@ -3640,6 +4001,7 @@
   },
   {
     "text": "混淆",
+    "target": "混",
     "right": "hùn",
     "wrong": [
       "hún"
@@ -3647,6 +4009,7 @@
   },
   {
     "text": "豁口",
+    "target": "豁",
     "right": "huō",
     "wrong": [
       "huò"
@@ -3654,6 +4017,7 @@
   },
   {
     "text": "豁出去",
+    "target": "豁",
     "right": "huō",
     "wrong": [
       "huò"
@@ -3661,6 +4025,7 @@
   },
   {
     "text": "豁达",
+    "target": "豁",
     "right": "huò",
     "wrong": [
       "huō"
@@ -3668,6 +4033,7 @@
   },
   {
     "text": "豁免",
+    "target": "豁",
     "right": "huò",
     "wrong": [
       "huō"
@@ -3675,6 +4041,7 @@
   },
   {
     "text": "豁然开朗",
+    "target": "豁",
     "right": "huò",
     "wrong": [
       "huō"
@@ -3682,34 +4049,39 @@
   },
   {
     "text": "茶几",
+    "target": "几",
     "right": "jī",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "窗明几净",
+    "target": "几",
     "right": "jī",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "几人",
-    "right": "jĭ",
+    "target": "几",
+    "right": "jǐ",
     "wrong": [
       "jī"
     ]
   },
   {
     "text": "几次三番",
-    "right": "jĭ",
+    "target": "几",
+    "right": "jǐ",
     "wrong": [
       "jī"
     ]
   },
   {
     "text": "期年",
+    "target": "期",
     "right": "jī",
     "wrong": [
       "qī"
@@ -3717,6 +4089,7 @@
   },
   {
     "text": "期月",
+    "target": "期",
     "right": "jī",
     "wrong": [
       "qī"
@@ -3724,6 +4097,7 @@
   },
   {
     "text": "期限",
+    "target": "期",
     "right": "qī",
     "wrong": [
       "jī"
@@ -3731,6 +4105,7 @@
   },
   {
     "text": "期望",
+    "target": "期",
     "right": "qī",
     "wrong": [
       "jī"
@@ -3738,6 +4113,7 @@
   },
   {
     "text": "期期艾艾",
+    "target": "期",
     "right": "qī",
     "wrong": [
       "jī"
@@ -3745,6 +4121,7 @@
   },
   {
     "text": "缉私",
+    "target": "缉",
     "right": "jī",
     "wrong": [
       "qī"
@@ -3752,6 +4129,7 @@
   },
   {
     "text": "通缉",
+    "target": "缉",
     "right": "jī",
     "wrong": [
       "qī"
@@ -3759,6 +4137,7 @@
   },
   {
     "text": "缉鞋口",
+    "target": "缉",
     "right": "qī",
     "wrong": [
       "jī"
@@ -3766,34 +4145,39 @@
   },
   {
     "text": "稽查",
+    "target": "稽",
     "right": "jī",
     "wrong": [
-      "qĭ"
+      "qǐ"
     ]
   },
   {
     "text": "反唇相稽",
+    "target": "稽",
     "right": "jī",
     "wrong": [
-      "qĭ"
+      "qǐ"
     ]
   },
   {
     "text": "稽延",
+    "target": "稽",
     "right": "jī",
     "wrong": [
-      "qĭ"
+      "qǐ"
     ]
   },
   {
     "text": "稽首",
-    "right": "qĭ",
+    "target": "稽",
+    "right": "qǐ",
     "wrong": [
       "jī"
     ]
   },
   {
     "text": "诘屈聱牙",
+    "target": "诘",
     "right": "jí",
     "wrong": [
       "jié"
@@ -3801,6 +4185,7 @@
   },
   {
     "text": "反诘",
+    "target": "诘",
     "right": "jié",
     "wrong": [
       "jí"
@@ -3808,6 +4193,7 @@
   },
   {
     "text": "诘问",
+    "target": "诘",
     "right": "jié",
     "wrong": [
       "jí"
@@ -3815,6 +4201,7 @@
   },
   {
     "text": "亟待解决",
+    "target": "亟",
     "right": "jí",
     "wrong": [
       "qì"
@@ -3822,6 +4209,7 @@
   },
   {
     "text": "亟来问讯",
+    "target": "亟",
     "right": "qì",
     "wrong": [
       "jí"
@@ -3829,6 +4217,7 @@
   },
   {
     "text": "狼藉",
+    "target": "藉",
     "right": "jí",
     "wrong": [
       "jiè"
@@ -3836,6 +4225,7 @@
   },
   {
     "text": "枕藉",
+    "target": "藉",
     "right": "jiè",
     "wrong": [
       "jí"
@@ -3843,6 +4233,7 @@
   },
   {
     "text": "慰藉",
+    "target": "藉",
     "right": "jiè",
     "wrong": [
       "jí"
@@ -3850,6 +4241,7 @@
   },
   {
     "text": "蕴藉",
+    "target": "藉",
     "right": "jiè",
     "wrong": [
       "jí"
@@ -3857,55 +4249,63 @@
   },
   {
     "text": "济济",
-    "right": "jĭ",
+    "target": "济",
+    "right": "jǐ",
     "wrong": [
       "jì"
     ]
   },
   {
     "text": "济南",
-    "right": "jĭ",
+    "target": "济",
+    "right": "jǐ",
     "wrong": [
       "jì"
     ]
   },
   {
     "text": "济水",
-    "right": "jĭ",
+    "target": "济",
+    "right": "jǐ",
     "wrong": [
       "jì"
     ]
   },
   {
     "text": "同舟共济",
+    "target": "济",
     "right": "jì",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "缓不济急",
+    "target": "济",
     "right": "jì",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "无济于事",
+    "target": "济",
     "right": "jì",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "假公济私",
+    "target": "济",
     "right": "jì",
     "wrong": [
-      "jĭ"
+      "jǐ"
     ]
   },
   {
     "text": "夹板",
+    "target": "夹",
     "right": "jiā",
     "wrong": [
       "jiá",
@@ -3914,6 +4314,7 @@
   },
   {
     "text": "夹层",
+    "target": "夹",
     "right": "jiā",
     "wrong": [
       "jiá",
@@ -3922,6 +4323,7 @@
   },
   {
     "text": "夹缝",
+    "target": "夹",
     "right": "jiā",
     "wrong": [
       "jiá",
@@ -3930,6 +4332,7 @@
   },
   {
     "text": "夹袄",
+    "target": "夹",
     "right": "jiá",
     "wrong": [
       "jiā",
@@ -3938,6 +4341,7 @@
   },
   {
     "text": "夹肢窝",
+    "target": "夹",
     "right": "gā",
     "wrong": [
       "jiā",
@@ -3946,34 +4350,39 @@
   },
   {
     "text": "久假不归",
-    "right": "jiă",
+    "target": "假",
+    "right": "jiǎ",
     "wrong": [
       "jià"
     ]
   },
   {
     "text": "不假思索",
-    "right": "jiă",
+    "target": "假",
+    "right": "jiǎ",
     "wrong": [
       "jià"
     ]
   },
   {
     "text": "假期",
+    "target": "假",
     "right": "jià",
     "wrong": [
-      "jiă"
+      "jiǎ"
     ]
   },
   {
     "text": "假日经济",
+    "target": "假",
     "right": "jià",
     "wrong": [
-      "jiă"
+      "jiǎ"
     ]
   },
   {
     "text": "间不容发",
+    "target": "间",
     "right": "jiān",
     "wrong": [
       "jiàn"
@@ -3981,6 +4390,7 @@
   },
   {
     "text": "间苗",
+    "target": "间",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -3988,6 +4398,7 @@
   },
   {
     "text": "间或",
+    "target": "间",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -3995,6 +4406,7 @@
   },
   {
     "text": "离间",
+    "target": "间",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -4002,6 +4414,7 @@
   },
   {
     "text": "间谍",
+    "target": "间",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -4009,6 +4422,7 @@
   },
   {
     "text": "渐入佳境",
+    "target": "渐",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -4016,6 +4430,7 @@
   },
   {
     "text": "防微杜渐",
+    "target": "渐",
     "right": "jiàn",
     "wrong": [
       "jiān"
@@ -4023,6 +4438,7 @@
   },
   {
     "text": "东渐于海",
+    "target": "渐",
     "right": "jiān",
     "wrong": [
       "jiàn"
@@ -4030,6 +4446,7 @@
   },
   {
     "text": "渐染",
+    "target": "渐",
     "right": "jiān",
     "wrong": [
       "jiàn"
@@ -4037,37 +4454,42 @@
   },
   {
     "text": "槛车",
+    "target": "槛",
     "right": "jiàn",
     "wrong": [
-      "kăn"
+      "kǎn"
     ]
   },
   {
     "text": "门槛",
-    "right": "kăn",
+    "target": "槛",
+    "right": "kǎn",
     "wrong": [
       "jiàn"
     ]
   },
   {
     "text": "倔强",
+    "target": "强",
     "right": "jiàng",
     "wrong": [
       "qiáng",
-      "qiăng"
+      "qiǎng"
     ]
   },
   {
     "text": "强弩之末",
+    "target": "强",
     "right": "qiáng",
     "wrong": [
       "jiàng",
-      "qiăng"
+      "qiǎng"
     ]
   },
   {
     "text": "强人所难",
-    "right": "qiăng",
+    "target": "强",
+    "right": "qiǎng",
     "wrong": [
       "jiàng",
       "qiáng"
@@ -4075,7 +4497,8 @@
   },
   {
     "text": "强词夺理",
-    "right": "qiăng",
+    "target": "强",
+    "right": "qiǎng",
     "wrong": [
       "jiàng",
       "qiáng"
@@ -4083,7 +4506,8 @@
   },
   {
     "text": "强不知以为知",
-    "right": "qiăng",
+    "target": "强",
+    "right": "qiǎng",
     "wrong": [
       "jiàng",
       "qiáng"
@@ -4091,6 +4515,7 @@
   },
   {
     "text": "细嚼慢咽",
+    "target": "嚼",
     "right": "jiáo",
     "wrong": [
       "jué"
@@ -4098,6 +4523,7 @@
   },
   {
     "text": "咬文嚼字",
+    "target": "嚼",
     "right": "jiáo",
     "wrong": [
       "jué"
@@ -4105,6 +4531,7 @@
   },
   {
     "text": "味同嚼蜡",
+    "target": "嚼",
     "right": "jiáo",
     "wrong": [
       "jué"
@@ -4112,13 +4539,16 @@
   },
   {
     "text": "倒嚼",
-    "right": "jiáo",
+    "target": "嚼",
+    "right": "jiào",
     "wrong": [
+      "jiáo",
       "jué"
     ]
   },
   {
     "text": "咀嚼",
+    "target": "嚼",
     "right": "jué",
     "wrong": [
       "jiáo"
@@ -4126,6 +4556,7 @@
   },
   {
     "text": "过屠门而大嚼",
+    "target": "嚼",
     "right": "jué",
     "wrong": [
       "jiáo"
@@ -4133,62 +4564,71 @@
   },
   {
     "text": "号角",
-    "right": "jiăo",
+    "target": "角",
+    "right": "jiǎo",
     "wrong": [
       "jué"
     ]
   },
   {
     "text": "头角峥嵘",
-    "right": "jiăo",
+    "target": "角",
+    "right": "jiǎo",
     "wrong": [
       "jué"
     ]
   },
   {
     "text": "名角",
+    "target": "角",
     "right": "jué",
     "wrong": [
-      "jiăo"
+      "jiǎo"
     ]
   },
   {
     "text": "角斗",
+    "target": "角",
     "right": "jué",
     "wrong": [
-      "jiăo"
+      "jiǎo"
     ]
   },
   {
-    "text": "古代五音之一",
+    "text": "角（古代五音之一）",
+    "target": "角",
     "right": "jué",
     "wrong": [
-      "jiăo"
+      "jiǎo"
     ]
   },
   {
     "text": "剿灭",
-    "right": "jiăo",
+    "target": "剿",
+    "right": "jiǎo",
     "wrong": [
       "chāo"
     ]
   },
   {
     "text": "剿除",
-    "right": "jiăo",
+    "target": "剿",
+    "right": "jiǎo",
     "wrong": [
       "chāo"
     ]
   },
   {
     "text": "剿说",
+    "target": "剿",
     "right": "chāo",
     "wrong": [
-      "jiăo"
+      "jiǎo"
     ]
   },
   {
     "text": "校样",
+    "target": "校",
     "right": "jiào",
     "wrong": [
       "xiào"
@@ -4196,6 +4636,7 @@
   },
   {
     "text": "校场",
+    "target": "校",
     "right": "jiào",
     "wrong": [
       "xiào"
@@ -4203,6 +4644,7 @@
   },
   {
     "text": "校勘",
+    "target": "校",
     "right": "jiào",
     "wrong": [
       "xiào"
@@ -4210,6 +4652,7 @@
   },
   {
     "text": "犯而不校",
+    "target": "校",
     "right": "jiào",
     "wrong": [
       "xiào"
@@ -4217,6 +4660,7 @@
   },
   {
     "text": "校舍",
+    "target": "校",
     "right": "xiào",
     "wrong": [
       "jiào"
@@ -4224,14 +4668,16 @@
   },
   {
     "text": "少校",
+    "target": "校",
     "right": "xiào",
     "wrong": [
       "jiào"
     ]
   },
   {
-    "text": "解顾",
-    "right": "jiĕ",
+    "text": "解雇",
+    "target": "解",
+    "right": "jiě",
     "wrong": [
       "jiè",
       "xiè"
@@ -4239,7 +4685,8 @@
   },
   {
     "text": "解甲归田",
-    "right": "jiĕ",
+    "target": "解",
+    "right": "jiě",
     "wrong": [
       "jiè",
       "xiè"
@@ -4247,38 +4694,43 @@
   },
   {
     "text": "解送",
+    "target": "解",
     "right": "jiè",
     "wrong": [
-      "jiĕ",
+      "jiě",
       "xiè"
     ]
   },
   {
     "text": "解元",
+    "target": "解",
     "right": "jiè",
     "wrong": [
-      "jiĕ",
+      "jiě",
       "xiè"
     ]
   },
   {
-    "text": "解不开这个道理",
+    "text": "跑马卖解",
+    "target": "解",
     "right": "xiè",
     "wrong": [
-      "jiĕ",
+      "jiě",
       "jiè"
     ]
   },
   {
     "text": "浑身解数",
+    "target": "解",
     "right": "xiè",
     "wrong": [
-      "jiĕ",
+      "jiě",
       "jiè"
     ]
   },
   {
     "text": "弱不禁风",
+    "target": "禁",
     "right": "jīn",
     "wrong": [
       "jìn"
@@ -4286,6 +4738,7 @@
   },
   {
     "text": "忍俊不禁",
+    "target": "禁",
     "right": "jīn",
     "wrong": [
       "jìn"
@@ -4293,6 +4746,7 @@
   },
   {
     "text": "禁止",
+    "target": "禁",
     "right": "jìn",
     "wrong": [
       "jīn"
@@ -4300,6 +4754,7 @@
   },
   {
     "text": "宫禁",
+    "target": "禁",
     "right": "jìn",
     "wrong": [
       "jīn"
@@ -4307,41 +4762,47 @@
   },
   {
     "text": "尽管",
-    "right": "jĭn",
+    "target": "尽",
+    "right": "jǐn",
     "wrong": [
       "jìn"
     ]
   },
   {
     "text": "尽快",
-    "right": "jĭn",
+    "target": "尽",
+    "right": "jǐn",
     "wrong": [
       "jìn"
     ]
   },
   {
     "text": "尽早",
-    "right": "jĭn",
+    "target": "尽",
+    "right": "jǐn",
     "wrong": [
       "jìn"
     ]
   },
   {
     "text": "尽情",
+    "target": "尽",
     "right": "jìn",
     "wrong": [
-      "jĭn"
+      "jǐn"
     ]
   },
   {
     "text": "尽善尽美",
+    "target": "尽",
     "right": "jìn",
     "wrong": [
-      "jĭn"
+      "jǐn"
     ]
   },
   {
     "text": "靓妆丽服",
+    "target": "靓",
     "right": "jìng",
     "wrong": [
       "liàng"
@@ -4349,6 +4810,7 @@
   },
   {
     "text": "靓丽",
+    "target": "靓",
     "right": "liàng",
     "wrong": [
       "jìng"
@@ -4356,6 +4818,7 @@
   },
   {
     "text": "靓女",
+    "target": "靓",
     "right": "liàng",
     "wrong": [
       "jìng"
@@ -4363,6 +4826,7 @@
   },
   {
     "text": "拮据",
+    "target": "据",
     "right": "jū",
     "wrong": [
       "jù"
@@ -4370,6 +4834,7 @@
   },
   {
     "text": "据守",
+    "target": "据",
     "right": "jù",
     "wrong": [
       "jū"
@@ -4377,6 +4842,7 @@
   },
   {
     "text": "据理力争",
+    "target": "据",
     "right": "jù",
     "wrong": [
       "jū"
@@ -4384,6 +4850,7 @@
   },
   {
     "text": "隽永",
+    "target": "隽",
     "right": "juàn",
     "wrong": [
       "jùn"
@@ -4391,6 +4858,7 @@
   },
   {
     "text": "隽语",
+    "target": "隽",
     "right": "juàn",
     "wrong": [
       "jùn"
@@ -4398,6 +4866,7 @@
   },
   {
     "text": "隽杰",
+    "target": "隽",
     "right": "jùn",
     "wrong": [
       "juàn"
@@ -4405,6 +4874,7 @@
   },
   {
     "text": "隽士",
+    "target": "隽",
     "right": "jùn",
     "wrong": [
       "juàn"
@@ -4412,6 +4882,7 @@
   },
   {
     "text": "龟裂",
+    "target": "龟",
     "right": "jūn",
     "wrong": [
       "guī",
@@ -4420,6 +4891,7 @@
   },
   {
     "text": "龟缩",
+    "target": "龟",
     "right": "guī",
     "wrong": [
       "jūn",
@@ -4428,6 +4900,7 @@
   },
   {
     "text": "龟甲",
+    "target": "龟",
     "right": "guī",
     "wrong": [
       "jūn",
@@ -4436,6 +4909,7 @@
   },
   {
     "text": "龟兹",
+    "target": "龟",
     "right": "qiū",
     "wrong": [
       "jūn",
@@ -4444,55 +4918,63 @@
   },
   {
     "text": "卡车",
-    "right": "kă",
+    "target": "卡",
+    "right": "kǎ",
     "wrong": [
-      "qiă"
+      "qiǎ"
     ]
   },
   {
     "text": "卡片",
-    "right": "kă",
+    "target": "卡",
+    "right": "kǎ",
     "wrong": [
-      "qiă"
+      "qiǎ"
     ]
   },
   {
     "text": "卡宾枪",
-    "right": "kă",
+    "target": "卡",
+    "right": "kǎ",
     "wrong": [
-      "qiă"
+      "qiǎ"
     ]
   },
   {
     "text": "卡脖子",
-    "right": "qiă",
+    "target": "卡",
+    "right": "qiǎ",
     "wrong": [
-      "kă"
+      "kǎ"
     ]
   },
   {
     "text": "卡具",
-    "right": "qiă",
+    "target": "卡",
+    "right": "qiǎ",
     "wrong": [
-      "kă"
+      "kǎ"
     ]
   },
   {
     "text": "卡壳",
-    "right": "qiă",
+    "target": "卡",
+    "right": "qiǎ",
     "wrong": [
-      "kă"
+      "kǎ"
     ]
   },
   {
     "text": "关卡",
-    "right": "qiă",
+    "target": "卡",
+    "right": "qiǎ",
     "wrong": [
-      "kă"
+      "kǎ"
     ]
   },
   {
     "text": "空泛",
+    "target": "空",
     "right": "kōng",
     "wrong": [
       "kòng"
@@ -4500,13 +4982,15 @@
   },
   {
     "text": "空谷足音",
+    "target": "空",
     "right": "kōng",
     "wrong": [
       "kòng"
     ]
   },
   {
-    "text": "空格",
+    "text": "空一个格（腾出一个字位）",
+    "target": "空",
     "right": "kòng",
     "wrong": [
       "kōng"
@@ -4514,6 +4998,7 @@
   },
   {
     "text": "空地",
+    "target": "空",
     "right": "kòng",
     "wrong": [
       "kōng"
@@ -4521,6 +5006,7 @@
   },
   {
     "text": "空白",
+    "target": "空",
     "right": "kòng",
     "wrong": [
       "kōng"
@@ -4528,6 +5014,7 @@
   },
   {
     "text": "空额",
+    "target": "空",
     "right": "kòng",
     "wrong": [
       "kōng"
@@ -4535,6 +5022,7 @@
   },
   {
     "text": "溃堤",
+    "target": "溃",
     "right": "kuì",
     "wrong": [
       "huì"
@@ -4542,6 +5030,7 @@
   },
   {
     "text": "溃围",
+    "target": "溃",
     "right": "kuì",
     "wrong": [
       "huì"
@@ -4549,6 +5038,7 @@
   },
   {
     "text": "溃不成军",
+    "target": "溃",
     "right": "kuì",
     "wrong": [
       "huì"
@@ -4556,6 +5046,7 @@
   },
   {
     "text": "溃疡",
+    "target": "溃",
     "right": "kuì",
     "wrong": [
       "huì"
@@ -4563,6 +5054,7 @@
   },
   {
     "text": "溃脓",
+    "target": "溃",
     "right": "huì",
     "wrong": [
       "kuì"
@@ -4570,6 +5062,7 @@
   },
   {
     "text": "烙印",
+    "target": "烙",
     "right": "lào",
     "wrong": [
       "luò"
@@ -4577,6 +5070,7 @@
   },
   {
     "text": "烙花",
+    "target": "烙",
     "right": "lào",
     "wrong": [
       "luò"
@@ -4584,6 +5078,7 @@
   },
   {
     "text": "炮烙",
+    "target": "烙",
     "right": "luò",
     "wrong": [
       "lào"
@@ -4591,6 +5086,7 @@
   },
   {
     "text": "勒索",
+    "target": "勒",
     "right": "lè",
     "wrong": [
       "lēi"
@@ -4598,6 +5094,7 @@
   },
   {
     "text": "悬崖勒马",
+    "target": "勒",
     "right": "lè",
     "wrong": [
       "lēi"
@@ -4605,6 +5102,7 @@
   },
   {
     "text": "勒紧点儿",
+    "target": "勒",
     "right": "lēi",
     "wrong": [
       "lè"
@@ -4612,23 +5110,26 @@
   },
   {
     "text": "累赘",
+    "target": "累",
     "right": "léi",
     "wrong": [
-      "lĕi",
+      "lěi",
       "lèi"
     ]
   },
   {
     "text": "果实累累",
+    "target": "累",
     "right": "léi",
     "wrong": [
-      "lĕi",
+      "lěi",
       "lèi"
     ]
   },
   {
     "text": "积累",
-    "right": "lĕi",
+    "target": "累",
+    "right": "lěi",
     "wrong": [
       "léi",
       "lèi"
@@ -4636,7 +5137,8 @@
   },
   {
     "text": "危如累卵",
-    "right": "lĕi",
+    "target": "累",
+    "right": "lěi",
     "wrong": [
       "léi",
       "lèi"
@@ -4644,7 +5146,8 @@
   },
   {
     "text": "罪行累累",
-    "right": "lĕi",
+    "target": "累",
+    "right": "lěi",
     "wrong": [
       "léi",
       "lèi"
@@ -4652,14 +5155,16 @@
   },
   {
     "text": "劳累",
+    "target": "累",
     "right": "lèi",
     "wrong": [
       "léi",
-      "lĕi"
+      "lěi"
     ]
   },
   {
     "text": "擂鼓",
+    "target": "擂",
     "right": "léi",
     "wrong": [
       "lèi"
@@ -4667,6 +5172,7 @@
   },
   {
     "text": "擂台",
+    "target": "擂",
     "right": "lèi",
     "wrong": [
       "léi"
@@ -4674,27 +5180,34 @@
   },
   {
     "text": "咱俩",
-    "right": "liăng",
+    "target": "俩",
+    "right": "liǎ",
     "wrong": [
+      "liǎng",
       "liàng"
     ]
   },
   {
     "text": "就这俩钱儿",
-    "right": "liăng",
+    "target": "俩",
+    "right": "liǎ",
     "wrong": [
+      "liǎng",
       "liàng"
     ]
   },
   {
     "text": "伎俩",
-    "right": "liàng",
+    "target": "俩",
+    "right": "liǎng",
     "wrong": [
-      "liăng"
+      "liǎ",
+      "liàng"
     ]
   },
   {
-    "text": "量度",
+    "text": "量度（测量）",
+    "target": "量",
     "right": "liáng",
     "wrong": [
       "liàng"
@@ -4702,6 +5215,7 @@
   },
   {
     "text": "量刑",
+    "target": "量",
     "right": "liàng",
     "wrong": [
       "liáng"
@@ -4709,6 +5223,7 @@
   },
   {
     "text": "量入为出",
+    "target": "量",
     "right": "liàng",
     "wrong": [
       "liáng"
@@ -4716,6 +5231,7 @@
   },
   {
     "text": "量体裁衣",
+    "target": "量",
     "right": "liàng",
     "wrong": [
       "liáng"
@@ -4723,6 +5239,7 @@
   },
   {
     "text": "度德量力",
+    "target": "量",
     "right": "liàng",
     "wrong": [
       "liáng"
@@ -4730,6 +5247,7 @@
   },
   {
     "text": "跳踉",
+    "target": "踉",
     "right": "liáng",
     "wrong": [
       "liàng"
@@ -4737,6 +5255,7 @@
   },
   {
     "text": "踉跄",
+    "target": "踉",
     "right": "liàng",
     "wrong": [
       "liáng"
@@ -4744,41 +5263,47 @@
   },
   {
     "text": "燎原烈火",
+    "target": "燎",
     "right": "liáo",
     "wrong": [
-      "liăo"
+      "liǎo"
     ]
   },
   {
     "text": "火烧火燎",
-    "right": "liăo",
+    "target": "燎",
+    "right": "liǎo",
     "wrong": [
       "liáo"
     ]
   },
   {
     "text": "潦草",
+    "target": "潦",
     "right": "liáo",
     "wrong": [
-      "lăo"
+      "lǎo"
     ]
   },
   {
     "text": "潦倒",
+    "target": "潦",
     "right": "liáo",
     "wrong": [
-      "lăo"
+      "lǎo"
     ]
   },
   {
     "text": "潦水",
-    "right": "lăo",
+    "target": "潦",
+    "right": "lǎo",
     "wrong": [
       "liáo"
     ]
   },
   {
     "text": "溜边",
+    "target": "溜",
     "right": "liū",
     "wrong": [
       "liù"
@@ -4786,6 +5311,7 @@
   },
   {
     "text": "溜之大吉",
+    "target": "溜",
     "right": "liū",
     "wrong": [
       "liù"
@@ -4793,6 +5319,7 @@
   },
   {
     "text": "水溜",
+    "target": "溜",
     "right": "liù",
     "wrong": [
       "liū"
@@ -4800,6 +5327,7 @@
   },
   {
     "text": "一溜烟",
+    "target": "溜",
     "right": "liù",
     "wrong": [
       "liū"
@@ -4807,6 +5335,7 @@
   },
   {
     "text": "里弄",
+    "target": "弄",
     "right": "lòng",
     "wrong": [
       "nòng"
@@ -4814,6 +5343,7 @@
   },
   {
     "text": "弄堂",
+    "target": "弄",
     "right": "lòng",
     "wrong": [
       "nòng"
@@ -4821,6 +5351,7 @@
   },
   {
     "text": "弄权",
+    "target": "弄",
     "right": "nòng",
     "wrong": [
       "lòng"
@@ -4828,13 +5359,15 @@
   },
   {
     "text": "舞文弄墨",
+    "target": "弄",
     "right": "nòng",
     "wrong": [
       "lòng"
     ]
   },
   {
-    "text": "绿林",
+    "text": "绿林（聚集山林的武装集团）",
+    "target": "绿",
     "right": "lù",
     "wrong": [
       "lǜ"
@@ -4842,6 +5375,7 @@
   },
   {
     "text": "绿营",
+    "target": "绿",
     "right": "lù",
     "wrong": [
       "lǜ"
@@ -4849,6 +5383,7 @@
   },
   {
     "text": "鸭绿江",
+    "target": "绿",
     "right": "lù",
     "wrong": [
       "lǜ"
@@ -4856,6 +5391,7 @@
   },
   {
     "text": "绿苗",
+    "target": "绿",
     "right": "lǜ",
     "wrong": [
       "lù"
@@ -4863,6 +5399,7 @@
   },
   {
     "text": "绿洲",
+    "target": "绿",
     "right": "lǜ",
     "wrong": [
       "lù"
@@ -4870,6 +5407,7 @@
   },
   {
     "text": "露天",
+    "target": "露",
     "right": "lù",
     "wrong": [
       "lòu"
@@ -4877,6 +5415,7 @@
   },
   {
     "text": "露宿",
+    "target": "露",
     "right": "lù",
     "wrong": [
       "lòu"
@@ -4884,6 +5423,7 @@
   },
   {
     "text": "原形毕露",
+    "target": "露",
     "right": "lù",
     "wrong": [
       "lòu"
@@ -4891,6 +5431,7 @@
   },
   {
     "text": "崭露头角",
+    "target": "露",
     "right": "lù",
     "wrong": [
       "lòu"
@@ -4898,6 +5439,7 @@
   },
   {
     "text": "露脸",
+    "target": "露",
     "right": "lòu",
     "wrong": [
       "lù"
@@ -4905,6 +5447,7 @@
   },
   {
     "text": "露相",
+    "target": "露",
     "right": "lòu",
     "wrong": [
       "lù"
@@ -4912,6 +5455,7 @@
   },
   {
     "text": "露富",
+    "target": "露",
     "right": "lòu",
     "wrong": [
       "lù"
@@ -4919,20 +5463,23 @@
   },
   {
     "text": "露马脚",
+    "target": "露",
     "right": "lòu",
     "wrong": [
       "lù"
     ]
   },
   {
-    "text": "偻",
+    "text": "伛偻",
+    "target": "偻",
     "right": "lǚ",
     "wrong": [
       "lóu"
     ]
   },
   {
-    "text": "偻",
+    "text": "佝偻",
+    "target": "偻",
     "right": "lóu",
     "wrong": [
       "lǚ"
@@ -4940,34 +5487,39 @@
   },
   {
     "text": "佝偻病",
+    "target": "偻",
     "right": "lóu",
     "wrong": [
       "lǚ"
     ]
   },
   {
-    "text": "捋胡子",
-    "right": "luō",
-    "wrong": [
-      "luó"
-    ]
-  },
-  {
-    "text": "捋麻绳",
-    "right": "luō",
-    "wrong": [
-      "luó"
-    ]
-  },
-  {
-    "text": "捋榆钱儿",
-    "right": "luó",
+    "text": "捋胡子（顺着抚理）",
+    "target": "捋",
+    "right": "lǚ",
     "wrong": [
       "luō"
     ]
   },
   {
+    "text": "捋麻绳（顺着抚理）",
+    "target": "捋",
+    "right": "lǚ",
+    "wrong": [
+      "luō"
+    ]
+  },
+  {
+    "text": "捋榆钱儿",
+    "target": "捋",
+    "right": "luō",
+    "wrong": [
+      "lǚ"
+    ]
+  },
+  {
     "text": "效率",
+    "target": "率",
     "right": "lǜ",
     "wrong": [
       "shuài"
@@ -4975,6 +5527,7 @@
   },
   {
     "text": "功率",
+    "target": "率",
     "right": "lǜ",
     "wrong": [
       "shuài"
@@ -4982,6 +5535,7 @@
   },
   {
     "text": "出勤率",
+    "target": "率",
     "right": "lǜ",
     "wrong": [
       "shuài"
@@ -4989,6 +5543,7 @@
   },
   {
     "text": "率领",
+    "target": "率",
     "right": "shuài",
     "wrong": [
       "lǜ"
@@ -4996,6 +5551,7 @@
   },
   {
     "text": "率性",
+    "target": "率",
     "right": "shuài",
     "wrong": [
       "lǜ"
@@ -5003,6 +5559,7 @@
   },
   {
     "text": "率尔",
+    "target": "率",
     "right": "shuài",
     "wrong": [
       "lǜ"
@@ -5010,6 +5567,7 @@
   },
   {
     "text": "率皆如此",
+    "target": "率",
     "right": "shuài",
     "wrong": [
       "lǜ"
@@ -5017,6 +5575,7 @@
   },
   {
     "text": "垂纶",
+    "target": "纶",
     "right": "lún",
     "wrong": [
       "guān"
@@ -5024,6 +5583,7 @@
   },
   {
     "text": "涤纶",
+    "target": "纶",
     "right": "lún",
     "wrong": [
       "guān"
@@ -5031,6 +5591,7 @@
   },
   {
     "text": "纶巾",
+    "target": "纶",
     "right": "guān",
     "wrong": [
       "lún"
@@ -5038,6 +5599,7 @@
   },
   {
     "text": "落魄",
+    "target": "落",
     "right": "luò",
     "wrong": [
       "lào",
@@ -5047,6 +5609,7 @@
   },
   {
     "text": "疏疏落落",
+    "target": "落",
     "right": "luò",
     "wrong": [
       "lào",
@@ -5056,6 +5619,7 @@
   },
   {
     "text": "落架",
+    "target": "落",
     "right": "lào",
     "wrong": [
       "luò",
@@ -5065,6 +5629,7 @@
   },
   {
     "text": "落枕",
+    "target": "落",
     "right": "lào",
     "wrong": [
       "luò",
@@ -5073,7 +5638,8 @@
     ]
   },
   {
-    "text": "落子",
+    "text": "落子（曲艺名）",
+    "target": "落",
     "right": "lào",
     "wrong": [
       "luò",
@@ -5083,6 +5649,7 @@
   },
   {
     "text": "大大落落",
+    "target": "落",
     "right": "luō",
     "wrong": [
       "luò",
@@ -5092,6 +5659,7 @@
   },
   {
     "text": "丢三落四",
+    "target": "落",
     "right": "là",
     "wrong": [
       "luò",
@@ -5100,7 +5668,8 @@
     ]
   },
   {
-    "text": "落在后面",
+    "text": "落在后面（因跟不上而掉队）",
+    "target": "落",
     "right": "là",
     "wrong": [
       "luò",
@@ -5110,23 +5679,26 @@
   },
   {
     "text": "抹布",
+    "target": "抹",
     "right": "mā",
     "wrong": [
-      "mŏ",
+      "mǒ",
       "mò"
     ]
   },
   {
     "text": "抹下脸来",
+    "target": "抹",
     "right": "mā",
     "wrong": [
-      "mŏ",
+      "mǒ",
       "mò"
     ]
   },
   {
     "text": "抹杀",
-    "right": "mŏ",
+    "target": "抹",
+    "right": "mǒ",
     "wrong": [
       "mā",
       "mò"
@@ -5134,7 +5706,8 @@
   },
   {
     "text": "抹黑",
-    "right": "mŏ",
+    "target": "抹",
+    "right": "mǒ",
     "wrong": [
       "mā",
       "mò"
@@ -5142,22 +5715,25 @@
   },
   {
     "text": "抹墙",
+    "target": "抹",
     "right": "mò",
     "wrong": [
       "mā",
-      "mŏ"
+      "mǒ"
     ]
   },
   {
     "text": "转弯抹角",
+    "target": "抹",
     "right": "mò",
     "wrong": [
       "mā",
-      "mŏ"
+      "mǒ"
     ]
   },
   {
     "text": "掩埋",
+    "target": "埋",
     "right": "mái",
     "wrong": [
       "mán"
@@ -5165,6 +5741,7 @@
   },
   {
     "text": "埋没",
+    "target": "埋",
     "right": "mái",
     "wrong": [
       "mán"
@@ -5172,6 +5749,7 @@
   },
   {
     "text": "埋怨",
+    "target": "埋",
     "right": "mán",
     "wrong": [
       "mái"
@@ -5179,6 +5757,7 @@
   },
   {
     "text": "脉搏",
+    "target": "脉",
     "right": "mài",
     "wrong": [
       "mò"
@@ -5186,6 +5765,7 @@
   },
   {
     "text": "含情脉脉",
+    "target": "脉",
     "right": "mò",
     "wrong": [
       "mài"
@@ -5193,6 +5773,7 @@
   },
   {
     "text": "蔓草",
+    "target": "蔓",
     "right": "màn",
     "wrong": [
       "wàn"
@@ -5200,6 +5781,7 @@
   },
   {
     "text": "不蔓不枝",
+    "target": "蔓",
     "right": "màn",
     "wrong": [
       "wàn"
@@ -5207,6 +5789,7 @@
   },
   {
     "text": "瓜蔓",
+    "target": "蔓",
     "right": "wàn",
     "wrong": [
       "màn"
@@ -5214,6 +5797,7 @@
   },
   {
     "text": "爬蔓",
+    "target": "蔓",
     "right": "wàn",
     "wrong": [
       "màn"
@@ -5221,6 +5805,7 @@
   },
   {
     "text": "没精打采",
+    "target": "没",
     "right": "méi",
     "wrong": [
       "mò"
@@ -5228,6 +5813,7 @@
   },
   {
     "text": "没辙",
+    "target": "没",
     "right": "méi",
     "wrong": [
       "mò"
@@ -5235,6 +5821,7 @@
   },
   {
     "text": "没落",
+    "target": "没",
     "right": "mò",
     "wrong": [
       "méi"
@@ -5242,6 +5829,7 @@
   },
   {
     "text": "没齿不忘",
+    "target": "没",
     "right": "mò",
     "wrong": [
       "méi"
@@ -5249,55 +5837,62 @@
   },
   {
     "text": "蒙骗",
+    "target": "蒙",
     "right": "mēng",
     "wrong": [
       "méng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙蒙亮",
+    "target": "蒙",
     "right": "mēng",
     "wrong": [
       "méng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙蔽",
+    "target": "蒙",
     "right": "méng",
     "wrong": [
       "mēng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙哄",
+    "target": "蒙",
     "right": "méng",
     "wrong": [
       "mēng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙昧",
+    "target": "蒙",
     "right": "méng",
     "wrong": [
       "mēng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙难",
+    "target": "蒙",
     "right": "méng",
     "wrong": [
       "mēng",
-      "Mĕng"
+      "Měng"
     ]
   },
   {
     "text": "蒙古包",
-    "right": "Mĕng",
+    "target": "蒙",
+    "right": "Měng",
     "wrong": [
       "mēng",
       "méng"
@@ -5305,34 +5900,39 @@
   },
   {
     "text": "奢靡",
+    "target": "靡",
     "right": "mí",
     "wrong": [
-      "mĭ"
+      "mǐ"
     ]
   },
   {
     "text": "风靡",
-    "right": "mĭ",
+    "target": "靡",
+    "right": "mǐ",
     "wrong": [
       "mí"
     ]
   },
   {
     "text": "靡靡之音",
-    "right": "mĭ",
+    "target": "靡",
+    "right": "mǐ",
     "wrong": [
       "mí"
     ]
   },
   {
     "text": "靡日不思",
-    "right": "mĭ",
+    "target": "靡",
+    "right": "mǐ",
     "wrong": [
       "mí"
     ]
   },
   {
     "text": "模式",
+    "target": "模",
     "right": "mó",
     "wrong": [
       "mú"
@@ -5340,6 +5940,7 @@
   },
   {
     "text": "楷模",
+    "target": "模",
     "right": "mó",
     "wrong": [
       "mú"
@@ -5347,6 +5948,7 @@
   },
   {
     "text": "模拟",
+    "target": "模",
     "right": "mó",
     "wrong": [
       "mú"
@@ -5354,6 +5956,7 @@
   },
   {
     "text": "模具",
+    "target": "模",
     "right": "mú",
     "wrong": [
       "mó"
@@ -5361,6 +5964,7 @@
   },
   {
     "text": "模样",
+    "target": "模",
     "right": "mú",
     "wrong": [
       "mó"
@@ -5368,6 +5972,7 @@
   },
   {
     "text": "未雨绸缪",
+    "target": "缪",
     "right": "móu",
     "wrong": [
       "miù"
@@ -5375,6 +5980,7 @@
   },
   {
     "text": "纰缪",
+    "target": "缪",
     "right": "miù",
     "wrong": [
       "móu"
@@ -5382,6 +5988,7 @@
   },
   {
     "text": "难为",
+    "target": "难",
     "right": "nán",
     "wrong": [
       "nàn"
@@ -5389,13 +5996,15 @@
   },
   {
     "text": "难处",
+    "target": "难",
     "right": "nán",
     "wrong": [
       "nàn"
     ]
   },
   {
-    "text": "难兄难弟（两人名声很坏）",
+    "text": "难兄难弟（讥讽两人同样坏，难分高下）",
+    "target": "难",
     "right": "nán",
     "wrong": [
       "nàn"
@@ -5403,6 +6012,7 @@
   },
   {
     "text": "问难",
+    "target": "难",
     "right": "nàn",
     "wrong": [
       "nán"
@@ -5410,13 +6020,15 @@
   },
   {
     "text": "非难",
+    "target": "难",
     "right": "nàn",
     "wrong": [
       "nán"
     ]
   },
   {
-    "text": "难兄难弟（两人同甘共苦）",
+    "text": "难兄难弟（共同经历患难的人）",
+    "target": "难",
     "right": "nàn",
     "wrong": [
       "nán"
@@ -5424,6 +6036,7 @@
   },
   {
     "text": "泥沙俱下",
+    "target": "泥",
     "right": "ní",
     "wrong": [
       "nì"
@@ -5431,6 +6044,7 @@
   },
   {
     "text": "泥墙",
+    "target": "泥",
     "right": "nì",
     "wrong": [
       "ní"
@@ -5438,6 +6052,7 @@
   },
   {
     "text": "拘泥",
+    "target": "泥",
     "right": "nì",
     "wrong": [
       "ní"
@@ -5445,6 +6060,7 @@
   },
   {
     "text": "泥古不化",
+    "target": "泥",
     "right": "nì",
     "wrong": [
       "ní"
@@ -5452,6 +6068,7 @@
   },
   {
     "text": "粘连",
+    "target": "粘",
     "right": "zhān",
     "wrong": [
       "nián"
@@ -5459,6 +6076,7 @@
   },
   {
     "text": "粘贴",
+    "target": "粘",
     "right": "zhān",
     "wrong": [
       "nián"
@@ -5466,6 +6084,7 @@
   },
   {
     "text": "坐卧不宁",
+    "target": "宁",
     "right": "níng",
     "wrong": [
       "nìng"
@@ -5473,6 +6092,7 @@
   },
   {
     "text": "息事宁人",
+    "target": "宁",
     "right": "níng",
     "wrong": [
       "nìng"
@@ -5480,6 +6100,7 @@
   },
   {
     "text": "宁死不屈",
+    "target": "宁",
     "right": "nìng",
     "wrong": [
       "níng"
@@ -5487,6 +6108,7 @@
   },
   {
     "text": "宁缺毋滥",
+    "target": "宁",
     "right": "nìng",
     "wrong": [
       "níng"
@@ -5494,23 +6116,26 @@
   },
   {
     "text": "拧毛巾",
+    "target": "拧",
     "right": "níng",
     "wrong": [
-      "nĭng",
+      "nǐng",
       "nìng"
     ]
   },
   {
     "text": "拧了他一把",
+    "target": "拧",
     "right": "níng",
     "wrong": [
-      "nĭng",
+      "nǐng",
       "nìng"
     ]
   },
   {
     "text": "拧螺丝",
-    "right": "nĭng",
+    "target": "拧",
+    "right": "nǐng",
     "wrong": [
       "níng",
       "nìng"
@@ -5518,7 +6143,8 @@
   },
   {
     "text": "拧巴",
-    "right": "nĭng",
+    "target": "拧",
+    "right": "nǐng",
     "wrong": [
       "níng",
       "nìng"
@@ -5526,14 +6152,16 @@
   },
   {
     "text": "脾气拧",
+    "target": "拧",
     "right": "nìng",
     "wrong": [
       "níng",
-      "nĭng"
+      "nǐng"
     ]
   },
   {
     "text": "疟疾",
+    "target": "疟",
     "right": "nüè",
     "wrong": [
       "yào"
@@ -5541,6 +6169,7 @@
   },
   {
     "text": "发疟子",
+    "target": "疟",
     "right": "yào",
     "wrong": [
       "nüè"
@@ -5548,20 +6177,23 @@
   },
   {
     "text": "呕哑",
+    "target": "呕",
     "right": "ōu",
     "wrong": [
-      "ŏu"
+      "ǒu"
     ]
   },
   {
     "text": "呕心沥血",
-    "right": "ŏu",
+    "target": "呕",
+    "right": "ǒu",
     "wrong": [
       "ōu"
     ]
   },
   {
     "text": "肥胖",
+    "target": "胖",
     "right": "pàng",
     "wrong": [
       "pán"
@@ -5569,6 +6201,7 @@
   },
   {
     "text": "心广体胖",
+    "target": "胖",
     "right": "pán",
     "wrong": [
       "pàng"
@@ -5576,6 +6209,7 @@
   },
   {
     "text": "炮烙",
+    "target": "炮",
     "right": "páo",
     "wrong": [
       "pào"
@@ -5583,6 +6217,7 @@
   },
   {
     "text": "如法炮制",
+    "target": "炮",
     "right": "páo",
     "wrong": [
       "pào"
@@ -5590,6 +6225,7 @@
   },
   {
     "text": "鞭炮",
+    "target": "炮",
     "right": "pào",
     "wrong": [
       "páo"
@@ -5597,6 +6233,7 @@
   },
   {
     "text": "喷薄",
+    "target": "喷",
     "right": "pēn",
     "wrong": [
       "pèn"
@@ -5604,6 +6241,7 @@
   },
   {
     "text": "西瓜正在喷儿上",
+    "target": "喷",
     "right": "pèn",
     "wrong": [
       "pēn"
@@ -5611,6 +6249,7 @@
   },
   {
     "text": "头喷棉花",
+    "target": "喷",
     "right": "pèn",
     "wrong": [
       "pēn"
@@ -5618,6 +6257,7 @@
   },
   {
     "text": "喷香",
+    "target": "喷",
     "right": "pèn",
     "wrong": [
       "pēn"
@@ -5625,23 +6265,26 @@
   },
   {
     "text": "漂荡",
+    "target": "漂",
     "right": "piāo",
     "wrong": [
-      "piăo",
+      "piǎo",
       "piào"
     ]
   },
   {
     "text": "漂流",
+    "target": "漂",
     "right": "piāo",
     "wrong": [
-      "piăo",
+      "piǎo",
       "piào"
     ]
   },
   {
     "text": "漂白",
-    "right": "piăo",
+    "target": "漂",
+    "right": "piǎo",
     "wrong": [
       "piāo",
       "piào"
@@ -5649,7 +6292,8 @@
   },
   {
     "text": "漂染",
-    "right": "piăo",
+    "target": "漂",
+    "right": "piǎo",
     "wrong": [
       "piāo",
       "piào"
@@ -5657,7 +6301,8 @@
   },
   {
     "text": "漂洗",
-    "right": "piăo",
+    "target": "漂",
+    "right": "piǎo",
     "wrong": [
       "piāo",
       "piào"
@@ -5665,50 +6310,57 @@
   },
   {
     "text": "那事没有什么指望,漂了",
+    "target": "漂",
     "right": "piào",
     "wrong": [
       "piāo",
-      "piăo"
+      "piǎo"
     ]
   },
   {
     "text": "漂亮",
+    "target": "漂",
     "right": "piào",
     "wrong": [
       "piāo",
-      "piăo"
+      "piǎo"
     ]
   },
   {
     "text": "迫害",
+    "target": "迫",
     "right": "pò",
     "wrong": [
-      "păi"
+      "pǎi"
     ]
   },
   {
     "text": "迫不及待",
+    "target": "迫",
     "right": "pò",
     "wrong": [
-      "păi"
+      "pǎi"
     ]
   },
   {
     "text": "迫在眉睫",
+    "target": "迫",
     "right": "pò",
     "wrong": [
-      "păi"
+      "pǎi"
     ]
   },
   {
     "text": "迫击炮",
-    "right": "păi",
+    "target": "迫",
+    "right": "pǎi",
     "wrong": [
       "pò"
     ]
   },
   {
     "text": "前仆后继",
+    "target": "仆",
     "right": "pū",
     "wrong": [
       "pú"
@@ -5716,6 +6368,7 @@
   },
   {
     "text": "仆从",
+    "target": "仆",
     "right": "pú",
     "wrong": [
       "pū"
@@ -5723,34 +6376,23 @@
   },
   {
     "text": "仆役",
+    "target": "仆",
     "right": "pú",
     "wrong": [
       "pū"
     ]
   },
   {
-    "text": "胸脯",
-    "right": "pú",
-    "wrong": [
-      "fŭ"
-    ]
-  },
-  {
     "text": "肉脯",
-    "right": "fŭ",
-    "wrong": [
-      "pú"
-    ]
-  },
-  {
-    "text": "果脯",
-    "right": "fŭ",
+    "target": "脯",
+    "right": "fǔ",
     "wrong": [
       "pú"
     ]
   },
   {
     "text": "蹊跷",
+    "target": "蹊",
     "right": "qī",
     "wrong": [
       "xī"
@@ -5758,20 +6400,23 @@
   },
   {
     "text": "独辟蹊径",
+    "target": "蹊",
     "right": "xī",
     "wrong": [
       "qī"
     ]
   },
   {
-    "text": "跂望",
-    "right": "qĭ",
+    "text": "跂望（踮脚远望）",
+    "target": "跂",
+    "right": "qì",
     "wrong": [
       "qí"
     ]
   },
   {
     "text": "纤夫",
+    "target": "纤",
     "right": "qiàn",
     "wrong": [
       "xiān"
@@ -5779,6 +6424,7 @@
   },
   {
     "text": "纤细",
+    "target": "纤",
     "right": "xiān",
     "wrong": [
       "qiàn"
@@ -5786,6 +6432,7 @@
   },
   {
     "text": "纤维",
+    "target": "纤",
     "right": "xiān",
     "wrong": [
       "qiàn"
@@ -5793,6 +6440,7 @@
   },
   {
     "text": "纤尘不染",
+    "target": "纤",
     "right": "xiān",
     "wrong": [
       "qiàn"
@@ -5800,62 +6448,71 @@
   },
   {
     "text": "倩影",
+    "target": "倩",
     "right": "qiàn",
     "wrong": [
-      "qĭng"
+      "qǐng"
     ]
   },
   {
     "text": "倩装",
+    "target": "倩",
     "right": "qiàn",
     "wrong": [
-      "qĭng"
+      "qǐng"
     ]
   },
   {
     "text": "倩人执笔",
-    "right": "qĭng",
+    "target": "倩",
+    "right": "qiàn",
     "wrong": [
-      "qiàn"
+      "qǐng"
     ]
   },
   {
     "text": "悄悄",
+    "target": "悄",
     "right": "qiāo",
     "wrong": [
-      "qiăo"
+      "qiǎo"
     ]
   },
   {
     "text": "悄悄话",
+    "target": "悄",
     "right": "qiāo",
     "wrong": [
-      "qiăo"
+      "qiǎo"
     ]
   },
   {
     "text": "悄寂",
-    "right": "qiăo",
+    "target": "悄",
+    "right": "qiǎo",
     "wrong": [
       "qiāo"
     ]
   },
   {
     "text": "悄然",
-    "right": "qiăo",
+    "target": "悄",
+    "right": "qiǎo",
     "wrong": [
       "qiāo"
     ]
   },
   {
     "text": "悄无声息",
-    "right": "qiăo",
+    "target": "悄",
+    "right": "qiǎo",
     "wrong": [
       "qiāo"
     ]
   },
   {
     "text": "翘首",
+    "target": "翘",
     "right": "qiáo",
     "wrong": [
       "qiào"
@@ -5863,6 +6520,7 @@
   },
   {
     "text": "翘楚",
+    "target": "翘",
     "right": "qiáo",
     "wrong": [
       "qiào"
@@ -5870,6 +6528,7 @@
   },
   {
     "text": "翘尾巴",
+    "target": "翘",
     "right": "qiào",
     "wrong": [
       "qiáo"
@@ -5877,6 +6536,7 @@
   },
   {
     "text": "翘辫子",
+    "target": "翘",
     "right": "qiào",
     "wrong": [
       "qiáo"
@@ -5884,6 +6544,7 @@
   },
   {
     "text": "刀鞘",
+    "target": "鞘",
     "right": "qiào",
     "wrong": [
       "shāo"
@@ -5891,6 +6552,7 @@
   },
   {
     "text": "剑鞘",
+    "target": "鞘",
     "right": "qiào",
     "wrong": [
       "shāo"
@@ -5898,6 +6560,7 @@
   },
   {
     "text": "鞭鞘",
+    "target": "鞘",
     "right": "shāo",
     "wrong": [
       "qiào"
@@ -5905,6 +6568,7 @@
   },
   {
     "text": "地壳",
+    "target": "壳",
     "right": "qiào",
     "wrong": [
       "ké"
@@ -5912,6 +6576,7 @@
   },
   {
     "text": "甲壳",
+    "target": "壳",
     "right": "qiào",
     "wrong": [
       "ké"
@@ -5919,6 +6584,7 @@
   },
   {
     "text": "躯壳",
+    "target": "壳",
     "right": "qiào",
     "wrong": [
       "ké"
@@ -5926,6 +6592,7 @@
   },
   {
     "text": "金蝉脱壳",
+    "target": "壳",
     "right": "qiào",
     "wrong": [
       "ké"
@@ -5933,6 +6600,7 @@
   },
   {
     "text": "贝壳",
+    "target": "壳",
     "right": "ké",
     "wrong": [
       "qiào"
@@ -5940,6 +6608,7 @@
   },
   {
     "text": "乌龟壳儿",
+    "target": "壳",
     "right": "ké",
     "wrong": [
       "qiào"
@@ -5947,6 +6616,7 @@
   },
   {
     "text": "切磋",
+    "target": "切",
     "right": "qiē",
     "wrong": [
       "qiè"
@@ -5954,6 +6624,7 @@
   },
   {
     "text": "咬牙切齿",
+    "target": "切",
     "right": "qiè",
     "wrong": [
       "qiē"
@@ -5961,6 +6632,7 @@
   },
   {
     "text": "切题",
+    "target": "切",
     "right": "qiè",
     "wrong": [
       "qiē"
@@ -5968,6 +6640,7 @@
   },
   {
     "text": "切要",
+    "target": "切",
     "right": "qiè",
     "wrong": [
       "qiē"
@@ -5975,6 +6648,7 @@
   },
   {
     "text": "切肤之痛",
+    "target": "切",
     "right": "qiè",
     "wrong": [
       "qiē"
@@ -5982,90 +6656,103 @@
   },
   {
     "text": "曲径通幽",
+    "target": "曲",
     "right": "qū",
     "wrong": [
-      "qŭ"
+      "qǔ"
     ]
   },
   {
     "text": "曲突徙薪",
+    "target": "曲",
     "right": "qū",
     "wrong": [
-      "qŭ"
+      "qǔ"
     ]
   },
   {
     "text": "曲意逢迎",
+    "target": "曲",
     "right": "qū",
     "wrong": [
-      "qŭ"
+      "qǔ"
     ]
   },
   {
     "text": "是非曲直",
+    "target": "曲",
     "right": "qū",
     "wrong": [
-      "qŭ"
+      "qǔ"
     ]
   },
   {
     "text": "曲笔",
+    "target": "曲",
     "right": "qū",
     "wrong": [
-      "qŭ"
+      "qǔ"
     ]
   },
   {
     "text": "曲调",
-    "right": "qŭ",
+    "target": "曲",
+    "right": "qǔ",
     "wrong": [
       "qū"
     ]
   },
   {
     "text": "曲高和寡",
-    "right": "qŭ",
+    "target": "曲",
+    "right": "qǔ",
     "wrong": [
       "qū"
     ]
   },
   {
     "text": "撒手",
+    "target": "撒",
     "right": "sā",
     "wrong": [
-      "să"
+      "sǎ"
     ]
   },
   {
     "text": "撒网",
+    "target": "撒",
     "right": "sā",
     "wrong": [
-      "să"
+      "sǎ"
     ]
   },
   {
     "text": "撒娇",
+    "target": "撒",
     "right": "sā",
     "wrong": [
-      "să"
+      "sǎ"
     ]
   },
   {
     "text": "撒播",
-    "right": "să",
+    "target": "撒",
+    "right": "sǎ",
     "wrong": [
       "sā"
     ]
   },
   {
-    "text": "撒了一地",
-    "right": "să",
+    "text": "豆子撒了一地",
+    "target": "撒",
+    "right": "sǎ",
     "wrong": [
       "sā"
     ]
   },
   {
     "text": "活塞",
+    "target": "塞",
     "right": "sāi",
     "wrong": [
       "sài",
@@ -6074,6 +6761,7 @@
   },
   {
     "text": "瓶塞",
+    "target": "塞",
     "right": "sāi",
     "wrong": [
       "sài",
@@ -6082,6 +6770,7 @@
   },
   {
     "text": "把窟窿塞住",
+    "target": "塞",
     "right": "sāi",
     "wrong": [
       "sài",
@@ -6090,6 +6779,7 @@
   },
   {
     "text": "要塞",
+    "target": "塞",
     "right": "sài",
     "wrong": [
       "sāi",
@@ -6098,6 +6788,7 @@
   },
   {
     "text": "塞翁失马",
+    "target": "塞",
     "right": "sài",
     "wrong": [
       "sāi",
@@ -6106,6 +6797,7 @@
   },
   {
     "text": "闭塞",
+    "target": "塞",
     "right": "sè",
     "wrong": [
       "sāi",
@@ -6114,6 +6806,7 @@
   },
   {
     "text": "敷衍塞责",
+    "target": "塞",
     "right": "sè",
     "wrong": [
       "sāi",
@@ -6122,41 +6815,47 @@
   },
   {
     "text": "散漫",
-    "right": "săn",
+    "target": "散",
+    "right": "sǎn",
     "wrong": [
       "sàn"
     ]
   },
   {
     "text": "松散",
-    "right": "săn",
+    "target": "散",
+    "right": "sǎn",
     "wrong": [
       "sàn"
     ]
   },
   {
     "text": "散兵游勇",
-    "right": "săn",
+    "target": "散",
+    "right": "sǎn",
     "wrong": [
       "sàn"
     ]
   },
   {
     "text": "散布",
+    "target": "散",
     "right": "sàn",
     "wrong": [
-      "săn"
+      "sǎn"
     ]
   },
   {
     "text": "散佚",
+    "target": "散",
     "right": "sàn",
     "wrong": [
-      "săn"
+      "sǎn"
     ]
   },
   {
     "text": "丧事",
+    "target": "丧",
     "right": "sāng",
     "wrong": [
       "sàng"
@@ -6164,6 +6863,7 @@
   },
   {
     "text": "治丧",
+    "target": "丧",
     "right": "sāng",
     "wrong": [
       "sàng"
@@ -6171,6 +6871,7 @@
   },
   {
     "text": "丧权辱国",
+    "target": "丧",
     "right": "sàng",
     "wrong": [
       "sāng"
@@ -6178,6 +6879,7 @@
   },
   {
     "text": "刹车",
+    "target": "刹",
     "right": "shā",
     "wrong": [
       "chà"
@@ -6185,6 +6887,7 @@
   },
   {
     "text": "刹住不正之风",
+    "target": "刹",
     "right": "shā",
     "wrong": [
       "chà"
@@ -6192,6 +6895,7 @@
   },
   {
     "text": "刹那",
+    "target": "刹",
     "right": "chà",
     "wrong": [
       "shā"
@@ -6199,6 +6903,7 @@
   },
   {
     "text": "古刹",
+    "target": "刹",
     "right": "chà",
     "wrong": [
       "shā"
@@ -6206,6 +6911,7 @@
   },
   {
     "text": "煞笔",
+    "target": "煞",
     "right": "shā",
     "wrong": [
       "shà"
@@ -6213,6 +6919,7 @@
   },
   {
     "text": "煞车",
+    "target": "煞",
     "right": "shā",
     "wrong": [
       "shà"
@@ -6220,6 +6927,7 @@
   },
   {
     "text": "凶神恶煞",
+    "target": "煞",
     "right": "shà",
     "wrong": [
       "shā"
@@ -6227,6 +6935,7 @@
   },
   {
     "text": "煞费苦心",
+    "target": "煞",
     "right": "shà",
     "wrong": [
       "shā"
@@ -6234,13 +6943,15 @@
   },
   {
     "text": "衣裳",
+    "target": "裳",
     "right": "shang",
     "wrong": [
       "cháng"
     ]
   },
   {
-    "text": "裳",
+    "text": "裳（古代指下衣）",
+    "target": "裳",
     "right": "cháng",
     "wrong": [
       "shang"
@@ -6248,6 +6959,7 @@
   },
   {
     "text": "树枝折了",
+    "target": "折",
     "right": "shé",
     "wrong": [
       "zhē",
@@ -6256,6 +6968,7 @@
   },
   {
     "text": "折本儿",
+    "target": "折",
     "right": "shé",
     "wrong": [
       "zhē",
@@ -6264,6 +6977,7 @@
   },
   {
     "text": "折耗",
+    "target": "折",
     "right": "shé",
     "wrong": [
       "zhē",
@@ -6272,14 +6986,16 @@
   },
   {
     "text": "折回头",
-    "right": "zhē",
+    "target": "折",
+    "right": "zhé",
     "wrong": [
       "shé",
-      "zhé"
+      "zhē"
     ]
   },
   {
     "text": "热水用两个碗折一折就凉了",
+    "target": "折",
     "right": "zhē",
     "wrong": [
       "shé",
@@ -6288,6 +7004,7 @@
   },
   {
     "text": "损兵折将",
+    "target": "折",
     "right": "zhé",
     "wrong": [
       "shé",
@@ -6296,6 +7013,7 @@
   },
   {
     "text": "折服",
+    "target": "折",
     "right": "zhé",
     "wrong": [
       "shé",
@@ -6304,76 +7022,87 @@
   },
   {
     "text": "舍生取义",
-    "right": "shĕ",
+    "target": "舍",
+    "right": "shě",
     "wrong": [
       "shè"
     ]
   },
   {
     "text": "舍本逐末",
-    "right": "shĕ",
+    "target": "舍",
+    "right": "shě",
     "wrong": [
       "shè"
     ]
   },
   {
     "text": "舍间",
+    "target": "舍",
     "right": "shè",
     "wrong": [
-      "shĕ"
+      "shě"
     ]
   },
   {
     "text": "寒舍",
+    "target": "舍",
     "right": "shè",
     "wrong": [
-      "shĕ"
+      "shě"
     ]
   },
   {
     "text": "退避三舍",
+    "target": "舍",
     "right": "shè",
     "wrong": [
-      "shĕ"
+      "shě"
     ]
   },
   {
     "text": "节省",
-    "right": "shĕng",
+    "target": "省",
+    "right": "shěng",
     "wrong": [
-      "xĭng"
+      "xǐng"
     ]
   },
   {
     "text": "省一道工序",
-    "right": "shĕng",
+    "target": "省",
+    "right": "shěng",
     "wrong": [
-      "xĭng"
+      "xǐng"
     ]
   },
   {
     "text": "内省",
-    "right": "xĭng",
+    "target": "省",
+    "right": "xǐng",
     "wrong": [
-      "shĕng"
+      "shěng"
     ]
   },
   {
     "text": "省亲",
-    "right": "xĭng",
+    "target": "省",
+    "right": "xǐng",
     "wrong": [
-      "shĕng"
+      "shěng"
     ]
   },
   {
     "text": "不省人事",
-    "right": "xĭng",
+    "target": "省",
+    "right": "xǐng",
     "wrong": [
-      "shĕng"
+      "shěng"
     ]
   },
   {
     "text": "拾掇",
+    "target": "拾",
     "right": "shí",
     "wrong": [
       "shè"
@@ -6381,6 +7110,7 @@
   },
   {
     "text": "路不拾遗",
+    "target": "拾",
     "right": "shí",
     "wrong": [
       "shè"
@@ -6388,6 +7118,7 @@
   },
   {
     "text": "拾人牙慧",
+    "target": "拾",
     "right": "shí",
     "wrong": [
       "shè"
@@ -6395,6 +7126,7 @@
   },
   {
     "text": "拾级而上",
+    "target": "拾",
     "right": "shè",
     "wrong": [
       "shí"
@@ -6402,7 +7134,8 @@
   },
   {
     "text": "数九寒天",
-    "right": "shŭ",
+    "target": "数",
+    "right": "shǔ",
     "wrong": [
       "shù",
       "shuò"
@@ -6410,7 +7143,8 @@
   },
   {
     "text": "数典忘祖",
-    "right": "shŭ",
+    "target": "数",
+    "right": "shǔ",
     "wrong": [
       "shù",
       "shuò"
@@ -6418,7 +7152,8 @@
   },
   {
     "text": "数一数二",
-    "right": "shŭ",
+    "target": "数",
+    "right": "shǔ",
     "wrong": [
       "shù",
       "shuò"
@@ -6426,30 +7161,34 @@
   },
   {
     "text": "数目",
+    "target": "数",
     "right": "shù",
     "wrong": [
-      "shŭ",
+      "shǔ",
       "shuò"
     ]
   },
   {
     "text": "命数",
+    "target": "数",
     "right": "shù",
     "wrong": [
-      "shŭ",
+      "shǔ",
       "shuò"
     ]
   },
   {
     "text": "数见不鲜",
+    "target": "数",
     "right": "shuò",
     "wrong": [
-      "shŭ",
+      "shǔ",
       "shù"
     ]
   },
   {
     "text": "刷新",
+    "target": "刷",
     "right": "shuā",
     "wrong": [
       "shuà"
@@ -6457,6 +7196,7 @@
   },
   {
     "text": "刷屏",
+    "target": "刷",
     "right": "shuā",
     "wrong": [
       "shuà"
@@ -6464,6 +7204,7 @@
   },
   {
     "text": "刷白",
+    "target": "刷",
     "right": "shuà",
     "wrong": [
       "shuā"
@@ -6471,6 +7212,7 @@
   },
   {
     "text": "相似",
+    "target": "似",
     "right": "sì",
     "wrong": [
       "shì"
@@ -6478,6 +7220,7 @@
   },
   {
     "text": "似乎",
+    "target": "似",
     "right": "sì",
     "wrong": [
       "shì"
@@ -6485,6 +7228,7 @@
   },
   {
     "text": "一年强似一年",
+    "target": "似",
     "right": "sì",
     "wrong": [
       "shì"
@@ -6492,6 +7236,7 @@
   },
   {
     "text": "雪片似的",
+    "target": "似",
     "right": "shì",
     "wrong": [
       "sì"
@@ -6499,6 +7244,7 @@
   },
   {
     "text": "仿佛睡着了似的",
+    "target": "似",
     "right": "shì",
     "wrong": [
       "sì"
@@ -6506,6 +7252,7 @@
   },
   {
     "text": "睡眼惺忪",
+    "target": "忪",
     "right": "sōng",
     "wrong": [
       "zhōng"
@@ -6513,6 +7260,7 @@
   },
   {
     "text": "怔忪",
+    "target": "忪",
     "right": "zhōng",
     "wrong": [
       "sōng"
@@ -6520,31 +7268,35 @@
   },
   {
     "text": "露宿",
+    "target": "宿",
     "right": "sù",
     "wrong": [
-      "xiŭ",
+      "xiǔ",
       "xiù"
     ]
   },
   {
     "text": "宿愿",
+    "target": "宿",
     "right": "sù",
     "wrong": [
-      "xiŭ",
+      "xiǔ",
       "xiù"
     ]
   },
   {
     "text": "宿将",
+    "target": "宿",
     "right": "sù",
     "wrong": [
-      "xiŭ",
+      "xiǔ",
       "xiù"
     ]
   },
   {
     "text": "三天两宿",
-    "right": "xiŭ",
+    "target": "宿",
+    "right": "xiǔ",
     "wrong": [
       "sù",
       "xiù"
@@ -6552,14 +7304,16 @@
   },
   {
     "text": "星宿",
+    "target": "宿",
     "right": "xiù",
     "wrong": [
       "sù",
-      "xiŭ"
+      "xiǔ"
     ]
   },
   {
     "text": "半身不遂",
+    "target": "遂",
     "right": "suí",
     "wrong": [
       "suì"
@@ -6567,6 +7321,7 @@
   },
   {
     "text": "遂心",
+    "target": "遂",
     "right": "suì",
     "wrong": [
       "suí"
@@ -6574,6 +7329,7 @@
   },
   {
     "text": "顺遂",
+    "target": "遂",
     "right": "suì",
     "wrong": [
       "suí"
@@ -6581,6 +7337,7 @@
   },
   {
     "text": "毛遂自荐",
+    "target": "遂",
     "right": "suì",
     "wrong": [
       "suí"
@@ -6588,6 +7345,7 @@
   },
   {
     "text": "拓片",
+    "target": "拓",
     "right": "tà",
     "wrong": [
       "tuò"
@@ -6595,6 +7353,7 @@
   },
   {
     "text": "碑拓",
+    "target": "拓",
     "right": "tà",
     "wrong": [
       "tuò"
@@ -6602,6 +7361,7 @@
   },
   {
     "text": "开拓",
+    "target": "拓",
     "right": "tuò",
     "wrong": [
       "tà"
@@ -6609,6 +7369,7 @@
   },
   {
     "text": "拓荒",
+    "target": "拓",
     "right": "tuò",
     "wrong": [
       "tà"
@@ -6616,6 +7377,7 @@
   },
   {
     "text": "杂沓",
+    "target": "沓",
     "right": "tà",
     "wrong": [
       "dá"
@@ -6623,6 +7385,7 @@
   },
   {
     "text": "纷至沓来",
+    "target": "沓",
     "right": "tà",
     "wrong": [
       "dá"
@@ -6630,6 +7393,7 @@
   },
   {
     "text": "一沓纸",
+    "target": "沓",
     "right": "dá",
     "wrong": [
       "tà"
@@ -6637,6 +7401,7 @@
   },
   {
     "text": "舌苔",
+    "target": "苔",
     "right": "tāi",
     "wrong": [
       "tái"
@@ -6644,6 +7409,7 @@
   },
   {
     "text": "苔藓",
+    "target": "苔",
     "right": "tái",
     "wrong": [
       "tāi"
@@ -6651,6 +7417,7 @@
   },
   {
     "text": "苔原",
+    "target": "苔",
     "right": "tái",
     "wrong": [
       "tāi"
@@ -6658,23 +7425,26 @@
   },
   {
     "text": "俯首帖耳",
+    "target": "帖",
     "right": "tiē",
     "wrong": [
-      "tiĕ",
+      "tiě",
       "tiè"
     ]
   },
   {
     "text": "熨帖",
+    "target": "帖",
     "right": "tiē",
     "wrong": [
-      "tiĕ",
+      "tiě",
       "tiè"
     ]
   },
   {
     "text": "请帖",
-    "right": "tiĕ",
+    "target": "帖",
+    "right": "tiě",
     "wrong": [
       "tiē",
       "tiè"
@@ -6682,7 +7452,8 @@
   },
   {
     "text": "一帖药",
-    "right": "tiĕ",
+    "target": "帖",
+    "right": "tiě",
     "wrong": [
       "tiē",
       "tiè"
@@ -6690,43 +7461,49 @@
   },
   {
     "text": "字帖",
+    "target": "帖",
     "right": "tiè",
     "wrong": [
       "tiē",
-      "tiĕ"
+      "tiě"
     ]
   },
   {
     "text": "碑帖",
+    "target": "帖",
     "right": "tiè",
     "wrong": [
       "tiē",
-      "tiĕ"
+      "tiě"
     ]
   },
   {
     "text": "虚与委蛇",
+    "target": "委",
     "right": "wēi",
     "wrong": [
-      "wĕi"
+      "wěi"
     ]
   },
   {
     "text": "委曲求全",
-    "right": "wĕi",
+    "target": "委",
+    "right": "wěi",
     "wrong": [
       "wēi"
     ]
   },
   {
     "text": "委婉",
-    "right": "wĕi",
+    "target": "委",
+    "right": "wěi",
     "wrong": [
       "wēi"
     ]
   },
   {
     "text": "圩田",
+    "target": "圩",
     "right": "wéi",
     "wrong": [
       "xū"
@@ -6734,6 +7511,7 @@
   },
   {
     "text": "圩场",
+    "target": "圩",
     "right": "xū",
     "wrong": [
       "wéi"
@@ -6741,6 +7519,7 @@
   },
   {
     "text": "圩日",
+    "target": "圩",
     "right": "xū",
     "wrong": [
       "wéi"
@@ -6748,6 +7527,7 @@
   },
   {
     "text": "世系",
+    "target": "系",
     "right": "xì",
     "wrong": [
       "jì"
@@ -6755,6 +7535,7 @@
   },
   {
     "text": "干系",
+    "target": "系",
     "right": "xì",
     "wrong": [
       "jì"
@@ -6762,13 +7543,15 @@
   },
   {
     "text": "系念",
+    "target": "系",
     "right": "xì",
     "wrong": [
       "jì"
     ]
   },
   {
-    "text": "系马",
+    "text": "系马（书面语：拴马）",
+    "target": "系",
     "right": "xì",
     "wrong": [
       "jì"
@@ -6776,6 +7559,7 @@
   },
   {
     "text": "系鞋带",
+    "target": "系",
     "right": "jì",
     "wrong": [
       "xì"
@@ -6783,6 +7567,7 @@
   },
   {
     "text": "系扣子",
+    "target": "系",
     "right": "jì",
     "wrong": [
       "xì"
@@ -6790,6 +7575,7 @@
   },
   {
     "text": "吓唬",
+    "target": "吓",
     "right": "xià",
     "wrong": [
       "hè"
@@ -6797,6 +7583,7 @@
   },
   {
     "text": "吓人",
+    "target": "吓",
     "right": "xià",
     "wrong": [
       "hè"
@@ -6804,6 +7591,7 @@
   },
   {
     "text": "恐吓",
+    "target": "吓",
     "right": "hè",
     "wrong": [
       "xià"
@@ -6811,6 +7599,7 @@
   },
   {
     "text": "恫吓",
+    "target": "吓",
     "right": "hè",
     "wrong": [
       "xià"
@@ -6818,41 +7607,47 @@
   },
   {
     "text": "鲜艳",
+    "target": "鲜",
     "right": "xiān",
     "wrong": [
-      "xiăn"
+      "xiǎn"
     ]
   },
   {
     "text": "屡见不鲜",
+    "target": "鲜",
     "right": "xiān",
     "wrong": [
-      "xiăn"
+      "xiǎn"
     ]
   },
   {
     "text": "鲜为人知",
-    "right": "xiăn",
+    "target": "鲜",
+    "right": "xiǎn",
     "wrong": [
       "xiān"
     ]
   },
   {
     "text": "寡廉鲜耻",
-    "right": "xiăn",
+    "target": "鲜",
+    "right": "xiǎn",
     "wrong": [
       "xiān"
     ]
   },
   {
     "text": "鲜有其匹",
-    "right": "xiăn",
+    "target": "鲜",
+    "right": "xiǎn",
     "wrong": [
       "xiān"
     ]
   },
   {
     "text": "削梨",
+    "target": "削",
     "right": "xiāo",
     "wrong": [
       "xuē"
@@ -6860,6 +7655,7 @@
   },
   {
     "text": "切削",
+    "target": "削",
     "right": "xiāo",
     "wrong": [
       "xuē"
@@ -6867,6 +7663,7 @@
   },
   {
     "text": "剥削",
+    "target": "削",
     "right": "xuē",
     "wrong": [
       "xiāo"
@@ -6874,6 +7671,7 @@
   },
   {
     "text": "瘦削",
+    "target": "削",
     "right": "xuē",
     "wrong": [
       "xiāo"
@@ -6881,6 +7679,7 @@
   },
   {
     "text": "日削月割",
+    "target": "削",
     "right": "xuē",
     "wrong": [
       "xiāo"
@@ -6888,6 +7687,7 @@
   },
   {
     "text": "削足适履",
+    "target": "削",
     "right": "xuē",
     "wrong": [
       "xiāo"
@@ -6895,6 +7695,7 @@
   },
   {
     "text": "夙兴夜寐",
+    "target": "兴",
     "right": "xīng",
     "wrong": [
       "xìng"
@@ -6902,6 +7703,7 @@
   },
   {
     "text": "兴奋",
+    "target": "兴",
     "right": "xīng",
     "wrong": [
       "xìng"
@@ -6909,6 +7711,7 @@
   },
   {
     "text": "兴高采烈",
+    "target": "兴",
     "right": "xìng",
     "wrong": [
       "xīng"
@@ -6916,6 +7719,7 @@
   },
   {
     "text": "兴致勃勃",
+    "target": "兴",
     "right": "xìng",
     "wrong": [
       "xīng"
@@ -6923,6 +7727,7 @@
   },
   {
     "text": "盘旋",
+    "target": "旋",
     "right": "xuán",
     "wrong": [
       "xuàn"
@@ -6930,6 +7735,7 @@
   },
   {
     "text": "漩涡",
+    "target": "漩",
     "right": "xuán",
     "wrong": [
       "xuàn"
@@ -6937,6 +7743,7 @@
   },
   {
     "text": "旋即",
+    "target": "旋",
     "right": "xuán",
     "wrong": [
       "xuàn"
@@ -6944,13 +7751,15 @@
   },
   {
     "text": "旋风",
+    "target": "旋",
     "right": "xuàn",
     "wrong": [
       "xuán"
     ]
   },
   {
-    "text": "旋根车轴",
+    "text": "用车床旋一根车轴",
+    "target": "旋",
     "right": "xuàn",
     "wrong": [
       "xuán"
@@ -6958,48 +7767,55 @@
   },
   {
     "text": "血气方刚",
+    "target": "血",
     "right": "xuè",
     "wrong": [
-      "xiĕ"
+      "xiě"
     ]
   },
   {
     "text": "喋血",
+    "target": "血",
     "right": "xuè",
     "wrong": [
-      "xiĕ"
+      "xiě"
     ]
   },
   {
     "text": "呕心沥血",
+    "target": "血",
     "right": "xuè",
     "wrong": [
-      "xiĕ"
+      "xiě"
     ]
   },
   {
     "text": "吐了两口血",
-    "right": "xiĕ",
+    "target": "血",
+    "right": "xiě",
     "wrong": [
       "xuè"
     ]
   },
   {
     "text": "血淋淋",
-    "right": "xiĕ",
+    "target": "血",
+    "right": "xiě",
     "wrong": [
       "xuè"
     ]
   },
   {
     "text": "一摊血",
-    "right": "xiĕ",
+    "target": "血",
+    "right": "xiě",
     "wrong": [
       "xuè"
     ]
   },
   {
     "text": "咽喉",
+    "target": "咽",
     "right": "yān",
     "wrong": [
       "yàn",
@@ -7008,6 +7824,7 @@
   },
   {
     "text": "咽头",
+    "target": "咽",
     "right": "yān",
     "wrong": [
       "yàn",
@@ -7016,6 +7833,7 @@
   },
   {
     "text": "狼吞虎咽",
+    "target": "咽",
     "right": "yàn",
     "wrong": [
       "yān",
@@ -7024,6 +7842,7 @@
   },
   {
     "text": "细嚼慢咽",
+    "target": "咽",
     "right": "yàn",
     "wrong": [
       "yān",
@@ -7032,6 +7851,7 @@
   },
   {
     "text": "呜咽",
+    "target": "咽",
     "right": "yè",
     "wrong": [
       "yān",
@@ -7040,6 +7860,7 @@
   },
   {
     "text": "哽咽",
+    "target": "咽",
     "right": "yè",
     "wrong": [
       "yān",
@@ -7048,47 +7869,53 @@
   },
   {
     "text": "殷红",
+    "target": "殷",
     "right": "yān",
     "wrong": [
       "yīn",
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "朱殷",
+    "target": "殷",
     "right": "yān",
     "wrong": [
       "yīn",
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "殷实",
+    "target": "殷",
     "right": "yīn",
     "wrong": [
       "yān",
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "殷勤",
+    "target": "殷",
     "right": "yīn",
     "wrong": [
       "yān",
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "殷朝",
+    "target": "殷",
     "right": "yīn",
     "wrong": [
       "yān",
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "殷其雷",
-    "right": "yĭn",
+    "target": "殷",
+    "right": "yǐn",
     "wrong": [
       "yān",
       "yīn"
@@ -7096,6 +7923,7 @@
   },
   {
     "text": "钥匙",
+    "target": "钥",
     "right": "yào",
     "wrong": [
       "yuè"
@@ -7103,6 +7931,7 @@
   },
   {
     "text": "锁钥",
+    "target": "钥",
     "right": "yuè",
     "wrong": [
       "yào"
@@ -7110,6 +7939,7 @@
   },
   {
     "text": "掖被角",
+    "target": "掖",
     "right": "yē",
     "wrong": [
       "yè"
@@ -7117,6 +7947,7 @@
   },
   {
     "text": "掖在怀里",
+    "target": "掖",
     "right": "yē",
     "wrong": [
       "yè"
@@ -7124,6 +7955,7 @@
   },
   {
     "text": "奖掖",
+    "target": "掖",
     "right": "yè",
     "wrong": [
       "yē"
@@ -7131,6 +7963,7 @@
   },
   {
     "text": "扶掖",
+    "target": "掖",
     "right": "yè",
     "wrong": [
       "yē"
@@ -7138,6 +7971,7 @@
   },
   {
     "text": "遗失",
+    "target": "遗",
     "right": "yí",
     "wrong": [
       "wèi"
@@ -7145,6 +7979,7 @@
   },
   {
     "text": "补遗",
+    "target": "遗",
     "right": "yí",
     "wrong": [
       "wèi"
@@ -7152,6 +7987,7 @@
   },
   {
     "text": "不遗余力",
+    "target": "遗",
     "right": "yí",
     "wrong": [
       "wèi"
@@ -7159,6 +7995,7 @@
   },
   {
     "text": "遗之千金",
+    "target": "遗",
     "right": "wèi",
     "wrong": [
       "yí"
@@ -7166,41 +8003,47 @@
   },
   {
     "text": "饮恨",
-    "right": "yĭn",
+    "target": "饮",
+    "right": "yǐn",
     "wrong": [
       "yìn"
     ]
   },
   {
     "text": "饮誉",
-    "right": "yĭn",
+    "target": "饮",
+    "right": "yǐn",
     "wrong": [
       "yìn"
     ]
   },
   {
     "text": "饮鸩止渴",
-    "right": "yĭn",
+    "target": "饮",
+    "right": "yǐn",
     "wrong": [
       "yìn"
     ]
   },
   {
     "text": "饮马",
+    "target": "饮",
     "right": "yìn",
     "wrong": [
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "饮牲口",
+    "target": "饮",
     "right": "yìn",
     "wrong": [
-      "yĭn"
+      "yǐn"
     ]
   },
   {
     "text": "应有尽有",
+    "target": "应",
     "right": "yīng",
     "wrong": [
       "yìng"
@@ -7208,6 +8051,7 @@
   },
   {
     "text": "应允",
+    "target": "应",
     "right": "yīng",
     "wrong": [
       "yìng"
@@ -7215,6 +8059,7 @@
   },
   {
     "text": "应许",
+    "target": "应",
     "right": "yīng",
     "wrong": [
       "yìng"
@@ -7222,6 +8067,7 @@
   },
   {
     "text": "应届",
+    "target": "应",
     "right": "yīng",
     "wrong": [
       "yìng"
@@ -7229,6 +8075,7 @@
   },
   {
     "text": "里应外合",
+    "target": "应",
     "right": "yìng",
     "wrong": [
       "yīng"
@@ -7236,6 +8083,7 @@
   },
   {
     "text": "有求必应",
+    "target": "应",
     "right": "yìng",
     "wrong": [
       "yīng"
@@ -7243,6 +8091,7 @@
   },
   {
     "text": "应聘",
+    "target": "应",
     "right": "yìng",
     "wrong": [
       "yīng"
@@ -7250,6 +8099,7 @@
   },
   {
     "text": "应时",
+    "target": "应",
     "right": "yìng",
     "wrong": [
       "yīng"
@@ -7257,6 +8107,7 @@
   },
   {
     "text": "得心应手",
+    "target": "应",
     "right": "yìng",
     "wrong": [
       "yīng"
@@ -7264,6 +8115,7 @@
   },
   {
     "text": "雇佣",
+    "target": "佣",
     "right": "yōng",
     "wrong": [
       "yòng"
@@ -7271,6 +8123,7 @@
   },
   {
     "text": "佣工",
+    "target": "佣",
     "right": "yōng",
     "wrong": [
       "yòng"
@@ -7278,6 +8131,7 @@
   },
   {
     "text": "女佣",
+    "target": "佣",
     "right": "yōng",
     "wrong": [
       "yòng"
@@ -7285,6 +8139,7 @@
   },
   {
     "text": "佣金",
+    "target": "佣",
     "right": "yòng",
     "wrong": [
       "yōng"
@@ -7292,6 +8147,7 @@
   },
   {
     "text": "晕倒",
+    "target": "晕",
     "right": "yūn",
     "wrong": [
       "yùn"
@@ -7299,6 +8155,7 @@
   },
   {
     "text": "头晕",
+    "target": "晕",
     "right": "yūn",
     "wrong": [
       "yùn"
@@ -7306,6 +8163,7 @@
   },
   {
     "text": "晕头转向",
+    "target": "晕",
     "right": "yūn",
     "wrong": [
       "yùn"
@@ -7313,6 +8171,7 @@
   },
   {
     "text": "晕车",
+    "target": "晕",
     "right": "yùn",
     "wrong": [
       "yūn"
@@ -7320,6 +8179,7 @@
   },
   {
     "text": "眼晕",
+    "target": "晕",
     "right": "yùn",
     "wrong": [
       "yūn"
@@ -7327,6 +8187,7 @@
   },
   {
     "text": "晕血",
+    "target": "晕",
     "right": "yùn",
     "wrong": [
       "yūn"
@@ -7334,6 +8195,7 @@
   },
   {
     "text": "熨斗",
+    "target": "熨",
     "right": "yùn",
     "wrong": [
       "yù"
@@ -7341,6 +8203,7 @@
   },
   {
     "text": "熨衣服",
+    "target": "熨",
     "right": "yùn",
     "wrong": [
       "yù"
@@ -7348,6 +8211,7 @@
   },
   {
     "text": "熨帖",
+    "target": "熨",
     "right": "yù",
     "wrong": [
       "yùn"
@@ -7355,6 +8219,7 @@
   },
   {
     "text": "捆扎",
+    "target": "扎",
     "right": "zā",
     "wrong": [
       "zhā",
@@ -7363,6 +8228,7 @@
   },
   {
     "text": "包扎",
+    "target": "扎",
     "right": "zā",
     "wrong": [
       "zhā",
@@ -7371,6 +8237,7 @@
   },
   {
     "text": "扎辫子",
+    "target": "扎",
     "right": "zā",
     "wrong": [
       "zhā",
@@ -7379,6 +8246,7 @@
   },
   {
     "text": "扎针",
+    "target": "扎",
     "right": "zhā",
     "wrong": [
       "zā",
@@ -7387,6 +8255,7 @@
   },
   {
     "text": "扎营",
+    "target": "扎",
     "right": "zhā",
     "wrong": [
       "zā",
@@ -7395,6 +8264,7 @@
   },
   {
     "text": "挣扎",
+    "target": "扎",
     "right": "zhá",
     "wrong": [
       "zā",
@@ -7403,7 +8273,8 @@
   },
   {
     "text": "咋办",
-    "right": "ză",
+    "target": "咋",
+    "right": "zǎ",
     "wrong": [
       "zé",
       "zhā"
@@ -7411,64 +8282,73 @@
   },
   {
     "text": "咋舌",
+    "target": "咋",
     "right": "zé",
     "wrong": [
-      "ză",
+      "zǎ",
       "zhā"
     ]
   },
   {
     "text": "咋呼",
+    "target": "咋",
     "right": "zhā",
     "wrong": [
-      "ză",
+      "zǎ",
       "zé"
     ]
   },
   {
     "text": "一年半载",
-    "right": "zăi",
+    "target": "载",
+    "right": "zǎi",
     "wrong": [
       "zài"
     ]
   },
   {
     "text": "刊载",
-    "right": "zăi",
+    "target": "载",
+    "right": "zǎi",
     "wrong": [
       "zài"
     ]
   },
   {
     "text": "载重",
+    "target": "载",
     "right": "zài",
     "wrong": [
-      "zăi"
+      "zǎi"
     ]
   },
   {
     "text": "下载",
+    "target": "载",
     "right": "zài",
     "wrong": [
-      "zăi"
+      "zǎi"
     ]
   },
   {
     "text": "载体",
+    "target": "载",
     "right": "zài",
     "wrong": [
-      "zăi"
+      "zǎi"
     ]
   },
   {
     "text": "载歌载舞",
+    "target": "载",
     "right": "zài",
     "wrong": [
-      "zăi"
+      "zǎi"
     ]
   },
   {
     "text": "着忙",
+    "target": "着",
     "right": "zháo",
     "wrong": [
       "zhuó",
@@ -7478,6 +8358,7 @@
   },
   {
     "text": "着急",
+    "target": "着",
     "right": "zháo",
     "wrong": [
       "zhuó",
@@ -7487,6 +8368,7 @@
   },
   {
     "text": "着迷",
+    "target": "着",
     "right": "zháo",
     "wrong": [
       "zhuó",
@@ -7496,6 +8378,7 @@
   },
   {
     "text": "着火",
+    "target": "着",
     "right": "zháo",
     "wrong": [
       "zhuó",
@@ -7504,7 +8387,8 @@
     ]
   },
   {
-    "text": "穿着",
+    "text": "穿着（衣着、装束）",
+    "target": "着",
     "right": "zhuó",
     "wrong": [
       "zháo",
@@ -7514,6 +8398,7 @@
   },
   {
     "text": "着落",
+    "target": "着",
     "right": "zhuó",
     "wrong": [
       "zháo",
@@ -7523,6 +8408,7 @@
   },
   {
     "text": "着陆",
+    "target": "着",
     "right": "zhuó",
     "wrong": [
       "zháo",
@@ -7532,6 +8418,7 @@
   },
   {
     "text": "着手成春",
+    "target": "着",
     "right": "zhuó",
     "wrong": [
       "zháo",
@@ -7541,6 +8428,7 @@
   },
   {
     "text": "走着",
+    "target": "着",
     "right": "zhe",
     "wrong": [
       "zháo",
@@ -7550,6 +8438,7 @@
   },
   {
     "text": "开着会",
+    "target": "着",
     "right": "zhe",
     "wrong": [
       "zháo",
@@ -7559,6 +8448,7 @@
   },
   {
     "text": "着数",
+    "target": "着",
     "right": "zhāo",
     "wrong": [
       "zháo",
@@ -7568,6 +8458,7 @@
   },
   {
     "text": "高着儿",
+    "target": "着",
     "right": "zhāo",
     "wrong": [
       "zháo",
@@ -7577,6 +8468,7 @@
   },
   {
     "text": "挣扎",
+    "target": "挣",
     "right": "zhēng",
     "wrong": [
       "zhèng"
@@ -7584,13 +8476,7 @@
   },
   {
     "text": "挣命",
-    "right": "zhèng",
-    "wrong": [
-      "zhēng"
-    ]
-  },
-  {
-    "text": "挣扎",
+    "target": "挣",
     "right": "zhèng",
     "wrong": [
       "zhēng"
@@ -7598,6 +8484,7 @@
   },
   {
     "text": "挣钱",
+    "target": "挣",
     "right": "zhèng",
     "wrong": [
       "zhēng"
@@ -7605,6 +8492,7 @@
   },
   {
     "text": "症结",
+    "target": "症",
     "right": "zhēng",
     "wrong": [
       "zhèng"
@@ -7612,6 +8500,7 @@
   },
   {
     "text": "病症",
+    "target": "症",
     "right": "zhèng",
     "wrong": [
       "zhēng"
@@ -7619,6 +8508,7 @@
   },
   {
     "text": "对症下药",
+    "target": "症",
     "right": "zhèng",
     "wrong": [
       "zhēng"
@@ -7626,6 +8516,7 @@
   },
   {
     "text": "博闻强识",
+    "target": "识",
     "right": "zhì",
     "wrong": [
       "shí"
@@ -7633,6 +8524,7 @@
   },
   {
     "text": "款识",
+    "target": "识",
     "right": "zhì",
     "wrong": [
       "shí"
@@ -7640,6 +8532,7 @@
   },
   {
     "text": "识别",
+    "target": "识",
     "right": "shí",
     "wrong": [
       "zhì"
@@ -7647,6 +8540,7 @@
   },
   {
     "text": "识趣",
+    "target": "识",
     "right": "shí",
     "wrong": [
       "zhì"
@@ -7654,6 +8548,7 @@
   },
   {
     "text": "中坚力量",
+    "target": "中",
     "right": "zhōng",
     "wrong": [
       "zhòng"
@@ -7661,6 +8556,7 @@
   },
   {
     "text": "中饱私囊",
+    "target": "中",
     "right": "zhōng",
     "wrong": [
       "zhòng"
@@ -7668,6 +8564,7 @@
   },
   {
     "text": "中看",
+    "target": "中",
     "right": "zhōng",
     "wrong": [
       "zhòng"
@@ -7675,6 +8572,7 @@
   },
   {
     "text": "中标",
+    "target": "中",
     "right": "zhòng",
     "wrong": [
       "zhōng"
@@ -7682,6 +8580,7 @@
   },
   {
     "text": "中伤",
+    "target": "中",
     "right": "zhòng",
     "wrong": [
       "zhōng"
@@ -7689,6 +8588,7 @@
   },
   {
     "text": "中肯",
+    "target": "中",
     "right": "zhòng",
     "wrong": [
       "zhōng"
@@ -7696,6 +8596,7 @@
   },
   {
     "text": "抓准要点,正中要害",
+    "target": "中",
     "right": "zhòng",
     "wrong": [
       "zhōng"
@@ -7703,6 +8604,7 @@
   },
   {
     "text": "轮轴",
+    "target": "轴",
     "right": "zhóu",
     "wrong": [
       "zhòu"
@@ -7710,6 +8612,7 @@
   },
   {
     "text": "轴心",
+    "target": "轴",
     "right": "zhóu",
     "wrong": [
       "zhòu"
@@ -7717,6 +8620,7 @@
   },
   {
     "text": "脾气轴",
+    "target": "轴",
     "right": "zhóu",
     "wrong": [
       "zhòu"
@@ -7724,6 +8628,7 @@
   },
   {
     "text": "大轴子",
+    "target": "轴",
     "right": "zhòu",
     "wrong": [
       "zhóu"
@@ -7731,13 +8636,15 @@
   },
   {
     "text": "压轴戏",
+    "target": "轴",
     "right": "zhòu",
     "wrong": [
       "zhóu"
     ]
   },
   {
-    "text": "琢磨",
+    "text": "琢磨（雕刻和打磨玉石）",
+    "target": "琢",
     "right": "zhuó",
     "wrong": [
       "zuó"
@@ -7745,13 +8652,15 @@
   },
   {
     "text": "如琢如磨",
+    "target": "琢",
     "right": "zhuó",
     "wrong": [
       "zuó"
     ]
   },
   {
-    "text": "琢磨",
+    "text": "琢磨（思考、研究）",
+    "target": "琢",
     "right": "zuó",
     "wrong": [
       "zhuó"
@@ -7759,6 +8668,7 @@
   },
   {
     "text": "作坊",
+    "target": "作",
     "right": "zuō",
     "wrong": [
       "zuò"
@@ -7766,6 +8676,7 @@
   },
   {
     "text": "作践",
+    "target": "作",
     "right": "zuò",
     "wrong": [
       "zuō"
@@ -7773,6 +8684,7 @@
   },
   {
     "text": "装腔作势",
+    "target": "作",
     "right": "zuò",
     "wrong": [
       "zuō"
@@ -7780,13 +8692,15 @@
   },
   {
     "text": "作威作福",
+    "target": "作",
     "right": "zuò",
     "wrong": [
       "zuō"
     ]
   },
   {
-    "text": "暖暖",
+    "text": "暧暧",
+    "target": "暧",
     "right": "ài",
     "wrong": [
       "nuǎn"
@@ -7794,6 +8708,7 @@
   },
   {
     "text": "谙熟",
+    "target": "谙",
     "right": "ān",
     "wrong": [
       "án"
@@ -7801,6 +8716,7 @@
   },
   {
     "text": "谙练",
+    "target": "谙",
     "right": "ān",
     "wrong": [
       "án"
@@ -7808,6 +8724,7 @@
   },
   {
     "text": "鏖战",
+    "target": "鏖",
     "right": "áo",
     "wrong": [
       "lù"
@@ -7815,6 +8732,7 @@
   },
   {
     "text": "烘焙",
+    "target": "焙",
     "right": "bèi",
     "wrong": [
       "péi"
@@ -7822,6 +8740,7 @@
   },
   {
     "text": "虎贲",
+    "target": "贲",
     "right": "bēn",
     "wrong": [
       "bèn"
@@ -7829,6 +8748,7 @@
   },
   {
     "text": "佛狸祠",
+    "target": "佛",
     "right": "bì",
     "wrong": [
       "fó"
@@ -7836,6 +8756,7 @@
   },
   {
     "text": "抚髀长叹",
+    "target": "髀",
     "right": "bì",
     "wrong": [
       "bēi"
@@ -7843,6 +8764,7 @@
   },
   {
     "text": "针砭",
+    "target": "砭",
     "right": "biān",
     "wrong": [
       "biǎn"
@@ -7850,6 +8772,7 @@
   },
   {
     "text": "狂飙",
+    "target": "飙",
     "right": "biāo",
     "wrong": [
       "biǎo"
@@ -7857,6 +8780,7 @@
   },
   {
     "text": "蹩脚",
+    "target": "蹩",
     "right": "bié",
     "wrong": [
       "biè"
@@ -7864,27 +8788,34 @@
   },
   {
     "text": "摈除",
-    "right": "bīn",
+    "target": "摈",
+    "right": "bìn",
     "wrong": [
+      "bīn",
       "bìng"
     ]
   },
   {
     "text": "摈斥",
-    "right": "bīn",
+    "target": "摈",
+    "right": "bìn",
     "wrong": [
+      "bīn",
       "bìng"
     ]
   },
   {
     "text": "摈弃",
-    "right": "bīn",
+    "target": "摈",
+    "right": "bìn",
     "wrong": [
+      "bīn",
       "bìng"
     ]
   },
   {
     "text": "巨擘",
+    "target": "擘",
     "right": "bò",
     "wrong": [
       "bāi"
@@ -7892,6 +8823,7 @@
   },
   {
     "text": "擘画",
+    "target": "擘",
     "right": "bò",
     "wrong": [
       "bāi"
@@ -7899,6 +8831,7 @@
   },
   {
     "text": "哺乳",
+    "target": "哺",
     "right": "bǔ",
     "wrong": [
       "pǔ"
@@ -7906,6 +8839,7 @@
   },
   {
     "text": "周公吐哺",
+    "target": "哺",
     "right": "bǔ",
     "wrong": [
       "pǔ"
@@ -7913,6 +8847,7 @@
   },
   {
     "text": "商埠",
+    "target": "埠",
     "right": "bù",
     "wrong": [
       "fù"
@@ -7920,6 +8855,7 @@
   },
   {
     "text": "蚌埠",
+    "target": "埠",
     "right": "bù",
     "wrong": [
       "fù"
@@ -7927,6 +8863,7 @@
   },
   {
     "text": "户口簿",
+    "target": "簿",
     "right": "bù",
     "wrong": [
       "bó"
@@ -7934,6 +8871,7 @@
   },
   {
     "text": "粗糙",
+    "target": "糙",
     "right": "cāo",
     "wrong": [
       "zào"
@@ -7941,6 +8879,7 @@
   },
   {
     "text": "嘈杂",
+    "target": "嘈",
     "right": "cáo",
     "wrong": [
       "cāo"
@@ -7948,6 +8887,7 @@
   },
   {
     "text": "岑寂",
+    "target": "岑",
     "right": "cén",
     "wrong": [
       "chén"
@@ -7955,6 +8895,7 @@
   },
   {
     "text": "侪辈",
+    "target": "侪",
     "right": "chái",
     "wrong": [
       "qí"
@@ -7962,6 +8903,7 @@
   },
   {
     "text": "同侪",
+    "target": "侪",
     "right": "chái",
     "wrong": [
       "qí"
@@ -7969,6 +8911,7 @@
   },
   {
     "text": "觇视",
+    "target": "觇",
     "right": "chān",
     "wrong": [
       "zhān"
@@ -7976,6 +8919,7 @@
   },
   {
     "text": "谄媚",
+    "target": "谄",
     "right": "chǎn",
     "wrong": [
       "xiàn"
@@ -7983,6 +8927,7 @@
   },
   {
     "text": "惆怅",
+    "target": "怅",
     "right": "chàng",
     "wrong": [
       "zhàng"
@@ -7990,6 +8935,7 @@
   },
   {
     "text": "怅惘",
+    "target": "怅",
     "right": "chàng",
     "wrong": [
       "zhàng"
@@ -7997,20 +8943,23 @@
   },
   {
     "text": "掣肘",
+    "target": "掣",
     "right": "chè",
     "wrong": [
       "zhì"
     ]
   },
   {
-    "text": "拆裂",
+    "text": "坼裂",
+    "target": "坼",
     "right": "chè",
     "wrong": [
       "chāi"
     ]
   },
   {
-    "text": "天寒地拆",
+    "text": "天寒地坼",
+    "target": "坼",
     "right": "chè",
     "wrong": [
       "chāi"
@@ -8018,6 +8967,7 @@
   },
   {
     "text": "嗔怒",
+    "target": "嗔",
     "right": "chēn",
     "wrong": [
       "chèn"
@@ -8025,6 +8975,7 @@
   },
   {
     "text": "娇嗔",
+    "target": "嗔",
     "right": "chēn",
     "wrong": [
       "chèn"
@@ -8032,6 +8983,7 @@
   },
   {
     "text": "抻面",
+    "target": "抻",
     "right": "chēn",
     "wrong": [
       "chén"
@@ -8039,6 +8991,7 @@
   },
   {
     "text": "抻脖子",
+    "target": "抻",
     "right": "chēn",
     "wrong": [
       "chén"
@@ -8046,6 +8999,7 @@
   },
   {
     "text": "鞭笞",
+    "target": "笞",
     "right": "chī",
     "wrong": [
       "tái"
@@ -8053,6 +9007,7 @@
   },
   {
     "text": "踟蹰",
+    "target": "踟",
     "right": "chí",
     "wrong": [
       "zhí"
@@ -8060,6 +9015,7 @@
   },
   {
     "text": "豆豉",
+    "target": "豉",
     "right": "chǐ",
     "wrong": [
       "gǔ"
@@ -8067,6 +9023,7 @@
   },
   {
     "text": "褫夺",
+    "target": "褫",
     "right": "chǐ",
     "wrong": [
       "dǐ"
@@ -8074,6 +9031,7 @@
   },
   {
     "text": "褫职",
+    "target": "褫",
     "right": "chǐ",
     "wrong": [
       "dǐ"
@@ -8081,6 +9039,7 @@
   },
   {
     "text": "整饬",
+    "target": "饬",
     "right": "chì",
     "wrong": [
       "shāng"
@@ -8088,6 +9047,7 @@
   },
   {
     "text": "饬令",
+    "target": "饬",
     "right": "chì",
     "wrong": [
       "shāng"
@@ -8095,6 +9055,7 @@
   },
   {
     "text": "炽热",
+    "target": "炽",
     "right": "chì",
     "wrong": [
       "zhì"
@@ -8102,6 +9063,7 @@
   },
   {
     "text": "白炽灯",
+    "target": "炽",
     "right": "chì",
     "wrong": [
       "zhì"
@@ -8109,6 +9071,7 @@
   },
   {
     "text": "敕造",
+    "target": "敕",
     "right": "chì",
     "wrong": [
       "shè"
@@ -8116,6 +9079,7 @@
   },
   {
     "text": "憧憬",
+    "target": "憧",
     "right": "chōng",
     "wrong": [
       "chóng"
@@ -8123,6 +9087,7 @@
   },
   {
     "text": "刍议",
+    "target": "刍",
     "right": "chú",
     "wrong": [
       "jú"
@@ -8130,6 +9095,7 @@
   },
   {
     "text": "反刍",
+    "target": "刍",
     "right": "chú",
     "wrong": [
       "jú"
@@ -8137,6 +9103,7 @@
   },
   {
     "text": "打怵",
+    "target": "怵",
     "right": "chù",
     "wrong": [
       "shù"
@@ -8144,6 +9111,7 @@
   },
   {
     "text": "逸兴遄飞",
+    "target": "遄",
     "right": "chuán",
     "wrong": [
       "duān"
@@ -8151,6 +9119,7 @@
   },
   {
     "text": "流水淙淙",
+    "target": "淙",
     "right": "cóng",
     "wrong": [
       "zōng"
@@ -8158,6 +9127,7 @@
   },
   {
     "text": "徂徕",
+    "target": "徂",
     "right": "cú",
     "wrong": [
       "zǔ"
@@ -8165,6 +9135,7 @@
   },
   {
     "text": "簇拥",
+    "target": "簇",
     "right": "cù",
     "wrong": [
       "zú"
@@ -8172,6 +9143,7 @@
   },
   {
     "text": "花团锦簇",
+    "target": "簇",
     "right": "cù",
     "wrong": [
       "zú"
@@ -8179,6 +9151,7 @@
   },
   {
     "text": "蹙额",
+    "target": "蹙",
     "right": "cù",
     "wrong": [
       "qì"
@@ -8186,20 +9159,23 @@
   },
   {
     "text": "蹙缩",
+    "target": "蹙",
     "right": "cù",
     "wrong": [
       "qì"
     ]
   },
   {
-    "text": "躏红",
+    "text": "蹿红",
+    "target": "蹿",
     "right": "cuān",
     "wrong": [
       "cuán"
     ]
   },
   {
-    "text": "躏升",
+    "text": "蹿升",
+    "target": "蹿",
     "right": "cuān",
     "wrong": [
       "cuàn"
@@ -8207,6 +9183,7 @@
   },
   {
     "text": "忖度",
+    "target": "忖",
     "right": "cǔn",
     "wrong": [
       "cūn"
@@ -8214,6 +9191,7 @@
   },
   {
     "text": "忖量",
+    "target": "忖",
     "right": "cǔn",
     "wrong": [
       "cūn"
@@ -8221,6 +9199,7 @@
   },
   {
     "text": "痤疮",
+    "target": "痤",
     "right": "cuó",
     "wrong": [
       "zuò"
@@ -8228,13 +9207,15 @@
   },
   {
     "text": "挫折",
+    "target": "挫",
     "right": "cuò",
     "wrong": [
       "cuō"
     ]
   },
   {
-    "text": "贻荡",
+    "text": "骀荡",
+    "target": "骀",
     "right": "dài",
     "wrong": [
       "yí"
@@ -8242,6 +9223,7 @@
   },
   {
     "text": "水何澹澹",
+    "target": "澹",
     "right": "dàn",
     "wrong": [
       "zhān"
@@ -8249,6 +9231,7 @@
   },
   {
     "text": "档案",
+    "target": "档",
     "right": "dàng",
     "wrong": [
       "dǎng"
@@ -8256,6 +9239,7 @@
   },
   {
     "text": "文档",
+    "target": "档",
     "right": "dàng",
     "wrong": [
       "dǎng"
@@ -8263,6 +9247,7 @@
   },
   {
     "text": "官邸",
+    "target": "邸",
     "right": "dǐ",
     "wrong": [
       "dī"
@@ -8270,6 +9255,7 @@
   },
   {
     "text": "取缔",
+    "target": "缔",
     "right": "dì",
     "wrong": [
       "dī"
@@ -8277,6 +9263,7 @@
   },
   {
     "text": "沉淀",
+    "target": "淀",
     "right": "diàn",
     "wrong": [
       "dìng"
@@ -8284,6 +9271,7 @@
   },
   {
     "text": "淀粉",
+    "target": "淀",
     "right": "diàn",
     "wrong": [
       "dìng"
@@ -8291,6 +9279,7 @@
   },
   {
     "text": "靛青",
+    "target": "靛",
     "right": "diàn",
     "wrong": [
       "dìng"
@@ -8298,6 +9287,7 @@
   },
   {
     "text": "玷污",
+    "target": "玷",
     "right": "diàn",
     "wrong": [
       "zhān"
@@ -8305,6 +9295,7 @@
   },
   {
     "text": "玷辱",
+    "target": "玷",
     "right": "diàn",
     "wrong": [
       "zhān"
@@ -8312,6 +9303,7 @@
   },
   {
     "text": "酩酊大醉",
+    "target": "酊",
     "right": "dǐng",
     "wrong": [
       "dīng"
@@ -8319,6 +9311,7 @@
   },
   {
     "text": "钢锭",
+    "target": "锭",
     "right": "dìng",
     "wrong": [
       "dīng"
@@ -8326,6 +9319,7 @@
   },
   {
     "text": "恫吓",
+    "target": "恫",
     "right": "dòng",
     "wrong": [
       "tóng"
@@ -8333,6 +9327,7 @@
   },
   {
     "text": "胴体",
+    "target": "胴",
     "right": "dòng",
     "wrong": [
       "tóng"
@@ -8340,6 +9335,7 @@
   },
   {
     "text": "尺牍",
+    "target": "牍",
     "right": "dú",
     "wrong": [
       "dū"
@@ -8347,6 +9343,7 @@
   },
   {
     "text": "文牍",
+    "target": "牍",
     "right": "dú",
     "wrong": [
       "dū"
@@ -8354,6 +9351,7 @@
   },
   {
     "text": "渎职",
+    "target": "渎",
     "right": "dú",
     "wrong": [
       "dū"
@@ -8361,6 +9359,7 @@
   },
   {
     "text": "蠹虫",
+    "target": "蠹",
     "right": "dù",
     "wrong": [
       "chún"
@@ -8368,6 +9367,7 @@
   },
   {
     "text": "掇弄",
+    "target": "掇",
     "right": "duō",
     "wrong": [
       "zhuō"
@@ -8375,6 +9375,7 @@
   },
   {
     "text": "樊笼",
+    "target": "樊",
     "right": "fán",
     "wrong": [
       "pán"
@@ -8382,6 +9383,7 @@
   },
   {
     "text": "梵婀玲",
+    "target": "梵",
     "right": "fàn",
     "wrong": [
       "fán"
@@ -8389,6 +9391,7 @@
   },
   {
     "text": "蜚声",
+    "target": "蜚",
     "right": "fēi",
     "wrong": [
       "fěi"
@@ -8396,6 +9399,7 @@
   },
   {
     "text": "流言蜚语",
+    "target": "蜚",
     "right": "fēi",
     "wrong": [
       "fěi"
@@ -8403,6 +9407,7 @@
   },
   {
     "text": "斐然成章",
+    "target": "斐",
     "right": "fěi",
     "wrong": [
       "fēi"
@@ -8410,6 +9415,7 @@
   },
   {
     "text": "氛围",
+    "target": "氛",
     "right": "fēn",
     "wrong": [
       "fèn"
@@ -8417,6 +9423,7 @@
   },
   {
     "text": "气氛",
+    "target": "氛",
     "right": "fēn",
     "wrong": [
       "fèn"
@@ -8424,6 +9431,7 @@
   },
   {
     "text": "敷粉",
+    "target": "敷",
     "right": "fū",
     "wrong": [
       "fú"
@@ -8431,6 +9439,7 @@
   },
   {
     "text": "惊魂甫定",
+    "target": "甫",
     "right": "fǔ",
     "wrong": [
       "pǔ"
@@ -8438,6 +9447,7 @@
   },
   {
     "text": "桃脯",
+    "target": "脯",
     "right": "fǔ",
     "wrong": [
       "pú"
@@ -8445,6 +9455,7 @@
   },
   {
     "text": "杏脯",
+    "target": "脯",
     "right": "fǔ",
     "wrong": [
       "pú"
@@ -8452,6 +9463,7 @@
   },
   {
     "text": "讣闻",
+    "target": "讣",
     "right": "fù",
     "wrong": [
       "pū"
@@ -8459,6 +9471,7 @@
   },
   {
     "text": "讣告",
+    "target": "讣",
     "right": "fù",
     "wrong": [
       "pū"
@@ -8466,6 +9479,7 @@
   },
   {
     "text": "尴尬",
+    "target": "尴",
     "right": "gān",
     "wrong": [
       "jiān"
@@ -8473,6 +9487,7 @@
   },
   {
     "text": "百舸争流",
+    "target": "舸",
     "right": "gě",
     "wrong": [
       "kě"
@@ -8480,6 +9495,7 @@
   },
   {
     "text": "横亘",
+    "target": "亘",
     "right": "gèn",
     "wrong": [
       "gèng"
@@ -8487,6 +9503,7 @@
   },
   {
     "text": "亘古",
+    "target": "亘",
     "right": "gèn",
     "wrong": [
       "gèng"
@@ -8494,6 +9511,7 @@
   },
   {
     "text": "梗概",
+    "target": "梗",
     "right": "gěng",
     "wrong": [
       "gèng"
@@ -8501,6 +9519,7 @@
   },
   {
     "text": "股肱之臣",
+    "target": "肱",
     "right": "gōng",
     "wrong": [
       "hóng"
@@ -8508,13 +9527,15 @@
   },
   {
     "text": "佝偻",
+    "target": "佝",
     "right": "gōu",
     "wrong": [
       "jū"
     ]
   },
   {
-    "text": "繁箍咒",
+    "text": "紧箍咒",
+    "target": "箍",
     "right": "gū",
     "wrong": [
       "kū"
@@ -8522,6 +9543,7 @@
   },
   {
     "text": "箍桶匠",
+    "target": "箍",
     "right": "gū",
     "wrong": [
       "kū"
@@ -8529,6 +9551,7 @@
   },
   {
     "text": "桎梏",
+    "target": "梏",
     "right": "gù",
     "wrong": [
       "gào"
@@ -8540,6 +9563,7 @@
         function loadData() {
             try {
                 wordData = EMBEDDED_WORD_DATA;
+                synchronizeWrongAnswers();
                 document.getElementById('loadingState').style.display = 'none';
                 document.getElementById('questionContent').style.display = 'block';
                 generateQuestion();
@@ -8555,6 +9579,36 @@
         }
 
         // ==================== 工具函数 ====================
+        function synchronizeWrongAnswers() {
+            // Keep saved practice history, but use the current bank's wording and answer.
+            const renamedWords = {
+                '空格': '空一个格',
+                '撒了一地': '豆子撒了一地',
+                '旋根车轴': '用车床旋一根车轴'
+            };
+            const baseWord = text => String(text).replace(/（.*?）/g, '').trim();
+            let changed = false;
+            wrongAnswers = wrongAnswers.map(item => {
+                const oldWord = baseWord(item.text);
+                const name = renamedWords[oldWord] || oldWord;
+                let candidates = wordData.filter(row => baseWord(row.text) === name);
+                const sameTarget = candidates.filter(row => row.target === item.target);
+                if (sameTarget.length) candidates = sameTarget;
+                const sameText = candidates.filter(row => row.text === item.text);
+                if (sameText.length) candidates = sameText;
+                if (candidates.length > 1) {
+                    candidates = candidates.filter(row => row.right === item.rightPronunciation);
+                }
+                // Do not guess which meaning an ambiguous legacy record originally tested.
+                if (candidates.length !== 1) return item;
+                const row = candidates[0];
+                if (item.text === row.text && item.target === row.target && item.rightPronunciation === row.right) return item;
+                changed = true;
+                return { ...item, text: row.text, target: row.target, rightPronunciation: row.right };
+            });
+            if (changed) saveWrongAnswers();
+        }
+
         function shuffleArray(array) {
             const arr = [...array];
             for (let i = arr.length - 1; i > 0; i--) {
@@ -8571,7 +9625,22 @@
         function getUniqueRandomItems(array, count, exclude = []) {
             const available = array.filter(item => !exclude.includes(item));
             const shuffled = shuffleArray(available);
-            return shuffled.slice(0, count);
+            const seen = new Set();
+            return shuffled.filter(item => {
+                if (seen.has(item.text)) return false;
+                seen.add(item.text);
+                return true;
+            }).slice(0, count);
+        }
+
+        function escapeWord(value) {
+            return String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+        }
+
+        function renderWord(text, target) {
+            const index = target ? text.indexOf(target) : -1;
+            if (index < 0) return escapeWord(text);
+            return escapeWord(text.slice(0, index)) + '<strong class="tested-char">' + escapeWord(target) + '</strong>' + escapeWord(text.slice(index + target.length));
         }
 
         // ==================== 题目生成 ====================
@@ -8599,7 +9668,7 @@
             questionTypeEl.className = 'question-type type-correct';
 
             document.getElementById('wordText').textContent = '';
-            document.getElementById('wordHint').textContent = '下列四个选项中，只有一个词语与读音的配对是正确的，请选出正确项';
+            document.getElementById('wordHint').textContent = '拼音对应加粗并带下划线的字，请选出配对正确的一项';
 
             // 从题库随机选4个不同的词语
             const fourWords = getUniqueRandomItems(wordData, 4);
@@ -8612,6 +9681,7 @@
                     // 正确配对：使用该词的正确读音
                     return {
                         word: word.text,
+                        target: word.target,
                         pronunciation: word.right,
                         actualRight: word.right,
                         isCorrectOption: true, // 该选项是否是这道题的正确答案
@@ -8633,6 +9703,7 @@
                     }
                     return {
                         word: word.text,
+                        target: word.target,
                         pronunciation: wrongPron,
                         actualRight: word.right,
                         isCorrectOption: false,
@@ -8657,7 +9728,7 @@
             questionTypeEl.className = 'question-type type-wrong';
 
             document.getElementById('wordText').textContent = '';
-            document.getElementById('wordHint').textContent = '下列四个选项中，只有一个词语与读音的配对是错误的，请选出错误项';
+            document.getElementById('wordHint').textContent = '拼音对应加粗并带下划线的字，请选出配对错误的一项';
 
             // 从题库随机选4个不同的词语（尽量选有错误读音的词作为候选"错误配对"）
             const wordsWithWrong = wordData.filter(w => w.wrong && w.wrong.length > 0);
@@ -8683,6 +9754,7 @@
                     }
                     return {
                         word: word.text,
+                        target: word.target,
                         pronunciation: wrongPron,
                         actualRight: word.right,
                         isCorrectOption: true, // 该选项是"选错"题型中应该被选中的正确答案
@@ -8692,6 +9764,7 @@
                     // 正确配对：使用该词的正确读音
                     return {
                         word: word.text,
+                        target: word.target,
                         pronunciation: word.right,
                         actualRight: word.right,
                         isCorrectOption: false,
@@ -8721,7 +9794,7 @@
                 btn.innerHTML = `
                     <span class="hotkey-badge">${labels[index]}</span>
                     <span class="option-label">
-                        <span class="option-word">${option.word}</span>
+                        <span class="option-word">${renderWord(option.word, option.target)}</span>
                         <span class="option-pron">（${option.pronunciation}）</span>
                     </span>
                 `;
@@ -8754,6 +9827,7 @@
                     userWord: selectedOption.word,
                     userPron: selectedOption.pronunciation,
                     correctWord: correctOpt.word,
+                    correctTarget: correctOpt.target,
                     correctPron: correctOpt.pronunciation,
                     correctWordRightPron: correctOpt.actualRight
                 });
@@ -8803,19 +9877,19 @@
             let answerText;
             if (currentQuestion.type === 'correct') {
                 // 三错一对
-                answerText = `正确选项为 <strong>${correctLabel}</strong>：「${correctOpt.word}」读音 <strong>${correctOpt.pronunciation}</strong><br>`;
+                answerText = `正确选项为 <strong>${correctLabel}</strong>：「${renderWord(correctOpt.word, correctOpt.target)}」中的「${correctOpt.target}」读音 <strong>${correctOpt.pronunciation}</strong><br>`;
                 // 列出错误项的正确读音
                 answerText += '<span style="font-size: 0.95rem; color: var(--text-muted);">其他项正确读音应为：';
                 const wrongs = [];
                 currentQuestion.options.forEach((opt, idx) => {
                     if (idx !== currentQuestion.correctOptionIndex) {
-                        wrongs.push(`「${opt.word}」→ <span style="color: var(--accent-correct);">${opt.actualRight}</span>（题中写的是 <span style="color: var(--accent-wrong);">${opt.pronunciation}</span>）`);
+                        wrongs.push(`「${renderWord(opt.word, opt.target)}」中的「${opt.target}」→ <span style="color: var(--accent-correct);">${opt.actualRight}</span>（题中写的是 <span style="color: var(--accent-wrong);">${opt.pronunciation}</span>）`);
                     }
                 });
                 answerText += wrongs.join('；') + '</span>';
             } else {
                 // 三对一错
-                answerText = `错误选项为 <strong>${correctLabel}</strong>：「${correctOpt.word}」题中写的是 <span style="color: var(--accent-wrong);">${correctOpt.pronunciation}</span>，正确读音应为 <strong>${correctOpt.actualRight}</strong>`;
+                answerText = `错误选项为 <strong>${correctLabel}</strong>：「${renderWord(correctOpt.word, correctOpt.target)}」中的「${correctOpt.target}」题中写的是 <span style="color: var(--accent-wrong);">${correctOpt.pronunciation}</span>，正确读音应为 <strong>${correctOpt.actualRight}</strong>`;
             }
             resultAnswer.innerHTML = answerText;
         }
@@ -8829,7 +9903,7 @@
             const keyRight = info.correctWordRightPron;
 
             const existing = wrongAnswers.find(w =>
-                w.text === keyWord && w.rightPronunciation === keyRight
+                w.text === keyWord && w.rightPronunciation === keyRight && (!w.target || w.target === info.correctTarget)
             );
 
             if (existing) {
@@ -8838,9 +9912,11 @@
                 // 更新用户最近的错误选择
                 existing.userChoice = { word: info.userWord, pron: info.userPron };
                 existing.questionType = currentQuestion.type;
+                existing.target = info.correctTarget;
             } else {
                 wrongAnswers.push({
                     text: keyWord,
+                    target: info.correctTarget,
                     rightPronunciation: keyRight,
                     questionType: currentQuestion.type,
                     userChoice: { word: info.userWord, pron: info.userPron },
@@ -8876,7 +9952,7 @@
 
         function practiceWrongItem(index) {
             const item = wrongAnswers[index];
-            const word = wordData.find(w => w.text === item.text);
+            const word = wordData.find(w => w.text === item.text && (!item.target || w.target === item.target));
             if (!word) {
                 alert('题库中暂无该词，将随机练习一道题');
             }
@@ -8912,7 +9988,7 @@
                 div.className = 'wrong-item';
                 div.innerHTML = `
                     <div class="wrong-item-info">
-                        <div class="wrong-item-word">${item.text}</div>
+                        <div class="wrong-item-word">${renderWord(item.text, item.target)}</div>
                         <div class="wrong-item-detail">
                             <span>正确读音：<span class="right-answer">${item.rightPronunciation}</span></span>
                             ${userChoice.word ? `<span>你当时选：<span class="wrong-answer">${userChoice.word}（${userChoice.pron}）</span></span>` : ''}
