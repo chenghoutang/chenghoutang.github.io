@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "total": 1200,
+  "total": 1500,
   "target": 1800,
   "batches": [
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "topics": [
     {
@@ -88,6 +89,26 @@
     {
       "id": "parabola",
       "name": "抛物线、准线与焦点弦"
+    },
+    {
+      "id": "space",
+      "name": "空间向量、线面关系与夹角"
+    },
+    {
+      "id": "solid",
+      "name": "立体几何、体积与表面积"
+    },
+    {
+      "id": "counting",
+      "name": "排列组合与二项式定理"
+    },
+    {
+      "id": "probability",
+      "name": "古典概型、独立事件与抽样"
+    },
+    {
+      "id": "conditional",
+      "name": "条件概率、全概率与贝叶斯"
     }
   ]
 }

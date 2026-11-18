@@ -114,5 +114,22 @@ for(const q of all){
   if(v){const m=1/Math.sqrt(3),r1=2*a/(1-m),r2=2*a/(1+m);eq(Math.max(r1,r2)/Math.min(r1,r2),2+Math.sqrt(3),q.id);const cos=.5,FA=2*a/(1-cos),FB=2*a/(1+cos);eq(FA/FB,3,q.id);eq(FA+FB,numeric(answer),q.id);}
   else{const k=numeric(answer),S=4*a/k,P=8*a*a/k,D=S*S-4*P,y1=(S+Math.sqrt(D))/2,y2=(S-Math.sqrt(D))/2,x1=y1*y1/(4*a),x2=y2*y2/(4*a);eq(y1,k*x1+2*a,q.id);eq(y2,k*x2+2*a,q.id);eq((x1-a)*(x2-a)+y1*y2,0,q.id);}
  }
+ if(q.topic==='space'&&q.difficulty==='hard'){
+  if(v){const m=Math.sqrt(2*(a*a+2)/(3*a*a-2));eq(a*m/(Math.hypot(1,1,a)*Math.hypot(1,-1,m)),.5,q.id);}
+  else{let min=Infinity;for(let j=-10000;j<=10000;j++){const t=a*j/10000;min=Math.min(min,a*a+t*t-(a+t)**2/3);}eq(min,a*a/2,q.id);}
+ }
+ if(q.topic==='solid'&&q.difficulty==='hard'&&v){let max=0;for(let j=0;j<=30000;j++){const h=2*a*j/30000,r=a-h/2;max=Math.max(max,Math.PI*r*r*h);}eq(max,8*Math.PI*a**3/27,q.id);}
+ if(q.topic==='counting'&&q.difficulty==='hard'){
+  if(v){let coeff=[1];for(let i=0;i<a+8;i++){const next=Array(coeff.length+1).fill(0);coeff.forEach((x,j)=>{next[j]+=x;next[j+1]+=x;});coeff=next;}eq(numeric(answer),coeff[4]-2*coeff[3]+coeff[2],q.id);}
+  else{let count=0;for(let i=1;i<=a+7;i++)for(let j=i+2;j<=a+7;j++)for(let k=j+2;k<=a+7;k++)for(let l=k+2;l<=a+7;l++)count++;eq(numeric(answer),count,q.id);}
+ }
+ if(q.topic==='probability'&&q.difficulty==='hard'){
+  if(v){const n=a+3;let yes=0;for(let i=1;i<=n;i++)for(let j=1;j<=n;j++)if(i!==j&&(Number(i===1)+Number(j===2)===1))yes++;eq(numeric(answer),yes/(n*(n-1)),q.id);}
+  else{let condition=0,yes=0;for(let i=0;i<a+3;i++)for(let j=i+1;j<a+3;j++)for(let k=j+1;k<a+3;k++){const reds=[i,j,k].filter(x=>x<3).length;if(reds)condition++;if(reds===2)yes++;}eq(numeric(answer),yes/condition,q.id);}
+ }
+ if(q.topic==='conditional'&&q.difficulty==='hard'){
+  if(v){let condition=0,yes=0;for(const red of [2,a])for(let i=0;i<a+2;i++)for(let j=0;j<a+2;j++)for(let k=0;k<a+2;k++)if(i!==j&&i!==k&&j!==k&&i<red&&j<red){condition++;if(k<red)yes++;}eq(numeric(answer),yes/condition,q.id);}
+  else{const population=100*a,infected=10,positiveSick=infected*.9,positiveHealthy=(population-infected)*.1;eq(numeric(answer),positiveSick/(positiveSick+positiveHealthy),q.id);}
+ }
 }
 console.log(`PASS: ${all.length} questions, ${families.size} families, ${formulas} LaTeX expressions; schema, offline scripts and independent boundary/numerical audits.`);
