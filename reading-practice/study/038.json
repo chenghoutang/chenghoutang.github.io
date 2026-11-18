@@ -2571,23 +2571,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       22
-    ],
-    "wordBank": [
-      "equivalents",
-      "contrast",
-      "failure",
-      "defences",
-      "adapt",
-      "temperature",
-      "conventional",
-      "low-lying",
-      "intact",
-      "embankments"
     ],
     "parts": [
       {
@@ -2659,6 +2647,12 @@
         "id": "c1",
         "number": 1,
         "answer": "defences",
+        "options": [
+          "defences",
+          "limits",
+          "forests",
+          "shifts"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 defences（defence）。结合上下文辨认词义与词形。",
         "evidence": "Coastal defences designed to repel mid-20th century level storm surges are being breached with growing regularity.",
@@ -2668,6 +2662,12 @@
         "id": "c2",
         "number": 2,
         "answer": "failure",
+        "options": [
+          "climate",
+          "drainage",
+          "concrete",
+          "failure"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 failure（failure）。结合上下文辨认词义与词形。",
         "evidence": "In 2022, severe summer downpours caused the failure of water infrastructure in Jackson, Mississippi.",
@@ -2677,6 +2677,12 @@
         "id": "c3",
         "number": 3,
         "answer": "temperature",
+        "options": [
+          "engineered",
+          "infrastructure",
+          "temperature",
+          "drainage"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 temperature（temperature）。结合上下文辨认词义与词形。",
         "evidence": "But living systems can respond by adjusting to new patterns of temperature, rainfall and sediment deposition rather than simply failing.",
@@ -2686,6 +2692,12 @@
         "id": "c4",
         "number": 4,
         "answer": "conventional",
+        "options": [
+          "contractual",
+          "conventional",
+          "adaptable",
+          "functional"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 conventional（conventional）。结合上下文辨认词义与词形。",
         "evidence": "As a result, they avoided the need to build a conventional filtration plant, which would have cost an estimated $8.6-11 billion.",
@@ -2695,6 +2707,12 @@
         "id": "c5",
         "number": 5,
         "answer": "low-lying",
+        "options": [
+          "low-lying",
+          "feasible",
+          "fast-growing",
+          "reliant"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 low-lying（low-lying）。结合上下文辨认词义与词形。",
         "evidence": "Tropical nations face the worst risk from sea level rise, as they are home to more than 60% of the world’s low-lying coastlines.",
@@ -2704,6 +2722,12 @@
         "id": "c6",
         "number": 6,
         "answer": "adapt",
+        "options": [
+          "weigh",
+          "repel",
+          "proven",
+          "adapt"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 adapt（adapt）。结合上下文辨认词义与词形。",
         "evidence": "Without efforts to adapt, encroaching seas could do more than $27 trillion in damage globally.",
@@ -2713,6 +2737,12 @@
         "id": "c7",
         "number": 7,
         "answer": "contrast",
+        "options": [
+          "contrast",
+          "dykes",
+          "drainage",
+          "default"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 contrast（contrast）。结合上下文辨认词义与词形。",
         "evidence": "By contrast, fast-growing mangroves naturally dampen storm surges and inundation.",
@@ -2722,6 +2752,12 @@
         "id": "c8",
         "number": 8,
         "answer": "equivalents",
+        "options": [
+          "downpours",
+          "equivalents",
+          "droughts",
+          "supplies"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 equivalents（equivalent）。结合上下文辨认词义与词形。",
         "evidence": "Planting mangroves typically cost less than 50% of the cost of concrete and steel equivalents for the same protection, while the value of avoided property damage can be 10 to 100 times greater than planting costs.",
@@ -2731,6 +2767,12 @@
         "id": "c9",
         "number": 9,
         "answer": "embankments",
+        "options": [
+          "emissions",
+          "cloudbursts",
+          "embankments",
+          "defences"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 embankments（embankment）。结合上下文辨认词义与词形。",
         "evidence": "In the Mekong Delta, authorities are combining grey and green infrastructure, planting mangrove belts to give built embankments a longer lifespan and cut maintenance costs.",
@@ -2740,6 +2782,12 @@
         "id": "c10",
         "number": 10,
         "answer": "intact",
+        "options": [
+          "severe",
+          "feasible",
+          "vital",
+          "intact"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 intact（intact）。结合上下文辨认词义与词形。",
         "evidence": "Protecting intact forests – and the watersheds they protect – is also sensible, as these act as vital water infrastructure, recycling water and even generating rainfall.",
@@ -2828,5 +2876,8 @@
       }
     ]
   },
-  "revision": "fd7c6dc8d514e05ba07db60c289847c81211e45af6f44d0d5dbff9a723c77594"
+  "revision": "2f005e9e31a7f521a97d113834c3a0738c8e769f68866acd333d4266d3ae5809",
+  "compatibleProgressRevisions": [
+    "fd7c6dc8d514e05ba07db60c289847c81211e45af6f44d0d5dbff9a723c77594"
+  ]
 }

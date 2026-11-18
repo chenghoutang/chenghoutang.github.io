@@ -1760,23 +1760,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       13
-    ],
-    "wordBank": [
-      "captain",
-      "generative",
-      "hobbles",
-      "trained",
-      "messy",
-      "clinicians",
-      "trial-and-error",
-      "transformed",
-      "decaying",
-      "actual"
     ],
     "parts": [
       {
@@ -1848,6 +1836,12 @@
         "id": "c1",
         "number": 1,
         "answer": "messy",
+        "options": [
+          "trial-and-error",
+          "countless",
+          "admiring",
+          "messy"
+        ],
         "vocabularyId": "v11",
         "explanation": "原文此处使用 messy（messy）。结合上下文辨认词义与词形。",
         "evidence": "Musical recordings don’t include the bad takes and jam sessions, published books leave out the messy drafts, and scientific papers don’t mention the years of false starts and dead ends.",
@@ -1857,6 +1851,12 @@
         "id": "c2",
         "number": 2,
         "answer": "trained",
+        "options": [
+          "trained",
+          "paintings",
+          "gallery",
+          "products"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 trained（train）。结合上下文辨认词义与词形。",
         "evidence": "These traces are what artificial intelligence (AI) models are trained on – and as a result, they produce traces themselves, which are shaped like the products of thought but aren’t necessarily made the same way.",
@@ -1866,6 +1866,12 @@
         "id": "c3",
         "number": 3,
         "answer": "hobbles",
+        "options": [
+          "introduces",
+          "admiring",
+          "hobbles",
+          "arise"
+        ],
         "vocabularyId": "v24",
         "explanation": "原文此处使用 hobbles（hobble）。结合上下文辨认词义与词形。",
         "evidence": "In a new paper, we argue that focusing on traces while leaving out process hobbles current AI systems – and the same problem can arise for the people who use those systems.",
@@ -1875,6 +1881,12 @@
         "id": "c4",
         "number": 4,
         "answer": "actual",
+        "options": [
+          "actual",
+          "scientific",
+          "genuine",
+          "skilled"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 actual（actual）。结合上下文辨认词义与词形。",
         "evidence": "It often fails to line up with the actual computation driving the answer.",
@@ -1884,6 +1896,12 @@
         "id": "c5",
         "number": 5,
         "answer": "trial-and-error",
+        "options": [
+          "becoming",
+          "countless",
+          "introduction",
+          "trial-and-error"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 trial-and-error（trial-and-error）。结合上下文辨认词义与词形。",
         "evidence": "Here, a software “harness” around a large language model runs a loop, feeds results back, and introduces some genuine trial-and-error revision into the process.",
@@ -1893,6 +1911,12 @@
         "id": "c6",
         "number": 6,
         "answer": "transformed",
+        "options": [
+          "transformed",
+          "warned",
+          "adopted",
+          "outperformed"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 transformed（transform）。结合上下文辨认词义与词形。",
         "evidence": "Painters and musicians sometimes talk about how their work was transformed by accidents and friction that happened while making it, such as paint running unexpectedly, or an instrument sounding “off”.",
@@ -1902,6 +1926,12 @@
         "id": "c7",
         "number": 7,
         "answer": "captain",
+        "options": [
+          "products",
+          "gallery",
+          "captain",
+          "error"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 captain（captain）。结合上下文辨认词义与词形。",
         "evidence": "In 1997, an American Airlines captain warned that pilots were becoming “children of the magenta line”.",
@@ -1911,6 +1941,12 @@
         "id": "c8",
         "number": 8,
         "answer": "decaying",
+        "options": [
+          "decaying",
+          "running",
+          "products",
+          "gallery"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 decaying（decay）。结合上下文辨认词义与词形。",
         "evidence": "They followed the plane’s flight computer so faithfully that their manual flying skills were decaying.",
@@ -1920,6 +1956,12 @@
         "id": "c9",
         "number": 9,
         "answer": "clinicians",
+        "options": [
+          "paintings",
+          "musicians",
+          "products",
+          "clinicians"
+        ],
         "vocabularyId": "v70",
         "explanation": "原文此处使用 clinicians（clinician）。结合上下文辨认词义与词形。",
         "evidence": "After a while, the skills of the human clinicians began to erode: they detected fewer polyps when working without the AI system than they had before its introduction.",
@@ -1929,6 +1971,12 @@
         "id": "c10",
         "number": 10,
         "answer": "generative",
+        "options": [
+          "creative",
+          "artificial",
+          "generative",
+          "skilled"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 generative（generative）。结合上下文辨认词义与词形。",
         "evidence": "High school mathematics students given unrestricted generative AI support outperformed their peers when the tool was available, but scored lower once it was taken away.",
@@ -2017,5 +2065,8 @@
       }
     ]
   },
-  "revision": "1c89e3a7c5c825102929cc18ffebcad89f50b539279449e2288f087b29f724a9"
+  "revision": "0789cfef13e6cbe4fe69bca4af3322a5106e69834fec484c34b93405139cc298",
+  "compatibleProgressRevisions": [
+    "1c89e3a7c5c825102929cc18ffebcad89f50b539279449e2288f087b29f724a9"
+  ]
 }

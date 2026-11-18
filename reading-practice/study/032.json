@@ -2490,23 +2490,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       16,
       25
-    ],
-    "wordBank": [
-      "reduction",
-      "controversial",
-      "uncertain",
-      "differently",
-      "increasingly",
-      "waste",
-      "incinerated",
-      "construction",
-      "predicted",
-      "household"
     ],
     "parts": [
       {
@@ -2578,6 +2566,12 @@
         "id": "c1",
         "number": 1,
         "answer": "waste",
+        "options": [
+          "waste",
+          "blame",
+          "councils",
+          "shaped"
+        ],
         "vocabularyId": "v12",
         "explanation": "原文此处使用 waste（waste）。结合上下文辨认词义与词形。",
         "evidence": "The first UK recycling in the early 2000s focused on relatively accessible materials such as paper, glass, metals and garden waste.",
@@ -2587,6 +2581,12 @@
         "id": "c2",
         "number": 2,
         "answer": "uncertain",
+        "options": [
+          "behavioural",
+          "uncertain",
+          "statutory",
+          "inconsistent"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 uncertain（uncertain）。结合上下文辨认词义与词形。",
         "evidence": "These streams are harder to collect, separate and process, while markets for some recovered materials, where waste is reused, remain uncertain.",
@@ -2596,6 +2596,12 @@
         "id": "c3",
         "number": 3,
         "answer": "predicted",
+        "options": [
+          "invested",
+          "sustained",
+          "predicted",
+          "recovered"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 predicted（predict）。结合上下文辨认词义与词形。",
         "evidence": "Another reason recycling have not climbed as high as predicted is that people cannot recycle materials that councils do not collect.",
@@ -2605,6 +2611,12 @@
         "id": "c4",
         "number": 4,
         "answer": "reduction",
+        "options": [
+          "variation",
+          "container",
+          "ambitions",
+          "reduction"
+        ],
         "vocabularyId": "v114",
         "explanation": "原文此处使用 reduction（reduction）。结合上下文辨认词义与词形。",
         "evidence": "It’s important to note that landfill reduction is also an important environmental achievement, and in Scotland, for instance, landfill use has declined – down 82.5% since 2011 – although incineration has increased.",
@@ -2614,6 +2626,12 @@
         "id": "c5",
         "number": 5,
         "answer": "incinerated",
+        "options": [
+          "incinerated",
+          "reinforced",
+          "expanded",
+          "devolved"
+        ],
         "vocabularyId": "v120",
         "explanation": "原文此处使用 incinerated（incinerate）。结合上下文辨认词义与词形。",
         "evidence": "In 2024 1.86 million tonnes was incinerated, an increase of 239,000 tonnes (14.7%) from 2023.",
@@ -2623,6 +2641,12 @@
         "id": "c6",
         "number": 6,
         "answer": "increasingly",
+        "options": [
+          "widely",
+          "relatively",
+          "increasingly",
+          "differently"
+        ],
         "vocabularyId": "v128",
         "explanation": "原文此处使用 increasingly（increasingly）。结合上下文辨认词义与词形。",
         "evidence": "But the UK is increasingly burning what it no longer wants to bury.",
@@ -2632,6 +2656,12 @@
         "id": "c7",
         "number": 7,
         "answer": "construction",
+        "options": [
+          "construction",
+          "infrastructure",
+          "household",
+          "collected"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 construction（construction）。结合上下文辨认词义与词形。",
         "evidence": "Since 2024, there are ten incinerators under construction in England and two in Scotland, but none in Wales and Northern Ireland.",
@@ -2641,6 +2671,12 @@
         "id": "c8",
         "number": 8,
         "answer": "controversial",
+        "options": [
+          "institutional",
+          "accessible",
+          "behavioural",
+          "controversial"
+        ],
         "vocabularyId": "v136",
         "explanation": "原文此处使用 controversial（controversial）。结合上下文辨认词义与词形。",
         "evidence": "For non-recyclable waste, modern incineration may be preferable to landfill. It reduces waste volume and can generate electricity or heat. But it is controversial. Incineration is the dirtiest way the UK generates power. It emits carbon and causes smells as well as destroying materials that could otherwise remain in use. It also often causes nearby residents to worry about health risks.",
@@ -2650,6 +2686,12 @@
         "id": "c9",
         "number": 9,
         "answer": "household",
+        "options": [
+          "shaped",
+          "container",
+          "household",
+          "councils"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 household（household）。结合上下文辨认词义与词形。",
         "evidence": "In 2024, 82.3% of Scottish household waste classified as “other diversion from landfill” was managed through incineration.",
@@ -2659,6 +2701,12 @@
         "id": "c10",
         "number": 10,
         "answer": "differently",
+        "options": [
+          "genuinely",
+          "differently",
+          "widely",
+          "increasingly"
+        ],
         "vocabularyId": "v149",
         "explanation": "原文此处使用 differently（differently）。结合上下文辨认词义与词形。",
         "evidence": "Scotland is therefore managing its residual waste differently, but without achieving an equivalent improvement in waste prevention or recovering or reusing materials.",
@@ -2747,5 +2795,8 @@
       }
     ]
   },
-  "revision": "cb189090c4242d26e84ddad9fd1b64286acb8e71a965f252cd3a6ae50c34c06a"
+  "revision": "f79060ac8a4dd3aff6293f48a3baefb3fd2c62b629cfbd8eac92cb5277b82762",
+  "compatibleProgressRevisions": [
+    "cb189090c4242d26e84ddad9fd1b64286acb8e71a965f252cd3a6ae50c34c06a"
+  ]
 }

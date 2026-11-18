@@ -2285,23 +2285,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       18
-    ],
-    "wordBank": [
-      "vital",
-      "mathematics",
-      "solely",
-      "classroom",
-      "astronomy",
-      "crystallography",
-      "underrepresented",
-      "targeted",
-      "missing",
-      "breakthroughs"
     ],
     "parts": [
       {
@@ -2373,6 +2361,12 @@
         "id": "c1",
         "number": 1,
         "answer": "vital",
+        "options": [
+          "fiery",
+          "pivotal",
+          "vital",
+          "inner"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 vital（vital）。结合上下文辨认词义与词形。",
         "evidence": "She provided vital evidence for continental drift, despite being prohibited from boarding research vessels for years and having her ideas dismissed as “girl talk”.",
@@ -2382,6 +2376,12 @@
         "id": "c2",
         "number": 2,
         "answer": "crystallography",
+        "options": [
+          "crystallography",
+          "breakthroughs",
+          "specifications",
+          "astrophysicist"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 crystallography（crystallography）。结合上下文辨认词义与词形。",
         "evidence": "Finally, Rosalind Franklin is included in two biology specifications for her X-ray crystallography work revealing the double-helix structure of DNA.",
@@ -2391,6 +2391,12 @@
         "id": "c3",
         "number": 3,
         "answer": "solely",
+        "options": [
+          "exclusively",
+          "secondary",
+          "classroom",
+          "solely"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 solely（solely）。结合上下文辨认词义与词形。",
         "evidence": "At A-level, Lehmann and Tharp appear solely in geology, a subject taken by less than 2% of science students.",
@@ -2400,6 +2406,12 @@
         "id": "c4",
         "number": 4,
         "answer": "breakthroughs",
+        "options": [
+          "burners",
+          "exams",
+          "breakthroughs",
+          "barriers"
+        ],
         "vocabularyId": "v14",
         "explanation": "原文此处使用 breakthroughs（breakthrough）。结合上下文辨认词义与词形。",
         "evidence": "Despite this, women made numerous key breakthroughs, and these are already taught to UK 14–18-year-olds.",
@@ -2409,6 +2421,12 @@
         "id": "c5",
         "number": 5,
         "answer": "underrepresented",
+        "options": [
+          "analysed",
+          "scratched",
+          "underrepresented",
+          "uncovered"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 underrepresented（underrepresented）。结合上下文辨认词义与词形。",
         "evidence": "Diversity within scientific fields drives creativity and innovation, benefiting all of society. Yet women remain underrepresented. They make up only around one third of the global scientific community, with similar figures seen within the UK workforce.",
@@ -2418,6 +2436,12 @@
         "id": "c6",
         "number": 6,
         "answer": "mathematics",
+        "options": [
+          "mathematics",
+          "breakthroughs",
+          "barriers",
+          "specifications"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 mathematics（mathematics）。结合上下文辨认词义与词形。",
         "evidence": "This disparity starts early on in schools: although science uptake is balanced at Key Stage 4, just two years later at Key Stage 5, physics, mathematics and further mathematics only see participation from girls at 24.1%, 37.3% and 26.9% respectively in 2025.",
@@ -2427,6 +2451,12 @@
         "id": "c7",
         "number": 7,
         "answer": "classroom",
+        "options": [
+          "secondary",
+          "scratched",
+          "burners",
+          "classroom"
+        ],
         "vocabularyId": "v3",
         "explanation": "原文此处使用 classroom（classroom）。结合上下文辨认词义与词形。",
         "evidence": "Introducing relatable female role models into the classroom directly boosts girls’ confidence and fosters positive attitudes towards scientific careers.",
@@ -2436,6 +2466,12 @@
         "id": "c8",
         "number": 8,
         "answer": "targeted",
+        "options": [
+          "referenced",
+          "pinned",
+          "targeted",
+          "limited"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 targeted（target）。结合上下文辨认词义与词形。",
         "evidence": "By making small, targeted changes directly to national specifications, we can make inclusion standard practice across all schools.",
@@ -2445,6 +2481,12 @@
         "id": "c9",
         "number": 9,
         "answer": "missing",
+        "options": [
+          "pinned",
+          "missing",
+          "inserting",
+          "burners"
+        ],
         "vocabularyId": "v116",
         "explanation": "原文此处使用 missing（miss）。结合上下文辨认词义与词形。",
         "evidence": "We propose inserting one female scientist per subject into topics that are already compulsory, but where the woman’s name is missing.",
@@ -2454,6 +2496,12 @@
         "id": "c10",
         "number": 10,
         "answer": "astronomy",
+        "options": [
+          "astronomy",
+          "classroom",
+          "scratched",
+          "secondary"
+        ],
         "vocabularyId": "v126",
         "explanation": "原文此处使用 astronomy（astronomy）。结合上下文辨认词义与词形。",
         "evidence": "GCSE astronomy should include Jocelyn Bell Burnell, who discovered pulsars: rotating neutron stars used as cosmic clocks.",
@@ -2542,5 +2590,8 @@
       }
     ]
   },
-  "revision": "77f977353d1e161d36812b68a9479eff527c3cdf94eb8dada51c460449a5fea6"
+  "revision": "1c842eb836dbe2db3d95465bf272fe090581fa732295988a54d9874b2a828328",
+  "compatibleProgressRevisions": [
+    "77f977353d1e161d36812b68a9479eff527c3cdf94eb8dada51c460449a5fea6"
+  ]
 }

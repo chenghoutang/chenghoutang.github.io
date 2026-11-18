@@ -2501,23 +2501,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       17
-    ],
-    "wordBank": [
-      "low-grade",
-      "forecasts",
-      "diversity",
-      "tumbled",
-      "sustainable",
-      "affluent",
-      "efficient",
-      "overstated",
-      "analogy",
-      "drilling"
     ],
     "parts": [
       {
@@ -2589,6 +2577,12 @@
         "id": "c1",
         "number": 1,
         "answer": "low-grade",
+        "options": [
+          "payphone",
+          "diverse",
+          "essential",
+          "low-grade"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 low-grade（low-grade）。结合上下文辨认词义与词形。",
         "evidence": "Burning or fissioning a fuel to generate electricity inefficiently, transmitting it far away, and turning it back into low-grade heat for homes was “like cutting butter with a chainsaw,” Lovins wrote.",
@@ -2598,6 +2592,12 @@
         "id": "c2",
         "number": 2,
         "answer": "affluent",
+        "options": [
+          "crisis",
+          "shack",
+          "affluent",
+          "woods"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 affluent（affluent）。结合上下文辨认词义与词形。",
         "evidence": "Lovins posited that “an affluent industrial economy could advantageously operate with no central power stations at all,” though he did not advocate going that far.",
@@ -2607,6 +2607,12 @@
         "id": "c3",
         "number": 3,
         "answer": "forecasts",
+        "options": [
+          "committees",
+          "forecasts",
+          "crisis",
+          "advisers"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 forecasts（forecasts）。结合上下文辨认词义与词形。",
         "evidence": "Unlike most forecasts from the era, which projected ever-rising demand, the soft path foresaw that total U.S. energy use could plateau, and it almost exactly matched the actual level in 2000.",
@@ -2616,6 +2622,12 @@
         "id": "c4",
         "number": 4,
         "answer": "drilling",
+        "options": [
+          "drilling",
+          "cutting",
+          "shaping",
+          "matching"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 drilling（drill）。结合上下文辨认词义与词形。",
         "evidence": "However, Lovins and his contemporaries failed to foresee the drilling advances that have kept oil and gas dominant.",
@@ -2625,6 +2637,12 @@
         "id": "c5",
         "number": 5,
         "answer": "sustainable",
+        "options": [
+          "comfortable",
+          "geothermal",
+          "renewable",
+          "sustainable"
+        ],
         "vocabularyId": "v115",
         "explanation": "原文此处使用 sustainable（sustainable）。结合上下文辨认词义与词形。",
         "evidence": "As an environmental engineer completing a book about the visions that are shaping energy realities and opportunities around the world, I think Lovins got it half right about how to secure sustainable energy.",
@@ -2634,6 +2652,12 @@
         "id": "c6",
         "number": 6,
         "answer": "overstated",
+        "options": [
+          "overstated",
+          "testify",
+          "retired",
+          "chronicled"
+        ],
         "vocabularyId": "v121",
         "explanation": "原文此处使用 overstated（overstate）。结合上下文辨认词义与词形。",
         "evidence": "Critics argued that Lovins underestimated the costs of clean technologies and overstated what they could achieve.",
@@ -2643,6 +2667,12 @@
         "id": "c7",
         "number": 7,
         "answer": "tumbled",
+        "options": [
+          "sparked",
+          "tumbled",
+          "blended",
+          "championed"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 tumbled（tumble）。结合上下文辨认词义与词形。",
         "evidence": "For example, the price per watt of solar panels tumbled from around US$100 in current dollars in 1976 to around 10 cents in global markets today and a President Donald Trump-set minimum price of 38 cents for panels imported to the United States.",
@@ -2652,6 +2682,12 @@
         "id": "c8",
         "number": 8,
         "answer": "analogy",
+        "options": [
+          "guide",
+          "shack",
+          "analogy",
+          "crisis"
+        ],
         "vocabularyId": "v138",
         "explanation": "原文此处使用 analogy（analogy）。结合上下文辨认词义与词形。",
         "evidence": "Modern technologies turn the chainsaw analogy on its head by making electrification the soft path to reducing energy use.",
@@ -2661,6 +2697,12 @@
         "id": "c9",
         "number": 9,
         "answer": "efficient",
+        "options": [
+          "renewable",
+          "actual",
+          "sustainable",
+          "efficient"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 efficient（efficient）。结合上下文辨认词义与词形。",
         "evidence": "And electric vehicles are a few times more efficient than gasoline ones.",
@@ -2670,6 +2712,12 @@
         "id": "c10",
         "number": 10,
         "answer": "diversity",
+        "options": [
+          "diversity",
+          "committees",
+          "requests",
+          "crisis"
+        ],
         "vocabularyId": "v149",
         "explanation": "原文此处使用 diversity（diversity）。结合上下文辨认词义与词形。",
         "evidence": "A diversity of resources blended with high-voltage transmission and storage can make clean electricity available around the clock.",
@@ -2758,5 +2806,8 @@
       }
     ]
   },
-  "revision": "528c57240e16b5b5b5df13bc4c9abcb74475831c3d46db7060ea897b1aa245ae"
+  "revision": "4c00dd0fb8f0c27c54b6defeebe8d0df7ba139369d2b1c80f91d752748d66088",
+  "compatibleProgressRevisions": [
+    "528c57240e16b5b5b5df13bc4c9abcb74475831c3d46db7060ea897b1aa245ae"
+  ]
 }

@@ -2444,23 +2444,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       11,
       18
-    ],
-    "wordBank": [
-      "match",
-      "abruptly",
-      "leans",
-      "visual",
-      "uncertainty",
-      "rewatch",
-      "tension",
-      "phenomenon",
-      "drastic",
-      "panicked"
     ],
     "parts": [
       {
@@ -2532,6 +2520,12 @@
         "id": "c1",
         "number": 1,
         "answer": "phenomenon",
+        "options": [
+          "crouched",
+          "droning",
+          "phenomenon",
+          "theater"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 phenomenon（phenomenon）。结合上下文辨认词义与词形。",
         "evidence": "Inattentional blindness is the failure to notice something in plain view because your attention is engaged elsewhere; it’s the phenomenon behind the infamous invisible gorilla experiment, in which about half of participants busy counting basketball passes failed to notice a person in a gorilla suit strolling through the middle of the game.",
@@ -2541,6 +2535,12 @@
         "id": "c2",
         "number": 2,
         "answer": "leans",
+        "options": [
+          "morphing",
+          "exploit",
+          "resolves",
+          "leans"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 leans（lean）。结合上下文辨认词义与词形。",
         "evidence": "Horror leans on inattentional blindness frequently, from the ghost boy in “Insidious” to the background ghosts scattered through Netflix’s “The Haunting of Hill House.”",
@@ -2550,6 +2550,12 @@
         "id": "c3",
         "number": 3,
         "answer": "rewatch",
+        "options": [
+          "rewatch",
+          "theater",
+          "sequences",
+          "horror"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 rewatch（rewatch）。结合上下文辨认词义与词形。",
         "evidence": "Something is plainly visible, though you often don’t notice it until a rewatch, and this delayed discovery can make the scene even creepier.",
@@ -2559,6 +2565,12 @@
         "id": "c4",
         "number": 4,
         "answer": "drastic",
+        "options": [
+          "creepier",
+          "spooky",
+          "drastic",
+          "opposite"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 drastic（drastic）。结合上下文辨认词义与词形。",
         "evidence": "The difference can be as simple as a shirt color, or something drastic like the possessed girl Janet in “The Conjuring 2” morphing into an old man during her interview with Ed Warren.",
@@ -2568,6 +2580,12 @@
         "id": "c5",
         "number": 5,
         "answer": "abruptly",
+        "options": [
+          "abruptly",
+          "intuitively",
+          "frequently",
+          "slightly"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 abruptly（abruptly）。结合上下文辨认词义与词形。",
         "evidence": "The camera stays on Ed while Janet sits slightly blurred in the background, making the transformation easy to miss until she abruptly changes back.",
@@ -2577,6 +2595,12 @@
         "id": "c6",
         "number": 6,
         "answer": "match",
+        "options": [
+          "droning",
+          "horror",
+          "gasps",
+          "match"
+        ],
         "vocabularyId": "v83",
         "explanation": "原文此处使用 match（match）。结合上下文辨认词义与词形。",
         "evidence": "Eyeline match is a perfect example of this strategy.",
@@ -2586,6 +2610,12 @@
         "id": "c7",
         "number": 7,
         "answer": "visual",
+        "options": [
+          "visible",
+          "cognitive",
+          "visual",
+          "human"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 visual（visual）。结合上下文辨认词义与词形。",
         "evidence": "This editing technique works because it’s similar to something your visual system does: When someone near you looks sharply in one direction, your eyes follow automatically.",
@@ -2595,6 +2625,12 @@
         "id": "c8",
         "number": 8,
         "answer": "tension",
+        "options": [
+          "gasps",
+          "tension",
+          "locked",
+          "movies"
+        ],
         "vocabularyId": "v13",
         "explanation": "原文此处使用 tension（tension）。结合上下文辨认词义与词形。",
         "evidence": "Editing just mimics the real-life version to create tension, which resolves the moment you finally see what the character sees.",
@@ -2604,6 +2640,12 @@
         "id": "c9",
         "number": 9,
         "answer": "panicked",
+        "options": [
+          "panicked",
+          "crouched",
+          "fixed",
+          "delayed"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 panicked（panic）。结合上下文辨认词义与词形。",
         "evidence": "The opening sequence of “It Follows” is a wide shot of a panicked girl running in and out of her house.",
@@ -2613,6 +2655,12 @@
         "id": "c10",
         "number": 10,
         "answer": "uncertainty",
+        "options": [
+          "crouched",
+          "perception",
+          "spotlight",
+          "uncertainty"
+        ],
         "vocabularyId": "v108",
         "explanation": "原文此处使用 uncertainty（uncertainty）。结合上下文辨认词义与词形。",
         "evidence": "The uncertainty and the search build the tension.",
@@ -2701,5 +2749,8 @@
       }
     ]
   },
-  "revision": "73f64881a0e430fb5730da10bb58360c9c99c9b92a3d1da91fd1a5d992b37e65"
+  "revision": "d8a9bb8d20b4d100d10a7026c03141edefe60a42d24a67402221030fb552c65b",
+  "compatibleProgressRevisions": [
+    "73f64881a0e430fb5730da10bb58360c9c99c9b92a3d1da91fd1a5d992b37e65"
+  ]
 }

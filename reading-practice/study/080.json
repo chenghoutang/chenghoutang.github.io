@@ -2807,23 +2807,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       24,
       30
-    ],
-    "wordBank": [
-      "capture",
-      "chocolate",
-      "Grasp",
-      "truly",
-      "spread",
-      "pursuing",
-      "analytical",
-      "striving",
-      "wisdom",
-      "functional"
     ],
     "parts": [
       {
@@ -2895,6 +2883,12 @@
         "id": "c1",
         "number": 1,
         "answer": "chocolate",
+        "options": [
+          "anniversary",
+          "verdict",
+          "chocolate",
+          "according"
+        ],
         "vocabularyId": "v119",
         "explanation": "原文此处使用 chocolate（chocolate）。结合上下文辨认词义与词形。",
         "evidence": "Today’s productivity culture chases tops of its own, but it looks less like Kafka’s philosopher than like Lucy and Ethel working at the chocolate factory in the 1952 “I Love Lucy” episode “Job Switching.”",
@@ -2904,6 +2898,12 @@
         "id": "c2",
         "number": 2,
         "answer": "capture",
+        "options": [
+          "irony",
+          "verdict",
+          "capture",
+          "emptiness"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 capture（capture）。结合上下文辨认词义与词形。",
         "evidence": "Few things capture this pressure more than the SMART goal.",
@@ -2913,6 +2913,12 @@
         "id": "c3",
         "number": 3,
         "answer": "spread",
+        "options": [
+          "spread",
+          "irony",
+          "award",
+          "according"
+        ],
         "vocabularyId": "v134",
         "explanation": "原文此处使用 spread（spread）。结合上下文辨认词义与词形。",
         "evidence": "The acronym spread through industries and disciplines as a model for strategic planning, project management, performance evaluations and personal goal-setting.",
@@ -2922,6 +2928,12 @@
         "id": "c4",
         "number": 4,
         "answer": "Grasp",
+        "options": [
+          "renew",
+          "denotes",
+          "becomes",
+          "Grasp"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 Grasp（grasp）。结合上下文辨认词义与词形。",
         "evidence": "Grasp the top, toss it, capture the next one, ad infinitum.",
@@ -2931,6 +2943,12 @@
         "id": "c5",
         "number": 5,
         "answer": "pursuing",
+        "options": [
+          "striving",
+          "fulfilled",
+          "pursuing",
+          "animating"
+        ],
         "vocabularyId": "v146",
         "explanation": "原文此处使用 pursuing（pursue）。结合上下文辨认词义与词形。",
         "evidence": "The first comes from pursuing goals people never really desired.",
@@ -2940,6 +2958,12 @@
         "id": "c6",
         "number": 6,
         "answer": "truly",
+        "options": [
+          "irony",
+          "truly",
+          "cheekily",
+          "initially"
+        ],
         "vocabularyId": "v151",
         "explanation": "原文此处使用 truly（truly）。结合上下文辨认词义与词形。",
         "evidence": "The second comes from goals people truly wanted.",
@@ -2949,6 +2973,12 @@
         "id": "c7",
         "number": 7,
         "answer": "striving",
+        "options": [
+          "striving",
+          "animating",
+          "pursuing",
+          "rereading"
+        ],
         "vocabularyId": "v159",
         "explanation": "原文此处使用 striving（strive）。结合上下文辨认词义与词形。",
         "evidence": "The Greeks offer another kind of striving, one that locates pleasure in the pursuit itself rather than in the prize.",
@@ -2958,6 +2988,12 @@
         "id": "c8",
         "number": 8,
         "answer": "wisdom",
+        "options": [
+          "verdict",
+          "award",
+          "according",
+          "wisdom"
+        ],
         "vocabularyId": "v165",
         "explanation": "原文此处使用 wisdom（wisdom）。结合上下文辨认词义与词形。",
         "evidence": "In Plato’s “Phaedrus,” Socrates describes eros as giving the soul wings and treats philosophy as a love of wisdom no one can own.",
@@ -2967,6 +3003,12 @@
         "id": "c9",
         "number": 9,
         "answer": "functional",
+        "options": [
+          "functional",
+          "realistic",
+          "metrics",
+          "elegant"
+        ],
         "vocabularyId": "v172",
         "explanation": "原文此处使用 functional（functional）。结合上下文辨认词义与词形。",
         "evidence": "Centuries later, philosopher Alasdair MacIntyre distinguished external goods, such as money and status, from goods internal to a practice, such as a farmer’s growing mastery of her land or an architect’s pursuit of elegant, functional design.",
@@ -2976,6 +3018,12 @@
         "id": "c10",
         "number": 10,
         "answer": "analytical",
+        "options": [
+          "measurable",
+          "analytical",
+          "incomplete",
+          "strategic"
+        ],
         "vocabularyId": "v178",
         "explanation": "原文此处使用 analytical（analytical）。结合上下文辨认词义与词形。",
         "evidence": "Only when she comes to love the game does she gain what chess itself can give: a particular kind of analytical skill, strategic imagination and competitive intensity.",
@@ -3064,5 +3112,8 @@
       }
     ]
   },
-  "revision": "505ba9d12eac5b479caa6ea03b76835f9204069861984bb9d16b1fded5b83d13"
+  "revision": "d7f36bdd1c5f8f3976e0415613b3b301d5e5f518116cdfef1ab9e68a68a7b499",
+  "compatibleProgressRevisions": [
+    "505ba9d12eac5b479caa6ea03b76835f9204069861984bb9d16b1fded5b83d13"
+  ]
 }

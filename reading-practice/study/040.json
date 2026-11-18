@@ -1655,23 +1655,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       13
-    ],
-    "wordBank": [
-      "heatwaves",
-      "intense",
-      "evaporation",
-      "prolonged",
-      "lethal",
-      "phrases",
-      "inland",
-      "worsen",
-      "stresses",
-      "viruses"
     ],
     "parts": [
       {
@@ -1743,6 +1731,12 @@
         "id": "c1",
         "number": 1,
         "answer": "phrases",
+        "options": [
+          "phrases",
+          "ticks",
+          "stresses",
+          "mosquitoes"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 phrases（phrase）。结合上下文辨认词义与词形。",
         "evidence": "Common phrases such as “going troppo” or “mango madness” give a sense of the effects.",
@@ -1752,6 +1746,12 @@
         "id": "c2",
         "number": 2,
         "answer": "heatwaves",
+        "options": [
+          "phrases",
+          "tensions",
+          "heatwaves",
+          "dangerous"
+        ],
         "vocabularyId": "v14",
         "explanation": "原文此处使用 heatwaves（heatwave）。结合上下文辨认词义与词形。",
         "evidence": "Humid heatwaves – where high temperatures combine with high humidity – are potentially more dangerous than dry heatwaves.",
@@ -1761,6 +1761,12 @@
         "id": "c3",
         "number": 3,
         "answer": "lethal",
+        "options": [
+          "lethal",
+          "vital",
+          "mango",
+          "optimal"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 lethal（lethal）。结合上下文辨认词义与词形。",
         "evidence": "Over 1,300 pilgrims died in Saudi Arabia in 2024 due to lethal levels of humidity and heat, while India and Pakistan have also been hard hit.",
@@ -1770,6 +1776,12 @@
         "id": "c4",
         "number": 4,
         "answer": "intense",
+        "options": [
+          "dangerous",
+          "modest",
+          "chronic",
+          "intense"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 intense（intense）。结合上下文辨认词义与词形。",
         "evidence": "Our recent research in the Northern Territory found more people came to emergency departments during intense humid heatwaves than comparable dry heatwaves.",
@@ -1779,6 +1791,12 @@
         "id": "c5",
         "number": 5,
         "answer": "stresses",
+        "options": [
+          "mosquitoes",
+          "illnesses",
+          "stresses",
+          "ticks"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 stresses（stress）。结合上下文辨认词义与词形。",
         "evidence": "Intense heat stresses the body. Humidity can make this worse.",
@@ -1788,6 +1806,12 @@
         "id": "c6",
         "number": 6,
         "answer": "evaporation",
+        "options": [
+          "sweating",
+          "evaporation",
+          "northern",
+          "tensions"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 evaporation（evaporation）。结合上下文辨认词义与词形。",
         "evidence": "When humidity is high, evaporation doesn’t work as well and it’s harder for the body to release heat and stay cool.",
@@ -1797,6 +1821,12 @@
         "id": "c7",
         "number": 7,
         "answer": "worsen",
+        "options": [
+          "worsen",
+          "analyse",
+          "prolonged",
+          "regulate"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 worsen（worsen）。结合上下文辨认词义与词形。",
         "evidence": "Humid conditions can boost the risk of heat-related illnesses such as heatstroke, worsen existing heart and lung conditions and put more strain on the bodies of people with chronic diseases.",
@@ -1806,6 +1836,12 @@
         "id": "c8",
         "number": 8,
         "answer": "prolonged",
+        "options": [
+          "relies",
+          "evaporates",
+          "emerging",
+          "prolonged"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 prolonged（prolong）。结合上下文辨认词义与词形。",
         "evidence": "High humidity can also contribute to poor sleep, reducing the body’s ability to recover during prolonged hot periods.",
@@ -1815,6 +1851,12 @@
         "id": "c9",
         "number": 9,
         "answer": "viruses",
+        "options": [
+          "pilgrims",
+          "illnesses",
+          "viruses",
+          "mosquitoes"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 viruses（virus）。结合上下文辨认词义与词形。",
         "evidence": "Mould, bacteria and viruses are more likely to grow in high humidity, increasing the risk of lung and skin disease.",
@@ -1824,6 +1866,12 @@
         "id": "c10",
         "number": 10,
         "answer": "inland",
+        "options": [
+          "dangerous",
+          "inland",
+          "chronic",
+          "unusual"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 inland（inland）。结合上下文辨认词义与词形。",
         "evidence": "The top third of the Northern Territory has a monsoonal coastal climate prone to humidity, while the two thirds inland is arid.",
@@ -1912,5 +1960,8 @@
       }
     ]
   },
-  "revision": "3884feeaf74c980e8b29d5541f43238c9ea2d25ebba609d587fb00d1ff5f8a84"
+  "revision": "54faf6f84a3c63a02d8fceaa7c41d2d49a65a447f245d3a58f87fba125c19272",
+  "compatibleProgressRevisions": [
+    "3884feeaf74c980e8b29d5541f43238c9ea2d25ebba609d587fb00d1ff5f8a84"
+  ]
 }

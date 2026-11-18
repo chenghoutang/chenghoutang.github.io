@@ -2633,23 +2633,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       20
-    ],
-    "wordBank": [
-      "suppression",
-      "destroyed",
-      "damaged",
-      "number",
-      "exposure",
-      "soils",
-      "satellite",
-      "reconstruct",
-      "wildland",
-      "interacting"
     ],
     "parts": [
       {
@@ -2721,6 +2709,12 @@
         "id": "c1",
         "number": 1,
         "answer": "suppression",
+        "options": [
+          "colleagues",
+          "suppression",
+          "temperatures",
+          "vegetation"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 suppression（suppression）。结合上下文辨认词义与词形。",
         "evidence": "However, a century of fire suppression has allowed dry vegetation to accumulate in forests that historically had frequently burned.",
@@ -2730,6 +2724,12 @@
         "id": "c2",
         "number": 2,
         "answer": "soils",
+        "options": [
+          "soils",
+          "vehicles",
+          "costs",
+          "injuries"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 soils（soil）。结合上下文辨认词义与词形。",
         "evidence": "Rising temperatures caused by human activities such as burning fossil fuels have increased the rate at which the atmosphere pulls moisture from the land, drying soils and vegetation.",
@@ -2739,6 +2739,12 @@
         "id": "c3",
         "number": 3,
         "answer": "wildland",
+        "options": [
+          "expands",
+          "wildfires",
+          "mid-century",
+          "wildland"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 wildland（wildland）。结合上下文辨认词义与词形。",
         "evidence": "More people also now live in and at the edges of wildland areas, raising the risk of fires reaching neighborhoods.",
@@ -2748,6 +2754,12 @@
         "id": "c4",
         "number": 4,
         "answer": "interacting",
+        "options": [
+          "interacting",
+          "overtook",
+          "destroyed",
+          "incorporating"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 interacting（interact）。结合上下文辨认词义与词形。",
         "evidence": "These interacting factors have helped nearly quadruple the annual area burned in the western United States since 2000.",
@@ -2757,6 +2769,12 @@
         "id": "c5",
         "number": 5,
         "answer": "satellite",
+        "options": [
+          "temperatures",
+          "satellite",
+          "colleagues",
+          "mountain"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 satellite（satellite）。结合上下文辨认词义与词形。",
         "evidence": "In a 2024 study, my colleagues and I used satellite imagery to measure daily fire growth across the contiguous United States from 2001 to 2020.",
@@ -2766,6 +2784,12 @@
         "id": "c6",
         "number": 6,
         "answer": "destroyed",
+        "options": [
+          "analyzed",
+          "extended",
+          "destroyed",
+          "intensified"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 destroyed（destroy）。结合上下文辨认词义与词形。",
         "evidence": "“Fast fires,” defined as those that burned more than 4,000 acres in a single day, represented just 2.7% of fires analyzed but accounted for 78% of documented structures destroyed and 61% of reported firefighting costs.",
@@ -2775,6 +2799,12 @@
         "id": "c7",
         "number": 7,
         "answer": "number",
+        "options": [
+          "defined",
+          "destroyed",
+          "extended",
+          "number"
+        ],
         "vocabularyId": "v3",
         "explanation": "原文此处使用 number（numb）。结合上下文辨认词义与词形。",
         "evidence": "The number of people and buildings in harm’s way has also been increasing in the U.S., raising the risk of damage.",
@@ -2784,6 +2814,12 @@
         "id": "c8",
         "number": 8,
         "answer": "exposure",
+        "options": [
+          "exposure",
+          "mountain",
+          "colleagues",
+          "warmth"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 exposure（exposure）。结合上下文辨认词义与词形。",
         "evidence": "Between 1945 and 2015, development in regions of the country with the highest wildfire risk expanded tenfold, increasing the amount of human exposure to wildfires while also introducing ignition sources and buildings that can burn.",
@@ -2793,6 +2829,12 @@
         "id": "c9",
         "number": 9,
         "answer": "damaged",
+        "options": [
+          "tailored",
+          "burned",
+          "damaged",
+          "documented"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 damaged（damage）。结合上下文辨认词义与词形。",
         "evidence": "My team’s new research suggests that without further action to reduce wildfire risk, the annual number of structures damaged or destroyed nationwide could nearly triple by mid-century.",
@@ -2802,6 +2844,12 @@
         "id": "c10",
         "number": 10,
         "answer": "reconstruct",
+        "options": [
+          "extended",
+          "intensified",
+          "reconstruct",
+          "accumulate"
+        ],
         "vocabularyId": "v120",
         "explanation": "原文此处使用 reconstruct（reconstruct）。结合上下文辨认词义与词形。",
         "evidence": "We used historical data about development patterns, wildfire area and the fires’ effects to reconstruct the past fire risk, then modeled future fire risk by incorporating weather, climate and housing-density expectations.",
@@ -2890,5 +2938,8 @@
       }
     ]
   },
-  "revision": "704d144cecf9786103aa6a04945ebdbe499915edaa337e6b49d0cb4e60d70fa1"
+  "revision": "dbd5632ab43a44665eeaf94c7d084ac4948b20671472a0a0b52018d878ecbaf9",
+  "compatibleProgressRevisions": [
+    "704d144cecf9786103aa6a04945ebdbe499915edaa337e6b49d0cb4e60d70fa1"
+  ]
 }

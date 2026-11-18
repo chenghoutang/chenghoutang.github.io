@@ -1998,23 +1998,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       11,
       17
-    ],
-    "wordBank": [
-      "instantaneously",
-      "reservoirs",
-      "familiar",
-      "reliance",
-      "duration",
-      "essential",
-      "renewable",
-      "advice",
-      "absorb",
-      "windy"
     ],
     "parts": [
       {
@@ -2086,6 +2074,12 @@
         "id": "c1",
         "number": 1,
         "answer": "renewable",
+        "options": [
+          "flexible",
+          "regional",
+          "real-time",
+          "renewable"
+        ],
         "vocabularyId": "v24",
         "explanation": "原文此处使用 renewable（renewable）。结合上下文辨认词义与词形。",
         "evidence": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and renewable generation.",
@@ -2095,6 +2089,12 @@
         "id": "c2",
         "number": 2,
         "answer": "advice",
+        "options": [
+          "advice",
+          "output",
+          "weather",
+          "power"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 advice（advice）。结合上下文辨认词义与词形。",
         "evidence": "The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
@@ -2104,6 +2104,12 @@
         "id": "c3",
         "number": 3,
         "answer": "instantaneously",
+        "options": [
+          "increasingly",
+          "supply",
+          "instantaneously",
+          "barely"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 instantaneously（instantaneously）。结合上下文辨认词义与词形。",
         "evidence": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously.",
@@ -2113,6 +2119,12 @@
         "id": "c4",
         "number": 4,
         "answer": "windy",
+        "options": [
+          "windy",
+          "so-called",
+          "alternatives",
+          "negligible"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 windy（windy）。结合上下文辨认词义与词形。",
         "evidence": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days.",
@@ -2122,6 +2134,12 @@
         "id": "c5",
         "number": 5,
         "answer": "absorb",
+        "options": [
+          "depleted",
+          "ensure",
+          "proposes",
+          "absorb"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 absorb（absorb）。结合上下文辨认词义与词形。",
         "evidence": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
@@ -2131,6 +2149,12 @@
         "id": "c6",
         "number": 6,
         "answer": "reservoirs",
+        "options": [
+          "operators",
+          "planners",
+          "reservoirs",
+          "mismatches"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 reservoirs（reservoir）。结合上下文辨认词义与词形。",
         "evidence": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs.",
@@ -2140,6 +2164,12 @@
         "id": "c7",
         "number": 7,
         "answer": "duration",
+        "options": [
+          "settled",
+          "duration",
+          "output",
+          "extra"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 duration（duration）。结合上下文辨认词义与词形。",
         "evidence": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
@@ -2149,6 +2179,12 @@
         "id": "c8",
         "number": 8,
         "answer": "reliance",
+        "options": [
+          "reliance",
+          "settled",
+          "farms",
+          "scale"
+        ],
         "vocabularyId": "v115",
         "explanation": "原文此处使用 reliance（reliance）。结合上下文辨认词义与词形。",
         "evidence": "However, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing reliance on wind and solar energy.",
@@ -2158,6 +2194,12 @@
         "id": "c9",
         "number": 9,
         "answer": "familiar",
+        "options": [
+          "extra",
+          "output",
+          "electricity",
+          "familiar"
+        ],
         "vocabularyId": "v121",
         "explanation": "原文此处使用 familiar（familiar）。结合上下文辨认词义与词形。",
         "evidence": "Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
@@ -2167,6 +2209,12 @@
         "id": "c10",
         "number": 10,
         "answer": "essential",
+        "options": [
+          "alternatives",
+          "reliant",
+          "essential",
+          "otherwise"
+        ],
         "vocabularyId": "v130",
         "explanation": "原文此处使用 essential（essential）。结合上下文辨认词义与词形。",
         "evidence": "This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
@@ -2255,5 +2303,8 @@
       }
     ]
   },
-  "revision": "86d99f82d3e9db648e7b67583a53ecbe667b1d3957f0447d501c3d8cf2ff49e6"
+  "revision": "88b6e86b6ef2bd526304b7023eb607a03623adb483f87eb19e21f060e54f1dcb",
+  "compatibleProgressRevisions": [
+    "86d99f82d3e9db648e7b67583a53ecbe667b1d3957f0447d501c3d8cf2ff49e6"
+  ]
 }

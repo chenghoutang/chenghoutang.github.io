@@ -1750,23 +1750,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       13,
       26
-    ],
-    "wordBank": [
-      "necessarily",
-      "eliminate",
-      "depends",
-      "routes",
-      "seriously",
-      "warehouse",
-      "coordination",
-      "Household",
-      "defence",
-      "prioritised"
     ],
     "parts": [
       {
@@ -1838,6 +1826,12 @@
         "id": "c1",
         "number": 1,
         "answer": "coordination",
+        "options": [
+          "households",
+          "coordination",
+          "visibility",
+          "forecasting"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 coordination（coordination）。结合上下文辨认词义与词形。",
         "evidence": "And research shows that poor coordination around production, logistics and sales leads to significant food wastage.",
@@ -1847,6 +1841,12 @@
         "id": "c2",
         "number": 2,
         "answer": "warehouse",
+        "options": [
+          "warehouse",
+          "resilience",
+          "households",
+          "supply"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 warehouse（warehouse）。结合上下文辨认词义与词形。",
         "evidence": "Forecasting software (which predicts who needs what and when) and automated ordering mean less food sits in a warehouse going off.",
@@ -1856,6 +1856,12 @@
         "id": "c3",
         "number": 3,
         "answer": "depends",
+        "options": [
+          "advises",
+          "ensure",
+          "predicts",
+          "depends"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 depends（depend）。结合上下文辨认词义与词形。",
         "evidence": "When stores hold only a few days’ stock and every step depends on software, there is little to fall back on when something – a hacker, a flood or a war – cuts off supplies.",
@@ -1865,6 +1871,12 @@
         "id": "c4",
         "number": 4,
         "answer": "prioritised",
+        "options": [
+          "disrupted",
+          "recovered",
+          "prioritised",
+          "reorganised"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 prioritised（prioritise）。结合上下文辨认词义与词形。",
         "evidence": "The UK government has been warned about this, with the National Audit Office saying that food supply chains have prioritised efficiency, keeping costs down for businesses and shoppers, but leaving them vulnerable to shocks.",
@@ -1874,6 +1886,12 @@
         "id": "c5",
         "number": 5,
         "answer": "necessarily",
+        "options": [
+          "households",
+          "necessarily",
+          "dramatically",
+          "gradually"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 necessarily（necessarily）。结合上下文辨认词义与词形。",
         "evidence": "Not necessarily.",
@@ -1883,6 +1901,12 @@
         "id": "c6",
         "number": 6,
         "answer": "eliminate",
+        "options": [
+          "eliminate",
+          "restored",
+          "delivered",
+          "advises"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 eliminate（eliminate）。结合上下文辨认词义与词形。",
         "evidence": "They worked hard to eliminate waste in their processes (by reusing and recycling materials, for example), and they quickly reorganised, finding alternative suppliers.",
@@ -1892,6 +1916,12 @@
         "id": "c7",
         "number": 7,
         "answer": "seriously",
+        "options": [
+          "supply",
+          "economically",
+          "dramatically",
+          "seriously"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 seriously（seriously）。结合上下文辨认词义与词形。",
         "evidence": "For supermarkets then, the lesson is to plan for disruption as seriously as they plan for efficiency.",
@@ -1901,6 +1931,12 @@
         "id": "c8",
         "number": 8,
         "answer": "routes",
+        "options": [
+          "routes",
+          "depends",
+          "restored",
+          "predicts"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 routes（route）。结合上下文辨认词义与词形。",
         "evidence": "The first is localisation, where sourcing more food from the UK will help shorten supply chains and reduce dependency on distant suppliers and long transport routes.",
@@ -1910,6 +1946,12 @@
         "id": "c9",
         "number": 9,
         "answer": "Household",
+        "options": [
+          "supply",
+          "Household",
+          "soared",
+          "tinned"
+        ],
         "vocabularyId": "v2",
         "explanation": "原文此处使用 Household（household）。结合上下文辨认词义与词形。",
         "evidence": "Household supply chains matter too. Building up long-life supplies gradually, and using and replacing them in rotation, stops preparation from becoming waste.",
@@ -1919,6 +1961,12 @@
         "id": "c10",
         "number": 10,
         "answer": "defence",
+        "options": [
+          "soared",
+          "supply",
+          "defence",
+          "tinned"
+        ],
         "vocabularyId": "v112",
         "explanation": "原文此处使用 defence（defence）。结合上下文辨认词义与词形。",
         "evidence": "Stocking up at home is a sensible first line of defence, and those who can follow the government’s advice should.",
@@ -2007,5 +2055,8 @@
       }
     ]
   },
-  "revision": "7d54c5bb0e66eba2dd6077b4585ba5d43a36f8e39a15158109dc6528449be359"
+  "revision": "8b89ee596f9613d8411f858f533a73bcbb7bb244c6ce8f68e2ea1b2f28d7bb1c",
+  "compatibleProgressRevisions": [
+    "7d54c5bb0e66eba2dd6077b4585ba5d43a36f8e39a15158109dc6528449be359"
+  ]
 }

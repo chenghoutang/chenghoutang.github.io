@@ -1597,23 +1597,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       9
-    ],
-    "wordBank": [
-      "perceived",
-      "explored",
-      "recurring",
-      "outdoor",
-      "convey",
-      "repeatedly",
-      "declined",
-      "familiar",
-      "restricting",
-      "follow-up"
     ],
     "parts": [
       {
@@ -1685,6 +1673,12 @@
         "id": "c1",
         "number": 1,
         "answer": "outdoor",
+        "options": [
+          "sensory",
+          "supportive",
+          "outdoor",
+          "careful"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 outdoor（outdoor）。结合上下文辨认词义与词形。",
         "evidence": "There is growing evidence that children today have fewer opportunities for independent, adventurous outdoor play and fewer chances to make decisions and shape their own experiences than previous generations.",
@@ -1694,6 +1688,12 @@
         "id": "c2",
         "number": 2,
         "answer": "declined",
+        "options": [
+          "bumped",
+          "associated",
+          "combined",
+          "declined"
+        ],
         "vocabularyId": "v10",
         "explanation": "原文此处使用 declined（decline）。结合上下文辨认词义与词形。",
         "evidence": "Research suggests that outdoor play has declined by 50% within a generation.",
@@ -1703,6 +1703,12 @@
         "id": "c3",
         "number": 3,
         "answer": "explored",
+        "options": [
+          "explored",
+          "emerged",
+          "absorbed",
+          "convey"
+        ],
         "vocabularyId": "v13",
         "explanation": "原文此处使用 explored（explore）。结合上下文辨认词义与词形。",
         "evidence": "My research explored how children make decisions when playing outside.",
@@ -1712,6 +1718,12 @@
         "id": "c4",
         "number": 4,
         "answer": "convey",
+        "options": [
+          "explored",
+          "enrolled",
+          "convey",
+          "emerged"
+        ],
         "vocabularyId": "v21",
         "explanation": "原文此处使用 convey（convey）。结合上下文辨认词义与词形。",
         "evidence": "Instead, they are responding to the subtle messages adults convey about risk, mess and safety.",
@@ -1721,6 +1733,12 @@
         "id": "c5",
         "number": 5,
         "answer": "familiar",
+        "options": [
+          "familiar",
+          "declined",
+          "shape",
+          "children"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 familiar（familiar）。结合上下文辨认词义与词形。",
         "evidence": "Our participants were children aged three to five who were enrolled in nursery and reception, meaning the school’s outdoor environment was familiar to them.",
@@ -1730,6 +1748,12 @@
         "id": "c6",
         "number": 6,
         "answer": "recurring",
+        "options": [
+          "explored",
+          "engaging",
+          "intervening",
+          "recurring"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 recurring（recur）。结合上下文辨认词义与词形。",
         "evidence": "From these early conversations with the children, recurring patterns emerged.",
@@ -1739,6 +1763,12 @@
         "id": "c7",
         "number": 7,
         "answer": "restricting",
+        "options": [
+          "disappointing",
+          "intervening",
+          "restricting",
+          "perceived"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 restricting（restrict）。结合上下文辨认词义与词形。",
         "evidence": "These children tended to avoid areas they associated with discomfort or danger, such as mud, water and climbing equipment, even though these spaces were familiar to them and adults were not restricting their access.",
@@ -1748,6 +1778,12 @@
         "id": "c8",
         "number": 8,
         "answer": "repeatedly",
+        "options": [
+          "adventurous",
+          "repeatedly",
+          "previously",
+          "children"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 repeatedly（repeatedly）。结合上下文辨认词义与词形。",
         "evidence": "These were not spontaneous fears; they were reflections of the messages the children had repeatedly heard from adults.",
@@ -1757,6 +1793,12 @@
         "id": "c9",
         "number": 9,
         "answer": "follow-up",
+        "options": [
+          "follow-up",
+          "outdoors",
+          "children",
+          "confidence"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 follow-up（follow-up）。结合上下文辨认词义与词形。",
         "evidence": "During our follow-up conversations with the children, they also described similar warnings from parents and carers.",
@@ -1766,6 +1808,12 @@
         "id": "c10",
         "number": 10,
         "answer": "perceived",
+        "options": [
+          "emerged",
+          "explored",
+          "enrolled",
+          "perceived"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 perceived（perceive）。结合上下文辨认词义与词形。",
         "evidence": "These repeated messages had a lasting impact on how the children perceived risk.",
@@ -1854,5 +1902,8 @@
       }
     ]
   },
-  "revision": "7a5cf5442e06786196b4f8f4b92ab3264bb62e7bf77cb0b9ebb7efd45a220f83"
+  "revision": "6ab0114dbf0fd26024ad403aaf9274735f83318a4825b40694db774dd7d84280",
+  "compatibleProgressRevisions": [
+    "7a5cf5442e06786196b4f8f4b92ab3264bb62e7bf77cb0b9ebb7efd45a220f83"
+  ]
 }

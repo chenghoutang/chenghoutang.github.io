@@ -1750,23 +1750,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       18,
       25
-    ],
-    "wordBank": [
-      "insulin",
-      "diagnose",
-      "muscle",
-      "beneath",
-      "unless",
-      "lunch",
-      "graph",
-      "circumstances",
-      "flatten",
-      "alongside"
     ],
     "parts": [
       {
@@ -1838,6 +1826,12 @@
         "id": "c1",
         "number": 1,
         "answer": "muscle",
+        "options": [
+          "monitor",
+          "muscle",
+          "sugar",
+          "organ"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 muscle（muscle）。结合上下文辨认词义与词形。",
         "evidence": "Researchers have also investigated seated “soleus push-ups”: repeated heel raises that work a muscle deep in the calf.",
@@ -1847,6 +1841,12 @@
         "id": "c2",
         "number": 2,
         "answer": "lunch",
+        "options": [
+          "lunch",
+          "organ",
+          "ordinary",
+          "sugar"
+        ],
         "vocabularyId": "v10",
         "explanation": "原文此处使用 lunch（lunch）。结合上下文辨认词义与词形。",
         "evidence": "This does not show that a few heel raises after lunch would have the same effect or improve glucose control over time.",
@@ -1856,6 +1856,12 @@
         "id": "c3",
         "number": 3,
         "answer": "insulin",
+        "options": [
+          "sugar",
+          "pancreas",
+          "monitor",
+          "insulin"
+        ],
         "vocabularyId": "v16",
         "explanation": "原文此处使用 insulin（insulin）。结合上下文辨认词义与词形。",
         "evidence": "Glucose regulation also depends on how effectively the body responds to insulin, known as insulin sensitivity.",
@@ -1865,6 +1871,12 @@
         "id": "c4",
         "number": 4,
         "answer": "alongside",
+        "options": [
+          "alongside",
+          "monitor",
+          "ordinary",
+          "wearable"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 alongside（alongside）。结合上下文辨认词义与词形。",
         "evidence": "This supports paying attention to sleep alongside food and activity, although it does not show that an extra hour in bed will produce a particular glucose reading.",
@@ -1874,6 +1886,12 @@
         "id": "c5",
         "number": 5,
         "answer": "beneath",
+        "options": [
+          "lunch",
+          "beneath",
+          "monitor",
+          "wearable"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 beneath（beneath）。结合上下文辨认词义与词形。",
         "evidence": "Wearable continuous glucose monitors use a small sensor beneath the skin to measure glucose in the fluid between cells and estimate glucose levels.",
@@ -1883,6 +1901,12 @@
         "id": "c6",
         "number": 6,
         "answer": "diagnose",
+        "options": [
+          "flatten",
+          "confirm",
+          "diagnose",
+          "differed"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 diagnose（diagnose）。结合上下文辨认词义与词形。",
         "evidence": "They can be valuable in diabetes care, but current diagnostic guidance says there is insufficient evidence to use them to diagnose diabetes or prediabetes.",
@@ -1892,6 +1916,12 @@
         "id": "c7",
         "number": 7,
         "answer": "unless",
+        "options": [
+          "peaks",
+          "diabetes",
+          "pancreas",
+          "unless"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 unless（unless）。结合上下文辨认词义与词形。",
         "evidence": "Diabetes is diagnosed using specific blood tests, usually with a second abnormal result to confirm the diagnosis unless it is already clear.",
@@ -1901,6 +1931,12 @@
         "id": "c8",
         "number": 8,
         "answer": "circumstances",
+        "options": [
+          "circumstances",
+          "complications",
+          "spikes",
+          "vegetables"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 circumstances（circumstance）。结合上下文辨认词义与词形。",
         "evidence": "People with diabetes need advice tailored to their medication and circumstances.",
@@ -1910,6 +1946,12 @@
         "id": "c9",
         "number": 9,
         "answer": "flatten",
+        "options": [
+          "differed",
+          "depend",
+          "flatten",
+          "diagnose"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 flatten（flatten）。结合上下文辨认词义与词形。",
         "evidence": "For most people without diabetes, there is no established need to flatten every rise after eating.",
@@ -1919,6 +1961,12 @@
         "id": "c10",
         "number": 10,
         "answer": "graph",
+        "options": [
+          "graph",
+          "pancreas",
+          "ordinary",
+          "glucose"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 graph（graph）。结合上下文辨认词义与词形。",
         "evidence": "Focus instead on sustainable habits, such as including more fibre-rich foods, moving regularly and getting adequate sleep, rather than judging each meal by a glucose graph.",
@@ -2007,5 +2055,8 @@
       }
     ]
   },
-  "revision": "554afb91ea25bf3109524fd891dafeef11e1715ea1b4f3f2cb26ebbfa7908c8f"
+  "revision": "4fbff159f28db6ec64a6a98a3dc1b4a66c9ce6d4ff3b5b4a1b78c5f4a3478eef",
+  "compatibleProgressRevisions": [
+    "554afb91ea25bf3109524fd891dafeef11e1715ea1b4f3f2cb26ebbfa7908c8f"
+  ]
 }

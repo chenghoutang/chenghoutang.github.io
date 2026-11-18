@@ -2096,23 +2096,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       7
-    ],
-    "wordBank": [
-      "admissions",
-      "damage",
-      "aware",
-      "transferred",
-      "short-lived",
-      "footprint",
-      "exposed",
-      "enjoyment",
-      "approximately",
-      "clinical"
     ],
     "parts": [
       {
@@ -2184,6 +2172,12 @@
         "id": "c1",
         "number": 1,
         "answer": "aware",
+        "options": [
+          "monetary",
+          "clinical",
+          "economic",
+          "aware"
+        ],
         "vocabularyId": "v15",
         "explanation": "原文此处使用 aware（aware）。结合上下文辨认词义与词形。",
         "evidence": "It’s not a question about whether fireworks celebrations are enjoyable, but whether the people enjoying them are aware of – or actually paying for – their full cost.",
@@ -2193,6 +2187,12 @@
         "id": "c2",
         "number": 2,
         "answer": "enjoyment",
+        "options": [
+          "enjoyment",
+          "hidden",
+          "display",
+          "celebrations"
+        ],
         "vocabularyId": "v25",
         "explanation": "原文此处使用 enjoyment（enjoyment）。结合上下文辨认词义与词形。",
         "evidence": "Fireworks offer a particularly visible example because the enjoyment is concentrated in time while the consequences are spread among households, public services and wildlife.",
@@ -2202,6 +2202,12 @@
         "id": "c3",
         "number": 3,
         "answer": "admissions",
+        "options": [
+          "injuries",
+          "admissions",
+          "neighbours",
+          "households"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 admissions（admission）。结合上下文辨认词义与词形。",
         "evidence": "Figures show that 123 hospital admissions in England attributed to fireworks in 2024–25.",
@@ -2211,6 +2217,12 @@
         "id": "c4",
         "number": 4,
         "answer": "clinical",
+        "options": [
+          "clinical",
+          "aware",
+          "economic",
+          "monetary"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 clinical（clinical）。结合上下文辨认词义与词形。",
         "evidence": "Preventing such injuries may not cut the NHS budget, but it can free clinical time for other patients.",
@@ -2220,6 +2232,12 @@
         "id": "c5",
         "number": 5,
         "answer": "short-lived",
+        "options": [
+          "overlooked",
+          "nationwide",
+          "alternatives",
+          "short-lived"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 short-lived（short-lived）。结合上下文辨认词义与词形。",
         "evidence": "The UK’s official air-quality monitoring has recorded short-lived spikes in fine particles around Bonfire Night, although bonfires also contribute and weather affects how quickly smoke disperses.",
@@ -2229,6 +2247,12 @@
         "id": "c6",
         "number": 6,
         "answer": "damage",
+        "options": [
+          "damage",
+          "minutes",
+          "hidden",
+          "display"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 damage（damage）。结合上下文辨认词义与词形。",
         "evidence": "The Department for Environment, Food and Rural Affairs assigns a central estimated damage cost of £114,411 per tonne of fine particulate emissions (known as PM2.5), expressed in 2025 prices to account for inflation.",
@@ -2238,6 +2262,12 @@
         "id": "c7",
         "number": 7,
         "answer": "exposed",
+        "options": [
+          "limited",
+          "exposed",
+          "averaged",
+          "estimated"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 exposed（expose）。结合上下文辨认词义与词形。",
         "evidence": "This is not a figure for fireworks: calculating that would require information about their emissions and who is exposed.",
@@ -2247,6 +2277,12 @@
         "id": "c8",
         "number": 8,
         "answer": "approximately",
+        "options": [
+          "automatically",
+          "externality",
+          "approximately",
+          "transaction"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 approximately（approximately）。结合上下文辨认词义与词形。",
         "evidence": "In a peer-reviewed Dutch study, researchers found that approximately 1,000 times as many birds were flying during New Year’s Eve fireworks as on ordinary nights.",
@@ -2256,6 +2292,12 @@
         "id": "c9",
         "number": 9,
         "answer": "transferred",
+        "options": [
+          "overlooked",
+          "concentrated",
+          "expressed",
+          "transferred"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 transferred（transfer）。结合上下文辨认词义与词形。",
         "evidence": "The exact scale cannot be transferred to British Bonfire Nights, but the finding challenges the idea that fireworks affect only those who choose to watch.",
@@ -2265,6 +2307,12 @@
         "id": "c10",
         "number": 10,
         "answer": "footprint",
+        "options": [
+          "footprint",
+          "minutes",
+          "externality",
+          "display"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 footprint（footprint）。结合上下文辨认词义与词形。",
         "evidence": "Alongside noise and smoke, spent casings and other waste leave a physical footprint.",
@@ -2353,5 +2401,8 @@
       }
     ]
   },
-  "revision": "02ac9dd90ddd9cd02776f8d8fcb0e064549aaab52d41107aebc228eb2f6fa447"
+  "revision": "bc1089672dbfaf10f06ee3cad56c7c0f4556794190ed127141ed024efb0245a6",
+  "compatibleProgressRevisions": [
+    "02ac9dd90ddd9cd02776f8d8fcb0e064549aaab52d41107aebc228eb2f6fa447"
+  ]
 }

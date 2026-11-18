@@ -2336,23 +2336,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       4,
       14
-    ],
-    "wordBank": [
-      "spread",
-      "dispersals",
-      "historical",
-      "scenario",
-      "migrated",
-      "migrants",
-      "collaboration",
-      "origin",
-      "ancestry",
-      "distribution"
     ],
     "parts": [
       {
@@ -2424,6 +2412,12 @@
         "id": "c1",
         "number": 1,
         "answer": "origin",
+        "options": [
+          "origin",
+          "ancient",
+          "dispersal",
+          "languages"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 origin（origin）。结合上下文辨认词义与词形。",
         "evidence": "During the 19th and 20th centuries, a wide variety of theories were developed about its origin.",
@@ -2433,6 +2427,12 @@
         "id": "c2",
         "number": 2,
         "answer": "spread",
+        "options": [
+          "pater",
+          "enigmas",
+          "scholars",
+          "spread"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 spread（spread）。结合上下文辨认词义与词形。",
         "evidence": "Subsequent migrations by the pastoral nomads of the Yamnaya culture are thought to have spread the ancestral language across Europe and Asia.",
@@ -2442,6 +2442,12 @@
         "id": "c3",
         "number": 3,
         "answer": "migrated",
+        "options": [
+          "coincided",
+          "introduced",
+          "migrated",
+          "emerged"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 migrated（migrate）。结合上下文辨认词义与词形。",
         "evidence": "However, thanks to ancient DNA, we now know that large groups of people migrated from the Eastern European steppes to Europe around 5,000 years ago, providing compelling support for the spread of Indo-European languages from that region.",
@@ -2451,6 +2457,12 @@
         "id": "c4",
         "number": 4,
         "answer": "historical",
+        "options": [
+          "languages",
+          "historical",
+          "linguistic",
+          "archaeological"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 historical（historical）。结合上下文辨认词义与词形。",
         "evidence": "Today, the spread of Indo-European languages from the steppes is accepted by most historical linguists.",
@@ -2460,6 +2472,12 @@
         "id": "c5",
         "number": 5,
         "answer": "collaboration",
+        "options": [
+          "collaboration",
+          "similarities",
+          "prehistory",
+          "continuity"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 collaboration（collaboration）。结合上下文辨认词义与词形。",
         "evidence": "As part of an international collaboration, led by researchers from the University of Copenhagen in Denmark and Leiden University in the Netherlands, we analysed the DNA of thousands of prehistoric Europeans, including more than 700 newly sequenced individuals.",
@@ -2469,6 +2487,12 @@
         "id": "c6",
         "number": 6,
         "answer": "dispersals",
+        "options": [
+          "languages",
+          "scholars",
+          "enigmas",
+          "dispersals"
+        ],
         "vocabularyId": "v8",
         "explanation": "原文此处使用 dispersals（dispersal）。结合上下文辨认词义与词形。",
         "evidence": "This allowed us to test, for the first time, specific theories on the prehistoric dispersals of the Germanic and Celtic languages.",
@@ -2478,6 +2502,12 @@
         "id": "c7",
         "number": 7,
         "answer": "migrants",
+        "options": [
+          "migrants",
+          "steppes",
+          "scholars",
+          "enigmas"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 migrants（migrant）。结合上下文辨认词义与词形。",
         "evidence": "It has long been assumed that the earliest form of Germanic arrived in Scandinavia with the first steppe migrants around 4,800 years ago.",
@@ -2487,6 +2517,12 @@
         "id": "c8",
         "number": 8,
         "answer": "ancestry",
+        "options": [
+          "languages",
+          "ancestry",
+          "enigmas",
+          "riddle"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 ancestry（ancestry）。结合上下文辨认词义与词形。",
         "evidence": "Around 4,000 years ago, a second group with steppe ancestry appeared in Eastern Scandinavia, probably arriving from across the Baltic Sea.",
@@ -2496,6 +2532,12 @@
         "id": "c9",
         "number": 9,
         "answer": "distribution",
+        "options": [
+          "distribution",
+          "similarities",
+          "languages",
+          "dispersal"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 distribution（distribution）。结合上下文辨认词义与词形。",
         "evidence": "This distribution, combined with their ancestry persisting in most later Germanic-speaking populations, suggests these newcomers may have introduced the precursor of the Germanic languages, some 800 years later than traditionally assumed.",
@@ -2505,6 +2547,12 @@
         "id": "c10",
         "number": 10,
         "answer": "scenario",
+        "options": [
+          "enigmas",
+          "dispersal",
+          "languages",
+          "scenario"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 scenario（scenario）。结合上下文辨认词义与词形。",
         "evidence": "In this scenario, the timeline for the language history of Northern Europe is reset.",
@@ -2593,5 +2641,8 @@
       }
     ]
   },
-  "revision": "4671c4e0aec6e7facd52be24da0b68c739ed4ab763546e31b2becf690175c97f"
+  "revision": "39c21acce0ab6a8bcbbe970b9e97106cd3d13495d658e52aa2d568b22088a49d",
+  "compatibleProgressRevisions": [
+    "4671c4e0aec6e7facd52be24da0b68c739ed4ab763546e31b2becf690175c97f"
+  ]
 }

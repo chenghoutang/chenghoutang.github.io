@@ -2703,23 +2703,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       20
-    ],
-    "wordBank": [
-      "arrange",
-      "additional",
-      "illnesses",
-      "vectors",
-      "potentially",
-      "clinics",
-      "disaster",
-      "ventilators",
-      "belong",
-      "limited"
     ],
     "parts": [
       {
@@ -2791,6 +2779,12 @@
         "id": "c1",
         "number": 1,
         "answer": "disaster",
+        "options": [
+          "disaster",
+          "triggering",
+          "phenomenon",
+          "health"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 disaster（disaster）。结合上下文辨认词义与词形。",
         "evidence": "To protect the population, communities need plans that keep care accessible and weather warnings that provide advice people can act on before, during and after a disaster.",
@@ -2800,6 +2794,12 @@
         "id": "c2",
         "number": 2,
         "answer": "illnesses",
+        "options": [
+          "temperatures",
+          "illnesses",
+          "warnings",
+          "outbreaks"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 illnesses（illness）。结合上下文辨认词义与词形。",
         "evidence": "For example, research has linked exposure to flooding, wildfire and ecosystem changes with elevated risks of illnesses, psychological distress and chronic stress.",
@@ -2809,6 +2809,12 @@
         "id": "c3",
         "number": 3,
         "answer": "vectors",
+        "options": [
+          "wildfires",
+          "shifts",
+          "vectors",
+          "downpours"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 vectors（vector）。结合上下文辨认词义与词形。",
         "evidence": "Floodwater can lead to infections, such as hepatitis, cryptosporidium and fungal diseases, as well as longer-term health damage through exposure to harmful environmental microbes, chemicals and an increase in disease-carrying vectors such as mosquitoes.",
@@ -2818,6 +2824,12 @@
         "id": "c4",
         "number": 4,
         "answer": "potentially",
+        "options": [
+          "anticipation",
+          "normally",
+          "safely",
+          "potentially"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 potentially（potentially）。结合上下文辨认词义与词形。",
         "evidence": "The threat of a changing, potentially unsafe environment can also increase anticipatory, long-term distress.",
@@ -2827,6 +2839,12 @@
         "id": "c5",
         "number": 5,
         "answer": "belong",
+        "options": [
+          "belong",
+          "displace",
+          "clean",
+          "disrupt"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 belong（belong）。结合上下文辨认词义与词形。",
         "evidence": "We believe mental health counseling services also belong in communities’ preparedness and recovery plans, not as an optional add-on after addressing physical needs.",
@@ -2836,6 +2854,12 @@
         "id": "c6",
         "number": 6,
         "answer": "additional",
+        "options": [
+          "immediate",
+          "additional",
+          "essential",
+          "extensive"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 additional（additional）。结合上下文辨认词义与词形。",
         "evidence": "For people with existing illnesses or in areas far from medical care, extreme weather brings additional risks.",
@@ -2845,6 +2869,12 @@
         "id": "c7",
         "number": 7,
         "answer": "ventilators",
+        "options": [
+          "warnings",
+          "wildfires",
+          "ventilators",
+          "temperatures"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 ventilators（ventilator）。结合上下文辨认词义与词形。",
         "evidence": "At least 2.5 million Americans rely on in-home electricity-powered medical equipment, such as oxygen concentrators and ventilators, including nearly 78,000 who receive dialysis at home to help their kidneys function.",
@@ -2854,6 +2884,12 @@
         "id": "c8",
         "number": 8,
         "answer": "clinics",
+        "options": [
+          "shifts",
+          "waves",
+          "warnings",
+          "clinics"
+        ],
         "vocabularyId": "v118",
         "explanation": "原文此处使用 clinics（clinic）。结合上下文辨认词义与词形。",
         "evidence": "Many communities around the world don’t have local clinics.",
@@ -2863,6 +2899,12 @@
         "id": "c9",
         "number": 9,
         "answer": "limited",
+        "options": [
+          "limited",
+          "weather",
+          "health",
+          "shore"
+        ],
         "vocabularyId": "v124",
         "explanation": "原文此处使用 limited（limit）。结合上下文辨认词义与词形。",
         "evidence": "During Hurricane Harvey in 2017, flooding limited access to Houston’s second-busiest hospital for five days.",
@@ -2872,6 +2914,12 @@
         "id": "c10",
         "number": 10,
         "answer": "arrange",
+        "options": [
+          "warning",
+          "extend",
+          "arrange",
+          "becomes"
+        ],
         "vocabularyId": "v130",
         "explanation": "原文此处使用 arrange（arrange）。结合上下文辨认词义与词形。",
         "evidence": "With advanced warnings, community organizations and healthcare providers preparing for El Niño can contact people with health vulnerabilities early to arrange backup power supplies and help them prepare so they know what to do when disasters do strike.",
@@ -2960,5 +3008,8 @@
       }
     ]
   },
-  "revision": "7690a984b1ea21b500129205acd760d156db2dacef1928aec83e668b5649651e"
+  "revision": "6146549199a5900e822478edbf0bdb577fe954193e35cb26861b54d470053ffa",
+  "compatibleProgressRevisions": [
+    "7690a984b1ea21b500129205acd760d156db2dacef1928aec83e668b5649651e"
+  ]
 }

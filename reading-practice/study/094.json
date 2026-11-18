@@ -2070,23 +2070,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       13,
       22
-    ],
-    "wordBank": [
-      "cluster",
-      "fewer",
-      "outlets",
-      "demand",
-      "trend",
-      "nearby",
-      "calculation",
-      "competed",
-      "anchor",
-      "retailer"
     ],
     "parts": [
       {
@@ -2158,6 +2146,12 @@
         "id": "c1",
         "number": 1,
         "answer": "nearby",
+        "options": [
+          "prominent",
+          "vacant",
+          "nearby",
+          "sizable"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 nearby（nearby）。结合上下文辨认词义与词形。",
         "evidence": "For each closed Walmart, we identified nearby non-Walmart businesses and compared their post-closure performance with that of businesses near Walmarts that stayed open.",
@@ -2167,6 +2161,12 @@
         "id": "c2",
         "number": 2,
         "answer": "trend",
+        "options": [
+          "critics",
+          "downside",
+          "behemoth",
+          "trend"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 trend（trend）。结合上下文辨认词义与词形。",
         "evidence": "We discovered not just a sizable decline in both shopper traffic and sales revenue after closure but a worsening trend in both over time.",
@@ -2176,6 +2176,12 @@
         "id": "c3",
         "number": 3,
         "answer": "anchor",
+        "options": [
+          "anchor",
+          "scholars",
+          "groceries",
+          "behemoth"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 anchor（anchor）。结合上下文辨认词义与词形。",
         "evidence": "The decline keeps getting worse, reaching about 17% in the ninth month and 20% a year after the anchor store closes.",
@@ -2185,6 +2191,12 @@
         "id": "c4",
         "number": 4,
         "answer": "fewer",
+        "options": [
+          "digital",
+          "independent",
+          "fewer",
+          "unbranded"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 fewer（fewer）。结合上下文辨认词义与词形。",
         "evidence": "Instead, what was also happening is that fewer shoppers visited nearby businesses after the anchor disappeared.",
@@ -2194,6 +2206,12 @@
         "id": "c5",
         "number": 5,
         "answer": "competed",
+        "options": [
+          "competed",
+          "greet",
+          "displaced",
+          "outweigh"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 competed（compete）。结合上下文辨认词义与词形。",
         "evidence": "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores.",
@@ -2203,6 +2221,12 @@
         "id": "c6",
         "number": 6,
         "answer": "demand",
+        "options": [
+          "downside",
+          "behemoth",
+          "closure",
+          "demand"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 demand（demand）。结合上下文辨认词义与词形。",
         "evidence": "That is what we would expect if competitive relief is real: Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand.",
@@ -2212,6 +2236,12 @@
         "id": "c7",
         "number": 7,
         "answer": "outlets",
+        "options": [
+          "outlets",
+          "scholars",
+          "meals",
+          "groceries"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 outlets（outlet）。结合上下文辨认词义与词形。",
         "evidence": "And stores surrounded by more outlets with its own brands also had more favorable post-closure sales.",
@@ -2221,6 +2251,12 @@
         "id": "c8",
         "number": 8,
         "answer": "cluster",
+        "options": [
+          "competes",
+          "disappears",
+          "cluster",
+          "celebrate"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 cluster（cluster）。结合上下文辨认词义与词形。",
         "evidence": "Not surprisingly, the more a business engages with customers online, the less it depends on people physically traveling to a cluster of stores.",
@@ -2230,6 +2266,12 @@
         "id": "c9",
         "number": 9,
         "answer": "retailer",
+        "options": [
+          "retailer",
+          "closure",
+          "assumption",
+          "behemoth"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 retailer（retailer）。结合上下文辨认词义与词形。",
         "evidence": "These patterns suggest that managers have options and can act: Opening another location or expanding online sales can protect a retailer from an anchor closure.",
@@ -2239,6 +2281,12 @@
         "id": "c10",
         "number": 10,
         "answer": "calculation",
+        "options": [
+          "competitors",
+          "downside",
+          "household",
+          "calculation"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 calculation（calculation）。结合上下文辨认词义与词形。",
         "evidence": "But the surrounding businesses face a different calculation.",
@@ -2327,5 +2375,8 @@
       }
     ]
   },
-  "revision": "e183362c231d84ebed28be7b60b03e5979be54f9e74ba8cbc723f6b4a161c3d0"
+  "revision": "0ce5a5ce578405cf9a734d4ab64810854702845464dbc0441aa1d47a154ac246",
+  "compatibleProgressRevisions": [
+    "e183362c231d84ebed28be7b60b03e5979be54f9e74ba8cbc723f6b4a161c3d0"
+  ]
 }

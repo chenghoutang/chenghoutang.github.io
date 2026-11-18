@@ -2136,23 +2136,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       3,
       13
-    ],
-    "wordBank": [
-      "elsewhere",
-      "ground",
-      "distant",
-      "hints",
-      "formation",
-      "proposal",
-      "primitive",
-      "colliding",
-      "matches",
-      "exogenous"
     ],
     "parts": [
       {
@@ -2224,6 +2212,12 @@
         "id": "c1",
         "number": 1,
         "answer": "ground",
+        "options": [
+          "planet",
+          "captured",
+          "ground",
+          "origins"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 ground（grind）。结合上下文辨认词义与词形。",
         "evidence": "About two weeks ago, ground controllers received the first signal from the spacecraft to check it is communicating normally.",
@@ -2233,6 +2227,12 @@
         "id": "c2",
         "number": 2,
         "answer": "formation",
+        "options": [
+          "debris",
+          "formation",
+          "origins",
+          "mission"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 formation（formation）。结合上下文辨认词义与词形。",
         "evidence": "Studying small bodies and comparing them with meteorites – natural samples of space rocks that reach Earth – helps scientists understand the formation and evolution of the Solar System.",
@@ -2242,6 +2242,12 @@
         "id": "c3",
         "number": 3,
         "answer": "hints",
+        "options": [
+          "hints",
+          "origins",
+          "moons",
+          "samples"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 hints（hint）。结合上下文辨认词义与词形。",
         "evidence": "Observations from the Soviet Union’s Phobos 2 spacecraft, which gathered data from its position in Martian orbit in 1989, and by researchers using Nasa’s Infrared Telescope Facility in the 2010s, have provided important hints about Phobos’ origins.",
@@ -2251,6 +2257,12 @@
         "id": "c4",
         "number": 4,
         "answer": "primitive",
+        "options": [
+          "debris",
+          "mission",
+          "planet",
+          "primitive"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 primitive（primitive）。结合上下文辨认词义与词形。",
         "evidence": "They showed that the Martian moon has spectral properties (the way a planetary surface absorbs and reflects light, providing information about its composition) resembling those of dark, primitive asteroids known as D-types.",
@@ -2260,6 +2272,12 @@
         "id": "c5",
         "number": 5,
         "answer": "proposal",
+        "options": [
+          "proposal",
+          "captured",
+          "debris",
+          "gravity"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 proposal（proposal）。结合上下文辨认词义与词形。",
         "evidence": "An alternative proposal suggests that Mars captured fragments of an asteroid torn apart by its gravity.",
@@ -2269,6 +2287,12 @@
         "id": "c6",
         "number": 6,
         "answer": "distant",
+        "options": [
+          "exogenous",
+          "distant",
+          "uncertain",
+          "experimental"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 distant（distant）。结合上下文辨认词义与词形。",
         "evidence": "However, this raises the question of how an object from the distant outer Solar System reached Mars.",
@@ -2278,6 +2302,12 @@
         "id": "c7",
         "number": 7,
         "answer": "matches",
+        "options": [
+          "moons",
+          "samples",
+          "matches",
+          "origins"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 matches（match）。结合上下文辨认词义与词形。",
         "evidence": "Although this scenario can explain aspects of their orbits, questions remain about whether their composition matches that expected from such an impact.",
@@ -2287,6 +2317,12 @@
         "id": "c8",
         "number": 8,
         "answer": "elsewhere",
+        "options": [
+          "uncertain",
+          "origins",
+          "planet",
+          "elsewhere"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 elsewhere（elsewhere）。结合上下文辨认词义与词形。",
         "evidence": "What if Phobos contains material from elsewhere? Mars’ largest moon may hold another important clue: material delivered from another part of the Solar System.",
@@ -2296,6 +2332,12 @@
         "id": "c9",
         "number": 9,
         "answer": "exogenous",
+        "options": [
+          "exogenous",
+          "distant",
+          "spectral",
+          "useful"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 exogenous（exogenous）。结合上下文辨认词义与词形。",
         "evidence": "Large impacts on Mars can eject rocks into space, some of which could eventually land on Phobos. Asteroids striking the moon directly could also leave fragments behind. Scientists call this exogenous material.",
@@ -2305,6 +2347,12 @@
         "id": "c10",
         "number": 10,
         "answer": "colliding",
+        "options": [
+          "absorbs",
+          "colliding",
+          "migrated",
+          "originated"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 colliding（collide）。结合上下文辨认词义与词形。",
         "evidence": "My research demonstrated that objects colliding with another planetary body can leave material on a target’s surface even at relatively low-impact velocities.",
@@ -2393,5 +2441,8 @@
       }
     ]
   },
-  "revision": "7319857a0b25ea1dd2793664a1d74369ce0d6a2cd6dd5374683d3f1d8a421e15"
+  "revision": "28de7ad684425fd2094646e3a366227b7c186241ae965b9c06439a143f41355c",
+  "compatibleProgressRevisions": [
+    "7319857a0b25ea1dd2793664a1d74369ce0d6a2cd6dd5374683d3f1d8a421e15"
+  ]
 }

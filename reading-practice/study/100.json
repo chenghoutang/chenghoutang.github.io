@@ -1307,23 +1307,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       14,
       31
-    ],
-    "wordBank": [
-      "According",
-      "median",
-      "persistent",
-      "Payment",
-      "associated",
-      "substantial",
-      "employment",
-      "unpaid",
-      "wellbeing",
-      "hardship"
     ],
     "parts": [
       {
@@ -1395,6 +1383,12 @@
         "id": "c1",
         "number": 1,
         "answer": "median",
+        "options": [
+          "shadow",
+          "according",
+          "median",
+          "poverty"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 median（median）。结合上下文辨认词义与词形。",
         "evidence": "By contrast, we found no statistically significant differences in early adulthood poverty between the income group just below the median and those who grew up in households with higher incomes.",
@@ -1404,6 +1398,12 @@
         "id": "c2",
         "number": 2,
         "answer": "According",
+        "options": [
+          "households",
+          "According",
+          "compounding",
+          "children"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 According（accord）。结合上下文辨认词义与词形。",
         "evidence": "According to 2026 ACOSS–UNSW research, 37% of children in sole-parent families were living in poverty in 2022–23, compared with 11% of children in partnered families.",
@@ -1413,6 +1413,12 @@
         "id": "c3",
         "number": 3,
         "answer": "unpaid",
+        "options": [
+          "unpaid",
+          "educational",
+          "likely",
+          "poverty"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 unpaid（unpaid）。结合上下文辨认词义与词形。",
         "evidence": "Low-income single-parent families face compounding pressures: even beyond obvious financial pressures, one parent also has to carry out all the unpaid work of child care and household tasks.",
@@ -1422,6 +1428,12 @@
         "id": "c4",
         "number": 4,
         "answer": "persistent",
+        "options": [
+          "according",
+          "combined",
+          "substantial",
+          "persistent"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 persistent（persistent）。结合上下文辨认词义与词形。",
         "evidence": "Not only are children in single-parent families more likely to experience poverty, our research showed that poverty is more persistent into adulthood, likely because of those compounding pressures.",
@@ -1431,6 +1443,12 @@
         "id": "c5",
         "number": 5,
         "answer": "wellbeing",
+        "options": [
+          "poverty",
+          "estimates",
+          "wellbeing",
+          "households"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 wellbeing（wellbeing）。结合上下文辨认词义与词形。",
         "evidence": "They found almost four out of five single mothers (78%) spent “a lot” or “almost all” of their time worrying about or planning for their family’s financial wellbeing.",
@@ -1440,6 +1458,12 @@
         "id": "c6",
         "number": 6,
         "answer": "employment",
+        "options": [
+          "households",
+          "employment",
+          "estimates",
+          "according"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 employment（employment）。结合上下文辨认词义与词形。",
         "evidence": "These included educational attainment, reduced employment, lower rates of partnering and poorer health.",
@@ -1449,6 +1473,12 @@
         "id": "c7",
         "number": 7,
         "answer": "associated",
+        "options": [
+          "associated",
+          "employed",
+          "according",
+          "locked"
+        ],
         "vocabularyId": "v24",
         "explanation": "原文此处使用 associated（associate）。结合上下文辨认词义与词形。",
         "evidence": "Some health measures were also associated with childhood economic circumstances.",
@@ -1458,6 +1488,12 @@
         "id": "c8",
         "number": 8,
         "answer": "substantial",
+        "options": [
+          "wealthy",
+          "untenable",
+          "estimates",
+          "substantial"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 substantial（substantial）。结合上下文辨认词义与词形。",
         "evidence": "But even when we accounted for them, the association between childhood poverty and early-adulthood poverty remained substantial.",
@@ -1467,6 +1503,12 @@
         "id": "c9",
         "number": 9,
         "answer": "hardship",
+        "options": [
+          "hardship",
+          "according",
+          "poverty",
+          "households"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 hardship（hardship）。结合上下文辨认词义与词形。",
         "evidence": "To significantly reduce adult poverty, we need more focus on directly reducing economic hardship in families with children, especially those from low-income single-parent families.",
@@ -1476,6 +1518,12 @@
         "id": "c10",
         "number": 10,
         "answer": "Payment",
+        "options": [
+          "childhood",
+          "Payment",
+          "combined",
+          "shadow"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 Payment（payment）。结合上下文辨认词义与词形。",
         "evidence": "In 2023, the Albanese government boosted financial support for low-income single parents, raising the age cut-off for the Parenting Payment (Single) until the youngest child turns 14.",
@@ -1564,5 +1612,8 @@
       }
     ]
   },
-  "revision": "0d78f87cd213a376c2bb0f20dfd48cbffc4c48ee70667d0539d681a9bb6b429a"
+  "revision": "e3f298d340d96cf5c9bf35363abe5b1b758772d2a9b4c08c31ff045f6a369593",
+  "compatibleProgressRevisions": [
+    "0d78f87cd213a376c2bb0f20dfd48cbffc4c48ee70667d0539d681a9bb6b429a"
+  ]
 }

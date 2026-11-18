@@ -1545,23 +1545,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       19
-    ],
-    "wordBank": [
-      "similarly",
-      "pitfalls",
-      "inventory",
-      "commences",
-      "addition",
-      "afford",
-      "smart",
-      "length",
-      "supply",
-      "except"
     ],
     "parts": [
       {
@@ -1633,6 +1621,12 @@
         "id": "c1",
         "number": 1,
         "answer": "afford",
+        "options": [
+          "afford",
+          "commences",
+          "promoting",
+          "minimizes"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 afford（afford）。结合上下文辨认词义与词形。",
         "evidence": "Some do this out of necessity: They can’t afford to buy all the gifts they want to give unless they spread the cost over multiple paychecks.",
@@ -1642,6 +1636,12 @@
         "id": "c2",
         "number": 2,
         "answer": "addition",
+        "options": [
+          "blankets",
+          "addition",
+          "shopping",
+          "scarves"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 addition（addition）。结合上下文辨认词义与词形。",
         "evidence": "In addition, 41% said they buy gifts early to avoid the stress associated with last-minute shopping.",
@@ -1651,6 +1651,12 @@
         "id": "c3",
         "number": 3,
         "answer": "commences",
+        "options": [
+          "promoting",
+          "adjusting",
+          "commences",
+          "restricts"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 commences（commence）。结合上下文辨认词义与词形。",
         "evidence": "By offering customers deals months before gift-giving commences, they can encourage even more people to join the early birds.",
@@ -1660,6 +1666,12 @@
         "id": "c4",
         "number": 4,
         "answer": "supply",
+        "options": [
+          "tinsel",
+          "shopping",
+          "sales",
+          "supply"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 supply（supply）。结合上下文辨认词义与词形。",
         "evidence": "It may ease pressure on their supply chain and logistics, since they can receive seasonal orders over three months instead of one or two.",
@@ -1669,6 +1681,12 @@
         "id": "c5",
         "number": 5,
         "answer": "inventory",
+        "options": [
+          "inventory",
+          "blankets",
+          "holiday",
+          "scarves"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 inventory（inventory）。结合上下文辨认词义与词形。",
         "evidence": "Building more time into the calendar to move seasonal inventory gives retailers more opportunities to sell those items.",
@@ -1678,6 +1696,12 @@
         "id": "c6",
         "number": 6,
         "answer": "pitfalls",
+        "options": [
+          "paychecks",
+          "pitfalls",
+          "scarves",
+          "blankets"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 pitfalls（pitfall）。结合上下文辨认词义与词形。",
         "evidence": "Beware of some early-shopping pitfalls",
@@ -1687,6 +1711,12 @@
         "id": "c7",
         "number": 7,
         "answer": "length",
+        "options": [
+          "scarves",
+          "holiday",
+          "length",
+          "shopping"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 length（length）。结合上下文辨认词义与词形。",
         "evidence": "Many big retailers are making their return policies more restrictive by shortening the length of time you can return purchases and adding return/restocking fees.",
@@ -1696,6 +1726,12 @@
         "id": "c8",
         "number": 8,
         "answer": "similarly",
+        "options": [
+          "scarves",
+          "necessarily",
+          "gradually",
+          "similarly"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 similarly（similarly）。结合上下文辨认词义与词形。",
         "evidence": "Target similarly restricts its holiday-season returns window to items bought on or after Nov.",
@@ -1705,6 +1741,12 @@
         "id": "c9",
         "number": 9,
         "answer": "except",
+        "options": [
+          "except",
+          "minimizes",
+          "secure",
+          "afford"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 except（except）。结合上下文辨认词义与词形。",
         "evidence": "If you buy an item from Nov. 1 to Dec. 31, it can be returned until Jan. 31, 2027, except for Apple products, which can be returned until Jan.",
@@ -1714,6 +1756,12 @@
         "id": "c10",
         "number": 10,
         "answer": "smart",
+        "options": [
+          "tinsel",
+          "shopping",
+          "smart",
+          "scarves"
+        ],
         "vocabularyId": "v92",
         "explanation": "原文此处使用 smart（smart）。结合上下文辨认词义与词形。",
         "evidence": "Shopping early is smart when the costs of waiting could outweigh the potential benefits of spending your money earlier than otherwise necessary.",
@@ -1802,5 +1850,8 @@
       }
     ]
   },
-  "revision": "6bc2a916d72a173f75e8f778d897ba7ff3e035d1d213f0b039740f43a48bb95a"
+  "revision": "b4cd95bf039c86d7d83bededc9d63ff5291eb5cbf42056de72bd40fc5db8a5c5",
+  "compatibleProgressRevisions": [
+    "6bc2a916d72a173f75e8f778d897ba7ff3e035d1d213f0b039740f43a48bb95a"
+  ]
 }

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 5,
+  "folder": "023",
+  "articleSha256": "b52d09bd62ff63483933469ad3fb40a9e80c68823b09871aad74e55ac73a0454",
+  "titleEn": "Far from farms and cities, dry climates are boosting river nitrate pollution",
+  "titleZh": "远离农田与城市，干旱气候仍可能加重河流硝酸盐污染",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
+      "zh": "通常情况下，当人们听到硝酸盐时，它涉及农田，污水系统和城市的径流，这些径流可能会助长有害的藻类繁殖，并增加婴儿患上严重疾病的风险，称为“蓝色婴儿综合症”。"
+    },
+    {
+      "number": 2,
+      "en": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
+      "zh": "但是，一条河流也可以流经人口稀少的景观，几乎没有农业，仍然含有高得惊人的这种形式的氮，可以伤害水生生物，饮用水和人类健康。"
+    },
+    {
+      "number": 3,
+      "en": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
+      "zh": "在一项新的研究中，我和我的同事发现了发生这种情况的原因：干燥的气候条件与河流硝酸盐浓度高有关，即使在农业或城市发展很少的地方也是如此。"
+    },
+    {
+      "number": 4,
+      "en": "We found nitrate hot spots in some unexpected places, including the Rocky Mountains of the western United States and northern Africa’s Sahara Desert. Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
+      "zh": "我们在一些意想不到的地方发现了硝酸盐热点，包括美国西部的落基山脉和北方非洲的撒哈拉沙漠。在缺水的地方，我们发现硝酸盐--随着微生物分解有机物质，硝酸盐可以自然地从土壤中渗入地表水和地下水--能够积累并浓缩，而不是被稀释或冲走。"
+    },
+    {
+      "number": 5,
+      "en": "That raises health concerns for regions where nitrates in rivers and well water might not be given much thought. It also raises questions about how nitrate-related health risks will increase as global temperatures rise.",
+      "zh": "这引发了人们对河流和井水中硝酸盐含量可能不太重视的地区的健康问题，也引发了人们对硝酸盐相关健康风险如何随着全球气温上升而增加的问题。"
+    },
+    {
+      "number": 6,
+      "en": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features. We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
+      "zh": "为了了解这种模式的普遍程度，我们结合了来自7,000多个监测点的全球测量数据，并提取了有关气候、土壤、土地利用和其他景观特征的信息。然后，我们训练了机器学习模型，以估计全球近290万条河流的长期平均硝酸盐浓度。"
+    },
+    {
+      "number": 7,
+      "en": "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
+      "zh": "由此产生的地图表明，硝酸盐值得关注的范围远远超出了通常监测硝酸盐的城市和农业地区。"
+    },
+    {
+      "number": 8,
+      "en": "Why it matters",
+      "zh": "Why it matters"
+    },
+    {
+      "number": 9,
+      "en": "High nitrate exposure in water and food is particularly dangerous for infants because it can interfere with the blood’s ability to carry oxygen. Blue baby syndrome, or methemoglobinemia, can result in serious illnesses and be caused by nitrate poisoning.",
+      "zh": "水和食物中的高硝酸盐暴露对婴儿特别危险，因为它会干扰血液携带氧气的能力。蓝婴综合症或高铁血红蛋白血症可能导致严重疾病，并由硝酸盐中毒引起。"
+    },
+    {
+      "number": 10,
+      "en": "The U.S. drinking water standard of 10 milligrams of nitrate-nitrogen per liter was established primarily to guard against this acute risk.",
+      "zh": "美国饮用水标准为每升10毫克硝酸盐氮，主要是为了防止这种急性风险。"
+    },
+    {
+      "number": 11,
+      "en": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
+      "zh": "我们估计，全球约有37，000人生活在河流超过10 mg/L饮用水标准的地区，主要是在美国玉米带。"
+    },
+    {
+      "number": 12,
+      "en": "That doesn’t mean 37,000 people are drinking water at those concentrations, since river water in many regions is treated before it is supplied for drinking. But it’s a concerning level they should be aware of, particularly those using well water.",
+      "zh": "这并不意味着有3.7万人饮用的水浓度达到了这个水平，因为许多地区的河水在供应饮用前都经过了处理。但这是一个值得关注的水平，尤其是那些使用井水的人。"
+    },
+    {
+      "number": 13,
+      "en": "Research has also raised concerns about possible effects of long-term exposure to nitrate at lower concentrations, including certain cancers and adverse birth outcomes, such as babies born preterm or with a low birth weight, although those risks are still being studied.",
+      "zh": "研究还提出了对长期暴露于较低浓度硝酸盐的可能影响的担忧，包括某些癌症和不良出生结果，例如早产或出生体重低的婴儿，尽管这些风险仍在研究中。"
+    },
+    {
+      "number": 14,
+      "en": "We estimate that about 480 million people worldwide live in areas where nearby rivers have elevated long-term average nitrate concentrations, above 2.5 milligrams per liter.",
+      "zh": "我们估计，全球约有4.8亿人生活在附近河流长期平均硝酸盐浓度升高的地区，超过每升2.5毫克。"
+    },
+    {
+      "number": 15,
+      "en": "Many of the rivers our models identified as having elevated nitrate levels are small headwater streams. Many headwater streams cease to flow for some periods of time every year, and nitrates can accumulate to high concentrations under dry or low-flow conditions. These small streams make up most of the global river networks, have long been overlooked and feed larger rivers that supply drinking water to large populations and help shape the quality of water downstream.",
+      "zh": "在我们的模型中，许多被确定为硝酸盐含量升高的河流都是小型源头河流。许多源头河流每年都会有一段时间停止流动，在干旱或低流量条件下，硝酸盐会积累到高浓度。这些小型河流构成了全球河流网络的大部分，长期以来一直被忽视，它们为更大的河流提供水源，为大量人口提供饮用水，并帮助塑造下游的水质。"
+    },
+    {
+      "number": 16,
+      "en": "Too much nitrate in rivers and lakes can also fuel algal growth and disrupt aquatic ecosystems.",
+      "zh": "河流和湖泊中过多的硝酸盐也会促进藻类生长，破坏水生生态系统。"
+    },
+    {
+      "number": 17,
+      "en": "What we still don’t know",
+      "zh": "我们还不知道的是"
+    },
+    {
+      "number": 18,
+      "en": "A global map of nitrate concentrations in river water cannot show what comes out of someone’s tap. Their water may be mixed with other sources or treated before they drink it. Nitrate concentrations can also rise and fall over time, while our map shows long-term averages.",
+      "zh": "全球河水硝酸盐浓度地图无法显示某个人的水龙头流出的是什么。他们的水可能与其他水源混合，或者在饮用前进行了处理。硝酸盐浓度也会随着时间的推移而上升和下降，而我们的地图显示的是长期平均值。"
+    },
+    {
+      "number": 19,
+      "en": "To understand a person’s actual exposure will require connecting river measurements with drinking water sources, treatment practices and tests of water delivered to households.",
+      "zh": "要了解一个人的实际接触情况，就需要将河流测量与饮用水源、处理做法和向家庭供水的测试联系起来。"
+    },
+    {
+      "number": 20,
+      "en": "Many rivers with nitrate concentrations above 2.5 milligrams per liter flow through sparsely populated regions where access to treated drinking water may be limited. Even where treatment facilities exist, conventional methods remove little nitrate. Removing it requires specialized technologies that can be costly to operate.",
+      "zh": "许多硝酸盐浓度高于2.5毫克/升的河流流经人口稀少的地区，这些地区获得经过处理的饮用水的机会可能有限。即使在有处理设施的地方，传统方法也只能去除很少的硝酸盐。去除硝酸盐需要专门的技术，操作成本可能很高。"
+    },
+    {
+      "number": 21,
+      "en": "What comes next",
+      "zh": "接下来会发生什么"
+    },
+    {
+      "number": 22,
+      "en": "Our study shows why more drylands and small headwater streams need to be monitored for nitrate. It also raises a question for a warming world: If a region becomes drier, how much will nitrate concentrations rise even if people do not add more nitrogen to the landscape?",
+      "zh": "我们的研究揭示了为什么需要对更多的旱地和小源头溪流进行硝酸盐监测。它还为变暖的世界提出了一个问题：如果一个地区变得更干燥，即使人们不向景观中添加更多的氮，硝酸盐浓度会上升多少？"
+    },
+    {
+      "number": 23,
+      "en": "Answering that will require measurements through wet and dry periods, paired with studies of how water moves through soils, groundwater and rivers. For now, the message is clear: Protecting water quality requires paying attention to the climate as well as to the human activities that put nitrogen into the environment.",
+      "zh": "要做到这一点，就需要在干湿两个时期进行测量，同时研究水在土壤、地下水和河流中的流动情况。就目前而言，信息是明确的：保护水质需要关注气候，也需要关注向环境中排放氮的人类活动。"
+    }
+  ]
+}

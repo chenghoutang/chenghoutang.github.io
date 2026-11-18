@@ -2182,23 +2182,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       13,
       32
-    ],
-    "wordBank": [
-      "sweat",
-      "scent",
-      "tester",
-      "stable",
-      "absorb",
-      "skips",
-      "rapidly",
-      "suppress",
-      "naturally",
-      "smell"
     ],
     "parts": [
       {
@@ -2270,6 +2258,12 @@
         "id": "c1",
         "number": 1,
         "answer": "tester",
+        "options": [
+          "fragrance",
+          "tester",
+          "mixture",
+          "smell"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 tester（tester）。结合上下文辨认词义与词形。",
         "evidence": "While a paper tester strip is a fairly neutral surface, we have various molecules on the skin.",
@@ -2279,6 +2273,12 @@
         "id": "c2",
         "number": 2,
         "answer": "scent",
+        "options": [
+          "limonene",
+          "perfume",
+          "scent",
+          "sprayed"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 scent（scent）。结合上下文辨认词义与词形。",
         "evidence": "These interact with the perfume and can not only change the order of the molecules being released, but also alter or mask the resulting scent.",
@@ -2288,6 +2288,12 @@
         "id": "c3",
         "number": 3,
         "answer": "absorb",
+        "options": [
+          "detect",
+          "amazing",
+          "evaporate",
+          "absorb"
+        ],
         "vocabularyId": "v83",
         "explanation": "原文此处使用 absorb（absorb）。结合上下文辨认词义与词形。",
         "evidence": "Dry skin tends to absorb heavier or larger fragrance molecules more readily, while moist or oily skin provides a better surface for fragrance molecules to sit on and evaporate gradually.",
@@ -2297,6 +2303,12 @@
         "id": "c4",
         "number": 4,
         "answer": "smell",
+        "options": [
+          "smell",
+          "mixture",
+          "limonene",
+          "perfume"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 smell（smell）。结合上下文辨认词义与词形。",
         "evidence": "This often improves how long the perfume lasts and its projection – how much others around you can smell it.",
@@ -2306,6 +2318,12 @@
         "id": "c5",
         "number": 5,
         "answer": "naturally",
+        "options": [
+          "typically",
+          "slowly",
+          "naturally",
+          "fairly"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 naturally（naturally）。结合上下文辨认词义与词形。",
         "evidence": "A person with naturally warmer skin may experience top notes disappearing much faster.",
@@ -2315,6 +2333,12 @@
         "id": "c6",
         "number": 6,
         "answer": "skips",
+        "options": [
+          "skips",
+          "citrus",
+          "billions",
+          "microbes"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 skips（skip）。结合上下文辨认词义与词形。",
         "evidence": "This can make it seem as though the perfume “skips” the top notes.",
@@ -2324,6 +2348,12 @@
         "id": "c7",
         "number": 7,
         "answer": "stable",
+        "options": [
+          "chemistry",
+          "sprayed",
+          "perfume",
+          "stable"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 stable（stable）。结合上下文辨认词义与词形。",
         "evidence": "While most fragrance ingredients remain stable within this range, subtle pH changes could cause fragrance ingredients to react differently.",
@@ -2333,6 +2363,12 @@
         "id": "c8",
         "number": 8,
         "answer": "rapidly",
+        "options": [
+          "mainly",
+          "typically",
+          "rapidly",
+          "highly"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 rapidly（rapidly）。结合上下文辨认词义与词形。",
         "evidence": "As a result some floral notes may weaken, some musks may become more prominent, some citrus notes may smell sharper or disappear rapidly.",
@@ -2342,6 +2378,12 @@
         "id": "c9",
         "number": 9,
         "answer": "sweat",
+        "options": [
+          "smell",
+          "sweat",
+          "sprayed",
+          "citrus"
+        ],
         "vocabularyId": "v115",
         "explanation": "原文此处使用 sweat（sweat）。结合上下文辨认词义与词形。",
         "evidence": "These microbes interact with compounds found in sweat and skin oils, producing volatile organic compounds that contribute to each person’s unique scent profile.",
@@ -2351,6 +2393,12 @@
         "id": "c10",
         "number": 10,
         "answer": "suppress",
+        "options": [
+          "suppress",
+          "absorb",
+          "linger",
+          "amazing"
+        ],
         "vocabularyId": "v124",
         "explanation": "原文此处使用 suppress（suppress）。结合上下文辨认词义与词形。",
         "evidence": "This can produce new odours, enhance some notes, or suppress others.",
@@ -2439,5 +2487,8 @@
       }
     ]
   },
-  "revision": "a347c45b9c699d637f7aa07601847fe461501801ed96a476504509d7d96d2b4d"
+  "revision": "a8654d1eb7946784198d63fedac002438fbb5ff595ec1c978bae340ac6e548fe",
+  "compatibleProgressRevisions": [
+    "a347c45b9c699d637f7aa07601847fe461501801ed96a476504509d7d96d2b4d"
+  ]
 }

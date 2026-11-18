@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 5,
+  "folder": "007",
+  "articleSha256": "88c8acfc49645b1544c4287efc0b5cd6f40f8e4ec3c3e6d4c8b453e2e381bb6f",
+  "titleEn": "Could these bacteria-killing viruses help fight antibiotic resistance? A new discovery takes us closer",
+  "titleZh": "能杀死细菌的病毒，能否帮助对抗抗生素耐药性？",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "With their spindly legs and geometric heads, they look more like miniature spacecraft than anything living on Earth. But bacteriophages, or simply phages, are among the most abundant biological entities on the planet.",
+      "zh": "有着细长的腿和几何形状的头，它们看起来更像是微型宇宙飞船，而不是地球上的任何生物。但是噬菌体，或者简称为噬菌体，是地球上最丰富的生物实体之一。"
+    },
+    {
+      "number": 2,
+      "en": "These microscopic agents are viruses that can infect and kill bacteria, offering an intriguing alternative to antibiotics at a time that drug-resistant infections are threatening global health.",
+      "zh": "这些微观媒介是可以感染和杀死细菌的病毒，在耐药性感染威胁全球健康的时候，提供了一种有趣的抗生素替代品。"
+    },
+    {
+      "number": 3,
+      "en": "Despite decades of research, however, scientists still know surprisingly little about how most phages work. Many of their genes have functions that remain a mystery, limiting their potential in medicine and elsewhere.",
+      "zh": "然而，尽管进行了数十年的研究，科学家们对大多数基因的工作原理仍然知之甚少。它们中的许多基因的功能仍然是个谜，限制了它们在医学和其他领域的潜力。"
+    },
+    {
+      "number": 4,
+      "en": "Now, our new research offers a way to investigate them in greater detail. We’ve developed a method to pinpoint which genes phages need to function, and to insert new genetic material into their genomes within days.",
+      "zh": "现在，我们的新研究提供了一种更详细地研究它们的方法。我们已经开发出一种方法来确定哪些基因需要发挥作用，并在几天内将新的遗传物质插入它们的基因组。"
+    },
+    {
+      "number": 5,
+      "en": "This might eventually help researchers engineer phages that are better at attacking harmful bacteria – opening up possibilities for treating infections that conventional antibiotics struggle against.",
+      "zh": "这可能最终帮助研究人员设计出更好地攻击有害细菌的抗生素，为治疗传统抗生素难以对付的感染开辟了可能性。"
+    },
+    {
+      "number": 6,
+      "en": "Why phages are making a comeback",
+      "zh": "为什么现在的美国人要卷土重来"
+    },
+    {
+      "number": 7,
+      "en": "Long before antibiotics became the standard treatment for bacterial infections, doctors were using phages to fight them.",
+      "zh": "早在抗生素成为细菌感染的标准治疗方法之前，医生们就在使用抗生素来对抗它们。"
+    },
+    {
+      "number": 8,
+      "en": "Phages were first used in this way a century ago. But with the arrival of antibiotics, inconsistent results from early phage treatments and the onset of the Cold War, their medical use declined in Western countries.",
+      "zh": "噬菌体最初是在世纪前以这种方式使用的，但随着抗生素的出现、早期噬菌体治疗的不一致结果以及冷战的爆发，它们在西方国家的医疗用途有所下降。"
+    },
+    {
+      "number": 9,
+      "en": "In his 1945 Nobel Prize lecture, Alexander Fleming, who discovered penicillin, warned that bacteria could develop resistance to antibiotics. His warning proved prescient.",
+      "zh": "发现青霉素的亚历山大弗莱明在1945年的诺贝尔奖演讲中警告说，细菌可能会对抗生素产生抗药性，事实证明他的警告是有先见之明的。"
+    },
+    {
+      "number": 10,
+      "en": "As new antibiotics were developed, resistant bacteria emerged, helped by the overuse and misuse of these drugs. Today, antibiotic resistance is projected to contribute to more than eight million deaths annually by 2050, prompting renewed interest in phage-based treatments.",
+      "zh": "随着新抗生素的开发，耐药细菌出现了，这得益于这些药物的过度使用和误用。如今，预计到2050年，抗生素耐药性每年将导致800多万人死亡，这促使人们对基于噬菌体的治疗重新产生兴趣。"
+    },
+    {
+      "number": 11,
+      "en": "Despite their growing use in medicine and agriculture, much of what we know about phages comes from a small number of well-studied examples. Their vast diversity, and the functions of many of their genes, remain largely unexplored.",
+      "zh": "尽管它们在医学和农业中的应用越来越广泛，但我们对它们的了解大多来自于少数经过充分研究的例子，它们的巨大多样性及其许多基因的功能在很大程度上仍未被探索。"
+    },
+    {
+      "number": 12,
+      "en": "Like humans, phages have genomes containing genes that carry instructions for making proteins. These proteins determine how the viruses function, including how they infect bacteria and reproduce.",
+      "zh": "像人类一样，病毒的基因组中含有制造蛋白质的基因，这些蛋白质决定了病毒的功能，包括它们如何感染细菌和繁殖。"
+    },
+    {
+      "number": 13,
+      "en": "To investigate phage gene function, scientists need tools that can boost our understanding and turn new knowledge into practical applications.",
+      "zh": "为了研究噬菌体基因的功能，科学家们需要能够提高我们的理解并将新知识转化为实际应用的工具。"
+    },
+    {
+      "number": 14,
+      "en": "Bridging the knowledge gap",
+      "zh": "缩小知识差距"
+    },
+    {
+      "number": 15,
+      "en": "Current methods for studying and modifying phages can be time-consuming, work only with certain bacteria, or require detailed knowledge of the phage’s genome.",
+      "zh": "目前研究和修饰噬菌体的方法可能很耗时，只对某些细菌有效，或者需要对噬菌体基因组有详细的了解。"
+    },
+    {
+      "number": 16,
+      "en": "We wanted to overcome these limitations by developing a method that could work across different phages and their bacterial hosts. To do this, we harnessed transposons – mobile pieces of DNA that insert themselves into random positions in a genome and disrupt gene function.",
+      "zh": "为了克服这些局限性，我们开发了一种方法，可以在不同的细菌及其宿主中发挥作用，为此，我们利用了转座子--一种移动的DNA片段，可以将自己插入基因组的随机位置，破坏基因功能。"
+    },
+    {
+      "number": 17,
+      "en": "Our approach, called Phage Tn-seq (transposon sequencing), combines these insertions with DNA sequencing, allowing us to pinpoint where mutations occur and how they affect the phage.",
+      "zh": "我们的方法，称为噬菌体Tn-seq（转座子测序），将这些插入与DNA测序相结合，使我们能够确定突变发生的位置以及它们如何影响噬菌体。"
+    },
+    {
+      "number": 18,
+      "en": "Since the late 2000s, similar techniques have helped scientists understand bacterial gene function. Typically, transposons carry an antibiotic resistance gene, allowing bacteria that receive them to survive antibiotic treatment.",
+      "zh": "自21世纪末以来，类似的技术帮助科学家了解了细菌的基因功能。通常情况下，转座子携带抗生素抗性基因，允许接受它们的细菌在抗生素治疗中存活。"
+    },
+    {
+      "number": 19,
+      "en": "But this doesn’t work directly with phages, which aren’t affected by antibiotics. Instead, we exploited what has been described as a molecular “arms race” between bacteria and the phages that infect them.",
+      "zh": "但这并不直接作用于不受抗生素影响的细菌，相反，我们利用了细菌和感染它们的细菌之间被描述为分子“军备竞赛”的现象。"
+    },
+    {
+      "number": 20,
+      "en": "Bacteria have evolved CRISPR-Cas immune systems, which recognise and cut up invading viral DNA, to defend themselves against phages. In turn, some phages have developed anti-CRISPR proteins that overcome these defences.",
+      "zh": "细菌已经进化出了CRISPR-Cas免疫系统，该系统可以识别并切割入侵的病毒DNA，以保护自己免受细菌的侵害。反过来，一些细菌已经开发出了克服这些防御的抗CRISPR蛋白。"
+    },
+    {
+      "number": 21,
+      "en": "We used one of these proteins, carried on the transposon, instead of an antibiotic resistance gene. By applying CRISPR-Cas selection, we could eliminate phages that hadn’t received the transposon. This left us with a pool of phages carrying different mutations, which we could study to identify the function of their genes.",
+      "zh": "我们使用转座子上携带的这些蛋白质之一，而不是抗生素抗性基因。通过应用CRISPR-Cas选择，我们可以消除没有接受转座子的突变体。这给我们留下了一个携带不同突变的突变体库，我们可以研究这些突变体，以确定它们基因的功能。"
+    },
+    {
+      "number": 22,
+      "en": "Disrupting a phage gene might have no noticeable effect, reduce the phage’s ability to function, or prevent it from replicating. By sequencing the DNA, we can locate these mutations and see which ones are rare or absent.",
+      "zh": "破坏噬菌体基因可能没有明显的效果，降低噬菌体的功能，或阻止它复制。通过DNA测序，我们可以定位这些突变，看看哪些是罕见的或不存在的。"
+    },
+    {
+      "number": 23,
+      "en": "These gaps tell us which genes are essential for the phage to reproduce, allowing us to map the genes it needs to successfully infect bacteria.",
+      "zh": "这些缺口告诉我们哪些基因是噬菌体繁殖所必需的，使我们能够绘制成功感染细菌所需的基因。"
+    },
+    {
+      "number": 24,
+      "en": "Building better phages",
+      "zh": "建设更好的城市"
+    },
+    {
+      "number": 25,
+      "en": "Having developed a way to identify which genes phages need, we wanted to see whether the same technique could give them new abilities.",
+      "zh": "在开发出一种方法来确定哪些基因是人类所需要的之后，我们想看看同样的技术是否能赋予他们新的能力。"
+    },
+    {
+      "number": 26,
+      "en": "Our method automatically selects phages that survive transposon insertion. We tested whether we could use this process to introduce additional “cargo” genes into their genomes.",
+      "zh": "我们的方法自动选择转座子插入后存活下来的果蝇，我们测试了是否可以利用这个过程将额外的“货物”基因引入它们的基因组。"
+    },
+    {
+      "number": 27,
+      "en": "We then added a gene encoding green fluorescent protein, causing infected bacterial cells to glow bright green under a microscope. While this served as a demonstration, the technique could potentially introduce genes that make phages more effective at killing bacteria.",
+      "zh": "然后，我们添加了一个编码绿色荧光蛋白的基因，使感染的细菌细胞在显微镜下发出明亮的绿色光。虽然这是一个示范，但这项技术可能会引入基因，使荧光蛋白更有效地杀死细菌。"
+    },
+    {
+      "number": 28,
+      "en": "In this space, one promising application involves biofilms – communities of bacteria that clump together inside protective, sugar-based shells, making infections difficult to treat with antibiotics.",
+      "zh": "在这个领域，一个有前途的应用涉及生物膜-细菌群落聚集在保护性的糖基外壳内，使感染难以用抗生素治疗。"
+    },
+    {
+      "number": 29,
+      "en": "Using Phage Tn-seq, researchers might engineer phages to produce proteins that break down these layers while attacking the bacteria themselves. This could also make antibiotics, often used alongside phages, more effective.",
+      "zh": "利用噬菌体Tn-seq，研究人员可能会设计出一种蛋白质，这种蛋白质可以在攻击细菌本身的同时破坏这些层。这也可以使通常与抗生素一起使用的抗生素更加有效。"
+    },
+    {
+      "number": 30,
+      "en": "Several countries, including the United States and some European Union members, have introduced programmes offering personalised phage therapy to selected patients, sometimes using genetically modified phages.",
+      "zh": "包括美国和一些欧盟成员国在内的几个国家已经推出了为选定的患者提供个性化噬菌体治疗的计划，有时使用转基因药物。"
+    },
+    {
+      "number": 31,
+      "en": "In New Zealand, however, phage therapy is not routinely available as a treatment option, partly because of regulatory hurdles and gaps in our understanding of these viruses.",
+      "zh": "然而，在新西兰，噬菌体疗法并不是常规的治疗选择，部分原因是我们对这些病毒的理解存在监管障碍和差距。"
+    },
+    {
+      "number": 32,
+      "en": "Our research won’t overcome those barriers overnight. But by giving scientists new tools to understand and modify phages, it could lay the groundwork for a wider range of applications.",
+      "zh": "我们的研究不会在一夜之间克服这些障碍，但通过为科学家提供新的工具来理解和修改这些障碍，它可以为更广泛的应用奠定基础。"
+    }
+  ]
+}

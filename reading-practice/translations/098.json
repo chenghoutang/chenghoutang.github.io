@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 5,
+  "folder": "098",
+  "articleSha256": "32fa0e86930ae077793cba71cada8e2bbe9f94ca17300c7fd0d1fae531b5d362",
+  "titleEn": "We studied 1,584 data centers – and found the buildings full of machines are tied to modest local job growth",
+  "titleZh": "研究 1,584 座数据中心：满楼机器带来的当地就业增长其实有限",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "Data centers require enormous investments: land, buildings, computer equipment and power infrastructure. Yet, once they’re up and running, they tend to employ no more than a few dozen people in occupations such as IT technicians, engineers and security guards. With billions of dollars flowing into new data centers across the United States, communities are asking what they will get in return.",
+      "zh": "数据中心需要巨大的投资：土地、建筑、计算机设备和电力基础设施。然而，一旦它们建成并投入运营，它们往往只雇佣几十名IT技术人员、工程师和保安等职业的员工。随着数十亿美元流入美国各地的新数据中心，社区正在问他们会得到什么回报。"
+    },
+    {
+      "number": 2,
+      "en": "Skepticism about the local benefits of data centers is contributing to growing opposition to their construction, from Ohio to Texas. That pushback contributed to delays or cancellations of US$156 billion in proposed data center projects in 2025 alone.",
+      "zh": "从俄亥俄州到得克萨斯州，对数据中心的本地效益持怀疑态度，导致越来越多的人反对数据中心的建设。这种抵制导致仅2025年就有1560亿美元的拟议数据中心项目被推迟或取消。"
+    },
+    {
+      "number": 3,
+      "en": "We are professors who study real estate and urban economics, including how large place-based investments shape local economies. So we set out to answer a question at the center of these fights: Do data centers actually create jobs where they are built?",
+      "zh": "我们是研究真实的房地产和城市经济学的教授，包括大型地方投资如何塑造地方经济。因此，我们开始回答这些争论的核心问题：数据中心真的会在它们建造的地方创造就业机会吗？"
+    },
+    {
+      "number": 4,
+      "en": "To find out, we teamed up with four colleagues to study what happens to local employment after data centers open. We found that new data centers that opened from 2000-2023 created 1,000 to 1,300 jobs in the counties where they are located, on average. But those jobs, which are for work performed outside data centers rather than inside them, take a few years to appear. They are mostly in industries that support data centers, not in restaurants or shops.",
+      "zh": "为了找到答案，我们与四位同事合作，研究数据中心开放后当地就业情况。我们发现，2000年至2023年开放的新数据中心平均在其所在的县创造了1,000至1,300个就业机会。但这些工作是在数据中心之外而不是在数据中心内部进行的工作，他们大多数是在支持数据中心的行业，而不是在餐馆或商店。"
+    },
+    {
+      "number": 5,
+      "en": "How data centers create local jobs",
+      "zh": "数据中心如何创造本地就业机会"
+    },
+    {
+      "number": 6,
+      "en": "Data centers can create jobs in at least three ways beyond employing people who work inside them.",
+      "zh": "数据中心至少可以通过三种方式创造就业机会，而不仅仅是雇佣在数据中心工作的人。"
+    },
+    {
+      "number": 7,
+      "en": "First, they can increase demand for local suppliers, from security companies that protect the facilities to electrical contractors that maintain their equipment.",
+      "zh": "首先，他们可以增加对当地供应商的需求，从保护设施的安全公司到维护设备的电气承包商。"
+    },
+    {
+      "number": 8,
+      "en": "Second, data center employees and workers at these suppliers may spend more money locally, supporting restaurants, stores and other local services.",
+      "zh": "其次，这些供应商的数据中心员工和工人可能会在本地花费更多的钱，支持餐馆，商店和其他本地服务。"
+    },
+    {
+      "number": 9,
+      "en": "Third, companies already operating data centers may expand their facilities, while other operators may decide to build nearby. Once a location has the electricity, fiber connections and other infrastructure needed to operate a data center, further investment may become easier.",
+      "zh": "第三，已经在运营数据中心的公司可能会扩大他们的设施，而其他运营商可能会决定在附近建造。一旦一个地点拥有运营数据中心所需的电力、光纤连接和其他基础设施，进一步的投资可能会变得更容易。"
+    },
+    {
+      "number": 10,
+      "en": "Tracking data centers and jobs",
+      "zh": "跟踪数据中心和工作"
+    },
+    {
+      "number": 11,
+      "en": "We assembled detailed information on 1,584 U.S. data centers that opened between 2000 and 2023. For each facility, we recorded its location, opening date and power capacity, which is a standard way to compare facilities of different sizes. We then matched these records with federal data on employment, wages and the number of businesses in each county.",
+      "zh": "我们收集了2000年至2023年期间开放的1,584个美国数据中心的详细信息。我们记录了每个设施的位置、开放日期和电力容量，这是比较不同规模设施的标准方法。然后，我们将这些记录与每个县的就业、工资和企业数量等联邦数据进行了匹配。"
+    },
+    {
+      "number": 12,
+      "en": "Isolating the effect of data centers isn’t straightforward. Operators don’t choose locations randomly. They look for reliable electricity, fiber connections, available land and friendly local regulations. Those places may already be growing, so new jobs might have appeared even without a data center.",
+      "zh": "孤立数据中心的影响并不简单。运营商不会随机选择地点。他们寻找可靠的电力、光纤连接、可用的土地和友好的地方法规。这些地方可能已经在增长，因此即使没有数据中心，新的就业机会也可能已经出现。"
+    },
+    {
+      "number": 13,
+      "en": "To account for this, we tracked employment in counties that received data centers – such as Loudoun County in Virginia, Berkeley County in South Carolina, Morrow County in Oregon, and others – before and after the operation of the facility began. We then compared those trends with similar counties that did not receive data centers. We also looked at whether larger facilities brought bigger job gains.",
+      "zh": "为了说明这一点，我们跟踪了数据中心投入运营前后的就业情况，比如弗吉尼亚州的劳登县、南卡罗来纳州的伯克利县、俄勒冈州的莫罗县等，然后将这些趋势与没有数据中心的类似县进行了比较，我们还研究了更大的设施是否带来了更大的就业增长。"
+    },
+    {
+      "number": 14,
+      "en": "Jobs appear, but not immediately",
+      "zh": "就业机会出现，但不会立即出现"
+    },
+    {
+      "number": 15,
+      "en": "During the first two years after a county’s first data center opened, we found little change in employment outside construction. After that, jobs begin to grow. Three to five years after a center opened, we found that these counties had roughly 1,000 to 1,300 additional nonconstruction jobs than comparable counties without data centers.",
+      "zh": "在一个县的第一个数据中心开业后的头两年，我们发现建筑业以外的就业几乎没有变化。之后，就业机会开始增长。在一个中心开业后的三到五年，我们发现这些县比没有数据中心的可比县增加了大约1，000到1，300个非建筑业就业机会。"
+    },
+    {
+      "number": 16,
+      "en": "Bigger investments brought bigger employment gains. Five years after new data center capacity is installed, each additional megawatt is associated with about 7.4 more nonconstruction local jobs.",
+      "zh": "更大的投资带来了更大的就业增长。在新的数据中心容量安装五年后，每增加一兆瓦，就能增加大约7.4个非建筑类的当地就业机会。"
+    },
+    {
+      "number": 17,
+      "en": "Part of that gain, however, reflects further expansion. Each megawatt installed is associated with another 1.7 megawatts of capacity over the following years. Once that later growth is counted, our estimates work out to about 2.7 nonconstruction jobs per megawatt of eventual data center capacity. A large 100-megawatt facility, for example, would be correlated with roughly 275 additional local jobs outside the data center itself.",
+      "zh": "然而，这一增长的一部分反映了进一步的扩张。每安装一兆瓦的设备，在接下来的几年里就会增加1.7兆瓦的容量。一旦把后来的增长计算在内，我们估计每兆瓦的最终数据中心容量就会增加2.7个非建筑工作岗位。例如，一个100兆瓦的大型设施，将与数据中心以外的大约275个额外的本地工作岗位相关。"
+    },
+    {
+      "number": 18,
+      "en": "Jobs are not where you might expect",
+      "zh": "工作并不是你所期望的"
+    },
+    {
+      "number": 19,
+      "en": "The types of jobs created help explain what is happening.",
+      "zh": "创造的工作类型有助于解释正在发生的事情。"
+    },
+    {
+      "number": 20,
+      "en": "Employment gains are concentrated in transportation and warehousing, professional and technical services and real estate. These industries may serve or benefit directly from data centers or from the investment and infrastructure they bring.",
+      "zh": "就业增长集中在运输和仓储、专业技术服务和真实的房地产，这些行业可能服务于或直接受益于数据中心或其带来的投资和基础设施。"
+    },
+    {
+      "number": 21,
+      "en": "By contrast, we found little evidence of job growth in restaurants, stores and other local services.",
+      "zh": "相比之下，我们几乎没有发现餐馆、商店和其他当地服务业就业增长的证据。"
+    },
+    {
+      "number": 22,
+      "en": "We also found that more data center investment tends to follow in the same county. Most often, the companies already operating in a county expand their facilities. Other companies generally don’t move into that same area to build new data centers.",
+      "zh": "我们还发现，更多的数据中心投资往往会在同一个县进行。大多数情况下，已经在一个县运营的公司会扩大他们的设施。其他公司通常不会进入同一地区建立新的数据中心。"
+    },
+    {
+      "number": 23,
+      "en": "Jobs are only one side of the equation",
+      "zh": "工作只是等式的一面"
+    },
+    {
+      "number": 24,
+      "en": "Our study has limits. It covers data centers that opened through 2023, before the current wave of massive facilities were built to power AI. Larger data centers do not necessarily create proportionally more jobs, so our findings may not apply to today’s biggest projects.",
+      "zh": "我们的研究有局限性。它涵盖了到2023年开放的数据中心，在当前的大规模设施建设浪潮为人工智能提供动力之前。更大的数据中心不一定能创造更多的就业机会，因此我们的研究结果可能不适用于当今最大的项目。"
+    },
+    {
+      "number": 25,
+      "en": "We also looked only at job gains and did not explore whether data centers are worth their cost to local communities. These facilities consume large amounts of electricity and water, can generate noise and may receive substantial tax breaks from local and state governments. We did not address any of those concerns.",
+      "zh": "我们也只关注就业增长，没有探讨数据中心是否值得当地社区投入成本。这些设施消耗大量的电力和水，可能产生噪音，并可能获得地方和州政府的大量税收减免。我们没有解决任何这些问题。"
+    },
+    {
+      "number": 26,
+      "en": "Our findings do show that data centers can create jobs beyond the small number of people working inside their walls. But that does not mean every one of them is a good deal for their local community. And whether those additional jobs justify the costs remains an open question.",
+      "zh": "我们的研究结果确实表明，数据中心可以创造就业机会，而不仅仅是在其内部工作的少数人。但这并不意味着每一个数据中心都对当地社区有利。这些额外的就业机会是否值得成本仍然是一个悬而未决的问题。"
+    }
+  ]
+}

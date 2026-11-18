@@ -1343,23 +1343,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       16
-    ],
-    "wordBank": [
-      "calories",
-      "average",
-      "burned",
-      "experiments",
-      "contribute",
-      "intake",
-      "inherit",
-      "mimics",
-      "routine",
-      "index"
     ],
     "parts": [
       {
@@ -1431,6 +1419,12 @@
         "id": "c1",
         "number": 1,
         "answer": "calories",
+        "options": [
+          "feelings",
+          "mimics",
+          "calories",
+          "habits"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 calories（calory）。结合上下文辨认词义与词形。",
         "evidence": "That leaves some people trying to manage stronger feelings of hunger at a time when their bodies need fewer calories.",
@@ -1440,6 +1434,12 @@
         "id": "c2",
         "number": 2,
         "answer": "inherit",
+        "options": [
+          "inherit",
+          "afford",
+          "informed",
+          "contribute"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 inherit（inherit）。结合上下文辨认词义与词形。",
         "evidence": "Some of the differences in body weight between people come from the genes they inherit.",
@@ -1449,6 +1449,12 @@
         "id": "c3",
         "number": 3,
         "answer": "contribute",
+        "options": [
+          "stabilised",
+          "informed",
+          "inherit",
+          "contribute"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 contribute（contribute）。结合上下文辨认词义与词形。",
         "evidence": "More often, many genetic differences each contribute a little.",
@@ -1458,6 +1464,12 @@
         "id": "c4",
         "number": 4,
         "answer": "index",
+        "options": [
+          "index",
+          "weight",
+          "obesity",
+          "appetite"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 index（index）。结合上下文辨认词义与词形。",
         "evidence": "In a Norwegian study, researchers used DNA to group people by their inherited tendency to have a higher body mass index, or BMI, a measure of weight relative to height.",
@@ -1467,6 +1479,12 @@
         "id": "c5",
         "number": 5,
         "answer": "average",
+        "options": [
+          "shape",
+          "prevention",
+          "average",
+          "calorie"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 average（average）。结合上下文辨认词义与词形。",
         "evidence": "Over several decades, average BMI rose across the groups, with a bigger rise among those with the strongest genetic tendency.",
@@ -1476,6 +1494,12 @@
         "id": "c6",
         "number": 6,
         "answer": "experiments",
+        "options": [
+          "experiments",
+          "habits",
+          "portions",
+          "measurements"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 experiments（experiment）。结合上下文辨认词义与词形。",
         "evidence": "A review of experiments found that people tended to eat more when their sleep was cut short.",
@@ -1485,6 +1509,12 @@
         "id": "c7",
         "number": 7,
         "answer": "burned",
+        "options": [
+          "biology",
+          "shape",
+          "tailored",
+          "burned"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 burned（burn）。结合上下文辨认词义与词形。",
         "evidence": "There was much less evidence that cutting sleep changed how many calories they burned.",
@@ -1494,6 +1524,12 @@
         "id": "c8",
         "number": 8,
         "answer": "routine",
+        "options": [
+          "weight",
+          "appetite",
+          "routine",
+          "shape"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 routine（routine）。结合上下文辨认词义与词形。",
         "evidence": "In a two-week trial of 80 adults with overweight, one group received advice tailored to their sleep habits and the other kept its usual routine.",
@@ -1503,6 +1539,12 @@
         "id": "c9",
         "number": 9,
         "answer": "intake",
+        "options": [
+          "shape",
+          "intake",
+          "calorie",
+          "obesity"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 intake（intake）。结合上下文辨认词义与词形。",
         "evidence": "Whether the difference in calorie intake lasts is still unclear, and keeping regular sleep hours can be difficult for people who work nights or care for someone.",
@@ -1512,6 +1554,12 @@
         "id": "c10",
         "number": 10,
         "answer": "mimics",
+        "options": [
+          "mimics",
+          "habits",
+          "meals",
+          "recipes"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 mimics（mimic）。结合上下文辨认词义与词形。",
         "evidence": "Semaglutide mimics GLP-1, a hormone that helps regulate appetite.",
@@ -1600,5 +1648,8 @@
       }
     ]
   },
-  "revision": "fa449dfef73d06cb9a40efaf662e7efd4d883277db258cf56bfe4de043ce1e17"
+  "revision": "c0147bd59dac7196db67df28f1f1f4d5c62295128c5de44bb7f1fb1a72b03143",
+  "compatibleProgressRevisions": [
+    "fa449dfef73d06cb9a40efaf662e7efd4d883277db258cf56bfe4de043ce1e17"
+  ]
 }

@@ -1,0 +1,12 @@
+{
+  "provider": "Tencent Transmart",
+  "providerUrl": "https://transmart.qq.com/",
+  "sourceArticles": "../IELTS-8-100/metadata.json",
+  "articleCount": 100,
+  "method": "Simplified Chinese reference translations of all source paragraphs. Chinese and bilingual views use the same aligned JSON data. Original English files are unchanged. Machine translation should be checked against the original.",
+  "editorialFiles": [
+    "scripts/reading-chinese-titles.json",
+    "scripts/reading-translation-edits.json"
+  ],
+  "generatedAt": "2026-11-18T08:00:40.047Z"
+}

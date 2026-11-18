@@ -2185,23 +2185,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       22
-    ],
-    "wordBank": [
-      "marbles",
-      "strengthened",
-      "accessibility",
-      "bowenite",
-      "exhibitions",
-      "context",
-      "ongoing",
-      "natural",
-      "fungi",
-      "journey"
     ],
     "parts": [
       {
@@ -2273,6 +2261,12 @@
         "id": "c1",
         "number": 1,
         "answer": "fungi",
+        "options": [
+          "displays",
+          "flower",
+          "fungi",
+          "history"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 fungi（fungus）。结合上下文辨认词义与词形。",
         "evidence": "Around the country, other collections also exist, including of arthropods and fungi as well as the Allan Herbarium at the Bioeconomy Science Institute.",
@@ -2282,6 +2276,12 @@
         "id": "c2",
         "number": 2,
         "answer": "accessibility",
+        "options": [
+          "archipelago",
+          "biodiversity",
+          "exhibition",
+          "accessibility"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 accessibility（accessibility）。结合上下文辨认词义与词形。",
         "evidence": "But these collections aren’t protected by an act of parliament like Te Papa, and they don’t have the same level of public accessibility or funding the national museum has.",
@@ -2291,6 +2291,12 @@
         "id": "c3",
         "number": 3,
         "answer": "context",
+        "options": [
+          "context",
+          "natural",
+          "location",
+          "history"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 context（context）。结合上下文辨认词义与词形。",
         "evidence": "Current public displays on New Zealand’s biodiversity don’t always put it into a global or evolutionary context.",
@@ -2300,6 +2306,12 @@
         "id": "c4",
         "number": 4,
         "answer": "strengthened",
+        "options": [
+          "dedicated",
+          "confined",
+          "strengthened",
+          "propose"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 strengthened（strengthen）。结合上下文辨认词义与词形。",
         "evidence": "Biodiversity displays could be further strengthened by showcasing New Zealand’s geological heritage.",
@@ -2309,6 +2321,12 @@
         "id": "c5",
         "number": 5,
         "answer": "bowenite",
+        "options": [
+          "bowenite",
+          "archipelago",
+          "natural",
+          "evolution"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 bowenite（bowenite）。结合上下文辨认词义与词形。",
         "evidence": "Pounamu is the Indigenous Māori name for nephrite jade and bowenite, which is a taonga (treasure) for carving.",
@@ -2318,6 +2336,12 @@
         "id": "c6",
         "number": 6,
         "answer": "marbles",
+        "options": [
+          "displays",
+          "rifts",
+          "arthropods",
+          "marbles"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 marbles（marble）。结合上下文辨认词义与词形。",
         "evidence": "This has led to collections containing numerous contested objects such as the Parthenon marbles in the British Museum and Indigenous human remains stored in collections worldwide.",
@@ -2327,6 +2351,12 @@
         "id": "c7",
         "number": 7,
         "answer": "exhibitions",
+        "options": [
+          "skeletons",
+          "specimens",
+          "exhibitions",
+          "treasures"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 exhibitions（exhibition）。结合上下文辨认词义与词形。",
         "evidence": "This would enable exhibitions with a global focus, for example about the evolution of life on Earth, to be told through the fossil record and living biodiversity.",
@@ -2336,6 +2366,12 @@
         "id": "c8",
         "number": 8,
         "answer": "ongoing",
+        "options": [
+          "remarkable",
+          "ongoing",
+          "numerous",
+          "flightless"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 ongoing（ongoing）。结合上下文辨认词义与词形。",
         "evidence": "A prime example is the fossil of one of the first dinosaurs ever described (Iguanodon), held by Te Papa, which helped start the world’s ongoing interest in dinosaurs.",
@@ -2345,6 +2381,12 @@
         "id": "c9",
         "number": 9,
         "answer": "journey",
+        "options": [
+          "journey",
+          "importance",
+          "isolation",
+          "flower"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 journey（journey）。结合上下文辨认词义与词形。",
         "evidence": "Imagine seeing a whole gallery of fossil and living whale skeletons to illustrate their remarkable evolutionary journey from land to sea, similar to displays in the gallery of palaeontology and comparative anatomy in Paris.",
@@ -2354,6 +2396,12 @@
         "id": "c10",
         "number": 10,
         "answer": "natural",
+        "options": [
+          "evolution",
+          "history",
+          "isolation",
+          "natural"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 natural（natural）。结合上下文辨认词义与词形。",
         "evidence": "Like the incredible, almost complete Triceratops skeleton Museums Victoria acquired for AU$3 million, a dedicated natural history museum in New Zealand should source specimens and loans ethically to promote collaborative research and public outreach.",
@@ -2442,5 +2490,8 @@
       }
     ]
   },
-  "revision": "b85a109094f846d4ff203d8e6349ddf28a678986cf3396c2d9c369a3ec332817"
+  "revision": "c54d4ae35b50fc032c8ef6d191d76b754986be455dc61c6971299c34f205a0d0",
+  "compatibleProgressRevisions": [
+    "b85a109094f846d4ff203d8e6349ddf28a678986cf3396c2d9c369a3ec332817"
+  ]
 }

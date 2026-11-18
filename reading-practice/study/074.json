@@ -2468,23 +2468,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       12
-    ],
-    "wordBank": [
-      "planet",
-      "mocks",
-      "representation",
-      "intelligent",
-      "extends",
-      "cartographers",
-      "corrects",
-      "navigational",
-      "motion",
-      "dwarfs"
     ],
     "parts": [
       {
@@ -2556,6 +2544,12 @@
         "id": "c1",
         "number": 1,
         "answer": "navigational",
+        "options": [
+          "symmetrical",
+          "explicit",
+          "navigational",
+          "pioneered"
+        ],
         "vocabularyId": "v14",
         "explanation": "原文此处使用 navigational（navigational）。结合上下文辨认词义与词形。",
         "evidence": "The main issue is that, for navigational reasons, it artificially enlarges the regions nearest to the poles, making Africa – which straddles the equator – appear roughly the same size as Greenland, despite being about 14 times larger.",
@@ -2565,6 +2559,12 @@
         "id": "c2",
         "number": 2,
         "answer": "motion",
+        "options": [
+          "globe",
+          "chart",
+          "poles",
+          "motion"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 motion（motion）。结合上下文辨认词义与词形。",
         "evidence": "On September 4 2026, the UN passed a motion tabled by representatives from Togo and backed by a number of African nations, to endorse and adopt a new world map.",
@@ -2574,6 +2574,12 @@
         "id": "c3",
         "number": 3,
         "answer": "cartographers",
+        "options": [
+          "cartographers",
+          "campaigners",
+          "settlements",
+          "continents"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 cartographers（cartographer）。结合上下文辨认词义与词形。",
         "evidence": "The map in question is the Equal Earth projection, developed in 2018 by prominent cartographers Bojan Šavrič, Tom Patterson and Bernhard Jenny.",
@@ -2583,6 +2589,12 @@
         "id": "c4",
         "number": 4,
         "answer": "corrects",
+        "options": [
+          "enlarges",
+          "corrects",
+          "extends",
+          "number"
+        ],
         "vocabularyId": "v43",
         "explanation": "原文此处使用 corrects（correct）。结合上下文辨认词义与词形。",
         "evidence": "The Equal Earth projection corrects this distortion by accurately depicting the relative areas of the continents.",
@@ -2592,6 +2604,12 @@
         "id": "c5",
         "number": 5,
         "answer": "representation",
+        "options": [
+          "measurements",
+          "celebration",
+          "representation",
+          "cartographers"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 representation（representation）。结合上下文辨认词义与词形。",
         "evidence": "Their sizes, and the politics of their representation, were already major points of contention for the ancient geographers of Greece and Rome, including Herodotus, Strabo and Pliny (the Elder), and each approached the depiction of the planet from a different perspective.",
@@ -2601,6 +2619,12 @@
         "id": "c6",
         "number": 6,
         "answer": "planet",
+        "options": [
+          "poles",
+          "pioneered",
+          "chart",
+          "planet"
+        ],
         "vocabularyId": "v61",
         "explanation": "原文此处使用 planet（planet）。结合上下文辨认词义与词形。",
         "evidence": "Their sizes, and the politics of their representation, were already major points of contention for the ancient geographers of Greece and Rome, including Herodotus, Strabo and Pliny (the Elder), and each approached the depiction of the planet from a different perspective.",
@@ -2610,6 +2634,12 @@
         "id": "c7",
         "number": 7,
         "answer": "mocks",
+        "options": [
+          "mocks",
+          "dwarfs",
+          "invites",
+          "disputes"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 mocks（mock）。结合上下文辨认词义与词形。",
         "evidence": "One of the earliest recorded attempts to correct the map comes from the fourth book of Herodotus’ Histories (fifth century BC). In it, the Greek geographer and historian mocks the work of earlier cartographers and accuses them of making their maps artificially symmetrical:",
@@ -2619,6 +2649,12 @@
         "id": "c8",
         "number": 8,
         "answer": "intelligent",
+        "options": [
+          "navigational",
+          "explicit",
+          "intelligent",
+          "conventional"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 intelligent（intelligent）。结合上下文辨认词义与词形。",
         "evidence": "I laugh when I see that, though many before this have drawn maps of the Earth, yet no one has set the matter forth in an intelligent way; seeing that they draw Ocean flowing round the Earth, which is circular exactly as if drawn with compasses, and they make Asia equal in size to Europe.",
@@ -2628,6 +2664,12 @@
         "id": "c9",
         "number": 9,
         "answer": "dwarfs",
+        "options": [
+          "dwarfs",
+          "attempts",
+          "straddles",
+          "poles"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 dwarfs（dwarf）。结合上下文辨认词义与词形。",
         "evidence": "Herodotus replaces this world picture with a strikingly different vision of the Earth in which Europe dwarfs both Asia and Libya (the name he uses to refer to Africa):",
@@ -2637,6 +2679,12 @@
         "id": "c10",
         "number": 10,
         "answer": "extends",
+        "options": [
+          "situates",
+          "corrects",
+          "accuses",
+          "extends"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 extends（extend）。结合上下文辨认词义与词形。",
         "evidence": "I wonder then at those who have parted off and divided the world into Libya, Asia and Europe, since the difference between these is not small; for in length Europe extends along by both, while in breadth it is clear to me that it is beyond comparison larger.",
@@ -2725,5 +2773,8 @@
       }
     ]
   },
-  "revision": "ead7c1d8cbaacb4378fc9d42702fb29f826b34a96026c31ef99536b320445d74"
+  "revision": "31a3a8acefcdf902cbe88f7d55a012633fb4d77b8adc87d903cfd81f75ede42b",
+  "compatibleProgressRevisions": [
+    "ead7c1d8cbaacb4378fc9d42702fb29f826b34a96026c31ef99536b320445d74"
+  ]
 }

@@ -1653,23 +1653,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       17
-    ],
-    "wordBank": [
-      "redundant",
-      "philosophy",
-      "mathematical",
-      "verifying",
-      "collects",
-      "streamline",
-      "supporter",
-      "unsolved",
-      "regularly",
-      "typical"
     ],
     "parts": [
       {
@@ -1741,6 +1729,12 @@
         "id": "c1",
         "number": 1,
         "answer": "supporter",
+        "options": [
+          "mathematics",
+          "supporter",
+          "fluids",
+          "definition"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 supporter（supporter）。结合上下文辨认词义与词形。",
         "evidence": "Professor Terence Tao, from Unversity of California, Los Angeles, is one of the world’s leading mathematicians and a prominent supporter of AI’s use in mathematics.",
@@ -1750,6 +1744,12 @@
         "id": "c2",
         "number": 2,
         "answer": "streamline",
+        "options": [
+          "streamline",
+          "resisted",
+          "dedicated",
+          "disseminating"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 streamline（streamline）。结合上下文辨认词义与词形。",
         "evidence": "They may reorganise the proof around more natural concepts, streamline a complicated argument, connect it to existing mathematics, or extract methods that can be applied elsewhere.",
@@ -1759,6 +1759,12 @@
         "id": "c3",
         "number": 3,
         "answer": "mathematical",
+        "options": [
+          "indispensable",
+          "unsolved",
+          "fruitful",
+          "mathematical"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 mathematical（mathematical）。结合上下文辨认词义与词形。",
         "evidence": "Even after a proof has been digested, the mathematical work is rarely done.",
@@ -1768,6 +1774,12 @@
         "id": "c4",
         "number": 4,
         "answer": "typical",
+        "options": [
+          "artificial",
+          "internal",
+          "typical",
+          "mathematical"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 typical（typical）。结合上下文辨认词义与词形。",
         "evidence": "This is typical of major breakthroughs: their importance often lies not only in answering a long-standing question, but also in introducing novel mathematical concepts and opening up new lines of research.",
@@ -1777,6 +1789,12 @@
         "id": "c5",
         "number": 5,
         "answer": "regularly",
+        "options": [
+          "profoundly",
+          "regularly",
+          "generally",
+          "mathematics"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 regularly（regularly）。结合上下文辨认词义与词形。",
         "evidence": "Mathematicians regularly search for new proofs of results that have already been proven.",
@@ -1786,6 +1804,12 @@
         "id": "c6",
         "number": 6,
         "answer": "collects",
+        "options": [
+          "collects",
+          "proofs",
+          "solutions",
+          "mathematics"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 collects（collect）。结合上下文辨认词义与词形。",
         "evidence": "This result was proved in antiquity, yet a book published in the 1920s collects more than 300 proofs for the Pythagorean Theorem that have been established over the last two millennia.",
@@ -1795,6 +1819,12 @@
         "id": "c7",
         "number": 7,
         "answer": "redundant",
+        "options": [
+          "essential",
+          "opposite",
+          "leading",
+          "redundant"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 redundant（redundant）。结合上下文辨认词义与词形。",
         "evidence": "If the only purpose of a proof is to establish that a result is true, all but the earliest of these proofs would be redundant.",
@@ -1804,6 +1834,12 @@
         "id": "c8",
         "number": 8,
         "answer": "verifying",
+        "options": [
+          "verifying",
+          "disseminating",
+          "solved",
+          "resisted"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 verifying（verify）。结合上下文辨认词义与词形。",
         "evidence": "Thus, proofs are not only valued for verifying mathematical results, but also for the explanation and understanding they provide.",
@@ -1813,6 +1849,12 @@
         "id": "c9",
         "number": 9,
         "answer": "philosophy",
+        "options": [
+          "mathematics",
+          "philosophy",
+          "circulation",
+          "according"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 philosophy（philosophy）。结合上下文辨认词义与词形。",
         "evidence": "What exactly makes a proof explanatory or illuminating is difficult to pin down – and remains an ongoing topic in the philosophy of mathematics.",
@@ -1822,6 +1864,12 @@
         "id": "c10",
         "number": 10,
         "answer": "unsolved",
+        "options": [
+          "scientific",
+          "indispensable",
+          "unsolved",
+          "internal"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 unsolved（unsolved）。结合上下文辨认词义与词形。",
         "evidence": "But mathematics is not simply the production of correct answers to unsolved problems.",
@@ -1910,5 +1958,8 @@
       }
     ]
   },
-  "revision": "0fc7ee5311bedd2a4e907986c7431af49bdb9ea884c06167dbf5b23f43e5abfc"
+  "revision": "704c9db4be60cfc0d70898f9b88b4ce68ddda0453234f7a175a420810eed55fc",
+  "compatibleProgressRevisions": [
+    "0fc7ee5311bedd2a4e907986c7431af49bdb9ea884c06167dbf5b23f43e5abfc"
+  ]
 }

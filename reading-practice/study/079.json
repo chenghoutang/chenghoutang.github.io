@@ -2303,23 +2303,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       27,
       38
-    ],
-    "wordBank": [
-      "enlarge",
-      "poet",
-      "lives",
-      "ethical",
-      "equal",
-      "province",
-      "primarily",
-      "praise",
-      "usual",
-      "tinged"
     ],
     "parts": [
       {
@@ -2391,6 +2379,12 @@
         "id": "c1",
         "number": 1,
         "answer": "usual",
+        "options": [
+          "foolish",
+          "literary",
+          "reading",
+          "usual"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 usual（usual）。结合上下文辨认词义与词形。",
         "evidence": "A ladle of fish and rice will come at the usual time.",
@@ -2400,6 +2394,12 @@
         "id": "c2",
         "number": 2,
         "answer": "praise",
+        "options": [
+          "affection",
+          "internet",
+          "praise",
+          "suits"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 praise（praise）。结合上下文辨认词义与词形。",
         "evidence": "Lu sees himself through the bemused eyes of the cat, who’s perhaps wondering why this foolish old man is rushing to and fro, fulfilling goals and seeking praise, when he might just be satisfied with what he already has.",
@@ -2409,6 +2409,12 @@
         "id": "c3",
         "number": 3,
         "answer": "primarily",
+        "options": [
+          "implicitly",
+          "primarily",
+          "peacefully",
+          "frequently"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 primarily（primarily）。结合上下文辨认词义与词形。",
         "evidence": "This is significant, given that other premodern Chinese writers viewed cats primarily as vermin-catchers that should be replaced once they outlive their usefulness.",
@@ -2418,6 +2424,12 @@
         "id": "c4",
         "number": 4,
         "answer": "tinged",
+        "options": [
+          "tinged",
+          "composed",
+          "belonged",
+          "entitled"
+        ],
         "vocabularyId": "v110",
         "explanation": "原文此处使用 tinged（tinge）。结合上下文辨认词义与词形。",
         "evidence": "Imagining oneself as a pampered cat will be familiar to those of us who live with cats – a thought-experiment that is tinged with more than a little envy for the capacity to live in the moment, without anxiety over the future.",
@@ -2427,6 +2439,12 @@
         "id": "c5",
         "number": 5,
         "answer": "poet",
+        "options": [
+          "reading",
+          "empathy",
+          "lives",
+          "poet"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 poet（poet）。结合上下文辨认词义与词形。",
         "evidence": "The poet learns something from his cat in the end, as he imagines the world through the cat’s eyes and, in doing so, perhaps finds a measure of solace.",
@@ -2436,6 +2454,12 @@
         "id": "c6",
         "number": 6,
         "answer": "ethical",
+        "options": [
+          "ethical",
+          "reading",
+          "nonhuman",
+          "ashamed"
+        ],
         "vocabularyId": "v118",
         "explanation": "原文此处使用 ethical（ethical）。结合上下文辨认词义与词形。",
         "evidence": "He is not reflecting on the broader ethical question of which creatures deserve to be treated with care and respect.",
@@ -2445,6 +2469,12 @@
         "id": "c7",
         "number": 7,
         "answer": "equal",
+        "options": [
+          "belonged",
+          "equal",
+          "accuses",
+          "expand"
+        ],
         "vocabularyId": "v125",
         "explanation": "原文此处使用 equal（equal）。结合上下文辨认词义与词形。",
         "evidence": "But I argue that his actions nonetheless demonstrate how he treats his cat as somewhat of an equal.",
@@ -2454,6 +2484,12 @@
         "id": "c8",
         "number": 8,
         "answer": "province",
+        "options": [
+          "province",
+          "surprising",
+          "suits",
+          "affection"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 province（province）。结合上下文辨认词义与词形。",
         "evidence": "Personhood – the recognition of an individual as deserving of dignity – is often assumed the sole province of human beings.",
@@ -2463,6 +2499,12 @@
         "id": "c9",
         "number": 9,
         "answer": "enlarge",
+        "options": [
+          "belonged",
+          "explore",
+          "possessing",
+          "enlarge"
+        ],
         "vocabularyId": "v136",
         "explanation": "原文此处使用 enlarge（enlarge）。结合上下文辨认词义与词形。",
         "evidence": "But philosopher María Puig de la Bellacasa has promoted a worldview that she calls “more than human thinking,” which urges people to broaden their scope of moral concern, and in this way, enlarge human capacities for care and love.",
@@ -2472,6 +2514,12 @@
         "id": "c10",
         "number": 10,
         "answer": "lives",
+        "options": [
+          "lives",
+          "peers",
+          "urges",
+          "poets"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 lives（life）。结合上下文辨认词义与词形。",
         "evidence": "They insist that human lives are better when the sphere of care and concern is extended to those creatures with whom human lives are entangled.",
@@ -2560,5 +2608,8 @@
       }
     ]
   },
-  "revision": "a0c27efbbd0f17f3e6430233d0f0dcf47c5746a5916fdacf2ca1841984c14d5e"
+  "revision": "d3827734f117d598f51f9581517da4a72d33efdd981f0e826223ed556cb5286f",
+  "compatibleProgressRevisions": [
+    "a0c27efbbd0f17f3e6430233d0f0dcf47c5746a5916fdacf2ca1841984c14d5e"
+  ]
 }

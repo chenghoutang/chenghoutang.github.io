@@ -3098,23 +3098,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       18,
       28
-    ],
-    "wordBank": [
-      "laboratories",
-      "governance",
-      "assurance",
-      "engineering",
-      "hints",
-      "institutional",
-      "credible",
-      "sophisticated",
-      "potentially",
-      "technical"
     ],
     "parts": [
       {
@@ -3186,6 +3174,12 @@
         "id": "c1",
         "number": 1,
         "answer": "hints",
+        "options": [
+          "faults",
+          "hints",
+          "switches",
+          "regimes"
+        ],
         "vocabularyId": "v136",
         "explanation": "原文此处使用 hints（hint）。结合上下文辨认词义与词形。",
         "evidence": "They remain attentive to hints of bigger problems, do not automatically dismiss anomalies, learn from near misses and failures and build redundancy – for example, backing up offline systems and providing kill switches.",
@@ -3195,6 +3189,12 @@
         "id": "c2",
         "number": 2,
         "answer": "assurance",
+        "options": [
+          "reputation",
+          "humanity",
+          "assurance",
+          "intervention"
+        ],
         "vocabularyId": "v149",
         "explanation": "原文此处使用 assurance（assurance）。结合上下文辨认词义与词形。",
         "evidence": "They routinely rehearse failure, establish operational processes, adhere to regulation for safety and assurance, comply with professional standards and certification schemes and have independent oversight.",
@@ -3204,6 +3204,12 @@
         "id": "c3",
         "number": 3,
         "answer": "governance",
+        "options": [
+          "reputation",
+          "intervention",
+          "collaboration",
+          "governance"
+        ],
         "vocabularyId": "v21",
         "explanation": "原文此处使用 governance（governance）。结合上下文辨认词义与词形。",
         "evidence": "This provides a very different way of thinking about AI governance.",
@@ -3213,6 +3219,12 @@
         "id": "c4",
         "number": 4,
         "answer": "technical",
+        "options": [
+          "technical",
+          "reputation",
+          "treaty",
+          "governance"
+        ],
         "vocabularyId": "v160",
         "explanation": "原文此处使用 technical（technical）。结合上下文辨认词义与词形。",
         "evidence": "This suggests that AI safety cannot be reduced to a model passing a one-off technical test before deployment.",
@@ -3222,6 +3234,12 @@
         "id": "c5",
         "number": 5,
         "answer": "laboratories",
+        "options": [
+          "trustworthiness",
+          "laboratories",
+          "components",
+          "industries"
+        ],
         "vocabularyId": "v166",
         "explanation": "原文此处使用 laboratories（laboratory）。结合上下文辨认词义与词形。",
         "evidence": "Governments need to understand what frontier laboratories are developing.",
@@ -3231,6 +3249,12 @@
         "id": "c6",
         "number": 6,
         "answer": "credible",
+        "options": [
+          "cognitive",
+          "acceptable",
+          "credible",
+          "normal"
+        ],
         "vocabularyId": "v173",
         "explanation": "原文此处使用 credible（credible）。结合上下文辨认词义与词形。",
         "evidence": "Assurance asks whether there is credible evidence that a system is behaving within defined boundaries, whether those boundaries are appropriate, whether risks are being monitored and whether someone is accountable when they are breached.",
@@ -3240,6 +3264,12 @@
         "id": "c7",
         "number": 7,
         "answer": "engineering",
+        "options": [
+          "reputation",
+          "struggling",
+          "reading",
+          "engineering"
+        ],
         "vocabularyId": "v179",
         "explanation": "原文此处使用 engineering（engineer）。结合上下文辨认词义与词形。",
         "evidence": "The aircraft industry has engineering standards, certification regimes, professional qualifications, independent inspection, incident reporting and regulatory oversight.",
@@ -3249,6 +3279,12 @@
         "id": "c8",
         "number": 8,
         "answer": "sophisticated",
+        "options": [
+          "sophisticated",
+          "breached",
+          "stressed",
+          "highlighted"
+        ],
         "vocabularyId": "v188",
         "explanation": "原文此处使用 sophisticated（sophisticate）。结合上下文辨认词义与词形。",
         "evidence": "Financial institutions and medicine both have sophisticated systems of assurance.",
@@ -3258,6 +3294,12 @@
         "id": "c9",
         "number": 9,
         "answer": "institutional",
+        "options": [
+          "unexpected",
+          "unpredictable",
+          "institutional",
+          "conventional"
+        ],
         "vocabularyId": "v194",
         "explanation": "原文此处使用 institutional（institutional）。结合上下文辨认词义与词形。",
         "evidence": "The institutional challenge is not simply to produce more AI regulation, but to create the professional safety culture that makes regulation meaningful.",
@@ -3267,6 +3309,12 @@
         "id": "c10",
         "number": 10,
         "answer": "potentially",
+        "options": [
+          "potentially",
+          "substantially",
+          "increasingly",
+          "continuously"
+        ],
         "vocabularyId": "v198",
         "explanation": "原文此处使用 potentially（potentially）。结合上下文辨认词义与词形。",
         "evidence": "At the same time, it potentially creates a once-in-a-generation opportunity for the UK to help shape the emerging architecture of AI governance.",
@@ -3355,5 +3403,8 @@
       }
     ]
   },
-  "revision": "7a3fda40497453a2553b9a76b16491aa352554374c7615d32fb02131dcc7bc9f"
+  "revision": "87efdfe6e7bbd969a7fbd585cede6124bf966743629a383b68edf9e964dead3e",
+  "compatibleProgressRevisions": [
+    "7a3fda40497453a2553b9a76b16491aa352554374c7615d32fb02131dcc7bc9f"
+  ]
 }

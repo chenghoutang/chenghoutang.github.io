@@ -1817,23 +1817,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       11,
       17
-    ],
-    "wordBank": [
-      "in-person",
-      "disordered",
-      "unique",
-      "committed",
-      "route",
-      "proposed",
-      "online",
-      "downsides",
-      "participate",
-      "sample"
     ],
     "parts": [
       {
@@ -1905,6 +1893,12 @@
         "id": "c1",
         "number": 1,
         "answer": "participate",
+        "options": [
+          "interact",
+          "provides",
+          "communicate",
+          "participate"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 participate（participate）。结合上下文辨认词义与词形。",
         "evidence": "Importantly, social media did not displace offline activities but enhanced our participants’ ability to participate in them.",
@@ -1914,6 +1908,12 @@
         "id": "c2",
         "number": 2,
         "answer": "downsides",
+        "options": [
+          "downsides",
+          "settings",
+          "platforms",
+          "topics"
+        ],
         "vocabularyId": "v70",
         "explanation": "原文此处使用 downsides（downside）。结合上下文辨认词义与词形。",
         "evidence": "What are the downsides?",
@@ -1923,6 +1923,12 @@
         "id": "c3",
         "number": 3,
         "answer": "disordered",
+        "options": [
+          "associated",
+          "proportion",
+          "disordered",
+          "linked"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 disordered（disorder）。结合上下文辨认词义与词形。",
         "evidence": "Our participants also described some of the problems associated with social media, including misinformation and exposure to harmful content, such as videos promoting disordered eating after viewing content about veganism.",
@@ -1932,6 +1938,12 @@
         "id": "c4",
         "number": 4,
         "answer": "sample",
+        "options": [
+          "media",
+          "niche",
+          "sample",
+          "reply"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 sample（sample）。结合上下文辨认词义与词形。",
         "evidence": "However, participants on the upper age range of our sample (24-26) reported the same issues with those on the lower age range, suggesting that these harms are linked less to young people’s use of platforms than to how they are designed.",
@@ -1941,6 +1953,12 @@
         "id": "c5",
         "number": 5,
         "answer": "unique",
+        "options": [
+          "socially",
+          "bodily",
+          "in-person",
+          "unique"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 unique（unique）。结合上下文辨认词义与词形。",
         "evidence": "The transition to adulthood is difficult for all young people, but autistic people face unique challenges and often experience mental health difficulties as a result.",
@@ -1950,6 +1968,12 @@
         "id": "c6",
         "number": 6,
         "answer": "committed",
+        "options": [
+          "committed",
+          "isolated",
+          "communicate",
+          "interact"
+        ],
         "vocabularyId": "v90",
         "explanation": "原文此处使用 committed（commit）。结合上下文辨认词义与词形。",
         "evidence": "As part of the updated national strategy for autistic people in England, the government has committed to supporting positive transitions and improving mental health outcomes.",
@@ -1959,6 +1983,12 @@
         "id": "c7",
         "number": 7,
         "answer": "proposed",
+        "options": [
+          "engage",
+          "enhanced",
+          "proposed",
+          "connect"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 proposed（propose）。结合上下文辨认词义与词形。",
         "evidence": "While our research focused on young people aged 16 and over, a ban on social media could make these issues worse in practice for younger children, while proposed measures for the UK such as a social media curfew for under-18s could affect older teens negatively.",
@@ -1968,6 +1998,12 @@
         "id": "c8",
         "number": 8,
         "answer": "online",
+        "options": [
+          "online",
+          "dependent",
+          "harmful",
+          "bodily"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 online（online）。结合上下文辨认词义与词形。",
         "evidence": "Removing access to social media would mean the loss of those online communities which provide an important source of learning and social interaction, potentially making autistic adolescents feel even more socially isolated.",
@@ -1977,6 +2013,12 @@
         "id": "c9",
         "number": 9,
         "answer": "in-person",
+        "options": [
+          "autistic",
+          "unique",
+          "upcoming",
+          "in-person"
+        ],
         "vocabularyId": "v100",
         "explanation": "原文此处使用 in-person（in-person）。结合上下文辨认词义与词形。",
         "evidence": "Although many of our participants wanted to attend more in-person activities, they were’t always able to do so.",
@@ -1986,6 +2028,12 @@
         "id": "c10",
         "number": 10,
         "answer": "route",
+        "options": [
+          "provides",
+          "engage",
+          "route",
+          "connect"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 route（route）。结合上下文辨认词义与词形。",
         "evidence": "It will remove a route through which young people currently gather the information and contacts needed to navigate those settings.",
@@ -2074,5 +2122,8 @@
       }
     ]
   },
-  "revision": "87e4fc8eb77c00bf15b680667b34eb607a8f44351a09dbece901ef9493c8d28e"
+  "revision": "6ce64ad846023c43b3fc450f1b11da42f2956f439ed6fb53478ee02716dfa941",
+  "compatibleProgressRevisions": [
+    "87e4fc8eb77c00bf15b680667b34eb607a8f44351a09dbece901ef9493c8d28e"
+  ]
 }

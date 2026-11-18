@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 5,
+  "folder": "052",
+  "articleSha256": "80010b79c2167b73c76a82fe0b26240726739f859b546a5ca43dc625fdcdb0c9",
+  "titleEn": "What are biomarkers? A biologist explains how doctors measure your health – and how combining cells from different people can find new markers",
+  "titleZh": "什么是生物标志物？医生如何衡量健康，研究者又如何发现新指标？",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "A family of five is exposed to the flu virus, but only two of them get sick. A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack. A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "zh": "一个五口之家暴露在流感病毒中，但只有两个人生病;一个终生吸烟的人活了100年，而一个正值壮年的职业运动员死于意外的心脏病发作;一种药物在临床试验中失败了，因为它对一部分病人有有害的副作用，尽管对其他病人有良好的效果。"
+    },
+    {
+      "number": 2,
+      "en": "Could any of these scenarios have been predicted? The simple answer is not yet – but perhaps soon with the help of biomarkers.",
+      "zh": "这些情景中的任何一种都能被预测到吗？简单的答案是还没有--但也许很快就会在生物标志物的帮助下。"
+    },
+    {
+      "number": 3,
+      "en": "A biomarker is anything measurable in the body that gives clinicians insight into someone’s current or future health. Biomarkers come in many forms and play a critical role in modern medicine by shedding light on the inner workings of the human body.",
+      "zh": "生物标志物是指人体内任何可测量的东西，它可以让临床医生了解某人当前或未来的健康状况。生物标志物有多种形式，通过揭示人体内部的运作，在现代医学中发挥着关键作用。"
+    },
+    {
+      "number": 4,
+      "en": "Many biomarkers are measured during routine procedures at the doctor’s office, including through blood tests and vital signs.",
+      "zh": "许多生物标志物是在医生办公室的常规程序中测量的，包括通过血液检查和生命体征。"
+    },
+    {
+      "number": 5,
+      "en": "Physiological biomarkers such as heart rate and blood oxygen levels indicate how well your body is functioning. Cellular biomarkers such as white blood cell count provide useful information on the activity of your immune system. Genetic biomarkers are parts of your DNA that provide clues about your inherent risk of developing a particular disease or how likely you are to respond to a treatment.",
+      "zh": "生理生物标志物，如心率和血氧水平，表明你的身体功能如何。细胞生物标志物，如白色血细胞计数，提供有关你的免疫系统活动的有用信息。遗传生物标志物是你的DNA的一部分，它提供有关你患某种疾病的固有风险或你对治疗有多大反应的线索。"
+    },
+    {
+      "number": 6,
+      "en": "There are still many more biomarkers to be discovered, and researchers are devising unique ways to identify a person’s risk of disease.",
+      "zh": "还有更多的生物标志物有待发现，研究人员正在设计独特的方法来识别一个人的疾病风险。"
+    },
+    {
+      "number": 7,
+      "en": "Discovering new biomarkers",
+      "zh": "发现新的生物标志物"
+    },
+    {
+      "number": 8,
+      "en": "The traditional way researchers identify biomarkers is by asking which biological features differ between two or more groups. This might look like comparing patients with a specific disease with healthy volunteers, people who respond to a drug with people who don’t, or the same group of people at two different points in time.",
+      "zh": "研究人员识别生物标志物的传统方法是询问两个或多个群体之间的生物特征有哪些不同。这可能看起来像是将患有特定疾病的患者与健康志愿者进行比较，将对药物有反应的人与没有反应的人进行比较，或者将同一组人在两个不同的时间点进行比较。"
+    },
+    {
+      "number": 9,
+      "en": "Many biomarker discoveries started with observations made in laboratories. For example, doctors use hemoglobin A1c levels in the blood to test for diabetes. The origins of this test date back to the 1960s, when scientists found abnormally high levels of a protein in the blood of diabetics. Repeated testing in the clinic over the next few decades confirmed the relationship between A1c levels and diabetes, culminating in the Food and Drug Administration approving the first A1c-based diabetes diagnostic test in 2013.",
+      "zh": "许多生物标志物的发现都是从实验室的观察开始的。例如，医生使用血液中的血红蛋白A1 c水平来检测糖尿病。这项测试的起源可以追溯到20世纪60年代，当时科学家发现糖尿病患者血液中的一种蛋白质水平异常高。在接下来的几十年里，临床上的反复测试证实了A1 c水平和糖尿病之间的关系，最终，美国食品和药物管理局于2013年批准了第一个基于A1 c的糖尿病诊断测试。"
+    },
+    {
+      "number": 10,
+      "en": "Other biomarkers that also started with observations made through basic research in the lab include screening tests for colorectal cancer, drug metabolism and inherited metabolic diseases in newborns.",
+      "zh": "其他生物标志物也是从实验室基础研究的观察开始的，包括结肠直肠癌、药物代谢和新生儿遗传性代谢疾病的筛查测试。"
+    },
+    {
+      "number": 11,
+      "en": "Genetic biomarkers are typically found by scanning the genomes of thousands to even millions of people for genetic variants linked to a trait or disease. This approach is called a genomewide association study. This method has resulted in many important biomarkers that provide guidance on how to manage a patient’s risk of heart disease, age-related vision loss and liver disease.",
+      "zh": "遗传生物标志物通常是通过扫描数千甚至数百万人的基因组来寻找与某个特征或疾病相关的遗传变异，这种方法被称为全基因组关联研究。这种方法已经产生了许多重要的生物标志物，为如何管理患者患心脏病、年龄相关性视力下降和肝病的风险提供了指导。"
+    },
+    {
+      "number": 12,
+      "en": "One limitation of using the genomewide association study, though, is that it does not always provide information on which tissue or cell types may be relevant to the genetic variant. This lack of cellular information could be solved with cell cultures that allow researchers to study specific cell types under controlled conditions outside the body.",
+      "zh": "然而，使用全基因组关联研究的一个局限性是，它并不总是提供哪些组织或细胞类型可能与遗传变异相关的信息。这种细胞信息的缺乏可以通过细胞培养来解决，这种细胞培养允许研究人员在体外受控条件下研究特定的细胞类型。"
+    },
+    {
+      "number": 13,
+      "en": "Human populations in a dish",
+      "zh": "培养皿中的人口"
+    },
+    {
+      "number": 14,
+      "en": "In my work as a neuroscientist and geneticist, I take a different approach to finding biomarkers in the lab: I conduct genomewide association studies on human brain cells in a dish to understand how cells change when they encounter harmful exposures such as toxins and viruses.",
+      "zh": "在我作为神经科学家和遗传学家的工作中，我采取了一种不同的方法来寻找实验室中的生物标志物：我在培养皿中对人脑细胞进行全基因组关联研究，以了解细胞在遇到毒素和病毒等有害暴露时如何变化。"
+    },
+    {
+      "number": 15,
+      "en": "Cells are the building blocks of all human tissues and organ systems. How sensitive they are to different environmental factors can greatly affect a person’s health and disease risk.",
+      "zh": "细胞是所有人体组织和器官系统的基石。它们对不同环境因素的敏感程度会极大地影响一个人的健康和疾病风险。"
+    },
+    {
+      "number": 16,
+      "en": "Thanks to revolutions in stem cell technologies, scientists are now able to model the effects of the environment on many different cell types – including brain cells that are nearly impossible to study in living people without causing irreversible damage to the brain. Instead, my colleagues and I obtain stem cells created from the blood or skin of human donors and convert them to brain cells for our experiments.",
+      "zh": "由于干细胞技术的革命，科学家们现在能够模拟环境对许多不同细胞类型的影响--包括在不对大脑造成不可逆转的损伤的情况下几乎不可能在活人身上研究的脑细胞。相反，我和我的同事从人类捐赠者的血液或皮肤中获得干细胞，并将它们转化为脑细胞用于我们的实验。"
+    },
+    {
+      "number": 17,
+      "en": "Most studies focus on how cells from only a handful of people respond to environmental stressors, mainly because it is quite difficult to conduct experiments at the population scale in a petri dish. To know whose cells are in a dish, researchers traditionally needed to handle and maintain cells from different people separately. This requirement adds considerable time, effort and cost for every new cell line included in the experimental design.",
+      "zh": "大多数研究关注的是来自少数人的细胞如何对环境压力做出反应，这主要是因为在培养皿中进行群体规模的实验非常困难。为了知道培养皿中的细胞是谁，研究人员传统上需要分别处理和维护来自不同人的细胞。这一要求增加了实验设计中包含的每一个新细胞系的大量时间、精力和成本。"
+    },
+    {
+      "number": 18,
+      "en": "Because these issues limit the scale of experiments, studies aren’t able to capture the natural diversity of people and therefore cannot answer questions about why an exposure might make one person sick but have no effect on another.",
+      "zh": "由于这些问题限制了实验的规模，研究无法捕捉人类的自然多样性，因此无法回答为什么暴露可能会使一个人生病，但对另一个人没有影响。"
+    },
+    {
+      "number": 19,
+      "en": "My laboratory tackles this problem by pooling stem cell-derived brain cells from dozens to hundreds of people into the same culture dish – what my team calls a cell village. We use the genomes of these cells as natural barcodes to determine who donated each one. We then add different environmental perturbations to the village – such as pathogens, chemical pollutants and radiation – and measure how each person’s cells reacts.",
+      "zh": "我的实验室解决这个问题的方法是，把几十到几百个人的干细胞提取的脑细胞集中到同一个培养皿中--我的团队称之为细胞村。我们用这些细胞的基因组作为天然条形码，来确定每一个细胞的捐赠者。然后，我们把不同的环境干扰因素--比如病原体、化学污染物和辐射--加入细胞村，并测量每个人的细胞反应。"
+    },
+    {
+      "number": 20,
+      "en": "Each cell might respond by turning on or off a set of genes, showing an increased or decreased propensity to die, or do nothing at all. Identifying which genes are linked to these particular responses can help explain why a person’s cells respond the way they do.",
+      "zh": "每个细胞都可能通过开启或关闭一组基因来做出反应，表现出死亡倾向的增加或减少，或者根本不做任何事情。识别哪些基因与这些特定反应有关，可以帮助解释为什么一个人的细胞会做出这样的反应。"
+    },
+    {
+      "number": 21,
+      "en": "These genes are essentially biomarkers for the vulnerability of a specific cell type to an exposure.",
+      "zh": "这些基因基本上是特定细胞类型对暴露的脆弱性的生物标志物。"
+    },
+    {
+      "number": 22,
+      "en": "An atlas of human vulnerability",
+      "zh": "人类脆弱性地图集"
+    },
+    {
+      "number": 23,
+      "en": "While cell villages are relatively new, they have already helped researchers better understand what makes people different from each other.",
+      "zh": "虽然细胞村相对较新，但它们已经帮助研究人员更好地了解是什么使人们彼此不同。"
+    },
+    {
+      "number": 24,
+      "en": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection. Zika is a pathogen spread by mosquitoes that can cause neurological disorders and microcephaly – small head size – in developing fetuses. Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection. For some, fewer than 1% of their cells were infected by Zika virus; for others, it was greater than 99%.",
+      "zh": "例如，我和我的团队使用细胞村来确定一种生物标志物，它表明一个人可能特别容易受到寨卡病毒感染。寨卡病毒是一种由蚊子传播的病原体，可以导致发育中的胎儿神经系统疾病和小头畸形症。我们使用了40个人的干细胞来源的脑细胞，发现并非每个人都同样容易受到感染。对一些人来说，只有不到1%的细胞被寨卡病毒感染;对于其他人来说，这一比例超过99%。"
+    },
+    {
+      "number": 25,
+      "en": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3. In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found links between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.",
+      "zh": "通过额外的细胞村实验，我们发现了一种遗传变异，它调节一种名为IFITM 3的强大抗病毒基因。在这种情况下，具有该基因A版本的人的细胞比具有该基因B版本的人的细胞更容易受到感染。研究人员发现，这种相同的遗传变异与COVID-19和甲型流感感染严重程度之间存在联系，这表明它可能是一种遗传生物标志物，可以预测某些人对某些类型的病原体的反应。"
+    },
+    {
+      "number": 26,
+      "en": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin. We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
+      "zh": "我的团队还开展了类似的工作，以确定一个人对铅（一种普遍存在的神经发育毒素）敏感性的遗传生物标志物。我们还使用细胞村来寻找一个人对PFAS（也称为永久化学物质）、麻疹病毒感染和应激激素敏感性的生物标志物。"
+    },
+    {
+      "number": 27,
+      "en": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
+      "zh": "我们的目标是建立一个我们称之为人类脆弱性的地图集：一个遗传生物标志物的目录，以预测每个人在细胞水平上对各种有害暴露的反应。"
+    },
+    {
+      "number": 28,
+      "en": "The future of biomarkers",
+      "zh": "生物标志物的未来"
+    },
+    {
+      "number": 29,
+      "en": "The cell village is only one of many emerging technologies that could usher in a new era of biomarker detection.",
+      "zh": "细胞村只是众多新兴技术之一，这些技术可能会开创生物标志物检测的新时代。"
+    },
+    {
+      "number": 30,
+      "en": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
+      "zh": "随着DNA测序成本的持续下降，全基因组测序在临床上可能会变得更加常规，并可能提高发现基因与健康结果之间联系的能力，医疗团队可以进行干预。"
+    },
+    {
+      "number": 31,
+      "en": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
+      "zh": "研究人员正在开发人工智能工具来调查医学成像，如CT和MRI扫描，目的是寻找可能被人眼忽视的癌症进展的新生物标志物。"
+    },
+    {
+      "number": 32,
+      "en": "Cellphones and smartwatches may also be useful in efforts to discover new health-related biomarkers. For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
+      "zh": "手机和智能手表也可能有助于发现新的健康相关生物标志物。例如，一些研究已经使用这些和其他可穿戴设备来寻找预测重度抑郁发作的行为生物标志物。"
+    },
+    {
+      "number": 33,
+      "en": "The goal now is to test how well these biomarkers work in the real world and make them widely available so that doctors everywhere can have as much information as possible about their patients when making life-changing decisions.",
+      "zh": "现在的目标是测试这些生物标志物在真实的世界中的作用，并使它们广泛可用，以便各地的医生在做出改变生活的决定时能够尽可能多地了解他们的病人。"
+    }
+  ]
+}

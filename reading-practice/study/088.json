@@ -1759,23 +1759,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       4,
       13
-    ],
-    "wordBank": [
-      "overdrive",
-      "regulatory",
-      "constant",
-      "confidently",
-      "competence",
-      "forecast",
-      "coming",
-      "stressor",
-      "significance",
-      "partly"
     ],
     "parts": [
       {
@@ -1847,6 +1835,12 @@
         "id": "c1",
         "number": 1,
         "answer": "regulatory",
+        "options": [
+          "additional",
+          "stressful",
+          "regulatory",
+          "psychological"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 regulatory（regulatory）。结合上下文辨认词义与词形。",
         "evidence": "In other nations, accreditation inspections may be conducted by professional regulatory bodies, such as the Teaching Council of Ireland.",
@@ -1856,6 +1850,12 @@
         "id": "c2",
         "number": 2,
         "answer": "constant",
+        "options": [
+          "wellbeing",
+          "constant",
+          "haunting",
+          "shadow"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 constant（constant）。结合上下文辨认词义与词形。",
         "evidence": "Participants in England described living in “constant anticipation”, on “constant red alert” and “on a knife edge” while waiting for the call from Ofsted.",
@@ -1865,6 +1865,12 @@
         "id": "c3",
         "number": 3,
         "answer": "confidently",
+        "options": [
+          "confidently",
+          "mentally",
+          "necessarily",
+          "partly"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 confidently（confidently）。结合上下文辨认词义与词形。",
         "evidence": "The inspection had not begun, but the expectation of it was already shaping how they worked, where they directed their attention and even how confidently they could make plans outside work.",
@@ -1874,6 +1880,12 @@
         "id": "c4",
         "number": 4,
         "answer": "coming",
+        "options": [
+          "wellbeing",
+          "casting",
+          "haunting",
+          "coming"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 coming（coming）。结合上下文辨认词义与词形。",
         "evidence": "It’s a normal psychological function that allows us to prepare for what is coming.",
@@ -1883,6 +1895,12 @@
         "id": "c5",
         "number": 5,
         "answer": "forecast",
+        "options": [
+          "forecast",
+          "arises",
+          "directed",
+          "inspected"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 forecast（forecast）。结合上下文辨认词义与词形。",
         "evidence": "We forecast possible outcomes, we revisit conversations we have had and we can become more attentive to potential signals.",
@@ -1892,6 +1910,12 @@
         "id": "c6",
         "number": 6,
         "answer": "significance",
+        "options": [
+          "inspection",
+          "significance",
+          "providers",
+          "accountability"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 significance（significance）。结合上下文辨认词义与词形。",
         "evidence": "An unexpected request for a meeting or a delayed email response can suddenly acquire particular significance, not necessarily because it means anything, but because uncertainty can make us more vigilant for information that might help predict what comes next.",
@@ -1901,6 +1925,12 @@
         "id": "c7",
         "number": 7,
         "answer": "stressor",
+        "options": [
+          "haunting",
+          "stress",
+          "stressor",
+          "wellbeing"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 stressor（stressor）。结合上下文辨认词义与词形。",
         "evidence": "Psychologists use the term “perseverative cognition” to describe how worry and rumination can keep a potential stressor mentally active when it is not actually present.",
@@ -1910,6 +1940,12 @@
         "id": "c8",
         "number": 8,
         "answer": "overdrive",
+        "options": [
+          "vampire",
+          "stress",
+          "haunting",
+          "overdrive"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 overdrive（overdrive）。结合上下文辨认词义与词形。",
         "evidence": "As one of my interviewees explained: “My mind has already gone into overdrive with worry – even though the inspection might not take place until next year.”",
@@ -1919,6 +1955,12 @@
         "id": "c9",
         "number": 9,
         "answer": "partly",
+        "options": [
+          "partly",
+          "vampire",
+          "safely",
+          "badly"
+        ],
         "vocabularyId": "v70",
         "explanation": "原文此处使用 partly（partly）。结合上下文辨认词义与词形。",
         "evidence": "Indeed, research into uncertain threat suggests that unpredictability can sustain vigilance, partly because there is no clear point at which we know we can safely stand down.",
@@ -1928,6 +1970,12 @@
         "id": "c10",
         "number": 10,
         "answer": "competence",
+        "options": [
+          "haunting",
+          "competence",
+          "anticipation",
+          "casting"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 competence（competence）。结合上下文辨认词义与词形。",
         "evidence": "An inspection, promotion process or performance review can place our competence directly under scrutiny, while restructuring may raise a broader question about our future value within an organisation.",
@@ -2016,5 +2064,8 @@
       }
     ]
   },
-  "revision": "f828b7aeef3c8b3ef3db2bb23745a4914ae6c2533cb11d3d2772f5a7054977a3"
+  "revision": "6d0d3334e69c981c1ca726211b9bed811f0ff30a45439ff5768dc66f73c2a38e",
+  "compatibleProgressRevisions": [
+    "f828b7aeef3c8b3ef3db2bb23745a4914ae6c2533cb11d3d2772f5a7054977a3"
+  ]
 }

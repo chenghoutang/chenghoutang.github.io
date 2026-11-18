@@ -2245,23 +2245,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       8
-    ],
-    "wordBank": [
-      "invited",
-      "secured",
-      "yearning",
-      "brainchild",
-      "reshaped",
-      "charmed",
-      "travellers",
-      "befriended",
-      "notion",
-      "masses"
     ],
     "parts": [
       {
@@ -2333,6 +2321,12 @@
         "id": "c1",
         "number": 1,
         "answer": "travellers",
+        "options": [
+          "posters",
+          "carriages",
+          "rhythms",
+          "travellers"
+        ],
         "vocabularyId": "v17",
         "explanation": "原文此处使用 travellers（traveller）。结合上下文辨认词义与词形。",
         "evidence": "They remind commuters of our humanness and offer travellers small moments of respite.",
@@ -2342,6 +2336,12 @@
         "id": "c2",
         "number": 2,
         "answer": "reshaped",
+        "options": [
+          "reshaped",
+          "replicated",
+          "explored",
+          "celebrated"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 reshaped（reshape）。结合上下文辨认词义与词形。",
         "evidence": "“I sing of a world reshaped,” declares Nigerian poet Niyi Osundare with hope in I Sing of Change (1981).",
@@ -2351,6 +2351,12 @@
         "id": "c3",
         "number": 3,
         "answer": "yearning",
+        "options": [
+          "polluted",
+          "yearning",
+          "remind",
+          "declares"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 yearning（yearn）。结合上下文辨认词义与词形。",
         "evidence": "A melancholic yearning for her mother’s cooking in Grace Nichols’ Like a Beacon (1984) – one of the first poems to be featured on a poster – beckons your appetite but breaks your heart.",
@@ -2360,6 +2366,12 @@
         "id": "c4",
         "number": 4,
         "answer": "masses",
+        "options": [
+          "commuters",
+          "carriages",
+          "masses",
+          "humanness"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 masses（mass）。结合上下文辨认词义与词形。",
         "evidence": "This year Poems on the Underground has celebrated 40 years of bringing poetry to the commuting masses.",
@@ -2369,6 +2381,12 @@
         "id": "c5",
         "number": 5,
         "answer": "brainchild",
+        "options": [
+          "travellers",
+          "commuters",
+          "posters",
+          "brainchild"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 brainchild（brainchild）。结合上下文辨认词义与词形。",
         "evidence": "The project was the brainchild of the American essayist and novelist Judith Chernaik, who came up with the idea as a young academic when she moved to London in 1972 with her husband and children.",
@@ -2378,6 +2396,12 @@
         "id": "c6",
         "number": 6,
         "answer": "befriended",
+        "options": [
+          "befriended",
+          "disfigured",
+          "explored",
+          "reshaped"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 befriended（befriend）。结合上下文辨认词义与词形。",
         "evidence": "The couple befriended the Barrow poets Gerard Benson and Cicely Herbert and soon became part of their literary circle.",
@@ -2387,6 +2411,12 @@
         "id": "c7",
         "number": 7,
         "answer": "invited",
+        "options": [
+          "posters",
+          "crowded",
+          "invited",
+          "coded"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 invited（invite）。结合上下文辨认词义与词形。",
         "evidence": "The couple were invited to attend play-reading groups, and in one such gathering, the work being explored was Shakespeare’s As You Like It.",
@@ -2396,6 +2426,12 @@
         "id": "c8",
         "number": 8,
         "answer": "charmed",
+        "options": [
+          "charmed",
+          "crowded",
+          "displayed",
+          "replied"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 charmed（charm）。结合上下文辨认词义与词形。",
         "evidence": "Chernaik was charmed by the figure of Orlando, who hangs poems in the trees of the Forest of Arden for his love, Rosalind.",
@@ -2405,6 +2441,12 @@
         "id": "c9",
         "number": 9,
         "answer": "notion",
+        "options": [
+          "humanness",
+          "commuters",
+          "respite",
+          "notion"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 notion（notion）。结合上下文辨认词义与词形。",
         "evidence": "Delighted by the notion, they encouraged her, and the following morning, a determined Chernaik wrote to London Transport (later TfL).",
@@ -2414,6 +2456,12 @@
         "id": "c10",
         "number": 10,
         "answer": "secured",
+        "options": [
+          "secured",
+          "explored",
+          "befriended",
+          "observed"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 secured（secure）。结合上下文辨认词义与词形。",
         "evidence": "She secured an Arts Council Grant in 1985 and the rest is literary history: four decades of sharing poetry with the public though Poems on the Underground.",
@@ -2502,5 +2550,8 @@
       }
     ]
   },
-  "revision": "679dbd7f504db86c34649ef163451102661547fe0431318350f3895b2ec8d0ab"
+  "revision": "0c771932a4269308f83b9694f0c0224ce718c0a1e69e38c6a9291f1223aa71b2",
+  "compatibleProgressRevisions": [
+    "679dbd7f504db86c34649ef163451102661547fe0431318350f3895b2ec8d0ab"
+  ]
 }

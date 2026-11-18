@@ -1774,23 +1774,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       13
-    ],
-    "wordBank": [
-      "aiming",
-      "broadcasts",
-      "feats",
-      "crucial",
-      "assumption",
-      "surprisingly",
-      "intentionality",
-      "visual",
-      "misguided",
-      "depend"
     ],
     "parts": [
       {
@@ -1862,6 +1850,12 @@
         "id": "c1",
         "number": 1,
         "answer": "feats",
+        "options": [
+          "startups",
+          "thoughts",
+          "feats",
+          "agents"
+        ],
         "vocabularyId": "v8",
         "explanation": "原文此处使用 feats（feat）。结合上下文辨认词义与词形。",
         "evidence": "In the past few months, partly autonomous or “agentic” artificial intelligence (AI) systems have racked up some astonishing feats, from hacking tech startups to solving some of the world’s most famous open mathematical questions.",
@@ -1871,6 +1865,12 @@
         "id": "c2",
         "number": 2,
         "answer": "surprisingly",
+        "options": [
+          "surprisingly",
+          "consciously",
+          "unconsciously",
+          "distinctively"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 surprisingly（surprisingly）。结合上下文辨认词义与词形。",
         "evidence": "The communications involved are often surprisingly human-like – which is spurring a debate over whether these systems are conscious.",
@@ -1880,6 +1880,12 @@
         "id": "c3",
         "number": 3,
         "answer": "misguided",
+        "options": [
+          "connected",
+          "convinced",
+          "generated",
+          "misguided"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 misguided（misguide）。结合上下文辨认词义与词形。",
         "evidence": "Researchers at the leading AI lab Anthropic believe their systems may well be conscious – but other experts, including the head of Microsoft AI, say this view is misguided.",
@@ -1889,6 +1895,12 @@
         "id": "c4",
         "number": 4,
         "answer": "depend",
+        "options": [
+          "perceive",
+          "complete",
+          "depend",
+          "misguided"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 depend（depend）。结合上下文辨认词义与词形。",
         "evidence": "The future status of AI systems and their role in society – how they can be treated, whether they have rights, and more – may depend on it.",
@@ -1898,6 +1910,12 @@
         "id": "c5",
         "number": 5,
         "answer": "assumption",
+        "options": [
+          "intelligence",
+          "assumption",
+          "startups",
+          "spurring"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 assumption（assumption）。结合上下文辨认词义与词形。",
         "evidence": "However, existing theories of consciousness tend to start from the assumption that the agent has some kind of mental state.",
@@ -1907,6 +1925,12 @@
         "id": "c6",
         "number": 6,
         "answer": "broadcasts",
+        "options": [
+          "broadcasts",
+          "retinas",
+          "signals",
+          "consciousness"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 broadcasts（broadcasts）。结合上下文辨认词义与词形。",
         "evidence": "This is why they appeal to features such as higher-order thought, or a system that broadcasts thoughts to the rest of the mind.",
@@ -1916,6 +1940,12 @@
         "id": "c7",
         "number": 7,
         "answer": "crucial",
+        "options": [
+          "artificial",
+          "mental",
+          "unexpected",
+          "crucial"
+        ],
         "vocabularyId": "v43",
         "explanation": "原文此处使用 crucial（crucial）。结合上下文辨认词义与词形。",
         "evidence": "So when thinking about AI, we must not skip a crucial first question: do agentic AIs even have mental states?",
@@ -1925,6 +1955,12 @@
         "id": "c8",
         "number": 8,
         "answer": "intentionality",
+        "options": [
+          "originators",
+          "philosopher",
+          "intentionality",
+          "communications"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 intentionality（intentionality）。结合上下文辨认词义与词形。",
         "evidence": "In the 1870s, philosopher Franz Brentano developed an influential view: “intentionality is the mark of the mental”.",
@@ -1934,6 +1970,12 @@
         "id": "c9",
         "number": 9,
         "answer": "aiming",
+        "options": [
+          "running",
+          "aiming",
+          "swarms",
+          "racked"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 aiming（aim）。结合上下文辨认词义与词形。",
         "evidence": "What Brentano means by intentionality is not the same as the usual meaning of “intention” as aiming to do something.",
@@ -1943,6 +1985,12 @@
         "id": "c10",
         "number": 10,
         "answer": "visual",
+        "options": [
+          "visual",
+          "genuine",
+          "usual",
+          "symbolic"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 visual（visual）。结合上下文辨认词义与词形。",
         "evidence": "Even our passive-seeming visual experiences are tasks the moment that we use the patterns striking our retinas to orient ourselves.",
@@ -2031,5 +2079,8 @@
       }
     ]
   },
-  "revision": "865f5da9169080fb03ba69f8d6f3c0d0f8bb0f25f855c2aac6474be3f565b6b0"
+  "revision": "3af4cb91899b38b960c16a8ee6b4b9726dc8eae91166dc92d8a9d79f67b83d35",
+  "compatibleProgressRevisions": [
+    "865f5da9169080fb03ba69f8d6f3c0d0f8bb0f25f855c2aac6474be3f565b6b0"
+  ]
 }

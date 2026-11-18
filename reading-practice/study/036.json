@@ -2139,23 +2139,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       14
-    ],
-    "wordBank": [
-      "molecules",
-      "weather",
-      "deadly",
-      "warms",
-      "crash",
-      "ingredients",
-      "moist",
-      "low-lying",
-      "block",
-      "dense"
     ],
     "parts": [
       {
@@ -2227,6 +2215,12 @@
         "id": "c1",
         "number": 1,
         "answer": "weather",
+        "options": [
+          "phenomenon",
+          "prediction",
+          "weather",
+          "crash"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 weather（weather）。结合上下文辨认词义与词形。",
         "evidence": "If you’ve ever been grounded at the airport due to thick fog, you’ll understand the frustration this often overlooked weather phenomenon can cause.",
@@ -2236,6 +2230,12 @@
         "id": "c2",
         "number": 2,
         "answer": "crash",
+        "options": [
+          "havoc",
+          "crash",
+          "prompted",
+          "aviation"
+        ],
         "vocabularyId": "v15",
         "explanation": "原文此处使用 crash（crash）。结合上下文辨认词义与词形。",
         "evidence": "In December 2023, 20 people were taken to hospital after thick fog contributed to a multi-car crash on Victoria’s Western Freeway.",
@@ -2245,6 +2245,12 @@
         "id": "c3",
         "number": 3,
         "answer": "low-lying",
+        "options": [
+          "low-lying",
+          "dense",
+          "moist",
+          "deadly"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 low-lying（low-lying）。结合上下文辨认词义与词形。",
         "evidence": "Fog is a type of low-lying cloud that forms near Earth’s surface.",
@@ -2254,6 +2260,12 @@
         "id": "c4",
         "number": 4,
         "answer": "block",
+        "options": [
+          "contrast",
+          "prompted",
+          "airport",
+          "block"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 block（block）。结合上下文辨认词义与词形。",
         "evidence": "These droplets, which are not heavy enough to fall as rain, block light from reaching our eyes.",
@@ -2263,6 +2275,12 @@
         "id": "c5",
         "number": 5,
         "answer": "ingredients",
+        "options": [
+          "ingredients",
+          "observations",
+          "combines",
+          "temperatures"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 ingredients（ingredient）。结合上下文辨认词义与词形。",
         "evidence": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
@@ -2272,6 +2290,12 @@
         "id": "c6",
         "number": 6,
         "answer": "molecules",
+        "options": [
+          "ingredients",
+          "molecules",
+          "droplets",
+          "temperatures"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 molecules（molecule）。结合上下文辨认词义与词形。",
         "evidence": "Three main ingredients are needed to make fog: moisture in the air, cool temperatures and cloud condensation nuclei, which are tiny particles such as dust and pollution that allow water molecules to meet and form larger droplets.",
@@ -2281,6 +2305,12 @@
         "id": "c7",
         "number": 7,
         "answer": "warms",
+        "options": [
+          "clean",
+          "condense",
+          "warms",
+          "grounded"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 warms（warm）。结合上下文辨认词义与词形。",
         "evidence": "Radiation fog typically occurs in the early hours of a calm winter morning and disappears after the sun rises, when the land warms up again.",
@@ -2290,6 +2320,12 @@
         "id": "c8",
         "number": 8,
         "answer": "moist",
+        "options": [
+          "low-lying",
+          "deadly",
+          "cloudy",
+          "moist"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 moist（moist）。结合上下文辨认词义与词形。",
         "evidence": "Another type of fog is sea fog, which forms when warm, moist air flows over cooler ocean waters.",
@@ -2299,6 +2335,12 @@
         "id": "c9",
         "number": 9,
         "answer": "dense",
+        "options": [
+          "dense",
+          "moist",
+          "foggiest",
+          "nationwide"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 dense（dense）。结合上下文辨认词义与词形。",
         "evidence": "Mist is like fog, but less dense. This type of low-level cloud reduces visibility to between one and five kilometres.",
@@ -2308,6 +2350,12 @@
         "id": "c10",
         "number": 10,
         "answer": "deadly",
+        "options": [
+          "low-lying",
+          "moist",
+          "deadly",
+          "prone"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 deadly（deadly）。结合上下文辨认词义与词形。",
         "evidence": "Before air pollution laws were introduced in the 1950s, deadly multi-day smogs plagued big cities such as London and industrial towns like Donora in the United States.",
@@ -2396,5 +2444,8 @@
       }
     ]
   },
-  "revision": "143cff8fe30406d205a4f4f543b96bba605000d19567764dcce32e9dec8f8483"
+  "revision": "4f01968f3a7b013aa47304e992f5e0363c0c9b3f563d2513ad9ff9095d775dc0",
+  "compatibleProgressRevisions": [
+    "143cff8fe30406d205a4f4f543b96bba605000d19567764dcce32e9dec8f8483"
+  ]
 }

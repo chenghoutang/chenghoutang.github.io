@@ -1534,23 +1534,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       26
-    ],
-    "wordBank": [
-      "intriguing",
-      "competes",
-      "influential",
-      "clubs",
-      "compromise",
-      "everyday",
-      "scrolling",
-      "participating",
-      "symptoms",
-      "struggling"
     ],
     "parts": [
       {
@@ -1622,6 +1610,12 @@
         "id": "c1",
         "number": 1,
         "answer": "scrolling",
+        "options": [
+          "intriguing",
+          "college",
+          "scrolling",
+          "according"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 scrolling（scroll）。结合上下文辨认词义与词形。",
         "evidence": "We also examined how students spent their free time, whether that meant exercising, studying, socializing, meditating, playing video games or scrolling on social media.",
@@ -1631,6 +1625,12 @@
         "id": "c2",
         "number": 2,
         "answer": "influential",
+        "options": [
+          "passive",
+          "influential",
+          "supportive",
+          "emotional"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 influential（influential）。结合上下文辨认词义与词形。",
         "evidence": "Among the dozens of factors we examined, six stood out as the most important and influential.",
@@ -1640,6 +1640,12 @@
         "id": "c3",
         "number": 3,
         "answer": "participating",
+        "options": [
+          "participating",
+          "socializing",
+          "cultivating",
+          "contributing"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 participating（participate）。结合上下文辨认词义与词形。",
         "evidence": "Students who spent more hours socializing with friends, attending student organizations and participating in cultural events tended to report feeling an overall sense of well-being.",
@@ -1649,6 +1655,12 @@
         "id": "c4",
         "number": 4,
         "answer": "intriguing",
+        "options": [
+          "well-being",
+          "scrolling",
+          "students",
+          "intriguing"
+        ],
         "vocabularyId": "v61",
         "explanation": "原文此处使用 intriguing（intrigue）。结合上下文辨认词义与词形。",
         "evidence": "Our results raise an intriguing possibility: Well-being may come not only from leisure and self-care but also from contributing to something larger than oneself.",
@@ -1658,6 +1670,12 @@
         "id": "c5",
         "number": 5,
         "answer": "compromise",
+        "options": [
+          "compromise",
+          "well-being",
+          "predictor",
+          "college"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 compromise（compromise）。结合上下文辨认词义与词形。",
         "evidence": "While problematic substance use, passive screen time and sleep problems tended to compromise well-being, these factors weren’t the biggest detriment.",
@@ -1667,6 +1685,12 @@
         "id": "c6",
         "number": 6,
         "answer": "competes",
+        "options": [
+          "socializing",
+          "competes",
+          "connected",
+          "diagnosed"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 competes（compete）。结合上下文辨认词义与词形。",
         "evidence": "Making friends, maintaining healthy relationships and working through conflicts requires practice, and some of that practice time now competes with communication mediated by screens.",
@@ -1676,6 +1700,12 @@
         "id": "c7",
         "number": 7,
         "answer": "everyday",
+        "options": [
+          "everyday",
+          "psychological",
+          "alcohol",
+          "biggest"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 everyday（everyday）。结合上下文辨认词义与词形。",
         "evidence": "That suggests these everyday experiences may matter across a broad spectrum of mental health.",
@@ -1685,6 +1715,12 @@
         "id": "c8",
         "number": 8,
         "answer": "clubs",
+        "options": [
+          "screens",
+          "friends",
+          "hobbies",
+          "clubs"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 clubs（club）。结合上下文辨认词义与词形。",
         "evidence": "It also means making it easier for young people to spend time together in person, whether through clubs, recreation programs, community events or other welcoming spaces.",
@@ -1694,6 +1730,12 @@
         "id": "c9",
         "number": 9,
         "answer": "struggling",
+        "options": [
+          "struggling",
+          "intriguing",
+          "students",
+          "scrolling"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 struggling（struggle）。结合上下文辨认词义与词形。",
         "evidence": "None of this means mental illness can be solved by telling a struggling young person to put down their phone, join a club or get more sleep.",
@@ -1703,6 +1745,12 @@
         "id": "c10",
         "number": 10,
         "answer": "symptoms",
+        "options": [
+          "hobbies",
+          "symptoms",
+          "distress",
+          "illness"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 symptoms（symptom）。结合上下文辨认词义与词形。",
         "evidence": "But our findings suggest that helping young people thrive requires more than treating symptoms.",
@@ -1791,5 +1839,8 @@
       }
     ]
   },
-  "revision": "de4f705749c8e52d5be5beddaf0af1302f4b44f7f201b2cc0a74315cb871dd06"
+  "revision": "98e31f8d03909648d29e493372324a5dbc3f42ee58c0df11ae85e1c236939b78",
+  "compatibleProgressRevisions": [
+    "de4f705749c8e52d5be5beddaf0af1302f4b44f7f201b2cc0a74315cb871dd06"
+  ]
 }

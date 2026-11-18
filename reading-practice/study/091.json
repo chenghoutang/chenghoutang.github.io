@@ -3492,23 +3492,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       16,
       25
-    ],
-    "wordBank": [
-      "importance",
-      "desires",
-      "Commerce",
-      "publicly",
-      "publishers",
-      "contemporary",
-      "balancing",
-      "objective",
-      "emotional",
-      "possessions"
     ],
     "parts": [
       {
@@ -3580,6 +3568,12 @@
         "id": "c1",
         "number": 1,
         "answer": "publishers",
+        "options": [
+          "progress",
+          "physics",
+          "similarities",
+          "publishers"
+        ],
         "vocabularyId": "v137",
         "explanation": "原文此处使用 publishers（publisher）。结合上下文辨认词义与词形。",
         "evidence": "Nevertheless, mediums had livelihoods, publishers needed subscribers and organisers needed to cover costs.",
@@ -3589,6 +3583,12 @@
         "id": "c2",
         "number": 2,
         "answer": "publicly",
+        "options": [
+          "publicly",
+          "partly",
+          "underbelly",
+          "heavily"
+        ],
         "vocabularyId": "v148",
         "explanation": "原文此处使用 publicly（publicly）。结合上下文辨认词义与词形。",
         "evidence": "To protect the movement’s brand, mediums such as Daniel Dunglas Home would publicly refuse direct payment for seances.",
@@ -3598,6 +3598,12 @@
         "id": "c3",
         "number": 3,
         "answer": "Commerce",
+        "options": [
+          "premium",
+          "grief",
+          "Commerce",
+          "familiar"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 Commerce（commerce）。结合上下文辨认词义与词形。",
         "evidence": "Commerce became easier to accept when presented as support for a higher calling.",
@@ -3607,6 +3613,12 @@
         "id": "c4",
         "number": 4,
         "answer": "possessions",
+        "options": [
+          "possessions",
+          "similarities",
+          "advances",
+          "progress"
+        ],
         "vocabularyId": "v169",
         "explanation": "原文此处使用 possessions（possession）。结合上下文辨认词义与词形。",
         "evidence": "Periodicals such as the Medium and Daybreak could devote their opening pages to condemning materialism and warning readers against excessive attachment to worldly possessions, only to fill their back pages with advertisements for dubious remedies, elixirs and quasi-scientific products marketed to those very readers.",
@@ -3616,6 +3628,12 @@
         "id": "c5",
         "number": 5,
         "answer": "balancing",
+        "options": [
+          "discomforting",
+          "expressing",
+          "shopping",
+          "balancing"
+        ],
         "vocabularyId": "v176",
         "explanation": "原文此处使用 balancing（balance）。结合上下文辨认词义与词形。",
         "evidence": "Scientific credibility also required balancing. Spiritualists welcomed scientists’ involvement, approximated scientific and philosophical language, and used technical equipment to make extraordinary claims appear worthy of serious attention.",
@@ -3625,6 +3643,12 @@
         "id": "c6",
         "number": 6,
         "answer": "objective",
+        "options": [
+          "spiritualist",
+          "premium",
+          "objective",
+          "familiar"
+        ],
         "vocabularyId": "v185",
         "explanation": "原文此处使用 objective（objective）。结合上下文辨认词义与词形。",
         "evidence": "A supposedly objective technology could produce images presented as evidence of spirits.",
@@ -3634,6 +3658,12 @@
         "id": "c7",
         "number": 7,
         "answer": "importance",
+        "options": [
+          "familiar",
+          "importance",
+          "credibility",
+          "spiritualist"
+        ],
         "vocabularyId": "v194",
         "explanation": "原文此处使用 importance（importance）。结合上下文辨认词义与词形。",
         "evidence": "The correspondent alludes to the importance of darkness, not to conceal any trickery but to mitigate the “trying effect of daylight” on ghosts’ “materialisation”.",
@@ -3643,6 +3673,12 @@
         "id": "c8",
         "number": 8,
         "answer": "contemporary",
+        "options": [
+          "contemporary",
+          "spiritualism",
+          "exploitation",
+          "similarities"
+        ],
         "vocabularyId": "v206",
         "explanation": "原文此处使用 contemporary（contemporary）。结合上下文辨认词义与词形。",
         "evidence": "Yet contemporary forms of “digital necromancy” reveal a remarkably familiar tension: the desire to transcend the limits of human existence continues to generate new income streams.",
@@ -3652,6 +3688,12 @@
         "id": "c9",
         "number": 9,
         "answer": "emotional",
+        "options": [
+          "useful",
+          "reproducible",
+          "optical",
+          "emotional"
+        ],
         "vocabularyId": "v217",
         "explanation": "原文此处使用 emotional（emotional）。结合上下文辨认词义与词形。",
         "evidence": "As with Victorian mediums, today’s grief-tech entrepreneurs operate within a delicate relationship between emotional need, technological credibility and commercial legitimacy.",
@@ -3661,6 +3703,12 @@
         "id": "c10",
         "number": 10,
         "answer": "desires",
+        "options": [
+          "desires",
+          "arcades",
+          "ghosts",
+          "feats"
+        ],
         "vocabularyId": "v24",
         "explanation": "原文此处使用 desires（desire）。结合上下文辨认词义与词形。",
         "evidence": "Perhaps this is the more unsettling legacy of Victorian spiritualism: desires that appear to challenge a society’s dominant values may, in fact, help sustain the very structures they seem to resist.",
@@ -3749,5 +3797,8 @@
       }
     ]
   },
-  "revision": "3821740e3716b50888189a177a881670c4a485a6fb757ebe0729f896ac737c98"
+  "revision": "90291232ec0da0e551ebe11be2eaca0a99c4c1ccbc01ceb57a4f8553a8ee29ad",
+  "compatibleProgressRevisions": [
+    "3821740e3716b50888189a177a881670c4a485a6fb757ebe0729f896ac737c98"
+  ]
 }

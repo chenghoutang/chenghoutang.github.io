@@ -1911,23 +1911,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       8,
       16
-    ],
-    "wordBank": [
-      "contexts",
-      "towards",
-      "vital",
-      "poorly",
-      "microlithic",
-      "toxic",
-      "larvae",
-      "hunter-gatherers",
-      "depends",
-      "recovered"
     ],
     "parts": [
       {
@@ -1999,6 +1987,12 @@
         "id": "c1",
         "number": 1,
         "answer": "contexts",
+        "options": [
+          "traces",
+          "precautions",
+          "arrowheads",
+          "contexts"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 contexts（context）。结合上下文辨认词义与词形。",
         "evidence": "Surprisingly, poison assisted-hunting is widely known from a variety of archaeological and ethnographic contexts.",
@@ -2008,6 +2002,12 @@
         "id": "c2",
         "number": 2,
         "answer": "larvae",
+        "options": [
+          "larvae",
+          "poison",
+          "toxins",
+          "secret"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 larvae（larva）。结合上下文辨认词义与词形。",
         "evidence": "The San and Ju|’hoan people of Namibia use beetle larvae, as well as sap from a succulent plant called the Bushman poison (Adenium boehmianum).",
@@ -2017,6 +2017,12 @@
         "id": "c3",
         "number": 3,
         "answer": "microlithic",
+        "options": [
+          "archaeological",
+          "toxic",
+          "microlithic",
+          "exact"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 microlithic（microlithic）。结合上下文辨认词义与词形。",
         "evidence": "The oldest direct evidence of the use of poisoned microlithic (small) tools is from a site in Umhlatuzana Rock Shelter in KwaZulu-Natal.",
@@ -2026,6 +2032,12 @@
         "id": "c4",
         "number": 4,
         "answer": "recovered",
+        "options": [
+          "recovered",
+          "deliver",
+          "absorbed",
+          "proposed"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 recovered（recover）。结合上下文辨认词义与词形。",
         "evidence": "The archaeological levels in which these poisoned arrows were recovered have been dated to 60,000 years old, suggesting that this technology has deep roots.",
@@ -2035,6 +2047,12 @@
         "id": "c5",
         "number": 5,
         "answer": "vital",
+        "options": [
+          "bulbous",
+          "poorly",
+          "lovely",
+          "vital"
+        ],
         "vocabularyId": "v83",
         "explanation": "原文此处使用 vital（vital）。结合上下文辨认词义与词形。",
         "evidence": "For poison to be effective, a certain set of skills and precautions are vital.",
@@ -2044,6 +2062,12 @@
         "id": "c6",
         "number": 6,
         "answer": "depends",
+        "options": [
+          "direct",
+          "proposed",
+          "depends",
+          "deliver"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 depends（depend）。结合上下文辨认词义与词形。",
         "evidence": "This depends on knowledge of the particular poison, and it sometimes necessitates removing the flesh around the arrow wound.",
@@ -2053,6 +2077,12 @@
         "id": "c7",
         "number": 7,
         "answer": "poorly",
+        "options": [
+          "bulbous",
+          "poorly",
+          "lovely",
+          "vital"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 poorly（poorly）。结合上下文辨认词义与词形。",
         "evidence": "The crucial distinction is that a substance can be deadly through a wound but may only be poorly absorbed when swallowed.",
@@ -2062,6 +2092,12 @@
         "id": "c8",
         "number": 8,
         "answer": "toxic",
+        "options": [
+          "toxic",
+          "exact",
+          "ethnographic",
+          "glorious"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 toxic（toxic）。结合上下文辨认词义与词形。",
         "evidence": "For the Danish findings, the authors infer the use of poison from the relationship between arrow-tip shape, prey size and the availability of toxic plants in the environment.",
@@ -2071,6 +2107,12 @@
         "id": "c9",
         "number": 9,
         "answer": "hunter-gatherers",
+        "options": [
+          "seeds",
+          "toxins",
+          "arrowheads",
+          "hunter-gatherers"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 hunter-gatherers（hunter-gatherer）。结合上下文辨认词义与词形。",
         "evidence": "From about 19,000 to 12,500 BC, hunter-gatherers associated with the Magdalenian tradition lived across much of western and central Europe.",
@@ -2080,6 +2122,12 @@
         "id": "c10",
         "number": 10,
         "answer": "towards",
+        "options": [
+          "towards",
+          "dangerous",
+          "contexts",
+          "seeds"
+        ],
         "vocabularyId": "v114",
         "explanation": "原文此处使用 towards（towards）。结合上下文辨认词义与词形。",
         "evidence": "As the Magdalenian came to an end, there’s a trend towards miniaturisation in the stone tools used by successor cultures.",
@@ -2168,5 +2216,8 @@
       }
     ]
   },
-  "revision": "60e1aa913a87e1128b0bb8f626d0e07a28f22e601407f4918f10894975f59250"
+  "revision": "e0804e81afb6c29a22d71a4ff438c58c82b766bec1c90aa897ceae232d62e5bf",
+  "compatibleProgressRevisions": [
+    "60e1aa913a87e1128b0bb8f626d0e07a28f22e601407f4918f10894975f59250"
+  ]
 }

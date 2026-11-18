@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 5,
+  "folder": "031",
+  "articleSha256": "907a22dbac5b96258b3e93cbd7bacd35a75d71f2c6cf8bd62c7319832cce2281",
+  "titleEn": "Dunkelflaute: why cloudy, windless weather is a challenge for power networks that rely on renewables",
+  "titleZh": "阴天又无风：为何这类天气会挑战可再生能源电网",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "In early November 2024, a large mass of still, cloudy, cold air settled over much of north-west Europe. For much of a week, wind turbines barely moved and the output from solar farms was negligible. In some areas, cold temperatures meant people needed extra electricity to heat their homes.",
+      "zh": "2024年11月初，大量静止、多云的冷空气在欧洲西北部的大部分地区停留。在一周的大部分时间里，风力涡轮机几乎没有移动，太阳能发电场的输出可以忽略不计。在一些地区，寒冷的气温意味着人们需要额外的电力来为房屋供暖。"
+    },
+    {
+      "number": 2,
+      "en": "Something similar happened on a smaller scale in early November 2026, when low wind-power generation across Europe left the UK scrambling for extra electricity. These are examples of a so-called dunkelflaute, German for “dark doldrums”, a weather-related challenge for electricity systems as they become increasingly reliant on renewables. Wind and solar generation now accounts for more than a third of the electricity produced in Great Britain, for example, from a baseline of almost nothing just 20 years ago. This shift is central to efforts to reach net zero, and will play a key role in decarbonising other sectors such as heating and transport.",
+      "zh": "2026年11月初，类似的情况在较小范围内发生过，当时整个欧洲的风力发电量很低，英国不得不争抢额外的电力。这些都是所谓的dunkelflaute（德语中的“黑暗低迷”）的例子，天气-随着电力系统越来越依赖可再生能源，电力系统面临着相关的挑战。风能和太阳能发电现在占大不列颠及北爱尔兰联合王国发电量的三分之一以上。例如，英国从20年前的几乎为零的基线开始，这一转变是实现净零排放的核心，并将在供暖和运输等其他行业的脱碳中发挥关键作用。"
+    },
+    {
+      "number": 3,
+      "en": "The introduction of large amounts of weather-sensitive generation has created new challenges for power-system operators. A central concept within this is “balancing” – the need to ensure the supply of and demand for electricity match in near real-time.",
+      "zh": "大量采用对天气敏感的发电方式给电力系统运营商带来了新的挑战，其中的一个核心概念是“平衡”--确保电力供应和需求近乎实时地匹配。"
+    },
+    {
+      "number": 4,
+      "en": "This used to be relatively simple. When demand increased, power plants would burn more coal or gas. These days, maintaining balance can be extremely challenging in periods of unfavourable weather conditions and, if left unchecked, mismatches in supply and demand could quickly spiral into disconnections and blackouts.",
+      "zh": "这在过去相对简单。当需求增加时，发电厂将燃烧更多的煤炭或天然气。如今，在不利的天气条件下，保持平衡可能极具挑战性，如果不加以控制，供需不匹配可能迅速导致断电和停电。"
+    },
+    {
+      "number": 5,
+      "en": "Putting power systems under pressure",
+      "zh": "使电力系统承受压力"
+    },
+    {
+      "number": 6,
+      "en": "A dunkelflaute is usually associated with high-pressure weather systems over north-western Europe. As these move slowly and cover large areas, their effects can persist across several countries for days at a time, reducing the availability of wind and solar power simultaneously.",
+      "zh": "dunkelflaute通常与欧洲西北部的高压天气系统有关。由于这些天气系统移动缓慢，覆盖面积很大，其影响可能会持续数天，同时减少风能和太阳能的可用性。"
+    },
+    {
+      "number": 7,
+      "en": "In winter, these high-pressure systems are typically associated with colder temperatures in northern Europe, thereby driving up the demand for electricity. This combination of reduced renewable generation and higher demand puts individual power systems under strain.",
+      "zh": "在冬季，这些高压系统通常与北方欧洲较冷的温度相关，从而推高了电力需求。这种可再生能源发电量减少和需求增加的组合使单个电力系统承受压力。"
+    },
+    {
+      "number": 8,
+      "en": "The overall impact is exacerbated when neighbouring countries experience the same conditions at the same time, limiting opportunities to import electricity to compensate. As these events can last several days, electricity storage can become depleted – particularly given that current storage capacity is typically designed to provide power for several hours at most.",
+      "zh": "当邻国同时遭遇同样的情况，限制了进口电力的机会来弥补时，总体影响会加剧。由于这些事件可能持续数天，电力储存可能会耗尽-特别是考虑到目前的储存容量通常最多只能提供数小时的电力。"
+    },
+    {
+      "number": 9,
+      "en": "How electricity systems can cope",
+      "zh": "电力系统如何科普"
+    },
+    {
+      "number": 10,
+      "en": "Power systems can cope with dunkelflaute conditions in several ways. At present, as many countries are still transitioning away from fossil fuels, a common approach has been to use existing power stations as a backup.",
+      "zh": "电力系统可以通过几种方式科普dunkelflaute条件。目前，由于许多国家仍在向化石燃料过渡，因此常用的方法是使用现有的发电站作为备用。"
+    },
+    {
+      "number": 11,
+      "en": "Gas power stations, for example, can adjust their output relatively quickly to match changes in demand and renewable generation. This makes them a convenient way to maintain supply during a dunkelflaute, though it can be expensive, especially when the supply-demand balancing act is very tight. The UK National Energy System Operator’s Clean Power 2030 advice proposes keeping around 35GW of gas power to provide backup when renewable generation is low.",
+      "zh": "例如，天然气发电站可以相对快速地调整其输出，以适应需求和可再生能源发电的变化。这使得它们成为在dunkelflaute期间维持供应的方便方式，尽管它可能很昂贵，特别是当供应-英国国家能源系统运营商的清洁电力2030建议建议保持约35吉瓦的天然气电力，以提供备用时，可再生能源发电量很低。"
+    },
+    {
+      "number": 12,
+      "en": "In the longer term, power-system operators and planners may seek to make electricity systems more flexible, reducing the need to match generation and demand instantaneously. Several measures can help to do this, and some are already in use.",
+      "zh": "从长远来看，电力系统运营商和规划者可能会寻求使电力系统更加灵活，减少发电和需求即时匹配的需要，有几项措施可以帮助做到这一点，其中一些已经在使用。"
+    },
+    {
+      "number": 13,
+      "en": "Electricity use can be shifted to times when the weather is favourable, for instance, perhaps by offering lower prices during windy or sunny days. Strengthening transmission connections within and between countries also helps to make better use of regional differences in renewable generation and electricity demand.",
+      "zh": "例如，可以将用电转移到天气有利的时候，比如在刮风或晴天提供较低的电价，加强国家内部和国家之间的输电连接也有助于更好地利用可再生能源发电和电力需求的区域差异。"
+    },
+    {
+      "number": 14,
+      "en": "Building more electricity storage could also help absorb surplus generated electricity and release it when supplies are low, from large batteries to alternatives such as pumped storage hydropower which works by moving water between two reservoirs. Linking electricity systems with other forms of energy use could help here. For example, excess electricity could be used to produce hydrogen, which can then be stored and used as a fuel.",
+      "zh": "建造更多的电力储存设施也有助于吸收多余的发电量，并在供应不足时释放出来，从大型电池到抽水蓄能水电等替代能源，抽水蓄能水电是通过在两个水库之间移动水来工作的。将电力系统与其他形式的能源使用联系起来可能会有所帮助。例如，多余的电力可以用来生产氢气，氢气可以储存起来用作燃料。"
+    },
+    {
+      "number": 15,
+      "en": "Understanding the severity, geographical extent and duration of dunkelflaute conditions, and the extent to which they may affect electricity supplies, is therefore an important challenge, both in the present and under a changing climate.",
+      "zh": "因此，了解dunkelflaute条件的严重程度，地理范围和持续时间，以及它们可能影响电力供应的程度，无论是在目前还是在气候变化的情况下，都是一个重要的挑战。"
+    },
+    {
+      "number": 16,
+      "en": "However, it is worth remembering that dunkelflaute periods were only identified as a significant risk to power systems because of the growing reliance on wind and solar energy. Before these technologies became widespread, few would have considered these otherwise benign conditions to be a weather hazard compared to more familiar threats such as flooding or storms.",
+      "zh": "然而，值得记住的是，由于人们对风能和太阳能的依赖越来越大，Dunkelflaute时期才被认为是电力系统的重大风险。在这些技术普及之前，很少有人会认为这些原本良性的条件是一种天气危害。与洪水或风暴等更熟悉的威胁相比。"
+    },
+    {
+      "number": 17,
+      "en": "This underlines the importance of being alert to emerging weather risks as energy systems evolve, and for more collaboration between energy and climate researchers. This collaboration will be essential to managing weather risks as renewable energy becomes the norm and the climate keeps changing.",
+      "zh": "这强调了随着能源系统的发展，对新出现的天气风险保持警惕的重要性，以及能源和气候研究人员之间加强合作的重要性。随着可再生能源成为常态和气候不断变化，这种合作对于管理天气风险至关重要。"
+    }
+  ]
+}

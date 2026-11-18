@@ -2483,23 +2483,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       11
-    ],
-    "wordBank": [
-      "minerals",
-      "promote",
-      "fetuses",
-      "occurrence",
-      "pathogens",
-      "detect",
-      "disrupt",
-      "persist",
-      "essential",
-      "annual"
     ],
     "parts": [
       {
@@ -2571,6 +2559,12 @@
         "id": "c1",
         "number": 1,
         "answer": "minerals",
+        "options": [
+          "molecules",
+          "minerals",
+          "symptoms",
+          "compounds"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 minerals（mineral）。结合上下文辨认词义与词形。",
         "evidence": "It also contains natural minerals, dissolved organic and biological matter, and substances that enter from agriculture, industry, consumer products and water treatment.",
@@ -2580,6 +2574,12 @@
         "id": "c2",
         "number": 2,
         "answer": "essential",
+        "options": [
+          "waterborne",
+          "sneaky",
+          "essential",
+          "immediate"
+        ],
         "vocabularyId": "v17",
         "explanation": "原文此处使用 essential（essential）。结合上下文辨认词义与词形。",
         "evidence": "Some are beneficial, and even essential, such as sodium, fluoride and calcium ions, which build strong bones and teeth.",
@@ -2589,6 +2589,12 @@
         "id": "c3",
         "number": 3,
         "answer": "disrupt",
+        "options": [
+          "detect",
+          "promote",
+          "regulate",
+          "disrupt"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 disrupt（disrupt）。结合上下文辨认词义与词形。",
         "evidence": "In fact, drinking large quantities of completely demineralized or distilled water can disrupt the body’s electrolyte balance.",
@@ -2598,6 +2604,12 @@
         "id": "c4",
         "number": 4,
         "answer": "annual",
+        "options": [
+          "annual",
+          "calcium",
+          "organic",
+          "teeth"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 annual（annual）。结合上下文辨认词义与词形。",
         "evidence": "Most people encounter water-quality science through an annual report from their local water company.",
@@ -2607,6 +2619,12 @@
         "id": "c5",
         "number": 5,
         "answer": "promote",
+        "options": [
+          "summarizes",
+          "regulate",
+          "promote",
+          "detect"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 promote（promote）。结合上下文辨认词义与词形。",
         "evidence": "It lists various compounds that may exist in the water, summarizes what has been found in tests of the water source, and explains whether the water meets government-set standards that promote and protect public health and safety.",
@@ -2616,6 +2634,12 @@
         "id": "c6",
         "number": 6,
         "answer": "detect",
+        "options": [
+          "detect",
+          "regulate",
+          "persist",
+          "distilled"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 detect（detect）。结合上下文辨认词义与词形。",
         "evidence": "These reports provide important information about drinking water safety, but they are not a complete inventory of every substance scientists can detect or are working to understand.",
@@ -2625,6 +2649,12 @@
         "id": "c7",
         "number": 7,
         "answer": "pathogens",
+        "options": [
+          "substances",
+          "molecules",
+          "minerals",
+          "pathogens"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 pathogens（pathogen）。结合上下文辨认词义与词形。",
         "evidence": "This includes pollutants and pathogens that are not included on an annual water report.",
@@ -2634,6 +2664,12 @@
         "id": "c8",
         "number": 8,
         "answer": "persist",
+        "options": [
+          "dilute",
+          "distilled",
+          "persist",
+          "disrupt"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 persist（persist）。结合上下文辨认词义与词形。",
         "evidence": "Consider perfluoroalkyl and polyfluoroalkyl substances, more commonly known as PFAS and also called “forever chemicals” because they persist in the environment for a long time.",
@@ -2643,6 +2679,12 @@
         "id": "c9",
         "number": 9,
         "answer": "fetuses",
+        "options": [
+          "substances",
+          "fetuses",
+          "molecules",
+          "quantities"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 fetuses（fetuses）。结合上下文辨认词义与词形。",
         "evidence": "Research has linked exposure to certain PFAS with adverse chronic health effects, such as endocrine disruption, low birth weight in fetuses and certain types of cancer.",
@@ -2652,6 +2694,12 @@
         "id": "c10",
         "number": 10,
         "answer": "occurrence",
+        "options": [
+          "occurrence",
+          "molecules",
+          "dissolved",
+          "agriculture"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 occurrence（occurrence）。结合上下文辨认词义与词形。",
         "evidence": "However, the broader chemical family includes many others whose occurrence and health effects are less understood by scientists and completely missed by the public or policy.",
@@ -2740,5 +2788,8 @@
       }
     ]
   },
-  "revision": "f87db17a3457d862eeeeaccde9eedf3b6c6b22b79a24ba873481cf839cdf5d63"
+  "revision": "38d3ac11dba0de917b6bb200d2331b438803ca46773b38a84730b5a821baa880",
+  "compatibleProgressRevisions": [
+    "f87db17a3457d862eeeeaccde9eedf3b6c6b22b79a24ba873481cf839cdf5d63"
+  ]
 }

@@ -191,15 +191,24 @@ function cloze(doc, vocab) {
         parts.push({ text: window.text.slice(offset, gap.start) }, { gap: index + 1 });
         const paragraph = window.start + window.text.slice(0, gap.start).split('\n\n').length;
         const evidence = doc.sentences.find(sentence => sentence.paragraph === paragraph && patternFor(gap.answer).test(sentence.text))?.text || doc.paragraphs[paragraph - 1];
+        const partOfSpeech = gap.item.en.match(/^([nvas])\.?\s/)?.[1];
+        const suffix = gap.answer.toLowerCase().match(/(?:ing|ed|ly|s)$/)?.[0] || '';
+        const ranked = words.filter(item => item.headword !== gap.item.headword && item.term.toLowerCase() !== gap.answer.toLowerCase())
+            .map(item => ({ term: item.term, score: (partOfSpeech && item.en.startsWith(partOfSpeech) ? 5 : 0)
+                + (suffix && item.term.endsWith(suffix) ? 3 : 0) + (Math.abs(item.term.length - gap.answer.length) <= 3 ? 1 : 0) }))
+            .sort((a, b) => b.score - a.score);
+        const candidates = [...new Set(ranked.map(item => item.term))].slice(0, 8);
+        const choiceData = makeOptions(gap.answer, candidates, doc.row.number * 17 + index);
         questions.push({ id: `c${index + 1}`, number: index + 1, answer: gap.answer,
+            options: choiceData.options,
             vocabularyId: gap.item.id, explanation: `原文此处使用 ${gap.answer}（${gap.item.headword}）。结合上下文辨认词义与词形。`,
             evidence, paragraph });
         offset = gap.end;
     }
     parts.push({ text: window.text.slice(offset) });
-    return { title: '原文选词填空', instruction: '从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。',
+    return { title: '四选一完形填空', instruction: '阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。',
         sourceParagraphs: [window.start + 1, window.end + 1],
-        wordBank: shuffled(questions.map(question => question.answer), doc.row.number), parts, questions };
+        parts, questions };
 }
 
 function comprehension(doc) {
@@ -261,6 +270,16 @@ for (const doc of docs) {
         vocabularyNote: '学术词、主题术语和常用搭配；提供词典释义与原文例句。多义词需结合例句辨义。',
         vocabulary: vocab, cloze: cloze(doc, vocab), reading: comprehension(doc) };
     material.revision = crypto.createHash('sha256').update(JSON.stringify(material)).digest('hex');
+    const previousFile = path.join(output, `${doc.row.folder}.json`);
+    if (fs.existsSync(previousFile)) {
+        const previous = JSON.parse(fs.readFileSync(previousFile, 'utf8'));
+        if (previous.articleSha256 === material.articleSha256
+            && JSON.stringify(previous.reading) === JSON.stringify(material.reading)
+            && JSON.stringify(previous.cloze.parts) === JSON.stringify(material.cloze.parts)
+            && JSON.stringify(previous.cloze.questions.map(question => question.answer)) === JSON.stringify(material.cloze.questions.map(question => question.answer))) {
+            material.compatibleProgressRevisions = [...new Set([...(previous.compatibleProgressRevisions || []), previous.revision])].filter(revision => revision && revision !== material.revision);
+        }
+    }
     // All evidence must be present, in the cited paragraph, in this article.
     for (const question of [...material.cloze.questions, ...material.reading.questions]) {
         assert.ok(doc.paragraphs[question.paragraph - 1].includes(question.evidence), `${doc.row.folder}/${question.id}: invalid evidence`);

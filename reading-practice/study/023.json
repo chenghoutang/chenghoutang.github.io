@@ -1700,23 +1700,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       11
-    ],
-    "wordBank": [
-      "concentrations",
-      "flushed",
-      "harmful",
-      "agricultural",
-      "widespread",
-      "poisoning",
-      "exceed",
-      "nitrogen",
-      "estimate",
-      "scarce"
     ],
     "parts": [
       {
@@ -1788,6 +1776,12 @@
         "id": "c1",
         "number": 1,
         "answer": "harmful",
+        "options": [
+          "unexpected",
+          "algal",
+          "dangerous",
+          "harmful"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 harmful（harmful）。结合上下文辨认词义与词形。",
         "evidence": "Typically, when people hear about nitrates, it involves runoff from farm fields, sewage systems and cities that can fuel harmful algae blooms and raise the risk of a serious illness in infants known as “blue baby syndrome.”",
@@ -1797,6 +1791,12 @@
         "id": "c2",
         "number": 2,
         "answer": "nitrogen",
+        "options": [
+          "nitrogen",
+          "infants",
+          "algae",
+          "runoff"
+        ],
         "vocabularyId": "v18",
         "explanation": "原文此处使用 nitrogen（nitrogen）。结合上下文辨认词义与词形。",
         "evidence": "But a river can also run through a sparsely populated landscape with little farming and still contain surprisingly high levels of this form of nitrogen that can harm aquatic life, drinking water and human health.",
@@ -1806,6 +1806,12 @@
         "id": "c3",
         "number": 3,
         "answer": "concentrations",
+        "options": [
+          "spots",
+          "concentrations",
+          "illness",
+          "nitrates"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 concentrations（concentration）。结合上下文辨认词义与词形。",
         "evidence": "In a new study, my colleague and I found a reason why that happens: Dry climate conditions are associated with high river nitrate concentrations, even in places with little farming or urban development.",
@@ -1815,6 +1821,12 @@
         "id": "c4",
         "number": 4,
         "answer": "scarce",
+        "options": [
+          "aware",
+          "dangerous",
+          "scarce",
+          "agricultural"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 scarce（scarce）。结合上下文辨认词义与词形。",
         "evidence": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
@@ -1824,6 +1836,12 @@
         "id": "c5",
         "number": 5,
         "answer": "flushed",
+        "options": [
+          "trained",
+          "combined",
+          "overlooked",
+          "flushed"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 flushed（flush）。结合上下文辨认词义与词形。",
         "evidence": "Where water is scarce, we found that nitrates – which can naturally leach into surface water and groundwater from the soil as microbes break down organic material – were able to accumulate and become concentrated rather than being diluted or flushed away.",
@@ -1833,6 +1851,12 @@
         "id": "c6",
         "number": 6,
         "answer": "widespread",
+        "options": [
+          "widespread",
+          "nearby",
+          "costly",
+          "harmful"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 widespread（widespread）。结合上下文辨认词义与词形。",
         "evidence": "To see how widespread this pattern is, we combined global measurements from more than 7,000 monitoring sites and additionally extracted information about climate, soils, land use and other landscape features.",
@@ -1842,6 +1866,12 @@
         "id": "c7",
         "number": 7,
         "answer": "estimate",
+        "options": [
+          "blooms",
+          "infants",
+          "estimate",
+          "algae"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 estimate（estimate）。结合上下文辨认词义与词形。",
         "evidence": "We then trained machine learning models to estimate long-term average nitrate concentrations across nearly 2.9 million river segments worldwide.",
@@ -1851,6 +1881,12 @@
         "id": "c8",
         "number": 8,
         "answer": "agricultural",
+        "options": [
+          "agricultural",
+          "scarce",
+          "dangerous",
+          "harmful"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 agricultural（agricultural）。结合上下文辨认词义与词形。",
         "evidence": "The resulting map suggests that nitrates deserve attention well beyond the urban and agricultural regions where they are usually monitored.",
@@ -1860,6 +1896,12 @@
         "id": "c9",
         "number": 9,
         "answer": "poisoning",
+        "options": [
+          "runoff",
+          "infants",
+          "nitrates",
+          "poisoning"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 poisoning（poison）。结合上下文辨认词义与词形。",
         "evidence": "Blue baby syndrome, or methemoglobinemia, can result in serious illnesses and be caused by nitrate poisoning.",
@@ -1869,6 +1911,12 @@
         "id": "c10",
         "number": 10,
         "answer": "exceed",
+        "options": [
+          "elevated",
+          "diluted",
+          "exceed",
+          "extracted"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 exceed（exceed）。结合上下文辨认词义与词形。",
         "evidence": "We estimate that about 37,000 people worldwide live in areas where rivers exceed the 10 mg/L drinking water standard, predominantly in the U.S. Corn Belt.",
@@ -1957,5 +2005,8 @@
       }
     ]
   },
-  "revision": "a4443a0ebfc66a91858ab71927da69f86d1a372e36a5bb11ce1de7dd0a050e87"
+  "revision": "6028c8b8bf564a706fa262379c87977bdba8a15573f83fd70fa6474ec042c79f",
+  "compatibleProgressRevisions": [
+    "a4443a0ebfc66a91858ab71927da69f86d1a372e36a5bb11ce1de7dd0a050e87"
+  ]
 }

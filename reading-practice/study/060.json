@@ -1423,23 +1423,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       15
-    ],
-    "wordBank": [
-      "uncertainty",
-      "morphology",
-      "educators",
-      "extends",
-      "belong",
-      "training",
-      "interact",
-      "average",
-      "equip",
-      "additional"
     ],
     "parts": [
       {
@@ -1511,6 +1499,12 @@
         "id": "c1",
         "number": 1,
         "answer": "interact",
+        "options": [
+          "interact",
+          "practise",
+          "interpret",
+          "depends"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 interact（interact）。结合上下文辨认词义与词形。",
         "evidence": "The teacher needs to understand how sounds, letters and word structure interact, then use that understanding to interpret the student’s attempt and choose a useful explanation.",
@@ -1520,6 +1514,12 @@
         "id": "c2",
         "number": 2,
         "answer": "equip",
+        "options": [
+          "encoding",
+          "react",
+          "equip",
+          "interact"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 equip（equip）。结合上下文辨认词义与词形。",
         "evidence": "Being able to read fluently ourselves does not automatically equip us to do that.",
@@ -1529,6 +1529,12 @@
         "id": "c3",
         "number": 3,
         "answer": "average",
+        "options": [
+          "average",
+          "spelling",
+          "sentence",
+          "pauses"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 average（average）。结合上下文辨认词义与词形。",
         "evidence": "On average, they answered 53% of questions in this area correctly.",
@@ -1538,6 +1544,12 @@
         "id": "c4",
         "number": 4,
         "answer": "uncertainty",
+        "options": [
+          "difficulties",
+          "spelling",
+          "children",
+          "uncertainty"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 uncertainty（uncertainty）。结合上下文辨认词义与词形。",
         "evidence": "One teacher from our study captured the uncertainty: “I can identify when readers are struggling but do not yet have the right skills and experience to help them.”",
@@ -1547,6 +1559,12 @@
         "id": "c5",
         "number": 5,
         "answer": "extends",
+        "options": [
+          "interpret",
+          "interact",
+          "extends",
+          "equip"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 extends（extend）。结合上下文辨认词义与词形。",
         "evidence": "The concern extends beyond Scotland. A 2026 meta-analysis of 143 studies, most conducted in English-speaking countries, identified gaps in teachers’ language and literacy knowledge.",
@@ -1556,6 +1574,12 @@
         "id": "c6",
         "number": 6,
         "answer": "morphology",
+        "options": [
+          "reading",
+          "morphology",
+          "sentence",
+          "difficulties"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 morphology（morphology）。结合上下文辨认词义与词形。",
         "evidence": "Trainees need to understand sound–letter relationships and word structure (morphology) explicitly.",
@@ -1565,6 +1589,12 @@
         "id": "c7",
         "number": 7,
         "answer": "training",
+        "options": [
+          "training",
+          "spelling",
+          "reading",
+          "children"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 training（train）。结合上下文辨认词义与词形。",
         "evidence": "A review of 20 studies of teacher preparation and training found that programmes allowing teachers to apply their learning under expert guidance produced the largest gains in teacher knowledge.",
@@ -1574,6 +1604,12 @@
         "id": "c8",
         "number": 8,
         "answer": "belong",
+        "options": [
+          "react",
+          "depends",
+          "varies",
+          "belong"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 belong（belong）。结合上下文辨认词义与词形。",
         "evidence": "There is evidence that preparation can build this knowledge. A review of 20 studies of teacher preparation and training found that programmes allowing teachers to apply their learning under expert guidance produced the largest gains in teacher knowledge. It also reported preliminary evidence of benefits for children’s word reading. Knowledge development and supported practice belong together.",
@@ -1583,6 +1619,12 @@
         "id": "c9",
         "number": 9,
         "answer": "additional",
+        "options": [
+          "additional",
+          "children",
+          "knowledgeable",
+          "suitable"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 additional（additional）。结合上下文辨认词义与词形。",
         "evidence": "In this Scottish programme, trainee teachers combined explicit language and literacy coursework with tutoring children in their second year of primary school who needed additional reading support.",
@@ -1592,6 +1634,12 @@
         "id": "c10",
         "number": 10,
         "answer": "educators",
+        "options": [
+          "targets",
+          "educators",
+          "pauses",
+          "readers"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 educators（educator）。结合上下文辨认词义与词形。",
         "evidence": "Trainees rehearsed lessons with peers, used assessment to choose a starting point, monitored progress weekly and adjusted lessons with feedback from teacher educators.",
@@ -1680,5 +1728,8 @@
       }
     ]
   },
-  "revision": "e6b314d38c956cbc9532a640b17f1df37604b05de9167897407f68941c6969e5"
+  "revision": "b981e059a07003460eea3b854ad4c8a98dd5aee16b0b91016fdb4d636717490c",
+  "compatibleProgressRevisions": [
+    "e6b314d38c956cbc9532a640b17f1df37604b05de9167897407f68941c6969e5"
+  ]
 }

@@ -3380,23 +3380,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       10
-    ],
-    "wordBank": [
-      "expenses",
-      "struggling",
-      "burdens",
-      "expensive",
-      "innovated",
-      "innovative",
-      "sharp",
-      "previous",
-      "states",
-      "universal"
     ],
     "parts": [
       {
@@ -3468,6 +3456,12 @@
         "id": "c1",
         "number": 1,
         "answer": "sharp",
+        "options": [
+          "costs",
+          "sharp",
+          "hitting",
+          "infusion"
+        ],
         "vocabularyId": "v11",
         "explanation": "原文此处使用 sharp（sharp）。结合上下文辨认词义与词形。",
         "evidence": "After a huge infusion of federal funds into childcare dried up at the end of the Biden administration, experts warned that this sharp cutoff, sometimes dubbed the “childcare cliff,” would force parents to either scale back work to handle the extra caretaking or pay steep costs out of pocket.",
@@ -3477,6 +3471,12 @@
         "id": "c2",
         "number": 2,
         "answer": "states",
+        "options": [
+          "states",
+          "groceries",
+          "slots",
+          "burdens"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 states（state）。结合上下文辨认词义与词形。",
         "evidence": "The potential effects of the federal cuts are hard to estimate, in part because states took different approaches in the aftermath.",
@@ -3486,6 +3486,12 @@
         "id": "c3",
         "number": 3,
         "answer": "innovated",
+        "options": [
+          "redirecting",
+          "directed",
+          "subsidized",
+          "innovated"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 innovated（innovate）。结合上下文辨认词义与词形。",
         "evidence": "But several states, including Vermont, New Mexico and Kentucky, have gone further and innovated on their own to shore up support for working parents and their young children.",
@@ -3495,6 +3501,12 @@
         "id": "c4",
         "number": 4,
         "answer": "universal",
+        "options": [
+          "universal",
+          "groceries",
+          "expense",
+          "childcare"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 universal（universal）。结合上下文辨认词义与词形。",
         "evidence": "Meanwhile, New York City is expanding free toddler slots for lower-income families, following Mayor Zohran Mamdani’s announcement to build a universal early childcare system.",
@@ -3504,6 +3516,12 @@
         "id": "c5",
         "number": 5,
         "answer": "burdens",
+        "options": [
+          "facets",
+          "burdens",
+          "states",
+          "slots"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 burdens（burden）。结合上下文辨认词义与词形。",
         "evidence": "Taken together, these experiments point to bipartisan ways to support working parents, especially if the results of the November 2026 midterms signal a new willingness to tackle one of the biggest cost burdens for families.",
@@ -3513,6 +3531,12 @@
         "id": "c6",
         "number": 6,
         "answer": "struggling",
+        "options": [
+          "hitting",
+          "soaring",
+          "struggling",
+          "renting"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 struggling（struggle）。结合上下文辨认词义与词形。",
         "evidence": "We see them struggling with a fragmented childcare system that’s in need of a deep strategic investment.",
@@ -3522,6 +3546,12 @@
         "id": "c7",
         "number": 7,
         "answer": "expenses",
+        "options": [
+          "costs",
+          "experiments",
+          "facets",
+          "expenses"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 expenses（expense）。结合上下文辨认词义与词形。",
         "evidence": "Out-of-pocket expenses for parents using center-based care in childcare centers and private preschool programs have more than doubled since 2019.",
@@ -3531,6 +3561,12 @@
         "id": "c8",
         "number": 8,
         "answer": "expensive",
+        "options": [
+          "expensive",
+          "informal",
+          "sufficient",
+          "reliable"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 expensive（expensive）。结合上下文辨认词义与词形。",
         "evidence": "In 2024, the national average price of childcare was US$13,128 annually, which rivals housing as the most expensive item in family budgets.",
@@ -3540,6 +3576,12 @@
         "id": "c9",
         "number": 9,
         "answer": "innovative",
+        "options": [
+          "previous",
+          "so-called",
+          "innovative",
+          "unlicensed"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 innovative（innovative）。结合上下文辨认词义与词形。",
         "evidence": "But we believe it also presented an opportunity for innovative investments in the nation’s fractured childcare landscape.",
@@ -3549,6 +3591,12 @@
         "id": "c10",
         "number": 10,
         "answer": "previous",
+        "options": [
+          "newborns",
+          "innovative",
+          "previous",
+          "so-called"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 previous（previous）。结合上下文辨认词义与词形。",
         "evidence": "This funding increase, which was a fourfold jump over previous levels, supported childcare staff with higher wages and allowed for other investments to improve the quality of care.",
@@ -3637,5 +3685,8 @@
       }
     ]
   },
-  "revision": "51f8142ef7133a7c9e03584d992746add110e796bef5ac1122a52d35cf216de3"
+  "revision": "db0928217c611f036a0e023211d373e5dad51962bad7a6d3eb7abeeb55ff82bf",
+  "compatibleProgressRevisions": [
+    "51f8142ef7133a7c9e03584d992746add110e796bef5ac1122a52d35cf216de3"
+  ]
 }

@@ -1034,23 +1034,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       7
-    ],
-    "wordBank": [
-      "previous",
-      "facilitate",
-      "proximity",
-      "measurements",
-      "regularly",
-      "foundation",
-      "behaviour",
-      "restorative",
-      "pandemic",
-      "typically"
     ],
     "parts": [
       {
@@ -1122,6 +1110,12 @@
         "id": "c1",
         "number": 1,
         "answer": "pandemic",
+        "options": [
+          "pandemic",
+          "adolescence",
+          "foundation",
+          "lifestyles"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 pandemic（pandemic）。结合上下文辨认词义与词形。",
         "evidence": "This was exacerbated by the COVID pandemic and continues to be a concern, particularly around issues such as sedentary lifestyles and excessive screen time.",
@@ -1131,6 +1125,12 @@
         "id": "c2",
         "number": 2,
         "answer": "regularly",
+        "options": [
+          "pandemic",
+          "regularly",
+          "typically",
+          "health"
+        ],
         "vocabularyId": "v14",
         "explanation": "原文此处使用 regularly（regularly）。结合上下文辨认词义与词形。",
         "evidence": "In a new study, colleagues and I have found that visiting a local park regularly had a measurable impact on child mental health.",
@@ -1140,6 +1140,12 @@
         "id": "c3",
         "number": 3,
         "answer": "foundation",
+        "options": [
+          "foundation",
+          "lifestyles",
+          "milestones",
+          "adolescence"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 foundation（foundation）。结合上下文辨认词义与词形。",
         "evidence": "This social-emotional development provides the foundation for good mental health.",
@@ -1149,6 +1155,12 @@
         "id": "c4",
         "number": 4,
         "answer": "facilitate",
+        "options": [
+          "investigated",
+          "sedentary",
+          "exacerbated",
+          "facilitate"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 facilitate（facilitate）。结合上下文辨认词义与词形。",
         "evidence": "This means that finding ways to facilitate and encourage healthy social-emotional development is a way to improve child mental health and give them the foundation for good mental health throughout their lives.",
@@ -1158,6 +1170,12 @@
         "id": "c5",
         "number": 5,
         "answer": "previous",
+        "options": [
+          "previous",
+          "lifestyles",
+          "excessive",
+          "milestones"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 previous（previous）。结合上下文辨认词义与词形。",
         "evidence": "Having green and natural spaces close to people’s homes is one factor which previous studies have shown is linked with improved child mental health.",
@@ -1167,6 +1185,12 @@
         "id": "c6",
         "number": 6,
         "answer": "behaviour",
+        "options": [
+          "lifestyles",
+          "behaviour",
+          "health",
+          "screen"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 behaviour（behaviour）。结合上下文辨认词义与词形。",
         "evidence": "These spaces are thought to improve child mental health by encouraging healthy behaviour.",
@@ -1176,6 +1200,12 @@
         "id": "c7",
         "number": 7,
         "answer": "restorative",
+        "options": [
+          "pandemic",
+          "childhood",
+          "restorative",
+          "lifestyles"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 restorative（restorative）。结合上下文辨认词义与词形。",
         "evidence": "Research suggests that being in natural spaces can have restorative and stress-reducing effects for both children and adults.",
@@ -1185,6 +1215,12 @@
         "id": "c8",
         "number": 8,
         "answer": "measurements",
+        "options": [
+          "colleagues",
+          "milestones",
+          "lifestyles",
+          "measurements"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 measurements（measurement）。结合上下文辨认词义与词形。",
         "evidence": "This means that the study measurements are taken at a single point in time, rather than following children over time.",
@@ -1194,6 +1230,12 @@
         "id": "c9",
         "number": 9,
         "answer": "typically",
+        "options": [
+          "typically",
+          "exacerbated",
+          "sedentary",
+          "mental"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 typically（typically）。结合上下文辨认词义与词形。",
         "evidence": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
@@ -1203,6 +1245,12 @@
         "id": "c10",
         "number": 10,
         "answer": "proximity",
+        "options": [
+          "colleagues",
+          "lifestyles",
+          "proximity",
+          "impact"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 proximity（proximity）。结合上下文辨认词义与词形。",
         "evidence": "These studies also typically measure residential proximity to green and natural spaces, rather than measuring how often children are actually taken to these spaces.",
@@ -1291,5 +1339,8 @@
       }
     ]
   },
-  "revision": "8e7f0dee9f42c3283d3097b04d35749f3ab6f07617810b2ccddf87ae3ff8b581"
+  "revision": "35e1e8ef0af1cf85ef68937fd126194c7073014d5f6c911a00e86c8f8d2beba9",
+  "compatibleProgressRevisions": [
+    "8e7f0dee9f42c3283d3097b04d35749f3ab6f07617810b2ccddf87ae3ff8b581"
+  ]
 }

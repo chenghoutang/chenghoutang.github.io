@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 5,
+  "folder": "009",
+  "articleSha256": "0d1ad83464b6dc32bbff5865b6dba10a768fe2ed05bf82242fdc17a1ca92c643",
+  "titleEn": "Do AI agents have minds? A philosopher explains",
+  "titleZh": "人工智能体有心智吗？一位哲学家的解释",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "In the past few months, partly autonomous or “agentic” artificial intelligence (AI) systems have racked up some astonishing feats, from hacking tech startups to solving some of the world’s most famous open mathematical questions.",
+      "zh": "在过去的几个月里，部分自主或“代理”的人工智能（AI）系统取得了一些惊人的成就，从黑客攻击科技初创公司到解决一些世界上最著名的开放式数学问题。"
+    },
+    {
+      "number": 2,
+      "en": "Agentic AI systems can work in “swarms” that communicate among themselves to complete tasks. The communications involved are often surprisingly human-like – which is spurring a debate over whether these systems are conscious.",
+      "zh": "智能人工智能系统可以“成群”地工作，通过相互通信来完成任务。所涉及的通信通常令人惊讶地类似于人类--这引发了一场关于这些系统是否有意识的辩论。"
+    },
+    {
+      "number": 3,
+      "en": "Researchers at the leading AI lab Anthropic believe their systems may well be conscious – but other experts, including the head of Microsoft AI, say this view is misguided.",
+      "zh": "领先的人工智能实验室人类图片公司的研究人员认为，他们的系统很可能是有意识的--但包括微软人工智能负责人在内的其他专家表示，这种观点是被误导的。"
+    },
+    {
+      "number": 4,
+      "en": "This question isn’t just an academic one. The future status of AI systems and their role in society – how they can be treated, whether they have rights, and more – may depend on it.",
+      "zh": "这个问题不仅仅是一个学术问题，人工智能系统的未来地位及其在社会中的作用--如何对待它们，它们是否享有权利，等等--可能都取决于它。"
+    },
+    {
+      "number": 5,
+      "en": "How can we decide if AI systems are conscious?",
+      "zh": "我们如何判断人工智能系统是否有意识？"
+    },
+    {
+      "number": 6,
+      "en": "How do we even approach a question like this? One strategy is to look at existing theories of what consciousness is and see if agentic AI systems meet the criteria.",
+      "zh": "我们该如何处理这样的问题呢？一种策略是研究现有的关于意识是什么的理论，看看代理人工智能系统是否符合标准。"
+    },
+    {
+      "number": 7,
+      "en": "However, existing theories of consciousness tend to start from the assumption that the agent has some kind of mental state. These theories are focused on the difference between having a state consciously or unconsciously. This is why they appeal to features such as higher-order thought, or a system that broadcasts thoughts to the rest of the mind. These are features that could distinguish between conscious control and states like sleepwalking.",
+      "zh": "然而，现有的意识理论倾向于从主体具有某种精神状态的假设出发。这些理论关注的是有意识或无意识状态之间的区别。这就是为什么它们诉诸于诸如高阶思维或向大脑其他部分传播思想的系统等特征。这些特征可以区分有意识控制和梦游等状态。"
+    },
+    {
+      "number": 8,
+      "en": "So when thinking about AI, we must not skip a crucial first question: do agentic AIs even have mental states?",
+      "zh": "因此，在思考人工智能时，我们不能跳过一个至关重要的第一个问题：代理人的人工智能有精神状态吗？"
+    },
+    {
+      "number": 9,
+      "en": "What is a mental state?",
+      "zh": "什么是精神状态？"
+    },
+    {
+      "number": 10,
+      "en": "In the 1870s, philosopher Franz Brentano developed an influential view: “intentionality is the mark of the mental”.",
+      "zh": "19世纪70年代，哲学家弗朗茨·布伦塔诺提出了一个有影响力的观点：“意向性是心智的标志”。"
+    },
+    {
+      "number": 11,
+      "en": "What Brentano means by “intentionality” is how mental states are about something. They refer to something beyond themselves. So another way to put Brentano’s point is that all mental states are about something or other.",
+      "zh": "布伦塔诺所说的“意向性”是指精神状态是如何关于某件事的，它们指的是超越自身的某件事，因此，布伦塔诺的观点的另一种表达方式是，所有的精神状态都是关于某件事的。"
+    },
+    {
+      "number": 12,
+      "en": "What Brentano means by intentionality is not the same as the usual meaning of “intention” as aiming to do something. Yet intentionality and an intention to act significantly overlap, because having a perception or thought is something that we do.",
+      "zh": "布伦塔诺所指的意向性与“意图”的通常含义（旨在做某事）并不相同，但意向性与行动的意图有着明显的重叠，因为拥有感知或思想是我们所做的事情。"
+    },
+    {
+      "number": 13,
+      "en": "Whenever we perceive or think, we are trying to pick out some aspect of the world. Even our passive-seeming visual experiences are tasks the moment that we use the patterns striking our retinas to orient ourselves.",
+      "zh": "每当我们感知或思考的时候，我们都在试图找出世界的某个方面，甚至我们看似被动的视觉体验也是一项任务，那一刻我们就利用视网膜上的模式来确定自己的方向。"
+    },
+    {
+      "number": 14,
+      "en": "So if a mental state is a task performed to achieve a goal, our question about AI minds turns on whether they have their own goals.",
+      "zh": "因此，如果一种精神状态是为了实现一个目标而执行的一项任务，那么我们对人工智能大脑的问题就在于它们是否有自己的目标。"
+    },
+    {
+      "number": 15,
+      "en": "Are agentic AI systems really agents?",
+      "zh": "智能人工智能系统真的是智能体吗？"
+    },
+    {
+      "number": 16,
+      "en": "It is now common to refer to certain AI systems as “agents”. Yet this language is misleading. It implies the AI systems have agency, or the capacity to act towards their own goals.",
+      "zh": "现在，人们普遍将某些人工智能系统称为“代理人”。然而，这种说法是误导性的。它暗示人工智能系统具有代理人，或朝着自己的目标行动的能力。"
+    },
+    {
+      "number": 17,
+      "en": "Humans use devices to achieve their aims, including their aims to refer to things, without those devices becoming agents in their own right. A thermostat regulates the temperature, but it does not have the goal of regulating the temperature. A book contains words that refer to things – but again, the book does not have the goal of referring to things.",
+      "zh": "人类使用设备来实现自己的目标，包括指代事物的目标，而这些设备本身并不成为代理人;恒温器可以调节温度，但它的目标并不是调节温度;一本书包含了指代事物的词语，但同样，这本书的目标也不是指代事物。"
+    },
+    {
+      "number": 18,
+      "en": "To attribute agency to a computer program, we must be convinced that no human is required to stand behind its goals. Its goal-directedness must be independent.",
+      "zh": "要将能动性归因于计算机程序，我们必须确信，不需要任何人来支持它的目标，它的目标导向性必须是独立的。"
+    },
+    {
+      "number": 19,
+      "en": "We know that agentic AIs, when given a task, can develop complex and unexpected sub-goals on the way to achieving it. Yet the goals that ultimately drive their activity are set by the humans who program and instruct them. Any sub-goals generated by an AI are literally meaningless outside of these aims set by humans.",
+      "zh": "我们知道，当被赋予一项任务时，智能人工智能可以在完成任务的过程中发展出复杂而意想不到的子目标。然而，最终驱动它们活动的目标是由编程和指导它们的人类设定的。除了人类设定的这些目标之外，人工智能产生的任何子目标都毫无意义。"
+    },
+    {
+      "number": 20,
+      "en": "Think of a game like football. A person might have the sub-goal of running past a defender, but it is literally meaningless without the larger goal of trying to score. And scoring a goal itself is simply making a ball cross a line without the larger goal of playing football. Without the larger goal, anything a player does on the field is merely activity.",
+      "zh": "想想足球这样的运动，一个人可能有跑过防守队员的次要目标，但如果没有试图得分这个更大的目标，那么这个次要目标就毫无意义了。而得分本身就是让球越过一条线，而没有踢足球这个更大的目标。如果没有更大的目标，一个球员在球场上所做的一切都只是活动。"
+    },
+    {
+      "number": 21,
+      "en": "Why do agents have goals?",
+      "zh": "代理为什么有目标？"
+    },
+    {
+      "number": 22,
+      "en": "A genuine agent has goals in order to promote things they care about – for example, you want to satisfy your hunger at lunchtime, so you go to a bakery and buy a sandwich.",
+      "zh": "一个真正的代理人有目标，以促进他们关心的事情-例如，你想在午餐时间满足你的饥饿感，所以你去面包店买了一个三明治。"
+    },
+    {
+      "number": 23,
+      "en": "Agentic AI is unlikely to care about things in an independent way, because its activity is not connected to life in the same way minds are.",
+      "zh": "智能人工智能不太可能以一种独立的方式关心事物，因为它的活动与生命的联系方式不像心智那样。"
+    },
+    {
+      "number": 24,
+      "en": "What distinctively allows living beings to generate their own goals is that their mental activity develops out of the processes for constantly re-constituting their own bodies and keeping themselves alive. Goal-driven thinking builds up from simple signals for regulating nutrition and warmth to states like pain and pleasure and eventually to symbolic thought.",
+      "zh": "生物之所以能够产生自己的目标，是因为它们的心理活动是在不断重建自己的身体和维持自身生命的过程中发展起来的，目标驱动的思维从简单的调节营养和温暖的信号发展到痛苦和快乐等状态，最终发展到象征性思维。"
+    },
+    {
+      "number": 25,
+      "en": "Nothing like this is going on in agentic AI. There is a disconnect between its information-processing activities and the physical stuff on which it depends.",
+      "zh": "在智能人工智能中却没有这样的情况，它的信息处理活动和它所依赖的物理物质之间存在着脱节。"
+    },
+    {
+      "number": 26,
+      "en": "Can AI ever be conscious?",
+      "zh": "人工智能有意识吗？"
+    },
+    {
+      "number": 27,
+      "en": "Agentic AI systems are not conscious. They don’t have mental states which could be conscious.",
+      "zh": "智能人工智能系统是没有意识的，他们没有意识的精神状态。"
+    },
+    {
+      "number": 28,
+      "en": "Only living beings have conscious mental states because having a mental state requires a being to originate a certain kind of goal – the goal to mean something or to refer to something – and only living beings originate goals.",
+      "zh": "只有生物才有意识的精神状态，因为拥有一种精神状态需要一个生物产生某种目标--这个目标意味着什么或指代什么--而只有生物产生目标。"
+    },
+    {
+      "number": 29,
+      "en": "This argument does not permanently rule out the possibility of AI consciousness. However, it does suggest that this could only arise in some artificial form of life.",
+      "zh": "这一论点并不能永久排除人工智能意识的可能性。然而，它确实表明，这只可能出现在某种人工生命形式中。"
+    },
+    {
+      "number": 30,
+      "en": "Until then, we have more reason to think that an ant is conscious than an agentic AI is. At least an ant seems to care about its own life.",
+      "zh": "在此之前，我们有更多的理由认为蚂蚁比智能人工智能更有意识，至少蚂蚁似乎关心自己的生命。"
+    },
+    {
+      "number": 31,
+      "en": "Of course, the fact agentic AIs are not really agents does not stop them from wreaking havoc by carrying out functions that their human originators do not properly supervise or understand. But we should be very clear on this: whatever an agentic AI does, that is a human or group of humans acting indirectly on the world, and those humans are responsible for the outcome.",
+      "zh": "当然，代理人工智能并不是真正的代理人，这并不能阻止它们通过执行其人类创造者并不正确监督或理解的功能来造成破坏，但我们应该非常清楚：无论代理人工智能做什么，那都是一个人或一群人间接地对世界起作用，而这些人要对结果负责。"
+    },
+    {
+      "number": 32,
+      "en": "The author would like to thank Paulo Santos for advice on this article.",
+      "zh": "作者感谢Paulo桑托斯对本文的建议。“"
+    }
+  ]
+}

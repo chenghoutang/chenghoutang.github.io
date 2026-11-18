@@ -1876,23 +1876,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       8
-    ],
-    "wordBank": [
-      "kindergarten",
-      "improvements",
-      "convenience",
-      "administered",
-      "outcomes",
-      "motor",
-      "corporate",
-      "promote",
-      "developmentally",
-      "attended"
     ],
     "parts": [
       {
@@ -1964,6 +1952,12 @@
         "id": "c1",
         "number": 1,
         "answer": "convenience",
+        "options": [
+          "preschool",
+          "proximity",
+          "routines",
+          "convenience"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 convenience（convenience）。结合上下文辨认词义与词形。",
         "evidence": "Parents are weighing cost, proximity and convenience with how each program meets the needs of the child and matches the goals and values of their family and cultural community.",
@@ -1973,6 +1967,12 @@
         "id": "c2",
         "number": 2,
         "answer": "developmentally",
+        "options": [
+          "kindergarten",
+          "publicly",
+          "developmentally",
+          "currently"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 developmentally（developmentally）。结合上下文辨认词义与词形。",
         "evidence": "Research in early education clearly shows that children who attend high-quality preschool programs – those with smaller class sizes, a developmentally appropriate curriculum, warm teacher-child interactions and established, efficient routines – are better prepared for kindergarten.",
@@ -1982,6 +1982,12 @@
         "id": "c3",
         "number": 3,
         "answer": "kindergarten",
+        "options": [
+          "convenience",
+          "kindergarten",
+          "preschool",
+          "childcare"
+        ],
         "vocabularyId": "v13",
         "explanation": "原文此处使用 kindergarten（kindergarten）。结合上下文辨认词义与词形。",
         "evidence": "Research in early education clearly shows that children who attend high-quality preschool programs – those with smaller class sizes, a developmentally appropriate curriculum, warm teacher-child interactions and established, efficient routines – are better prepared for kindergarten.",
@@ -1991,6 +1997,12 @@
         "id": "c4",
         "number": 4,
         "answer": "attended",
+        "options": [
+          "attended",
+          "enrolled",
+          "succeed",
+          "standardized"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 attended（attend）。结合上下文辨认词义与词形。",
         "evidence": "We are researchers who study early childhood education, and we conducted an 18-year study tracking the academic progress of 27,814 students who attended different types of prekindergarten in Miami and then went on to attend the Miami-Dade County Public Schools system from kindergarten through high school.",
@@ -2000,6 +2012,12 @@
         "id": "c5",
         "number": 5,
         "answer": "outcomes",
+        "options": [
+          "providers",
+          "progress",
+          "cohorts",
+          "outcomes"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 outcomes（outcome）。结合上下文辨认词义与词形。",
         "evidence": "We found that the type of pre-K program the children attended made a difference for their overall educational outcomes.",
@@ -2009,6 +2027,12 @@
         "id": "c6",
         "number": 6,
         "answer": "promote",
+        "options": [
+          "promote",
+          "assessing",
+          "inform",
+          "completed"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 promote（promote）。结合上下文辨认词义与词形。",
         "evidence": "From 2002 to 2007, we partnered with Miami-Dade County Public Schools, early childcare providers across the county and the Early Learning Coalition of Miami-Dade, a nonprofit that works with childcare providers and communities to promote school readiness, with the goal of assessing five cohorts of about 10,000 students per year.",
@@ -2018,6 +2042,12 @@
         "id": "c7",
         "number": 7,
         "answer": "motor",
+        "options": [
+          "matches",
+          "motor",
+          "students",
+          "school"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 motor（motor）。结合上下文辨认词义与词形。",
         "evidence": "School readiness takes into consideration the children’s cognitive, language, motor and social skills, as well as behavior problems.",
@@ -2027,6 +2057,12 @@
         "id": "c8",
         "number": 8,
         "answer": "improvements",
+        "options": [
+          "residences",
+          "qualifications",
+          "improvements",
+          "subsidies"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 improvements（improvement）。结合上下文辨认词义与词形。",
         "evidence": "During the study, we shared the data we collected with parents, teachers and center directors to inform interventions for struggling kids and improvements to their pre-K programs.",
@@ -2036,6 +2072,12 @@
         "id": "c9",
         "number": 9,
         "answer": "administered",
+        "options": [
+          "outperformed",
+          "observed",
+          "completed",
+          "administered"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 administered（administer）。结合上下文辨认词义与词形。",
         "evidence": "Some of the students in these five cohorts attended taxpayer-funded, public school pre-K programs, while some received federal subsidies administered through the state of Florida to attend center-based or family childcare at age 4.",
@@ -2045,6 +2087,12 @@
         "id": "c10",
         "number": 10,
         "answer": "corporate",
+        "options": [
+          "corporate",
+          "educational",
+          "cognitive",
+          "independent"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 corporate（corporate）。结合上下文辨认词义与词形。",
         "evidence": "They operate either in a freestanding location or as part of a corporate or faith-based building.",
@@ -2133,5 +2181,8 @@
       }
     ]
   },
-  "revision": "f4489b6217f0d6db0715f10e04a9869fa352fda2026af7cca1742ea6e6675f87"
+  "revision": "98840589166fbca4c9814d27bc7fb24118640dd9df250f65310e0a041b70861c",
+  "compatibleProgressRevisions": [
+    "f4489b6217f0d6db0715f10e04a9869fa352fda2026af7cca1742ea6e6675f87"
+  ]
 }

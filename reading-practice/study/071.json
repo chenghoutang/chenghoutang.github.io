@@ -2711,23 +2711,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       21
-    ],
-    "wordBank": [
-      "pinches",
-      "entertaining",
-      "facets",
-      "fiddles",
-      "unique",
-      "confirms",
-      "impressions",
-      "occupants",
-      "construction",
-      "readily"
     ],
     "parts": [
       {
@@ -2799,6 +2787,12 @@
         "id": "c1",
         "number": 1,
         "answer": "unique",
+        "options": [
+          "ancestral",
+          "mundane",
+          "wealthy",
+          "unique"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 unique（unique）。结合上下文辨认词义与词形。",
         "evidence": "The Caherconnell pen finds no exact comparisons within Ireland or elsewhere; its early secular context is also, so far, unique.",
@@ -2808,6 +2802,12 @@
         "id": "c2",
         "number": 2,
         "answer": "occupants",
+        "options": [
+          "occupants",
+          "settlements",
+          "workshops",
+          "farmers"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 occupants（occupant）。结合上下文辨认词义与词形。",
         "evidence": "However, it also reminds us that literate occupants of Caherconnell Cashel may have enjoyed composing, reading, and sharing ancestral pedigrees, praise poetry and epic tales “of gods and fighting men”.",
@@ -2817,6 +2817,12 @@
         "id": "c3",
         "number": 3,
         "answer": "construction",
+        "options": [
+          "overlooked",
+          "depictions",
+          "construction",
+          "intangible"
+        ],
         "vocabularyId": "v118",
         "explanation": "原文此处使用 construction（construction）。结合上下文辨认词义与词形。",
         "evidence": "The musical sounds of a settlement are rarely represented in its archaeological\nrecord. Wood, a common material in the construction of various instruments, rarely\nsurvives to the present day.",
@@ -2826,6 +2832,12 @@
         "id": "c4",
         "number": 4,
         "answer": "readily",
+        "options": [
+          "readily",
+          "rarely",
+          "largely",
+          "possibly"
+        ],
         "vocabularyId": "v122",
         "explanation": "原文此处使用 readily（readily）。结合上下文辨认词义与词形。",
         "evidence": "Two of the tuning pegs are readily identifiable as components of stringed instruments.",
@@ -2835,6 +2847,12 @@
         "id": "c5",
         "number": 5,
         "answer": "pinches",
+        "options": [
+          "depictions",
+          "fighters",
+          "luxuries",
+          "pinches"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 pinches（pinch）。结合上下文辨认词义与词形。",
         "evidence": "The opposite end pinches in slightly and is perforated by a small circular hole through which the string was attached.",
@@ -2844,6 +2862,12 @@
         "id": "c6",
         "number": 6,
         "answer": "impressions",
+        "options": [
+          "luxuries",
+          "depictions",
+          "impressions",
+          "workshops"
+        ],
         "vocabularyId": "v139",
         "explanation": "原文此处使用 impressions（impression）。结合上下文辨认词义与词形。",
         "evidence": "The bone tuning peg, being a relatively soft material, still bears impressions from the wire-string of the instrument.",
@@ -2853,6 +2877,12 @@
         "id": "c7",
         "number": 7,
         "answer": "fiddles",
+        "options": [
+          "confirms",
+          "fiddles",
+          "portrays",
+          "enclosed"
+        ],
         "vocabularyId": "v145",
         "explanation": "原文此处使用 fiddles（fiddle）。结合上下文辨认词义与词形。",
         "evidence": "Outside Ireland, shorter tuning pegs are commonly associated with lyres, lutes and fiddles (up to 65mm is classed as short).",
@@ -2862,6 +2892,12 @@
         "id": "c8",
         "number": 8,
         "answer": "confirms",
+        "options": [
+          "confirms",
+          "reminds",
+          "dominated",
+          "recovered"
+        ],
         "vocabularyId": "v151",
         "explanation": "原文此处使用 confirms（confirm）。结合上下文辨认词义与词形。",
         "evidence": "Depictions are found in several ecclesiastical contexts and early Irish literature confirms that lyres or lyre-like instruments were also used outside religious settings.",
@@ -2871,6 +2907,12 @@
         "id": "c9",
         "number": 9,
         "answer": "entertaining",
+        "options": [
+          "dominated",
+          "recovered",
+          "accompanying",
+          "entertaining"
+        ],
         "vocabularyId": "v159",
         "explanation": "原文此处使用 entertaining（entertain）。结合上下文辨认词义与词形。",
         "evidence": "These range from proclaiming the magnificence of the nobility to entertaining a family around their hearth in the evening.",
@@ -2880,6 +2922,12 @@
         "id": "c10",
         "number": 10,
         "answer": "facets",
+        "options": [
+          "facets",
+          "crafts",
+          "workshops",
+          "harps"
+        ],
         "vocabularyId": "v164",
         "explanation": "原文此处使用 facets（facet）。结合上下文辨认词义与词形。",
         "evidence": "In leisure, as in so many other facets of their lives, the occupants encountered, adopted, and no doubt adapted the most desirable elements of a wider cultural realm.",
@@ -2968,5 +3016,8 @@
       }
     ]
   },
-  "revision": "9e26a0a0beacf8de61c624838cf86f0ad5d57625dd7e47822d9d607f5fa9e37b"
+  "revision": "7dd3e4c675a41d22c98154798df669a254839705a5cb853316f5918003fac0a7",
+  "compatibleProgressRevisions": [
+    "9e26a0a0beacf8de61c624838cf86f0ad5d57625dd7e47822d9d607f5fa9e37b"
+  ]
 }

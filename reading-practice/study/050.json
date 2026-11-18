@@ -1898,23 +1898,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       17,
       24
-    ],
-    "wordBank": [
-      "temperature",
-      "gather",
-      "store",
-      "distributed",
-      "possibly",
-      "extra",
-      "collect",
-      "brown",
-      "percentage",
-      "hibernating"
     ],
     "parts": [
       {
@@ -1986,6 +1974,12 @@
         "id": "c1",
         "number": 1,
         "answer": "brown",
+        "options": [
+          "brown",
+          "store",
+          "pizzas",
+          "elbows"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 brown（brown）。结合上下文辨认词义与词形。",
         "evidence": "Researchers don’t know enough yet about brown fat to know why it is in just a few parts of the body.",
@@ -1995,6 +1989,12 @@
         "id": "c2",
         "number": 2,
         "answer": "temperature",
+        "options": [
+          "distribution",
+          "equivalent",
+          "kilograms",
+          "temperature"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 temperature（temperature）。结合上下文辨认词义与词形。",
         "evidence": "It is possible that it’s near the neck and around major blood vessels to help insulate the blood and keep overall body temperature in a healthy warm range.",
@@ -2004,6 +2004,12 @@
         "id": "c3",
         "number": 3,
         "answer": "collect",
+        "options": [
+          "insects",
+          "pounds",
+          "collect",
+          "elbows"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 collect（collect）。结合上下文辨认词义与词形。",
         "evidence": "Certain genes direct fat to accumulate in the butt, while other genes tell it to collect on the torso.",
@@ -2013,6 +2019,12 @@
         "id": "c4",
         "number": 4,
         "answer": "gather",
+        "options": [
+          "store",
+          "pounds",
+          "gather",
+          "insects"
+        ],
         "vocabularyId": "v70",
         "explanation": "原文此处使用 gather（gather）。结合上下文辨认词义与词形。",
         "evidence": "Hormones like estrogen, which affects almost every system in all bodies but is typically higher in females, direct more subcutaneous fat to gather in the butt, thighs and backs of the arms.",
@@ -2022,6 +2034,12 @@
         "id": "c5",
         "number": 5,
         "answer": "distributed",
+        "options": [
+          "distributed",
+          "insulating",
+          "evolved",
+          "accumulate"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 distributed（distribute）。结合上下文辨认词义与词形。",
         "evidence": "But why isn’t fat evenly distributed throughout the body?",
@@ -2031,6 +2049,12 @@
         "id": "c6",
         "number": 6,
         "answer": "possibly",
+        "options": [
+          "constantly",
+          "mainly",
+          "typically",
+          "possibly"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 possibly（possibly）。结合上下文辨认词义与词形。",
         "evidence": "Storing a lot of fat around your head would possibly put your brain at risk of overheating.",
@@ -2040,6 +2064,12 @@
         "id": "c7",
         "number": 7,
         "answer": "store",
+        "options": [
+          "cheese",
+          "pounds",
+          "store",
+          "insects"
+        ],
         "vocabularyId": "v2",
         "explanation": "原文此处使用 store（store）。结合上下文辨认词义与词形。",
         "evidence": "Other parts of your body, like hips, butts, breasts and thighs, don’t have these risks – maybe that’s why we store fat there.",
@@ -2049,6 +2079,12 @@
         "id": "c8",
         "number": 8,
         "answer": "percentage",
+        "options": [
+          "hibernation",
+          "percentage",
+          "kilograms",
+          "equivalent"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 percentage（percentage）。结合上下文辨认词义与词形。",
         "evidence": "Hippos only have around 2% body fat, the percentage of how much of your body mass comes from fat; while the average human woman has over 30% body fat.",
@@ -2058,6 +2094,12 @@
         "id": "c9",
         "number": 9,
         "answer": "hibernating",
+        "options": [
+          "hibernating",
+          "accumulate",
+          "distributed",
+          "regulate"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 hibernating（hibernate）。结合上下文辨认词义与词形。",
         "evidence": "In the rest of the animal kingdom, biologists typically only see a lot of body fat among hibernating or marine mammals.",
@@ -2067,6 +2109,12 @@
         "id": "c10",
         "number": 10,
         "answer": "extra",
+        "options": [
+          "cheese",
+          "pizzas",
+          "tissue",
+          "extra"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 extra（extra）。结合上下文辨认词义与词形。",
         "evidence": "For marine mammals like seals and whales, that extra fat is like a giant puffy coat helping to keep them warm in the cold depths of the ocean.",
@@ -2155,5 +2203,8 @@
       }
     ]
   },
-  "revision": "127be074a461b99f4f326f05c3a25199ccb22dd7caa9cf5c01da26c8588bee26"
+  "revision": "482cd43428f60adc49af304aaa31a54dec91c270e71832e3947ffd9c08669fa3",
+  "compatibleProgressRevisions": [
+    "127be074a461b99f4f326f05c3a25199ccb22dd7caa9cf5c01da26c8588bee26"
+  ]
 }

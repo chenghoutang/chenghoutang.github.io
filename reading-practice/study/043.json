@@ -1403,23 +1403,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       13
-    ],
-    "wordBank": [
-      "diagnoses",
-      "experimental",
-      "fertility",
-      "early",
-      "nearby",
-      "abnormal",
-      "repair",
-      "specialist",
-      "ultimately",
-      "ovaries"
     ],
     "parts": [
       {
@@ -1491,6 +1479,12 @@
         "id": "c1",
         "number": 1,
         "answer": "diagnoses",
+        "options": [
+          "changes",
+          "samples",
+          "ovaries",
+          "diagnoses"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 diagnoses（diagnosis）。结合上下文辨认词义与词形。",
         "evidence": "The researchers were working with samples from people whose diagnoses were already known.",
@@ -1500,6 +1494,12 @@
         "id": "c2",
         "number": 2,
         "answer": "abnormal",
+        "options": [
+          "abnormal",
+          "microscopic",
+          "early",
+          "serous"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 abnormal（abnormal）。结合上下文辨认词义与词形。",
         "evidence": "If the test were offered widely to people without symptoms, very few would be likely to have these patches of abnormal cells.",
@@ -1509,6 +1509,12 @@
         "id": "c3",
         "number": 3,
         "answer": "repair",
+        "options": [
+          "cancer",
+          "repair",
+          "molecule",
+          "changes"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 repair（repair）。结合上下文辨认词义与词形。",
         "evidence": "BRCA1 and BRCA2 are genes that help repair damage to DNA, the genetic instructions in our cells.",
@@ -1518,6 +1524,12 @@
         "id": "c4",
         "number": 4,
         "answer": "ovaries",
+        "options": [
+          "changes",
+          "samples",
+          "ovaries",
+          "packages"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 ovaries（ovary）。结合上下文辨认词义与词形。",
         "evidence": "They may be advised to consider surgery to remove their ovaries and fallopian tubes once they have finished having children or if they do not plan to have them.",
@@ -1527,6 +1539,12 @@
         "id": "c5",
         "number": 5,
         "answer": "fertility",
+        "options": [
+          "molecule",
+          "ovaries",
+          "cancer",
+          "fertility"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 fertility（fertility）。结合上下文辨认词义与词形。",
         "evidence": "The operation lowers their risk, but it ends their ability to get pregnant without fertility treatment.",
@@ -1536,6 +1554,12 @@
         "id": "c6",
         "number": 6,
         "answer": "specialist",
+        "options": [
+          "specialist",
+          "carcinoma",
+          "surgery",
+          "changes"
+        ],
         "vocabularyId": "v13",
         "explanation": "原文此处使用 specialist（specialist）。结合上下文辨认词义与词形。",
         "evidence": "The National Institute for Health and Care Excellence (Nice) advises that specialist teams can consider regular CA125 testing for some people at high inherited risk who delay or decline surgery.",
@@ -1545,6 +1569,12 @@
         "id": "c7",
         "number": 7,
         "answer": "experimental",
+        "options": [
+          "serous",
+          "unnecessary",
+          "experimental",
+          "uncertain"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 experimental（experimental）。结合上下文辨认词义与词形。",
         "evidence": "For now, even if the experimental test picks up no warning signs, that result gives someone no basis to postpone recommended surgery.",
@@ -1554,6 +1584,12 @@
         "id": "c8",
         "number": 8,
         "answer": "early",
+        "options": [
+          "early",
+          "genetic",
+          "tubal",
+          "serous"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 early（early）。结合上下文辨认词义与词形。",
         "evidence": "A large UK trial found that screening with CA125 picked up more ovarian and fallopian tube cancers at an early stage.",
@@ -1563,6 +1599,12 @@
         "id": "c9",
         "number": 9,
         "answer": "nearby",
+        "options": [
+          "fallopian",
+          "apart",
+          "cancer",
+          "nearby"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 nearby（nearby）。结合上下文辨认词义与词形。",
         "evidence": "With Tu-stroma, researchers still need to find out how often the abnormal cells in the tube lining start growing into nearby tissue.",
@@ -1572,6 +1614,12 @@
         "id": "c10",
         "number": 10,
         "answer": "ultimately",
+        "options": [
+          "high-grade",
+          "widely",
+          "ultimately",
+          "fallopian"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 ultimately（ultimately）。结合上下文辨认词义与词形。",
         "evidence": "The question a screening trial would ultimately have to answer is whether acting on that result saves lives.",
@@ -1660,5 +1708,8 @@
       }
     ]
   },
-  "revision": "323665233868f5feb5229b0a533930c96bd39ac30a426d91e11cd3a2e6999866"
+  "revision": "da0ec865895b4c82c7aa79e6c8f15deb43bf3925e613218b0356a070b89a16e5",
+  "compatibleProgressRevisions": [
+    "323665233868f5feb5229b0a533930c96bd39ac30a426d91e11cd3a2e6999866"
+  ]
 }

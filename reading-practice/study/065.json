@@ -1784,23 +1784,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       27,
       35
-    ],
-    "wordBank": [
-      "assumption",
-      "creative",
-      "ethics",
-      "influences",
-      "decline",
-      "childhood",
-      "prioritization",
-      "advocate",
-      "costs",
-      "prioritizing"
     ],
     "parts": [
       {
@@ -1872,6 +1860,12 @@
         "id": "c1",
         "number": 1,
         "answer": "ethics",
+        "options": [
+          "recess",
+          "ethics",
+          "districts",
+          "educators"
+        ],
         "vocabularyId": "v87",
         "explanation": "原文此处使用 ethics（ethics）。结合上下文辨认词义与词形。",
         "evidence": "I conducted research at the Project Zero research center for creativity, ethics and the arts at Harvard University and highlighted the significance of play and the arts within urban public schools.",
@@ -1881,6 +1875,12 @@
         "id": "c2",
         "number": 2,
         "answer": "creative",
+        "options": [
+          "outdoor",
+          "academic",
+          "creative",
+          "grassy"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 creative（creative）。结合上下文辨认词义与词形。",
         "evidence": "This 2024 study showed how play with materials supports both children’s and teachers’ creative learning.",
@@ -1890,6 +1890,12 @@
         "id": "c3",
         "number": 3,
         "answer": "prioritization",
+        "options": [
+          "adolescents",
+          "participating",
+          "consistently",
+          "prioritization"
+        ],
         "vocabularyId": "v92",
         "explanation": "原文此处使用 prioritization（prioritization）。结合上下文辨认词义与词形。",
         "evidence": "As someone who designs and studies children’s play spaces, I worry about what could happen if schools continue to reduce school recess because of staffing issues, budget cuts or prioritization of students’ preparation for high-stakes tests focused solely on literacy and numeracy.",
@@ -1899,6 +1905,12 @@
         "id": "c4",
         "number": 4,
         "answer": "prioritizing",
+        "options": [
+          "prioritizing",
+          "demonstrates",
+          "defines",
+          "participating"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 prioritizing（prioritize）。结合上下文辨认词义与词形。",
         "evidence": "Research shows that this trend of not prioritizing recess could have significant effects on children’s and adolescents’ mental health, cognitive development and overall enjoyment of school.",
@@ -1908,6 +1920,12 @@
         "id": "c5",
         "number": 5,
         "answer": "decline",
+        "options": [
+          "recess",
+          "decline",
+          "scholar",
+          "aside"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 decline（decline）。结合上下文辨认词义与词形。",
         "evidence": "The decline in time for recess comes at a moment when many schools and districts are under increasing pressure as a result of declining student enrollment, pressure to meet state learning standards and budget cuts.",
@@ -1917,6 +1935,12 @@
         "id": "c6",
         "number": 6,
         "answer": "costs",
+        "options": [
+          "recess",
+          "peers",
+          "costs",
+          "ethics"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 costs（costs）。结合上下文辨认词义与词形。",
         "evidence": "For some schools, reduced staffing and the costs of maintaining outdoor play equipment to meet safety requirements have made it difficult to offer school recess.",
@@ -1926,6 +1950,12 @@
         "id": "c7",
         "number": 7,
         "answer": "assumption",
+        "options": [
+          "running",
+          "witnessed",
+          "scholar",
+          "assumption"
+        ],
         "vocabularyId": "v108",
         "explanation": "原文此处使用 assumption（assumption）。结合上下文辨认词义与词形。",
         "evidence": "For other schools, an assumption that more time for instruction equals a higher-quality education may be driving decisions to minimize or eliminate time for unstructured play.",
@@ -1935,6 +1965,12 @@
         "id": "c8",
         "number": 8,
         "answer": "influences",
+        "options": [
+          "influences",
+          "districts",
+          "declines",
+          "recess"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 influences（influence）。结合上下文辨认词义与词形。",
         "evidence": "Another factor that influences recess is when schools deny students recess time as a form of punishment – a policy that some scholars and educators are trying to block through legislation.",
@@ -1944,6 +1980,12 @@
         "id": "c9",
         "number": 9,
         "answer": "childhood",
+        "options": [
+          "witnessed",
+          "recess",
+          "childhood",
+          "scholar"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 childhood（childhood）。结合上下文辨认词义与词形。",
         "evidence": "As childhood health, social and cognitive research demonstrates, the amount of time school recess is given matters in children’s development as whole human beings.",
@@ -1953,6 +1995,12 @@
         "id": "c10",
         "number": 10,
         "answer": "advocate",
+        "options": [
+          "advocate",
+          "scholar",
+          "running",
+          "break"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 advocate（advocate）。结合上下文辨认词义与词形。",
         "evidence": "I believe it is up to schools, districts and parents to advocate for and ensure children’s right to protected school recess time every day.",
@@ -2041,5 +2089,8 @@
       }
     ]
   },
-  "revision": "3f2f969b667418669ecd63ce1c4b43407d72042263a1afcc0f644b70301f918e"
+  "revision": "cd60d5fba92e23edd6a4db642f062a6c4846c6459023a4960f90296169ae56ac",
+  "compatibleProgressRevisions": [
+    "3f2f969b667418669ecd63ce1c4b43407d72042263a1afcc0f644b70301f918e"
+  ]
 }

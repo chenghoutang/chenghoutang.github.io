@@ -1671,23 +1671,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       15
-    ],
-    "wordBank": [
-      "outlook",
-      "comprehensive",
-      "achievement",
-      "composition",
-      "working-class",
-      "driver",
-      "socially",
-      "uneven",
-      "earners",
-      "privileged"
     ],
     "parts": [
       {
@@ -1759,6 +1747,12 @@
         "id": "c1",
         "number": 1,
         "answer": "outlook",
+        "options": [
+          "private",
+          "outlook",
+          "class",
+          "contrast"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 outlook（outlook）。结合上下文辨认词义与词形。",
         "evidence": "This matters, because who we go to school with fundamentally shapes our experience of education and our outlook on life.",
@@ -1768,6 +1762,12 @@
         "id": "c2",
         "number": 2,
         "answer": "achievement",
+        "options": [
+          "achievement",
+          "backgrounds",
+          "concentrated",
+          "secondary"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 achievement（achievement）。结合上下文辨认词义与词形。",
         "evidence": "When students from deprived backgrounds are unevenly distributed between schools, attainment gaps – the difference in academic achievement between richer and poorer students – tend to be larger.",
@@ -1777,6 +1777,12 @@
         "id": "c3",
         "number": 3,
         "answer": "socially",
+        "options": [
+          "heavily",
+          "highly",
+          "politically",
+          "socially"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 socially（socially）。结合上下文辨认词义与词形。",
         "evidence": "Less segregated, more socially mixed schools would improve achievement for all – and especially for lower-attaining students.",
@@ -1786,6 +1792,12 @@
         "id": "c4",
         "number": 4,
         "answer": "privileged",
+        "options": [
+          "privileged",
+          "schools",
+          "divided",
+          "private"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 privileged（privilege）。结合上下文辨认词义与词形。",
         "evidence": "Grammar schools, which ostensibly select students by academic ability, are disproportionately middle class. Research has found that once their privileged intake is accounted for, grammar schools are “no better or worse than the other schools in England”",
@@ -1795,6 +1807,12 @@
         "id": "c5",
         "number": 5,
         "answer": "comprehensive",
+        "options": [
+          "managerial",
+          "comprehensive",
+          "social",
+          "vocational"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 comprehensive（comprehensive）。结合上下文辨认词义与词形。",
         "evidence": "This is why there was support for the abolition of selective schooling in the 1960s, when comprehensive schools were introduced in all but a few parts of England.",
@@ -1804,6 +1822,12 @@
         "id": "c6",
         "number": 6,
         "answer": "driver",
+        "options": [
+          "contrast",
+          "schools",
+          "driver",
+          "private"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 driver（driver）。结合上下文辨认词义与词形。",
         "evidence": "But this reform did not include private schools, a key driver of educational inequality.",
@@ -1813,6 +1837,12 @@
         "id": "c7",
         "number": 7,
         "answer": "working-class",
+        "options": [
+          "substantial",
+          "inequalities",
+          "sought-after",
+          "working-class"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 working-class（working-class）。结合上下文辨认词义与词形。",
         "evidence": "More than any other school type, private schools concentrate wealth and advantage. Private schools educate barely any working-class students. In my research with colleagues, less than 3% of students in UK private schools were from the lowest social classes, compared to 16.7% in state schools and colleges.",
@@ -1822,6 +1852,12 @@
         "id": "c8",
         "number": 8,
         "answer": "earners",
+        "options": [
+          "earners",
+          "hides",
+          "intakes",
+          "students"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 earners（earner）。结合上下文辨认词义与词形。",
         "evidence": "We know that private schools are disproportionately attended by the highest earners and the upper middle classes.",
@@ -1831,6 +1867,12 @@
         "id": "c9",
         "number": 9,
         "answer": "composition",
+        "options": [
+          "segregation",
+          "composition",
+          "concentrated",
+          "dissimilarity"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 composition（composition）。结合上下文辨认词义与词形。",
         "evidence": "In our paper, we looked at the extent to which the social class composition of schools in local authority areas differs from the country as a whole.",
@@ -1840,6 +1882,12 @@
         "id": "c10",
         "number": 10,
         "answer": "uneven",
+        "options": [
+          "social",
+          "invisible",
+          "uneven",
+          "unfair"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 uneven（uneven）。结合上下文辨认词义与词形。",
         "evidence": "Greater segregation meant that schools had more uneven distribution of working or middle class students relative to the national distribution.",
@@ -1928,5 +1976,8 @@
       }
     ]
   },
-  "revision": "790bdba5e617c57188b9d43199aa01ce91c1f03ffd84ac96e5f14904b4164f24"
+  "revision": "f2f4ad24bfff66423c135a049714ef9ecd420aa6f52ae91a0c247ee67a341acf",
+  "compatibleProgressRevisions": [
+    "790bdba5e617c57188b9d43199aa01ce91c1f03ffd84ac96e5f14904b4164f24"
+  ]
 }

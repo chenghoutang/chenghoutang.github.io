@@ -1645,23 +1645,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       7
-    ],
-    "wordBank": [
-      "habitats",
-      "index",
-      "flock",
-      "potentially",
-      "presence",
-      "changing",
-      "progress",
-      "attract",
-      "harnessed",
-      "influence"
     ],
     "parts": [
       {
@@ -1733,6 +1721,12 @@
         "id": "c1",
         "number": 1,
         "answer": "habitats",
+        "options": [
+          "wetlands",
+          "crowds",
+          "spectators",
+          "habitats"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 habitats（habitat）。结合上下文辨认词义与词形。",
         "evidence": "But Britain’s breeding starling population has declined dramatically over recent decades, while changes in climate, migration and habitats are reshaping the lives of many birds.",
@@ -1742,6 +1736,12 @@
         "id": "c2",
         "number": 2,
         "answer": "changing",
+        "options": [
+          "changing",
+          "breeding",
+          "repeating",
+          "twisting"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 changing（change）。结合上下文辨认词义与词形。",
         "evidence": "By repeating a major citizen-science survey we carried out 12 years ago, we’re hoping to find out whether these spectacular displays are changing in size, timing or location.",
@@ -1751,6 +1751,12 @@
         "id": "c3",
         "number": 3,
         "answer": "index",
+        "options": [
+          "twisting",
+          "index",
+          "starling",
+          "crowds"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 index（index）。结合上下文辨认词义与词形。",
         "evidence": "This is part of a wider pattern of bird declines: the UK’s farmland bird population index has fallen by 62% since 1970, with intensification of farming playing a major role.",
@@ -1760,6 +1766,12 @@
         "id": "c4",
         "number": 4,
         "answer": "influence",
+        "options": [
+          "crowds",
+          "spectators",
+          "influence",
+          "shapes"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 influence（influence）。结合上下文辨认词义与词形。",
         "evidence": "Changes in where birds gather, when they arrive and how they behave could all influence the displays we see each winter.",
@@ -1769,6 +1781,12 @@
         "id": "c5",
         "number": 5,
         "answer": "potentially",
+        "options": [
+          "wetlands",
+          "spectators",
+          "dramatically",
+          "potentially"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 potentially（potentially）。结合上下文辨认词义与词形。",
         "evidence": "As winter conditions change, so might their migration patterns, potentially affecting the timing, location and size of murmurations.",
@@ -1778,6 +1796,12 @@
         "id": "c6",
         "number": 6,
         "answer": "harnessed",
+        "options": [
+          "harnessed",
+          "spectators",
+          "twisting",
+          "associated"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 harnessed（harness）。结合上下文辨认词义与词形。",
         "evidence": "Working with the Royal Society of Biology, we harnessed people power to record murmurations between 2014 and 2016.",
@@ -1787,6 +1811,12 @@
         "id": "c7",
         "number": 7,
         "answer": "presence",
+        "options": [
+          "autumn",
+          "presence",
+          "waves",
+          "starling"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 presence（presence）。结合上下文辨认词义与词形。",
         "evidence": "Volunteer citizen scientists submitted more than 3,000 observations, noting the size, duration and location of murmurations, plus the presence of any birds of prey.",
@@ -1796,6 +1826,12 @@
         "id": "c8",
         "number": 8,
         "answer": "progress",
+        "options": [
+          "shapes",
+          "crowds",
+          "progress",
+          "waves"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 progress（progress）。结合上下文辨认词义与词形。",
         "evidence": "Over the last 20 years, scientists have made considerable progress in understanding how thousands of birds coordinate their movements, with each responding to its neighbours to produce those extraordinary patterns.",
@@ -1805,6 +1841,12 @@
         "id": "c9",
         "number": 9,
         "answer": "attract",
+        "options": [
+          "recommend",
+          "exploring",
+          "submitted",
+          "attract"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 attract（attract）。结合上下文辨认词义与词形。",
         "evidence": "One explanation was that the displays helped attract birds to communal roosts, where gathering in large numbers might provide warmth.",
@@ -1814,6 +1856,12 @@
         "id": "c10",
         "number": 10,
         "answer": "flock",
+        "options": [
+          "flock",
+          "starling",
+          "crowds",
+          "waves"
+        ],
         "vocabularyId": "v11",
         "explanation": "原文此处使用 flock（flock）。结合上下文辨认词义与词形。",
         "evidence": "Moving together in a dense, constantly changing flock could make it harder for a predator to single out a specific bird, while providing more eyes to detect approaching danger.",
@@ -1902,5 +1950,8 @@
       }
     ]
   },
-  "revision": "a7de54d6e82e479d16a8449a92ec0ef5cf4203aeac2a4e7035f340ce601ecf74"
+  "revision": "f8e3e4d61dee2237af1c4363bc5cadf659148270e1bd9c9c9a0e63a760b2cefc",
+  "compatibleProgressRevisions": [
+    "a7de54d6e82e479d16a8449a92ec0ef5cf4203aeac2a4e7035f340ce601ecf74"
+  ]
 }

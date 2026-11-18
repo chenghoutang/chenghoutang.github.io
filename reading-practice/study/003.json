@@ -1807,23 +1807,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       15
-    ],
-    "wordBank": [
-      "magnetosphere",
-      "roughly",
-      "magnetic",
-      "physics",
-      "unless",
-      "convective",
-      "deduced",
-      "interactions",
-      "weather",
-      "attract"
     ],
     "parts": [
       {
@@ -1895,6 +1883,12 @@
         "id": "c1",
         "number": 1,
         "answer": "weather",
+        "options": [
+          "compass",
+          "trick",
+          "phenomena",
+          "weather"
+        ],
         "vocabularyId": "v14",
         "explanation": "原文此处使用 weather（weather）。结合上下文辨认词义与词形。",
         "evidence": "A compass works without power, unlike GPS, and in any weather and lighting conditions, as opposed to navigation using the Sun, stars or landmarks.",
@@ -1904,6 +1898,12 @@
         "id": "c2",
         "number": 2,
         "answer": "physics",
+        "options": [
+          "physics",
+          "landmarks",
+          "particles",
+          "tools"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 physics（physics）。结合上下文辨认词义与词形。",
         "evidence": "Like all cool phenomena, the explanation of how a compass works is not magic – it’s physics.",
@@ -1913,6 +1913,12 @@
         "id": "c3",
         "number": 3,
         "answer": "magnetic",
+        "options": [
+          "high-tech",
+          "magnetic",
+          "unlike",
+          "convective"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 magnetic（magnetic）。结合上下文辨认词义与词形。",
         "evidence": "They were spoon-shaped and made of lodestones, pieces of the naturally magnetic mineral magnetite.",
@@ -1922,6 +1928,12 @@
         "id": "c4",
         "number": 4,
         "answer": "attract",
+        "options": [
+          "align",
+          "opposed",
+          "attract",
+          "resist"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 attract（attract）。结合上下文辨认词义与词形。",
         "evidence": "At the time, it was known that some materials were naturally magnetic – able to attract one another.",
@@ -1931,6 +1943,12 @@
         "id": "c5",
         "number": 5,
         "answer": "deduced",
+        "options": [
+          "magnetised",
+          "connected",
+          "opposed",
+          "deduced"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 deduced（deduce）。结合上下文辨认词义与词形。",
         "evidence": "However, it wasn’t clear exactly what was causing a compass to align itself north–south until 1600, when English physicist William Gilbert deduced that Earth itself acted as a giant magnet.",
@@ -1940,6 +1958,12 @@
         "id": "c6",
         "number": 6,
         "answer": "interactions",
+        "options": [
+          "interactions",
+          "locations",
+          "compass",
+          "particles"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 interactions（interaction）。结合上下文辨认词义与词形。",
         "evidence": "Together, they form one of the fundamental interactions in physics: electromagnetism.",
@@ -1949,6 +1973,12 @@
         "id": "c7",
         "number": 7,
         "answer": "roughly",
+        "options": [
+          "slowly",
+          "perfectly",
+          "roughly",
+          "closely"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 roughly（roughly）。结合上下文辨认词义与词形。",
         "evidence": "Our planet spins around an axis once roughly every 24 hours, which is why we have a night and day cycle.",
@@ -1958,6 +1988,12 @@
         "id": "c8",
         "number": 8,
         "answer": "convective",
+        "options": [
+          "convective",
+          "dynamic",
+          "minimal",
+          "electrical"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 convective（convective）。结合上下文辨认词义与词形。",
         "evidence": "Beneath Earth’s surface, in the outer core, electrically conducting liquid metals circulate in convective currents.",
@@ -1967,6 +2003,12 @@
         "id": "c9",
         "number": 9,
         "answer": "magnetosphere",
+        "options": [
+          "interactions",
+          "experimenting",
+          "navigation",
+          "magnetosphere"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 magnetosphere（magnetosphere）。结合上下文辨认词义与词形。",
         "evidence": "It extends out into space like a giant, invisible bubble, known as the magnetosphere.",
@@ -1976,6 +2018,12 @@
         "id": "c10",
         "number": 10,
         "answer": "unless",
+        "options": [
+          "unless",
+          "towards",
+          "physics",
+          "tools"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 unless（unless）。结合上下文辨认词义与词形。",
         "evidence": "As a result, unless there’s a magnet directly nearby, the needle will align itself with Earth’s magnetic north–south direction.",
@@ -2064,5 +2112,8 @@
       }
     ]
   },
-  "revision": "19b6d0f784fd535b75d1a1be4b3821bab0bf0b4ba8acbb35a77debd5dd1a666f"
+  "revision": "5749271dcbfb693e8f7de3abe0e169949db20952ae8cd08b9c41600b06c36023",
+  "compatibleProgressRevisions": [
+    "19b6d0f784fd535b75d1a1be4b3821bab0bf0b4ba8acbb35a77debd5dd1a666f"
+  ]
 }

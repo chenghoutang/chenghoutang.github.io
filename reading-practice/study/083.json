@@ -1582,23 +1582,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       19
-    ],
-    "wordBank": [
-      "increments",
-      "computer",
-      "competition",
-      "Speed",
-      "crashed",
-      "distance",
-      "immediate",
-      "sight",
-      "automatically",
-      "twist"
     ],
     "parts": [
       {
@@ -1670,6 +1658,12 @@
         "id": "c1",
         "number": 1,
         "answer": "increments",
+        "options": [
+          "graphics",
+          "matches",
+          "developers",
+          "increments"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 increments（increment）。结合上下文辨认词义与词形。",
         "evidence": "Turning, however, needed to be done in 90-degree increments, which created some potentially confusing graphics as entire scenes abruptly appeared.",
@@ -1679,6 +1673,12 @@
         "id": "c2",
         "number": 2,
         "answer": "automatically",
+        "options": [
+          "automatically",
+          "smoothly",
+          "abruptly",
+          "potentially"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 automatically（automatically）。结合上下文辨认词义与词形。",
         "evidence": "In the single-player mode, danger could lurk just around the corner: Robots would automatically shoot you if they were in line with you down a hallway.",
@@ -1688,6 +1688,12 @@
         "id": "c3",
         "number": 3,
         "answer": "competition",
+        "options": [
+          "distance",
+          "simulator",
+          "competition",
+          "computer"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 competition（competition）。结合上下文辨认词义与词形。",
         "evidence": "Before video games, popular shooting games – the kind found at fairs and carnivals – generally involved friendly competition, with players competing to see who could hit targets most accurately.",
@@ -1697,6 +1703,12 @@
         "id": "c4",
         "number": 4,
         "answer": "twist",
+        "options": [
+          "twist",
+          "shooter",
+          "arcade",
+          "depth"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 twist（twist）。结合上下文辨认词义与词形。",
         "evidence": "‘Maze War’ introduced another new twist: the possibility of getting shot at and killed from behind, without ever seeing your attacker.",
@@ -1706,6 +1718,12 @@
         "id": "c5",
         "number": 5,
         "answer": "immediate",
+        "options": [
+          "crisp",
+          "virtual",
+          "everyday",
+          "immediate"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 immediate（immediate）。结合上下文辨认词义与词形。",
         "evidence": "Instead of the fixed and unchanging point of view found in a shooting gallery, ‘Maze War’ required you to constantly look around to try to keep track of everything in your immediate area.",
@@ -1715,6 +1733,12 @@
         "id": "c6",
         "number": 6,
         "answer": "sight",
+        "options": [
+          "sight",
+          "debuted",
+          "render",
+          "computer"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 sight（sight）。结合上下文辨认词义与词形。",
         "evidence": "Instead, there was a sense of offscreen space surrounding the player, with events occurring out of the player’s sight.",
@@ -1724,6 +1748,12 @@
         "id": "c7",
         "number": 7,
         "answer": "computer",
+        "options": [
+          "perspective",
+          "shooter",
+          "computer",
+          "arcade"
+        ],
         "vocabularyId": "v15",
         "explanation": "原文此处使用 computer（computer）。结合上下文辨认词义与词形。",
         "evidence": "Compared with the other popular form of computer graphics, known as raster graphics, vector graphics were particularly well suited for creating a first-person perspective.",
@@ -1733,6 +1763,12 @@
         "id": "c8",
         "number": 8,
         "answer": "distance",
+        "options": [
+          "distance",
+          "hardware",
+          "render",
+          "debuted"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 distance（distance）。结合上下文辨认词义与词形。",
         "evidence": "They contain clean lines that converge at a vanishing point, making a flat screen appear to stretch into the distance.",
@@ -1742,6 +1778,12 @@
         "id": "c9",
         "number": 9,
         "answer": "Speed",
+        "options": [
+          "debuted",
+          "paved",
+          "suited",
+          "Speed"
+        ],
         "vocabularyId": "v25",
         "explanation": "原文此处使用 Speed（speed）。结合上下文辨认词义与词形。",
         "evidence": "In 1978, Vectorbeam’s “Speed Freak” deployed vector graphics to render the first real-time, 3D computer animation in an arcade video game – an explosion of car parts when the player crashed.",
@@ -1751,6 +1793,12 @@
         "id": "c10",
         "number": 10,
         "answer": "crashed",
+        "options": [
+          "suited",
+          "paved",
+          "crashed",
+          "speed"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 crashed（crash）。结合上下文辨认词义与词形。",
         "evidence": "In 1978, Vectorbeam’s “Speed Freak” deployed vector graphics to render the first real-time, 3D computer animation in an arcade video game – an explosion of car parts when the player crashed.",
@@ -1839,5 +1887,8 @@
       }
     ]
   },
-  "revision": "26a9cb45d0c2220da996edb1f5b7fa26c95ce63a3b7e6e7a96da09023095b515"
+  "revision": "5ccf4d0c87653b06b1095023b42354d9b12872000bad6d9e6cb0f7c344f6d775",
+  "compatibleProgressRevisions": [
+    "26a9cb45d0c2220da996edb1f5b7fa26c95ce63a3b7e6e7a96da09023095b515"
+  ]
 }

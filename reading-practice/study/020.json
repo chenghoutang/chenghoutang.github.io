@@ -2186,23 +2186,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       5,
       12
-    ],
-    "wordBank": [
-      "microbial",
-      "operated",
-      "samples",
-      "applications",
-      "enzymes",
-      "introducing",
-      "inhibit",
-      "biological",
-      "temperatures",
-      "medicate"
     ],
     "parts": [
       {
@@ -2274,6 +2262,12 @@
         "id": "c1",
         "number": 1,
         "answer": "samples",
+        "options": [
+          "samples",
+          "seals",
+          "ecosystems",
+          "visitors"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 samples（sample）。结合上下文辨认词义与词形。",
         "evidence": "The researchers studied strains of the bacterium Arthrobacter from Antarctica and compared them with samples from other cold and dry environments, such as the Atacama Desert, Svalbard and the Tibetan Plateau.",
@@ -2283,6 +2277,12 @@
         "id": "c2",
         "number": 2,
         "answer": "microbial",
+        "options": [
+          "scientific",
+          "intense",
+          "microbial",
+          "geographical"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 microbial（microbial）。结合上下文辨认词义与词形。",
         "evidence": "The researchers studied strains of the bacterium Arthrobacter from Antarctica and compared them with samples from other cold and dry environments, such as the Atacama Desert, Svalbard and the Tibetan Plateau. They found distinct Antarctic strains that seem to have evolved in isolation on the continent, suggesting Antarctica’s conditions have allowed unique microbial communities to develop over\nlong periods.",
@@ -2292,6 +2292,12 @@
         "id": "c3",
         "number": 3,
         "answer": "biological",
+        "options": [
+          "biological",
+          "intense",
+          "microbial",
+          "scientific"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 biological（biological）。结合上下文辨认词义与词形。",
         "evidence": "These microbes are not simply biological curiosities. They play a fundamental role in nutrient cycling and form the base of Antarctic food webs.",
@@ -2301,6 +2307,12 @@
         "id": "c4",
         "number": 4,
         "answer": "temperatures",
+        "options": [
+          "curiosities",
+          "nutrients",
+          "organisms",
+          "temperatures"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 temperatures（temperature）。结合上下文辨认词义与词形。",
         "evidence": "They can withstand air temperatures often permanently well below 0°C, extreme desiccation in soils with no annual rainfall and extended exposure to high levels of UV-B in the Antarctic summer.",
@@ -2310,6 +2322,12 @@
         "id": "c5",
         "number": 5,
         "answer": "applications",
+        "options": [
+          "nutrients",
+          "temperatures",
+          "applications",
+          "curiosities"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 applications（application）。结合上下文辨认词义与词形。",
         "evidence": "The same adaptations that allow Antarctic organisms to survive may have major practical applications.",
@@ -2319,6 +2337,12 @@
         "id": "c6",
         "number": 6,
         "answer": "inhibit",
+        "options": [
+          "warming",
+          "inhibit",
+          "dispersed",
+          "adapted"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 inhibit（inhibit）。结合上下文辨认词义与词形。",
         "evidence": "We found that two strains of these bacteria (Psychrobacter and Pseudomonas) could inhibit the growth of microorganisms of clinical importance such as epidemic methicillin-resistant Staphylococcus aureus, Micrococcus luteus,and Candida albicans _in laboratory tests.",
@@ -2328,6 +2352,12 @@
         "id": "c7",
         "number": 7,
         "answer": "enzymes",
+        "options": [
+          "enzymes",
+          "penguins",
+          "seals",
+          "microbes"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 enzymes（enzyme）。结合上下文辨认词义与词形。",
         "evidence": "As well as Antarctica being a potential source of new drugs and enzymes, its isolated geographical location means that it is a protected ecosystem and is often referred to as “the last great wilderness”.",
@@ -2337,6 +2367,12 @@
         "id": "c8",
         "number": 8,
         "answer": "introducing",
+        "options": [
+          "surrounding",
+          "warming",
+          "dispersed",
+          "introducing"
+        ],
         "vocabularyId": "v109",
         "explanation": "原文此处使用 introducing（introduce）。结合上下文辨认词义与词形。",
         "evidence": "Human activities like tourism and increased scientific activity can risk introducing non-native microorganisms and diseases to Antarctic communities, which have evolved in relative isolation and may lack resilience against introduced organisms.",
@@ -2346,6 +2382,12 @@
         "id": "c9",
         "number": 9,
         "answer": "medicate",
+        "options": [
+          "evolved",
+          "connected",
+          "medicate",
+          "isolated"
+        ],
         "vocabularyId": "v115",
         "explanation": "原文此处使用 medicate（medicate）。结合上下文辨认词义与词形。",
         "evidence": "Affecting both animals and humans, antimicrobial resistance is a global issue that means some drugs which are used to medicate infections no longer work, leaving some infections untreatable.",
@@ -2355,6 +2397,12 @@
         "id": "c10",
         "number": 10,
         "answer": "operated",
+        "options": [
+          "dispersed",
+          "operated",
+          "warming",
+          "evolved"
+        ],
         "vocabularyId": "v120",
         "explanation": "原文此处使用 operated（operate）。结合上下文辨认词义与词形。",
         "evidence": "Our research looked specifically at the extent of AMR around the Rothera Research Station (operated by the UK) on the Antarctic Peninsula.",
@@ -2443,5 +2491,8 @@
       }
     ]
   },
-  "revision": "a76b96a8fc7ed3df4a55a911dfed3962228b72a17186b7cf3572750ea7bba909"
+  "revision": "b2dd62a0b8f065fd0efaa40c2ea50cf97f52a7d477d0046957ee10dd9c7527e2",
+  "compatibleProgressRevisions": [
+    "a76b96a8fc7ed3df4a55a911dfed3962228b72a17186b7cf3572750ea7bba909"
+  ]
 }

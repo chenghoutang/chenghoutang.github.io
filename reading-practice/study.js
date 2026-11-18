@@ -9,7 +9,7 @@
     };
     let material = null, article = null, progress = null, storageAvailable = true;
     const memory = new Map();
-    const panelNames = ['bodyPanel', 'vocabularyPanel', 'clozePanel', 'readingPanel'];
+    const panelNames = ['bodyPanel', 'chinesePanel', 'bilingualPanel', 'vocabularyPanel', 'clozePanel', 'readingPanel'];
     const storageKey = () => `dengduck-reading-study-v1:${article.folder}:${article.fileSha256}:${material.revision || '1'}`;
     function save() {
         if (!article || !progress) return;
@@ -20,7 +20,13 @@
     function loadProgress() {
         let stored = memory.get(storageKey());
         if (!stored) {
-            try { stored = JSON.parse(localStorage.getItem(storageKey())); }
+            try {
+                stored = JSON.parse(localStorage.getItem(storageKey()));
+                if (!stored) for (const revision of material.compatibleProgressRevisions || []) {
+                    stored = JSON.parse(localStorage.getItem(`dengduck-reading-study-v1:${article.folder}:${article.fileSha256}:${revision}`));
+                    if (stored) break;
+                }
+            }
             catch { storageAvailable = false; }
         }
         return { cloze: { answers: {}, submitted: false, ...stored?.cloze }, reading: { answers: {}, submitted: false, ...stored?.reading } };
@@ -110,7 +116,8 @@
             if (!state.submitted) continue;
             const isCorrect = correct(question, kind);
             if (isCorrect) score++;
-            const value = kind === 'cloze' ? question.answer : `${String.fromCharCode(65 + question.answer)}. ${question.options[question.answer]}`;
+            const correctIndex = kind === 'cloze' ? question.options.indexOf(question.answer) : question.answer;
+            const value = `${String.fromCharCode(65 + correctIndex)}. ${question.options[correctIndex]}`;
             result.append(make('p', `${isCorrect ? '✓ 正确' : '再想一想'} · 答案：${value}`, isCorrect ? 'correct-label' : 'wrong-label'));
             result.append(make('p', question.explanation, 'note'));
             const evidence = make('blockquote', question.evidence, 'answer-evidence'); evidence.lang = 'en';
@@ -126,6 +133,10 @@
     }
     function update(kind, id, value) {
         progress[kind].answers[id] = value;
+        if (kind === 'cloze') {
+            const blank = $('clozeContent').querySelector(`[data-gap="${id}"]`);
+            if (blank) blank.textContent = `${material.cloze.questions.find(question => question.id === id).number}. ${value}`;
+        }
         if (progress[kind].submitted) { progress[kind].submitted = false; showResults(kind); }
         save();
     }
@@ -149,23 +160,36 @@
         const quiz = material.cloze;
         const form = make('form', undefined, 'quiz-form');
         form.append(make('h3', `完形填空 · ${quiz.questions.length} 空`), make('p', quiz.instruction, 'note'));
-        form.append(make('p', `节选原文第 ${quiz.sourceParagraphs[0]}–${quiz.sourceParagraphs[1]} 段，按原词形填空。`, 'note'));
-        const bank = make('div', undefined, 'word-bank'); bank.setAttribute('aria-label', '完形词库');
-        for (const word of quiz.wordBank) { const span = make('span', word); span.lang = 'en'; bank.append(span); }
-        form.append(bank);
+        form.append(make('p', `节选原文第 ${quiz.sourceParagraphs[0]}–${quiz.sourceParagraphs[1]} 段，每空四选一。`, 'note'));
         const passage = make('div', undefined, 'cloze-passage'); passage.lang = 'en';
         for (const part of quiz.parts) {
             if (part.text !== undefined) { passage.append(document.createTextNode(part.text)); continue; }
             const question = quiz.questions[part.gap - 1];
-            const label = make('label', undefined, 'gap-label');
-            label.append(make('span', String(part.gap), 'gap-number'));
-            const input = make('input'); input.type = 'text'; input.autocomplete = 'off'; input.spellcheck = false;
-            input.setAttribute('aria-label', `第 ${part.gap} 空`); input.dataset.question = question.id;
-            input.value = progress.cloze.answers[question.id] || '';
-            input.addEventListener('input', () => update('cloze', question.id, input.value));
-            label.append(input); passage.append(label);
+            const blank = make('button', `${part.gap}. ${progress.cloze.answers[question.id] || '_______'}`, 'cloze-blank');
+            blank.type = 'button'; blank.dataset.gap = question.id;
+            blank.setAttribute('aria-label', `跳到第 ${part.gap} 空选项`);
+            blank.addEventListener('click', () => {
+                const target = $('clozeContent').querySelector(`#cloze-${question.id}`);
+                target.scrollIntoView({ block: 'center' }); target.querySelector('input')?.focus({ preventScroll: true });
+            });
+            passage.append(blank);
         }
         form.append(passage);
+        for (const question of quiz.questions) {
+            const fieldset = make('fieldset', undefined, 'reading-question cloze-question');
+            fieldset.id = `cloze-${question.id}`; fieldset.dataset.question = question.id;
+            fieldset.append(make('legend', `第 ${question.number} 空`));
+            const choices = make('div', undefined, 'cloze-options');
+            for (const [index, option] of question.options.entries()) {
+                const label = make('label', undefined, 'reading-option');
+                const input = make('input'); input.type = 'radio'; input.name = question.id; input.value = option;
+                input.checked = normaliseAnswer(progress.cloze.answers[question.id]) === normaliseAnswer(option);
+                input.addEventListener('change', () => update('cloze', question.id, option));
+                const text = make('span', `${String.fromCharCode(65 + index)}. ${option}`); text.lang = 'en';
+                label.append(input, text); choices.append(label);
+            }
+            fieldset.append(choices); form.append(fieldset);
+        }
         quizControls('cloze', form);
         const results = make('div', undefined, 'quiz-results');
         for (const question of quiz.questions) {
@@ -211,6 +235,34 @@
             for (const id of ['vocabularyContent', 'clozeContent', 'readingContent']) $(id).hidden = true;
             for (const node of document.querySelectorAll('.study-loading')) {
                 node.hidden = false; node.replaceChildren(document.createTextNode('正在准备学习内容…'));
+            }
+            $('chineseContent').replaceChildren(); $('bilingualContent').replaceChildren();
+            for (const node of document.querySelectorAll('.translation-loading')) {
+                node.hidden = false; node.replaceChildren(document.createTextNode('正在翻开译文…'));
+            }
+        },
+        translationReady(row, data) {
+            if (article?.folder !== row.folder) return;
+            for (const node of document.querySelectorAll('.translation-loading')) node.hidden = true;
+            const title = make('h3', data.titleZh, 'translated-title');
+            $('chineseContent').replaceChildren(title);
+            $('bilingualContent').replaceChildren(make('h3', data.titleZh, 'translated-title'));
+            for (const paragraph of data.paragraphs) {
+                const zh = make('p', paragraph.zh, 'translated-paragraph'); zh.dataset.paragraph = String(paragraph.number);
+                $('chineseContent').append(zh);
+                const pair = make('section', undefined, 'bilingual-pair');
+                pair.append(make('span', `第 ${paragraph.number} 段`, 'note'));
+                const en = make('p', paragraph.en, 'bilingual-en'); en.lang = 'en';
+                const chinese = make('p', paragraph.zh, 'bilingual-zh'); chinese.lang = 'zh-CN';
+                pair.append(en, chinese); $('bilingualContent').append(pair);
+            }
+        },
+        translationFail(row, retry) {
+            if (article?.folder !== row.folder) return;
+            for (const node of document.querySelectorAll('.translation-loading')) {
+                node.hidden = false;
+                const button = make('button', '重新加载译文', 'pill'); button.type = 'button'; button.addEventListener('click', retry);
+                node.replaceChildren(make('p', '译文暂时没有打开，请重试。', 'message'), button);
             }
         },
         ready(row, data) {

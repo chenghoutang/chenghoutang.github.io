@@ -1103,23 +1103,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       14,
       22
-    ],
-    "wordBank": [
-      "seasonal",
-      "exposed",
-      "foetus",
-      "difficulties",
-      "collected",
-      "daylight",
-      "daily",
-      "schedule",
-      "birth",
-      "useful"
     ],
     "parts": [
       {
@@ -1191,6 +1179,12 @@
         "id": "c1",
         "number": 1,
         "answer": "daily",
+        "options": [
+          "daily",
+          "signals",
+          "foetus",
+          "placenta"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 daily（daily）。结合上下文辨认词义与词形。",
         "evidence": "The timing changed daily rhythms in their developing offspring and the placenta.",
@@ -1200,6 +1194,12 @@
         "id": "c2",
         "number": 2,
         "answer": "foetus",
+        "options": [
+          "babies",
+          "nutrients",
+          "supplies",
+          "foetus"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 foetus（foetus）。结合上下文辨认词义与词形。",
         "evidence": "These studies suggest that food-related substances and hormones may help pass information about time from mother to foetus.",
@@ -1209,6 +1209,12 @@
         "id": "c3",
         "number": 3,
         "answer": "daylight",
+        "options": [
+          "daylight",
+          "hormone",
+          "night",
+          "signals"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 daylight（daylight）。结合上下文辨认词义与词形。",
         "evidence": "Other mouse studies have tested whether the amount of daylight during early life affects body clocks later on.",
@@ -1218,6 +1224,12 @@
         "id": "c4",
         "number": 4,
         "answer": "exposed",
+        "options": [
+          "expressed",
+          "exposed",
+          "night",
+          "collected"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 exposed（expose）。结合上下文辨认词义与词形。",
         "evidence": "Another study exposed mice to different day lengths from pregnancy until weaning.",
@@ -1227,6 +1239,12 @@
         "id": "c5",
         "number": 5,
         "answer": "schedule",
+        "options": [
+          "oxygen",
+          "hormone",
+          "schedule",
+          "signals"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 schedule（schedule）。结合上下文辨认词义与词形。",
         "evidence": "Even after they were put on the same light and dark schedule, mice raised under longer days spent more time asleep during daylight hours.",
@@ -1236,6 +1254,12 @@
         "id": "c6",
         "number": 6,
         "answer": "seasonal",
+        "options": [
+          "internal",
+          "harmful",
+          "asleep",
+          "seasonal"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 seasonal（seasonal）。结合上下文辨认词义与词形。",
         "evidence": "But seasonal changes in daylight are very different from working night shifts, and the findings cannot tell us whether human babies are affected in the same way.",
@@ -1245,6 +1269,12 @@
         "id": "c7",
         "number": 7,
         "answer": "birth",
+        "options": [
+          "birth",
+          "hormone",
+          "signals",
+          "night"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 birth（birth）。结合上下文辨认词义与词形。",
         "evidence": "Timing signals may also continue after birth. Breast milk contains melatonin, and its levels change through the day. In a small 2026 trial involving 60 premature babies, those given expressed milk at the same time of day it had been collected spent longer in quiet sleep by the time they left hospital. The researchers did not look at longer-term development.",
@@ -1254,6 +1284,12 @@
         "id": "c8",
         "number": 8,
         "answer": "collected",
+        "options": [
+          "sunrise",
+          "collected",
+          "exposed",
+          "expressed"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 collected（collect）。结合上下文辨认词义与词形。",
         "evidence": "In a small 2026 trial involving 60 premature babies, those given expressed milk at the same time of day it had been collected spent longer in quiet sleep by the time they left hospital.",
@@ -1263,6 +1299,12 @@
         "id": "c9",
         "number": 9,
         "answer": "useful",
+        "options": [
+          "asleep",
+          "unborn",
+          "useful",
+          "pregnant"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 useful（useful）。结合上下文辨认词义与词形。",
         "evidence": "The Japanese study raises useful questions about supporting pregnant night workers, including whether more flexible working hours could help.",
@@ -1272,6 +1314,12 @@
         "id": "c10",
         "number": 10,
         "answer": "difficulties",
+        "options": [
+          "signals",
+          "experiments",
+          "nutrients",
+          "difficulties"
+        ],
         "vocabularyId": "v18",
         "explanation": "原文此处使用 difficulties（difficulty）。结合上下文辨认词义与词形。",
         "evidence": "But it cannot establish that disrupted body clocks caused developmental difficulties, and it gives parents no reason to fear that an occasional sleepless night will harm their child.",
@@ -1360,5 +1408,8 @@
       }
     ]
   },
-  "revision": "61543490dced8d081d4eeaca35e2ff610e3d6c10770e58f4a6f504a16aa38a94"
+  "revision": "ee32025ba9dd671fd7ba5466dadbfc33526f15a9f5bc4b927150a09250c89af3",
+  "compatibleProgressRevisions": [
+    "61543490dced8d081d4eeaca35e2ff610e3d6c10770e58f4a6f504a16aa38a94"
+  ]
 }

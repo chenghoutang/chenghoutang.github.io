@@ -1921,23 +1921,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       19
-    ],
-    "wordBank": [
-      "freezer",
-      "ingredients",
-      "cookie",
-      "commercially",
-      "mayonnaise",
-      "dependent",
-      "crisp",
-      "nutrients",
-      "dishes",
-      "airtight"
     ],
     "parts": [
       {
@@ -2009,6 +1997,12 @@
         "id": "c1",
         "number": 1,
         "answer": "commercially",
+        "options": [
+          "safely",
+          "leftovers",
+          "commercially",
+          "poorly"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 commercially（commercially）。结合上下文辨认词义与词形。",
         "evidence": "That is why commercially frozen fruits and vegetables retain their texture much better than those you freeze at home, as industrial freezing systems freeze foods much more rapidly.",
@@ -2018,6 +2012,12 @@
         "id": "c2",
         "number": 2,
         "answer": "mayonnaise",
+        "options": [
+          "crystals",
+          "cucumber",
+          "weeknight",
+          "mayonnaise"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 mayonnaise（mayonnaise）。结合上下文辨认词义与词形。",
         "evidence": "Certain dairy products, including milk, and high-fat foods, such as mayonnaise and cream, are also not good to freeze because the fat can separate, changing the taste and texture of the food.",
@@ -2027,6 +2027,12 @@
         "id": "c3",
         "number": 3,
         "answer": "ingredients",
+        "options": [
+          "ingredients",
+          "casseroles",
+          "reactions",
+          "vegetables"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 ingredients（ingredient）。结合上下文辨认词义与词形。",
         "evidence": "Mayonnaise is particularly problematic because it is an emulsion – a mixture of oil and water – held together by ingredients such as egg yolk.",
@@ -2036,6 +2042,12 @@
         "id": "c4",
         "number": 4,
         "answer": "cookie",
+        "options": [
+          "freezing",
+          "cookie",
+          "meals",
+          "weeknight"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 cookie（cookie）。结合上下文辨认词义与词形。",
         "evidence": "These include rice, pasta, bread, soups, sauces, stews, cookie dough and pastry.",
@@ -2045,6 +2057,12 @@
         "id": "c5",
         "number": 5,
         "answer": "dishes",
+        "options": [
+          "leaks",
+          "berries",
+          "dishes",
+          "soups"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 dishes（dish）。结合上下文辨认词义与词形。",
         "evidence": "However, this is less of an issue for meat in dishes where it is surrounded by liquid, such as sauces or stews.",
@@ -2054,6 +2072,12 @@
         "id": "c6",
         "number": 6,
         "answer": "freezer",
+        "options": [
+          "foods",
+          "waste",
+          "freezing",
+          "freezer"
+        ],
         "vocabularyId": "v24",
         "explanation": "原文此处使用 freezer（freezer）。结合上下文辨认词义与词形。",
         "evidence": "Mixed dishes, such as curries, casseroles, bolognese sauces, chilli corn carne and soups, are particularly freezer-friendly because the ingredients are already cooked and surrounded by liquid or sauce.",
@@ -2063,6 +2087,12 @@
         "id": "c7",
         "number": 7,
         "answer": "dependent",
+        "options": [
+          "dependent",
+          "microbial",
+          "leftovers",
+          "industrial"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 dependent（dependent）。结合上下文辨认词义与词形。",
         "evidence": "Cooked vegetables also freeze and thaw well because the cooking process changes their structure and the texture is no longer dependent upon intact water-filled cells.",
@@ -2072,6 +2102,12 @@
         "id": "c8",
         "number": 8,
         "answer": "crisp",
+        "options": [
+          "soggy",
+          "airtight",
+          "crisp",
+          "intact"
+        ],
         "vocabularyId": "v16",
         "explanation": "原文此处使用 crisp（crisp）。结合上下文辨认词义与词形。",
         "evidence": "However, they tend to lose their crisp texture after thawing, making them better suited to cooked dishes than garnishes.",
@@ -2081,6 +2117,12 @@
         "id": "c9",
         "number": 9,
         "answer": "airtight",
+        "options": [
+          "airtight",
+          "problematic",
+          "crisp",
+          "soggy"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 airtight（airtight）。结合上下文辨认词义与词形。",
         "evidence": "Once frozen, transfer the herb cubes to airtight containers or freezer bags, and add them directly to cooking without thawing first.",
@@ -2090,6 +2132,12 @@
         "id": "c10",
         "number": 10,
         "answer": "nutrients",
+        "options": [
+          "leftovers",
+          "crystals",
+          "sauces",
+          "nutrients"
+        ],
         "vocabularyId": "v92",
         "explanation": "原文此处使用 nutrients（nutrient）。结合上下文辨认词义与词形。",
         "evidence": "In fact, frozen fruits and vegetables can retain most of their nutrients because freezing slows the chemical reactions that would otherwise cause nutrient losses over time.",
@@ -2178,5 +2226,8 @@
       }
     ]
   },
-  "revision": "2b8d61b71d253a70553b57833d7d1471d3fd49c4dc1f28a75da16b35ee50fa58"
+  "revision": "da65e6125ea350eb91acb1cb78fac79c501496a3188a4efe5fec36f27c154733",
+  "compatibleProgressRevisions": [
+    "2b8d61b71d253a70553b57833d7d1471d3fd49c4dc1f28a75da16b35ee50fa58"
+  ]
 }

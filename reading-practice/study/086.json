@@ -2634,23 +2634,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       8,
       20
-    ],
-    "wordBank": [
-      "occasionally",
-      "flood",
-      "avoidance",
-      "shape",
-      "highlight",
-      "coming",
-      "proposed",
-      "infrastructure",
-      "scale",
-      "temperatures"
     ],
     "parts": [
       {
@@ -2722,6 +2710,12 @@
         "id": "c1",
         "number": 1,
         "answer": "scale",
+        "options": [
+          "scale",
+          "trend",
+          "factory",
+          "weather"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 scale（scale）。结合上下文辨认词义与词形。",
         "evidence": "My book identifies a 12% reduction in foreign direct investment for each 1-point rise in climate vulnerability on a 100-point scale, while holding other relevant factors constant.",
@@ -2731,6 +2725,12 @@
         "id": "c2",
         "number": 2,
         "answer": "occasionally",
+        "options": [
+          "ultimately",
+          "systematically",
+          "increasingly",
+          "occasionally"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 occasionally（occasionally）。结合上下文辨认词义与词形。",
         "evidence": "Companies rarely say why they’re avoiding a particular location, but their climate-related concerns occasionally become visible.",
@@ -2740,6 +2740,12 @@
         "id": "c3",
         "number": 3,
         "answer": "proposed",
+        "options": [
+          "proposed",
+          "intended",
+          "suspended",
+          "surrounding"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 proposed（propose）。结合上下文辨认词义与词形。",
         "evidence": "Similarly, a $1 billion data center proposed in Kenya by Microsoft and the Abu Dhabi-based artificial intelligence company G42 was delayed and ultimately suspended amid concerns about water stress in the area.",
@@ -2749,6 +2755,12 @@
         "id": "c4",
         "number": 4,
         "answer": "flood",
+        "options": [
+          "climate",
+          "flood",
+          "factory",
+          "trend"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 flood（flood）。结合上下文辨认词义与词形。",
         "evidence": "One analysis of 71 large publicly traded companies found that firms reporting major flood losses experienced a 5% average decline in shareholder value over the following year, after accounting for broader market movements.",
@@ -2758,6 +2770,12 @@
         "id": "c5",
         "number": 5,
         "answer": "infrastructure",
+        "options": [
+          "compromised",
+          "intelligence",
+          "infrastructure",
+          "vulnerability"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 infrastructure（infrastructure）。结合上下文辨认词义与词形。",
         "evidence": "In Vietnam, typhoons and floods caused an estimated $475 million in damage to energy and transportation infrastructure in 2022.",
@@ -2767,6 +2785,12 @@
         "id": "c6",
         "number": 6,
         "answer": "shape",
+        "options": [
+          "flood",
+          "trend",
+          "factory",
+          "shape"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 shape（shape）。结合上下文辨认词义与词形。",
         "evidence": "Costs like those shape where companies choose to invest next.",
@@ -2776,6 +2800,12 @@
         "id": "c7",
         "number": 7,
         "answer": "avoidance",
+        "options": [
+          "avoidance",
+          "frequency",
+          "compromised",
+          "factory"
+        ],
         "vocabularyId": "v100",
         "explanation": "原文此处使用 avoidance（avoidance）。结合上下文辨认词义与词形。",
         "evidence": "Who loses from investor avoidance?",
@@ -2785,6 +2815,12 @@
         "id": "c8",
         "number": 8,
         "answer": "highlight",
+        "options": [
+          "companies",
+          "compromised",
+          "highlight",
+          "extreme"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 highlight（highlight）。结合上下文辨认词义与词形。",
         "evidence": "Those results highlight another way climate change is deepening global inequality.",
@@ -2794,6 +2830,12 @@
         "id": "c9",
         "number": 9,
         "answer": "temperatures",
+        "options": [
+          "temperatures",
+          "emissions",
+          "countries",
+          "samples"
+        ],
         "vocabularyId": "v109",
         "explanation": "原文此处使用 temperatures（temperature）。结合上下文辨认词义与词形。",
         "evidence": "Developing countries are especially vulnerable to the effects of rising global temperatures, whether for their dependence on agricultural markets, geography or relatively fragile infrastructure.",
@@ -2803,6 +2845,12 @@
         "id": "c10",
         "number": 10,
         "answer": "coming",
+        "options": [
+          "scaring",
+          "companies",
+          "shutting",
+          "coming"
+        ],
         "vocabularyId": "v115",
         "explanation": "原文此处使用 coming（coming）。结合上下文辨认词义与词形。",
         "evidence": "A report from the Climate Impact Lab at the University of Chicago projects that 90% of heat-related deaths in the coming decades will take place in low- and middle-income countries.",
@@ -2891,5 +2939,8 @@
       }
     ]
   },
-  "revision": "1a0ddb5a49980891e3acbe7a710e5fc60291b99c626b4aa8d696db87fd4b42f1"
+  "revision": "d49ea5e87ce6fa093098952386b4507a1374606d11d4463336e36b03098fea94",
+  "compatibleProgressRevisions": [
+    "1a0ddb5a49980891e3acbe7a710e5fc60291b99c626b4aa8d696db87fd4b42f1"
+  ]
 }

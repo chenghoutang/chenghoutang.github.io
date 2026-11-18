@@ -1839,23 +1839,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       4,
       12
-    ],
-    "wordBank": [
-      "spanning",
-      "messengers",
-      "compiled",
-      "arrival",
-      "King",
-      "number",
-      "seized",
-      "factually",
-      "singer",
-      "storytelling"
     ],
     "parts": [
       {
@@ -1927,6 +1915,12 @@
         "id": "c1",
         "number": 1,
         "answer": "compiled",
+        "options": [
+          "route",
+          "compiled",
+          "survive",
+          "appointed"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 compiled（compile）。结合上下文辨认词义与词形。",
         "evidence": "First, in Llyfr Gwyn Rhydderch (the White Book of Rhydderch), compiled around the mid-14th century, and second in Llyfr Coch Hergest (the Red Book of Hergest), written towards the end of that century.",
@@ -1936,6 +1930,12 @@
         "id": "c2",
         "number": 2,
         "answer": "King",
+        "options": [
+          "ancient",
+          "legend",
+          "King",
+          "neighbouring"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 King（king）。结合上下文辨认词义与词形。",
         "evidence": "They had been transmitted and copied since before King Edward I’s conquest of Wales in 1282, and perhaps as early as the 11th century.",
@@ -1945,6 +1945,12 @@
         "id": "c3",
         "number": 3,
         "answer": "spanning",
+        "options": [
+          "reshape",
+          "survive",
+          "number",
+          "spanning"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 spanning（spanning）。结合上下文辨认词义与词形。",
         "evidence": "The Four Branches of the Mabinogi, are a group of stories spanning the landscapes of Wales, Ireland and England, of this world and the supernatural otherworld.",
@@ -1954,6 +1960,12 @@
         "id": "c4",
         "number": 4,
         "answer": "storytelling",
+        "options": [
+          "storytelling",
+          "fascinating",
+          "dating",
+          "neighbouring"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 storytelling（storytelling）。结合上下文辨认词义与词形。",
         "evidence": "The remaining two, including The Dream of Macsen Wledig, reshape particular strands of early British history through native storytelling.",
@@ -1963,6 +1975,12 @@
         "id": "c5",
         "number": 5,
         "answer": "messengers",
+        "options": [
+          "manuscripts",
+          "fortresses",
+          "messengers",
+          "landscapes"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 messengers（messenger）。结合上下文辨认词义与词形。",
         "evidence": "Determined to find her, he sends messengers to follow the route he has dreamt.",
@@ -1972,6 +1990,12 @@
         "id": "c6",
         "number": 6,
         "answer": "number",
+        "options": [
+          "number",
+          "route",
+          "reshape",
+          "compiled"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 number（numb）。结合上下文辨认词义与词形。",
         "evidence": "His character is a literary composite of a number of historical characters, most notably the Galician Magnus Maximus, a Roman general who became Emperor in the late 4th century.",
@@ -1981,6 +2005,12 @@
         "id": "c7",
         "number": 7,
         "answer": "seized",
+        "options": [
+          "transmitted",
+          "route",
+          "spanning",
+          "seized"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 seized（seize）。结合上下文辨认词义与词形。",
         "evidence": "Born in a province that is now part of Spain and Portugal, Magnus Maximus seized power in Britain and went on to rule much of the western Roman empire, including Gaul (roughly modern France and neighbouring regions).",
@@ -1990,6 +2020,12 @@
         "id": "c8",
         "number": 8,
         "answer": "singer",
+        "options": [
+          "emperor",
+          "timber",
+          "singer",
+          "tales"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 singer（singer）。结合上下文辨认词义与词形。",
         "evidence": "In the popular Welsh song Yma o Hyd (Still Here), first released in 1983, the singer and former politician Dafydd Iwan invokes Magnus Maximus’ departure from Britain, supposedly leaving Wales behind as an entire nation.",
@@ -1999,6 +2035,12 @@
         "id": "c9",
         "number": 9,
         "answer": "arrival",
+        "options": [
+          "legend",
+          "arrival",
+          "ancient",
+          "location"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 arrival（arrival）。结合上下文辨认词义与词形。",
         "evidence": "The song draws on a powerful literary tradition – that the departure of Rome from Britain, just before the arrival of the English, saw the birth of Welsh identity.",
@@ -2008,6 +2050,12 @@
         "id": "c10",
         "number": 10,
         "answer": "factually",
+        "options": [
+          "factually",
+          "supposedly",
+          "notably",
+          "traditionally"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 factually（factually）。结合上下文辨认词义与词形。",
         "evidence": "Its importance lies not simply in whether every detail is factually accurate, but in what the story tells us about how Welsh people understood the past.",
@@ -2096,5 +2144,8 @@
       }
     ]
   },
-  "revision": "2af5d30e57e4908dafe311d7f0158f62f85739e5a4b91b24ac7d711ed4f1875d"
+  "revision": "91b05e86039771cdcc330eb1d8019effeda3114dfcf887bb48fd73dc8758723a",
+  "compatibleProgressRevisions": [
+    "2af5d30e57e4908dafe311d7f0158f62f85739e5a4b91b24ac7d711ed4f1875d"
+  ]
 }

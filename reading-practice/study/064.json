@@ -2321,23 +2321,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       13
-    ],
-    "wordBank": [
-      "anticancer",
-      "predict",
-      "intended",
-      "federally",
-      "communicated",
-      "oversee",
-      "gauge",
-      "storytellers",
-      "capture",
-      "complexity"
     ],
     "parts": [
       {
@@ -2409,6 +2397,12 @@
         "id": "c1",
         "number": 1,
         "answer": "predict",
+        "options": [
+          "predict",
+          "composed",
+          "intended",
+          "destroyed"
+        ],
         "vocabularyId": "v11",
         "explanation": "原文此处使用 predict（predict）。结合上下文辨认词义与词形。",
         "evidence": "Marine scientists navigate autonomous glider robots across the Atlantic Ocean and along the West Antarctic Peninsula, collecting data to help predict storm intensity.",
@@ -2418,6 +2412,12 @@
         "id": "c2",
         "number": 2,
         "answer": "anticancer",
+        "options": [
+          "visible",
+          "anticancer",
+          "atmospheric",
+          "theatrical"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 anticancer（anticancer）。结合上下文辨认词义与词形。",
         "evidence": "A team of microbiologists explore deep-sea volcanoes in search of organisms that may contain anticancer compounds.",
@@ -2427,6 +2427,12 @@
         "id": "c3",
         "number": 3,
         "answer": "oversee",
+        "options": [
+          "composed",
+          "explore",
+          "oversee",
+          "predict"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 oversee（oversee）。结合上下文辨认词义与词形。",
         "evidence": "They are also the main characters in science documentaries produced in the Rutgers Immersive Learning Science Storytelling Lab that I oversee.",
@@ -2436,6 +2442,12 @@
         "id": "c4",
         "number": 4,
         "answer": "communicated",
+        "options": [
+          "dedicated",
+          "constructed",
+          "transformed",
+          "communicated"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 communicated（communicate）。结合上下文辨认词义与词形。",
         "evidence": "At a time when confidence in science is declining, I was approached by scientists who wanted their authentic research stories communicated to broad audiences.",
@@ -2445,6 +2457,12 @@
         "id": "c5",
         "number": 5,
         "answer": "intended",
+        "options": [
+          "intended",
+          "transformed",
+          "constructed",
+          "composed"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 intended（intend）。结合上下文辨认词义与词形。",
         "evidence": "The science-in-action storytelling model I developed is intended to make the human journey of science visible to the public.",
@@ -2454,6 +2472,12 @@
         "id": "c6",
         "number": 6,
         "answer": "gauge",
+        "options": [
+          "breeding",
+          "unknown",
+          "gauge",
+          "crops"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 gauge（gauge）。结合上下文辨认词义与词形。",
         "evidence": "I also partner with STEM learning researchers to gauge whether our documentaries increase the relatability of scientists, increase public understanding of scientific processes and help students find belonging in STEM.",
@@ -2463,6 +2487,12 @@
         "id": "c7",
         "number": 7,
         "answer": "storytellers",
+        "options": [
+          "storytellers",
+          "motivations",
+          "organisms",
+          "documents"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 storytellers（storyteller）。结合上下文辨认词义与词形。",
         "evidence": "First, the storytellers develop trust with the participating university scientists.",
@@ -2472,6 +2502,12 @@
         "id": "c8",
         "number": 8,
         "answer": "capture",
+        "options": [
+          "unknown",
+          "robots",
+          "collecting",
+          "capture"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 capture（capture）。结合上下文辨认词义与词形。",
         "evidence": "The scientists then invite storytellers into their labs and field sites, where we capture their research processes in real time.",
@@ -2481,6 +2517,12 @@
         "id": "c9",
         "number": 9,
         "answer": "complexity",
+        "options": [
+          "complexity",
+          "unknown",
+          "farmers",
+          "intensity"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 complexity（complexity）。结合上下文辨认词义与词形。",
         "evidence": "Depending on the complexity of the project, we collect dozens to hundreds of hours of science-in-action video footage.",
@@ -2490,6 +2532,12 @@
         "id": "c10",
         "number": 10,
         "answer": "federally",
+        "options": [
+          "collecting",
+          "autonomous",
+          "federally",
+          "navigate"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 federally（federally）。结合上下文辨认词义与词形。",
         "evidence": "Importantly, this video data is maintained in our storytelling lab, as it often includes recordings of federally funded research.",
@@ -2578,5 +2626,8 @@
       }
     ]
   },
-  "revision": "114a284c0c6f52cca22c16db79e844a1b68c5efb036c156703e1390b71b6887b"
+  "revision": "9d211989fbef7663d948edf1562c1482a3e264a1edf5aec54b7568ff935dae91",
+  "compatibleProgressRevisions": [
+    "114a284c0c6f52cca22c16db79e844a1b68c5efb036c156703e1390b71b6887b"
+  ]
 }

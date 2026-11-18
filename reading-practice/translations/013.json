@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 5,
+  "folder": "013",
+  "articleSha256": "a628938dcd81cbf96dbc02150f5e97e85bd7c21084ae142ac52f96d599bb0128",
+  "titleEn": "What AI regulation could learn from the most hazardous industries in the world",
+  "titleZh": "人工智能监管能从世界上的高危行业中学到什么？",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "Darren Jones MP, the former chief secretary to the prime minister under Keir Starmer, recently called for a new multinational treaty governing the safe development and use of superintelligence (where AI substantially surpasses humans across most cognitive tasks).",
+      "zh": "Keir Starmer领导下的前总理首席秘书Darren Jones议员最近呼吁制定一项新的多国条约，管理超级智能的安全开发和使用（人工智能在大多数认知任务中大大超过人类）。"
+    },
+    {
+      "number": 2,
+      "en": "He also argued that Britain’s growing reputation for AI safety and trustworthiness made it a good conduit for such collaboration.",
+      "zh": "他还认为，英国在人工智能安全性和可信度方面的声誉日益提高，使其成为这种合作的良好渠道。"
+    },
+    {
+      "number": 3,
+      "en": "What I found most interesting about this intervention was not the question of whether AI could pose a threat to humanity. Instead, it was a management and organisational question sitting underneath it: “can our systems of governance keep pace with the development of AI intelligence while also ensuring it is safe?”",
+      "zh": "我发现，这种干预最有趣的不是人工智能是否会对人类构成威胁的问题，而是隐藏在其背后的一个管理和组织问题：“我们的治理体系能否跟上人工智能的发展，同时确保它的安全？”"
+    },
+    {
+      "number": 4,
+      "en": "We are at a moment in history where global tech leaders and some of their employees believe there is a greater than 10% chance that AI could kill all humans within the next decade. But humans are still struggling to understand the potential consequences of AI; by the time we do it may be too late to act.",
+      "zh": "我们正处于这样一个历史时刻，全球科技领导者和他们的一些员工认为，人工智能有超过10%的可能性在未来十年内杀死所有人类。但人类仍在努力理解人工智能的潜在后果;当我们这样做的时候，采取行动可能为时已晚。"
+    },
+    {
+      "number": 5,
+      "en": "However, we must be careful to distinguish this prediction from the current risks and what might happen as AI systems become able to independently improve themselves (full recursive self-improvement) and move towards superintelligence.",
+      "zh": "然而，我们必须小心地将这种预测与当前的风险以及随着人工智能系统能够独立地自我改进（完全递归的自我改进）并向超级智能迈进可能发生的事情区分开来。"
+    },
+    {
+      "number": 6,
+      "en": "I concur with calls for a multinational treaty and for the UK to take a leading role. As a business scholar, I also believe research from some business schools can inform us about managing and organising systems whose complexity, speed and autonomy are increasing faster than our capacity to understand them.",
+      "zh": "我赞同制定一项多国条约、让英国发挥领导作用的呼吁。作为一名商业学者，我还认为，一些商学院的研究可以让我们了解如何管理和组织系统，这些系统的复杂性、速度和自主性的增长速度，超过了我们理解它们的能力。"
+    },
+    {
+      "number": 7,
+      "en": "This is familiar territory in high hazard industries such as nuclear energy and aviation. Here, two theories are particularly relevant: normal accident theory, associated with the US sociologist Charles Perrow, and high reliability theory, associated with the work of American political scientist Todd LaPorte. Taken together, they could provide a powerful framework for thinking about AI safety and regulation.",
+      "zh": "这是核能和航空等高危行业所熟悉的领域。在这里，有两个理论特别相关：与美国社会学家查尔斯·佩罗（Charles Perrow）相关的正常事故理论，以及与美国政治学家相关的高可靠性理论。托德·拉波特（Todd LaPorte）。综合起来，它们可以为思考人工智能安全和监管提供一个强大的框架。"
+    },
+    {
+      "number": 8,
+      "en": "‘Normal’ accidents",
+      "zh": "“正常”事故"
+    },
+    {
+      "number": 9,
+      "en": "Normal accident theory begins with an uncomfortable proposition. In complex, interdependent systems, such as nuclear power plants or spacecraft built to carry humans, accidents are not necessarily the consequence of individual incompetence, negligence or bad design. They can emerge from the interaction of multiple components in ways that are difficult to anticipate.",
+      "zh": "正常的事故理论始于一个令人不安的命题。在复杂、相互依赖的系统中，比如核电站或载人航天器，事故不一定是个人无能、疏忽或设计不当的后果。它们可能是多个组件以难以预料的方式相互作用的结果。"
+    },
+    {
+      "number": 10,
+      "en": "In such systems, events happen rapidly. When something unexpected takes place, there may be little time to intervene between one potential failure and the next. This can lead to a cascading error, with the potential to cause a catastrophe. An often-used example is the partial meltdown at the Three Mile Island nuclear plant in Pennsylvania, US, in 1978. The accident occurred because of a combination of mechanical malfunction, instrument faults and human factors.",
+      "zh": "在这样的系统中，事件发生得很快。当意外发生时，可能没有时间在一个潜在故障和下一个故障之间进行干预。这可能导致连锁错误，有可能造成灾难。一个经常使用的例子是美国宾夕法尼亚州三里岛核电站的部分熔毁，1978年，由于机械故障、仪器故障和人为因素的综合作用，事故发生了。"
+    },
+    {
+      "number": 11,
+      "en": "The risks further increase when you add AI agents into such a complex system – AI agents are systems that carry out tasks in response to instructions. Examples might include financial systems, software development systems, scientific databases in labs or even systems that connect lots of agents.",
+      "zh": "当您将人工智能代理添加到如此复杂的系统中时，风险会进一步增加-人工智能代理是根据指令执行任务的系统。示例可能包括金融系统，软件开发系统，实验室中的科学数据库甚至连接许多代理的系统。"
+    },
+    {
+      "number": 12,
+      "en": "In any such system, an individual component – including the AI agent – might meet acceptable quality thresholds; the difficulty lies in the interactions between them and our understanding of these interactions. Part of the problem is that we know agents’ behaviour can be unpredictable: recent reports have described AI agents behaving in ways that their developers did not expect.",
+      "zh": "在任何这样的系统中，单个组件--包括人工智能主体--都可能达到可接受的质量阈值;困难在于它们之间的相互作用以及我们对这些相互作用的理解。部分问题在于我们知道主体的行为可能是不可预测的：最近的报告描述了人工智能主体的行为方式，这些行为方式是开发人员没有预料到的。"
+    },
+    {
+      "number": 13,
+      "en": "The UK government has highlighted risks associated with increasingly capable AI agents and has stressed the importance of testing frontier AI models and developing a scientific understanding of their capabilities.",
+      "zh": "英国政府强调了与能力日益强大的人工智能代理相关的风险，并强调了测试前沿人工智能模型和对其能力进行科学理解的重要性。"
+    },
+    {
+      "number": 14,
+      "en": "If AI systems become more autonomous, more interconnected and faster moving, the conventional idea of a “human in the loop”, to correct major errors, could become increasingly challenging.",
+      "zh": "如果人工智能系统变得更加自主，更加互联，移动速度更快，那么传统的“人在回路中”的想法，以纠正重大错误，可能会变得越来越具有挑战性。"
+    },
+    {
+      "number": 15,
+      "en": "No fate but what we make?",
+      "zh": "没有命运，但我们做什么？"
+    },
+    {
+      "number": 16,
+      "en": "High reliability theory offers a counterpoint. The high reliability tradition emerged from research into organisations that were operating technologies where failure could have catastrophic consequences, such as nuclear power plants, aircraft carriers and air traffic control.",
+      "zh": "高可靠性理论提供了一个对应点。高可靠性传统源于对核电站、航空母舰和空中交通管制等机构的研究，这些机构的操作技术可能会导致灾难性后果。"
+    },
+    {
+      "number": 17,
+      "en": "Its central insight is almost the opposite of a pessimistic reading of normal accident theory. Essentially, it says that organisations can develop practices and cultures that allow them to operate extraordinarily complex technologies with very low failure rates. In fact, we have seen this with the electricity system, space travel and bioengineering.",
+      "zh": "它的核心观点几乎与对正常事故理论的悲观阅读相反。从本质上讲，它说组织可以发展实践和文化，使他们能够以极低的故障率操作极其复杂的技术。事实上，我们已经在电力系统、太空旅行和生物工程中看到了这一点。"
+    },
+    {
+      "number": 18,
+      "en": "These organisations achieve high reliability because their baseline assumption is that they are not safe. They remain attentive to hints of bigger problems, do not automatically dismiss anomalies, learn from near misses and failures and build redundancy – for example, backing up offline systems and providing kill switches.",
+      "zh": "这些组织之所以能够实现高可靠性，是因为它们的基本假设是它们不安全。它们始终关注更大问题的迹象，不会自动排除异常，从未遂和失败中学习，并建立冗余-例如，备份离线系统和提供终止开关。"
+    },
+    {
+      "number": 19,
+      "en": "They routinely rehearse failure, establish operational processes, adhere to regulation for safety and assurance, comply with professional standards and certification schemes and have independent oversight. High reliability organisations give experts the authority to challenge decisions. They continuously learn from their performance.",
+      "zh": "他们定期演练故障，建立运营流程，遵守安全和保证法规，遵守专业标准和认证计划，并进行独立监督。高可靠性组织赋予专家质疑决策的权力。他们不断从自己的表现中学习。"
+    },
+    {
+      "number": 20,
+      "en": "This provides a very different way of thinking about AI governance. Instead of asking simply, “how do we regulate AI?” we should ask: “what would a high-reliability organisation look like if AI was embedded throughout it?”",
+      "zh": "这提供了一种非常不同的思考人工智能治理的方式。我们不应该简单地问：“我们如何监管人工智能？”我们应该问：“如果人工智能嵌入整个组织，一个高可靠性的组织会是什么样子？”"
+    },
+    {
+      "number": 21,
+      "en": "This suggests that AI safety cannot be reduced to a model passing a one-off technical test before deployment. It must span different organisations and transcend international boundaries.",
+      "zh": "这表明，人工智能的安全不能简化为在部署前通过一次性技术测试的模型，它必须跨越不同的组织，超越国际边界。"
+    },
+    {
+      "number": 22,
+      "en": "AI assurance",
+      "zh": "AI保证"
+    },
+    {
+      "number": 23,
+      "en": "This is where the current political conversation about AI regulation risks being too narrow. Governments need to understand what frontier laboratories are developing. But government cannot realistically sit permanently inside every AI company and inspect every model.",
+      "zh": "这就是当前关于人工智能监管的政治对话可能过于狭隘的地方。政府需要了解前沿实验室正在开发什么。但政府不可能永远坐在每家人工智能公司里面，检查每一个模型。"
+    },
+    {
+      "number": 24,
+      "en": "Nor can legislation anticipate every technical configuration that AI will take. The UK government recognises it must cultivate trustworthiness in AI through assurance.\nAssurance asks whether there is credible evidence that a system is behaving within defined boundaries, whether those boundaries are appropriate, whether risks are being monitored and whether someone is accountable when they are breached.",
+      "zh": "立法也不能预测人工智能将采用的每一种技术配置。英国政府认识到，它必须通过保证来培养人工智能的可信度。\n保证要求是否有可信的证据表明系统在定义的边界内运行，这些边界是否适当，是否监控风险，以及当风险被违反时是否有人负责。"
+    },
+    {
+      "number": 25,
+      "en": "The aircraft industry has engineering standards, certification regimes, professional qualifications, independent inspection, incident reporting and regulatory oversight.",
+      "zh": "飞机工业有工程标准、认证制度、专业资格、独立检查、事故报告和监管监督。"
+    },
+    {
+      "number": 26,
+      "en": "Nuclear power operates within an elaborate ecosystem of safety engineering and\nregulatory assurance. Financial institutions and medicine both have sophisticated systems of assurance.",
+      "zh": "核能在一个复杂的安全工程生态系统中运行，\n监管保证。金融机构和医药行业都有完善的保证体系。"
+    },
+    {
+      "number": 27,
+      "en": "AI is becoming increasingly consequential, yet its assurance infrastructure remains\ncomparatively immature. This is particularly striking given the speed at which frontier systems are developing. The institutional challenge is not simply to produce more AI regulation, but to create the professional safety culture that makes regulation meaningful.",
+      "zh": "人工智能正变得越来越重要，但其保证基础设施仍然存在\n相对不成熟。考虑到前沿系统的发展速度，这一点尤其引人注目。制度上的挑战不仅仅是制定更多的人工智能监管，而是创造专业的安全文化，使监管变得有意义。"
+    },
+    {
+      "number": 28,
+      "en": "A potential new multinational treaty on the safe and regulated development of superintelligence would frame AI safety as a rapidly evolving global\nchallenge. At the same time, it potentially creates a once-in-a-generation opportunity for the UK to help shape the emerging architecture of AI governance.",
+      "zh": "一项关于超级智能安全和规范发展的潜在新多国条约将把人工智能安全视为一个快速发展的全球性问题。\n与此同时，它可能为英国创造一个千载难逢的机会，帮助塑造人工智能治理的新兴架构。"
+    },
+    {
+      "number": 29,
+      "en": "This article features references to books that have been included for editorial reasons, and may contain links to bookshop.org; if you click on one of the links and go on to buy something, The Conversation UK may earn a commission.",
+      "zh": "这篇文章的特点是引用了出于编辑原因而收录的书籍，并可能包含指向bookshop.org的链接;如果您点击其中一个链接并继续购买东西，The Conversation UK可能会获得佣金。"
+    }
+  ]
+}

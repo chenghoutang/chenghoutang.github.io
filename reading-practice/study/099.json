@@ -1676,23 +1676,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       13,
       24
-    ],
-    "wordBank": [
-      "vegetables",
-      "definition",
-      "purchasing",
-      "prompting",
-      "influenced",
-      "reinforce",
-      "sprouts",
-      "emerged",
-      "relied",
-      "labels"
     ],
     "parts": [
       {
@@ -1764,6 +1752,12 @@
         "id": "c1",
         "number": 1,
         "answer": "vegetables",
+        "options": [
+          "growers",
+          "retailers",
+          "ecosystems",
+          "vegetables"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 vegetables（vegetable）。结合上下文辨认词义与词形。",
         "evidence": "Some participants showed vegetables growing at home, while others presented produce from a community garden.",
@@ -1773,6 +1767,12 @@
         "id": "c2",
         "number": 2,
         "answer": "sprouts",
+        "options": [
+          "producers",
+          "retailers",
+          "sprouts",
+          "growers"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 sprouts（sprout）。结合上下文辨认词义与词形。",
         "evidence": "Later, she started making tofu, growing bean sprouts and harvesting vegetables on her balcony.",
@@ -1782,6 +1782,12 @@
         "id": "c3",
         "number": 3,
         "answer": "influenced",
+        "options": [
+          "encounter",
+          "influenced",
+          "highlighted",
+          "cited"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 influenced（influence）。结合上下文辨认词义与词形。",
         "evidence": "Both examples showed how people’s interest in organic food influenced their everyday habits in ways that simply asking about their shopping might not have uncovered.",
@@ -1791,6 +1797,12 @@
         "id": "c4",
         "number": 4,
         "answer": "labels",
+        "options": [
+          "labels",
+          "insights",
+          "retailers",
+          "soils"
+        ],
         "vocabularyId": "v21",
         "explanation": "原文此处使用 labels（label）。结合上下文辨认词义与词形。",
         "evidence": "One participant described himself as an enthusiastic organic consumer but showed expensive supermarket products without organic labels.",
@@ -1800,6 +1812,12 @@
         "id": "c5",
         "number": 5,
         "answer": "definition",
+        "options": [
+          "encounter",
+          "growers",
+          "influence",
+          "definition"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 definition（definition）。结合上下文辨认词义与词形。",
         "evidence": "His understanding differed markedly from the researchers’ definition of organic food.",
@@ -1809,6 +1827,12 @@
         "id": "c6",
         "number": 6,
         "answer": "emerged",
+        "options": [
+          "emerged",
+          "extended",
+          "differed",
+          "verified"
+        ],
         "vocabularyId": "v87",
         "explanation": "原文此处使用 emerged（emerge）。结合上下文辨认词义与词形。",
         "evidence": "Trust emerged as a central theme across my research – and it’s also a concern for shoppers more generally.",
@@ -1818,6 +1842,12 @@
         "id": "c7",
         "number": 7,
         "answer": "relied",
+        "options": [
+          "perceived",
+          "relied",
+          "differed",
+          "uncovered"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 relied（rely）。结合上下文辨认词义与词形。",
         "evidence": "While certain participants in my research relied on certification, others placed greater faith in personal recommendations, community networks or direct relationships with growers.",
@@ -1827,6 +1857,12 @@
         "id": "c8",
         "number": 8,
         "answer": "prompting",
+        "options": [
+          "shopping",
+          "consumers",
+          "prompting",
+          "purchasing"
+        ],
         "vocabularyId": "v100",
         "explanation": "原文此处使用 prompting（prompt）。结合上下文辨认词义与词形。",
         "evidence": "Doubts about conventional food systems sometimes extended to organic claims, prompting people to change their food sources or grow and prepare more themselves.",
@@ -1836,6 +1872,12 @@
         "id": "c9",
         "number": 9,
         "answer": "reinforce",
+        "options": [
+          "perceived",
+          "incorporate",
+          "practise",
+          "reinforce"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 reinforce（reinforce）。结合上下文辨认词义与词形。",
         "evidence": "For producers and retailers, the findings reinforce the need for clear information about where organic food comes from, how it is produced and how its claims are verified.",
@@ -1845,6 +1887,12 @@
         "id": "c10",
         "number": 10,
         "answer": "purchasing",
+        "options": [
+          "purchasing",
+          "prompting",
+          "packaging",
+          "influence"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 purchasing（purchase）。结合上下文辨认词义与词形。",
         "evidence": "For researchers, they demonstrate the value of videos and interviews in exploring consumers’ habits and attitudes beyond their purchasing decisions.",
@@ -1933,5 +1981,8 @@
       }
     ]
   },
-  "revision": "4f387101b37a3d735a56aa945f463714a4a5c0a70b15fa20a4644709c4232917"
+  "revision": "65d44e1e5fe0ecd47192fdca3db4fe95c767550a05f58c5920f18cb071bbb6a8",
+  "compatibleProgressRevisions": [
+    "4f387101b37a3d735a56aa945f463714a4a5c0a70b15fa20a4644709c4232917"
+  ]
 }

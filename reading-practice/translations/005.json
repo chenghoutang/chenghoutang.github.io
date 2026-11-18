@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 5,
+  "folder": "005",
+  "articleSha256": "739536708dbdeffc3f986bb490251a0ac7e8373aeef484325a8f2cb9f06f7fa8",
+  "titleEn": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the Sun",
+  "titleZh": "每隔八分钟发出无线电波的死星，以及它那颗酷似太阳的伴星",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients.",
+      "zh": "自2022年以来，天文学家一直在为一种新的宇宙天体而困惑，这种天体被称为长周期射电瞬变。"
+    },
+    {
+      "number": 2,
+      "en": "These are objects that emit bright flashes of radio waves into space every few minutes to every few hours.",
+      "zh": "这些物体每隔几分钟到几小时就会向太空发射明亮的无线电波。"
+    },
+    {
+      "number": 3,
+      "en": "Some have been traced back to binary systems of a small, dim cool star called a red dwarf in orbit with a star remnant called a white dwarf.",
+      "zh": "有些被追溯到双星系统的一个小，昏暗的冷星星称为红矮星在轨道上与白色矮星的星星残骸。"
+    },
+    {
+      "number": 4,
+      "en": "In new research published today in Nature Astronomy, we report the first discovery of a different source for one of these enigmatic intermittent broadcasters: it still involves a white dwarf, but also a star much like our own Sun.",
+      "zh": "在今天发表在《自然天文学》上的新研究中，我们报告了首次发现这些神秘的间歇性广播之一的不同来源：它仍然涉及一颗白色矮星，但也涉及一颗很像我们自己的太阳的星星。"
+    },
+    {
+      "number": 5,
+      "en": "The search for sources",
+      "zh": "寻找来源"
+    },
+    {
+      "number": 6,
+      "en": "After the discovery of the first long-period radio transient in 2022, once we had ruled out aliens, we went looking for natural explanations.",
+      "zh": "在2022年发现第一个长周期无线电瞬变之后，一旦我们排除了外星人，我们就开始寻找自然解释。"
+    },
+    {
+      "number": 7,
+      "en": "One idea was that they were extremely slow-spinning neutron star pulsars, the collapsed cores of enormous stars which also send out repeating radio flashes. But in theory a neutron star spinning that slowly shouldn’t produce radio waves, so the answer had to be something else.",
+      "zh": "有一种观点认为它们是旋转极慢的中子星星星，即巨大恒星的坍缩核心，也会发出重复的无线电波。但从理论上讲，缓慢旋转的中子星星不应该产生无线电波，所以答案肯定是别的东西。"
+    },
+    {
+      "number": 8,
+      "en": "When we started traced these radio signals back to their sources, we made a breakthrough. One of our repeating signals came from a red dwarf star, probably orbiting a white dwarf (the remnant of a star like our Sun).",
+      "zh": "当我们开始追踪这些无线电信号的来源时，我们取得了突破。我们的一个重复信号来自一颗红矮星星星，可能绕着一颗白色（像我们的太阳一样的星星的残骸）运行。"
+    },
+    {
+      "number": 9,
+      "en": "Across the handful of long-period transients whose source stars we can identify, a pattern has emerged: a binary system of a white dwarf and a small, cool red dwarf.",
+      "zh": "在我们可以识别的几个长周期瞬变源星中，出现了一种模式：一个白色矮星和一个小的冷红矮星的双星系统。"
+    },
+    {
+      "number": 10,
+      "en": "A signal from the wrong kind of star",
+      "zh": "来自错误类型的星星的信号"
+    },
+    {
+      "number": 11,
+      "en": "In late 2024, we were looking for new long-period transients using the Murchison Widefield Array radio telescope in Western Australia.",
+      "zh": "在2024年底，我们使用西澳大利亚的Murchison Widefield Array射电望远镜寻找新的长周期瞬变。"
+    },
+    {
+      "number": 12,
+      "en": "Using a search method developed by PhD student Csanád Horváth, we spotted something: short flashes of radio waves, arriving like clockwork every 7.9 minutes.",
+      "zh": "使用博士生Csanád Horváth开发的搜索方法，我们发现了一些东西：无线电波的短暂闪光，每7.9分钟到达一次。"
+    },
+    {
+      "number": 13,
+      "en": "Then the flashes stopped. For weeks we saw nothing, and we nearly gave up. But when we plotted every detection and non-detection together, a pattern emerged.",
+      "zh": "然后闪光停止了，几个星期我们什么也没看到，我们几乎放弃了，但是当我们把每一次探测和未探测的情况放在一起时，一个模式出现了。"
+    },
+    {
+      "number": 14,
+      "en": "The pulses only appear during a window of about six hours, followed by 26 hours without pulses. The most natural explanation is that the system is a binary: two stars orbiting each other once every 32 hours, with the radio pulses only visible when they are lined up in the right way.",
+      "zh": "最自然的解释是，该系统是一个双星系统：两颗恒星每32小时绕对方一周，只有当它们以正确的方式排列时，才能看到无线电脉冲。"
+    },
+    {
+      "number": 15,
+      "en": "The MeerKAT telescope in South Africa pinpointed the source to a tiny patch of sky containing a single faint star. We turned to the Keck telescope in Hawai’i to record the star’s spectrum – the “fingerprint” of its light, which can tell us a lot about the star itself.",
+      "zh": "南非的MeerKAT望远镜将光源精确地定位在一小片天空中，那里有一颗微弱的星星。我们转向夏威夷的凯克望远镜记录这颗星星的光谱--它的光的“指纹”，它可以告诉我们很多关于这颗星星本身的信息。"
+    },
+    {
+      "number": 16,
+      "en": "The result was a surprise: this was not a tiny red dwarf, but a G-type star almost the same mass and temperature as our own Sun.",
+      "zh": "结果令人惊讶：这不是一颗微小的红矮星，而是一颗G型星星，其质量和温度几乎与我们的太阳相同。"
+    },
+    {
+      "number": 17,
+      "en": "Weighing a star we can’t see",
+      "zh": "称量一颗我们看不见的星星"
+    },
+    {
+      "number": 18,
+      "en": "How can we be sure our source isn’t a neutron star after all?",
+      "zh": "我们怎么能确定我们的源头不是中子星星呢？"
+    },
+    {
+      "number": 19,
+      "en": "The clue is in the timing. As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others. That tells us how large the orbit is.",
+      "zh": "线索就在时间上。当脉冲物体围绕其轨道摆动时，脉冲到达的时间比预期的要早或晚4秒，因为无线电波在某些点比其他点传播得更远。这告诉我们轨道有多大。"
+    },
+    {
+      "number": 20,
+      "en": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it. This means the Sun-like star must be much heavier than its partner.",
+      "zh": "这颗类太阳星星的精确光谱“指纹”显示，当脉冲天体围绕它运行时，它几乎没有摆动。这意味着这颗类太阳星星一定比它的伙伴重得多。"
+    },
+    {
+      "number": 21,
+      "en": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun. That means it’s too light to be a neutron star.",
+      "zh": "当我们把轨道的大小、每一个轨道运行的时间和光谱测量结合起来计算时，我们可以计算出这个脉冲天体的重量大约是太阳的三分之二，这意味着它太轻了，不可能是中子星星。"
+    },
+    {
+      "number": 22,
+      "en": "We believe the pulsing object is a white dwarf pulsar, the first found in orbit around a Sun-like star.",
+      "zh": "我们相信这个脉冲天体是一颗白色矮脉冲星，这是第一颗在类太阳星星轨道上发现的脉冲星。"
+    },
+    {
+      "number": 23,
+      "en": "What strange systems are hiding in the dark?",
+      "zh": "黑暗中隐藏着什么奇怪的系统？"
+    },
+    {
+      "number": 24,
+      "en": "How did this odd couple come to be? We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
+      "zh": "这对奇怪的组合是如何形成的呢？我们认为，形成白色矮星的星星首先膨胀成巨星，吞噬了它的伴星，伴星在巨星的外层被抛出之前，向内盘旋并缩小了轨道。"
+    },
+    {
+      "number": 25,
+      "en": "We think systems like this are probably quite common in the universe, but white dwarfs next to bright stars are very hard to see. The glare of the bright star hides the faint white dwarf.",
+      "zh": "我们认为像这样的系统在宇宙中很常见，但是在明亮恒星旁边的白色矮星很难被看到，明亮星星的强光掩盖了暗淡的白色矮星。"
+    },
+    {
+      "number": 26,
+      "en": "Radio pulses, on the other hand, cut through the glare. If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
+      "zh": "另一方面，无线电脉冲穿透了强光，如果更多的长周期瞬变被证明是隐藏在明亮恒星周围的白色矮星，无线电调查可能会发现光学和X射线望远镜错过的整个未被发现的群体。"
+    },
+    {
+      "number": 27,
+      "en": "This is important because some white dwarf binaries are thought to be the ancestors of Type Ia supernovae. Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe. Finding these systems could reveal more about this process.",
+      "zh": "这一点很重要，因为一些白色矮双星被认为是Ia型超新星的祖先。天文学家将这些爆炸的恒星作为“标准烛光”--测量星际距离和宇宙膨胀的参考点。找到这些系统可以揭示更多关于这一过程的信息。"
+    },
+    {
+      "number": 28,
+      "en": "With the next generation of radio telescopes, such as the SKA Observatory, we expect to find many more. And if we can find these objects around many different types of stars, it will give us insights into the lives and deaths of stars like our own Sun, across our galaxy and beyond.",
+      "zh": "有了下一代射电望远镜，比如SKA天文台，我们希望能发现更多的天体。如果我们能在许多不同类型的恒星周围发现这些天体，它将让我们深入了解像我们自己的太阳这样的恒星的生与死，在我们的银河系内外。"
+    }
+  ]
+}

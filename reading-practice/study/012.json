@@ -1774,23 +1774,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       3,
       15
-    ],
-    "wordBank": [
-      "erosion",
-      "vanished",
-      "explosion",
-      "slowly",
-      "finally",
-      "volcanic",
-      "chronological",
-      "sedimentary",
-      "Geologists",
-      "creation"
     ],
     "parts": [
       {
@@ -1862,6 +1850,12 @@
         "id": "c1",
         "number": 1,
         "answer": "finally",
+        "options": [
+          "finally",
+          "chapters",
+          "dubbed",
+          "geologists"
+        ],
         "vocabularyId": "v15",
         "explanation": "原文此处使用 finally（finally）。结合上下文辨认词义与词形。",
         "evidence": "In new research published today in Nature, we finally provide an explanation: deep processes inside Earth lifted some continents high above the sea, where their surfaces were scoured down by the grinding movement of enormous sheets of ice.",
@@ -1871,6 +1865,12 @@
         "id": "c2",
         "number": 2,
         "answer": "chronological",
+        "options": [
+          "geological",
+          "chronological",
+          "sedimentary",
+          "continental"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 chronological（chronological）。结合上下文辨认词义与词形。",
         "evidence": "Layers of rock often stack up in chronological order, with the oldest at the bottom and the youngest at the top.",
@@ -1880,6 +1880,12 @@
         "id": "c3",
         "number": 3,
         "answer": "sedimentary",
+        "options": [
+          "geological",
+          "volcanic",
+          "sedimentary",
+          "crystalline"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 sedimentary（sedimentary）。结合上下文辨认词义与词形。",
         "evidence": "A flat layer of sedimentary rock, about 540 million years old or younger, rests directly atop a crystalline “basement” up to two billion years old.",
@@ -1889,6 +1895,12 @@
         "id": "c4",
         "number": 4,
         "answer": "vanished",
+        "options": [
+          "evolved",
+          "eroded",
+          "erased",
+          "vanished"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 vanished（vanish）。结合上下文辨认词义与词形。",
         "evidence": "Somewhere in between, a considerable chunk (up to a quarter) of Earth’s history has simply vanished.",
@@ -1898,6 +1910,12 @@
         "id": "c5",
         "number": 5,
         "answer": "explosion",
+        "options": [
+          "explosion",
+          "geologists",
+          "dubbed",
+          "continents"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 explosion（explosion）。结合上下文辨认词义与词形。",
         "evidence": "This is the so-called Cambrian explosion, which began around 540 million years ago.",
@@ -1907,6 +1925,12 @@
         "id": "c6",
         "number": 6,
         "answer": "Geologists",
+        "options": [
+          "chapters",
+          "hundreds",
+          "Geologists",
+          "millions"
+        ],
         "vocabularyId": "v3",
         "explanation": "原文此处使用 Geologists（geologist）。结合上下文辨认词义与词形。",
         "evidence": "Geologists have found evidence of the Great Unconformity throughout North America and parts of northern China, as well as beneath younger rocks in northern Europe.",
@@ -1916,6 +1940,12 @@
         "id": "c7",
         "number": 7,
         "answer": "erosion",
+        "options": [
+          "erosion",
+          "dubbed",
+          "geologists",
+          "chapters"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 erosion（erosion）。结合上下文辨认词义与词形。",
         "evidence": "Some scientists have argued it was caused by erosion by massive ice sheets during the Snowball Earth period between 720 million years and 635 million years ago.",
@@ -1925,6 +1955,12 @@
         "id": "c8",
         "number": 8,
         "answer": "volcanic",
+        "options": [
+          "sedimentary",
+          "chronological",
+          "continental",
+          "volcanic"
+        ],
         "vocabularyId": "v61",
         "explanation": "原文此处使用 volcanic（volcanic）。结合上下文辨认词义与词形。",
         "evidence": "Others have pointed to the reshuffling of continental blocks, mountain-building processes, heat-induced movement inside the Earth, volcanic activity, or global sea level change.",
@@ -1934,6 +1970,12 @@
         "id": "c9",
         "number": 9,
         "answer": "creation",
+        "options": [
+          "sequence",
+          "dubbed",
+          "creation",
+          "geologists"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 creation（creation）。结合上下文辨认词义与词形。",
         "evidence": "We had a theory that the creation of the Great Unconformity might have been influenced by heat-driven motion in Earth’s mantle.",
@@ -1943,6 +1985,12 @@
         "id": "c10",
         "number": 10,
         "answer": "slowly",
+        "options": [
+          "stack",
+          "slowly",
+          "dubbed",
+          "consistently"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 slowly（slowly）。结合上下文辨认词义与词形。",
         "evidence": "The mantle is a 2,900-kilometre thick layer of hot solid rock that slowly moves over tens to hundreds of millions of years.",
@@ -2031,5 +2079,8 @@
       }
     ]
   },
-  "revision": "abaa17444a8578f7f2d156647bcc718299c8aed8b641265d325a7528f4fdb36e"
+  "revision": "8fe4bf6cd009c48a1bd8284f30f3ab9af45dafc4ebbb62e8adfddacd58954847",
+  "compatibleProgressRevisions": [
+    "abaa17444a8578f7f2d156647bcc718299c8aed8b641265d325a7528f4fdb36e"
+  ]
 }

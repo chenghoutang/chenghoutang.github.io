@@ -4,30 +4,64 @@ import crypto from 'node:crypto';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
 
-// Classic script data supports file:// without relaxing browser security settings.
-// The original JSON and TXT files remain the source of truth.
+const escape = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
+const labels = { 'Science and technology': '科学与技术', 'Environment and nature': '环境与自然',
+    'Health and psychology': '健康与心理', 'Education and learning': '教育与学习',
+    'Arts, history and culture': '艺术、历史与文化', 'Economics and business': '经济与商业' };
+const scriptJson = value => JSON.stringify(value).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
+
+// Generate ordinary HTML pages with their own data: works with HTTPS and file://.
 export function buildReadingOfflineData(corpus) {
+    const reading = path.dirname(corpus);
+    const root = path.dirname(reading);
     const metadata = JSON.parse(fs.readFileSync(path.join(corpus, 'metadata.json'), 'utf8'));
+    const template = fs.readFileSync(path.join(root, 'scripts/templates/reading-article.html'), 'utf8');
+    const pages = path.join(reading, 'articles');
+    fs.mkdirSync(pages, { recursive: true });
     assert.equal(metadata.articles.length, 100);
-    const bodies = Object.fromEntries(metadata.articles.map(row => {
-        assert.match(row.file, /^\d{3}\/article\.txt$/);
-        const text = fs.readFileSync(path.join(corpus, row.file), 'utf8');
-        assert.equal(crypto.createHash('sha256').update(text).digest('hex'), row.fileSha256, row.file);
-        return [row.file, text];
-    }));
-    const studyDirectory = path.join(path.dirname(corpus), 'study');
-    const study = {};
-    if (fs.existsSync(studyDirectory)) for (const row of metadata.articles) {
-        const filename = path.join(studyDirectory, `${row.folder}.json`);
-        if (!fs.existsSync(filename)) continue;
-        const material = JSON.parse(fs.readFileSync(filename, 'utf8'));
-        assert.equal(material.articleSha256, row.fileSha256, `Stale study material: ${row.folder}`);
-        study[row.folder] = material;
+    const catalog = [];
+    for (const [index, article] of metadata.articles.entries()) {
+        assert.match(article.file, /^\d{3}\/article\.txt$/);
+        const text = fs.readFileSync(path.join(corpus, article.file), 'utf8');
+        assert.equal(crypto.createHash('sha256').update(text).digest('hex'), article.fileSha256);
+        const studyFile = path.join(reading, 'study', `${article.folder}.json`);
+        const translationFile = path.join(reading, 'translations', `${article.folder}.json`);
+        if (!fs.existsSync(studyFile) || !fs.existsSync(translationFile)) continue;
+        const study = JSON.parse(fs.readFileSync(studyFile, 'utf8'));
+        const translation = JSON.parse(fs.readFileSync(translationFile, 'utf8'));
+        assert.equal(study.articleSha256, article.fileSha256);
+        assert.equal(translation.articleSha256, article.fileSha256);
+        const paragraphs = text.trim().split(/\r?\n\s*\r?\n/);
+        assert.deepEqual(translation.paragraphs.map(row => row.en), paragraphs);
+        const disclosures = (article.auxiliaryContent || []).filter(row => row.type === 'disclosure');
+        const nav = (direction, offset, label) => {
+            const adjacent = metadata.articles[index + offset];
+            return adjacent ? `<a id="${direction}Article" class="pill" href="${adjacent.folder}.html" rel="${offset < 0 ? 'prev' : 'next'}">${label}</a>`
+                : `<span id="${direction}Article" class="pill" aria-disabled="true">${label}</span>`;
+        };
+        const values = { TITLE: escape(article.title), TITLE_ZH: escape(translation.titleZh), NUMBER: article.folder,
+            TOPIC: escape(labels[article.category] || article.category),
+            INFO: `${article.published.slice(0, 10)} · ${article.stats.wordCount.toLocaleString('en-US')} 词`,
+            BODY: paragraphs.map((paragraph, i) => `<p data-paragraph="${i + 1}">${escape(paragraph)}</p>`).join('\n'),
+            AUTHORS: escape(article.authors.join('; ')), SOURCE: escape(article.url),
+            DISCLOSURES: disclosures.length ? `<details id="disclosures"><summary>作者披露声明</summary><div id="disclosureText" lang="en">${disclosures.map(row => `<p>${escape(row.text)}</p>`).join('')}</div></details>` : '',
+            PREVIOUS: nav('previous', -1, '← 上一篇'), NEXT: nav('next', 1, '下一篇 →'),
+            DATA: scriptJson({ article, study, translation }) };
+        const html = template.replace(/\{\{([A-Z_]+)\}\}/g, (_, key) => { assert.ok(key in values, key); return values[key]; });
+        fs.writeFileSync(path.join(pages, `${article.folder}.html`), html, 'utf8');
+        catalog.push({ folder: article.folder, title: article.title, titleZh: translation.titleZh,
+            authors: article.authors, category: article.category, wordCount: article.stats.wordCount });
     }
-    const json = JSON.stringify({ metadata, bodies, study }).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
-    const destination = path.join(path.dirname(corpus), 'reading-data.js');
-    fs.writeFileSync(destination, '// Generated by scripts/build-reading-offline.mjs; edit the original JSON/TXT files.\nwindow.DENGDUCK_READING_DATA = ' + json + ';\n', 'utf8');
-    return destination;
+    if (catalog.length !== 100) return `${catalog.length} article pages ready; build remaining study/translation data.`;
+    fs.writeFileSync(path.join(reading, 'catalog-data.js'), '// Generated by scripts/build-reading-offline.mjs\nwindow.DENGDUCK_READING_CATALOG = ' + scriptJson(catalog) + ';\n', 'utf8');
+    const cards = catalog.map(row => `<a class="article-card" href="articles/${row.folder}.html"><div class="card-meta"><span>${row.folder}</span><span>${escape(labels[row.category])}</span></div><h3 lang="en">${escape(row.title)}</h3><p class="card-title-zh">${escape(row.titleZh)}</p><span class="card-bottom">${row.wordCount.toLocaleString('en-US')} 词 · 阅读文章 →</span></a>`).join('\n');
+    const indexPath = path.join(reading, 'index.html');
+    let index = fs.readFileSync(indexPath, 'utf8');
+    index = index.replace(/<div id="articleList" class="article-list">[\s\S]*?<\/div><!-- article-list-end -->|<div id="articleList" class="article-list"><\/div>/,
+        `<div id="articleList" class="article-list">${cards}</div><!-- article-list-end -->`)
+        .replace(/(<p id="resultCount"[^>]*>)[\s\S]*?(<\/p>)/, (_, start, end) => start + '100 / 100 篇' + end);
+    fs.writeFileSync(indexPath, index, 'utf8');
+    return 'Generated 100 independent article pages and a searchable catalog.';
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

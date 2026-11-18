@@ -1630,23 +1630,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       3,
       11
-    ],
-    "wordBank": [
-      "sugary",
-      "sticky",
-      "derived",
-      "multiple",
-      "repair",
-      "inflammation",
-      "decay",
-      "colleague",
-      "content",
-      "regularly"
     ],
     "parts": [
       {
@@ -1718,6 +1706,12 @@
         "id": "c1",
         "number": 1,
         "answer": "derived",
+        "options": [
+          "whitening",
+          "assess",
+          "derived",
+          "bleeding"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 derived（derive）。结合上下文辨认词义与词形。",
         "evidence": "“Natural” usually describes ingredients derived from natural sources.",
@@ -1727,6 +1721,12 @@
         "id": "c2",
         "number": 2,
         "answer": "decay",
+        "options": [
+          "mineral",
+          "decay",
+          "organic",
+          "fluoride"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 decay（decay）。结合上下文辨认词义与词形。",
         "evidence": "None of these labels, on its own, shows that a toothpaste can prevent tooth decay.",
@@ -1736,6 +1736,12 @@
         "id": "c3",
         "number": 3,
         "answer": "content",
+        "options": [
+          "content",
+          "familiar",
+          "mineral",
+          "organic"
+        ],
         "vocabularyId": "v34",
         "explanation": "原文此处使用 content（content）。结合上下文辨认词义与词形。",
         "evidence": "Nearly a third contained no fluoride, and some did not clearly state their fluoride content.",
@@ -1745,6 +1751,12 @@
         "id": "c4",
         "number": 4,
         "answer": "sticky",
+        "options": [
+          "becoming",
+          "organic",
+          "everyday",
+          "sticky"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 sticky（sticky）。结合上下文辨认词义与词形。",
         "evidence": "Tooth decay begins when bacteria in dental plaque, a sticky film that builds up on teeth, feed on sugars from food and drinks.",
@@ -1754,6 +1766,12 @@
         "id": "c5",
         "number": 5,
         "answer": "repair",
+        "options": [
+          "shelves",
+          "teeth",
+          "repair",
+          "familiar"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 repair（repair）。结合上下文辨认词义与词形。",
         "evidence": "Fluoride helps enamel resist acid and repair early damage before a cavity forms.",
@@ -1763,6 +1781,12 @@
         "id": "c6",
         "number": 6,
         "answer": "multiple",
+        "options": [
+          "shelves",
+          "multiple",
+          "fluoride",
+          "sights"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 multiple（multiple）。结合上下文辨认词义与词形。",
         "evidence": "Reviews bring together findings from multiple studies to assess the overall evidence.",
@@ -1772,6 +1796,12 @@
         "id": "c7",
         "number": 7,
         "answer": "colleague",
+        "options": [
+          "colleague",
+          "shelves",
+          "ingredients",
+          "sights"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 colleague（colleague）。结合上下文辨认词义与词形。",
         "evidence": "In a 2019 letter to the British Dental Journal, my colleague and I described a dental student who had developed several cavities after changing to a fluoride-free organic toothpaste.",
@@ -1781,6 +1811,12 @@
         "id": "c8",
         "number": 8,
         "answer": "sugary",
+        "options": [
+          "conventional",
+          "infrequent",
+          "herbal",
+          "sugary"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 sugary（sugary）。结合上下文辨认词义与词形。",
         "evidence": "The student had other risk factors, including a history of sugary snacking and infrequent dental visits.",
@@ -1790,6 +1826,12 @@
         "id": "c9",
         "number": 9,
         "answer": "regularly",
+        "options": [
+          "regularly",
+          "organic",
+          "effectively",
+          "necessarily"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 regularly（regularly）。结合上下文辨认词义与词形。",
         "evidence": "We can not say that this single case cannot show that the organic toothpaste caused multiple decays, but this clearly illustrates why checking for fluoride is important, even for people who brush their teeth regularly.",
@@ -1799,6 +1841,12 @@
         "id": "c10",
         "number": 10,
         "answer": "inflammation",
+        "options": [
+          "toothpastes",
+          "inflammation",
+          "difference",
+          "colleague"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 inflammation（inflammation）。结合上下文辨认词义与词形。",
         "evidence": "These ingredients may help control bacteria and gum inflammation – also called gingivitis – which can cause redness, swelling and bleeding when brushing.",
@@ -1887,5 +1935,8 @@
       }
     ]
   },
-  "revision": "953b78ed5c506c2dac5741e70b2ca5c4fa9870bb3d4b0abcb0eb6843c3a6cfe6"
+  "revision": "f9681e07e9cdebf9aa4979177021e10eaf51324f437f15bb35be66d3151cc561",
+  "compatibleProgressRevisions": [
+    "953b78ed5c506c2dac5741e70b2ca5c4fa9870bb3d4b0abcb0eb6843c3a6cfe6"
+  ]
 }

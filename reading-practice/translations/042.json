@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 5,
+  "folder": "042",
+  "articleSha256": "5787ea7ca5b15fd694b0d7b30150a31509ea187568cce46f34110cfff726fef1",
+  "titleEn": "Scientists find way to repair heart damage after a heart attack",
+  "titleZh": "科学家发现修复心肌梗死后心脏损伤的新方法",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "Every year, millions of people worldwide suffer a heart attack. Thanks to advances in emergency treatment, many now survive an event that might once have been fatal. Yet surviving a heart attack is not necessarily the end of the story. The damage can be permanent, increasing the risk of heart failure, breathlessness and a poorer quality of life.",
+      "zh": "每年，全世界都有数百万人心脏病发作。由于急救技术的进步，许多人在曾经可能致命的事件中幸存下来。然而，心脏病发作后幸存下来并不一定就是故事的结局。心脏病的损害可能是永久性的，增加了心力衰竭、呼吸困难和生活质量下降的风险。"
+    },
+    {
+      "number": 2,
+      "en": "Researchers have developed an experimental treatment that could change how we approach recovery after a heart attack. Rather than simply protecting the remaining heart muscle, the new approach aims to encourage the heart to repair itself. So far, it has only been tested in mice.",
+      "zh": "研究人员开发了一种实验性治疗方法，可能会改变我们在心脏病发作后的康复方式。这种新方法的目的不是简单地保护剩余的心肌，而是鼓励心脏自我修复。到目前为止，它只在小鼠身上进行了测试。"
+    },
+    {
+      "number": 3,
+      "en": "The findings, published in the journal Nature Cardiovascular Research, describe how modified messenger RNA (mRNA) can encourage heart muscle cells to multiply, potentially improving the heart’s ability to pump blood.",
+      "zh": "这项研究结果发表在《自然心血管研究》杂志上，描述了修饰后的信使RNA（mRNA）如何促进心肌细胞增殖，从而潜在地提高心脏泵血的能力。"
+    },
+    {
+      "number": 4,
+      "en": "Although this is still early-stage research, the study offers the tantalising possibility that one day we might be able to encourage the adult human heart to regenerate damaged muscle.",
+      "zh": "尽管这仍是早期研究，但这项研究提供了一个诱人的可能性，即有一天我们可能能够鼓励成年人的心脏再生受损的肌肉。"
+    },
+    {
+      "number": 5,
+      "en": "Why the heart struggles to repair itself",
+      "zh": "心脏为什么难以自我修复",
+      "editorialRevision": true
+    },
+    {
+      "number": 6,
+      "en": "A heart attack (myocardial infarction) occurs when blood flow through a coronary artery is significantly reduced or even fully blocked. Without oxygen, the cells of the heart muscle begin to die. These specialised cells, called cardiomyocytes, are responsible for the continuous contractions of the heart muscle, which pumps blood around the body to our vital organs.",
+      "zh": "心脏病发作（心肌梗死）是指通过冠状动脉的血流明显减少甚至完全阻塞。没有氧气，心肌细胞开始死亡。这些特殊的细胞，称为心肌细胞，负责心肌的持续收缩，将血液泵送到身体各处的重要器官。"
+    },
+    {
+      "number": 7,
+      "en": "Unlike skin or liver tissue, the adult human heart has limited capacity to replace damaged cells. Instead, dead muscle is largely replaced by fibrous scar tissue. Although this scar helps maintain the heart’s structural integrity, it cannot contract like healthy muscle.",
+      "zh": "与皮肤或肝脏组织不同，成年人的心脏替换受损细胞的能力有限。相反，坏死的肌肉大部分被纤维性瘢痕组织所取代。尽管这种瘢痕有助于保持心脏结构的完整性，但它不能像健康肌肉那样收缩。"
+    },
+    {
+      "number": 8,
+      "en": "The consequence is a heart that may become progressively weaker, sometimes leading to heart failure.",
+      "zh": "其结果是心脏可能会逐渐变弱，有时会导致心力衰竭。"
+    },
+    {
+      "number": 9,
+      "en": "Modern treatments, such as procedures to reopen blocked arteries, medication and supervised exercise programmes, have greatly improved survival. But they cannot replace heart muscle that has already died.",
+      "zh": "现代的治疗方法，如重新开通阻塞的动脉、药物治疗和有监督的锻炼计划，已经大大提高了存活率。但它们不能取代已经死亡的心肌。"
+    },
+    {
+      "number": 10,
+      "en": "During the early development of the heart, the cardiomyocytes divide, allowing the heart muscle to grow. Shortly after birth, most mammalian cardiomyocytes largely lose this ability. The researchers investigated whether they could restart this process by making heart muscle cells produce two proteins, called Myc and cyclin T1.",
+      "zh": "在心脏的早期发育过程中，心肌细胞分裂，从而使心肌得以生长。出生后不久，大多数哺乳动物的心肌细胞基本上失去了这种能力。研究人员研究了是否可以通过使心肌细胞产生两种蛋白质，即Myc和细胞周期蛋白T1，来重新启动这一过程。"
+    },
+    {
+      "number": 11,
+      "en": "Myc switches on genes involved in cell growth and division, while cyclin T1 helps activate the machinery cells need to multiply. Together, the proteins can encourage mature heart muscle cells to start dividing again.",
+      "zh": "Myc启动与细胞生长和分裂有关的基因，而细胞周期蛋白T1则帮助激活细胞增殖所需的机制。这两种蛋白质共同作用，可以促使成熟的心肌细胞重新开始分裂。"
+    },
+    {
+      "number": 12,
+      "en": "The researchers used modified mRNA to give heart muscle cells instructions for making the two proteins. This is the same basic technology used in COVID vaccines, which deliver temporary genetic instructions to cells to make a protein that trains the immune system to recognise the virus.",
+      "zh": "研究人员利用修饰后的mRNA向心肌细胞发出指令，使其生成这两种蛋白质。这与新冠病毒疫苗所用的基本技术相同，新冠病毒疫苗向细胞发出临时的基因指令，使其生成一种蛋白质，从而训练免疫系统识别病毒。"
+    },
+    {
+      "number": 13,
+      "en": "Importantly, mRNA does not need to alter a cell’s DNA. Instead, it provides temporary instructions that are naturally broken down. This temporary activity is particularly important when stimulating cell growth because uncontrolled cell growth is the basis of cancer.",
+      "zh": "重要的是，mRNA并不需要改变细胞的DNA。相反，它提供的临时指令会被自然分解。这种临时活性在刺激细胞生长时尤为重要，因为失控的细胞生长是癌症的基础。"
+    },
+    {
+      "number": 14,
+      "en": "What happened in the damaged hearts?",
+      "zh": "受损的心脏里发生了什么"
+    },
+    {
+      "number": 15,
+      "en": "The researchers tested their approach in mice following experimentally induced heart attacks.",
+      "zh": "研究人员在实验性诱发心脏病发作的小鼠身上测试了他们的方法。"
+    },
+    {
+      "number": 16,
+      "en": "The researchers injected the modified mRNA directly into the damaged hearts of mice that had suffered heart attacks. The treatment activated genes involved in cell division, prompting heart muscle cells to start multiplying. Crucially, the treated mice also showed improvements in heart function.",
+      "zh": "研究人员将修饰后的mRNA直接注射到心脏病发作小鼠受损的心脏中。这种治疗激活了参与细胞分裂的基因，促使心肌细胞开始增殖。至关重要的是，接受治疗的小鼠的心脏功能也得到了改善。"
+    },
+    {
+      "number": 17,
+      "en": "After 28 days, the treated mice had lost less pumping ability than untreated mice. They also had more heart muscle tissue.",
+      "zh": "28天后，治疗组小鼠的泵血能力下降比未治疗组小鼠少，心肌组织也增加。"
+    },
+    {
+      "number": 18,
+      "en": "In a longer experiment, improvements in heart function were still evident 12 weeks after treatment.",
+      "zh": "在一个更长的实验中，治疗12周后，心脏功能的改善仍然明显。"
+    },
+    {
+      "number": 19,
+      "en": "These findings suggest that temporarily activating the heart’s growth machinery may help restore some of the function lost following injury. However, the treatment did not consistently reduce scar tissue. This suggests that the heart’s improved pumping ability did not necessarily mean damaged muscle had been fully replaced.",
+      "zh": "这些发现表明，暂时激活心脏的生长机制可能有助于恢复受伤后失去的部分功能。然而，治疗并没有持续减少疤痕组织。这表明，心脏泵血能力的改善并不一定意味着受损肌肉已经完全被取代。"
+    },
+    {
+      "number": 20,
+      "en": "One of the most important findings concerns safety. Myc is a powerful regulator of cell growth and is also associated with cancer when its activity becomes uncontrolled.",
+      "zh": "最重要的发现之一是关于安全性。Myc是细胞生长的强有力的调节剂，当其活性变得不受控制时，也与癌症有关。"
+    },
+    {
+      "number": 21,
+      "en": "Activating Myc and cyclin T1 widely throughout the damaged heart could be dangerous. In one experiment, several mice developed severe illness or died.",
+      "zh": "在受损的心脏中广泛激活Myc和细胞周期蛋白T1可能是危险的。在一个实验中，几只老鼠患上了严重的疾病或死亡。"
+    },
+    {
+      "number": 22,
+      "en": "Restricting activation to a smaller region of heart muscle surrounding the initial injury produced a much more favourable response. The findings highlight a major challenge: researchers must find a way to stimulate heart muscle cells to divide without triggering uncontrolled growth elsewhere in the heart.",
+      "zh": "将激活限制在最初损伤周围的较小心肌区域产生了更有利的反应。这些发现突出了一个重大挑战：研究人员必须找到一种方法来刺激心肌细胞分裂，而不会引发心脏其他部位不受控制的生长。"
+    },
+    {
+      "number": 23,
+      "en": "Encouragingly, no tumours were observed during the reported follow-up of mice receiving the localised treatment. However, longer studies will be essential to establish safety.",
+      "zh": "令人鼓舞的是，在接受局部治疗的小鼠的随访报告中没有观察到肿瘤。然而，更长时间的研究对确定安全性至关重要。"
+    },
+    {
+      "number": 24,
+      "en": "There are substantial obstacles before this approach could be tested routinely in patients. The treatment has not yet been shown to regenerate damaged human hearts. Researchers must work out how to deliver the treatment safely, find the right dose and check for complications such as abnormal heart rhythms and uncontrolled cell growth. Still, the findings are an important advance in regenerative cardiovascular medicine.",
+      "zh": "在这种方法可以在患者身上进行常规测试之前，还有大量的障碍。这种治疗方法尚未被证明可以再生受损的人类心脏。研究人员必须研究出如何安全地进行治疗，找到正确的剂量，并检查并发症，如心律异常和细胞生长失控。尽管如此，这些发现仍然是再生心血管医学的重要进展。"
+    },
+    {
+      "number": 25,
+      "en": "For decades, the emphasis after a heart attack has been on preventing further damage and helping the surviving heart muscle work more efficiently. This research points towards a different ambition: replacing some of the muscle that has already been lost.",
+      "zh": "几十年来，心脏病发作后的重点一直是防止进一步的损伤，并帮助幸存的心肌更有效地工作。这项研究指向了一个不同的目标：替换一些已经失去的肌肉。"
+    },
+    {
+      "number": 26,
+      "en": "If future studies demonstrate that the approach is both safe and effective in humans, treating a heart attack might one day involve not only restoring blood flow, but also giving the heart the instructions it needs to repair itself.",
+      "zh": "如果未来的研究证明这种方法对人类既安全又有效，那么有一天治疗心脏病发作可能不仅需要恢复血流，而且还需要给心脏提供自我修复所需的指令。"
+    }
+  ]
+}

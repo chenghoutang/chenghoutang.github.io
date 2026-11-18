@@ -1295,23 +1295,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       17
-    ],
-    "wordBank": [
-      "online",
-      "foundation",
-      "boost",
-      "survey",
-      "annual",
-      "emergencies",
-      "struggle",
-      "one-time",
-      "newsletters",
-      "charitable"
     ],
     "parts": [
       {
@@ -1383,6 +1371,12 @@
         "id": "c1",
         "number": 1,
         "answer": "newsletters",
+        "options": [
+          "basis",
+          "numbers",
+          "experiments",
+          "newsletters"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 newsletters（newsletter）。结合上下文辨认词义与词形。",
         "evidence": "When we emailed 75,514 customers who subscribed to its newsletters, half read that the company would give $5,000 a month from September through December to a small, local charity that supports early childhood education programs.",
@@ -1392,6 +1386,12 @@
         "id": "c2",
         "number": 2,
         "answer": "one-time",
+        "options": [
+          "one-time",
+          "highly",
+          "charity",
+          "weekly"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 one-time（one-time）。结合上下文辨认词义与词形。",
         "evidence": "The other half read that it would make a one-time donation of $20,000.",
@@ -1401,6 +1401,12 @@
         "id": "c3",
         "number": 3,
         "answer": "online",
+        "options": [
+          "genuine",
+          "online",
+          "consistent",
+          "charity"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 online（online）。结合上下文辨认词义与词形。",
         "evidence": "Then we ran online experiments with more than 7,400 people to learn why and when consistent giving makes people view a company more favorably.",
@@ -1410,6 +1416,12 @@
         "id": "c4",
         "number": 4,
         "answer": "charitable",
+        "options": [
+          "charity",
+          "genuine",
+          "charitable",
+          "donating"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 charitable（charitable）。结合上下文辨认词义与词形。",
         "evidence": "We found that, on average, when a company gives monthly, people see its charitable support as a more genuine commitment to the causes.",
@@ -1419,6 +1431,12 @@
         "id": "c5",
         "number": 5,
         "answer": "survey",
+        "options": [
+          "weekly",
+          "company",
+          "charity",
+          "survey"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 survey（survey）。结合上下文辨认词义与词形。",
         "evidence": "In a 2022 survey, 88% of Americans said it’s important for companies to make the world a better place.",
@@ -1428,6 +1446,12 @@
         "id": "c6",
         "number": 6,
         "answer": "foundation",
+        "options": [
+          "foundation",
+          "company",
+          "donations",
+          "monthly"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 foundation（foundation）。结合上下文辨认词义与词形。",
         "evidence": "For example, Microsoft announced that the software giant and its employees donated $256 million in 2025; Walmart and its foundation say they have donated $2 billion in 2026.",
@@ -1437,6 +1461,12 @@
         "id": "c7",
         "number": 7,
         "answer": "struggle",
+        "options": [
+          "weekly",
+          "charity",
+          "struggle",
+          "basis"
+        ],
         "vocabularyId": "v61",
         "explanation": "原文此处使用 struggle（struggle）。结合上下文辨认词义与词形。",
         "evidence": "This may help explain why companies often struggle to convey their charitable efforts in ways that win people over.",
@@ -1446,6 +1476,12 @@
         "id": "c8",
         "number": 8,
         "answer": "annual",
+        "options": [
+          "annual",
+          "charity",
+          "basis",
+          "monthly"
+        ],
         "vocabularyId": "v8",
         "explanation": "原文此处使用 annual（annual）。结合上下文辨认词义与词形。",
         "evidence": "For example, they can make their annual gifts on Giving Tuesday every year.",
@@ -1455,6 +1491,12 @@
         "id": "c9",
         "number": 9,
         "answer": "boost",
+        "options": [
+          "weekly",
+          "charity",
+          "company",
+          "boost"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 boost（boost）。结合上下文辨认词义与词形。",
         "evidence": "We don’t yet know how long the reputational boost companies may get from recurring donations might last, or whether those donations can translate into long-term customer loyalty.",
@@ -1464,6 +1506,12 @@
         "id": "c10",
         "number": 10,
         "answer": "emergencies",
+        "options": [
+          "experiments",
+          "customers",
+          "emergencies",
+          "diners"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 emergencies（emergency）。结合上下文辨认词义与词形。",
         "evidence": "It’s also possible that what we found would not apply during emergencies.",
@@ -1552,5 +1600,8 @@
       }
     ]
   },
-  "revision": "d1914e14826a75446e58d0a72fc5b13bf6b3a1c9ce06061eb0b9904bf7cd43ef"
+  "revision": "56a377ad47cac9f26e3382b9481a89f37da845e9b47f6ff331824e989c4cc668",
+  "compatibleProgressRevisions": [
+    "d1914e14826a75446e58d0a72fc5b13bf6b3a1c9ce06061eb0b9904bf7cd43ef"
+  ]
 }

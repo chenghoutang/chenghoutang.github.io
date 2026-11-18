@@ -1831,23 +1831,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       17
-    ],
-    "wordBank": [
-      "disturbs",
-      "volumes",
-      "forecast",
-      "eruptions",
-      "separate",
-      "immensely",
-      "elements",
-      "appearance",
-      "kilometres",
-      "regrowing"
     ],
     "parts": [
       {
@@ -1919,6 +1907,12 @@
         "id": "c1",
         "number": 1,
         "answer": "volumes",
+        "options": [
+          "triggers",
+          "clues",
+          "volumes",
+          "signals"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 volumes（volume）。结合上下文辨认词义与词形。",
         "evidence": "Large volumes of magma can remain stored quietly under volcanoes for days, months, even years.",
@@ -1928,6 +1922,12 @@
         "id": "c2",
         "number": 2,
         "answer": "disturbs",
+        "options": [
+          "metals",
+          "reveal",
+          "disturbs",
+          "warning"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 disturbs（disturb）。结合上下文辨认词义与词形。",
         "evidence": "However, when a critical event disturbs its peace, the magma will travel to the surface, causing a volcanic eruption.",
@@ -1937,6 +1937,12 @@
         "id": "c3",
         "number": 3,
         "answer": "eruptions",
+        "options": [
+          "eruptions",
+          "signals",
+          "triggers",
+          "millions"
+        ],
         "vocabularyId": "v18",
         "explanation": "原文此处使用 eruptions（eruption）。结合上下文辨认词义与词形。",
         "evidence": "Luckily, not all disruptions of magma are powerful enough to trigger volcanic eruptions.",
@@ -1946,6 +1952,12 @@
         "id": "c4",
         "number": 4,
         "answer": "forecast",
+        "options": [
+          "predict",
+          "interpret",
+          "warning",
+          "forecast"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 forecast（forecast）。结合上下文辨认词义与词形。",
         "evidence": "This means that exploring the past history of a volcano gives us clues to better understand its future eruptive behaviour, and perhaps even forecast it.",
@@ -1955,6 +1967,12 @@
         "id": "c5",
         "number": 5,
         "answer": "kilometres",
+        "options": [
+          "earthquakes",
+          "triggers",
+          "kilometres",
+          "signals"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 kilometres（kilometre）。结合上下文辨认词义与词形。",
         "evidence": "When a volcano erupts, the magma carries different types of crystals from different depths beneath the surface. These depths can vary by several kilometres. Because the crystals grow from magma rising from Earth’s interior, they might hold clues about what happened beneath the volcano that caused eruption.",
@@ -1964,6 +1982,12 @@
         "id": "c6",
         "number": 6,
         "answer": "separate",
+        "options": [
+          "eruptions",
+          "separate",
+          "millions",
+          "coast"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 separate（separate）。结合上下文辨认词义与词形。",
         "evidence": "In our research, we use a new approach to separate these different signals, using a superb magmatic crystal storyteller: plagioclase.",
@@ -1973,6 +1997,12 @@
         "id": "c7",
         "number": 7,
         "answer": "appearance",
+        "options": [
+          "appearance",
+          "mineral",
+          "crystal",
+          "monitor"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 appearance（appearance）。结合上下文辨认词义与词形。",
         "evidence": "Like a chameleon, it changes its appearance and chemical composition as magma conditions shift.",
@@ -1982,6 +2012,12 @@
         "id": "c8",
         "number": 8,
         "answer": "elements",
+        "options": [
+          "triggers",
+          "disruptions",
+          "millions",
+          "elements"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 elements（element）。结合上下文辨认词义与词形。",
         "evidence": "Plagioclase chemistry is largely defined by the chemical elements calcium and sodium.",
@@ -1991,6 +2027,12 @@
         "id": "c9",
         "number": 9,
         "answer": "regrowing",
+        "options": [
+          "regrowing",
+          "disturbs",
+          "reveal",
+          "interpret"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 regrowing（regrow）。结合上下文辨认词义与词形。",
         "evidence": "If the temperature change is considerable, it might also dissolve part of the plagioclase before regrowing around it with a different composition.",
@@ -2000,6 +2042,12 @@
         "id": "c10",
         "number": 10,
         "answer": "immensely",
+        "options": [
+          "quietly",
+          "immensely",
+          "precisely",
+          "largely"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 immensely（immensely）。结合上下文辨认词义与词形。",
         "evidence": "In contrast with other crystals we find in magma, plagioclase shapes can be immensely diverse.",
@@ -2088,5 +2136,8 @@
       }
     ]
   },
-  "revision": "de07cd6c902c9f8165532d70e6660311c3dc3115408ba77ef9a5f104b7934560"
+  "revision": "de927c1b8c44ed45401ed2f1398ba3ca1babce37acd5e9d918ce6284250f73da",
+  "compatibleProgressRevisions": [
+    "de07cd6c902c9f8165532d70e6660311c3dc3115408ba77ef9a5f104b7934560"
+  ]
 }

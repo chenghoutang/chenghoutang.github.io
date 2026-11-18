@@ -1892,23 +1892,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       23
-    ],
-    "wordBank": [
-      "enabled",
-      "dating",
-      "precise",
-      "applications",
-      "entirely",
-      "observes",
-      "fits",
-      "normally",
-      "traces",
-      "depth"
     ],
     "parts": [
       {
@@ -1980,6 +1968,12 @@
         "id": "c1",
         "number": 1,
         "answer": "normally",
+        "options": [
+          "slightly",
+          "steadily",
+          "normally",
+          "surely"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 normally（normally）。结合上下文辨认词义与词形。",
         "evidence": "On the other hand, a lunar eclipse, when the Moon goes blood red at night, is caused by Earth blocking the sunlight that normally lights up the Moon.",
@@ -1989,6 +1983,12 @@
         "id": "c2",
         "number": 2,
         "answer": "precise",
+        "options": [
+          "careful",
+          "planetary",
+          "solar",
+          "precise"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 precise（precise）。结合上下文辨认词义与词形。",
         "evidence": "What Aboriginal genius had that flash of insight, while watching a lunar eclipse, that this eclipse was caused by the precise juxtaposition of the Sun and Moon on opposite sides of the sky?",
@@ -1998,6 +1998,12 @@
         "id": "c3",
         "number": 3,
         "answer": "traces",
+        "options": [
+          "traces",
+          "stars",
+          "orbits",
+          "planets"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 traces（trace）。结合上下文辨认词义与词形。",
         "evidence": "But we still see traces in the Aboriginal cultural legacy.",
@@ -2007,6 +2013,12 @@
         "id": "c4",
         "number": 4,
         "answer": "entirely",
+        "options": [
+          "surely",
+          "normally",
+          "entirely",
+          "thousands"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 entirely（entirely）。结合上下文辨认词义与词形。",
         "evidence": "Galileo failed to explain them, coming up with an entirely incorrect explanation which denied the Moon any role.",
@@ -2016,6 +2028,12 @@
         "id": "c5",
         "number": 5,
         "answer": "dating",
+        "options": [
+          "blocking",
+          "thousands",
+          "dating",
+          "traces"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 dating（date）。结合上下文辨认词义与词形。",
         "evidence": "Unfortunately we have no way of dating this knowledge.",
@@ -2025,6 +2043,12 @@
         "id": "c6",
         "number": 6,
         "answer": "enabled",
+        "options": [
+          "embedded",
+          "eluded",
+          "predated",
+          "enabled"
+        ],
         "vocabularyId": "v102",
         "explanation": "原文此处使用 enabled（enable）。结合上下文辨认词义与词形。",
         "evidence": "This enabled Yolngu people to safely navigate the crocodile-infested waters of the Arafura Sea, where Galileo surely would have perished.",
@@ -2034,6 +2058,12 @@
         "id": "c7",
         "number": 7,
         "answer": "applications",
+        "options": [
+          "applications",
+          "astronomers",
+          "achievements",
+          "traditions"
+        ],
         "vocabularyId": "v108",
         "explanation": "原文此处使用 applications（application）。结合上下文辨认词义与词形。",
         "evidence": "It also had practical applications, enabling ancient Aboriginal people to navigate across and around Australia, and build sophisticated calendars which would help them manage the land and their food supply.",
@@ -2043,6 +2073,12 @@
         "id": "c8",
         "number": 8,
         "answer": "fits",
+        "options": [
+          "traces",
+          "orbits",
+          "fits",
+          "tides"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 fits（fit）。结合上下文辨认词义与词形。",
         "evidence": "This ancient astronomical knowledge fits into the growing appreciation of the vast body of Aboriginal achievements in navigation, medicine and agriculture.",
@@ -2052,6 +2088,12 @@
         "id": "c9",
         "number": 9,
         "answer": "depth",
+        "options": [
+          "depth",
+          "giant",
+          "ancient",
+          "stars"
+        ],
         "vocabularyId": "v119",
         "explanation": "原文此处使用 depth（depth）。结合上下文辨认词义与词形。",
         "evidence": "By comparing modern science with Aboriginal culture, we can clearly see the depth and intellectual power of ancient Aboriginal cultures.",
@@ -2061,6 +2103,12 @@
         "id": "c10",
         "number": 10,
         "answer": "observes",
+        "options": [
+          "predated",
+          "brighten",
+          "backtrack",
+          "observes"
+        ],
         "vocabularyId": "v124",
         "explanation": "原文此处使用 observes（observe）。结合上下文辨认词义与词形。",
         "evidence": "The other (Bruce) observes the sky through Aboriginal eyes, and has learnt from traditional stories and paintings passed on by other Aboriginal people.",
@@ -2149,5 +2197,8 @@
       }
     ]
   },
-  "revision": "72ee66c1eb3dee32cc9b2c2d6367a038b3ac8e0fed89298c6f810af029ab823e"
+  "revision": "7bc21a76193d4e02026ef905f7f8374139e0ca1451e399b8caf462b811a27f7d",
+  "compatibleProgressRevisions": [
+    "72ee66c1eb3dee32cc9b2c2d6367a038b3ac8e0fed89298c6f810af029ab823e"
+  ]
 }

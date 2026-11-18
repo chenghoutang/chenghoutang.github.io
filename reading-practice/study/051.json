@@ -2420,23 +2420,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       18,
       25
-    ],
-    "wordBank": [
-      "strengthened",
-      "staple",
-      "previous",
-      "ongoing",
-      "insecurity",
-      "chronic",
-      "logistics",
-      "adequately",
-      "causation",
-      "positively"
     ],
     "parts": [
       {
@@ -2508,6 +2496,12 @@
         "id": "c1",
         "number": 1,
         "answer": "insecurity",
+        "options": [
+          "medicine",
+          "diabetes",
+          "vegetables",
+          "insecurity"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 insecurity（insecurity）。结合上下文辨认词义与词形。",
         "evidence": "One was a food box pickup program that supplemented fruits and vegetables for 55 households whose members demonstrated food insecurity.",
@@ -2517,6 +2511,12 @@
         "id": "c2",
         "number": 2,
         "answer": "ongoing",
+        "options": [
+          "ongoing",
+          "activist",
+          "rigorous",
+          "previous"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 ongoing（ongoing）。结合上下文辨认词义与词形。",
         "evidence": "For two of our other programs, including one that is ongoing, we partnered with local farmers.",
@@ -2526,6 +2526,12 @@
         "id": "c3",
         "number": 3,
         "answer": "strengthened",
+        "options": [
+          "demonstrated",
+          "dedicated",
+          "strengthened",
+          "convened"
+        ],
         "vocabularyId": "v118",
         "explanation": "原文此处使用 strengthened（strengthen）。结合上下文辨认词义与词形。",
         "evidence": "Both the recipients of the food and the farmers reported high satisfaction with the program’s delivery and felt the program strengthened community connections while also supporting local agricultural livelihoods.",
@@ -2535,6 +2541,12 @@
         "id": "c4",
         "number": 4,
         "answer": "positively",
+        "options": [
+          "positively",
+          "routinely",
+          "roughly",
+          "sustainably"
+        ],
         "vocabularyId": "v125",
         "explanation": "原文此处使用 positively（positively）。结合上下文辨认词义与词形。",
         "evidence": "One recent large-scale literature review identified 14 trials of food is medicine interventions and found that these approaches often positively influenced diet quality and food security.",
@@ -2544,6 +2556,12 @@
         "id": "c5",
         "number": 5,
         "answer": "previous",
+        "options": [
+          "nonprofit",
+          "rigorous",
+          "firsthand",
+          "previous"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 previous（previous）。结合上下文辨认词义与词形。",
         "evidence": "Another review of food is medicine programs for people with diabetes found significant increases in fruit and vegetable intake and reductions in blood sugar levels. This data supports our own previous findings.",
@@ -2553,6 +2571,12 @@
         "id": "c6",
         "number": 6,
         "answer": "causation",
+        "options": [
+          "proteins",
+          "habits",
+          "causation",
+          "diabetes"
+        ],
         "vocabularyId": "v136",
         "explanation": "原文此处使用 causation（causation）。结合上下文辨认词义与词形。",
         "evidence": "However, the effect of food is medicine programs on long-term health outcomes has been inconsistent, in part because many trials have been too small or not rigorous enough to determine causation.",
@@ -2562,6 +2586,12 @@
         "id": "c7",
         "number": 7,
         "answer": "logistics",
+        "options": [
+          "fruits",
+          "logistics",
+          "proteins",
+          "limitations"
+        ],
         "vocabularyId": "v143",
         "explanation": "原文此处使用 logistics（logistics）。结合上下文辨认词义与词形。",
         "evidence": "Moreover, it will be important for researchers to consider the logistics of making these programs work in various local food environments.",
@@ -2571,6 +2601,12 @@
         "id": "c8",
         "number": 8,
         "answer": "staple",
+        "options": [
+          "staple",
+          "running",
+          "proteins",
+          "fruits"
+        ],
         "vocabularyId": "v150",
         "explanation": "原文此处使用 staple（staple）。结合上下文辨认词义与词形。",
         "evidence": "Global factors like changing weather patterns and, more recently, delays in fuel and supplies from the Strait of Hormuz have increased prices of staple food products like cereals and vegetable oil and led to shortages of cooking oil in some countries.",
@@ -2580,6 +2616,12 @@
         "id": "c9",
         "number": 9,
         "answer": "adequately",
+        "options": [
+          "medically",
+          "sustainably",
+          "routinely",
+          "adequately"
+        ],
         "vocabularyId": "v155",
         "explanation": "原文此处使用 adequately（adequately）。结合上下文辨认词义与词形。",
         "evidence": "But going forward, larger, high-quality studies are needed to adequately track clinical outcomes from the various types of food is medicine programming.",
@@ -2589,6 +2631,12 @@
         "id": "c10",
         "number": 10,
         "answer": "chronic",
+        "options": [
+          "vulnerable",
+          "uncertain",
+          "chronic",
+          "clinical"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 chronic（chronic）。结合上下文辨认词义与词形。",
         "evidence": "If studies show food is medicine is beneficial, it could lead to a shift in how healthcare practitioners approach diet for patients with chronic illness.",
@@ -2677,5 +2725,8 @@
       }
     ]
   },
-  "revision": "d084c9c521db346b81910040345581bc72c2320295012867ccf4bbe3ca30da9a"
+  "revision": "a4b426a5f17a973795527f562d6dbca9b341023e71e9fe3b968b769471f01b76",
+  "compatibleProgressRevisions": [
+    "d084c9c521db346b81910040345581bc72c2320295012867ccf4bbe3ca30da9a"
+  ]
 }

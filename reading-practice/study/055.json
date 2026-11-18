@@ -1517,23 +1517,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       20
-    ],
-    "wordBank": [
-      "wellbeing",
-      "prescription",
-      "complicated",
-      "rigorous",
-      "likely",
-      "sugar",
-      "demonstrating",
-      "strength",
-      "outdoor",
-      "consistent"
     ],
     "parts": [
       {
@@ -1605,6 +1593,12 @@
         "id": "c1",
         "number": 1,
         "answer": "wellbeing",
+        "options": [
+          "nature",
+          "health",
+          "prescription",
+          "wellbeing"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 wellbeing（wellbeing）。结合上下文辨认词义与词形。",
         "evidence": "Aboriginal and Torres Strait Islander peoples have long recognised the importance of connection to Country for health and wellbeing.",
@@ -1614,6 +1608,12 @@
         "id": "c2",
         "number": 2,
         "answer": "strength",
+        "options": [
+          "strength",
+          "nature",
+          "advice",
+          "wellbeing"
+        ],
         "vocabularyId": "v30",
         "explanation": "原文此处使用 strength（strength）。结合上下文辨认词义与词形。",
         "evidence": "But the strength of evidence varies depending on the activity and health outcome being measured.",
@@ -1623,6 +1623,12 @@
         "id": "c3",
         "number": 3,
         "answer": "outdoor",
+        "options": [
+          "outdoors",
+          "outdoor",
+          "accessible",
+          "practical"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 outdoor（outdoor）。结合上下文辨认词义与词形。",
         "evidence": "The reviewers examined 47 trials with almost 3,800 participants, including nature walks, outdoor exercise and gardening.",
@@ -1632,6 +1638,12 @@
         "id": "c4",
         "number": 4,
         "answer": "consistent",
+        "options": [
+          "likely",
+          "practical",
+          "consistent",
+          "prescription"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 consistent（consistent）。结合上下文辨认词义与词形。",
         "evidence": "A further 15 studies found some benefits, although these were less consistent.",
@@ -1641,6 +1653,12 @@
         "id": "c5",
         "number": 5,
         "answer": "rigorous",
+        "options": [
+          "suitable",
+          "straightforward",
+          "outdoors",
+          "rigorous"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 rigorous（rigorous）。结合上下文辨认词义与词形。",
         "evidence": "The researchers concluded that nature-based activities show promise for improving mental health, but more rigorous studies are needed to understand their longer-term benefits.",
@@ -1650,6 +1668,12 @@
         "id": "c6",
         "number": 6,
         "answer": "sugar",
+        "options": [
+          "sugar",
+          "identity",
+          "advice",
+          "outdoors"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 sugar（sugar）。结合上下文辨认词义与词形。",
         "evidence": "However, findings for blood glucose, or blood sugar, were less consistent.",
@@ -1659,6 +1683,12 @@
         "id": "c7",
         "number": 7,
         "answer": "likely",
+        "options": [
+          "equally",
+          "consistent",
+          "likely",
+          "practical"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 likely（likely）。结合上下文辨认词义与词形。",
         "evidence": "People who spent at least two hours in nature each week were more likely to report good health and wellbeing than those who spent no time in nature.",
@@ -1668,6 +1698,12 @@
         "id": "c8",
         "number": 8,
         "answer": "demonstrating",
+        "options": [
+          "investigated",
+          "endorsing",
+          "demonstrating",
+          "exploring"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 demonstrating（demonstrate）。结合上下文辨认词义与词形。",
         "evidence": "It found an association between nature exposure and health, rather than demonstrating that two hours of nature causes better health.",
@@ -1677,6 +1713,12 @@
         "id": "c9",
         "number": 9,
         "answer": "complicated",
+        "options": [
+          "assessed",
+          "recommend",
+          "concluded",
+          "complicated"
+        ],
         "vocabularyId": "v64",
         "explanation": "原文此处使用 complicated（complicate）。结合上下文辨认词义与词形。",
         "evidence": "This is where things become more complicated.",
@@ -1686,6 +1728,12 @@
         "id": "c10",
         "number": 10,
         "answer": "prescription",
+        "options": [
+          "prescription",
+          "importance",
+          "wellbeing",
+          "improvements"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 prescription（prescription）。结合上下文辨认词义与词形。",
         "evidence": "A nature prescription might involve recommending regular park walks, community gardening or participation in a local conservation group.",
@@ -1774,5 +1822,8 @@
       }
     ]
   },
-  "revision": "bcc12ea865ab54228956f510e01d9cd1c9c68fcf18648be01ab725e78e89b87a"
+  "revision": "bcfa49fa58dc37d122d9605f0f64b6c8a07c812125528e3b5b068868180acce1",
+  "compatibleProgressRevisions": [
+    "bcc12ea865ab54228956f510e01d9cd1c9c68fcf18648be01ab725e78e89b87a"
+  ]
 }

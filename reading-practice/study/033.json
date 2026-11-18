@@ -1792,23 +1792,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       14
-    ],
-    "wordBank": [
-      "locations",
-      "concentrated",
-      "intended",
-      "popularity",
-      "ecological",
-      "wildlife",
-      "escaped",
-      "remarkable",
-      "subspecies",
-      "attached"
     ],
     "parts": [
       {
@@ -1880,6 +1868,12 @@
         "id": "c1",
         "number": 1,
         "answer": "subspecies",
+        "options": [
+          "habitats",
+          "subspecies",
+          "turtles",
+          "shorelines"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 subspecies（subspecies）。结合上下文辨认词义与词形。",
         "evidence": "Its complex wetlands support migratory wading birds, numerous fish species and the Arabian collared kingfisher, a subspecies found only in this region.",
@@ -1889,6 +1883,12 @@
         "id": "c2",
         "number": 2,
         "answer": "escaped",
+        "options": [
+          "young",
+          "concentrated",
+          "escaped",
+          "wetlands"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 escaped（escape）。结合上下文辨认词义与词形。",
         "evidence": "Although the wetland is now protected and recognised as a Ramsar site, a type of conservation designation for any internationally important wetlands, it has not escaped human development.",
@@ -1898,6 +1898,12 @@
         "id": "c3",
         "number": 3,
         "answer": "intended",
+        "options": [
+          "restored",
+          "attached",
+          "proposed",
+          "intended"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 intended（intend）。结合上下文辨认词义与词形。",
         "evidence": "The basin was never used for its intended recreational purposes and has since been incorporated into the protected area.",
@@ -1907,6 +1913,12 @@
         "id": "c4",
         "number": 4,
         "answer": "attached",
+        "options": [
+          "attached",
+          "enclosed",
+          "restored",
+          "intended"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 attached（attach）。结合上下文辨认词义与词形。",
         "evidence": "To understand how young turtles use this unusual landscape alongside the natural mangrove channels, EPAA staff carefully captured nine juvenile green turtles in 2019 and attached satellite tags to their shells using a specialist, harmless resin.",
@@ -1916,6 +1928,12 @@
         "id": "c5",
         "number": 5,
         "answer": "locations",
+        "options": [
+          "wetlands",
+          "shorelines",
+          "locations",
+          "turtles"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 locations（location）。结合上下文辨认词义与词形。",
         "evidence": "After seven months and over 2,800 satellite locations the results were clear.",
@@ -1925,6 +1943,12 @@
         "id": "c6",
         "number": 6,
         "answer": "popularity",
+        "options": [
+          "popularity",
+          "satellite",
+          "mangroves",
+          "habitats"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 popularity（popularity）。结合上下文辨认词义与词形。",
         "evidence": "One of the more surprising findings was the popularity of the human-made basin (similar to a saltwater lagoon extending from the mangroves).",
@@ -1934,6 +1958,12 @@
         "id": "c7",
         "number": 7,
         "answer": "concentrated",
+        "options": [
+          "gathered",
+          "collared",
+          "captured",
+          "concentrated"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 concentrated（concentrate）。结合上下文辨认词义与词形。",
         "evidence": "The turtles were around five times more likely to be found there than elsewhere in the wetland, and 77% of their core-use areas were concentrated within it.",
@@ -1943,6 +1973,12 @@
         "id": "c8",
         "number": 8,
         "answer": "wildlife",
+        "options": [
+          "wildlife",
+          "mangroves",
+          "natural",
+          "habitats"
+        ],
         "vocabularyId": "v25",
         "explanation": "原文此处使用 wildlife（wildlife）。结合上下文辨认词义与词形。",
         "evidence": "Whatever the explanation, the findings suggest that wildlife can make use of human-modified environments.",
@@ -1952,6 +1988,12 @@
         "id": "c9",
         "number": 9,
         "answer": "ecological",
+        "options": [
+          "migratory",
+          "unexpected",
+          "ecological",
+          "unusual"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 ecological（ecological）。结合上下文辨认词义与词形。",
         "evidence": "Where coastal environments are modified or restored, designs that retain natural habitats, maintain connections between them and preserve the ecological processes they depend on may offer the greatest benefits for wildlife.",
@@ -1961,6 +2003,12 @@
         "id": "c10",
         "number": 10,
         "answer": "remarkable",
+        "options": [
+          "remarkable",
+          "essential",
+          "wetlands",
+          "collaborative"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 remarkable（remarkable）。结合上下文辨认词义与词形。",
         "evidence": "This remarkable journey highlights how a small coastal wetland can be important to young turtles before they move into wider waters.",
@@ -2049,5 +2097,8 @@
       }
     ]
   },
-  "revision": "9be7dd73bbb78317f82b4700480f04c7b80b823312868fe2edd11b924382ee5b"
+  "revision": "0bac32f45db608b50bddf50dde14c4a7267f30c9ddd557287ed0cfa3453f1b45",
+  "compatibleProgressRevisions": [
+    "9be7dd73bbb78317f82b4700480f04c7b80b823312868fe2edd11b924382ee5b"
+  ]
 }

@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 5,
+  "folder": "011",
+  "articleSha256": "66793d4d721d418b8256a4aefd1755b228f083f6727073bc7a846f3afa5c51b7",
+  "titleEn": "AI learns from the products of thinking, not thought itself. That’s a problem for machines – and for us",
+  "titleZh": "人工智能学习的是思考的产物，而不是思考本身",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "When you walk through a gallery, admiring the paintings on the walls, what you are seeing are finished products. They are the result of countless hours of learning and practice and trial and error, but none of that is on display.",
+      "zh": "当你走进画廊，欣赏墙上的画作时，你看到的是成品，它们是无数个小时学习、实践、尝试和错误的结果，但这些都没有展出。"
+    },
+    {
+      "number": 2,
+      "en": "Most expert work we see is like this. Musical recordings don’t include the bad takes and jam sessions, published books leave out the messy drafts, and scientific papers don’t mention the years of false starts and dead ends.",
+      "zh": "我们看到的大多数专家作品都是这样的：音乐录音不包括糟糕的录音和即兴演奏，出版的书籍不包括混乱的草稿，科学论文不提及多年的错误开始和死胡同。"
+    },
+    {
+      "number": 3,
+      "en": "In other words, what we actually see is a trace of the real process that produced it. These traces are what artificial intelligence (AI) models are trained on – and as a result, they produce traces themselves, which are shaped like the products of thought but aren’t necessarily made the same way.",
+      "zh": "换句话说，我们实际上看到的是产生它的真实的过程的痕迹。这些痕迹是人工智能（AI）模型所训练的-因此，它们自己产生痕迹，形状像思想的产品，但不一定是以相同的方式制作的。"
+    },
+    {
+      "number": 4,
+      "en": "In a new paper, we argue that focusing on traces while leaving out process hobbles current AI systems – and the same problem can arise for the people who use those systems.",
+      "zh": "在一篇新论文中，我们认为，专注于痕迹而忽略过程会阻碍当前的人工智能系统-使用这些系统的人也会出现同样的问题。"
+    },
+    {
+      "number": 5,
+      "en": "Traces and friction",
+      "zh": "痕迹和摩擦"
+    },
+    {
+      "number": 6,
+      "en": "Newer “reasoning” models may print out a report of their steps, but that reported reasoning is itself another trace. It often fails to line up with the actual computation driving the answer.",
+      "zh": "较新的“推理”模型可能会打印出一份关于其步骤的报告，但报告的推理本身就是另一种痕迹，它往往与驱动答案的实际计算不符。"
+    },
+    {
+      "number": 7,
+      "en": "Agentic systems come slightly closer to real thinking. Here, a software “harness” around a large language model runs a loop, feeds results back, and introduces some genuine trial-and-error revision into the process. But the chain of thought in the middle – the part produced by the large language model – is still a trace.",
+      "zh": "推理系统更接近于真实的思维，在这里，一个围绕大型语言模型的软件“线束”运行一个循环，反馈结果，并在过程中引入一些真正的试错修正，但中间的思维链--由大型语言模型产生的部分--仍然是一个痕迹。"
+    },
+    {
+      "number": 8,
+      "en": "The gap is widest in creative domains. Painters and musicians sometimes talk about how their work was transformed by accidents and friction that happened while making it, such as paint running unexpectedly, or an instrument sounding “off”. AI models never encounter anything like this.",
+      "zh": "这种差距在创意领域最大。画家和音乐家有时会谈论他们的作品是如何被制作过程中发生的意外和摩擦所改变的，比如油漆意外流出，或者乐器发出“关闭”的声音。人工智能模型从未遇到过这样的事情。"
+    },
+    {
+      "number": 9,
+      "en": "Use it or lose it",
+      "zh": "使用它或失去它"
+    },
+    {
+      "number": 10,
+      "en": "The human form of this problem is much older than AI. In 1997, an American Airlines captain warned that pilots were becoming “children of the magenta line”.",
+      "zh": "这个问题的人类形式比人工智能要古老得多，1997年，一位美国航空公司的机长警告说，飞行员正在成为“洋红色线的孩子”。"
+    },
+    {
+      "number": 11,
+      "en": "They followed the plane’s flight computer so faithfully that their manual flying skills were decaying. Aviation has taken steps to manage automation dependency ever since.",
+      "zh": "他们如此忠实地跟随飞机的飞行计算机，以至于他们的手动飞行技能正在衰退。从那时起，航空业已经采取措施管理自动化依赖。"
+    },
+    {
+      "number": 12,
+      "en": "The same thing happened when some medical clinics adopted AI-assisted colonoscopy, using software to flag possible polyps on the live camera feed. After a while, the skills of the human clinicians began to erode: they detected fewer polyps when working without the AI system than they had before its introduction.",
+      "zh": "当一些医疗诊所采用人工智能辅助结肠镜检查时，也发生了同样的事情，使用软件在实时摄像头上标记可能的息肉。过了一段时间，人类临床医生的技能开始下降：他们在没有人工智能系统的情况下检测到的息肉比引入之前少。"
+    },
+    {
+      "number": 13,
+      "en": "This effect has been seen in classrooms, too. High school mathematics students given unrestricted generative AI support outperformed their peers when the tool was available, but scored lower once it was taken away.",
+      "zh": "这种效果在课堂上也可以看到。高中数学学生在获得无限制的生成式AI支持时，在工具可用时表现优于同龄人，但一旦工具被取消，得分就会降低。"
+    },
+    {
+      "number": 14,
+      "en": "This deterioration can occur rapidly. One study found roughly ten minutes of AI assistance was enough to make people perform worse without the AI, and to give up on problems sooner.",
+      "zh": "一项研究发现，大约10分钟的人工智能帮助足以使人们在没有人工智能的情况下表现得更差，并更快地放弃问题。"
+    },
+    {
+      "number": 15,
+      "en": "Failures and mistakes are teachers",
+      "zh": "失败和错误是老师"
+    },
+    {
+      "number": 16,
+      "en": "What can be done about the problem? The answer may be to bring more process into the equation.",
+      "zh": "对于这个问题我们能做些什么呢？答案可能是在等式中加入更多的过程。"
+    },
+    {
+      "number": 17,
+      "en": "For AI, this means building systems that use more human-like processes themselves. An assistant could revise its answer when someone challenges how it framed the problem, rather than simply agreeing, as current systems often do. Or an agent could learn from failures and mistakes, allowing pushback from the world to materially change how it treats the task.",
+      "zh": "对于人工智能来说，这意味着要构建一个更像人类的系统。当有人质疑它如何构建问题时，助手可以修改它的答案，而不是像当前系统经常做的那样简单地同意。或者智能体可以从失败和错误中学习，允许来自世界的阻力实质性地改变它对待任务的方式。"
+    },
+    {
+      "number": 18,
+      "en": "For humans, this means designing AI tools that preserve the processes of intelligence within a person. In a trial at Harvard, students taught by a well-built AI physics tutor learned more, and faster, than peers in an active-learning classroom because the tutor kept them doing the generative work.",
+      "zh": "对于人类来说，这意味着设计能够保留人的智力过程的人工智能工具。在哈佛的一项试验中，由一位精心设计的人工智能物理导师授课的学生比主动学习课堂上的同龄人学得更多、更快，因为导师让他们做生成性工作。"
+    },
+    {
+      "number": 19,
+      "en": "A good AI teaching assistant should offer the next question along the path to an answer more often than it simply offers the answer. Sometimes it should raise an ambiguity rather than resolve one, because sound judgement often emerges from slow deliberation over what one does not know.",
+      "zh": "一个好的人工智能助教应该更多地在通往答案的道路上沿着提出下一个问题，而不是简单地给出答案。有时候，它应该提出一个模糊的问题，而不是解决一个模糊的问题，因为正确的判断往往来自对一个人不知道的东西的缓慢思考。"
+    },
+    {
+      "number": 20,
+      "en": "Process, process, process",
+      "zh": "过程，过程，过程"
+    },
+    {
+      "number": 21,
+      "en": "Process is what lets real intelligence and creativity emerge. An artificial system that incorporates more of that process will more closely resemble the real thing.",
+      "zh": "过程是让真实的智慧和创造力出现的东西。一个包含更多这种过程的人工系统将更接近真实的事物。"
+    },
+    {
+      "number": 22,
+      "en": "Human learning too requires process. In education, and in any skilled enterprise, we need to consider how AI systems are designed and used to preserve more of the thinking and learning process.",
+      "zh": "人类学习也需要过程。在教育和任何技术企业中，我们需要考虑如何设计和使用人工智能系统来保留更多的思考和学习过程。"
+    },
+    {
+      "number": 23,
+      "en": "It is currently easy for machines to produce more traces of thought, but process is much harder to build. If we get it right, our machines can become more intelligent without making us less so.",
+      "zh": "目前，机器很容易产生更多的思维痕迹，但过程却很难建立。如果我们做得对，我们的机器可以变得更聪明，而不会让我们变得更聪明。"
+    },
+    {
+      "number": 24,
+      "en": "This article was written with Rachel W. Kallen, Ayeh Alhasan, Cassandra Crone, and David M. Kaplan. It draws on research with our colleagues Manuel Varlet, M. Paula Diaz Monfort, Patrick Nalepka, and Mark Dras.",
+      "zh": "本文是与雷切尔·W.卡伦、阿耶·阿尔哈桑、卡桑德拉·克罗内和大卫·M.卡普兰共同撰写的，并借鉴了我们的同事曼努埃尔·瓦莱、M.保拉·迪亚兹·蒙福特、帕特里克·纳勒普卡和马克·德拉斯的研究成果。"
+    }
+  ]
+}

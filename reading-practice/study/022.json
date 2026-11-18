@@ -1862,23 +1862,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       19,
       29
-    ],
-    "wordBank": [
-      "sinks",
-      "scientific",
-      "warmer",
-      "feasible",
-      "hundreds",
-      "fossil",
-      "equations",
-      "historical",
-      "variability",
-      "ongoing"
     ],
     "parts": [
       {
@@ -1950,6 +1938,12 @@
         "id": "c1",
         "number": 1,
         "answer": "fossil",
+        "options": [
+          "burning",
+          "dioxide",
+          "fossil",
+          "humanity"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 fossil（fossil）。结合上下文辨认词义与词形。",
         "evidence": "In contrast to most computer model simulations, we did not find the land carbon sink increasing over time to keep pace with increasing fossil fuel emissions.",
@@ -1959,6 +1953,12 @@
         "id": "c2",
         "number": 2,
         "answer": "sinks",
+        "options": [
+          "waves",
+          "billions",
+          "oceans",
+          "sinks"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 sinks（sink）。结合上下文辨认词义与词形。",
         "evidence": "If these trends in carbon sinks continue, then in the coming decades, humans will be relying more heavily on the oceans to slow down climate change.",
@@ -1968,6 +1968,12 @@
         "id": "c3",
         "number": 3,
         "answer": "warmer",
+        "options": [
+          "warmer",
+          "quantify",
+          "emitted",
+          "consume"
+        ],
         "vocabularyId": "v83",
         "explanation": "原文此处使用 warmer（warm）。结合上下文辨认词义与词形。",
         "evidence": "For example, warmer waters are not able to hold as much gas, such as carbon dioxide.",
@@ -1977,6 +1983,12 @@
         "id": "c4",
         "number": 4,
         "answer": "hundreds",
+        "options": [
+          "billions",
+          "oceans",
+          "hundreds",
+          "forests"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 hundreds（hundreds）。结合上下文辨认词义与词形。",
         "evidence": "Warmer surface waters are also less efficient at mixing into the deep ocean, which has the beneficial effect of locking carbon dioxide away from the atmosphere for many hundreds of years.",
@@ -1986,6 +1998,12 @@
         "id": "c5",
         "number": 5,
         "answer": "historical",
+        "options": [
+          "historical",
+          "mathematical",
+          "scientific",
+          "crucial"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 historical（historical）。结合上下文辨认词义与词形。",
         "evidence": "For the oceans, most computer models agree with each other, but, for the historical period, they do not match our oxygen-based results.",
@@ -1995,6 +2013,12 @@
         "id": "c6",
         "number": 6,
         "answer": "feasible",
+        "options": [
+          "pumped",
+          "beneficial",
+          "ongoing",
+          "feasible"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 feasible（feasible）。结合上下文辨认词义与词形。",
         "evidence": "Computer models are essential to provide governments with feasible scenarios to avoid dangerous climate change, but to be effective they need to be better grounded in what real-world observations are showing.",
@@ -2004,6 +2028,12 @@
         "id": "c7",
         "number": 7,
         "answer": "equations",
+        "options": [
+          "equations",
+          "emissions",
+          "oceans",
+          "storms"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 equations（equation）。结合上下文辨认词义与词形。",
         "evidence": "Nature is difficult to represent with a series of equations, and observations are few considering the size of the planet.",
@@ -2013,6 +2043,12 @@
         "id": "c8",
         "number": 8,
         "answer": "scientific",
+        "options": [
+          "crucial",
+          "mathematical",
+          "scientific",
+          "efficient"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 scientific（scientific）。结合上下文辨认词义与词形。",
         "evidence": "But like any scientific approach, our oxygen method also has drawbacks.",
@@ -2022,6 +2058,12 @@
         "id": "c9",
         "number": 9,
         "answer": "ongoing",
+        "options": [
+          "ongoing",
+          "burning",
+          "beneficial",
+          "straightforward"
+        ],
         "vocabularyId": "v110",
         "explanation": "原文此处使用 ongoing（ongoing）。结合上下文辨认词义与词形。",
         "evidence": "The measurements themselves are challenging, such that only about 10 research laboratories in the world are routinely doing them. Calibrating the measurements is an ongoing challenge. Earth is not helping: Warmer waters hold less gas, meaning that as oceans warm in response to climate change, they expel some oxygen into the atmosphere. We must account for this in our carbon sink calculations. And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
@@ -2031,6 +2073,12 @@
         "id": "c10",
         "number": 10,
         "answer": "variability",
+        "options": [
+          "billions",
+          "atmosphere",
+          "temperatures",
+          "variability"
+        ],
         "vocabularyId": "v116",
         "explanation": "原文此处使用 variability（variability）。结合上下文辨认词义与词形。",
         "evidence": "And to take into account variability in ocean circulation and other ocean processes, we have to average our results over 10-year time frames.",
@@ -2119,5 +2167,8 @@
       }
     ]
   },
-  "revision": "340c714b64709b188ae639d248bc5b3f26c61e568a6d799a379e5198f6451e7b"
+  "revision": "90ccdac2e4c3384929c773d8c46fec2e4a8638d74673e9c80d297c4dd7b8dafe",
+  "compatibleProgressRevisions": [
+    "340c714b64709b188ae639d248bc5b3f26c61e568a6d799a379e5198f6451e7b"
+  ]
 }

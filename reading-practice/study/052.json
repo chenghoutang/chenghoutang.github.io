@@ -2877,23 +2877,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       24,
       32
-    ],
-    "wordBank": [
-      "exposures",
-      "measles",
-      "equally",
-      "clinic",
-      "vulnerable",
-      "biomarkers",
-      "links",
-      "regulates",
-      "wearable",
-      "intention"
     ],
     "parts": [
       {
@@ -2965,6 +2953,12 @@
         "id": "c1",
         "number": 1,
         "answer": "vulnerable",
+        "options": [
+          "vulnerable",
+          "diagnostic",
+          "measurable",
+          "harmful"
+        ],
         "vocabularyId": "v144",
         "explanation": "原文此处使用 vulnerable（vulnerable）。结合上下文辨认词义与词形。",
         "evidence": "For example, my team and I used cell villages to identify a biomarker that indicates a person may be particularly vulnerable to Zika virus infection.",
@@ -2974,6 +2968,12 @@
         "id": "c2",
         "number": 2,
         "answer": "equally",
+        "options": [
+          "abnormally",
+          "separately",
+          "equally",
+          "mainly"
+        ],
         "vocabularyId": "v152",
         "explanation": "原文此处使用 equally（equally）。结合上下文辨认词义与词形。",
         "evidence": "Using stem cell-derived brain cells from 40 people, we found that not everyone was equally susceptible to infection.",
@@ -2983,6 +2983,12 @@
         "id": "c3",
         "number": 3,
         "answer": "regulates",
+        "options": [
+          "approving",
+          "culminating",
+          "regulates",
+          "predicted"
+        ],
         "vocabularyId": "v157",
         "explanation": "原文此处使用 regulates（regulate）。结合上下文辨认词义与词形。",
         "evidence": "Through additional cell village experiments, we discovered a genetic variant that regulates a powerful antiviral gene called IFITM3.",
@@ -2992,6 +2998,12 @@
         "id": "c4",
         "number": 4,
         "answer": "links",
+        "options": [
+          "workings",
+          "clues",
+          "virus",
+          "links"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 links（link）。结合上下文辨认词义与词形。",
         "evidence": "In this case, the cells of a person with version A of this gene were more vulnerable to infection than the cells of a person with version B. Researchers have found links between this same genetic variant and COVID-19 and influenza A infection severity, suggesting it could be a genetic biomarker that can predict how certain people may respond to certain types of pathogens.",
@@ -3001,6 +3013,12 @@
         "id": "c5",
         "number": 5,
         "answer": "biomarkers",
+        "options": [
+          "biomarkers",
+          "procedures",
+          "workings",
+          "clinicians"
+        ],
         "vocabularyId": "v16",
         "explanation": "原文此处使用 biomarkers（biomarker）。结合上下文辨认词义与词形。",
         "evidence": "My team has also conducted similar work to identify genetic biomarkers for a person’s sensitivity to lead, a pervasive neurodevelopmental toxin.",
@@ -3010,6 +3028,12 @@
         "id": "c6",
         "number": 6,
         "answer": "measles",
+        "options": [
+          "virus",
+          "workings",
+          "measles",
+          "volunteers"
+        ],
         "vocabularyId": "v165",
         "explanation": "原文此处使用 measles（measles）。结合上下文辨认词义与词形。",
         "evidence": "We are also using cell villages to find biomarkers for a person’s vulnerability to PFAS, also known as forever chemicals; measles virus infection; and stress hormones.",
@@ -3019,6 +3043,12 @@
         "id": "c7",
         "number": 7,
         "answer": "exposures",
+        "options": [
+          "exposures",
+          "procedures",
+          "clinicians",
+          "discoveries"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 exposures（exposure）。结合上下文辨认词义与词形。",
         "evidence": "Our goal is to build what we call an atlas of human vulnerability: a catalog of genetic biomarkers to predict how each person might respond at the cellular level to a wide range of harmful exposures.",
@@ -3028,6 +3058,12 @@
         "id": "c8",
         "number": 8,
         "answer": "clinic",
+        "options": [
+          "exposed",
+          "scenarios",
+          "insight",
+          "clinic"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 clinic（clinic）。结合上下文辨认词义与词形。",
         "evidence": "As DNA sequencing costs continue to drop, whole genome sequencing could become more routine in the clinic and potentially improve the ability to find links between genes and health outcomes that healthcare teams can intervene in.",
@@ -3037,6 +3073,12 @@
         "id": "c9",
         "number": 9,
         "answer": "intention",
+        "options": [
+          "subset",
+          "clinicians",
+          "intention",
+          "chain-smoker"
+        ],
         "vocabularyId": "v181",
         "explanation": "原文此处使用 intention（intention）。结合上下文辨认词义与词形。",
         "evidence": "Researchers are developing AI tools to survey medical imaging such as CT and MRI scans with the intention of finding new biomarkers for cancer progression that would have likely gone unnoticed by the human eye.",
@@ -3046,6 +3088,12 @@
         "id": "c10",
         "number": 10,
         "answer": "wearable",
+        "options": [
+          "useful",
+          "wearable",
+          "diagnostic",
+          "measurable"
+        ],
         "vocabularyId": "v185",
         "explanation": "原文此处使用 wearable（wearable）。结合上下文辨认词义与词形。",
         "evidence": "For example, some studies have used these and other wearable devices to find behavioral biomarkers that predict major depressive episodes.",
@@ -3134,5 +3182,8 @@
       }
     ]
   },
-  "revision": "5f847ef45025da6f16b5b6f45bb08d72234270d66df1f4a05493b1239a37e197"
+  "revision": "7e7b27773e4b38d499a1c37d94b3289ba4a8a9d3e5bdf5bb8a34ac06d57c6402",
+  "compatibleProgressRevisions": [
+    "5f847ef45025da6f16b5b6f45bb08d72234270d66df1f4a05493b1239a37e197"
+  ]
 }

@@ -1071,23 +1071,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       9,
       23
-    ],
-    "wordBank": [
-      "satisfaction",
-      "school",
-      "rankings",
-      "estimated",
-      "shape",
-      "autonomy",
-      "documents",
-      "turnover",
-      "formats",
-      "assessments"
     ],
     "parts": [
       {
@@ -1159,6 +1147,12 @@
         "id": "c1",
         "number": 1,
         "answer": "shape",
+        "options": [
+          "content",
+          "median",
+          "shape",
+          "aimed"
+        ],
         "vocabularyId": "v4",
         "explanation": "原文此处使用 shape（shape）。结合上下文辨认词义与词形。",
         "evidence": "Although the Every Student Succeeds Act aimed to reduce the role of testing in classrooms, standardized tests continue to shape what teachers teach, how they use instructional time and how schools define success.",
@@ -1168,6 +1162,12 @@
         "id": "c2",
         "number": 2,
         "answer": "school",
+        "options": [
+          "school",
+          "weekly",
+          "curricula",
+          "testing"
+        ],
         "vocabularyId": "v1",
         "explanation": "原文此处使用 school（school）。结合上下文辨认词义与词形。",
         "evidence": "All U.S. public schools are required to administer standardized tests in reading and math annually to students in grades three through eight and at least once in high school.",
@@ -1177,6 +1177,12 @@
         "id": "c3",
         "number": 3,
         "answer": "rankings",
+        "options": [
+          "students",
+          "ratings",
+          "classrooms",
+          "rankings"
+        ],
         "vocabularyId": "v37",
         "explanation": "原文此处使用 rankings（rankings）。结合上下文辨认词义与词形。",
         "evidence": "Students’ scores on these tests can affect schools’ ratings and rankings, and can also determine whether states monitor or take over public school districts that are not performing well.",
@@ -1186,6 +1192,12 @@
         "id": "c4",
         "number": 4,
         "answer": "assessments",
+        "options": [
+          "consequences",
+          "districts",
+          "assessments",
+          "documents"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 assessments（assessment）。结合上下文辨认词义与词形。",
         "evidence": "The study also found no relationship between the number of assessments students took and their proficiency or growth in English or mathematics.",
@@ -1195,6 +1207,12 @@
         "id": "c5",
         "number": 5,
         "answer": "documents",
+        "options": [
+          "students",
+          "documents",
+          "mathematics",
+          "classrooms"
+        ],
         "vocabularyId": "v43",
         "explanation": "原文此处使用 documents（document）。结合上下文辨认词义与词形。",
         "evidence": "Older research also documents the time teachers spend preparing students for state tests.",
@@ -1204,6 +1222,12 @@
         "id": "c6",
         "number": 6,
         "answer": "estimated",
+        "options": [
+          "estimated",
+          "printed",
+          "mathematics",
+          "school"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 estimated（estimate）。结合上下文辨认词义与词形。",
         "evidence": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
@@ -1213,6 +1237,12 @@
         "id": "c7",
         "number": 7,
         "answer": "formats",
+        "options": [
+          "ratings",
+          "students",
+          "classrooms",
+          "formats"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 formats（format）。结合上下文辨认词义与词形。",
         "evidence": "Teachers estimated spending an average of 14 out of 180 school days preparing students for these exams, whether it be reviewing the question formats students see on tests or teaching test-taking strategies.",
@@ -1222,6 +1252,12 @@
         "id": "c8",
         "number": 8,
         "answer": "turnover",
+        "options": [
+          "turnover",
+          "testing",
+          "content",
+          "districts"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 turnover（turnover）。结合上下文辨认词义与词形。",
         "evidence": "Research on teacher turnover has found that teachers’ dissatisfaction with standardized testing was a key reason they left the profession.",
@@ -1231,6 +1267,12 @@
         "id": "c9",
         "number": 9,
         "answer": "satisfaction",
+        "options": [
+          "mathematics",
+          "satisfaction",
+          "documents",
+          "classrooms"
+        ],
         "vocabularyId": "v54",
         "explanation": "原文此处使用 satisfaction（satisfaction）。结合上下文辨认词义与词形。",
         "evidence": "Other research from 2026 found that teachers who worried about job consequences tied to test results reported lower job satisfaction.",
@@ -1240,6 +1282,12 @@
         "id": "c10",
         "number": 10,
         "answer": "autonomy",
+        "options": [
+          "curricula",
+          "shaped",
+          "autonomy",
+          "districts"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 autonomy（autonomy）。结合上下文辨认词义与词形。",
         "evidence": "They are also reflected in lesson plans, teachers’ workloads, classroom time, professional autonomy and the opportunities that disappear when preparing for a test becomes a central purpose of schooling.",
@@ -1328,5 +1376,8 @@
       }
     ]
   },
-  "revision": "6390f4a004950ebb5c65728bf7b58003287dd5b2ca0f41da400cda3ccff2fe8b"
+  "revision": "ac7d55b843ff0ee4fce98670bd8224959a0a9247b8ce6603ceef1c7ecc82fd71",
+  "compatibleProgressRevisions": [
+    "6390f4a004950ebb5c65728bf7b58003287dd5b2ca0f41da400cda3ccff2fe8b"
+  ]
 }

@@ -2404,23 +2404,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       4,
       12
-    ],
-    "wordBank": [
-      "originates",
-      "upwelling",
-      "status",
-      "corporations",
-      "relatively",
-      "dependent",
-      "linked",
-      "essential",
-      "unsustainable",
-      "by-products"
     ],
     "parts": [
       {
@@ -2492,6 +2480,12 @@
         "id": "c1",
         "number": 1,
         "answer": "originates",
+        "options": [
+          "safeguards",
+          "originates",
+          "contributing",
+          "regulated"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 originates（originate）。结合上下文辨认词义与词形。",
         "evidence": "Globally, a quarter of wild-caught fish are processed into fishmeal and fish oil, and only a small share originates from West Africa.",
@@ -2501,6 +2495,12 @@
         "id": "c2",
         "number": 2,
         "answer": "relatively",
+        "options": [
+          "increasingly",
+          "potentially",
+          "relatively",
+          "responsibly"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 relatively（relatively）。结合上下文辨认词义与词形。",
         "evidence": "These provide valuable nutrients, particularly in early-life-stage diets and for carnivorous species such as salmon and shrimp, while contributing to the relatively low carbon footprint of farmed seafood.",
@@ -2510,6 +2510,12 @@
         "id": "c3",
         "number": 3,
         "answer": "upwelling",
+        "options": [
+          "warming",
+          "contributing",
+          "retaining",
+          "upwelling"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 upwelling（upwelling）。结合上下文辨认词义与词形。",
         "evidence": "Climate change and warming periods such as El Niño can weaken the upwelling of nutrient-rich waters from the deep sea.",
@@ -2519,6 +2525,12 @@
         "id": "c4",
         "number": 4,
         "answer": "by-products",
+        "options": [
+          "by-products",
+          "factories",
+          "ingredients",
+          "millions"
+        ],
         "vocabularyId": "v61",
         "explanation": "原文此处使用 by-products（by-product）。结合上下文辨认词义与词形。",
         "evidence": "Fish processing by-products (including heads, guts and skeletons) are playing an increasingly important role, accounting for 34% of global fishmeal production and 54% of fish oil supply in 2024.",
@@ -2528,6 +2540,12 @@
         "id": "c5",
         "number": 5,
         "answer": "unsustainable",
+        "options": [
+          "originates",
+          "affordable",
+          "unsustainable",
+          "deficiencies"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 unsustainable（unsustainable）。结合上下文辨认词义与词形。",
         "evidence": "Marine ingredients from potentially unsustainable sources have slipped through the net despite responsible sourcing claims.",
@@ -2537,6 +2555,12 @@
         "id": "c6",
         "number": 6,
         "answer": "linked",
+        "options": [
+          "linked",
+          "protein",
+          "granted",
+          "declined"
+        ],
         "vocabularyId": "v73",
         "explanation": "原文此处使用 linked（link）。结合上下文辨认词义与词形。",
         "evidence": "One 2025 investigation found that certified Turkish-farmed seabass sold by major retailers in Europe was fed fishmeal sourced from three factories in Senegal that have been linked to food insecurity and job losses in local communities.",
@@ -2546,6 +2570,12 @@
         "id": "c7",
         "number": 7,
         "answer": "dependent",
+        "options": [
+          "ethical",
+          "carnivorous",
+          "sustainable",
+          "dependent"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 dependent（dependent）。结合上下文辨认词义与词形。",
         "evidence": "Aquafeed supply chains are dependent on the global trade in marine and terrestrial ingredients and thus face challenges related to scale, cost, nutritional quality and environmental sustainability.",
@@ -2555,6 +2585,12 @@
         "id": "c8",
         "number": 8,
         "answer": "essential",
+        "options": [
+          "protein",
+          "nutritious",
+          "essential",
+          "increasingly"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 essential（essential）。结合上下文辨认词义与词形。",
         "evidence": "While marine ingredients can be sustainably sourced and continue to be essential to the global food system, it’s important to use them in efficient ways that maximise their contribution to human nutrition.",
@@ -2564,6 +2600,12 @@
         "id": "c9",
         "number": 9,
         "answer": "status",
+        "options": [
+          "retailers",
+          "status",
+          "limits",
+          "sectors"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 status（status）。结合上下文辨认词义与词形。",
         "evidence": "The environmental and social safeguards include stock status, environmental footprint and making sure workers are treated fairly.",
@@ -2573,6 +2615,12 @@
         "id": "c10",
         "number": 10,
         "answer": "corporations",
+        "options": [
+          "corporations",
+          "skeletons",
+          "by-products",
+          "nutrients"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 corporations（corporation）。结合上下文辨认词义与词形。",
         "evidence": "The certification programmes pay less attention to food security and critics argue they favour export markets and corporations over local communities.",
@@ -2661,5 +2709,8 @@
       }
     ]
   },
-  "revision": "6609e96001ec41226eedf46a9ffa74e187128126981bda2e2365602c8ed89643"
+  "revision": "bd71d1432abfb7be110884a7cd9b8f88e1741f6bda3b9d2983f0541dec8002ff",
+  "compatibleProgressRevisions": [
+    "6609e96001ec41226eedf46a9ffa74e187128126981bda2e2365602c8ed89643"
+  ]
 }

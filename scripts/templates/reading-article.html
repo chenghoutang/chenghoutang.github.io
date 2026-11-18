@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fff5f9">
+    <title>{{TITLE}} · 英语阅读 · DengDuck</title>
+    <meta name="description" content="{{TITLE_ZH}} · 英文正文、中文翻译、中英对照和配套练习">
+    <link rel="icon" type="image/png" href="../../icon.png">
+    <link rel="stylesheet" href="../reading.css">
+    <script src="../study.js" defer></script>
+    <script src="../article.js" defer></script>
+</head>
+<body class="article-body">
+    <header class="topbar"><a class="pill" href="../../index.html">← 回到小窝</a><a href="../index.html">学习 / 英语阅读</a></header>
+    <main id="reader" class="article-page" aria-labelledby="readerTitle">
+        <div class="reader-toolbar">
+            <span id="readerNumber">{{NUMBER}} / 100</span>
+            <a id="backToCatalog" class="pill" href="../index.html">← 阅读目录</a>
+        </div>
+        <div id="readerScroll" class="reader-scroll">
+            <header class="article-header">
+                <p id="readerTopic" class="eyebrow">{{TOPIC}}</p>
+                <h1 id="readerTitle" lang="en">{{TITLE}}</h1>
+                <p id="readerInfo" class="note">{{INFO}}</p>
+            </header>
+            <div id="readerTabs" class="reader-tabs" role="tablist" aria-label="文章学习内容">
+                <button id="tabBody" type="button" role="tab" aria-selected="true" aria-controls="bodyPanel" tabindex="0" data-tab="bodyPanel">正文</button>
+                <button id="tabChinese" type="button" role="tab" aria-selected="false" aria-controls="chinesePanel" tabindex="-1" data-tab="chinesePanel">中文翻译</button>
+                <button id="tabBilingual" type="button" role="tab" aria-selected="false" aria-controls="bilingualPanel" tabindex="-1" data-tab="bilingualPanel">中英对照</button>
+                <button id="tabVocabulary" type="button" role="tab" aria-selected="false" aria-controls="vocabularyPanel" tabindex="-1" data-tab="vocabularyPanel">单词短语</button>
+                <button id="tabCloze" type="button" role="tab" aria-selected="false" aria-controls="clozePanel" tabindex="-1" data-tab="clozePanel">完形填空</button>
+                <button id="tabReading" type="button" role="tab" aria-selected="false" aria-controls="readingPanel" tabindex="-1" data-tab="readingPanel">阅读理解</button>
+            </div>
+            <section id="bodyPanel" role="tabpanel" aria-labelledby="tabBody">
+            <article id="articleBody" lang="en" aria-label="英文正文">{{BODY}}</article>
+            </section>
+            <section id="chinesePanel" class="translation-panel" role="tabpanel" aria-labelledby="tabChinese" hidden>
+                <p class="note">中文参考译文 · 由机器翻译生成，术语及细节请结合英文原文核对。</p>
+                <div class="translation-loading" role="status">正在翻开中文译文…</div>
+                <article id="chineseContent" lang="zh-CN"></article>
+            </section>
+            <section id="bilingualPanel" class="translation-panel" role="tabpanel" aria-labelledby="tabBilingual" hidden>
+                <p class="note">按段落对照阅读 · 中文为机器参考译文。</p>
+                <div class="translation-loading" role="status">正在整理中英对照…</div>
+                <article id="bilingualContent"></article>
+            </section>
+            <section id="vocabularyPanel" class="study-panel" role="tabpanel" aria-labelledby="tabVocabulary" hidden>
+                <div class="study-loading" role="status">正在整理单词短语…</div>
+                <div id="vocabularyContent" hidden>
+                    <h3>把词句一点点收藏起来 <span aria-hidden="true">(｡•̀ᴗ-)✧</span></h3>
+                    <p class="note">学术词、主题术语与常用搭配。显示词典释义和原文例句，多义词请结合例句辨义。</p>
+                    <div class="vocabulary-filters">
+                        <label class="sr-only" for="vocabularySearch">搜索单词、短语或中文释义</label>
+                        <input id="vocabularySearch" type="search" placeholder="搜索单词、短语或中文…">
+                        <label class="sr-only" for="vocabularyKind">词汇类型</label>
+                        <select id="vocabularyKind"><option value="all">全部词汇</option><option value="word">单词</option><option value="phrase">短语搭配</option></select>
+                    </div>
+                    <p id="vocabularyCount" class="note" role="status" aria-live="polite"></p>
+                    <div id="vocabularyList"></div>
+                    <p class="note dictionary-credit">词典：<a href="https://github.com/skywind3000/ECDICT" target="_blank" rel="noopener noreferrer">ECDICT</a>（<a href="../study/ECDICT-LICENSE.txt" target="_blank" rel="noopener noreferrer">MIT 授权</a>）；主题搭配另附编写释义。</p>
+                </div>
+            </section>
+            <section id="clozePanel" class="study-panel" role="tabpanel" aria-labelledby="tabCloze" hidden>
+                <div class="study-loading" role="status">正在翻开完形填空…</div>
+                <div id="clozeContent" hidden></div>
+            </section>
+            <section id="readingPanel" class="study-panel" role="tabpanel" aria-labelledby="tabReading" hidden>
+                <div class="study-loading" role="status">正在准备阅读理解…</div>
+                <div id="readingContent" hidden></div>
+            </section>
+            <footer class="article-footer">
+                <p id="readerAuthors" lang="en">{{AUTHORS}}</p>
+                <p><a id="sourceLink" href="{{SOURCE}}" target="_blank" rel="noopener noreferrer">原文 · The Conversation ↗</a> · <a id="licenseLink" href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-ND 4.0</a></p>
+                {{DISCLOSURES}}
+                <a id="downloadArticle" class="pill" href="../IELTS-8-100/{{NUMBER}}/article.txt" download="{{NUMBER}}.txt">下载正文 TXT ↓</a>
+            </footer>
+        </div>
+        <nav class="reader-navigation" aria-label="切换文章">
+            {{PREVIOUS}}
+            <a class="pill" href="../index.html">阅读目录</a>
+            {{NEXT}}
+        </nav>
+    </main>
+    <script id="articleData" type="application/json">{{DATA}}</script>
+    <noscript><p class="page-footer">正文可直接阅读。开启 JavaScript 后可使用翻译、词汇与练习。</p></noscript>
+</body>
+</html>

@@ -1777,23 +1777,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       13
-    ],
-    "wordBank": [
-      "reshape",
-      "comics",
-      "adapting",
-      "illustrates",
-      "skilled",
-      "strengthening",
-      "optional",
-      "delivering",
-      "contribution",
-      "reorganisation"
     ],
     "parts": [
       {
@@ -1865,6 +1853,12 @@
         "id": "c1",
         "number": 1,
         "answer": "adapting",
+        "options": [
+          "underpinning",
+          "delivering",
+          "complicated",
+          "adapting"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 adapting（adapt）。结合上下文辨认词义与词形。",
         "evidence": "Public libraries are trusted local institutions with an impressive record of adapting to changing social needs.",
@@ -1874,6 +1868,12 @@
         "id": "c2",
         "number": 2,
         "answer": "illustrates",
+        "options": [
+          "underpinning",
+          "depends",
+          "illustrates",
+          "promoting"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 illustrates（illustrate）。结合上下文辨认词义与词形。",
         "evidence": "The NHS App partnership illustrates both the opportunity and the challenge.",
@@ -1883,6 +1883,12 @@
         "id": "c3",
         "number": 3,
         "answer": "skilled",
+        "options": [
+          "relevant",
+          "skilled",
+          "expensive",
+          "unitary"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 skilled（skilled）。结合上下文辨认词义与词形。",
         "evidence": "But partnerships like these rely on skilled staff, welcoming buildings, up-to-date collections and sustainable services.",
@@ -1892,6 +1898,12 @@
         "id": "c4",
         "number": 4,
         "answer": "reorganisation",
+        "options": [
+          "reorganisation",
+          "communities",
+          "expectation",
+          "legislation"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 reorganisation（reorganisation）。结合上下文辨认词义与词形。",
         "evidence": "Local government reorganisation is an ongoing process of replacing existing county and district councils with new unitary authorities.",
@@ -1901,6 +1913,12 @@
         "id": "c5",
         "number": 5,
         "answer": "reshape",
+        "options": [
+          "celebrated",
+          "delivering",
+          "promoting",
+          "reshape"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 reshape（reshape）。结合上下文辨认词义与词形。",
         "evidence": "It has the potential to reshape many library authorities across England as councils continue to deal with the legacy of long-term financial pressures.",
@@ -1910,6 +1928,12 @@
         "id": "c6",
         "number": 6,
         "answer": "delivering",
+        "options": [
+          "confirmed",
+          "reconsidering",
+          "delivering",
+          "promoting"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 delivering（deliver）。结合上下文辨认词义与词形。",
         "evidence": "This leaves libraries delivering services for their communities while simultaneously planning for structural changes, which may or may not happen.",
@@ -1919,6 +1943,12 @@
         "id": "c7",
         "number": 7,
         "answer": "strengthening",
+        "options": [
+          "reconsidering",
+          "strengthening",
+          "underpinning",
+          "complicated"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 strengthening（strengthen）。结合上下文辨认词义与词形。",
         "evidence": "The question, then, is whether the forthcoming strategy will focus on strengthening libraries and their core offer or simply continue to expand what libraries are expected to do for others.",
@@ -1928,6 +1958,12 @@
         "id": "c8",
         "number": 8,
         "answer": "comics",
+        "options": [
+          "comics",
+          "expensive",
+          "reliable",
+          "relevant"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 comics（comic）。结合上下文辨认词义与词形。",
         "evidence": "Physical collections – books, comics, graphic novels, audiobooks on CD – continue to shrink while investment in new stock remains persistently low across many library services.",
@@ -1937,6 +1973,12 @@
         "id": "c9",
         "number": 9,
         "answer": "optional",
+        "options": [
+          "skilled",
+          "expensive",
+          "sufficient",
+          "optional"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 optional（optional）。结合上下文辨认词义与词形。",
         "evidence": "Physical items that libraries loan are not an optional extra.",
@@ -1946,6 +1988,12 @@
         "id": "c10",
         "number": 10,
         "answer": "contribution",
+        "options": [
+          "contribution",
+          "legislation",
+          "expectation",
+          "ambitions"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 contribution（contribution）。结合上下文辨认词义与词形。",
         "evidence": "A strategy that celebrates libraries’ contribution to health, education and economic growth without addressing the condition of their core functions risks treating symptoms rather than causes.",
@@ -2034,5 +2082,8 @@
       }
     ]
   },
-  "revision": "59477c74b6cee55b99958caeccace3ddd8d15f00d7a1f4142064cfcab9bcb9b5"
+  "revision": "25440ae30a96f1e89868cfeed702c22217b140e856b9dc542699f47ba14d6f58",
+  "compatibleProgressRevisions": [
+    "59477c74b6cee55b99958caeccace3ddd8d15f00d7a1f4142064cfcab9bcb9b5"
+  ]
 }

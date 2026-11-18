@@ -2356,23 +2356,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       14,
       27
-    ],
-    "wordBank": [
-      "reconstruct",
-      "latex",
-      "reeds",
-      "separate",
-      "toxins",
-      "flakes",
-      "hippo",
-      "glued",
-      "substantial",
-      "cluster"
     ],
     "parts": [
       {
@@ -2444,6 +2432,12 @@
         "id": "c1",
         "number": 1,
         "answer": "flakes",
+        "options": [
+          "flakes",
+          "dominated",
+          "roamed",
+          "survived"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 flakes（flake）。结合上下文辨认词义与词形。",
         "evidence": "Some flakes refit together, helping us identify places where people made tools.",
@@ -2453,6 +2447,12 @@
         "id": "c2",
         "number": 2,
         "answer": "hippo",
+        "options": [
+          "fossil",
+          "hippo",
+          "basin",
+          "desert"
+        ],
         "vocabularyId": "v2",
         "explanation": "原文此处使用 hippo（hippo）。结合上下文辨认词义与词形。",
         "evidence": "These results, supported by data on hippo teeth, place the archaeological shoreline at about 125,000 years ago.",
@@ -2462,6 +2462,12 @@
         "id": "c3",
         "number": 3,
         "answer": "glued",
+        "options": [
+          "repeated",
+          "abandoned",
+          "glued",
+          "linked"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 glued（glue）。结合上下文辨认词义与词形。",
         "evidence": "One point preserved resin and plant fibres near its base, suggesting people glued and bound it to a shaft.",
@@ -2471,6 +2477,12 @@
         "id": "c4",
         "number": 4,
         "answer": "toxins",
+        "options": [
+          "gazelles",
+          "documents",
+          "stretches",
+          "toxins"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 toxins（toxin）。结合上下文辨认词义与词形。",
         "evidence": "Chemical analysis revealed traces linked to the arrow-poison tree, whose toxins affect the heart.",
@@ -2480,6 +2492,12 @@
         "id": "c5",
         "number": 5,
         "answer": "latex",
+        "options": [
+          "latex",
+          "desert",
+          "sands",
+          "tooth"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 latex（latex）。结合上下文辨认词义与词形。",
         "evidence": "Other tools carried traces consistent with extracting and processing toxic plant latex.",
@@ -2489,6 +2507,12 @@
         "id": "c6",
         "number": 6,
         "answer": "reeds",
+        "options": [
+          "tools",
+          "reeds",
+          "poisons",
+          "traces"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 reeds（reed）。结合上下文辨认词义与词形。",
         "evidence": "We also found traces of reeds and underground plant parts.",
@@ -2498,6 +2522,12 @@
         "id": "c7",
         "number": 7,
         "answer": "reconstruct",
+        "options": [
+          "extracting",
+          "investigated",
+          "reconstruct",
+          "widening"
+        ],
         "vocabularyId": "v121",
         "explanation": "原文此处使用 reconstruct（reconstruct）。结合上下文辨认词义与词形。",
         "evidence": "Their surviving traces help us reconstruct parts of ancient technology that stone alone cannot reveal, including weapon shafts and possible cord or containers.",
@@ -2507,6 +2537,12 @@
         "id": "c8",
         "number": 8,
         "answer": "substantial",
+        "options": [
+          "ephemeral",
+          "stretches",
+          "unresolved",
+          "substantial"
+        ],
         "vocabularyId": "v125",
         "explanation": "原文此处使用 substantial（substantial）。结合上下文辨认词义与词形。",
         "evidence": "Hippos indicate substantial freshwater habitat, while giant buffalo, gazelles, oryx and ostriches point to open grasslands nearby.",
@@ -2516,6 +2552,12 @@
         "id": "c9",
         "number": 9,
         "answer": "cluster",
+        "options": [
+          "cluster",
+          "buried",
+          "evolved",
+          "dominated"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 cluster（cluster）。结合上下文辨认词义与词形。",
         "evidence": "Animal remains also cluster in areas with high concentrations of stone tools, linking some lakeshore activities to the fauna.",
@@ -2525,6 +2567,12 @@
         "id": "c10",
         "number": 10,
         "answer": "separate",
+        "options": [
+          "fossil",
+          "tooth",
+          "separate",
+          "desert"
+        ],
         "vocabularyId": "v137",
         "explanation": "原文此处使用 separate（separate）。结合上下文辨认词义与词形。",
         "evidence": "Mundafan filled during separate wet phases, and the opportunities it offered changed as the climate became drier.",
@@ -2613,5 +2661,8 @@
       }
     ]
   },
-  "revision": "02fbcc272afd32b19fcf82eae725ea5a4ab5bd6dadeadbb5bd4e4154bc288c52"
+  "revision": "1901c6c5cfc4e79dea3f5bcb7cb7ac50099e2a9f3893e3e9cdc7ea73feace6d2",
+  "compatibleProgressRevisions": [
+    "02fbcc272afd32b19fcf82eae725ea5a4ab5bd6dadeadbb5bd4e4154bc288c52"
+  ]
 }

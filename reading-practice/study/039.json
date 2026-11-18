@@ -1851,23 +1851,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       12
-    ],
-    "wordBank": [
-      "spawned",
-      "correct",
-      "simulate",
-      "meteorologist",
-      "emergency",
-      "humidity",
-      "rainfall",
-      "warned",
-      "moorings",
-      "motion"
     ],
     "parts": [
       {
@@ -1939,6 +1927,12 @@
         "id": "c1",
         "number": 1,
         "answer": "rainfall",
+        "options": [
+          "hurricanes",
+          "phenomenon",
+          "blistering",
+          "rainfall"
+        ],
         "vocabularyId": "v6",
         "explanation": "原文此处使用 rainfall（rainfall）。结合上下文辨认词义与词形。",
         "evidence": "This natural phenomenon drives variations in temperature, rainfall and winds across the globe.",
@@ -1948,6 +1942,12 @@
         "id": "c2",
         "number": 2,
         "answer": "warned",
+        "options": [
+          "relies",
+          "simulate",
+          "warned",
+          "contributed"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 warned（warn）。结合上下文辨认词义与词形。",
         "evidence": "Australia’s Bureau of Meteorology warned us of this El Niño in June, which is currently the earliest point at which reliable predictions can be made.",
@@ -1957,6 +1957,12 @@
         "id": "c3",
         "number": 3,
         "answer": "emergency",
+        "options": [
+          "floods",
+          "emergency",
+          "hurricanes",
+          "rainfall"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 emergency（emergency）。结合上下文辨认词义与词形。",
         "evidence": "Our new study suggests it may be possible to accurately predict some El Niños up to 12 months ahead of time, buying valuable time for farmers, emergency services and disaster-prone communities.",
@@ -1966,6 +1972,12 @@
         "id": "c4",
         "number": 4,
         "answer": "motion",
+        "options": [
+          "motion",
+          "rainfall",
+          "possible",
+          "valuable"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 motion（motion）。结合上下文辨认词义与词形。",
         "evidence": "These models work by applying the laws of physics, such as Newton’s laws of motion, to Earth’s geography.",
@@ -1975,6 +1987,12 @@
         "id": "c5",
         "number": 5,
         "answer": "simulate",
+        "options": [
+          "contributed",
+          "solve",
+          "warned",
+          "simulate"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 simulate（simulate）。结合上下文辨认词义与词形。",
         "evidence": "The models then solve equations representing the laws of physics to simulate a version of our Earth, complete with its own storms, ocean currents, waves and wind patterns.",
@@ -1984,6 +2002,12 @@
         "id": "c6",
         "number": 6,
         "answer": "humidity",
+        "options": [
+          "globe",
+          "variations",
+          "humidity",
+          "floods"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 humidity（humidity）。结合上下文辨认词义与词形。",
         "evidence": "To make predictions of El Niños and La Niñas, forecasters supply these models with information about present conditions, including ocean temperatures, currents, winds and humidity.",
@@ -1993,6 +2017,12 @@
         "id": "c7",
         "number": 7,
         "answer": "moorings",
+        "options": [
+          "hurricanes",
+          "moorings",
+          "variations",
+          "oceans"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 moorings（moorings）。结合上下文辨认词义与词形。",
         "evidence": "This data comes from a vast global network of satellites, weather stations, ocean buoys and moorings.",
@@ -2002,6 +2032,12 @@
         "id": "c8",
         "number": 8,
         "answer": "meteorologist",
+        "options": [
+          "meteorologist",
+          "variations",
+          "blistering",
+          "forecasting"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 meteorologist（meteorologist）。结合上下文辨认词义与词形。",
         "evidence": "In the 1960s, meteorologist Ed Lorenz and computer scientist Margaret Hamilton made a startling discovery.",
@@ -2011,6 +2047,12 @@
         "id": "c9",
         "number": 9,
         "answer": "spawned",
+        "options": [
+          "speed",
+          "phenomenon",
+          "rainfall",
+          "spawned"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 spawned（spawn）。结合上下文辨认词义与词形。",
         "evidence": "This spawned the mathematical field of chaos theory, the idea that no matter how perfect a model is, there are some situations where the system being predicted is so sensitive to minuscule changes, it’s almost impossible to make correct predictions.",
@@ -2020,6 +2062,12 @@
         "id": "c10",
         "number": 10,
         "answer": "correct",
+        "options": [
+          "correct",
+          "emerge",
+          "solve",
+          "predict"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 correct（correct）。结合上下文辨认词义与词形。",
         "evidence": "This spawned the mathematical field of chaos theory, the idea that no matter how perfect a model is, there are some situations where the system being predicted is so sensitive to minuscule changes, it’s almost impossible to make correct predictions.",
@@ -2108,5 +2156,8 @@
       }
     ]
   },
-  "revision": "0a31ac91c318a89209f4c7a988abeaf4f673763d603668e36dc622ca41b0b06c"
+  "revision": "32d8cd91bd64c21bde1220effeb21efe92ffdc11bf6bfbc14177c30596c1f3bd",
+  "compatibleProgressRevisions": [
+    "0a31ac91c318a89209f4c7a988abeaf4f673763d603668e36dc622ca41b0b06c"
+  ]
 }

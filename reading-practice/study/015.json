@@ -2030,23 +2030,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       15,
       22
-    ],
-    "wordBank": [
-      "electric",
-      "count",
-      "mechanism",
-      "smashing",
-      "unrelated",
-      "sensitivity",
-      "extremely",
-      "machine",
-      "transform",
-      "detectors"
     ],
     "parts": [
       {
@@ -2118,6 +2106,12 @@
         "id": "c1",
         "number": 1,
         "answer": "mechanism",
+        "options": [
+          "fundamental",
+          "particles",
+          "chemistry",
+          "mechanism"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 mechanism（mechanism）。结合上下文辨认词义与词形。",
         "evidence": "This leaves open the question of whether the Higgs mechanism is responsible for its mass.",
@@ -2127,6 +2121,12 @@
         "id": "c2",
         "number": 2,
         "answer": "machine",
+        "options": [
+          "machine",
+          "orbit",
+          "nucleus",
+          "chemistry"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 machine（machine）。结合上下文辨认词义与词形。",
         "evidence": "To close this gap in our knowledge, physicists have proposed using FCC-ee, the first stage of a planned $19 billion physics machine called the Future Circular Collider, which could follow the Large Hadron Collider in the 2040s.",
@@ -2136,6 +2136,12 @@
         "id": "c3",
         "number": 3,
         "answer": "electric",
+        "options": [
+          "behaviour",
+          "electric",
+          "fundamental",
+          "blocks"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 electric（electric）。结合上下文辨认词义与词形。",
         "evidence": "Most fundamental particles have a corresponding antiparticle – another sub-atomic particle that has the same mass but a different electric charge.",
@@ -2145,6 +2151,12 @@
         "id": "c4",
         "number": 4,
         "answer": "detectors",
+        "options": [
+          "detectors",
+          "blocks",
+          "discoveries",
+          "particles"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 detectors（detector）。结合上下文辨认词义与词形。",
         "evidence": "FCC-ee would accelerate electrons and their corresponding antiparticles (known as positrons) around a 91km-long ring underneath the French-Swiss border, before colliding the two beams of particles inside detectors.",
@@ -2154,6 +2166,12 @@
         "id": "c5",
         "number": 5,
         "answer": "smashing",
+        "options": [
+          "pioneering",
+          "behaviour",
+          "electron",
+          "smashing"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 smashing（smash）。结合上下文辨认词义与词形。",
         "evidence": "FCC-ee has a key advantage over proton-proton colliders such as the Large Hadron Collider: smashing together electrons and positrons can directly produce a Higgs boson.",
@@ -2163,6 +2181,12 @@
         "id": "c6",
         "number": 6,
         "answer": "count",
+        "options": [
+          "count",
+          "proton",
+          "neutron",
+          "electron"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 count（count）。结合上下文辨认词义与词形。",
         "evidence": "In principle, the measurement is simple: collide electrons with positrons and count the Higgs bosons produced.",
@@ -2172,6 +2196,12 @@
         "id": "c7",
         "number": 7,
         "answer": "extremely",
+        "options": [
+          "potentially",
+          "extremely",
+          "significantly",
+          "weakly"
+        ],
         "vocabularyId": "v102",
         "explanation": "原文此处使用 extremely（extremely）。结合上下文辨认词义与词形。",
         "evidence": "To produce enough Higgs bosons, the collider would need to run for a few years at an energy extremely close to the mass of the Higgs boson particle.",
@@ -2181,6 +2211,12 @@
         "id": "c8",
         "number": 8,
         "answer": "unrelated",
+        "options": [
+          "crucial",
+          "responsible",
+          "unrelated",
+          "decisive"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 unrelated（unrelated）。结合上下文辨认词义与词形。",
         "evidence": "Detecting the Higgs bosons is another challenge, because many unrelated processes can mimic the desired signal.",
@@ -2190,6 +2226,12 @@
         "id": "c9",
         "number": 9,
         "answer": "transform",
+        "options": [
+          "contributing",
+          "depends",
+          "confirmed",
+          "transform"
+        ],
         "vocabularyId": "v112",
         "explanation": "原文此处使用 transform（transform）。结合上下文辨认词义与词形。",
         "evidence": "In a recent preprint (which has not yet been published in a peer-reviewed journal) on this topic, a team of physicists assumed that the Higgs bosons decay (or transform) into W bosons, another fundamental particle with a lower mass.",
@@ -2199,6 +2241,12 @@
         "id": "c10",
         "number": 10,
         "answer": "sensitivity",
+        "options": [
+          "sensitivity",
+          "electron",
+          "fundamental",
+          "chemistry"
+        ],
         "vocabularyId": "v116",
         "explanation": "原文此处使用 sensitivity（sensitivity）。结合上下文辨认词义与词形。",
         "evidence": "In simulations, they found that this approach could improve sensitivity to the electron-Higgs interaction by nearly a factor of 200 compared with current limits at the Large Hadron Collider.",
@@ -2287,5 +2335,8 @@
       }
     ]
   },
-  "revision": "0c7de47d40e7f200ab2c76c4855a2064789bf1abad05ba80bdefdf95d709c0fd"
+  "revision": "2cc2570ab638c4912b1c206be4e31a9a096f89ee2de03e7d1d0def5ddde5d2fc",
+  "compatibleProgressRevisions": [
+    "0c7de47d40e7f200ab2c76c4855a2064789bf1abad05ba80bdefdf95d709c0fd"
+  ]
 }

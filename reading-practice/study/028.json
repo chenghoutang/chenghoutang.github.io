@@ -2669,23 +2669,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       17,
       28
-    ],
-    "wordBank": [
-      "stairs",
-      "ocean",
-      "outbid",
-      "county",
-      "lucky",
-      "warns",
-      "exceptionally",
-      "stability",
-      "estimated",
-      "typically"
     ],
     "parts": [
       {
@@ -2757,6 +2745,12 @@
         "id": "c1",
         "number": 1,
         "answer": "ocean",
+        "options": [
+          "storms",
+          "hundreds",
+          "ocean",
+          "beaches"
+        ],
         "vocabularyId": "v110",
         "explanation": "原文此处使用 ocean（ocean）。结合上下文辨认词义与词形。",
         "evidence": "This changed quickly in 1978 when the first strong El Niño in recent memory arrived, raising alarm about the hazards ocean development was exposed to.",
@@ -2766,6 +2760,12 @@
         "id": "c2",
         "number": 2,
         "answer": "stairs",
+        "options": [
+          "waves",
+          "stairs",
+          "dollars",
+          "storms"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 stairs（stairs）。结合上下文辨认词义与词形。",
         "evidence": "The extreme 1982-83 El Niño that followed a few years later caused about US$328 million (in 2025 dollars) in damage to oceanfront property, $87 million in losses to recreational facilities such as piers, parking lots and access stairs, and $66 million in damage to large engineering structures such as breakwaters and jetties designed to protect harbors from storm waves.",
@@ -2775,6 +2775,12 @@
         "id": "c3",
         "number": 3,
         "answer": "stability",
+        "options": [
+          "stability",
+          "beaches",
+          "battered",
+          "hundreds"
+        ],
         "vocabularyId": "v120",
         "explanation": "原文此处使用 stability（stability）。结合上下文辨认词义与词形。",
         "evidence": "At least in the short term, the 1982-83 El Niño winter changed popular perceptions of the stability or security of oceanfront homes and other shoreline development.",
@@ -2784,6 +2790,12 @@
         "id": "c4",
         "number": 4,
         "answer": "outbid",
+        "options": [
+          "expands",
+          "eroded",
+          "delivered",
+          "outbid"
+        ],
         "vocabularyId": "v129",
         "explanation": "原文此处使用 outbid（outbid）。结合上下文辨认词义与词形。",
         "evidence": "But then it was back to business as usual, as new arrivals to the coast outbid each other for the same oceanfront homes damaged a few years before.",
@@ -2793,6 +2805,12 @@
         "id": "c5",
         "number": 5,
         "answer": "lucky",
+        "options": [
+          "sandy",
+          "sea-level",
+          "lucky",
+          "apart"
+        ],
         "vocabularyId": "v133",
         "explanation": "原文此处使用 lucky（lucky）。结合上下文辨认词义与词形。",
         "evidence": "Increased coastal armoring, such as seawalls and rock revetments, helped limit erosion during other very large El Niños that followed, in 1997-98 and 2015-16, along with lucky timing that large waves arrived at low points in the monthly tidal cycle, leading to significantly less property damage than in 1982-83.",
@@ -2802,6 +2820,12 @@
         "id": "c6",
         "number": 6,
         "answer": "estimated",
+        "options": [
+          "storms",
+          "estimated",
+          "stripped",
+          "bluffs"
+        ],
         "vocabularyId": "v139",
         "explanation": "原文此处使用 estimated（estimate）。结合上下文辨认词义与词形。",
         "evidence": "The coast was not so fortunate in winter 2022-23, when high seas and waves alone caused an estimated $4.7 billion in economic losses along California’s coast.",
@@ -2811,6 +2835,12 @@
         "id": "c7",
         "number": 7,
         "answer": "warns",
+        "options": [
+          "warns",
+          "elevated",
+          "exploded",
+          "emerging"
+        ],
         "vocabularyId": "v144",
         "explanation": "原文此处使用 warns（warn）。结合上下文辨认词义与词形。",
         "evidence": "The state’s latest climate assessment, released Oct. 19, 2026, warns of more intense storms and increased erosion as temperatures increase and sea level continues to rise.",
@@ -2820,6 +2850,12 @@
         "id": "c8",
         "number": 8,
         "answer": "exceptionally",
+        "options": [
+          "generally",
+          "costly",
+          "typically",
+          "exceptionally"
+        ],
         "vocabularyId": "v147",
         "explanation": "原文此处使用 exceptionally（exceptionally）。结合上下文辨认词义与词形。",
         "evidence": "The southern end of the state is already suffering wave damage from an exceptionally busy Pacific hurricane season, also fueled by El Niño.",
@@ -2829,6 +2865,12 @@
         "id": "c9",
         "number": 9,
         "answer": "typically",
+        "options": [
+          "typically",
+          "coastal",
+          "significantly",
+          "monthly"
+        ],
         "vocabularyId": "v152",
         "explanation": "原文此处使用 typically（typically）。结合上下文辨认词义与词形。",
         "evidence": "The state’s storm season, when powerful atmospheric rivers bring downpours, typically begins in October or November and runs through early spring.",
@@ -2838,6 +2880,12 @@
         "id": "c10",
         "number": 10,
         "answer": "county",
+        "options": [
+          "bluffs",
+          "county",
+          "coastline",
+          "hundreds"
+        ],
         "vocabularyId": "v157",
         "explanation": "原文此处使用 county（county）。结合上下文辨认词义与词形。",
         "evidence": "How each coastal neighborhood, city and county responds will vary depending upon their local conditions and vulnerability to coastal erosion and flooding.",
@@ -2926,5 +2974,8 @@
       }
     ]
   },
-  "revision": "79fb444fbbadf7b8f5a2e1e513ccc43c161a32a8c5c5b471c58960ec5723431b"
+  "revision": "e907af3250d3e30cbbc95751f371302ccd1b6f69bbea2cc3c6e584692e55311c",
+  "compatibleProgressRevisions": [
+    "79fb444fbbadf7b8f5a2e1e513ccc43c161a32a8c5c5b471c58960ec5723431b"
+  ]
 }

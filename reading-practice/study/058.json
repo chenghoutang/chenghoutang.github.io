@@ -1386,23 +1386,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       2,
       7
-    ],
-    "wordBank": [
-      "wooden",
-      "dramatically",
-      "minority",
-      "discrimination",
-      "language",
-      "obvious",
-      "abused",
-      "overhearing",
-      "negative",
-      "aware"
     ],
     "parts": [
       {
@@ -1474,6 +1462,12 @@
         "id": "c1",
         "number": 1,
         "answer": "overhearing",
+        "options": [
+          "overhearing",
+          "discourage",
+          "directed",
+          "surround"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 overhearing（overhear）。结合上下文辨认词义与词形。",
         "evidence": "That was the complaint a stranger directed at Patsy, a Welsh learner featured in my latest book, after overhearing her family speaking Welsh in a Cardiff cafe.",
@@ -1483,6 +1477,12 @@
         "id": "c2",
         "number": 2,
         "answer": "wooden",
+        "options": [
+          "becoming",
+          "directed",
+          "everyday",
+          "wooden"
+        ],
         "vocabularyId": "v12",
         "explanation": "原文此处使用 wooden（wooden）。结合上下文辨认词义与词形。",
         "evidence": "Wales has come a long way since the days of the Welsh not, a wooden token often accompanied by corporal punishment that was used in some 19th-century schools to discourage children from speaking Welsh.",
@@ -1492,6 +1492,12 @@
         "id": "c3",
         "number": 3,
         "answer": "language",
+        "options": [
+          "corporal",
+          "token",
+          "language",
+          "punishment"
+        ],
         "vocabularyId": "v18",
         "explanation": "原文此处使用 language（language）。结合上下文辨认词义与词形。",
         "evidence": "The Welsh language is now more visible, more widely supported and more politically protected than at any point in history.",
@@ -1501,6 +1507,12 @@
         "id": "c4",
         "number": 4,
         "answer": "dramatically",
+        "options": [
+          "automatically",
+          "dramatically",
+          "politically",
+          "hardly"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 dramatically（dramatically）。结合上下文辨认词义与词形。",
         "evidence": "But my ongoing research of Welsh-speaking families living in Cardiff suggests that while attitudes have improved dramatically, some linguistic prejudice still lingers beneath the surface.",
@@ -1510,6 +1522,12 @@
         "id": "c5",
         "number": 5,
         "answer": "minority",
+        "options": [
+          "minority",
+          "recognition",
+          "complaint",
+          "punishment"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 minority（minority）。结合上下文辨认词义与词形。",
         "evidence": "I found similar experiences among Finland’s Swedish-speaking minority, where official recognition of the language has not always translated into acceptance in everyday life.",
@@ -1519,6 +1537,12 @@
         "id": "c6",
         "number": 6,
         "answer": "negative",
+        "options": [
+          "token",
+          "minority",
+          "complaint",
+          "negative"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 negative（negative）。结合上下文辨认词义与词形。",
         "evidence": "Several of the Welsh-speaking parents I interviewed had experienced negative attitudes towards Welsh when they were growing up in the 1970s, 1980s and 1990s.",
@@ -1528,6 +1552,12 @@
         "id": "c7",
         "number": 7,
         "answer": "abused",
+        "options": [
+          "abused",
+          "stereotyped",
+          "token",
+          "learner"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 abused（abuse）。结合上下文辨认词义与词形。",
         "evidence": "One father remembered being verbally abused for speaking Welsh in Cardiff as a child.",
@@ -1537,6 +1567,12 @@
         "id": "c8",
         "number": 8,
         "answer": "obvious",
+        "options": [
+          "aware",
+          "obvious",
+          "visible",
+          "overt"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 obvious（obvious）。结合上下文辨认词义与词形。",
         "evidence": "They felt that such prejudice was less obvious today, but could still appear in subtle ways, sometimes disguised as humour.",
@@ -1546,6 +1582,12 @@
         "id": "c9",
         "number": 9,
         "answer": "aware",
+        "options": [
+          "visible",
+          "worldly",
+          "aware",
+          "favourable"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 aware（aware）。结合上下文辨认词义与词形。",
         "evidence": "One Welsh-speaking teacher described becoming more aware of negative attitudes towards Welsh after moving from a Welsh-medium school to an English-medium one.",
@@ -1555,6 +1597,12 @@
         "id": "c10",
         "number": 10,
         "answer": "discrimination",
+        "options": [
+          "punishment",
+          "complaint",
+          "recognition",
+          "discrimination"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 discrimination（discrimination）。结合上下文辨认词义与词形。",
         "evidence": "Parents in my study could recall experiences of stereotyping, discrimination or prejudice.",
@@ -1643,5 +1691,8 @@
       }
     ]
   },
-  "revision": "69f83a8b0555a8f55b9c7707be668e7c865bdc5e1e5434609eedc7646f2f44f9"
+  "revision": "3c671c42cb622e78f1c3968cf82ae289bebe724fbe0db8302a6908a8b23b7631",
+  "compatibleProgressRevisions": [
+    "69f83a8b0555a8f55b9c7707be668e7c865bdc5e1e5434609eedc7646f2f44f9"
+  ]
 }

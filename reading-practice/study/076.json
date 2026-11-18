@@ -3024,23 +3024,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       17
-    ],
-    "wordBank": [
-      "surgeon",
-      "imminent",
-      "ancient",
-      "symptoms",
-      "genuine",
-      "cosmetics",
-      "poisonous",
-      "inner",
-      "precious",
-      "remedies"
     ],
     "parts": [
       {
@@ -3112,6 +3100,12 @@
         "id": "c1",
         "number": 1,
         "answer": "cosmetics",
+        "options": [
+          "cosmetics",
+          "ancestors",
+          "passages",
+          "centuries"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 cosmetics（cosmetic）。结合上下文辨认词义与词形。",
         "evidence": "Its success belonged to a burgeoning taste for “books of secrets”, recipe-like instructional texts that taught everything from cosmetics and alchemy to brewing and beekeeping.",
@@ -3121,6 +3115,12 @@
         "id": "c2",
         "number": 2,
         "answer": "genuine",
+        "options": [
+          "alchemical",
+          "genuine",
+          "dangerous",
+          "practical"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 genuine（genuine）。结合上下文辨认词义与词形。",
         "evidence": "They are now recognised as exerting genuine influence on contemporary scientific culture.",
@@ -3130,6 +3130,12 @@
         "id": "c3",
         "number": 3,
         "answer": "inner",
+        "options": [
+          "inner",
+          "ongoing",
+          "preferable",
+          "terrible"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 inner（inner）。结合上下文辨认词义与词形。",
         "evidence": "Whether providing alchemical routes to the philosopher’s stone or the recipe for a nutritious stew, books like A Thousand Notable Things thrived on the promise of revealing hidden “secrets” about nature’s inner workings.",
@@ -3139,6 +3145,12 @@
         "id": "c4",
         "number": 4,
         "answer": "imminent",
+        "options": [
+          "downright",
+          "precious",
+          "endless",
+          "imminent"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 imminent（imminent）。结合上下文辨认词义与词形。",
         "evidence": "Of course, there was no guarantee that everything Lupton suggested would work: whether sleeping on your right side during pregnancy really meant the baby would be female, or that dreaming of eagles flying overhead was necessarily a sign of imminent good fortune.",
@@ -3148,6 +3160,12 @@
         "id": "c5",
         "number": 5,
         "answer": "poisonous",
+        "options": [
+          "poisonous",
+          "cutting-edge",
+          "nutritious",
+          "precious"
+        ],
         "vocabularyId": "v109",
         "explanation": "原文此处使用 poisonous（poisonous）。结合上下文辨认词义与词形。",
         "evidence": "If some passages sound absurd or downright dangerous to modern ears (henbane and mercury are highly poisonous), consider that much of Lupton’s material was cutting-edge in its day.",
@@ -3157,6 +3175,12 @@
         "id": "c6",
         "number": 6,
         "answer": "ancient",
+        "options": [
+          "spoiling",
+          "ancient",
+          "recipe",
+          "reading"
+        ],
         "vocabularyId": "v121",
         "explanation": "原文此处使用 ancient（ancient）。结合上下文辨认词义与词形。",
         "evidence": "Even though the vitality of astrology, occult science and ancient medicine waned over the book’s 250-year lifespan, the deeply human concerns it addressed proved enduringly popular.",
@@ -3166,6 +3190,12 @@
         "id": "c7",
         "number": 7,
         "answer": "precious",
+        "options": [
+          "preferable",
+          "pernicious",
+          "precious",
+          "downright"
+        ],
         "vocabularyId": "v131",
         "explanation": "原文此处使用 precious（precious）。结合上下文辨认词义与词形。",
         "evidence": "We know that contemporary readers found Lupton’s eclectic material engaging thanks to their annotations in personal copies, precious few of which remain today.",
@@ -3175,6 +3205,12 @@
         "id": "c8",
         "number": 8,
         "answer": "symptoms",
+        "options": [
+          "ancestors",
+          "passages",
+          "contents",
+          "symptoms"
+        ],
         "vocabularyId": "v140",
         "explanation": "原文此处使用 symptoms（symptom）。结合上下文辨认词义与词形。",
         "evidence": "We might speculate that its owner was managing symptoms of dietary issues or gout.",
@@ -3184,6 +3220,12 @@
         "id": "c9",
         "number": 9,
         "answer": "remedies",
+        "options": [
+          "remedies",
+          "seeds",
+          "ancestors",
+          "editions"
+        ],
         "vocabularyId": "v148",
         "explanation": "原文此处使用 remedies（remedy）。结合上下文辨认词义与词形。",
         "evidence": "Another reader pencilled crosses next to 38 predominantly medical passages in their 1706 copy, including remedies for head and toothaches, burning eyes, shortness of breath, sore throat and insomnia.",
@@ -3193,6 +3235,12 @@
         "id": "c10",
         "number": 10,
         "answer": "surgeon",
+        "options": [
+          "spoiling",
+          "contents",
+          "surgeon",
+          "recipe"
+        ],
         "vocabularyId": "v162",
         "explanation": "原文此处使用 surgeon（surgeon）。结合上下文辨认词义与词形。",
         "evidence": "A surgeon cut him open to find large pieces of wood and four steel knives, afflictions that were blamed on the Devil.",
@@ -3281,5 +3329,8 @@
       }
     ]
   },
-  "revision": "0cf61704f9f2f319e2549cb1c194f80add0813b4cea66a5eb8135aaadb2f7c7f"
+  "revision": "a2b3ca565681241e6ad1ea7f1d18f1d426de779312aa44c64d395516605858a4",
+  "compatibleProgressRevisions": [
+    "0cf61704f9f2f319e2549cb1c194f80add0813b4cea66a5eb8135aaadb2f7c7f"
+  ]
 }

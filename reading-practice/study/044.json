@@ -1749,23 +1749,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       5,
       15
-    ],
-    "wordBank": [
-      "outcome",
-      "lengthen",
-      "temporary",
-      "monitored",
-      "becomes",
-      "complete",
-      "immersion",
-      "molecules",
-      "repair",
-      "declined"
     ],
     "parts": [
       {
@@ -1837,6 +1825,12 @@
         "id": "c1",
         "number": 1,
         "answer": "lengthen",
+        "options": [
+          "lengthen",
+          "descending",
+          "becomes",
+          "recover"
+        ],
         "vocabularyId": "v21",
         "explanation": "原文此处使用 lengthen（lengthen）。结合上下文辨认词义与词形。",
         "evidence": "This is particularly the case after doing “eccentric exercises”, where muscles lengthen while generating force.",
@@ -1846,6 +1840,12 @@
         "id": "c2",
         "number": 2,
         "answer": "repair",
+        "options": [
+          "elite",
+          "repair",
+          "baths",
+          "damage"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 repair（repair）。结合上下文辨认词义与词形。",
         "evidence": "To repair the damage, the body triggers what’s known as an “inflammatory repair response”, where immune cells move into the muscle tissue to clear away damaged cellular material and stimulate regeneration.",
@@ -1855,6 +1855,12 @@
         "id": "c3",
         "number": 3,
         "answer": "molecules",
+        "options": [
+          "athletes",
+          "fibres",
+          "molecules",
+          "soreness"
+        ],
         "vocabularyId": "v42",
         "explanation": "原文此处使用 molecules（molecule）。结合上下文辨认词义与词形。",
         "evidence": "Other molecules are also released to help coordinate repair.",
@@ -1864,6 +1870,12 @@
         "id": "c4",
         "number": 4,
         "answer": "becomes",
+        "options": [
+          "recover",
+          "recuperate",
+          "lengthen",
+          "becomes"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 becomes（becomes）。结合上下文辨认词义与词形。",
         "evidence": "These responses are an important part of how the body repairs itself and becomes stronger.",
@@ -1873,6 +1885,12 @@
         "id": "c5",
         "number": 5,
         "answer": "complete",
+        "options": [
+          "complete",
+          "recover",
+          "generating",
+          "lengthen"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 complete（complete）。结合上下文辨认词义与词形。",
         "evidence": "So we recruited 40 healthy, physically active adults (31 men and nine women) and asked them to complete a specific exercise.",
@@ -1882,6 +1900,12 @@
         "id": "c6",
         "number": 6,
         "answer": "temporary",
+        "options": [
+          "repair",
+          "soreness",
+          "temporary",
+          "exercising"
+        ],
         "vocabularyId": "v58",
         "explanation": "原文此处使用 temporary（temporary）。结合上下文辨认词义与词形。",
         "evidence": "This particular movement is known to cause temporary muscle damage and soreness – making it useful for studying how different recovery methods influence the body’s repair process.",
@@ -1891,6 +1915,12 @@
         "id": "c7",
         "number": 7,
         "answer": "immersion",
+        "options": [
+          "exercising",
+          "colleagues",
+          "immersion",
+          "recovery"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 immersion（immersion）。结合上下文辨认词义与词形。",
         "evidence": "Participants were then randomly assigned to one of four recovery methods: cold-water immersion (in water that was 10°C), hot-water immersion (in water that was 42°C), hot air exposure (60°C, similar to a sauna) and “passive recovery” which involved sitting and doing nothing for 30 minutes.",
@@ -1900,6 +1930,12 @@
         "id": "c8",
         "number": 8,
         "answer": "monitored",
+        "options": [
+          "linked",
+          "associated",
+          "recruited",
+          "monitored"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 monitored（monitor）。结合上下文辨认词义与词形。",
         "evidence": "Over the following 72 hours, we monitored recovery by looking at several measures – including muscle strength, pain and soreness, alongside various biological markers linked to muscle damage, inflammation and cellular stress.",
@@ -1909,6 +1945,12 @@
         "id": "c9",
         "number": 9,
         "answer": "declined",
+        "options": [
+          "declined",
+          "associated",
+          "linked",
+          "monitored"
+        ],
         "vocabularyId": "v76",
         "explanation": "原文此处使用 declined（decline）。结合上下文辨认词义与词形。",
         "evidence": "Strength declined immediately after exercise and soreness increased.",
@@ -1918,6 +1960,12 @@
         "id": "c10",
         "number": 10,
         "answer": "outcome",
+        "options": [
+          "baths",
+          "athletes",
+          "outcome",
+          "elite"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 outcome（outcome）。结合上下文辨认词义与词形。",
         "evidence": "If strength had been the only outcome measured, we might have concluded the recovery methods made little difference.",
@@ -2006,5 +2054,8 @@
       }
     ]
   },
-  "revision": "a0a0723826c47ecfda251fe466ab82a362048359fcddd2d05ceeb4d173f53bfa"
+  "revision": "9486bda52f2a347d661e45cfea4a7d88d9f8d50f5033fc62cc3313a7d40fbd49",
+  "compatibleProgressRevisions": [
+    "a0a0723826c47ecfda251fe466ab82a362048359fcddd2d05ceeb4d173f53bfa"
+  ]
 }

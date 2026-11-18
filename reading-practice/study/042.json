@@ -2234,23 +2234,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       5,
       16
-    ],
-    "wordBank": [
-      "vital",
-      "mammalian",
-      "integrity",
-      "instructions",
-      "exercise",
-      "alter",
-      "prompting",
-      "artery",
-      "activate",
-      "experimentally"
     ],
     "parts": [
       {
@@ -2322,6 +2310,12 @@
         "id": "c1",
         "number": 1,
         "answer": "artery",
+        "options": [
+          "millions",
+          "recovery",
+          "artery",
+          "heart"
+        ],
         "vocabularyId": "v38",
         "explanation": "原文此处使用 artery（artery）。结合上下文辨认词义与词形。",
         "evidence": "A heart attack (myocardial infarction) occurs when blood flow through a coronary artery is significantly reduced or even fully blocked.",
@@ -2331,6 +2325,12 @@
         "id": "c2",
         "number": 2,
         "answer": "vital",
+        "options": [
+          "leading",
+          "fibrous",
+          "evident",
+          "vital"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 vital（vital）。结合上下文辨认词义与词形。",
         "evidence": "These specialised cells, called cardiomyocytes, are responsible for the continuous contractions of the heart muscle, which pumps blood around the body to our vital organs.",
@@ -2340,6 +2340,12 @@
         "id": "c3",
         "number": 3,
         "answer": "integrity",
+        "options": [
+          "integrity",
+          "attack",
+          "recovery",
+          "failure"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 integrity（integrity）。结合上下文辨认词义与词形。",
         "evidence": "Although this scar helps maintain the heart’s structural integrity, it cannot contract like healthy muscle.",
@@ -2349,6 +2355,12 @@
         "id": "c4",
         "number": 4,
         "answer": "exercise",
+        "options": [
+          "emergency",
+          "attack",
+          "exercise",
+          "recovery"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 exercise（exercise）。结合上下文辨认词义与词形。",
         "evidence": "Modern treatments, such as procedures to reopen blocked arteries, medication and supervised exercise programmes, have greatly improved survival.",
@@ -2358,6 +2370,12 @@
         "id": "c5",
         "number": 5,
         "answer": "mammalian",
+        "options": [
+          "mammalian",
+          "structural",
+          "continuous",
+          "permanent"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 mammalian（mammalian）。结合上下文辨认词义与词形。",
         "evidence": "Shortly after birth, most mammalian cardiomyocytes largely lose this ability.",
@@ -2367,6 +2385,12 @@
         "id": "c6",
         "number": 6,
         "answer": "activate",
+        "options": [
+          "survive",
+          "regenerate",
+          "modified",
+          "activate"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 activate（activate）。结合上下文辨认词义与词形。",
         "evidence": "Myc switches on genes involved in cell growth and division, while cyclin T1 helps activate the machinery cells need to multiply.",
@@ -2376,6 +2400,12 @@
         "id": "c7",
         "number": 7,
         "answer": "instructions",
+        "options": [
+          "contractions",
+          "obstacles",
+          "instructions",
+          "struggles"
+        ],
         "vocabularyId": "v84",
         "explanation": "原文此处使用 instructions（instruction）。结合上下文辨认词义与词形。",
         "evidence": "The researchers used modified mRNA to give heart muscle cells instructions for making the two proteins.",
@@ -2385,6 +2415,12 @@
         "id": "c8",
         "number": 8,
         "answer": "alter",
+        "options": [
+          "survive",
+          "mature",
+          "alter",
+          "multiply"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 alter（alter）。结合上下文辨认词义与词形。",
         "evidence": "Importantly, mRNA does not need to alter a cell’s DNA.",
@@ -2394,6 +2430,12 @@
         "id": "c9",
         "number": 9,
         "answer": "experimentally",
+        "options": [
+          "experimentally",
+          "consistently",
+          "potentially",
+          "multiply"
+        ],
         "vocabularyId": "v98",
         "explanation": "原文此处使用 experimentally（experimentally）。结合上下文辨认词义与词形。",
         "evidence": "The researchers tested their approach in mice following experimentally induced heart attacks.",
@@ -2403,6 +2445,12 @@
         "id": "c10",
         "number": 10,
         "answer": "prompting",
+        "options": [
+          "triggering",
+          "emergency",
+          "attack",
+          "prompting"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 prompting（prompt）。结合上下文辨认词义与词形。",
         "evidence": "The treatment activated genes involved in cell division, prompting heart muscle cells to start multiplying.",
@@ -2491,5 +2539,8 @@
       }
     ]
   },
-  "revision": "b47cd291a427c9d99c2ed5121c1af18b7f42f0401985ffe73baacb2c7b9ef9d3"
+  "revision": "71da33c057998ba8c31b58c7f71eaf262a7fc6146b2cd59fce90c84ee4bdf334",
+  "compatibleProgressRevisions": [
+    "b47cd291a427c9d99c2ed5121c1af18b7f42f0401985ffe73baacb2c7b9ef9d3"
+  ]
 }

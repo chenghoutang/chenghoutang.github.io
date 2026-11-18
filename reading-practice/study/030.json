@@ -2993,23 +2993,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       18,
       28
-    ],
-    "wordBank": [
-      "arrows",
-      "locations",
-      "connections",
-      "renaissance",
-      "entirely",
-      "ecology",
-      "profits",
-      "banding",
-      "contrast",
-      "arctic"
     ],
     "parts": [
       {
@@ -3081,6 +3069,12 @@
         "id": "c1",
         "number": 1,
         "answer": "entirely",
+        "options": [
+          "entirely",
+          "largely",
+          "scarcely",
+          "relatively"
+        ],
         "vocabularyId": "v87",
         "explanation": "原文此处使用 entirely（entirely）。结合上下文辨认词义与词形。",
         "evidence": "A species like the American robin may breed across thousands of miles of North America, with different breeding populations migrating to entirely different places for the winter.",
@@ -3090,6 +3084,12 @@
         "id": "c2",
         "number": 2,
         "answer": "connections",
+        "options": [
+          "mysteries",
+          "thousands",
+          "naturalists",
+          "connections"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 connections（connection）。结合上下文辨认词义与词形。",
         "evidence": "These connections between where a bird breeds and where it spends the winter is called migratory connectivity.",
@@ -3099,6 +3099,12 @@
         "id": "c3",
         "number": 3,
         "answer": "ecology",
+        "options": [
+          "ecology",
+          "arrows",
+          "storks",
+          "mysteries"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 ecology（ecology）。结合上下文辨认词义与词形。",
         "evidence": "They are critical for understanding everything from the consequences of climate change on birds to how avian pathogens and diseases spread, to a species’ basic ecology.",
@@ -3108,6 +3114,12 @@
         "id": "c4",
         "number": 4,
         "answer": "profits",
+        "options": [
+          "mysteries",
+          "hundreds",
+          "profits",
+          "arrows"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 profits（profit）。结合上下文辨认词义与词形。",
         "evidence": "It is being published Nov. 3, 2026, by Princeton University Press, with all profits going to bird conservation and research in Latin America and the Caribbean.",
@@ -3117,6 +3129,12 @@
         "id": "c5",
         "number": 5,
         "answer": "banding",
+        "options": [
+          "banding",
+          "scratched",
+          "orbiting",
+          "mysteries"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 banding（band）。结合上下文辨认词义与词形。",
         "evidence": "The atlas covers the latest information on seasonal movements for nearly 600 species and combines a century of bird-banding data with eBird observations, tracking studies, stable isotope testing, genetics and other sources of information.",
@@ -3126,6 +3144,12 @@
         "id": "c6",
         "number": 6,
         "answer": "arrows",
+        "options": [
+          "mysteries",
+          "glimpses",
+          "storks",
+          "arrows"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 arrows（arrow）。结合上下文辨认词义与词形。",
         "evidence": "What emerges is a picture of migratory birds that is both more complicated and more remarkable than the simple arrows pointing between breeding and wintering ranges on a map.",
@@ -3135,6 +3159,12 @@
         "id": "c7",
         "number": 7,
         "answer": "contrast",
+        "options": [
+          "traveling",
+          "thousands",
+          "contrast",
+          "mysteries"
+        ],
         "vocabularyId": "v122",
         "explanation": "原文此处使用 contrast（contrast）。结合上下文辨认词义与词形。",
         "evidence": "In contrast, peregrine falcons that breed in Alaska migrate almost directly south, dispersing across the Americas to wintering grounds that extend as far as southern South America.",
@@ -3144,6 +3174,12 @@
         "id": "c8",
         "number": 8,
         "answer": "renaissance",
+        "options": [
+          "disappearances",
+          "renaissance",
+          "scratched",
+          "naturalists"
+        ],
         "vocabularyId": "v132",
         "explanation": "原文此处使用 renaissance（renaissance）。结合上下文辨认词义与词形。",
         "evidence": "Collectively, they amount to a renaissance in our understanding of animal movement never before imagined.",
@@ -3153,6 +3189,12 @@
         "id": "c9",
         "number": 9,
         "answer": "arctic",
+        "options": [
+          "arctic",
+          "mysteries",
+          "scratched",
+          "thousands"
+        ],
         "vocabularyId": "v135",
         "explanation": "原文此处使用 arctic（arctic）。结合上下文辨认词义与词形。",
         "evidence": "Migratory birds such as the arctic tern and northern wheatear cross oceans, deserts and mountain ranges.",
@@ -3162,6 +3204,12 @@
         "id": "c10",
         "number": 10,
         "answer": "locations",
+        "options": [
+          "explanations",
+          "centuries",
+          "storks",
+          "locations"
+        ],
         "vocabularyId": "v146",
         "explanation": "原文此处使用 locations（location）。结合上下文辨认词义与词形。",
         "evidence": "Others, like the American redstart, return year after year to remarkably precise breeding and wintering locations.",
@@ -3250,5 +3298,8 @@
       }
     ]
   },
-  "revision": "19a42777cd3a5b0abf636d1367ec07e65aae232530b7a341964812a9b98d9c5b"
+  "revision": "dd1dd5a5c07b37f15b85c6084ccee7100f0f31d21298d833163e571eb9319b85",
+  "compatibleProgressRevisions": [
+    "19a42777cd3a5b0abf636d1367ec07e65aae232530b7a341964812a9b98d9c5b"
+  ]
 }

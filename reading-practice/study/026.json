@@ -2030,23 +2030,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       10,
       21
-    ],
-    "wordBank": [
-      "globalization",
-      "transportation",
-      "continents",
-      "habitats",
-      "metropolitan",
-      "interstate",
-      "meals",
-      "temperatures",
-      "larvae",
-      "enduring"
     ],
     "parts": [
       {
@@ -2118,6 +2106,12 @@
         "id": "c1",
         "number": 1,
         "answer": "larvae",
+        "options": [
+          "larvae",
+          "buzzing",
+          "annoyance",
+          "diseases"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 larvae（larva）。结合上下文辨认词义与词形。",
         "evidence": "A flowerpot saucer, clogged gutter, discarded tire, birdbath or even a bottle cap can collect enough water for mosquito larvae to develop.",
@@ -2127,6 +2121,12 @@
         "id": "c2",
         "number": 2,
         "answer": "meals",
+        "options": [
+          "insects",
+          "viruses",
+          "dollars",
+          "meals"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 meals（meal）。结合上下文辨认词义与词形。",
         "evidence": "As suburban neighborhoods expand, so do opportunities for mosquitoes to breed and find humans for their meals.",
@@ -2136,6 +2136,12 @@
         "id": "c3",
         "number": 3,
         "answer": "transportation",
+        "options": [
+          "transportation",
+          "metropolitan",
+          "mosquito",
+          "transmitter"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 transportation（transportation）。结合上下文辨认词义与词形。",
         "evidence": "This combination allows them to spread through transportation networks, establishing populations far from their original ranges, and explains why mosquito expansion is often linked to patterns of human movement and development.",
@@ -2145,6 +2151,12 @@
         "id": "c4",
         "number": 4,
         "answer": "continents",
+        "options": [
+          "insects",
+          "continents",
+          "struggles",
+          "temperatures"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 continents（continent）。结合上下文辨认词义与词形。",
         "evidence": "Aedes albopictus, originally native to Southeast Asia and now found in all habitable continents, provides a striking example of this spread.",
@@ -2154,6 +2166,12 @@
         "id": "c5",
         "number": 5,
         "answer": "interstate",
+        "options": [
+          "interstate",
+          "buzzing",
+          "mosquito",
+          "annoyance"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 interstate（interstate）。结合上下文辨认词义与词形。",
         "evidence": "Their early dispersal in the U.S. has been linked to the interstate highway system.",
@@ -2163,6 +2181,12 @@
         "id": "c6",
         "number": 6,
         "answer": "metropolitan",
+        "options": [
+          "mosquitoes",
+          "struggles",
+          "overlooked",
+          "metropolitan"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 metropolitan（metropolitan）。结合上下文辨认词义与词形。",
         "evidence": "One of Iowa’s first established Aedes albopictus populations, for example, appeared in the Des Moines metropolitan area, where it has continued to grow and expand to other communities.",
@@ -2172,6 +2196,12 @@
         "id": "c7",
         "number": 7,
         "answer": "globalization",
+        "options": [
+          "globalization",
+          "entomology",
+          "transportation",
+          "overlooked"
+        ],
         "vocabularyId": "v107",
         "explanation": "原文此处使用 globalization（globalization）。结合上下文辨认词义与词形。",
         "evidence": "Its spread from southeast Asia all the way to the U.S. Midwest demonstrates how globalization and suburban growth can create opportunities for mosquitoes.",
@@ -2181,6 +2211,12 @@
         "id": "c8",
         "number": 8,
         "answer": "habitats",
+        "options": [
+          "insects",
+          "habitats",
+          "viruses",
+          "mosquitoes"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 habitats（habitat）。结合上下文辨认词义与词形。",
         "evidence": "Culex mosquitoes can breed in a wide range of habitats, including storm drains, roadside ditches, retention ponds, wetlands and other standing water.",
@@ -2190,6 +2226,12 @@
         "id": "c9",
         "number": 9,
         "answer": "enduring",
+        "options": [
+          "transmit",
+          "expand",
+          "enduring",
+          "reintroduce"
+        ],
         "vocabularyId": "v120",
         "explanation": "原文此处使用 enduring（endure）。结合上下文辨认词义与词形。",
         "evidence": "Their ability to thrive in both urban and rural environments has helped make West Nile virus an enduring public health concern in many states.",
@@ -2199,6 +2241,12 @@
         "id": "c10",
         "number": 10,
         "answer": "temperatures",
+        "options": [
+          "containers",
+          "pathogens",
+          "struggles",
+          "temperatures"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 temperatures（temperature）。结合上下文辨认词义与词形。",
         "evidence": "Instead, research is increasingly focused on how changing temperatures and precipitation patterns could influence their abundance, seasonal activity and ability to transmit disease.",
@@ -2287,5 +2335,8 @@
       }
     ]
   },
-  "revision": "dae862d59ef6ee547d60fa40ab0afa2b1a87b59534a319b7bc6a0115ba067869"
+  "revision": "fca257e6f04ee96c064ecfcae781f445c1c15811f5e672269514be47d12056f3",
+  "compatibleProgressRevisions": [
+    "dae862d59ef6ee547d60fa40ab0afa2b1a87b59534a319b7bc6a0115ba067869"
+  ]
 }

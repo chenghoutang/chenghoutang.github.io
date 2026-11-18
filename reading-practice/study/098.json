@@ -1639,23 +1639,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       11
-    ],
-    "wordBank": [
-      "local",
-      "shops",
-      "colleagues",
-      "expand",
-      "proposed",
-      "electrical",
-      "counties",
-      "running",
-      "matched",
-      "assembled"
     ],
     "parts": [
       {
@@ -1727,6 +1715,12 @@
         "id": "c1",
         "number": 1,
         "answer": "running",
+        "options": [
+          "running",
+          "warehousing",
+          "employ",
+          "buildings"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 running（running）。结合上下文辨认词义与词形。",
         "evidence": "Yet, once they’re up and running, they tend to employ no more than a few dozen people in occupations such as IT technicians, engineers and security guards.",
@@ -1736,6 +1730,12 @@
         "id": "c2",
         "number": 2,
         "answer": "local",
+        "options": [
+          "billions",
+          "flowing",
+          "running",
+          "local"
+        ],
         "vocabularyId": "v19",
         "explanation": "原文此处使用 local（local）。结合上下文辨认词义与词形。",
         "evidence": "Skepticism about the local benefits of data centers is contributing to growing opposition to their construction, from Ohio to Texas.",
@@ -1745,6 +1745,12 @@
         "id": "c3",
         "number": 3,
         "answer": "proposed",
+        "options": [
+          "proposed",
+          "operating",
+          "explore",
+          "expand"
+        ],
         "vocabularyId": "v28",
         "explanation": "原文此处使用 proposed（propose）。结合上下文辨认词义与词形。",
         "evidence": "That pushback contributed to delays or cancellations of US$156 billion in proposed data center projects in 2025 alone.",
@@ -1754,6 +1760,12 @@
         "id": "c4",
         "number": 4,
         "answer": "colleagues",
+        "options": [
+          "centers",
+          "colleagues",
+          "engineers",
+          "technicians"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 colleagues（colleague）。结合上下文辨认词义与词形。",
         "evidence": "To find out, we teamed up with four colleagues to study what happens to local employment after data centers open.",
@@ -1763,6 +1775,12 @@
         "id": "c5",
         "number": 5,
         "answer": "counties",
+        "options": [
+          "counties",
+          "engineers",
+          "guards",
+          "buildings"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 counties（county）。结合上下文辨认词义与词形。",
         "evidence": "We found that new data centers that opened from 2000-2023 created 1,000 to 1,300 jobs in the counties where they are located, on average.",
@@ -1772,6 +1790,12 @@
         "id": "c6",
         "number": 6,
         "answer": "shops",
+        "options": [
+          "wages",
+          "counties",
+          "centers",
+          "shops"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 shops（shop）。结合上下文辨认词义与词形。",
         "evidence": "They are mostly in industries that support data centers, not in restaurants or shops.",
@@ -1781,6 +1805,12 @@
         "id": "c7",
         "number": 7,
         "answer": "electrical",
+        "options": [
+          "electrical",
+          "enormous",
+          "comparable",
+          "running"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 electrical（electrical）。结合上下文辨认词义与词形。",
         "evidence": "First, they can increase demand for local suppliers, from security companies that protect the facilities to electrical contractors that maintain their equipment.",
@@ -1790,6 +1820,12 @@
         "id": "c8",
         "number": 8,
         "answer": "expand",
+        "options": [
+          "proposed",
+          "expand",
+          "operating",
+          "explore"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 expand（expand）。结合上下文辨认词义与词形。",
         "evidence": "Third, companies already operating data centers may expand their facilities, while other operators may decide to build nearby.",
@@ -1799,6 +1835,12 @@
         "id": "c9",
         "number": 9,
         "answer": "assembled",
+        "options": [
+          "contributing",
+          "located",
+          "assembled",
+          "proposed"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 assembled（assemble）。结合上下文辨认词义与词形。",
         "evidence": "We assembled detailed information on 1,584 U.S. data centers that opened between 2000 and 2023.",
@@ -1808,6 +1850,12 @@
         "id": "c10",
         "number": 10,
         "answer": "matched",
+        "options": [
+          "counted",
+          "correlated",
+          "associated",
+          "matched"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 matched（match）。结合上下文辨认词义与词形。",
         "evidence": "We then matched these records with federal data on employment, wages and the number of businesses in each county.",
@@ -1896,5 +1944,8 @@
       }
     ]
   },
-  "revision": "abe21b4614a53e4553f118a8e5127ec86858892dc430901796f5271f790d4135"
+  "revision": "f81b779b33b85d1211d96bd7c4a6eaa6226574c1d1cab28ff84f5102b59f9534",
+  "compatibleProgressRevisions": [
+    "abe21b4614a53e4553f118a8e5127ec86858892dc430901796f5271f790d4135"
+  ]
 }

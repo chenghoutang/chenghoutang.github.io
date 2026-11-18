@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 5,
+  "folder": "039",
+  "articleSha256": "36bf0e4ba9c81a74754a006a32855f060a849ec2769f66a27700c2d4e3080dee",
+  "titleEn": "It’s possible to predict some El Niños a year in advance. Here’s why that matters",
+  "titleZh": "有些厄尔尼诺可提前一年预测，这为什么重要？",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "A remarkably strong El Niño has formed in the Pacific.",
+      "zh": "一个非常强大的厄尔尼诺现象已经在太平洋形成。"
+    },
+    {
+      "number": 2,
+      "en": "This natural phenomenon drives variations in temperature, rainfall and winds across the globe. The ongoing El Niño has already contributed to sudden floods in eastern Africa, blistering heatwaves in Europe and intense hurricanes in the eastern Pacific.",
+      "zh": "这一自然现象导致地球仪各地的温度、降雨量和风力发生变化，目前的厄尔尼诺现象已经造成东非突发洪水、欧洲酷热和东太平洋强烈飓风。"
+    },
+    {
+      "number": 3,
+      "en": "Australia’s Bureau of Meteorology warned us of this El Niño in June, which is currently the earliest point at which reliable predictions can be made.",
+      "zh": "澳大利亚气象局在6月就警告过我们厄尔尼诺现象，这是目前可以做出可靠预测的最早时间点。"
+    },
+    {
+      "number": 4,
+      "en": "Our new study suggests it may be possible to accurately predict some El Niños up to 12 months ahead of time, buying valuable time for farmers, emergency services and disaster-prone communities.",
+      "zh": "我们的新研究表明，有可能提前12个月准确预测一些厄尔尼诺现象，为农民，紧急服务和灾害易发社区赢得宝贵的时间。"
+    },
+    {
+      "number": 5,
+      "en": "How models predict El Niño and La Niña",
+      "zh": "模型如何预测厄尔尼诺和拉尼娜"
+    },
+    {
+      "number": 6,
+      "en": "Climate and weather forecasting largely relies on physics-based models of the Earth’s atmosphere and oceans. These models work by applying the laws of physics, such as Newton’s laws of motion, to Earth’s geography.",
+      "zh": "气候和天气预报在很大程度上依赖于基于物理学的地球大气和海洋模型。这些模型通过将物理学定律（如牛顿运动定律）应用于地球地理来工作。"
+    },
+    {
+      "number": 7,
+      "en": "A model is given information like the shapes of continents, the locations of mountains and the speed of Earth’s rotation. The models then solve equations representing the laws of physics to simulate a version of our Earth, complete with its own storms, ocean currents, waves and wind patterns.",
+      "zh": "一个模型被赋予像大陆的形状、山脉的位置和地球自转速度这样的信息。然后模型求解代表物理定律的方程，以模拟我们地球的一个版本，包括它自己的风暴、洋流、波浪和风模式。"
+    },
+    {
+      "number": 8,
+      "en": "To make predictions of El Niños and La Niñas, forecasters supply these models with information about present conditions, including ocean temperatures, currents, winds and humidity. This data comes from a vast global network of satellites, weather stations, ocean buoys and moorings.",
+      "zh": "为了预测厄尔尼诺和拉尼娜现象，预报员向这些模型提供有关当前状况的信息，包括海洋温度、海流、风和湿度，这些数据来自由卫星、气象站、海洋浮标和系泊设备组成的庞大全球网络。"
+    },
+    {
+      "number": 9,
+      "en": "The models use this information about the present as a starting point. They then simulate the ocean and atmosphere’s movements and temperatures a few months into the future, showing whether an El Niño or La Niña is about to emerge.",
+      "zh": "这些模型以目前的信息为出发点，然后模拟未来几个月的海洋和大气的运动和温度，显示厄尔尼诺或拉尼娜是否即将出现。"
+    },
+    {
+      "number": 10,
+      "en": "Why is it difficult to make early forecasts?",
+      "zh": "为什么很难做出早期预测？"
+    },
+    {
+      "number": 11,
+      "en": "In the 1960s, meteorologist Ed Lorenz and computer scientist Margaret Hamilton made a startling discovery. Using an early weather model, they found changing the starting conditions by a tiny amount, such as a millionth of a degree Celsius, could radically alter the model’s predictions.",
+      "zh": "20世纪60年代，气象学家艾德·洛伦茨和计算机科学家玛格丽特·汉密尔顿有了一个惊人的发现。他们使用早期的天气模型，发现只要稍微改变初始条件，比如百万分之一摄氏度，就可以从根本上改变模型的预测。"
+    },
+    {
+      "number": 12,
+      "en": "This spawned the mathematical field of chaos theory, the idea that no matter how perfect a model is, there are some situations where the system being predicted is so sensitive to minuscule changes, it’s almost impossible to make correct predictions. This makes it extremely difficult to form accurate forecasts of weather more than a week or two in advance.",
+      "zh": "这就催生了数学领域的混沌理论。混沌理论认为，无论一个模型多么完美，在某些情况下，被预测的系统对微小的变化非常敏感，几乎不可能做出正确的预测。这使得提前一两周做出准确的天气预报变得非常困难。"
+    },
+    {
+      "number": 13,
+      "en": "El Niños and La Niñas are largely shaped by the ocean, which moves much more slowly and takes longer to heat up and cool down, compared to the atmosphere. As a result, El Niño and La Niña predictions can be made over a longer period. These events typically peak around December and can be accurately predicted about six months ahead.",
+      "zh": "厄尔尼诺和拉尼娜现象主要是由海洋形成的，与大气相比，海洋移动得更慢，需要更长的时间来加热和冷却。因此，厄尔尼诺和拉尼娜现象的预测可以在更长的时间内进行。这些事件通常在12月左右达到高峰，可以提前大约六个月准确预测。"
+    },
+    {
+      "number": 14,
+      "en": "But these predictions also have limits. Forecasts made between March and May are notoriously unreliable. Because of the conditions in the atmosphere and ocean at this time of year, it becomes susceptible to the butterfly effect, with even small fluctuations preventing models from making accurate predictions. This period is like a Bermuda triangle for climate forecasting.",
+      "zh": "但这些预测也有局限性。众所周知，3月至5月之间的预测不可靠。由于每年这个时候大气和海洋的状况，它容易受到蝴蝶效应的影响，即使是很小的波动也会使模型无法做出准确的预测。这段时间就像是气候预测的百慕大三角。"
+    },
+    {
+      "number": 15,
+      "en": "What we studied",
+      "zh": "我们研究的内容"
+    },
+    {
+      "number": 16,
+      "en": "Our latest study examined whether it’s possible to overcome this uncertainty to reliably predict future El Niños.",
+      "zh": "我们的最新研究探讨了是否有可能克服这种不确定性来可靠地预测未来的厄尔尼诺现象。"
+    },
+    {
+      "number": 17,
+      "en": "Chaotic systems are not unpredictable all the time. Sometimes the conditions are right for good predictions. A few studies of particular years suggest some El Niño and La Niña events might be accurately predicted before the March-May period.",
+      "zh": "混沌系统并非总是不可预测的。有时候，条件适合于良好的预测。一些特定年份的研究表明，一些厄尔尼诺和拉尼娜事件可能在3月至5月期间之前被准确预测。"
+    },
+    {
+      "number": 18,
+      "en": "But our research team wanted to know for sure if we should believe early forecasts. To do this, we used a massive dataset of 7,500 forecasts generated by nine models, developed in different countries. By analysing this data, we were able to check whether early predictions came true and search for patterns in early forecast performance.",
+      "zh": "但我们的研究团队想确定我们是否应该相信早期的预测。为此，我们使用了由不同国家开发的9个模型生成的7，500个预测的庞大数据集。通过分析这些数据，我们能够检查早期预测是否成真，并寻找早期预测表现的模式。"
+    },
+    {
+      "number": 19,
+      "en": "Our findings suggest the conditions in which a forecast is made has a significant effect on its accuracy. We sorted forecasts based on what was happening in the Pacific when they were first initiated – La Niña, El Niño or neutral conditions.",
+      "zh": "我们的研究结果表明，预报的条件对其准确性有很大影响。我们根据太平洋地区首次启动时发生的情况--拉尼娜、厄尔尼诺或中性条件--对预报进行了分类。"
+    },
+    {
+      "number": 20,
+      "en": "A clear pattern emerged: forecasts that began during a La Niña were most successful in predicting what would happen a year later. By contrast, forecasts initiated in neutral conditions were very likely to be wrong.",
+      "zh": "一个明显的模式出现了：在拉尼娜现象期间开始的预测最能成功地预测一年后会发生什么，相反，在中性条件下开始的预测很可能是错误的。"
+    },
+    {
+      "number": 21,
+      "en": "These findings were consistent across all nine models we studied. This suggests La Niña conditions have a stabilising influence, meaning predictions are more likely to be reliable.",
+      "zh": "这些发现在我们研究的所有九个模型中都是一致的。这表明拉尼娜条件具有稳定影响力，这意味着预测更有可能可靠。"
+    },
+    {
+      "number": 22,
+      "en": "What next?",
+      "zh": "接下来呢？"
+    },
+    {
+      "number": 23,
+      "en": "These findings are valuable for communities worldwide. During La Niña years, we have an opportunity to make early forecasts and issue early warnings so communities, emergency responders and governments can prepare for future El Niños.",
+      "zh": "这些发现对世界各地的社区都很有价值。在拉尼娜年，我们有机会做出早期预测并发布早期警报，以便社区，应急人员和政府能够为未来的厄尔尼诺做好准备。"
+    },
+    {
+      "number": 24,
+      "en": "However, we need more research to translate these findings into practice. Studies should focus on why La Niña events support better model performance and if there are particular ocean or atmosphere patterns that can tell us when a model is making correct predictions. Research should also investigate how best to apply these findings to interpreting real-time forecasts.",
+      "zh": "然而，我们需要更多的研究来将这些发现转化为实践。研究应该集中在为什么拉尼娜事件支持更好的模式性能，以及是否有特定的海洋或大气模式可以告诉我们什么时候模式正在做出正确的预测。研究还应该调查如何最好地将这些发现应用于解释实时预报。"
+    },
+    {
+      "number": 25,
+      "en": "This information will allow scientists to distinguish between unreliable predictions and those that might protect communities from harm.",
+      "zh": "这些信息将使科学家能够区分不可靠的预测和可能保护社区免受伤害的预测。"
+    }
+  ]
+}

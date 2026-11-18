@@ -1098,23 +1098,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       6,
       14
-    ],
-    "wordBank": [
-      "rewarded",
-      "experiment",
-      "satisfaction",
-      "distance",
-      "breakthroughs",
-      "employers",
-      "extra",
-      "finance",
-      "equal",
-      "number"
     ],
     "parts": [
       {
@@ -1186,6 +1174,12 @@
         "id": "c1",
         "number": 1,
         "answer": "finance",
+        "options": [
+          "finance",
+          "thousands",
+          "split",
+          "attendance"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 finance（finance）。结合上下文辨认词义与词形。",
         "evidence": "For example, in a study involving a large online travel agency in China, more than 1,500 engineers, marketing and finance staff were allowed to work from home on Wednesdays and Fridays, while a control group stayed in the office full time.",
@@ -1195,6 +1189,12 @@
         "id": "c2",
         "number": 2,
         "answer": "equal",
+        "options": [
+          "tighten",
+          "plenty",
+          "varying",
+          "equal"
+        ],
         "vocabularyId": "v30",
         "explanation": "原文此处使用 equal（equal）。结合上下文辨认词义与词形。",
         "evidence": "Over the following two years of performance reviews, the performance of the hybrid workers was equal in quality to those who stayed in the office.",
@@ -1204,6 +1204,12 @@
         "id": "c3",
         "number": 3,
         "answer": "experiment",
+        "options": [
+          "employers",
+          "thousands",
+          "experiment",
+          "colleagues"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 experiment（experiment）。结合上下文辨认词义与词形。",
         "evidence": "A smaller experiment at an international development organisation went a step further, by randomly varying how many days 148 staff spent in the office.",
@@ -1213,6 +1219,12 @@
         "id": "c4",
         "number": 4,
         "answer": "satisfaction",
+        "options": [
+          "thousands",
+          "satisfaction",
+          "attendance",
+          "employers"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 satisfaction（satisfaction）。结合上下文辨认词义与词形。",
         "evidence": "Those who came in around two days a week said they had a better work-life balance, more job satisfaction and less isolation than colleagues who came in more or less often.",
@@ -1222,6 +1234,12 @@
         "id": "c5",
         "number": 5,
         "answer": "employers",
+        "options": [
+          "employers",
+          "counts",
+          "thousands",
+          "engineers"
+        ],
         "vocabularyId": "v9",
         "explanation": "原文此处使用 employers（employer）。结合上下文辨认词义与词形。",
         "evidence": "These studies (among others) suggest that a week split roughly half and half between home and office costs employers little, while keeping staff happier and more likely to stay.",
@@ -1231,6 +1249,12 @@
         "id": "c6",
         "number": 6,
         "answer": "distance",
+        "options": [
+          "plenty",
+          "thousands",
+          "attendance",
+          "distance"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 distance（distance）。结合上下文辨认词义与词形。",
         "evidence": "But there is also evidence that the office time counts, and that some work really does suffer at a distance.",
@@ -1240,6 +1264,12 @@
         "id": "c7",
         "number": 7,
         "answer": "breakthroughs",
+        "options": [
+          "breakthroughs",
+          "employers",
+          "disadvantages",
+          "engineers"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 breakthroughs（breakthrough）。结合上下文辨认词义与词形。",
         "evidence": "And an analysis of 20 million research papers and 4 million patents found that remote teams were less likely to produce breakthroughs.",
@@ -1249,6 +1279,12 @@
         "id": "c8",
         "number": 8,
         "answer": "extra",
+        "options": [
+          "split",
+          "extra",
+          "hybrid",
+          "balance"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 extra（extra）。结合上下文辨认词义与词形。",
         "evidence": "The extra two days bought nothing measurable in performance – but more resignations.",
@@ -1258,6 +1294,12 @@
         "id": "c9",
         "number": 9,
         "answer": "number",
+        "options": [
+          "number",
+          "suggests",
+          "brainstorming",
+          "disappeared"
+        ],
         "vocabularyId": "v21",
         "explanation": "原文此处使用 number（numb）。结合上下文辨认词义与词形。",
         "evidence": "Yet there is a risk that return-to-office rules set a minimum number of days with no maximum, so that the minimum number creeps up.",
@@ -1267,6 +1309,12 @@
         "id": "c10",
         "number": 10,
         "answer": "rewarded",
+        "options": [
+          "coordinated",
+          "employers",
+          "taste",
+          "rewarded"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 rewarded（reward）。结合上下文辨认词义与词形。",
         "evidence": "When being seen is rewarded “at least three days” can quietly become four or five days for those who want to climb the career ladder.",
@@ -1355,5 +1403,8 @@
       }
     ]
   },
-  "revision": "52264ea5e9dc92cb602597953b709100908cff63b3dbb5b8a1ed53890f6380bd"
+  "revision": "00acd0618c279dac7f05a6447e0bf5c163e075f06243445086bc08d0d6298023",
+  "compatibleProgressRevisions": [
+    "52264ea5e9dc92cb602597953b709100908cff63b3dbb5b8a1ed53890f6380bd"
+  ]
 }

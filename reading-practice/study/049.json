@@ -1375,23 +1375,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       4,
       15
-    ],
-    "wordBank": [
-      "cycling",
-      "brisk",
-      "oxygen",
-      "unsurprisingly",
-      "goers",
-      "improvements",
-      "contractions",
-      "braking",
-      "cardiovascular",
-      "comparable"
     ],
     "parts": [
       {
@@ -1463,6 +1451,12 @@
         "id": "c1",
         "number": 1,
         "answer": "cardiovascular",
+        "options": [
+          "forceful",
+          "cardiorespiratory",
+          "cardiovascular",
+          "crucial"
+        ],
         "vocabularyId": "v10",
         "explanation": "原文此处使用 cardiovascular（cardiovascular）。结合上下文辨认词义与词形。",
         "evidence": "One reason for the stair climber’s popularity is that it’s thought to provide a high-intensity way of boosting cardiovascular fitness.",
@@ -1472,6 +1466,12 @@
         "id": "c2",
         "number": 2,
         "answer": "oxygen",
+        "options": [
+          "oxygen",
+          "stair",
+          "health",
+          "fitness"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 oxygen（oxygen）。结合上下文辨认词义与词形。",
         "evidence": "But when researchers compared the cardiovascular effects of exercising at the same relative intensity on a treadmill versus a stair climber, they found that those using the stair climbers had lower heart rates and oxygen consumption scores.",
@@ -1481,6 +1481,12 @@
         "id": "c3",
         "number": 3,
         "answer": "brisk",
+        "options": [
+          "depend",
+          "promoted",
+          "stair",
+          "brisk"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 brisk（brisk）。结合上下文辨认词义与词形。",
         "evidence": "That said, stair climbing has still been shown to be just as effective as brisk treadmill walking in lowering blood pressure.",
@@ -1490,6 +1496,12 @@
         "id": "c4",
         "number": 4,
         "answer": "comparable",
+        "options": [
+          "downstairs",
+          "consistent",
+          "comparable",
+          "conventional"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 comparable（comparable）。结合上下文辨认词义与词形。",
         "evidence": "So the stair climber is about comparable to running when it comes to improving cardiovascular health.",
@@ -1499,6 +1511,12 @@
         "id": "c5",
         "number": 5,
         "answer": "goers",
+        "options": [
+          "gains",
+          "goers",
+          "fitness",
+          "upstairs"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 goers（goer）。结合上下文辨认词义与词形。",
         "evidence": "Another reason the stair climber is preferred by many gym goers is because it’s said to improve muscle health and strength more than other forms of cardio.",
@@ -1508,6 +1526,12 @@
         "id": "c6",
         "number": 6,
         "answer": "contractions",
+        "options": [
+          "contractions",
+          "fitness",
+          "gains",
+          "goers"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 contractions（contraction）。结合上下文辨认词义与词形。",
         "evidence": "Stair climbing also engages these muscles for longer and with more forceful contractions than walking.",
@@ -1517,6 +1541,12 @@
         "id": "c7",
         "number": 7,
         "answer": "unsurprisingly",
+        "options": [
+          "increasingly",
+          "consumption",
+          "slowly",
+          "unsurprisingly"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 unsurprisingly（unsurprisingly）。结合上下文辨认词义与词形。",
         "evidence": "Perhaps unsurprisingly is that stair climbing has been shown to cause changes in muscle size that are similar to those seen in people who did conventional strength training using a leg press.",
@@ -1526,6 +1556,12 @@
         "id": "c8",
         "number": 8,
         "answer": "improvements",
+        "options": [
+          "improvements",
+          "handrails",
+          "fitness",
+          "goers"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 improvements（improvement）。结合上下文辨认词义与词形。",
         "evidence": "These gains in muscle size were also associated with improvements in strength.",
@@ -1535,6 +1571,12 @@
         "id": "c9",
         "number": 9,
         "answer": "cycling",
+        "options": [
+          "braking",
+          "cycling",
+          "training",
+          "running"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 cycling（cycle）。结合上下文辨认词义与词形。",
         "evidence": "The changes in muscle size that are seen in stair climbers are greater than those seen in people who do treadmill walking or cycling.",
@@ -1544,6 +1586,12 @@
         "id": "c10",
         "number": 10,
         "answer": "braking",
+        "options": [
+          "braking",
+          "cycling",
+          "training",
+          "climbing"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 braking（brake）。结合上下文辨认词义与词形。",
         "evidence": "This is because our muscles have the additional job of braking so we don’t fall or lose balance.",
@@ -1632,5 +1680,8 @@
       }
     ]
   },
-  "revision": "b3189f2e75911aafa6e10a7b56d34a29ab181b48a220bde8197ddfb3bf6787ce"
+  "revision": "899e0cfbc6158f27fed89987a48f8a2aad26d4721fc5e3e622f401e8fcda458e",
+  "compatibleProgressRevisions": [
+    "b3189f2e75911aafa6e10a7b56d34a29ab181b48a220bde8197ddfb3bf6787ce"
+  ]
 }

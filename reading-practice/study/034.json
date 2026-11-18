@@ -2776,23 +2776,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       15,
       22
-    ],
-    "wordBank": [
-      "harbours",
-      "free-swimming",
-      "concentrate",
-      "vibrant",
-      "barracuda",
-      "builders",
-      "gradual",
-      "refuge",
-      "largely",
-      "scuttling"
     ],
     "parts": [
       {
@@ -2864,6 +2852,12 @@
         "id": "c1",
         "number": 1,
         "answer": "refuge",
+        "options": [
+          "refuge",
+          "organisms",
+          "layer",
+          "diver"
+        ],
         "vocabularyId": "v116",
         "explanation": "原文此处使用 refuge（refuge）。结合上下文辨认词义与词形。",
         "evidence": "Smaller fish will begin to find refuge to evade open-water predators.",
@@ -2873,6 +2867,12 @@
         "id": "c2",
         "number": 2,
         "answer": "barracuda",
+        "options": [
+          "mussels",
+          "ecologist",
+          "marine",
+          "barracuda"
+        ],
         "vocabularyId": "v127",
         "explanation": "原文此处使用 barracuda（barracuda）。结合上下文辨认词义与词形。",
         "evidence": "Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.",
@@ -2882,6 +2882,12 @@
         "id": "c3",
         "number": 3,
         "answer": "free-swimming",
+        "options": [
+          "free-swimming",
+          "diverse",
+          "medium-sized",
+          "underwater"
+        ],
         "vocabularyId": "v134",
         "explanation": "原文此处使用 free-swimming（free-swimming）。结合上下文辨认词义与词形。",
         "evidence": "The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt.",
@@ -2891,6 +2897,12 @@
         "id": "c4",
         "number": 4,
         "answer": "concentrate",
+        "options": [
+          "passenger",
+          "concentrate",
+          "ecologist",
+          "prospect"
+        ],
         "vocabularyId": "v140",
         "explanation": "原文此处使用 concentrate（concentrate）。结合上下文辨认词义与词形。",
         "evidence": "A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer.",
@@ -2900,6 +2912,12 @@
         "id": "c5",
         "number": 5,
         "answer": "builders",
+        "options": [
+          "liners",
+          "sponges",
+          "builders",
+          "barnacles"
+        ],
         "vocabularyId": "v144",
         "explanation": "原文此处使用 builders（builder）。结合上下文辨认词义与词形。",
         "evidence": "As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall.",
@@ -2909,6 +2927,12 @@
         "id": "c6",
         "number": 6,
         "answer": "gradual",
+        "options": [
+          "organisms",
+          "barnacles",
+          "marine",
+          "gradual"
+        ],
         "vocabularyId": "v151",
         "explanation": "原文此处使用 gradual（gradual）。结合上下文辨认词义与词形。",
         "evidence": "The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.",
@@ -2918,6 +2942,12 @@
         "id": "c7",
         "number": 7,
         "answer": "harbours",
+        "options": [
+          "harbours",
+          "sponges",
+          "depths",
+          "barnacles"
+        ],
         "vocabularyId": "v157",
         "explanation": "原文此处使用 harbours（harbour）。结合上下文辨认词义与词形。",
         "evidence": "In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish.",
@@ -2927,6 +2957,12 @@
         "id": "c8",
         "number": 8,
         "answer": "largely",
+        "options": [
+          "unusually",
+          "permanently",
+          "largely",
+          "naturally"
+        ],
         "vocabularyId": "v165",
         "explanation": "原文此处使用 largely（largely）。结合上下文辨认词义与词形。",
         "evidence": "Instead, human engineering is largely about preparing the ship for sinking.",
@@ -2936,6 +2972,12 @@
         "id": "c9",
         "number": 9,
         "answer": "scuttling",
+        "options": [
+          "scuttling",
+          "sealing",
+          "drifting",
+          "crossing"
+        ],
         "vocabularyId": "v173",
         "explanation": "原文此处使用 scuttling（scuttle）。结合上下文辨认词义与词形。",
         "evidence": "The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering.",
@@ -2945,6 +2987,12 @@
         "id": "c10",
         "number": 10,
         "answer": "vibrant",
+        "options": [
+          "nearby",
+          "famous",
+          "casual",
+          "vibrant"
+        ],
         "vocabularyId": "v182",
         "explanation": "原文此处使用 vibrant（vibrant）。结合上下文辨认词义与词形。",
         "evidence": "Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come.",
@@ -3033,5 +3081,8 @@
       }
     ]
   },
-  "revision": "73ae06dcb85ef782e8b5c7495a55b2e241fb4672f1dceddc41daf996a3319b81"
+  "revision": "da84b294676ee1834605c2557964371a101ead206a9236722e12244be3134ada",
+  "compatibleProgressRevisions": [
+    "73ae06dcb85ef782e8b5c7495a55b2e241fb4672f1dceddc41daf996a3319b81"
+  ]
 }

@@ -1779,23 +1779,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       13
-    ],
-    "wordBank": [
-      "struggle",
-      "indestructible",
-      "closely",
-      "initiatives",
-      "agricultural",
-      "extinction",
-      "threatens",
-      "machinery",
-      "habitats",
-      "aimed"
     ],
     "parts": [
       {
@@ -1867,6 +1855,12 @@
         "id": "c1",
         "number": 1,
         "answer": "closely",
+        "options": [
+          "increasingly",
+          "closely",
+          "roughly",
+          "extremely"
+        ],
         "vocabularyId": "v7",
         "explanation": "原文此处使用 closely（closely）。结合上下文辨认词义与词形。",
         "evidence": "Look closely and you might find a snake or lizard basking on a sun-warmed boulder, sheltering in a narrow crevice or even living under a loose surface rock.",
@@ -1876,6 +1870,12 @@
         "id": "c2",
         "number": 2,
         "answer": "habitats",
+        "options": [
+          "habitats",
+          "hotspots",
+          "landscapes",
+          "farms"
+        ],
         "vocabularyId": "v17",
         "explanation": "原文此处使用 habitats（habitat）。结合上下文辨认词义与词形。",
         "evidence": "Rocky habitats help reptiles control their body temperature, escape predators and survive harsh winters.",
@@ -1885,6 +1885,12 @@
         "id": "c3",
         "number": 3,
         "answer": "struggle",
+        "options": [
+          "boulder",
+          "lizard",
+          "snake",
+          "struggle"
+        ],
         "vocabularyId": "v25",
         "explanation": "原文此处使用 struggle（struggle）。结合上下文辨认词义与词形。",
         "evidence": "Without rocky habitats, many reptile species would struggle to survive, putting wider ecosystems at risk of collapse.",
@@ -1894,6 +1900,12 @@
         "id": "c4",
         "number": 4,
         "answer": "aimed",
+        "options": [
+          "aimed",
+          "creature",
+          "reviewed",
+          "reptile"
+        ],
         "vocabularyId": "v31",
         "explanation": "原文此处使用 aimed（aim）。结合上下文辨认词义与词形。",
         "evidence": "Our new study aimed both to answer this question and identify what threats rock-dwelling species face.",
@@ -1903,6 +1915,12 @@
         "id": "c5",
         "number": 5,
         "answer": "indestructible",
+        "options": [
+          "terrestrial",
+          "indestructible",
+          "proper",
+          "evolutionary"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 indestructible（indestructible）。结合上下文辨认词义与词形。",
         "evidence": "Rocky habitats may seem relatively indestructible compared to forests or other living habitats.",
@@ -1912,6 +1930,12 @@
         "id": "c6",
         "number": 6,
         "answer": "extinction",
+        "options": [
+          "extinction",
+          "creature",
+          "boulder",
+          "sheltering"
+        ],
         "vocabularyId": "v39",
         "explanation": "原文此处使用 extinction（extinction）。结合上下文辨认词义与词形。",
         "evidence": "Today, one in five reptile species is at risk of extinction.",
@@ -1921,6 +1945,12 @@
         "id": "c7",
         "number": 7,
         "answer": "threatens",
+        "options": [
+          "quarrying",
+          "survive",
+          "depend",
+          "threatens"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 threatens（threaten）。结合上下文辨认词义与词形。",
         "evidence": "In the United Arab Emirates, for instance, rapid urban development threatens the last isolated rock formation known to support the critically endangered Emirati leaf-toed gecko (Asaccus caudivolvulus).",
@@ -1930,6 +1960,12 @@
         "id": "c8",
         "number": 8,
         "answer": "machinery",
+        "options": [
+          "machinery",
+          "boulder",
+          "narrow",
+          "creature"
+        ],
         "vocabularyId": "v60",
         "explanation": "原文此处使用 machinery（machinery）。结合上下文辨认词义与词形。",
         "evidence": "It involves using specialised machinery to turn boulderfields and other rocky habitats into farmland.",
@@ -1939,6 +1975,12 @@
         "id": "c9",
         "number": 9,
         "answer": "agricultural",
+        "options": [
+          "cold-blooded",
+          "agricultural",
+          "evolutionary",
+          "terrestrial"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 agricultural（agricultural）。结合上下文辨认词义与词形。",
         "evidence": "These methods are increasingly being used in agricultural areas in Western Australia, South Australia and western Victoria, threatening the habitat of several threatened reptile species.",
@@ -1948,6 +1990,12 @@
         "id": "c10",
         "number": 10,
         "answer": "initiatives",
+        "options": [
+          "habitats",
+          "predators",
+          "initiatives",
+          "creature"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 initiatives（initiative）。结合上下文辨认词义与词形。",
         "evidence": "Despite their importance, rocky habitats are often overlooked in conservation plans and initiatives, such as the International Union for Conservation of Nature’s (IUCN) habitat classification system.",
@@ -2036,5 +2084,8 @@
       }
     ]
   },
-  "revision": "c9e1593206230cdd3d89fb6e559ea5fc6cb99424bc631111724c41a35f7ef5ca"
+  "revision": "96e978da39d89b2643866f690ebd69e413ded00067a3aaeb721af8134214020b",
+  "compatibleProgressRevisions": [
+    "c9e1593206230cdd3d89fb6e559ea5fc6cb99424bc631111724c41a35f7ef5ca"
+  ]
 }

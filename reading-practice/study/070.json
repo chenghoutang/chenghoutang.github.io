@@ -1569,23 +1569,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       16,
       29
-    ],
-    "wordBank": [
-      "maths",
-      "implemented",
-      "optimal",
-      "lacked",
-      "increasingly",
-      "demonstrate",
-      "noticeable",
-      "cognitive",
-      "critics",
-      "generative"
     ],
     "parts": [
       {
@@ -1657,6 +1645,12 @@
         "id": "c1",
         "number": 1,
         "answer": "increasingly",
+        "options": [
+          "increasingly",
+          "truly",
+          "artificial",
+          "currently"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 increasingly（increasingly）。结合上下文辨认词义与词形。",
         "evidence": "And teachers will increasingly have hard limits on the amount of time they can use technology in lessons, particularly in primary schools.",
@@ -1666,6 +1660,12 @@
         "id": "c2",
         "number": 2,
         "answer": "noticeable",
+        "options": [
+          "digital",
+          "practical",
+          "artificial",
+          "noticeable"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 noticeable（noticeable）。结合上下文辨认词义与词形。",
         "evidence": "For others, there may be no noticeable difference as they are not using technology much currently.",
@@ -1675,6 +1675,12 @@
         "id": "c3",
         "number": 3,
         "answer": "implemented",
+        "options": [
+          "flagged",
+          "outlines",
+          "implemented",
+          "repeated"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 implemented（implement）。结合上下文辨认词义与词形。",
         "evidence": "For example, phone bans are implemented at state level.",
@@ -1684,6 +1690,12 @@
         "id": "c4",
         "number": 4,
         "answer": "optimal",
+        "options": [
+          "digital",
+          "optimal",
+          "patchy",
+          "unavoidable"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 optimal（optimal）。结合上下文辨认词义与词形。",
         "evidence": "The evidence around how much technology is optimal for learning is also mixed.",
@@ -1693,6 +1705,12 @@
         "id": "c5",
         "number": 5,
         "answer": "critics",
+        "options": [
+          "critics",
+          "outlines",
+          "screens",
+          "students"
+        ],
         "vocabularyId": "v56",
         "explanation": "原文此处使用 critics（critic）。结合上下文辨认词义与词形。",
         "evidence": "But given so few students now go without technology, critics argue the comparison with non-users does not tell us anything particularly useful.",
@@ -1702,6 +1720,12 @@
         "id": "c6",
         "number": 6,
         "answer": "lacked",
+        "options": [
+          "flagged",
+          "implemented",
+          "targeted",
+          "lacked"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 lacked（lack）。结合上下文辨认词义与词形。",
         "evidence": "For decades, we have lacked sufficient evidence of their positive impact on learning.",
@@ -1711,6 +1735,12 @@
         "id": "c7",
         "number": 7,
         "answer": "maths",
+        "options": [
+          "screens",
+          "reverses",
+          "maths",
+          "outlines"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 maths（maths）。结合上下文辨认词义与词形。",
         "evidence": "For example, a 2015 OECD analysis found countries that had invested heavily in computers for schools saw no appreciable improvement in students’ reading, maths or science scores.",
@@ -1720,6 +1750,12 @@
         "id": "c8",
         "number": 8,
         "answer": "demonstrate",
+        "options": [
+          "expanding",
+          "demonstrate",
+          "dominated",
+          "invested"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 demonstrate（demonstrate）。结合上下文辨认词义与词形。",
         "evidence": "But there has not been enough onus on those selling technologies to schools to demonstrate their positive impact on learning.",
@@ -1729,6 +1765,12 @@
         "id": "c9",
         "number": 9,
         "answer": "generative",
+        "options": [
+          "generative",
+          "noticeable",
+          "comprehensive",
+          "artificial"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 generative（generative）。结合上下文辨认词义与词形。",
         "evidence": "And with the introduction of generative AI and AI agents, concerns have moved beyond a lack of evidence around the positive impact of technology on learning to a concern about negative impacts.",
@@ -1738,6 +1780,12 @@
         "id": "c10",
         "number": 10,
         "answer": "cognitive",
+        "options": [
+          "noticeable",
+          "practical",
+          "digital",
+          "cognitive"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 cognitive（cognitive）。结合上下文辨认词义与词形。",
         "evidence": "The main concern is AI use will lead to “cognitive stunting”, where repeated use of the technology can weaken learning and thinking skills.",
@@ -1826,5 +1874,8 @@
       }
     ]
   },
-  "revision": "68ded4eac2607f69be12b691880fda74f0f360197ac12d44336a11756af0eaff"
+  "revision": "b0e41c48f1819eb2de846de0c0712ca662ee752de9afef0fd38a5606464c5208",
+  "compatibleProgressRevisions": [
+    "68ded4eac2607f69be12b691880fda74f0f360197ac12d44336a11756af0eaff"
+  ]
 }

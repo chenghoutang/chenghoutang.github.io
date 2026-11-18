@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 5,
+  "folder": "085",
+  "articleSha256": "9fdae7f86cc23300befd6b5c3d33c3d7b52f050d36ca8422b47424235377637b",
+  "titleEn": "Your computer can’t read a floppy disk – so how do we save the history they hold?",
+  "titleZh": "电脑读不了软盘了，我们怎样保存其中的历史？",
+  "method": "Machine reference translation with paragraph alignment; not manually certified.",
+  "provider": "Tencent Transmart",
+  "complete": true,
+  "paragraphs": [
+    {
+      "number": 1,
+      "en": "When you think of archives, you probably think of dusty old boxes of paper documents, photos, diaries, letters and flyers, filed away in storage. But increasingly, our archival materials are digital, and material from the 1980s, 1990s and 2000s are often stored on formats like floppy disks and CD-ROMs.",
+      "zh": "当你想到档案馆时，你可能会想到尘封的旧盒子，里面装着纸质文件、照片、日记、信件和传单，被归档在仓库里。但是，我们的档案材料越来越多地是数字化的，20世纪80年代、90年代和21世纪初的材料通常以软盘和光盘等格式存储。"
+    },
+    {
+      "number": 2,
+      "en": "Aging and outdated technology has rendered decades of data, memories and cultural heritage inaccessible and at risk of being lost. The constant churn of computer hardware and software upgrades means digital content from as little as 20 years ago cannot be accessed via today’s computers.",
+      "zh": "老化和过时的技术使得数十年的数据、记忆和文化遗产无法访问，并面临丢失的风险。计算机硬件和软件升级的不断变化意味着，20年前的数字内容无法通过今天的计算机访问。"
+    },
+    {
+      "number": 3,
+      "en": "We know so little about what everyday people used computers for when they first became available. This means we don’t exactly know what we might be losing – family narratives, unpublished memoirs and other important records.",
+      "zh": "我们对电脑刚出现时人们日常使用电脑的目的知之甚少，这意味着我们不知道我们可能会失去什么--家庭故事、未出版的回忆录和其他重要记录。"
+    },
+    {
+      "number": 4,
+      "en": "So much of our history is now stored on outmoded digital platforms. To help combat this, we recently worked with members of the Royal Historical Society of Victoria to archive their own materials. Here’s some of what we found.",
+      "zh": "我们的很多历史现在都存储在过时的数字平台上。为了帮助解决这个问题，我们最近与维多利亚皇家历史学会的成员合作，将他们自己的材料存档。以下是我们发现的一些内容。"
+    },
+    {
+      "number": 5,
+      "en": "Saving the ‘born digital’",
+      "zh": "拯救“天生的数字化”"
+    },
+    {
+      "number": 6,
+      "en": "New computers don’t include CD-ROM drives, let alone floppy drives, and a lot of older software will not run on contemporary operating systems.",
+      "zh": "新的计算机不包括CD-ROM驱动器，更不用说软盘驱动器了，许多旧的软件将无法在当代操作系统上运行。"
+    },
+    {
+      "number": 7,
+      "en": "And physical storage media are deteriorating. CD-ROMs and floppy disks fail at alarming rates: in one study, only 8% of old CD-ROMs could be read today.",
+      "zh": "物理存储介质也在不断恶化，光盘和软盘的故障率令人担忧：一项研究表明，如今只有8%的旧光盘可以被读取。"
+    },
+    {
+      "number": 8,
+      "en": "“Born digital” content is artefacts that have been created using a computer. If we don’t save this content, it will not be available for future use.",
+      "zh": "“原生数字”内容是使用计算机创建的人工制品。如果我们不保存这些内容，它将无法供将来使用。"
+    },
+    {
+      "number": 9,
+      "en": "Our research is concerned with preserving the born digital, from Australian videogames of the 1980s and 1990s to interactive artworks.",
+      "zh": "我们的研究关注的是保护出生的数字，从20世纪80年代和90年代的澳大利亚视频游戏到互动艺术品。"
+    },
+    {
+      "number": 10,
+      "en": "There are three main steps in our digital preservation workflow.",
+      "zh": "在我们的数字保存工作流程中有三个主要步骤。"
+    },
+    {
+      "number": 11,
+      "en": "Create a “disk image”. Using vintage and restored drives, we can read floppy disks, CD-ROMs and Zip disks. We then make a “bit-perfect” copy – a single file which holds the entire contents, including all hidden or unused sections, of the disk.",
+      "zh": "创建一个“磁盘映像”。使用老式的和恢复的驱动器，我们可以读取软盘，CD-ROM和Zip磁盘。然后我们制作一个“比特完美”的副本-一个包含整个内容的单个文件，包括磁盘的所有隐藏或未使用的部分。"
+    },
+    {
+      "number": 12,
+      "en": "Analyse the content. Sometimes, all that’s needed is a computer’s native file explorer. At other times, additional software may be needed to view the file names and types stored on the disk.",
+      "zh": "分析内容。有时，所需要的只是计算机的本机文件资源管理器。在其他时候，可能需要额外的软件来查看存储在磁盘上的文件名和类型。"
+    },
+    {
+      "number": 13,
+      "en": "Store the new content. Freed from the need for old hardware drives to open them, the disk image files can be stored on hard drives, cloud storage or added to content management systems.",
+      "zh": "存储新内容。无需使用旧的硬件驱动器来打开它们，磁盘映像文件可以存储在硬盘驱动器、云存储或添加到内容管理系统中。"
+    },
+    {
+      "number": 14,
+      "en": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future. But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
+      "zh": "数字保存正在进行中，数字对象在未来仍需要仔细管理。但是，一旦内容从不断恶化的磁盘中解放出来，恢复的文件和磁盘映像就可以随着我们的技术变化而继续迁移。"
+    },
+    {
+      "number": 15,
+      "en": "Major galleries, libraries, archives and museums have been working for years to build and preserve digital archives. But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
+      "zh": "主要的画廊、图书馆、档案馆和博物馆多年来一直致力于建立和保存数字档案。但许多具有历史意义的内容仍然保留在个人和较小的组织中，处于正式的数字保存生态系统之外。"
+    },
+    {
+      "number": 16,
+      "en": "Into the Victorian archives",
+      "zh": "进入维多利亚时代的档案馆"
+    },
+    {
+      "number": 17,
+      "en": "To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.",
+      "zh": "为了帮助支持较小的组织和他们的档案，我们要求维多利亚的皇家历史学会的成员带来他们的数字馆藏。"
+    },
+    {
+      "number": 18,
+      "en": "Some files on CD-ROMs were able to be copied without imaging; all that was required was an inexpensive USB CD drive. Floppy disks can be much trickier as drives are increasingly rare. They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
+      "zh": "有些CD-ROM上的文件不需要镜像就可以复制，只需要一个便宜的USB光驱。软盘则要复杂得多，因为驱动器越来越少。它们需要控制器连接到当前的计算机上：其中一些有着有趣的名字，比如Greaseweazle和Applesauce。"
+    },
+    {
+      "number": 19,
+      "en": "We were excited to see what materials were brought in.",
+      "zh": "我们很兴奋地看到有什么材料被带进来。"
+    },
+    {
+      "number": 20,
+      "en": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
+      "zh": "有家谱文件，Word文档，口述历史材料，体育俱乐部记录和大型工程项目的照片。"
+    },
+    {
+      "number": 21,
+      "en": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
+      "zh": "一位当地图书馆的工作人员现在可以找到一种管理图书馆档案内容的方法，例如作曲家马丁·弗里德尔1991年澳大利亚室内歌剧《将军的诱惑》的录音。"
+    },
+    {
+      "number": 22,
+      "en": "The Wodonga Family History Society were excited to access indexes of local cemetery records, and scanned photographs of the construction of the Hume Weir.",
+      "zh": "沃东加家族历史学会很高兴能查阅当地墓地记录的索引，并扫描了休谟堰建造的照片。"
+    },
+    {
+      "number": 23,
+      "en": "One member brought six 3.5\" floppy disks with files for a discontinued genealogical program from 1996. Imaging her disks, we were able to help her re-access the data which was doubly stranded: on floppy disks and file-types particular to the old software.",
+      "zh": "一位成员带来了六张3.5英寸的软盘，里面有1996年停止的家谱程序的文件。对她的磁盘进行成像，我们能够帮助她重新访问双重搁浅的数据：软盘和旧软件特有的文件类型。"
+    },
+    {
+      "number": 24,
+      "en": "She said she was “thrilled to access the information on family members. It’s almost magic!”",
+      "zh": "她说，她“很高兴能获得家庭成员的信息。这几乎是魔术!”"
+    },
+    {
+      "number": 25,
+      "en": "And by exporting to an open file format, she will now be able to import the data into a current genealogical program.",
+      "zh": "通过导出到一个开放的文件格式，她现在将能够将数据导入到一个当前的家谱程序。"
+    },
+    {
+      "number": 26,
+      "en": "Local archives often hold information that is not stored elsewhere. Getting data off obsolete media is a start. But how they will look after their data in the future remains an open question.",
+      "zh": "地方档案馆通常保存着没有存储在其他地方的信息。从过时的媒体中获取数据是一个开始。但他们将来如何保管数据仍然是一个悬而未决的问题。"
+    },
+    {
+      "number": 27,
+      "en": "By sharing access to our equipment and know-how, we not only made a start on preserving at-risk content but reassured custodians it is possible to still access this material, despite the challenges of digital obsolescence.",
+      "zh": "通过共享我们的设备和专业知识，我们不仅开始保护有风险的内容，而且向保管人保证，尽管存在数字过时的挑战，仍然可以访问这些材料。"
+    }
+  ]
+}

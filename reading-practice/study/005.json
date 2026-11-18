@@ -1599,23 +1599,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       19,
       27
-    ],
-    "wordBank": [
-      "pulses",
-      "combine",
-      "spectrum",
-      "hiding",
-      "glare",
-      "expansion",
-      "binaries",
-      "transients",
-      "inward",
-      "two-thirds"
     ],
     "parts": [
       {
@@ -1687,6 +1675,12 @@
         "id": "c1",
         "number": 1,
         "answer": "pulses",
+        "options": [
+          "swings",
+          "pulses",
+          "cores",
+          "wobbles"
+        ],
         "vocabularyId": "v51",
         "explanation": "原文此处使用 pulses（pulse）。结合上下文辨认词义与词形。",
         "evidence": "As the pulsing object swings around its orbit, the pulses arrive up to four seconds earlier or later than expected, because the radio waves have further to travel at some points than others.",
@@ -1696,6 +1690,12 @@
         "id": "c2",
         "number": 2,
         "answer": "spectrum",
+        "options": [
+          "spectrum",
+          "waves",
+          "minutes",
+          "puzzling"
+        ],
         "vocabularyId": "v59",
         "explanation": "原文此处使用 spectrum（spectrum）。结合上下文辨认词义与词形。",
         "evidence": "The precise spectrum “fingerprint” of the Sun-like star shows it barely wobbles as the pulsing object orbits around it.",
@@ -1705,6 +1705,12 @@
         "id": "c3",
         "number": 3,
         "answer": "combine",
+        "options": [
+          "traced",
+          "radio",
+          "transients",
+          "combine"
+        ],
         "vocabularyId": "v71",
         "explanation": "原文此处使用 combine（combine）。结合上下文辨认词义与词形。",
         "evidence": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
@@ -1714,6 +1720,12 @@
         "id": "c4",
         "number": 4,
         "answer": "two-thirds",
+        "options": [
+          "two-thirds",
+          "flashes",
+          "minutes",
+          "transients"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 two-thirds（two-thirds）。结合上下文辨认词义与词形。",
         "evidence": "When we combine the calculation of the size of the orbit, how long each orbit takes, and the spectrum measurements, we can work out that the pulsing object is about two-thirds as heavy as the Sun.",
@@ -1723,6 +1735,12 @@
         "id": "c5",
         "number": 5,
         "answer": "hiding",
+        "options": [
+          "minutes",
+          "hiding",
+          "repeating",
+          "radio"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 hiding（hide）。结合上下文辨认词义与词形。",
         "evidence": "What strange systems are hiding in the dark?",
@@ -1732,6 +1750,12 @@
         "id": "c6",
         "number": 6,
         "answer": "inward",
+        "options": [
+          "outer",
+          "optical",
+          "inward",
+          "interstellar"
+        ],
         "vocabularyId": "v81",
         "explanation": "原文此处使用 inward（inward）。结合上下文辨认词义与词形。",
         "evidence": "We think the star that became the white dwarf must have first swelled into a giant, engulfing its companion, which spiralled inward and shrank the orbit before the giant’s outer layers were ejected.",
@@ -1741,6 +1765,12 @@
         "id": "c7",
         "number": 7,
         "answer": "glare",
+        "options": [
+          "minutes",
+          "radio",
+          "binary",
+          "glare"
+        ],
         "vocabularyId": "v87",
         "explanation": "原文此处使用 glare（glare）。结合上下文辨认词义与词形。",
         "evidence": "The glare of the bright star hides the faint white dwarf.",
@@ -1750,6 +1780,12 @@
         "id": "c8",
         "number": 8,
         "answer": "transients",
+        "options": [
+          "transients",
+          "minutes",
+          "explanations",
+          "flashes"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 transients（transient）。结合上下文辨认词义与词形。",
         "evidence": "If more long-period transients turn out to be hiding white dwarfs around bright stars, radio surveys could uncover a whole undiscovered population that optical and X-ray telescopes miss.",
@@ -1759,6 +1795,12 @@
         "id": "c9",
         "number": 9,
         "answer": "binaries",
+        "options": [
+          "cores",
+          "binaries",
+          "waves",
+          "flashes"
+        ],
         "vocabularyId": "v13",
         "explanation": "原文此处使用 binaries（binary）。结合上下文辨认词义与词形。",
         "evidence": "This is important because some white dwarf binaries are thought to be the ancestors of Type Ia supernovae.",
@@ -1768,6 +1810,12 @@
         "id": "c10",
         "number": 10,
         "answer": "expansion",
+        "options": [
+          "minutes",
+          "puzzling",
+          "expansion",
+          "flashes"
+        ],
         "vocabularyId": "v102",
         "explanation": "原文此处使用 expansion（expansion）。结合上下文辨认词义与词形。",
         "evidence": "Astronomers use these exploding stars as “standard candles” – reference points to measure interstellar distances and the expansion of the universe.",
@@ -1856,5 +1904,8 @@
       }
     ]
   },
-  "revision": "3e7f384d54108d270c4013782cd0768cdbdd5fa48873c404c205722dec933373"
+  "revision": "87bdb63f795ae36f25aefc74a7834a10429f2957d07fec431d1f26dc43da36d1",
+  "compatibleProgressRevisions": [
+    "3e7f384d54108d270c4013782cd0768cdbdd5fa48873c404c205722dec933373"
+  ]
 }

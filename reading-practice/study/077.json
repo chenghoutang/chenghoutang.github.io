@@ -2180,23 +2180,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       21
-    ],
-    "wordBank": [
-      "sailed",
-      "annoyance",
-      "explorers",
-      "lectures",
-      "exploration",
-      "bookshop",
-      "celebrity",
-      "Merchant",
-      "amazed",
-      "emotions"
     ],
     "parts": [
       {
@@ -2268,6 +2256,12 @@
         "id": "c1",
         "number": 1,
         "answer": "sailed",
+        "options": [
+          "trudged",
+          "sailed",
+          "unknown",
+          "trapped"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 sailed（sail）。结合上下文辨认词义与词形。",
         "evidence": "The Discovery was still trapped in the ice and, with winter closing in, Scott ordered that Shackleton return to New Zealand when the Morning sailed northwards on March 2 1903.",
@@ -2277,6 +2271,12 @@
         "id": "c2",
         "number": 2,
         "answer": "celebrity",
+        "options": [
+          "celebrity",
+          "unknown",
+          "venture",
+          "donors"
+        ],
         "vocabularyId": "v102",
         "explanation": "原文此处使用 celebrity（celebrity）。结合上下文辨认词义与词形。",
         "evidence": "Early return and celebrity",
@@ -2286,6 +2286,12 @@
         "id": "c3",
         "number": 3,
         "answer": "exploration",
+        "options": [
+          "explorers",
+          "darkness",
+          "zoologist",
+          "exploration"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 exploration（exploration）。结合上下文辨认词义与词形。",
         "evidence": "While Scott sent him back with a glowing reference, he had been pronounced unfit for further Antarctic exploration.",
@@ -2295,6 +2301,12 @@
         "id": "c4",
         "number": 4,
         "answer": "emotions",
+        "options": [
+          "emotions",
+          "darkness",
+          "southwards",
+          "donors"
+        ],
         "vocabularyId": "v113",
         "explanation": "原文此处使用 emotions（emotion）。结合上下文辨认词义与词形。",
         "evidence": "Shackleton’s diaries show that he felt a mix of emotions: frustration, embarrassment and disappointment.",
@@ -2304,6 +2316,12 @@
         "id": "c5",
         "number": 5,
         "answer": "amazed",
+        "options": [
+          "explored",
+          "amazed",
+          "weakened",
+          "selected"
+        ],
         "vocabularyId": "v118",
         "explanation": "原文此处使用 amazed（amaze）。结合上下文辨认词义与词形。",
         "evidence": "Yet studying this period, what amazed me was how Shackleton took advantage of his early return to Britain.",
@@ -2313,6 +2331,12 @@
         "id": "c6",
         "number": 6,
         "answer": "lectures",
+        "options": [
+          "huskies",
+          "donors",
+          "lectures",
+          "progress"
+        ],
         "vocabularyId": "v122",
         "explanation": "原文此处使用 lectures（lecture）。结合上下文辨认词义与词形。",
         "evidence": "He wrote articles for The Illustrated London News and Pearson’s Magazine and gave lectures to enthralled audiences, eager to hear about his amazing journey towards the South Pole.",
@@ -2322,6 +2346,12 @@
         "id": "c7",
         "number": 7,
         "answer": "explorers",
+        "options": [
+          "huskies",
+          "progress",
+          "donors",
+          "explorers"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 explorers（explorer）。结合上下文辨认词义与词形。",
         "evidence": "Shackleton was also involved in equipping a relief vessel, the Dundee whaler Terra Nova, to help free the explorers from the ice the following year.",
@@ -2331,6 +2361,12 @@
         "id": "c8",
         "number": 8,
         "answer": "Merchant",
+        "options": [
+          "Merchant",
+          "unknown",
+          "donors",
+          "leadership"
+        ],
         "vocabularyId": "v18",
         "explanation": "原文此处使用 Merchant（merchant）。结合上下文辨认词义与词形。",
         "evidence": "The Discovery expedition transformed Shackleton from an unknown officer in the Merchant Navy into one of the best-known polar explorers in Britain.",
@@ -2340,6 +2376,12 @@
         "id": "c9",
         "number": 9,
         "answer": "annoyance",
+        "options": [
+          "sinking",
+          "annoyance",
+          "explorers",
+          "donors"
+        ],
         "vocabularyId": "v138",
         "explanation": "原文此处使用 annoyance（annoyance）。结合上下文辨认词义与词形。",
         "evidence": "He’d also built a wealth of logistical experience and connections that left him perfectly placed to launch an expedition of his own – which he did in 1907, much to Scott’s annoyance.",
@@ -2349,6 +2391,12 @@
         "id": "c10",
         "number": 10,
         "answer": "bookshop",
+        "options": [
+          "explorers",
+          "leadership",
+          "bookshop",
+          "unknown"
+        ],
         "vocabularyId": "v143",
         "explanation": "原文此处使用 bookshop（bookshop）。结合上下文辨认词义与词形。",
         "evidence": "This article features references to books that have been included for editorial reasons, and may contain links to bookshop.org.",
@@ -2437,5 +2485,8 @@
       }
     ]
   },
-  "revision": "6c5f8b453178062a20c63ceea162ba0a8d32d3f060b8a5544bdbd9cb34af6e2f"
+  "revision": "d11c99ce2dda07035b4eb3dffc12848aad942e9baa496fbb2d3ef4c224d1095a",
+  "compatibleProgressRevisions": [
+    "6c5f8b453178062a20c63ceea162ba0a8d32d3f060b8a5544bdbd9cb34af6e2f"
+  ]
 }

@@ -1751,23 +1751,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       12,
       25
-    ],
-    "wordBank": [
-      "software",
-      "discontinued",
-      "Digital",
-      "engineering",
-      "holdings",
-      "magic",
-      "playful",
-      "composer",
-      "migrated",
-      "formal"
     ],
     "parts": [
       {
@@ -1839,6 +1827,12 @@
         "id": "c1",
         "number": 1,
         "answer": "software",
+        "options": [
+          "archives",
+          "software",
+          "diaries",
+          "flyers"
+        ],
         "vocabularyId": "v27",
         "explanation": "原文此处使用 software（software）。结合上下文辨认词义与词形。",
         "evidence": "At other times, additional software may be needed to view the file names and types stored on the disk.",
@@ -1848,6 +1842,12 @@
         "id": "c2",
         "number": 2,
         "answer": "Digital",
+        "options": [
+          "playful",
+          "careful",
+          "Digital",
+          "archival"
+        ],
         "vocabularyId": "v10",
         "explanation": "原文此处使用 Digital（digital）。结合上下文辨认词义与词形。",
         "evidence": "Digital preservation is ongoing, and digital objects will still require careful stewardship into the future.",
@@ -1857,6 +1857,12 @@
         "id": "c3",
         "number": 3,
         "answer": "migrated",
+        "options": [
+          "liberated",
+          "restored",
+          "outmoded",
+          "migrated"
+        ],
         "vocabularyId": "v69",
         "explanation": "原文此处使用 migrated（migrate）。结合上下文辨认词义与词形。",
         "evidence": "But once content has been liberated from deteriorating disks, the recovered files and disk images can continue to be migrated as our technology changes.",
@@ -1866,6 +1872,12 @@
         "id": "c4",
         "number": 4,
         "answer": "formal",
+        "options": [
+          "formal",
+          "interactive",
+          "playful",
+          "digital"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 formal（formal）。结合上下文辨认词义与词形。",
         "evidence": "But much historically significant content remains with individuals and smaller organisations, outside of formal digital preservation ecosystems.",
@@ -1875,6 +1887,12 @@
         "id": "c5",
         "number": 5,
         "answer": "holdings",
+        "options": [
+          "formats",
+          "holdings",
+          "upgrades",
+          "diaries"
+        ],
         "vocabularyId": "v77",
         "explanation": "原文此处使用 holdings（holdings）。结合上下文辨认词义与词形。",
         "evidence": "To help support smaller organisations and their archives, we asked members of the Royal Historical Society of Victoria to bring in their digital holdings.",
@@ -1884,6 +1902,12 @@
         "id": "c6",
         "number": 6,
         "answer": "playful",
+        "options": [
+          "archival",
+          "inexpensive",
+          "playful",
+          "formal"
+        ],
         "vocabularyId": "v83",
         "explanation": "原文此处使用 playful（playful）。结合上下文辨认词义与词形。",
         "evidence": "They require controllers to connect to current computers: some of these have playful names like Greaseweazle and Applesauce.",
@@ -1893,6 +1917,12 @@
         "id": "c7",
         "number": 7,
         "answer": "engineering",
+        "options": [
+          "preserving",
+          "alarming",
+          "documents",
+          "engineering"
+        ],
         "vocabularyId": "v90",
         "explanation": "原文此处使用 engineering（engineer）。结合上下文辨认词义与词形。",
         "evidence": "There were genealogical files, Word documents, oral history materials, sporting club records and photographs of large engineering projects.",
@@ -1902,6 +1932,12 @@
         "id": "c8",
         "number": 8,
         "answer": "composer",
+        "options": [
+          "composer",
+          "formats",
+          "storage",
+          "diaries"
+        ],
         "vocabularyId": "v96",
         "explanation": "原文此处使用 composer（composer）。结合上下文辨认词义与词形。",
         "evidence": "One local library staff member could now see a way to manage the archival content the library holds, such as recordings of the 1991 Australian chamber opera Seduction of a General by composer Martin Friedel.",
@@ -1911,6 +1947,12 @@
         "id": "c9",
         "number": 9,
         "answer": "discontinued",
+        "options": [
+          "reassured",
+          "liberated",
+          "discontinued",
+          "outmoded"
+        ],
         "vocabularyId": "v102",
         "explanation": "原文此处使用 discontinued（discontinue）。结合上下文辨认词义与词形。",
         "evidence": "One member brought six 3.5\" floppy disks with files for a discontinued genealogical program from 1996.",
@@ -1920,6 +1962,12 @@
         "id": "c10",
         "number": 10,
         "answer": "magic",
+        "options": [
+          "magic",
+          "storage",
+          "filed",
+          "disks"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 magic（magic）。结合上下文辨认词义与词形。",
         "evidence": "She said she was “thrilled to access the information on family members. It’s almost magic!”",
@@ -2008,5 +2056,8 @@
       }
     ]
   },
-  "revision": "43606c59d0823fc6149b3dadfcbe3b8c797962ea49774c552bd91bcc7aebd475"
+  "revision": "c6067745b6fc0021e0d142d794704a14c196aa0ca9e31448b1f5679a0d36f974",
+  "compatibleProgressRevisions": [
+    "43606c59d0823fc6149b3dadfcbe3b8c797962ea49774c552bd91bcc7aebd475"
+  ]
 }

@@ -2184,23 +2184,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       5,
       12
-    ],
-    "wordBank": [
-      "trilogy",
-      "ferocity",
-      "masterpiece",
-      "resemble",
-      "captured",
-      "scholar",
-      "transformation",
-      "imprint",
-      "heavily",
-      "creatures"
     ],
     "parts": [
       {
@@ -2272,6 +2260,12 @@
         "id": "c1",
         "number": 1,
         "answer": "heavily",
+        "options": [
+          "heavily",
+          "scholar",
+          "margins",
+          "hardly"
+        ],
         "vocabularyId": "v44",
         "explanation": "原文此处使用 heavily（heavily）。结合上下文辨认词义与词形。",
         "evidence": "Moreover, Tolkien heavily borrowed from what he called the “linguistic aesthetics” of Finnish for his invented Elvish language Quenya.",
@@ -2281,6 +2275,12 @@
         "id": "c2",
         "number": 2,
         "answer": "trilogy",
+        "options": [
+          "creator",
+          "scholar",
+          "trilogy",
+          "allusions"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 trilogy（trilogy）。结合上下文辨认词义与词形。",
         "evidence": "Even bearing this in mind, Jansson’s black-and-white illustrations are very clearly a product of a world before Peter Jackson’s Lord of the Rings trilogy (2001-2003) set the benchmark for visual adaptations of Tolkien’s work.",
@@ -2290,6 +2290,12 @@
         "id": "c3",
         "number": 3,
         "answer": "transformation",
+        "options": [
+          "transformation",
+          "imaginations",
+          "personality",
+          "masterpiece"
+        ],
         "vocabularyId": "v63",
         "explanation": "原文此处使用 transformation（transformation）。结合上下文辨认词义与词形。",
         "evidence": "It would take the transformation of The Lord of the Rings into a full-blown cultural phenomenon in the late 1960s to do that.",
@@ -2299,6 +2305,12 @@
         "id": "c4",
         "number": 4,
         "answer": "masterpiece",
+        "options": [
+          "explanations",
+          "references",
+          "illustrations",
+          "masterpiece"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 masterpiece（masterpiece）。结合上下文辨认词义与词形。",
         "evidence": "This gave artists greater license to interpret The Hobbit as a standalone work of children’s literature, rather than as a prequel to an epic masterpiece.",
@@ -2308,6 +2320,12 @@
         "id": "c5",
         "number": 5,
         "answer": "scholar",
+        "options": [
+          "scholar",
+          "references",
+          "landscape",
+          "editions"
+        ],
         "vocabularyId": "v8",
         "explanation": "原文此处使用 scholar（scholar）。结合上下文辨认词义与词形。",
         "evidence": "As scholar of children’s literature Olga Holownia has explained: “An opportunity to create horror-infused landscapes was Jansson’s key motivation behind taking on the Tolkien commission.",
@@ -2317,6 +2335,12 @@
         "id": "c6",
         "number": 6,
         "answer": "ferocity",
+        "options": [
+          "creator",
+          "references",
+          "ferocity",
+          "scholar"
+        ],
         "vocabularyId": "v88",
         "explanation": "原文此处使用 ferocity（ferocity）。结合上下文辨认词义与词形。",
         "evidence": "She found the scenery ‘seductive in its macabre ferocity’.”",
@@ -2326,6 +2350,12 @@
         "id": "c7",
         "number": 7,
         "answer": "imprint",
+        "options": [
+          "imprint",
+          "landscape",
+          "novel",
+          "allusions"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 imprint（imprint）。结合上下文辨认词义与词形。",
         "evidence": "Filled with dynamic movement and a sense of the sublime, it showcases a different side of her visual personality, even as its bears her unmistakable artistic imprint.",
@@ -2335,6 +2365,12 @@
         "id": "c8",
         "number": 8,
         "answer": "resemble",
+        "options": [
+          "opined",
+          "soften",
+          "solidified",
+          "resemble"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 resemble（resemble）。结合上下文辨认词义与词形。",
         "evidence": "But the Misty Mountains are as far from Moominvalley as it’s possible to get, and the ruined gates of the Lonely Mountain resemble the monstrous jaws of Smaug the dragon himself, with plumes of billowing steam and dragon-fire.",
@@ -2344,6 +2380,12 @@
         "id": "c9",
         "number": 9,
         "answer": "creatures",
+        "options": [
+          "references",
+          "parallels",
+          "creatures",
+          "imaginations"
+        ],
         "vocabularyId": "v114",
         "explanation": "原文此处使用 creatures（creature）。结合上下文辨认词义与词形。",
         "evidence": "Here and elsewhere, the characters are literally dwarfed by the landscapes they move through and the creatures they meet there.",
@@ -2353,6 +2395,12 @@
         "id": "c10",
         "number": 10,
         "answer": "captured",
+        "options": [
+          "beloved",
+          "captured",
+          "climbed",
+          "shaped"
+        ],
         "vocabularyId": "v122",
         "explanation": "原文此处使用 captured（capture）。结合上下文辨认词义与词形。",
         "evidence": "But I would argue that Jansson captured the “ecstatic truth” of being a small person in a vast and imposing world – that is to say, of being a child.",
@@ -2441,5 +2489,8 @@
       }
     ]
   },
-  "revision": "d15ae5ae06c60f58089dd3bc6968fd87cd646ccaf339497d8bc781c74c69c048"
+  "revision": "937f5889552ae479db9bfad3fabf1381b114adc45fedcb484533d2158d8273ad",
+  "compatibleProgressRevisions": [
+    "d15ae5ae06c60f58089dd3bc6968fd87cd646ccaf339497d8bc781c74c69c048"
+  ]
 }

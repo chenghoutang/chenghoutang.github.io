@@ -1863,23 +1863,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       11,
       24
-    ],
-    "wordBank": [
-      "border",
-      "associated",
-      "towards",
-      "open-mindedness",
-      "extensively",
-      "paradise",
-      "liberalism",
-      "pronounced",
-      "producers",
-      "shaped"
     ],
     "parts": [
       {
@@ -1951,6 +1939,12 @@
         "id": "c1",
         "number": 1,
         "answer": "paradise",
+        "options": [
+          "paradise",
+          "tolerance",
+          "liberal",
+          "reputation"
+        ],
         "vocabularyId": "v57",
         "explanation": "原文此处使用 paradise（paradise）。结合上下文辨认词义与词形。",
         "evidence": "‘A porn paradise’",
@@ -1960,6 +1954,12 @@
         "id": "c2",
         "number": 2,
         "answer": "border",
+        "options": [
+          "communist",
+          "divide",
+          "liberal",
+          "border"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 border（border）。结合上下文辨认词义与词形。",
         "evidence": "People, products and money began moving across the border.",
@@ -1969,6 +1969,12 @@
         "id": "c3",
         "number": 3,
         "answer": "producers",
+        "options": [
+          "lifestyles",
+          "reactions",
+          "producers",
+          "aspects"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 producers（producer）。结合上下文辨认词义与词形。",
         "evidence": "Danish producers gained access to a much larger market south of the border.",
@@ -1978,6 +1984,12 @@
         "id": "c4",
         "number": 4,
         "answer": "associated",
+        "options": [
+          "openness",
+          "associated",
+          "gained",
+          "shaped"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 associated（associate）。结合上下文辨认词义与词形。",
         "evidence": "Our research into West German reactions to Denmark’s liberalisation between 1965 and 1985 shows how the country became associated with a new kind of sexual freedom.",
@@ -1987,6 +1999,12 @@
         "id": "c5",
         "number": 5,
         "answer": "pronounced",
+        "options": [
+          "pronounced",
+          "inspired",
+          "frustrated",
+          "complicated"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 pronounced（pronounce）。结合上下文辨认词义与词形。",
         "evidence": "And Denmark developed its own naturist culture, not least inspired by the German movement of freikörperkultur (pronounced FRY-kur-per-kul-toor) or “free body culture”.",
@@ -1996,6 +2014,12 @@
         "id": "c6",
         "number": 6,
         "answer": "liberalism",
+        "options": [
+          "sexuality",
+          "reputation",
+          "openness",
+          "liberalism"
+        ],
         "vocabularyId": "v80",
         "explanation": "原文此处使用 liberalism（liberalism）。结合上下文辨认词义与词形。",
         "evidence": "Over time, these developments helped turn Denmark’s reputation for social liberalism into something more than an international image.",
@@ -2005,6 +2029,12 @@
         "id": "c7",
         "number": 7,
         "answer": "open-mindedness",
+        "options": [
+          "open-mindedness",
+          "reactions",
+          "famous",
+          "onwards"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 open-mindedness（open-mindedness）。结合上下文辨认词义与词形。",
         "evidence": "One was frisind (pronounced free-sin) – a word that can mean open-mindedness, tolerance or freedom from conventional moral constraints.",
@@ -2014,6 +2044,12 @@
         "id": "c8",
         "number": 8,
         "answer": "towards",
+        "options": [
+          "openness",
+          "towards",
+          "activists",
+          "onwards"
+        ],
         "vocabularyId": "v87",
         "explanation": "原文此处使用 towards（towards）。结合上下文辨认词义与词形。",
         "evidence": "The Canon described frisind in terms of openness towards traditional moral ideas, the body and sexuality.",
@@ -2023,6 +2059,12 @@
         "id": "c9",
         "number": 9,
         "answer": "shaped",
+        "options": [
+          "gained",
+          "liberal",
+          "shaped",
+          "contested"
+        ],
         "vocabularyId": "v92",
         "explanation": "原文此处使用 shaped（shape）。结合上下文辨认词义与词形。",
         "evidence": "By this point, what had once been a contested and internationally shaped reputation had become something that could be presented as part of Denmark’s cultural heritage.",
@@ -2032,6 +2074,12 @@
         "id": "c10",
         "number": 10,
         "answer": "extensively",
+        "options": [
+          "unusually",
+          "differently",
+          "uniquely",
+          "extensively"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 extensively（extensively）。结合上下文辨认词义与词形。",
         "evidence": "The Danish criminologist Berl Kutchinsky (1935-1995) studied the liberalisation of pornography extensively and he was sceptical of precisely this idea.",
@@ -2120,5 +2168,8 @@
       }
     ]
   },
-  "revision": "22d8259921321360d2e9c870422a435cb1599f10da8043ce5805b2b624057fbb"
+  "revision": "4ae7b26e97bc019249d4379a4aa47efa559fcecff6eabd27003f9999272fdae9",
+  "compatibleProgressRevisions": [
+    "22d8259921321360d2e9c870422a435cb1599f10da8043ce5805b2b624057fbb"
+  ]
 }

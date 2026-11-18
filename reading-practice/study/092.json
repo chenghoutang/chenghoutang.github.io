@@ -1501,23 +1501,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       13,
       20
-    ],
-    "wordBank": [
-      "trusting",
-      "expertise",
-      "uncertainty",
-      "sequence",
-      "flips",
-      "insight",
-      "broadly",
-      "otherwise",
-      "significantly",
-      "psychology"
     ],
     "parts": [
       {
@@ -1589,6 +1577,12 @@
         "id": "c1",
         "number": 1,
         "answer": "flips",
+        "options": [
+          "flips",
+          "incentives",
+          "colleagues",
+          "pensions"
+        ],
         "vocabularyId": "v65",
         "explanation": "原文此处使用 flips（flip）。结合上下文辨认词义与词形。",
         "evidence": "Students were asked to imagine two coin flips, risking £25 on one and £100 on the other, and named the smallest prize that would make each worth playing.",
@@ -1598,6 +1592,12 @@
         "id": "c2",
         "number": 2,
         "answer": "broadly",
+        "options": [
+          "rationally",
+          "reliably",
+          "broadly",
+          "surprisingly"
+        ],
         "vocabularyId": "v67",
         "explanation": "原文此处使用 broadly（broadly）。结合上下文辨认词义与词形。",
         "evidence": "Across both flips, around 75% asked for more than they stood to lose (indicating loss aversion), broadly in line with findings from research involving people in 53 countries.",
@@ -1607,6 +1607,12 @@
         "id": "c3",
         "number": 3,
         "answer": "otherwise",
+        "options": [
+          "otherwise",
+          "jittery",
+          "prone",
+          "conscious"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 otherwise（otherwise）。结合上下文辨认词义与词形。",
         "evidence": "It would be reassuring to think people studying for a finance masters – several with real trading experience already – would be less susceptible to these bases. Our results suggest otherwise.",
@@ -1616,6 +1622,12 @@
         "id": "c4",
         "number": 4,
         "answer": "expertise",
+        "options": [
+          "climbs",
+          "profit",
+          "judgment",
+          "expertise"
+        ],
         "vocabularyId": "v74",
         "explanation": "原文此处使用 expertise（expertise）。结合上下文辨认词义与词形。",
         "evidence": "And we measured them once, not as their expertise grew as time progressed.",
@@ -1625,6 +1637,12 @@
         "id": "c5",
         "number": 5,
         "answer": "uncertainty",
+        "options": [
+          "training",
+          "overconfidence",
+          "uncertainty",
+          "outcomes"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 uncertainty（uncertainty）。结合上下文辨认词义与词形。",
         "evidence": "They are about how the mind processes wins, losses and uncertainty, often automatically, before conscious reasoning gets a look in.",
@@ -1634,6 +1652,12 @@
         "id": "c6",
         "number": 6,
         "answer": "sequence",
+        "options": [
+          "finance",
+          "sequence",
+          "climbs",
+          "blame"
+        ],
         "vocabularyId": "v82",
         "explanation": "原文此处使用 sequence（sequence）。结合上下文辨认词义与词形。",
         "evidence": "There was, however, an encouraging sign after a structured sequence of exercises, comparing predictions against outcomes, reviewing their own trading data and reflecting on decisions.",
@@ -1643,6 +1667,12 @@
         "id": "c7",
         "number": 7,
         "answer": "significantly",
+        "options": [
+          "significantly",
+          "rarely",
+          "surprisingly",
+          "reliably"
+        ],
         "vocabularyId": "v85",
         "explanation": "原文此处使用 significantly（significantly）。结合上下文辨认词义与词形。",
         "evidence": "The self-rated understanding of all three biases by students improved significantly.",
@@ -1652,6 +1682,12 @@
         "id": "c8",
         "number": 8,
         "answer": "insight",
+        "options": [
+          "blame",
+          "climbs",
+          "training",
+          "insight"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 insight（insight）。结合上下文辨认词义与词形。",
         "evidence": "As the study itself notes, insight is a start, but it doesn’t guarantee different decisions.",
@@ -1661,6 +1697,12 @@
         "id": "c9",
         "number": 9,
         "answer": "psychology",
+        "options": [
+          "colleagues",
+          "training",
+          "psychology",
+          "outcomes"
+        ],
         "vocabularyId": "v46",
         "explanation": "原文此处使用 psychology（psychology）。结合上下文辨认词义与词形。",
         "evidence": "None of this means investors are doomed to be led astray by their own psychology, but simply knowing the theory isn’t enough.",
@@ -1670,6 +1712,12 @@
         "id": "c10",
         "number": 10,
         "answer": "trusting",
+        "options": [
+          "climbs",
+          "trusting",
+          "reviewing",
+          "setting"
+        ],
         "vocabularyId": "v95",
         "explanation": "原文此处使用 trusting（trust）。结合上下文辨认词义与词形。",
         "evidence": "In other words, writing down what they expected before deciding, then honestly comparing it with what happened, reviewing their own trading history for patterns rather than trusting memory, and also setting rules for buying and selling in advance, not in the heat of the moment.",
@@ -1758,5 +1806,8 @@
       }
     ]
   },
-  "revision": "f2e6451cfce7d0576e8b1b1d32b2fc904cea23c6b92cede4dcb5d0249f4c2454"
+  "revision": "bfba59b28ce432a201544c2f0fa8d10d7d32bea4bbcd1222e5d93444a02c4452",
+  "compatibleProgressRevisions": [
+    "f2e6451cfce7d0576e8b1b1d32b2fc904cea23c6b92cede4dcb5d0249f4c2454"
+  ]
 }

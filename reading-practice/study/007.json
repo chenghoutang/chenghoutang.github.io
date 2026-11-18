@@ -2179,23 +2179,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       1,
       15
-    ],
-    "wordBank": [
-      "bacteriophages",
-      "investigate",
-      "modifying",
-      "lecture",
-      "fight",
-      "number",
-      "proteins",
-      "threatening",
-      "misuse",
-      "harmful"
     ],
     "parts": [
       {
@@ -2267,6 +2255,12 @@
         "id": "c1",
         "number": 1,
         "answer": "bacteriophages",
+        "options": [
+          "entities",
+          "antibiotics",
+          "instructions",
+          "bacteriophages"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 bacteriophages（bacteriophage）。结合上下文辨认词义与词形。",
         "evidence": "But bacteriophages, or simply phages, are among the most abundant biological entities on the planet.",
@@ -2276,6 +2270,12 @@
         "id": "c2",
         "number": 2,
         "answer": "threatening",
+        "options": [
+          "encoding",
+          "invading",
+          "threatening",
+          "reproduce"
+        ],
         "vocabularyId": "v20",
         "explanation": "原文此处使用 threatening（threaten）。结合上下文辨认词义与词形。",
         "evidence": "These microscopic agents are viruses that can infect and kill bacteria, offering an intriguing alternative to antibiotics at a time that drug-resistant infections are threatening global health.",
@@ -2285,6 +2285,12 @@
         "id": "c3",
         "number": 3,
         "answer": "investigate",
+        "options": [
+          "threatening",
+          "investigate",
+          "invading",
+          "modifying"
+        ],
         "vocabularyId": "v29",
         "explanation": "原文此处使用 investigate（investigate）。结合上下文辨认词义与词形。",
         "evidence": "Now, our new research offers a way to investigate them in greater detail.",
@@ -2294,6 +2300,12 @@
         "id": "c4",
         "number": 4,
         "answer": "harmful",
+        "options": [
+          "harmful",
+          "bacterial",
+          "random",
+          "biological"
+        ],
         "vocabularyId": "v35",
         "explanation": "原文此处使用 harmful（harmful）。结合上下文辨认词义与词形。",
         "evidence": "This might eventually help researchers engineer phages that are better at attacking harmful bacteria – opening up possibilities for treating infections that conventional antibiotics struggle against.",
@@ -2303,6 +2315,12 @@
         "id": "c5",
         "number": 5,
         "answer": "fight",
+        "options": [
+          "phages",
+          "entities",
+          "mystery",
+          "fight"
+        ],
         "vocabularyId": "v40",
         "explanation": "原文此处使用 fight（fight）。结合上下文辨认词义与词形。",
         "evidence": "Long before antibiotics became the standard treatment for bacterial infections, doctors were using phages to fight them.",
@@ -2312,6 +2330,12 @@
         "id": "c6",
         "number": 6,
         "answer": "lecture",
+        "options": [
+          "lecture",
+          "bacteria",
+          "entities",
+          "spacecraft"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 lecture（lecture）。结合上下文辨认词义与词形。",
         "evidence": "In his 1945 Nobel Prize lecture, Alexander Fleming, who discovered penicillin, warned that bacteria could develop resistance to antibiotics.",
@@ -2321,6 +2345,12 @@
         "id": "c7",
         "number": 7,
         "answer": "misuse",
+        "options": [
+          "viruses",
+          "misuse",
+          "genes",
+          "planet"
+        ],
         "vocabularyId": "v55",
         "explanation": "原文此处使用 misuse（misuse）。结合上下文辨认词义与词形。",
         "evidence": "As new antibiotics were developed, resistant bacteria emerged, helped by the overuse and misuse of these drugs.",
@@ -2330,6 +2360,12 @@
         "id": "c8",
         "number": 8,
         "answer": "number",
+        "options": [
+          "number",
+          "renewed",
+          "overuse",
+          "reproduce"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 number（numb）。结合上下文辨认词义与词形。",
         "evidence": "Despite their growing use in medicine and agriculture, much of what we know about phages comes from a small number of well-studied examples.",
@@ -2339,6 +2375,12 @@
         "id": "c9",
         "number": 9,
         "answer": "proteins",
+        "options": [
+          "phages",
+          "infections",
+          "genes",
+          "proteins"
+        ],
         "vocabularyId": "v68",
         "explanation": "原文此处使用 proteins（protein）。结合上下文辨认词义与词形。",
         "evidence": "Like humans, phages have genomes containing genes that carry instructions for making proteins.",
@@ -2348,6 +2390,12 @@
         "id": "c10",
         "number": 10,
         "answer": "modifying",
+        "options": [
+          "modifying",
+          "emerged",
+          "investigate",
+          "invading"
+        ],
         "vocabularyId": "v75",
         "explanation": "原文此处使用 modifying（modify）。结合上下文辨认词义与词形。",
         "evidence": "Current methods for studying and modifying phages can be time-consuming, work only with certain bacteria, or require detailed knowledge of the phage’s genome.",
@@ -2436,5 +2484,8 @@
       }
     ]
   },
-  "revision": "67a72e757c3e295adbf9f6614fb805668018d67ff8259de5d19affdd4df70f26"
+  "revision": "ddfe202a45255f490f933dca5790463795eeac6bf72754e83d2ea77da0b3dfbf",
+  "compatibleProgressRevisions": [
+    "67a72e757c3e295adbf9f6614fb805668018d67ff8259de5d19affdd4df70f26"
+  ]
 }

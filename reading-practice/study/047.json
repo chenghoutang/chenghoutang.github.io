@@ -2379,23 +2379,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       20,
       32
-    ],
-    "wordBank": [
-      "alongside",
-      "olive",
-      "transparent",
-      "advice",
-      "disclose",
-      "preferred",
-      "balance",
-      "criticism",
-      "emphasise",
-      "journal"
     ],
     "parts": [
       {
@@ -2467,6 +2455,12 @@
         "id": "c1",
         "number": 1,
         "answer": "alongside",
+        "options": [
+          "comeback",
+          "pyramid",
+          "unlikely",
+          "alongside"
+        ],
         "vocabularyId": "v92",
         "explanation": "原文此处使用 alongside（alongside）。结合上下文辨认词义与词形。",
         "evidence": "The Mediterranean pyramid, published in 2011, went further by including shared meals, cooking, exercise and rest alongside food.",
@@ -2476,6 +2470,12 @@
         "id": "c2",
         "number": 2,
         "answer": "criticism",
+        "options": [
+          "history",
+          "comeback",
+          "criticism",
+          "upside"
+        ],
         "vocabularyId": "v110",
         "explanation": "原文此处使用 criticism（criticism）。结合上下文辨认词义与词形。",
         "evidence": "Its emphasis on red meat and full-fat dairy has drawn criticism for sending mixed messages about saturated fat, while giving wholegrains less prominence.",
@@ -2485,6 +2485,12 @@
         "id": "c3",
         "number": 3,
         "answer": "transparent",
+        "options": [
+          "everyday",
+          "transparent",
+          "upside-down",
+          "unveiled"
+        ],
         "vocabularyId": "v116",
         "explanation": "原文此处使用 transparent（transparent）。结合上下文辨认词义与词形。",
         "evidence": "Experts have questioned the scientific basis of some recommendations, arguing that the government sidelined its independent advisory committee’s findings and used a less transparent review process.",
@@ -2494,6 +2500,12 @@
         "id": "c4",
         "number": 4,
         "answer": "journal",
+        "options": [
+          "journal",
+          "comeback",
+          "prominence",
+          "pyramid"
+        ],
         "vocabularyId": "v124",
         "explanation": "原文此处使用 journal（journal）。结合上下文辨认词义与词形。",
         "evidence": "The more recent International Food Guide Pyramid, published in the journal Advances in Nutrition, combines research and national dietary guidelines.",
@@ -2503,6 +2515,12 @@
         "id": "c5",
         "number": 5,
         "answer": "emphasise",
+        "options": [
+          "unveiled",
+          "proposed",
+          "revive",
+          "emphasise"
+        ],
         "vocabularyId": "v105",
         "explanation": "原文此处使用 emphasise（emphasise）。结合上下文辨认词义与词形。",
         "evidence": "Its recommendations emphasise vegetables, fruit, wholegrains, beans, lentils, nuts and plant oils.",
@@ -2512,6 +2530,12 @@
         "id": "c6",
         "number": 6,
         "answer": "preferred",
+        "options": [
+          "preferred",
+          "occupied",
+          "recommended",
+          "proposed"
+        ],
         "vocabularyId": "v142",
         "explanation": "原文此处使用 preferred（prefer）。结合上下文辨认词义与词形。",
         "evidence": "Fish and poultry are preferred over red and processed meat, and vegetarian and vegan versions of the pattern are possible.",
@@ -2521,6 +2545,12 @@
         "id": "c7",
         "number": 7,
         "answer": "disclose",
+        "options": [
+          "equal",
+          "disclose",
+          "occupied",
+          "revive"
+        ],
         "vocabularyId": "v147",
         "explanation": "原文此处使用 disclose（disclose）。结合上下文辨认词义与词形。",
         "evidence": "The authors report no funding for this study, although several disclose financial relationships with food companies.",
@@ -2530,6 +2560,12 @@
         "id": "c8",
         "number": 8,
         "answer": "advice",
+        "options": [
+          "complex",
+          "fruit",
+          "advice",
+          "dairy"
+        ],
         "vocabularyId": "v26",
         "explanation": "原文此处使用 advice（advice）。结合上下文辨认词义与词形。",
         "evidence": "The food pyramid has been redesigned many times, reflecting changes in nutrition science and in how advice is communicated.",
@@ -2539,6 +2575,12 @@
         "id": "c9",
         "number": 9,
         "answer": "balance",
+        "options": [
+          "dairy",
+          "vegetables",
+          "pyramid",
+          "balance"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 balance（balance）。结合上下文辨认词义与词形。",
         "evidence": "A food circle shows variety across food groups, a pyramid may guide the weekly shop, and a plate helps balance a single meal.",
@@ -2548,6 +2590,12 @@
         "id": "c10",
         "number": 10,
         "answer": "olive",
+        "options": [
+          "olive",
+          "upside",
+          "shaped",
+          "comeback"
+        ],
         "vocabularyId": "v156",
         "explanation": "原文此处使用 olive（olive）。结合上下文辨认词义与词形。",
         "evidence": "For someone preparing dinner, the useful question is whether the image makes everyday choices easier: beans more often, wholegrain bread instead of white, or olive oil instead of butter.",
@@ -2636,5 +2684,8 @@
       }
     ]
   },
-  "revision": "5f9e3647b76d0eb64533ece2c8faa231edadab7025a6ccb061f63fef3a4b9417"
+  "revision": "91bb392114e4ccd3e100ea67d905922dba99910f549193d91939ae19dd1c5743",
+  "compatibleProgressRevisions": [
+    "5f9e3647b76d0eb64533ece2c8faa231edadab7025a6ccb061f63fef3a4b9417"
+  ]
 }

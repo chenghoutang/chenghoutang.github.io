@@ -2257,23 +2257,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       11,
       23
-    ],
-    "wordBank": [
-      "jingle",
-      "rustle",
-      "screen",
-      "inventive",
-      "sonic",
-      "compiled",
-      "slithering",
-      "directional",
-      "location",
-      "props"
     ],
     "parts": [
       {
@@ -2345,6 +2333,12 @@
         "id": "c1",
         "number": 1,
         "answer": "screen",
+        "options": [
+          "screen",
+          "studio",
+          "craft",
+          "rustle"
+        ],
         "vocabularyId": "v49",
         "explanation": "原文此处使用 screen（screen）。结合上下文辨认词义与词形。",
         "evidence": "In this series we go behind the scenes to reveal the ingenious tricks and innovations that have transformed screen production over the course of a century.",
@@ -2354,6 +2348,12 @@
         "id": "c2",
         "number": 2,
         "answer": "slithering",
+        "options": [
+          "sifting",
+          "slithering",
+          "unfolding",
+          "interacting"
+        ],
         "vocabularyId": "v62",
         "explanation": "原文此处使用 slithering（slither）。结合上下文辨认词义与词形。",
         "evidence": "For Raiders of the Lost Ark (1981), he created the sound of snakes slithering across the floor of the Egyptian tomb by running his fingers through a dish of macaroni and cheese.",
@@ -2363,6 +2363,12 @@
         "id": "c3",
         "number": 3,
         "answer": "directional",
+        "options": [
+          "independent",
+          "purest",
+          "directional",
+          "uncontrolled"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 directional（directional）。结合上下文辨认词义与词形。",
         "evidence": "For this, he used a directional microphone to record the hum of a film projector being played through speakers.",
@@ -2372,6 +2378,12 @@
         "id": "c4",
         "number": 4,
         "answer": "sonic",
+        "options": [
+          "purest",
+          "directional",
+          "iconic",
+          "sonic"
+        ],
         "vocabularyId": "v78",
         "explanation": "原文此处使用 sonic（sonic）。结合上下文辨认词义与词形。",
         "evidence": "This created a combination of sonic effects, including a doppler shift (the change in pitch when the source of a sound is moving), along with swells and fades in volume as the microphone passed each speaker.",
@@ -2381,6 +2393,12 @@
         "id": "c5",
         "number": 5,
         "answer": "rustle",
+        "options": [
+          "rustle",
+          "studio",
+          "silence",
+          "craft"
+        ],
         "vocabularyId": "v23",
         "explanation": "原文此处使用 rustle（rustle）。结合上下文辨认词义与词形。",
         "evidence": "A close rustle of fabric during a tense scene can pull us inside a character’s head, as we hear what they’re hearing.",
@@ -2390,6 +2408,12 @@
         "id": "c6",
         "number": 6,
         "answer": "inventive",
+        "options": [
+          "enormous",
+          "massive",
+          "inventive",
+          "nearby"
+        ],
         "vocabularyId": "v93",
         "explanation": "原文此处使用 inventive（inventive）。结合上下文辨认词义与词形。",
         "evidence": "The sound team behind The Lord of the Rings trilogy, led by David Farmer, Ethan Van der Ryn and Mike Hopkins, became known for their inventive Foley methods.",
@@ -2399,6 +2423,12 @@
         "id": "c7",
         "number": 7,
         "answer": "jingle",
+        "options": [
+          "jingle",
+          "studio",
+          "rustle",
+          "artists"
+        ],
         "vocabularyId": "v101",
         "explanation": "原文此处使用 jingle（jingle）。结合上下文辨认词义与词形。",
         "evidence": "They built the enormous audible world of Middle Earth from scratch – every sword shing, armour-plated boot, chainmail clink and bridle jingle.",
@@ -2408,6 +2438,12 @@
         "id": "c8",
         "number": 8,
         "answer": "compiled",
+        "options": [
+          "refined",
+          "transformed",
+          "immersed",
+          "compiled"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 compiled（compile）。结合上下文辨认词义与词形。",
         "evidence": "Hundreds of recordings need to be sorted, compiled and synced into a mix.",
@@ -2417,6 +2453,12 @@
         "id": "c9",
         "number": 9,
         "answer": "props",
+        "options": [
+          "editors",
+          "shapes",
+          "props",
+          "tricks"
+        ],
         "vocabularyId": "v117",
         "explanation": "原文此处使用 props（prop）。结合上下文辨认词义与词形。",
         "evidence": "This type of bespoke sound work takes money, time, hundreds of props, and a skilled team.",
@@ -2426,6 +2468,12 @@
         "id": "c10",
         "number": 10,
         "answer": "location",
+        "options": [
+          "motion",
+          "location",
+          "astronauts",
+          "rustle"
+        ],
         "vocabularyId": "v126",
         "explanation": "原文此处使用 location（location）。结合上下文辨认词义与词形。",
         "evidence": "With such limited resources, it’s often not viable to record organic sound, such as for footsteps, on location.",
@@ -2514,5 +2562,8 @@
       }
     ]
   },
-  "revision": "2868901f7b2ff37d47dbd547a27caa7aab27113423508e100d22eb57958566ae"
+  "revision": "5c80db03d0e4128a3260f65b2d6e50fb971c3191907a73f20aedd4cd9cc7cd28",
+  "compatibleProgressRevisions": [
+    "2868901f7b2ff37d47dbd547a27caa7aab27113423508e100d22eb57958566ae"
+  ]
 }

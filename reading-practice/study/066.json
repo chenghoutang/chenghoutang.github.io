@@ -1339,23 +1339,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       7,
       19
-    ],
-    "wordBank": [
-      "costs",
-      "outcomes",
-      "contribute",
-      "elementary",
-      "birth",
-      "direct",
-      "emerges",
-      "backgrounds",
-      "hourly",
-      "kindergarten"
     ],
     "parts": [
       {
@@ -1427,6 +1415,12 @@
         "id": "c1",
         "number": 1,
         "answer": "backgrounds",
+        "options": [
+          "backgrounds",
+          "libraries",
+          "outcomes",
+          "caregivers"
+        ],
         "vocabularyId": "v5",
         "explanation": "原文此处使用 backgrounds（background）。结合上下文辨认词义与词形。",
         "evidence": "By some measures, schools really are an equalizer for children from different backgrounds – but this finding has its limits.",
@@ -1436,6 +1430,12 @@
         "id": "c2",
         "number": 2,
         "answer": "contribute",
+        "options": [
+          "thinnest",
+          "widened",
+          "educating",
+          "contribute"
+        ],
         "vocabularyId": "v32",
         "explanation": "原文此处使用 contribute（contribute）。结合上下文辨认词义与词形。",
         "evidence": "In our 2026 study, we combined data from 10 nationally representative government surveys to track 77 kinds of investments, as we call them, that contribute to raising and educating children.",
@@ -1445,6 +1445,12 @@
         "id": "c3",
         "number": 3,
         "answer": "direct",
+        "options": [
+          "direct",
+          "shrink",
+          "assign",
+          "tutoring"
+        ],
         "vocabularyId": "v36",
         "explanation": "原文此处使用 direct（direct）。结合上下文辨认词义与词形。",
         "evidence": "We also measured factors that don’t have a direct cost, such as the time parents and caregivers spend reading with children.",
@@ -1454,6 +1460,12 @@
         "id": "c4",
         "number": 4,
         "answer": "hourly",
+        "options": [
+          "randomly",
+          "hourly",
+          "otherwise",
+          "elementary"
+        ],
         "vocabularyId": "v41",
         "explanation": "原文此处使用 hourly（hourly）。结合上下文辨认词义与词形。",
         "evidence": "We put a dollar value on each factor – valuing parents’ time at the average U.S. hourly wage, for example – so we could add them up and compare what children from different backgrounds receive.",
@@ -1463,6 +1475,12 @@
         "id": "c5",
         "number": 5,
         "answer": "birth",
+        "options": [
+          "reformer",
+          "shapes",
+          "birth",
+          "great"
+        ],
         "vocabularyId": "v45",
         "explanation": "原文此处使用 birth（birth）。结合上下文辨认词义与词形。",
         "evidence": "Counting government investment, family spending and the time parents spend with their children, the average child in the U.S. receives about US$502,000 from birth to age 18, our analysis shows.",
@@ -1472,6 +1490,12 @@
         "id": "c6",
         "number": 6,
         "answer": "costs",
+        "options": [
+          "shapes",
+          "tools",
+          "surveys",
+          "costs"
+        ],
         "vocabularyId": "v47",
         "explanation": "原文此处使用 costs（costs）。结合上下文辨认词义与词形。",
         "evidence": "Most of that early difference comes from housing and childcare costs.",
@@ -1481,6 +1505,12 @@
         "id": "c7",
         "number": 7,
         "answer": "emerges",
+        "options": [
+          "emerges",
+          "leaned",
+          "direct",
+          "assign"
+        ],
         "vocabularyId": "v48",
         "explanation": "原文此处使用 emerges（emerge）。结合上下文辨认词义与词形。",
         "evidence": "However, a striking pattern emerges as children transition into elementary school.",
@@ -1490,6 +1520,12 @@
         "id": "c8",
         "number": 8,
         "answer": "elementary",
+        "options": [
+          "otherwise",
+          "elementary",
+          "ahead",
+          "hourly"
+        ],
         "vocabularyId": "v50",
         "explanation": "原文此处使用 elementary（elementary）。结合上下文辨认词义与词形。",
         "evidence": "However, a striking pattern emerges as children transition into elementary school.",
@@ -1499,6 +1535,12 @@
         "id": "c9",
         "number": 9,
         "answer": "kindergarten",
+        "options": [
+          "instruction",
+          "background",
+          "kindergarten",
+          "colleagues"
+        ],
         "vocabularyId": "v22",
         "explanation": "原文此处使用 kindergarten（kindergarten）。结合上下文辨认词义与词形。",
         "evidence": "Investment gaps between Black and white children shrink from 20% in early childhood years to 7% once kindergarten begins.",
@@ -1508,6 +1550,12 @@
         "id": "c10",
         "number": 10,
         "answer": "outcomes",
+        "options": [
+          "surveys",
+          "shapes",
+          "scholars",
+          "outcomes"
+        ],
         "vocabularyId": "v53",
         "explanation": "原文此处使用 outcomes（outcome）。结合上下文辨认词义与词形。",
         "evidence": "This matters because research shows that more school spending improves students’ achievement and long-term outcomes, especially for those from low-income families.",
@@ -1596,5 +1644,8 @@
       }
     ]
   },
-  "revision": "dca110a05c06c68af15c0fa736d61d3739cd2a167612cd691f142c46dd87c9c5"
+  "revision": "88c8e77b80383ab90c28ff27c348d4a00342b260f6884e971a253d465a64a146",
+  "compatibleProgressRevisions": [
+    "dca110a05c06c68af15c0fa736d61d3739cd2a167612cd691f142c46dd87c9c5"
+  ]
 }

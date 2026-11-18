@@ -1962,23 +1962,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       18,
       27
-    ],
-    "wordBank": [
-      "function",
-      "presence",
-      "regulation",
-      "calculator",
-      "adjust",
-      "marker",
-      "assess",
-      "prescription",
-      "offer",
-      "adopted"
     ],
     "parts": [
       {
@@ -2050,6 +2038,12 @@
         "id": "c1",
         "number": 1,
         "answer": "assess",
+        "options": [
+          "differs",
+          "assess",
+          "calcified",
+          "elevated"
+        ],
         "vocabularyId": "v72",
         "explanation": "原文此处使用 assess（assess）。结合上下文辨认词义与词形。",
         "evidence": "These calcium deposits become more common with age, so my colleagues and I used AI to assess data from more than 100,000 women in nine countries in order to map how calcium builds up in breast arteries by age.",
@@ -2059,6 +2053,12 @@
         "id": "c2",
         "number": 2,
         "answer": "marker",
+        "options": [
+          "breast",
+          "mammogram",
+          "marker",
+          "calcium"
+        ],
         "vocabularyId": "v33",
         "explanation": "原文此处使用 marker（marker）。结合上下文辨认词义与词形。",
         "evidence": "Integrating a new risk marker",
@@ -2068,6 +2068,12 @@
         "id": "c3",
         "number": 3,
         "answer": "regulation",
+        "options": [
+          "screening",
+          "routine",
+          "mammogram",
+          "regulation"
+        ],
         "vocabularyId": "v91",
         "explanation": "原文此处使用 regulation（regulation）。结合上下文辨认词义与词形。",
         "evidence": "The bill’s sponsor modeled the law on a 2023 regulation on breast density notices, which required mammography centers to inform patients and their doctors about their breast density and its link to cancer detection.",
@@ -2077,6 +2083,12 @@
         "id": "c4",
         "number": 4,
         "answer": "adopted",
+        "options": [
+          "adopted",
+          "relied",
+          "assessed",
+          "elevated"
+        ],
         "vocabularyId": "v97",
         "explanation": "原文此处使用 adopted（adopt）。结合上下文辨认词义与词形。",
         "evidence": "The breast density rule was first implemented in Connecticut and then adopted by many other states, before becoming a nationwide requirement.",
@@ -2086,6 +2098,12 @@
         "id": "c5",
         "number": 5,
         "answer": "presence",
+        "options": [
+          "routine",
+          "doubt",
+          "presence",
+          "screening"
+        ],
         "vocabularyId": "v103",
         "explanation": "原文此处使用 presence（presence）。结合上下文辨认词义与词形。",
         "evidence": "Researchers still need to find out whether treating women based on the presence of breast arterial calcification prevents heart attacks or strokes.",
@@ -2095,6 +2113,12 @@
         "id": "c6",
         "number": 6,
         "answer": "adjust",
+        "options": [
+          "adjust",
+          "assessed",
+          "differs",
+          "elevated"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 adjust（adjust）。结合上下文辨认词义与词形。",
         "evidence": "Until other states adjust their requirements, look for “breast arterial calcification” or “vascular calcifications” in the radiologist’s report.",
@@ -2104,6 +2128,12 @@
         "id": "c7",
         "number": 7,
         "answer": "offer",
+        "options": [
+          "breast",
+          "doubt",
+          "arteries",
+          "offer"
+        ],
         "vocabularyId": "v12",
         "explanation": "原文此处使用 offer（offer）。结合上下文辨认词义与词形。",
         "evidence": "Some imaging centers offer an optional AI review for breast arterial calcification as an out-of-pocket add-on to a screening mammogram.",
@@ -2113,6 +2143,12 @@
         "id": "c8",
         "number": 8,
         "answer": "prescription",
+        "options": [
+          "menopause",
+          "screening",
+          "prescription",
+          "calcification"
+        ],
         "vocabularyId": "v111",
         "explanation": "原文此处使用 prescription（prescription）。结合上下文辨认词义与词形。",
         "evidence": "On its own, the presence of breast arterial calcification on a mammogram does not determine whether someone needs a heart test or a new prescription.",
@@ -2122,6 +2158,12 @@
         "id": "c9",
         "number": 9,
         "answer": "function",
+        "options": [
+          "breast",
+          "routine",
+          "function",
+          "screening"
+        ],
         "vocabularyId": "v119",
         "explanation": "原文此处使用 function（function）。结合上下文辨认词义与词形。",
         "evidence": "Your doctor may suggest a blood pressure measurement and blood tests for cholesterol and kidney function.",
@@ -2131,6 +2173,12 @@
         "id": "c10",
         "number": 10,
         "answer": "calculator",
+        "options": [
+          "calculator",
+          "mammogram",
+          "calcium",
+          "deposits"
+        ],
         "vocabularyId": "v124",
         "explanation": "原文此处使用 calculator（calculator）。结合上下文辨认词义与词形。",
         "evidence": "Your doctor can use these results alongside age, smoking, diabetes and other information in the American Heart Association’s PREVENT calculator.",
@@ -2219,5 +2267,8 @@
       }
     ]
   },
-  "revision": "76298f809c00c51738c9e5346d40c46ef33fe0c6eb61a6ca0b5c42bed87f193e"
+  "revision": "ed24c36b2b20d9c5ff473bb45e561bf5c5f6277a20ca8af22b12ef2b7a1213b2",
+  "compatibleProgressRevisions": [
+    "76298f809c00c51738c9e5346d40c46ef33fe0c6eb61a6ca0b5c42bed87f193e"
+  ]
 }

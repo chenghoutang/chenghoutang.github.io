@@ -1675,23 +1675,11 @@
     }
   ],
   "cloze": {
-    "title": "原文选词填空",
-    "instruction": "从词库中选择合适的词填入空白，每词使用一次，保留原文词形。大小写不影响判分。",
+    "title": "四选一完形填空",
+    "instruction": "阅读节选，为每一空选择最符合原文语境的选项，每题只有一个正确答案。",
     "sourceParagraphs": [
       15,
       22
-    ],
-    "wordBank": [
-      "reviews",
-      "feasted",
-      "degradation",
-      "hunting",
-      "suggests",
-      "specimens",
-      "exceeded",
-      "disappeared",
-      "dimorphism",
-      "confirm"
     ],
     "parts": [
       {
@@ -1763,6 +1751,12 @@
         "id": "c1",
         "number": 1,
         "answer": "specimens",
+        "options": [
+          "specimens",
+          "thousands",
+          "status",
+          "fragments"
+        ],
         "vocabularyId": "v52",
         "explanation": "原文此处使用 specimens（specimen）。结合上下文辨认词义与词形。",
         "evidence": "Using a molecular genetic methodology, we uncovered the sexes of the crane specimens used in this study to determine if the larger birds were dominantly males and the ones that conformed to the size of modern males included females.",
@@ -1772,6 +1766,12 @@
         "id": "c2",
         "number": 2,
         "answer": "dimorphism",
+        "options": [
+          "ancient",
+          "controversy",
+          "species",
+          "dimorphism"
+        ],
         "vocabularyId": "v79",
         "explanation": "原文此处使用 dimorphism（dimorphism）。结合上下文辨认词义与词形。",
         "evidence": "The result was clear: size change and sexual dimorphism had erroneously implied that two separate species had lived in Europe during the last 20,000 years.",
@@ -1781,6 +1781,12 @@
         "id": "c3",
         "number": 3,
         "answer": "exceeded",
+        "options": [
+          "exceeded",
+          "excluded",
+          "belonged",
+          "excavated"
+        ],
         "vocabularyId": "v66",
         "explanation": "原文此处使用 exceeded（exceed）。结合上下文辨认词义与词形。",
         "evidence": "The latest individuals that exceeded the modern common crane in size are from Lincolnshire in England.",
@@ -1790,6 +1796,12 @@
         "id": "c4",
         "number": 4,
         "answer": "feasted",
+        "options": [
+          "blamed",
+          "feasted",
+          "extinction",
+          "sampled"
+        ],
         "vocabularyId": "v86",
         "explanation": "原文此处使用 feasted（feast）。结合上下文辨认词义与词形。",
         "evidence": "They had been excavated from an Anglo-Saxon archaeological site at Flixborough, where there was evidence that high-status people may have feasted on them.",
@@ -1799,6 +1811,12 @@
         "id": "c5",
         "number": 5,
         "answer": "disappeared",
+        "options": [
+          "declared",
+          "uncovered",
+          "disappeared",
+          "proposed"
+        ],
         "vocabularyId": "v89",
         "explanation": "原文此处使用 disappeared（disappear）。结合上下文辨认词义与词形。",
         "evidence": "Why this occurred is unclear, although the fact that the species disappeared from Britain and many parts of Europe since that time is probably relevant.",
@@ -1808,6 +1826,12 @@
         "id": "c6",
         "number": 6,
         "answer": "hunting",
+        "options": [
+          "ancient",
+          "extinction",
+          "identity",
+          "hunting"
+        ],
         "vocabularyId": "v94",
         "explanation": "原文此处使用 hunting（hunt）。结合上下文辨认词义与词形。",
         "evidence": "Wetland drainage and hunting have been blamed for the British local extinction about 400 years ago.",
@@ -1817,6 +1841,12 @@
         "id": "c7",
         "number": 7,
         "answer": "degradation",
+        "options": [
+          "degradation",
+          "thousands",
+          "controversy",
+          "biologist"
+        ],
         "vocabularyId": "v99",
         "explanation": "原文此处使用 degradation（degradation）。结合上下文辨认词义与词形。",
         "evidence": "The former is perhaps the most likely cause of the size decrease, as it might be symptomatic of habitat degradation across the birds’ range.",
@@ -1826,6 +1856,12 @@
         "id": "c8",
         "number": 8,
         "answer": "reviews",
+        "options": [
+          "specimens",
+          "species",
+          "reviews",
+          "status"
+        ],
         "vocabularyId": "v104",
         "explanation": "原文此处使用 reviews（review）。结合上下文辨认词义与词形。",
         "evidence": "The implications of this detailed analysis of the longest-standing controversy in recent avian extinction may be that caution needs to be exercised when reviews of historic extinctions are made.",
@@ -1835,6 +1871,12 @@
         "id": "c9",
         "number": 9,
         "answer": "confirm",
+        "options": [
+          "confirm",
+          "belonged",
+          "classified",
+          "shrunk"
+        ],
         "vocabularyId": "v106",
         "explanation": "原文此处使用 confirm（confirm）。结合上下文辨认词义与词形。",
         "evidence": "If birds are not identified from living individuals, like the great auk was, and are instead named based on the sizes of bones from the past, molecular analyses are probably needed to confirm that they are indeed separate species.",
@@ -1844,6 +1886,12 @@
         "id": "c10",
         "number": 10,
         "answer": "suggests",
+        "options": [
+          "proposed",
+          "classified",
+          "exceed",
+          "suggests"
+        ],
         "vocabularyId": "v109",
         "explanation": "原文此处使用 suggests（suggest）。结合上下文辨认词义与词形。",
         "evidence": "This suggests that at least some are likely to be differently sized individuals of the same species – not a separate one.",
@@ -1932,5 +1980,8 @@
       }
     ]
   },
-  "revision": "95dfeccb5a80626ec7698e6826e587aee70fe46732aa0537f2af8cab4b53a8d4"
+  "revision": "0e40e7f2c51878e394b274e352368d2dedd124e67e98a9ddbdf092954661f603",
+  "compatibleProgressRevisions": [
+    "95dfeccb5a80626ec7698e6826e587aee70fe46732aa0537f2af8cab4b53a8d4"
+  ]
 }
