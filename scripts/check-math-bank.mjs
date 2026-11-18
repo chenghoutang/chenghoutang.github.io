@@ -66,5 +66,25 @@ for(const q of all){
  if(q.topic==='complex'&&q.difficulty==='hard'&&v===0){
   const theta=Math.atan2(1,a),lo=Math.hypot(a+a*Math.cos(theta+Math.PI),1+a*Math.sin(theta+Math.PI)),hi=Math.hypot(a+a*Math.cos(theta),1+a*Math.sin(theta));eq(lo*hi,numeric(answer),q.id);
  }
+ if(q.topic==='trig-function'&&q.difficulty==='hard'){
+  if(v){const k=4*a-2*a*Math.SQRT2;let max=-Infinity;for(let j=0;j<10000;j++){const x=j*Math.PI/5000;max=Math.max(max,a*(Math.sin(x)+Math.cos(x))+k*Math.sin(x)*Math.cos(x));}eq(max,2*a,q.id);assert.ok(answer.includes(`${4*a}-${2*a}\\sqrt2`),q.id);}
+  else for(const m of [-1/(4*a*a)-.001,-1/(4*a*a),0,(a-1)/a-.001,(a-1)/a,(a-1)/a+.001]){
+   const D=1/(a*a)+4*m,roots=D<-1e-10?[]:D<1e-10?[1/(2*a)]:[(1/a-Math.sqrt(D))/2,(1/a+Math.sqrt(D))/2];
+   const count=roots.reduce((n,t)=>n+(Math.abs(t)>1+1e-9?0:Math.abs(Math.abs(t)-1)<1e-9?1:2),0);
+   assert.equal(count===4,m>-1/(4*a*a)+1e-9&&m<(a-1)/a-1e-9,q.id);
+  }
+ }
+ if(q.topic==='exp-log'&&q.difficulty==='hard'&&v===1)for(const k of [2*a-.01,2*a,2*a+.01,a*a+1-.01,a*a+1,a*a+1+.01]){
+  const D=k*k-4*a*a,ts=D<-1e-8?[]:Math.abs(D)<1e-8?[k/2]:[(k-Math.sqrt(D))/2,(k+Math.sqrt(D))/2];
+  const count=ts.reduce((n,t)=>n+(t<1-1e-9?0:Math.abs(t-1)<1e-9?1:2),0);
+  assert.equal(count===4,k>2*a&&k<a*a+1,q.id);
+ }
+ if(q.topic==='piecewise'&&q.difficulty==='hard'&&!v)for(const m of [-.1,0,.1,a*a-.1,a*a,a*a+.1]){
+  const roots=[];for(const c of [m,-m]){const D=a*a+c;if(D>=0)for(const r of [a-Math.sqrt(D),a+Math.sqrt(D)])if(!roots.some(x=>Math.abs(x-r)<1e-8))roots.push(r);}
+  assert.equal(roots.length===4,m>0&&m<a*a,q.id);
+ }
+ if(q.topic==='properties'&&q.difficulty==='hard'&&v)for(const x of [.1,a,a*Math.SQRT2-.001,a*Math.SQRT2+.001,10*a]){
+  const f=t=>t+Math.log((1+t)/(1-t));const sum=f((x-a)/(x+a))+f((x-2*a)/(x+2*a));assert.equal(sum>0,x>a*Math.SQRT2,q.id);
+ }
 }
 console.log(`PASS: ${all.length} questions, ${families.size} families, ${formulas} LaTeX expressions; schema, offline scripts and independent boundary/numerical audits.`);
