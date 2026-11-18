@@ -1,0 +1,6005 @@
+{
+  "batch": 3,
+  "questions": [
+    {
+      "id": "M0601",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 1,
+      "stem": "将 $2\\sin(2x)\\cos(2x)$ 化简。",
+      "options": [
+        "\\sin^2(2x)",
+        "\\sin(4x)",
+        "\\cos(4x)",
+        "2\\sin(4x)"
+      ],
+      "answer": 1,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=2x。"
+    },
+    {
+      "id": "M0602",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 2,
+      "stem": "将 $2\\sin(3x)\\cos(3x)$ 化简。",
+      "options": [
+        "\\sin(6x)",
+        "\\cos(6x)",
+        "2\\sin(6x)",
+        "\\sin^2(3x)"
+      ],
+      "answer": 0,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=3x。"
+    },
+    {
+      "id": "M0603",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 3,
+      "stem": "将 $2\\sin(4x)\\cos(4x)$ 化简。",
+      "options": [
+        "\\cos(8x)",
+        "2\\sin(8x)",
+        "\\sin^2(4x)",
+        "\\sin(8x)"
+      ],
+      "answer": 3,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=4x。"
+    },
+    {
+      "id": "M0604",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 4,
+      "stem": "将 $2\\sin(5x)\\cos(5x)$ 化简。",
+      "options": [
+        "2\\sin(10x)",
+        "\\sin^2(5x)",
+        "\\sin(10x)",
+        "\\cos(10x)"
+      ],
+      "answer": 2,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=5x。"
+    },
+    {
+      "id": "M0605",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 5,
+      "stem": "将 $2\\sin(6x)\\cos(6x)$ 化简。",
+      "options": [
+        "\\sin^2(6x)",
+        "\\sin(12x)",
+        "\\cos(12x)",
+        "2\\sin(12x)"
+      ],
+      "answer": 1,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=6x。"
+    },
+    {
+      "id": "M0606",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 6,
+      "stem": "将 $2\\sin(7x)\\cos(7x)$ 化简。",
+      "options": [
+        "\\sin(14x)",
+        "\\cos(14x)",
+        "2\\sin(14x)",
+        "\\sin^2(7x)"
+      ],
+      "answer": 0,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=7x。"
+    },
+    {
+      "id": "M0607",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 7,
+      "stem": "将 $2\\sin(8x)\\cos(8x)$ 化简。",
+      "options": [
+        "\\cos(16x)",
+        "2\\sin(16x)",
+        "\\sin^2(8x)",
+        "\\sin(16x)"
+      ],
+      "answer": 3,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=8x。"
+    },
+    {
+      "id": "M0608",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 8,
+      "stem": "将 $2\\sin(9x)\\cos(9x)$ 化简。",
+      "options": [
+        "2\\sin(18x)",
+        "\\sin^2(9x)",
+        "\\sin(18x)",
+        "\\cos(18x)"
+      ],
+      "answer": 2,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=9x。"
+    },
+    {
+      "id": "M0609",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 9,
+      "stem": "将 $2\\sin(10x)\\cos(10x)$ 化简。",
+      "options": [
+        "\\sin^2(10x)",
+        "\\sin(20x)",
+        "\\cos(20x)",
+        "2\\sin(20x)"
+      ],
+      "answer": 1,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=10x。"
+    },
+    {
+      "id": "M0610",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-1",
+      "variant": 10,
+      "stem": "将 $2\\sin(11x)\\cos(11x)$ 化简。",
+      "options": [
+        "\\sin(22x)",
+        "\\cos(22x)",
+        "2\\sin(22x)",
+        "\\sin^2(11x)"
+      ],
+      "answer": 0,
+      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=11x。"
+    },
+    {
+      "id": "M0611",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 1,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{2}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "1",
+        "\\frac{1}{2}",
+        "\\frac{1}{4}",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0612",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 2,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{3}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "\\frac{1}{3}",
+        "\\frac{1}{9}",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0613",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 3,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{4}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "\\frac{1}{16}",
+        "4",
+        "1",
+        "\\frac{1}{4}"
+      ],
+      "answer": 2,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0614",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 4,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{5}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "5",
+        "1",
+        "\\frac{1}{5}",
+        "\\frac{1}{25}"
+      ],
+      "answer": 1,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0615",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 5,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{6}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "1",
+        "\\frac{1}{6}",
+        "\\frac{1}{36}",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0616",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 6,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{7}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "\\frac{1}{7}",
+        "\\frac{1}{49}",
+        "7",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0617",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 7,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{8}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "\\frac{1}{64}",
+        "8",
+        "1",
+        "\\frac{1}{8}"
+      ],
+      "answer": 2,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0618",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 8,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{9}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "9",
+        "1",
+        "\\frac{1}{9}",
+        "\\frac{1}{81}"
+      ],
+      "answer": 1,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0619",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 9,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{10}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "1",
+        "\\frac{1}{10}",
+        "\\frac{1}{100}",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0620",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "trig-identity-easy-2",
+      "variant": 10,
+      "stem": "已知 $\\sin\\theta=\\frac{1}{11}$，则 $\\sin^2\\theta+\\cos^2\\theta$ 等于",
+      "options": [
+        "\\frac{1}{11}",
+        "\\frac{1}{121}",
+        "11",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。"
+    },
+    {
+      "id": "M0621",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 1,
+      "stem": "已知 $\\tan x=2$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{4}{5}",
+        "\\frac{2}{5}",
+        "-\\frac{4}{3}",
+        "-\\frac{3}{5}"
+      ],
+      "answer": 0,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{4}{5}。"
+    },
+    {
+      "id": "M0622",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 2,
+      "stem": "已知 $\\tan x=3$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{3}{10}",
+        "-\\frac{3}{4}",
+        "-\\frac{4}{5}",
+        "\\frac{3}{5}"
+      ],
+      "answer": 3,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{3}{5}。"
+    },
+    {
+      "id": "M0623",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 3,
+      "stem": "已知 $\\tan x=4$，则 $\\sin2x$ 等于",
+      "options": [
+        "-\\frac{8}{15}",
+        "-\\frac{15}{17}",
+        "\\frac{8}{17}",
+        "\\frac{4}{17}"
+      ],
+      "answer": 2,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{8}{17}。"
+    },
+    {
+      "id": "M0624",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 4,
+      "stem": "已知 $\\tan x=5$，则 $\\sin2x$ 等于",
+      "options": [
+        "-\\frac{12}{13}",
+        "\\frac{5}{13}",
+        "\\frac{5}{26}",
+        "-\\frac{5}{12}"
+      ],
+      "answer": 1,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{5}{13}。"
+    },
+    {
+      "id": "M0625",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 5,
+      "stem": "已知 $\\tan x=6$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{12}{37}",
+        "\\frac{6}{37}",
+        "-\\frac{12}{35}",
+        "-\\frac{35}{37}"
+      ],
+      "answer": 0,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{12}{37}。"
+    },
+    {
+      "id": "M0626",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 6,
+      "stem": "已知 $\\tan x=7$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{7}{50}",
+        "-\\frac{7}{24}",
+        "-\\frac{24}{25}",
+        "\\frac{7}{25}"
+      ],
+      "answer": 3,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{7}{25}。"
+    },
+    {
+      "id": "M0627",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 7,
+      "stem": "已知 $\\tan x=8$，则 $\\sin2x$ 等于",
+      "options": [
+        "-\\frac{16}{63}",
+        "-\\frac{63}{65}",
+        "\\frac{16}{65}",
+        "\\frac{8}{65}"
+      ],
+      "answer": 2,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{16}{65}。"
+    },
+    {
+      "id": "M0628",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 8,
+      "stem": "已知 $\\tan x=9$，则 $\\sin2x$ 等于",
+      "options": [
+        "-\\frac{40}{41}",
+        "\\frac{9}{41}",
+        "\\frac{9}{82}",
+        "-\\frac{9}{40}"
+      ],
+      "answer": 1,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{9}{41}。"
+    },
+    {
+      "id": "M0629",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 9,
+      "stem": "已知 $\\tan x=10$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{20}{101}",
+        "\\frac{10}{101}",
+        "-\\frac{20}{99}",
+        "-\\frac{99}{101}"
+      ],
+      "answer": 0,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{20}{101}。"
+    },
+    {
+      "id": "M0630",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-1",
+      "variant": 10,
+      "stem": "已知 $\\tan x=11$，则 $\\sin2x$ 等于",
+      "options": [
+        "\\frac{11}{122}",
+        "-\\frac{11}{60}",
+        "-\\frac{60}{61}",
+        "\\frac{11}{61}"
+      ],
+      "answer": 3,
+      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 \\frac{11}{61}。"
+    },
+    {
+      "id": "M0631",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 1,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{4}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\sqrt{\\frac{1}{2}}",
+        "\\frac{3}{2}",
+        "\\frac{1}{2}",
+        "\\sqrt{\\frac{3}{2}}"
+      ],
+      "answer": 3,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{3}{2}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0632",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 2,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{6}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\frac{4}{3}",
+        "\\frac{1}{3}",
+        "\\sqrt{\\frac{4}{3}}",
+        "\\sqrt{\\frac{2}{3}}"
+      ],
+      "answer": 2,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{4}{3}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0633",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 3,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{8}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\frac{1}{4}",
+        "\\sqrt{\\frac{5}{4}}",
+        "\\sqrt{\\frac{3}{4}}",
+        "\\frac{5}{4}"
+      ],
+      "answer": 1,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{5}{4}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0634",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 4,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{10}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\sqrt{\\frac{6}{5}}",
+        "\\sqrt{\\frac{4}{5}}",
+        "\\frac{6}{5}",
+        "\\frac{1}{5}"
+      ],
+      "answer": 0,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{6}{5}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0635",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 5,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{12}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\sqrt{\\frac{5}{6}}",
+        "\\frac{7}{6}",
+        "\\frac{1}{6}",
+        "\\sqrt{\\frac{7}{6}}"
+      ],
+      "answer": 3,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{7}{6}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0636",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 6,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{14}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\frac{8}{7}",
+        "\\frac{1}{7}",
+        "\\sqrt{\\frac{8}{7}}",
+        "\\sqrt{\\frac{6}{7}}"
+      ],
+      "answer": 2,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{8}{7}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0637",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 7,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{16}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\frac{1}{8}",
+        "\\sqrt{\\frac{9}{8}}",
+        "\\sqrt{\\frac{7}{8}}",
+        "\\frac{9}{8}"
+      ],
+      "answer": 1,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{9}{8}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0638",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 8,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{18}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\sqrt{\\frac{10}{9}}",
+        "\\sqrt{\\frac{8}{9}}",
+        "\\frac{10}{9}",
+        "\\frac{1}{9}"
+      ],
+      "answer": 0,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{10}{9}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0639",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 9,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{20}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\sqrt{\\frac{9}{10}}",
+        "\\frac{11}{10}",
+        "\\frac{1}{10}",
+        "\\sqrt{\\frac{11}{10}}"
+      ],
+      "answer": 3,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{11}{10}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0640",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "trig-identity-medium-2",
+      "variant": 10,
+      "stem": "已知 $\\sin x\\cos x=\\frac{1}{22}$，且 $\\sin x+\\cos x>0$，则 $\\sin x+\\cos x$ 等于",
+      "options": [
+        "\\frac{12}{11}",
+        "\\frac{1}{11}",
+        "\\sqrt{\\frac{12}{11}}",
+        "\\sqrt{\\frac{10}{11}}"
+      ],
+      "answer": 2,
+      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=\\frac{12}{11}。由和为正取正平方根。"
+    },
+    {
+      "id": "M0641",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 1,
+      "stem": "方程 $\\sin2x-1(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left[1\\sqrt2-1,\\frac{5}{4}\\right]",
+        "(-1,1)",
+        "\\left(1,\\frac{5}{4}\\right)",
+        "\\left(1\\sqrt2-1,\\frac{5}{4}\\right)"
+      ],
+      "answer": 3,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-1t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/2 位于区间内；判别式正给 m<\\frac{5}{4}；两端值正给 m>1√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0642",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 2,
+      "stem": "方程 $\\sin2x-\\frac{2}{3}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "(-1,1)",
+        "\\left(1,\\frac{10}{9}\\right)",
+        "\\left(\\frac{2}{3}\\sqrt2-1,\\frac{10}{9}\\right)",
+        "\\left[\\frac{2}{3}\\sqrt2-1,\\frac{10}{9}\\right]"
+      ],
+      "answer": 2,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{2}{3}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/3 位于区间内；判别式正给 m<\\frac{10}{9}；两端值正给 m>\\frac{2}{3}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0643",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 3,
+      "stem": "方程 $\\sin2x-\\frac{1}{2}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left(1,\\frac{17}{16}\\right)",
+        "\\left(\\frac{1}{2}\\sqrt2-1,\\frac{17}{16}\\right)",
+        "\\left[\\frac{1}{2}\\sqrt2-1,\\frac{17}{16}\\right]",
+        "(-1,1)"
+      ],
+      "answer": 1,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{1}{2}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/4 位于区间内；判别式正给 m<\\frac{17}{16}；两端值正给 m>\\frac{1}{2}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0644",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 4,
+      "stem": "方程 $\\sin2x-\\frac{2}{5}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left(\\frac{2}{5}\\sqrt2-1,\\frac{26}{25}\\right)",
+        "\\left[\\frac{2}{5}\\sqrt2-1,\\frac{26}{25}\\right]",
+        "(-1,1)",
+        "\\left(1,\\frac{26}{25}\\right)"
+      ],
+      "answer": 0,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{2}{5}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/5 位于区间内；判别式正给 m<\\frac{26}{25}；两端值正给 m>\\frac{2}{5}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0645",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 5,
+      "stem": "方程 $\\sin2x-\\frac{1}{3}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left[\\frac{1}{3}\\sqrt2-1,\\frac{37}{36}\\right]",
+        "(-1,1)",
+        "\\left(1,\\frac{37}{36}\\right)",
+        "\\left(\\frac{1}{3}\\sqrt2-1,\\frac{37}{36}\\right)"
+      ],
+      "answer": 3,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{1}{3}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/6 位于区间内；判别式正给 m<\\frac{37}{36}；两端值正给 m>\\frac{1}{3}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0646",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 6,
+      "stem": "方程 $\\sin2x-\\frac{2}{7}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "(-1,1)",
+        "\\left(1,\\frac{50}{49}\\right)",
+        "\\left(\\frac{2}{7}\\sqrt2-1,\\frac{50}{49}\\right)",
+        "\\left[\\frac{2}{7}\\sqrt2-1,\\frac{50}{49}\\right]"
+      ],
+      "answer": 2,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{2}{7}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/7 位于区间内；判别式正给 m<\\frac{50}{49}；两端值正给 m>\\frac{2}{7}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0647",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 7,
+      "stem": "方程 $\\sin2x-\\frac{1}{4}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left(1,\\frac{65}{64}\\right)",
+        "\\left(\\frac{1}{4}\\sqrt2-1,\\frac{65}{64}\\right)",
+        "\\left[\\frac{1}{4}\\sqrt2-1,\\frac{65}{64}\\right]",
+        "(-1,1)"
+      ],
+      "answer": 1,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{1}{4}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/8 位于区间内；判别式正给 m<\\frac{65}{64}；两端值正给 m>\\frac{1}{4}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0648",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 8,
+      "stem": "方程 $\\sin2x-\\frac{2}{9}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left(\\frac{2}{9}\\sqrt2-1,\\frac{82}{81}\\right)",
+        "\\left[\\frac{2}{9}\\sqrt2-1,\\frac{82}{81}\\right]",
+        "(-1,1)",
+        "\\left(1,\\frac{82}{81}\\right)"
+      ],
+      "answer": 0,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{2}{9}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/9 位于区间内；判别式正给 m<\\frac{82}{81}；两端值正给 m>\\frac{2}{9}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0649",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 9,
+      "stem": "方程 $\\sin2x-\\frac{1}{5}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "\\left[\\frac{1}{5}\\sqrt2-1,\\frac{101}{100}\\right]",
+        "(-1,1)",
+        "\\left(1,\\frac{101}{100}\\right)",
+        "\\left(\\frac{1}{5}\\sqrt2-1,\\frac{101}{100}\\right)"
+      ],
+      "answer": 3,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{1}{5}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/10 位于区间内；判别式正给 m<\\frac{101}{100}；两端值正给 m>\\frac{1}{5}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0650",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-1",
+      "variant": 10,
+      "stem": "方程 $\\sin2x-\\frac{2}{11}(\\sin x+\\cos x)+m=0$ 在 $[0,2\\pi)$ 内恰有四个不同实根，则 m 的范围为",
+      "options": [
+        "(-1,1)",
+        "\\left(1,\\frac{122}{121}\\right)",
+        "\\left(\\frac{2}{11}\\sqrt2-1,\\frac{122}{121}\\right)",
+        "\\left[\\frac{2}{11}\\sqrt2-1,\\frac{122}{121}\\right]"
+      ],
+      "answer": 2,
+      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-\\frac{2}{11}t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/11 位于区间内；判别式正给 m<\\frac{122}{121}；两端值正给 m>\\frac{2}{11}√2-1。取交集，端点均排除。"
+    },
+    {
+      "id": "M0651",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 1,
+      "stem": "函数 $f(x)=\\frac{2+\\sin x}{2+\\cos x}$ 的值域为",
+      "options": [
+        "[0,2]",
+        "\\left[1,\\frac{3}{1}\\right]",
+        "\\left[\\frac{4-\\sqrt{7}}{3},\\frac{4+\\sqrt{7}}{3}\\right]",
+        "[\\frac{1}{3},3]"
+      ],
+      "answer": 2,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=2(t-1)。存在角 x 的充要条件为 4(t-1)²≤1+t²，即 (3)t²-8t+3≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0652",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 2,
+      "stem": "函数 $f(x)=\\frac{3+\\sin x}{3+\\cos x}$ 的值域为",
+      "options": [
+        "\\left[1,\\frac{4}{2}\\right]",
+        "\\left[\\frac{9-\\sqrt{17}}{8},\\frac{9+\\sqrt{17}}{8}\\right]",
+        "[\\frac{1}{2},2]",
+        "[0,2]"
+      ],
+      "answer": 1,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=3(t-1)。存在角 x 的充要条件为 9(t-1)²≤1+t²，即 (8)t²-18t+8≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0653",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 3,
+      "stem": "函数 $f(x)=\\frac{4+\\sin x}{4+\\cos x}$ 的值域为",
+      "options": [
+        "\\left[\\frac{16-\\sqrt{31}}{15},\\frac{16+\\sqrt{31}}{15}\\right]",
+        "[\\frac{3}{5},\\frac{5}{3}]",
+        "[0,2]",
+        "\\left[1,\\frac{5}{3}\\right]"
+      ],
+      "answer": 0,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=4(t-1)。存在角 x 的充要条件为 16(t-1)²≤1+t²，即 (15)t²-32t+15≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0654",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 4,
+      "stem": "函数 $f(x)=\\frac{5+\\sin x}{5+\\cos x}$ 的值域为",
+      "options": [
+        "[\\frac{2}{3},\\frac{3}{2}]",
+        "[0,2]",
+        "\\left[1,\\frac{6}{4}\\right]",
+        "\\left[\\frac{25-\\sqrt{49}}{24},\\frac{25+\\sqrt{49}}{24}\\right]"
+      ],
+      "answer": 3,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=5(t-1)。存在角 x 的充要条件为 25(t-1)²≤1+t²，即 (24)t²-50t+24≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0655",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 5,
+      "stem": "函数 $f(x)=\\frac{6+\\sin x}{6+\\cos x}$ 的值域为",
+      "options": [
+        "[0,2]",
+        "\\left[1,\\frac{7}{5}\\right]",
+        "\\left[\\frac{36-\\sqrt{71}}{35},\\frac{36+\\sqrt{71}}{35}\\right]",
+        "[\\frac{5}{7},\\frac{7}{5}]"
+      ],
+      "answer": 2,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=6(t-1)。存在角 x 的充要条件为 36(t-1)²≤1+t²，即 (35)t²-72t+35≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0656",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 6,
+      "stem": "函数 $f(x)=\\frac{7+\\sin x}{7+\\cos x}$ 的值域为",
+      "options": [
+        "\\left[1,\\frac{8}{6}\\right]",
+        "\\left[\\frac{49-\\sqrt{97}}{48},\\frac{49+\\sqrt{97}}{48}\\right]",
+        "[\\frac{3}{4},\\frac{4}{3}]",
+        "[0,2]"
+      ],
+      "answer": 1,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=7(t-1)。存在角 x 的充要条件为 49(t-1)²≤1+t²，即 (48)t²-98t+48≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0657",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 7,
+      "stem": "函数 $f(x)=\\frac{8+\\sin x}{8+\\cos x}$ 的值域为",
+      "options": [
+        "\\left[\\frac{64-\\sqrt{127}}{63},\\frac{64+\\sqrt{127}}{63}\\right]",
+        "[\\frac{7}{9},\\frac{9}{7}]",
+        "[0,2]",
+        "\\left[1,\\frac{9}{7}\\right]"
+      ],
+      "answer": 0,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=8(t-1)。存在角 x 的充要条件为 64(t-1)²≤1+t²，即 (63)t²-128t+63≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0658",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 8,
+      "stem": "函数 $f(x)=\\frac{9+\\sin x}{9+\\cos x}$ 的值域为",
+      "options": [
+        "[\\frac{4}{5},\\frac{5}{4}]",
+        "[0,2]",
+        "\\left[1,\\frac{10}{8}\\right]",
+        "\\left[\\frac{81-\\sqrt{161}}{80},\\frac{81+\\sqrt{161}}{80}\\right]"
+      ],
+      "answer": 3,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=9(t-1)。存在角 x 的充要条件为 81(t-1)²≤1+t²，即 (80)t²-162t+80≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0659",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 9,
+      "stem": "函数 $f(x)=\\frac{10+\\sin x}{10+\\cos x}$ 的值域为",
+      "options": [
+        "[0,2]",
+        "\\left[1,\\frac{11}{9}\\right]",
+        "\\left[\\frac{100-\\sqrt{199}}{99},\\frac{100+\\sqrt{199}}{99}\\right]",
+        "[\\frac{9}{11},\\frac{11}{9}]"
+      ],
+      "answer": 2,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=10(t-1)。存在角 x 的充要条件为 100(t-1)²≤1+t²，即 (99)t²-200t+99≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0660",
+      "batch": 3,
+      "topic": "trig-identity",
+      "topicName": "三角恒等变换",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "trig-identity-hard-2",
+      "variant": 10,
+      "stem": "函数 $f(x)=\\frac{11+\\sin x}{11+\\cos x}$ 的值域为",
+      "options": [
+        "\\left[1,\\frac{12}{10}\\right]",
+        "\\left[\\frac{121-\\sqrt{241}}{120},\\frac{121+\\sqrt{241}}{120}\\right]",
+        "[\\frac{5}{6},\\frac{6}{5}]",
+        "[0,2]"
+      ],
+      "answer": 1,
+      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=11(t-1)。存在角 x 的充要条件为 121(t-1)²≤1+t²，即 (120)t²-242t+120≤0。解该二次不等式得到闭区间，等号对应可取的角。"
+    },
+    {
+      "id": "M0661",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 1,
+      "stem": "直角三角形的两直角边为 6 和 8，斜边长为",
+      "options": [
+        "50",
+        "10",
+        "14",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "由勾股定理得斜边 √((6)²+(8)²)=10。"
+    },
+    {
+      "id": "M0662",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 2,
+      "stem": "直角三角形的两直角边为 9 和 12，斜边长为",
+      "options": [
+        "15",
+        "21",
+        "3",
+        "75"
+      ],
+      "answer": 0,
+      "explanation": "由勾股定理得斜边 √((9)²+(12)²)=15。"
+    },
+    {
+      "id": "M0663",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 3,
+      "stem": "直角三角形的两直角边为 12 和 16，斜边长为",
+      "options": [
+        "28",
+        "4",
+        "100",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "由勾股定理得斜边 √((12)²+(16)²)=20。"
+    },
+    {
+      "id": "M0664",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 4,
+      "stem": "直角三角形的两直角边为 15 和 20，斜边长为",
+      "options": [
+        "5",
+        "125",
+        "25",
+        "35"
+      ],
+      "answer": 2,
+      "explanation": "由勾股定理得斜边 √((15)²+(20)²)=25。"
+    },
+    {
+      "id": "M0665",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 5,
+      "stem": "直角三角形的两直角边为 18 和 24，斜边长为",
+      "options": [
+        "150",
+        "30",
+        "42",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "由勾股定理得斜边 √((18)²+(24)²)=30。"
+    },
+    {
+      "id": "M0666",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 6,
+      "stem": "直角三角形的两直角边为 21 和 28，斜边长为",
+      "options": [
+        "35",
+        "49",
+        "7",
+        "175"
+      ],
+      "answer": 0,
+      "explanation": "由勾股定理得斜边 √((21)²+(28)²)=35。"
+    },
+    {
+      "id": "M0667",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 7,
+      "stem": "直角三角形的两直角边为 24 和 32，斜边长为",
+      "options": [
+        "56",
+        "8",
+        "200",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "由勾股定理得斜边 √((24)²+(32)²)=40。"
+    },
+    {
+      "id": "M0668",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 8,
+      "stem": "直角三角形的两直角边为 27 和 36，斜边长为",
+      "options": [
+        "9",
+        "225",
+        "45",
+        "63"
+      ],
+      "answer": 2,
+      "explanation": "由勾股定理得斜边 √((27)²+(36)²)=45。"
+    },
+    {
+      "id": "M0669",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 9,
+      "stem": "直角三角形的两直角边为 30 和 40，斜边长为",
+      "options": [
+        "250",
+        "50",
+        "70",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "由勾股定理得斜边 √((30)²+(40)²)=50。"
+    },
+    {
+      "id": "M0670",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-1",
+      "variant": 10,
+      "stem": "直角三角形的两直角边为 33 和 44，斜边长为",
+      "options": [
+        "55",
+        "77",
+        "11",
+        "275"
+      ],
+      "answer": 0,
+      "explanation": "由勾股定理得斜边 √((33)²+(44)²)=55。"
+    },
+    {
+      "id": "M0671",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 1,
+      "stem": "三角形中，边长 $a=2$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=2。"
+    },
+    {
+      "id": "M0672",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 2,
+      "stem": "三角形中，边长 $a=3$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "6",
+        "\\frac{3}{2}",
+        "9",
+        "3"
+      ],
+      "answer": 3,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=3。"
+    },
+    {
+      "id": "M0673",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 3,
+      "stem": "三角形中，边长 $a=4$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "2",
+        "16",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=4。"
+    },
+    {
+      "id": "M0674",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 4,
+      "stem": "三角形中，边长 $a=5$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "25",
+        "5",
+        "10",
+        "\\frac{5}{2}"
+      ],
+      "answer": 1,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=5。"
+    },
+    {
+      "id": "M0675",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 5,
+      "stem": "三角形中，边长 $a=6$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "6",
+        "12",
+        "3",
+        "36"
+      ],
+      "answer": 0,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=6。"
+    },
+    {
+      "id": "M0676",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 6,
+      "stem": "三角形中，边长 $a=7$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "14",
+        "\\frac{7}{2}",
+        "49",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=7。"
+    },
+    {
+      "id": "M0677",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 7,
+      "stem": "三角形中，边长 $a=8$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "4",
+        "64",
+        "8",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=8。"
+    },
+    {
+      "id": "M0678",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 8,
+      "stem": "三角形中，边长 $a=9$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "81",
+        "9",
+        "18",
+        "\\frac{9}{2}"
+      ],
+      "answer": 1,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=9。"
+    },
+    {
+      "id": "M0679",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 9,
+      "stem": "三角形中，边长 $a=10$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "100"
+      ],
+      "answer": 0,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=10。"
+    },
+    {
+      "id": "M0680",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "triangle-easy-2",
+      "variant": 10,
+      "stem": "三角形中，边长 $a=11$ 对应的角 $A=30^\\circ$。外接圆半径 R 为",
+      "options": [
+        "22",
+        "\\frac{11}{2}",
+        "121",
+        "11"
+      ],
+      "answer": 3,
+      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=11。"
+    },
+    {
+      "id": "M0681",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 1,
+      "stem": "三角形三边长分别为 2、2、3，最长边对应角的余弦为",
+      "options": [
+        "-\\frac{1}{8}",
+        "\\frac{9}{8}",
+        "\\frac{5}{8}",
+        "\\frac{1}{8}"
+      ],
+      "answer": 0,
+      "explanation": "余弦定理给 cos C=(4+4-9)/(2×4)=-\\frac{1}{8}。"
+    },
+    {
+      "id": "M0682",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 2,
+      "stem": "三角形三边长分别为 3、3、4，最长边对应角的余弦为",
+      "options": [
+        "\\frac{8}{9}",
+        "\\frac{7}{18}",
+        "\\frac{2}{9}",
+        "\\frac{1}{9}"
+      ],
+      "answer": 3,
+      "explanation": "余弦定理给 cos C=(9+9-16)/(2×9)=\\frac{1}{9}。"
+    },
+    {
+      "id": "M0683",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 3,
+      "stem": "三角形三边长分别为 4、4、5，最长边对应角的余弦为",
+      "options": [
+        "\\frac{9}{32}",
+        "\\frac{103}{32}",
+        "\\frac{7}{32}",
+        "\\frac{25}{32}"
+      ],
+      "answer": 2,
+      "explanation": "余弦定理给 cos C=(16+16-25)/(2×16)=\\frac{7}{32}。"
+    },
+    {
+      "id": "M0684",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 4,
+      "stem": "三角形三边长分别为 5、5、6，最长边对应角的余弦为",
+      "options": [
+        "\\frac{8}{25}",
+        "\\frac{7}{25}",
+        "\\frac{18}{25}",
+        "\\frac{11}{50}"
+      ],
+      "answer": 1,
+      "explanation": "余弦定理给 cos C=(25+25-36)/(2×25)=\\frac{7}{25}。"
+    },
+    {
+      "id": "M0685",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 5,
+      "stem": "三角形三边长分别为 6、6、7，最长边对应角的余弦为",
+      "options": [
+        "\\frac{23}{72}",
+        "\\frac{49}{72}",
+        "\\frac{13}{72}",
+        "\\frac{25}{72}"
+      ],
+      "answer": 0,
+      "explanation": "余弦定理给 cos C=(36+36-49)/(2×36)=\\frac{23}{72}。"
+    },
+    {
+      "id": "M0686",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 6,
+      "stem": "三角形三边长分别为 7、7、8，最长边对应角的余弦为",
+      "options": [
+        "\\frac{32}{49}",
+        "\\frac{15}{98}",
+        "\\frac{18}{49}",
+        "\\frac{17}{49}"
+      ],
+      "answer": 3,
+      "explanation": "余弦定理给 cos C=(49+49-64)/(2×49)=\\frac{17}{49}。"
+    },
+    {
+      "id": "M0687",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 7,
+      "stem": "三角形三边长分别为 8、8、9，最长边对应角的余弦为",
+      "options": [
+        "\\frac{17}{128}",
+        "\\frac{49}{128}",
+        "\\frac{47}{128}",
+        "\\frac{81}{128}"
+      ],
+      "answer": 2,
+      "explanation": "余弦定理给 cos C=(64+64-81)/(2×64)=\\frac{47}{128}。"
+    },
+    {
+      "id": "M0688",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 8,
+      "stem": "三角形三边长分别为 9、9、10，最长边对应角的余弦为",
+      "options": [
+        "\\frac{32}{81}",
+        "\\frac{31}{81}",
+        "\\frac{50}{81}",
+        "\\frac{19}{162}"
+      ],
+      "answer": 1,
+      "explanation": "余弦定理给 cos C=(81+81-100)/(2×81)=\\frac{31}{81}。"
+    },
+    {
+      "id": "M0689",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 9,
+      "stem": "三角形三边长分别为 10、10、11，最长边对应角的余弦为",
+      "options": [
+        "\\frac{79}{200}",
+        "\\frac{121}{200}",
+        "\\frac{21}{200}",
+        "\\frac{81}{200}"
+      ],
+      "answer": 0,
+      "explanation": "余弦定理给 cos C=(100+100-121)/(2×100)=\\frac{79}{200}。"
+    },
+    {
+      "id": "M0690",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-1",
+      "variant": 10,
+      "stem": "三角形三边长分别为 11、11、12，最长边对应角的余弦为",
+      "options": [
+        "\\frac{72}{121}",
+        "\\frac{23}{242}",
+        "\\frac{50}{121}",
+        "\\frac{49}{121}"
+      ],
+      "answer": 3,
+      "explanation": "余弦定理给 cos C=(121+121-144)/(2×121)=\\frac{49}{121}。"
+    },
+    {
+      "id": "M0691",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 1,
+      "stem": "三角形两边长为 2、3，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "3\\sqrt3",
+        "3",
+        "6\\sqrt3",
+        "\\frac{3}{2}\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 \\frac{3}{2}√3。"
+    },
+    {
+      "id": "M0692",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 2,
+      "stem": "三角形两边长为 3、4，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "6",
+        "12\\sqrt3",
+        "3\\sqrt3",
+        "6\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 3√3。"
+    },
+    {
+      "id": "M0693",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 3,
+      "stem": "三角形两边长为 4、5，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "20\\sqrt3",
+        "5\\sqrt3",
+        "10\\sqrt3",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 5√3。"
+    },
+    {
+      "id": "M0694",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 4,
+      "stem": "三角形两边长为 5、6，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "\\frac{15}{2}\\sqrt3",
+        "15\\sqrt3",
+        "15",
+        "30\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 \\frac{15}{2}√3。"
+    },
+    {
+      "id": "M0695",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 5,
+      "stem": "三角形两边长为 6、7，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "21\\sqrt3",
+        "21",
+        "42\\sqrt3",
+        "\\frac{21}{2}\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 \\frac{21}{2}√3。"
+    },
+    {
+      "id": "M0696",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 6,
+      "stem": "三角形两边长为 7、8，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "28",
+        "56\\sqrt3",
+        "14\\sqrt3",
+        "28\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 14√3。"
+    },
+    {
+      "id": "M0697",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 7,
+      "stem": "三角形两边长为 8、9，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "72\\sqrt3",
+        "18\\sqrt3",
+        "36\\sqrt3",
+        "36"
+      ],
+      "answer": 1,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 18√3。"
+    },
+    {
+      "id": "M0698",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 8,
+      "stem": "三角形两边长为 9、10，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "\\frac{45}{2}\\sqrt3",
+        "45\\sqrt3",
+        "45",
+        "90\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 \\frac{45}{2}√3。"
+    },
+    {
+      "id": "M0699",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 9,
+      "stem": "三角形两边长为 10、11，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "55\\sqrt3",
+        "55",
+        "110\\sqrt3",
+        "\\frac{55}{2}\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 \\frac{55}{2}√3。"
+    },
+    {
+      "id": "M0700",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "triangle-medium-2",
+      "variant": 10,
+      "stem": "三角形两边长为 11、12，夹角为 $60^\\circ$，其面积为",
+      "options": [
+        "66",
+        "132\\sqrt3",
+        "33\\sqrt3",
+        "66\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 33√3。"
+    },
+    {
+      "id": "M0701",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 1,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=4$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{2}{3}\\sqrt3",
+        "1\\sqrt3",
+        "2\\sqrt3",
+        "\\frac{1}{3}\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "令 b=AC,c=AB，b+c=4，记 d=BC。余弦定理得 d²=16-3bc。面积 S=√3 bc/4，半周长 p=(4+d)/2。代入 bc=(16-d²)/3，化简 r=S/p=√3(4-d)/6。又 bc≤4，故 d≥2。当 b=c=2 时取等，最大半径为 $\\frac{1}{3}\\sqrt3$。"
+    },
+    {
+      "id": "M0702",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 2,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=6$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{3}{2}\\sqrt3",
+        "3\\sqrt3",
+        "\\frac{1}{2}\\sqrt3",
+        "1\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "令 b=AC,c=AB，b+c=6，记 d=BC。余弦定理得 d²=36-3bc。面积 S=√3 bc/4，半周长 p=(6+d)/2。代入 bc=(36-d²)/3，化简 r=S/p=√3(6-d)/6。又 bc≤9，故 d≥3。当 b=c=3 时取等，最大半径为 $\\frac{1}{2}\\sqrt3$。"
+    },
+    {
+      "id": "M0703",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 3,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=8$。其内切圆半径的最大值为",
+      "options": [
+        "4\\sqrt3",
+        "\\frac{2}{3}\\sqrt3",
+        "\\frac{4}{3}\\sqrt3",
+        "2\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "令 b=AC,c=AB，b+c=8，记 d=BC。余弦定理得 d²=64-3bc。面积 S=√3 bc/4，半周长 p=(8+d)/2。代入 bc=(64-d²)/3，化简 r=S/p=√3(8-d)/6。又 bc≤16，故 d≥4。当 b=c=4 时取等，最大半径为 $\\frac{2}{3}\\sqrt3$。"
+    },
+    {
+      "id": "M0704",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 4,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=10$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{5}{6}\\sqrt3",
+        "\\frac{5}{3}\\sqrt3",
+        "\\frac{5}{2}\\sqrt3",
+        "5\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "令 b=AC,c=AB，b+c=10，记 d=BC。余弦定理得 d²=100-3bc。面积 S=√3 bc/4，半周长 p=(10+d)/2。代入 bc=(100-d²)/3，化简 r=S/p=√3(10-d)/6。又 bc≤25，故 d≥5。当 b=c=5 时取等，最大半径为 $\\frac{5}{6}\\sqrt3$。"
+    },
+    {
+      "id": "M0705",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 5,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=12$。其内切圆半径的最大值为",
+      "options": [
+        "2\\sqrt3",
+        "3\\sqrt3",
+        "6\\sqrt3",
+        "1\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "令 b=AC,c=AB，b+c=12，记 d=BC。余弦定理得 d²=144-3bc。面积 S=√3 bc/4，半周长 p=(12+d)/2。代入 bc=(144-d²)/3，化简 r=S/p=√3(12-d)/6。又 bc≤36，故 d≥6。当 b=c=6 时取等，最大半径为 $1\\sqrt3$。"
+    },
+    {
+      "id": "M0706",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 6,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=14$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{7}{2}\\sqrt3",
+        "7\\sqrt3",
+        "\\frac{7}{6}\\sqrt3",
+        "\\frac{7}{3}\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "令 b=AC,c=AB，b+c=14，记 d=BC。余弦定理得 d²=196-3bc。面积 S=√3 bc/4，半周长 p=(14+d)/2。代入 bc=(196-d²)/3，化简 r=S/p=√3(14-d)/6。又 bc≤49，故 d≥7。当 b=c=7 时取等，最大半径为 $\\frac{7}{6}\\sqrt3$。"
+    },
+    {
+      "id": "M0707",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 7,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=16$。其内切圆半径的最大值为",
+      "options": [
+        "8\\sqrt3",
+        "\\frac{4}{3}\\sqrt3",
+        "\\frac{8}{3}\\sqrt3",
+        "4\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "令 b=AC,c=AB，b+c=16，记 d=BC。余弦定理得 d²=256-3bc。面积 S=√3 bc/4，半周长 p=(16+d)/2。代入 bc=(256-d²)/3，化简 r=S/p=√3(16-d)/6。又 bc≤64，故 d≥8。当 b=c=8 时取等，最大半径为 $\\frac{4}{3}\\sqrt3$。"
+    },
+    {
+      "id": "M0708",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 8,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=18$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{3}{2}\\sqrt3",
+        "3\\sqrt3",
+        "\\frac{9}{2}\\sqrt3",
+        "9\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "令 b=AC,c=AB，b+c=18，记 d=BC。余弦定理得 d²=324-3bc。面积 S=√3 bc/4，半周长 p=(18+d)/2。代入 bc=(324-d²)/3，化简 r=S/p=√3(18-d)/6。又 bc≤81，故 d≥9。当 b=c=9 时取等，最大半径为 $\\frac{3}{2}\\sqrt3$。"
+    },
+    {
+      "id": "M0709",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 9,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=20$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{10}{3}\\sqrt3",
+        "5\\sqrt3",
+        "10\\sqrt3",
+        "\\frac{5}{3}\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "令 b=AC,c=AB，b+c=20，记 d=BC。余弦定理得 d²=400-3bc。面积 S=√3 bc/4，半周长 p=(20+d)/2。代入 bc=(400-d²)/3，化简 r=S/p=√3(20-d)/6。又 bc≤100，故 d≥10。当 b=c=10 时取等，最大半径为 $\\frac{5}{3}\\sqrt3$。"
+    },
+    {
+      "id": "M0710",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-1",
+      "variant": 10,
+      "stem": "三角形 ABC 满足 $A=60^\\circ$，且 $AB+AC=22$。其内切圆半径的最大值为",
+      "options": [
+        "\\frac{11}{2}\\sqrt3",
+        "11\\sqrt3",
+        "\\frac{11}{6}\\sqrt3",
+        "\\frac{11}{3}\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "令 b=AC,c=AB，b+c=22，记 d=BC。余弦定理得 d²=484-3bc。面积 S=√3 bc/4，半周长 p=(22+d)/2。代入 bc=(484-d²)/3，化简 r=S/p=√3(22-d)/6。又 bc≤121，故 d≥11。当 b=c=11 时取等，最大半径为 $\\frac{11}{6}\\sqrt3$。"
+    },
+    {
+      "id": "M0711",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 1,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=2$。周长的最小值为",
+      "options": [
+        "8\\sqrt3",
+        "24",
+        "12\\sqrt3",
+        "6\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=2√3，因此 p≥6√3。等边三角形可取等，周长最小 12√3。"
+    },
+    {
+      "id": "M0712",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 2,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=3$。周长的最小值为",
+      "options": [
+        "36",
+        "18\\sqrt3",
+        "9\\sqrt3",
+        "12\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=3√3，因此 p≥9√3。等边三角形可取等，周长最小 18√3。"
+    },
+    {
+      "id": "M0713",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 3,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=4$。周长的最小值为",
+      "options": [
+        "24\\sqrt3",
+        "12\\sqrt3",
+        "16\\sqrt3",
+        "48"
+      ],
+      "answer": 0,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=4√3，因此 p≥12√3。等边三角形可取等，周长最小 24√3。"
+    },
+    {
+      "id": "M0714",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 4,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=5$。周长的最小值为",
+      "options": [
+        "15\\sqrt3",
+        "20\\sqrt3",
+        "60",
+        "30\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=5√3，因此 p≥15√3。等边三角形可取等，周长最小 30√3。"
+    },
+    {
+      "id": "M0715",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 5,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=6$。周长的最小值为",
+      "options": [
+        "24\\sqrt3",
+        "72",
+        "36\\sqrt3",
+        "18\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=6√3，因此 p≥18√3。等边三角形可取等，周长最小 36√3。"
+    },
+    {
+      "id": "M0716",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 6,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=7$。周长的最小值为",
+      "options": [
+        "84",
+        "42\\sqrt3",
+        "21\\sqrt3",
+        "28\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=7√3，因此 p≥21√3。等边三角形可取等，周长最小 42√3。"
+    },
+    {
+      "id": "M0717",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 7,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=8$。周长的最小值为",
+      "options": [
+        "48\\sqrt3",
+        "24\\sqrt3",
+        "32\\sqrt3",
+        "96"
+      ],
+      "answer": 0,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=8√3，因此 p≥24√3。等边三角形可取等，周长最小 48√3。"
+    },
+    {
+      "id": "M0718",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 8,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=9$。周长的最小值为",
+      "options": [
+        "27\\sqrt3",
+        "36\\sqrt3",
+        "108",
+        "54\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=9√3，因此 p≥27√3。等边三角形可取等，周长最小 54√3。"
+    },
+    {
+      "id": "M0719",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 9,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=10$。周长的最小值为",
+      "options": [
+        "40\\sqrt3",
+        "120",
+        "60\\sqrt3",
+        "30\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=10√3，因此 p≥30√3。等边三角形可取等，周长最小 60√3。"
+    },
+    {
+      "id": "M0720",
+      "batch": 3,
+      "topic": "triangle",
+      "topicName": "正弦定理、余弦定理与解三角形",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "triangle-hard-2",
+      "variant": 10,
+      "stem": "三角形 ABC 中，$A=60^\\circ$，内切圆半径 $r=11$。周长的最小值为",
+      "options": [
+        "132",
+        "66\\sqrt3",
+        "33\\sqrt3",
+        "44\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=11√3，因此 p≥33√3。等边三角形可取等，周长最小 66√3。"
+    },
+    {
+      "id": "M0721",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 1,
+      "stem": "向量 $\\boldsymbol u=(2,2),\\ \\boldsymbol v=(1,2)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(4,3)",
+        "(3,4)",
+        "(2,4)",
+        "(1,0)"
+      ],
+      "answer": 1,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0722",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 2,
+      "stem": "向量 $\\boldsymbol u=(3,2),\\ \\boldsymbol v=(1,3)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(4,5)",
+        "(3,6)",
+        "(2,-1)",
+        "(5,4)"
+      ],
+      "answer": 0,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0723",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 3,
+      "stem": "向量 $\\boldsymbol u=(4,2),\\ \\boldsymbol v=(1,4)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(4,8)",
+        "(3,-2)",
+        "(6,5)",
+        "(5,6)"
+      ],
+      "answer": 3,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0724",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 4,
+      "stem": "向量 $\\boldsymbol u=(5,2),\\ \\boldsymbol v=(1,5)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(4,-3)",
+        "(7,6)",
+        "(6,7)",
+        "(5,10)"
+      ],
+      "answer": 2,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0725",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 5,
+      "stem": "向量 $\\boldsymbol u=(6,2),\\ \\boldsymbol v=(1,6)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(8,7)",
+        "(7,8)",
+        "(6,12)",
+        "(5,-4)"
+      ],
+      "answer": 1,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0726",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 6,
+      "stem": "向量 $\\boldsymbol u=(7,2),\\ \\boldsymbol v=(1,7)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(8,9)",
+        "(7,14)",
+        "(6,-5)",
+        "(9,8)"
+      ],
+      "answer": 0,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0727",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 7,
+      "stem": "向量 $\\boldsymbol u=(8,2),\\ \\boldsymbol v=(1,8)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(8,16)",
+        "(7,-6)",
+        "(10,9)",
+        "(9,10)"
+      ],
+      "answer": 3,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0728",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 8,
+      "stem": "向量 $\\boldsymbol u=(9,2),\\ \\boldsymbol v=(1,9)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(8,-7)",
+        "(11,10)",
+        "(10,11)",
+        "(9,18)"
+      ],
+      "answer": 2,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0729",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 9,
+      "stem": "向量 $\\boldsymbol u=(10,2),\\ \\boldsymbol v=(1,10)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(12,11)",
+        "(11,12)",
+        "(10,20)",
+        "(9,-8)"
+      ],
+      "answer": 1,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0730",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-1",
+      "variant": 10,
+      "stem": "向量 $\\boldsymbol u=(11,2),\\ \\boldsymbol v=(1,11)$，则 $\\boldsymbol u+\\boldsymbol v$ 为",
+      "options": [
+        "(12,13)",
+        "(11,22)",
+        "(10,-9)",
+        "(13,12)"
+      ],
+      "answer": 0,
+      "explanation": "向量相加按对应坐标相加。"
+    },
+    {
+      "id": "M0731",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 1,
+      "stem": "向量 $\\boldsymbol u=(2,1),\\ \\boldsymbol v=(1,2)$ 的数量积为",
+      "options": [
+        "4",
+        "5",
+        "0",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "按坐标计算数量积：2×1+1×2=4。"
+    },
+    {
+      "id": "M0732",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 2,
+      "stem": "向量 $\\boldsymbol u=(3,1),\\ \\boldsymbol v=(1,3)$ 的数量积为",
+      "options": [
+        "10",
+        "9",
+        "0",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "按坐标计算数量积：3×1+1×3=6。"
+    },
+    {
+      "id": "M0733",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 3,
+      "stem": "向量 $\\boldsymbol u=(4,1),\\ \\boldsymbol v=(1,4)$ 的数量积为",
+      "options": [
+        "16",
+        "0",
+        "8",
+        "17"
+      ],
+      "answer": 2,
+      "explanation": "按坐标计算数量积：4×1+1×4=8。"
+    },
+    {
+      "id": "M0734",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 4,
+      "stem": "向量 $\\boldsymbol u=(5,1),\\ \\boldsymbol v=(1,5)$ 的数量积为",
+      "options": [
+        "0",
+        "10",
+        "26",
+        "25"
+      ],
+      "answer": 1,
+      "explanation": "按坐标计算数量积：5×1+1×5=10。"
+    },
+    {
+      "id": "M0735",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 5,
+      "stem": "向量 $\\boldsymbol u=(6,1),\\ \\boldsymbol v=(1,6)$ 的数量积为",
+      "options": [
+        "12",
+        "37",
+        "36",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "按坐标计算数量积：6×1+1×6=12。"
+    },
+    {
+      "id": "M0736",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 6,
+      "stem": "向量 $\\boldsymbol u=(7,1),\\ \\boldsymbol v=(1,7)$ 的数量积为",
+      "options": [
+        "50",
+        "49",
+        "0",
+        "14"
+      ],
+      "answer": 3,
+      "explanation": "按坐标计算数量积：7×1+1×7=14。"
+    },
+    {
+      "id": "M0737",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 7,
+      "stem": "向量 $\\boldsymbol u=(8,1),\\ \\boldsymbol v=(1,8)$ 的数量积为",
+      "options": [
+        "64",
+        "0",
+        "16",
+        "65"
+      ],
+      "answer": 2,
+      "explanation": "按坐标计算数量积：8×1+1×8=16。"
+    },
+    {
+      "id": "M0738",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 8,
+      "stem": "向量 $\\boldsymbol u=(9,1),\\ \\boldsymbol v=(1,9)$ 的数量积为",
+      "options": [
+        "0",
+        "18",
+        "82",
+        "81"
+      ],
+      "answer": 1,
+      "explanation": "按坐标计算数量积：9×1+1×9=18。"
+    },
+    {
+      "id": "M0739",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 9,
+      "stem": "向量 $\\boldsymbol u=(10,1),\\ \\boldsymbol v=(1,10)$ 的数量积为",
+      "options": [
+        "20",
+        "101",
+        "100",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "按坐标计算数量积：10×1+1×10=20。"
+    },
+    {
+      "id": "M0740",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "vectors-easy-2",
+      "variant": 10,
+      "stem": "向量 $\\boldsymbol u=(11,1),\\ \\boldsymbol v=(1,11)$ 的数量积为",
+      "options": [
+        "122",
+        "121",
+        "0",
+        "22"
+      ],
+      "answer": 3,
+      "explanation": "按坐标计算数量积：11×1+1×11=22。"
+    },
+    {
+      "id": "M0741",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 1,
+      "stem": "向量 $(2,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-4",
+        "4",
+        "-1",
+        "-2"
+      ],
+      "answer": 0,
+      "explanation": "垂直的非零向量数量积为零：4+k=0，故 k=-4。"
+    },
+    {
+      "id": "M0742",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 2,
+      "stem": "向量 $(3,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "6",
+        "-\\frac{2}{3}",
+        "-3",
+        "-6"
+      ],
+      "answer": 3,
+      "explanation": "垂直的非零向量数量积为零：6+k=0，故 k=-6。"
+    },
+    {
+      "id": "M0743",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 3,
+      "stem": "向量 $(4,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-\\frac{1}{2}",
+        "-4",
+        "-8",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "垂直的非零向量数量积为零：8+k=0，故 k=-8。"
+    },
+    {
+      "id": "M0744",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 4,
+      "stem": "向量 $(5,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-5",
+        "-10",
+        "10",
+        "-\\frac{2}{5}"
+      ],
+      "answer": 1,
+      "explanation": "垂直的非零向量数量积为零：10+k=0，故 k=-10。"
+    },
+    {
+      "id": "M0745",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 5,
+      "stem": "向量 $(6,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-12",
+        "12",
+        "-\\frac{1}{3}",
+        "-6"
+      ],
+      "answer": 0,
+      "explanation": "垂直的非零向量数量积为零：12+k=0，故 k=-12。"
+    },
+    {
+      "id": "M0746",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 6,
+      "stem": "向量 $(7,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "14",
+        "-\\frac{2}{7}",
+        "-7",
+        "-14"
+      ],
+      "answer": 3,
+      "explanation": "垂直的非零向量数量积为零：14+k=0，故 k=-14。"
+    },
+    {
+      "id": "M0747",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 7,
+      "stem": "向量 $(8,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-\\frac{1}{4}",
+        "-8",
+        "-16",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "垂直的非零向量数量积为零：16+k=0，故 k=-16。"
+    },
+    {
+      "id": "M0748",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 8,
+      "stem": "向量 $(9,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-9",
+        "-18",
+        "18",
+        "-\\frac{2}{9}"
+      ],
+      "answer": 1,
+      "explanation": "垂直的非零向量数量积为零：18+k=0，故 k=-18。"
+    },
+    {
+      "id": "M0749",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 9,
+      "stem": "向量 $(10,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "-20",
+        "20",
+        "-\\frac{1}{5}",
+        "-10"
+      ],
+      "answer": 0,
+      "explanation": "垂直的非零向量数量积为零：20+k=0，故 k=-20。"
+    },
+    {
+      "id": "M0750",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-1",
+      "variant": 10,
+      "stem": "向量 $(11,1)$ 与 $(2,k)$ 垂直，则 k 为",
+      "options": [
+        "22",
+        "-\\frac{2}{11}",
+        "-11",
+        "-22"
+      ],
+      "answer": 3,
+      "explanation": "垂直的非零向量数量积为零：22+k=0，故 k=-22。"
+    },
+    {
+      "id": "M0751",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 1,
+      "stem": "已知 $|\\boldsymbol u|=2,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=2$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "8",
+        "10",
+        "16",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=4+4+4。"
+    },
+    {
+      "id": "M0752",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 2,
+      "stem": "已知 $|\\boldsymbol u|=3,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=3$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "16",
+        "25",
+        "19",
+        "13"
+      ],
+      "answer": 2,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=9+4+6。"
+    },
+    {
+      "id": "M0753",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 3,
+      "stem": "已知 $|\\boldsymbol u|=4,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=4$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "36",
+        "28",
+        "20",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=16+4+8。"
+    },
+    {
+      "id": "M0754",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 4,
+      "stem": "已知 $|\\boldsymbol u|=5,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=5$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "39",
+        "29",
+        "34",
+        "49"
+      ],
+      "answer": 0,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=25+4+10。"
+    },
+    {
+      "id": "M0755",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 5,
+      "stem": "已知 $|\\boldsymbol u|=6,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=6$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "40",
+        "46",
+        "64",
+        "52"
+      ],
+      "answer": 3,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=36+4+12。"
+    },
+    {
+      "id": "M0756",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 6,
+      "stem": "已知 $|\\boldsymbol u|=7,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=7$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "60",
+        "81",
+        "67",
+        "53"
+      ],
+      "answer": 2,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=49+4+14。"
+    },
+    {
+      "id": "M0757",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 7,
+      "stem": "已知 $|\\boldsymbol u|=8,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=8$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "100",
+        "84",
+        "68",
+        "76"
+      ],
+      "answer": 1,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=64+4+16。"
+    },
+    {
+      "id": "M0758",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 8,
+      "stem": "已知 $|\\boldsymbol u|=9,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=9$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "103",
+        "85",
+        "94",
+        "121"
+      ],
+      "answer": 0,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=81+4+18。"
+    },
+    {
+      "id": "M0759",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 9,
+      "stem": "已知 $|\\boldsymbol u|=10,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=10$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "104",
+        "114",
+        "144",
+        "124"
+      ],
+      "answer": 3,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=100+4+20。"
+    },
+    {
+      "id": "M0760",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "vectors-medium-2",
+      "variant": 10,
+      "stem": "已知 $|\\boldsymbol u|=11,\\ |\\boldsymbol v|=2,\\ \\boldsymbol u\\cdot\\boldsymbol v=11$，则 $|\\boldsymbol u+\\boldsymbol v|^2$ 为",
+      "options": [
+        "136",
+        "169",
+        "147",
+        "125"
+      ],
+      "answer": 2,
+      "explanation": "平方展开为 |u|²+|v|²+2u·v=121+4+22。"
+    },
+    {
+      "id": "M0761",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 1,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le2$，则 t 的范围为",
+      "options": [
+        "[0,1]",
+        "[-2,2]",
+        "\\left[\\frac{1-\\sqrt{9}}{2},\\frac{1+\\sqrt{9}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{5}}{2},\\frac{1+\\sqrt{5}}{2}\\right]"
+      ],
+      "answer": 3,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-2≤0，判别式为 5，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0762",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 2,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le3$，则 t 的范围为",
+      "options": [
+        "[-3,3]",
+        "\\left[\\frac{1-\\sqrt{13}}{2},\\frac{1+\\sqrt{13}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{9}}{2},\\frac{1+\\sqrt{9}}{2}\\right]",
+        "[0,1]"
+      ],
+      "answer": 2,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-3≤0，判别式为 9，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0763",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 3,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le4$，则 t 的范围为",
+      "options": [
+        "\\left[\\frac{1-\\sqrt{17}}{2},\\frac{1+\\sqrt{17}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{13}}{2},\\frac{1+\\sqrt{13}}{2}\\right]",
+        "[0,1]",
+        "[-4,4]"
+      ],
+      "answer": 1,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-4≤0，判别式为 13，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0764",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 4,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le5$，则 t 的范围为",
+      "options": [
+        "\\left[\\frac{1-\\sqrt{17}}{2},\\frac{1+\\sqrt{17}}{2}\\right]",
+        "[0,1]",
+        "[-5,5]",
+        "\\left[\\frac{1-\\sqrt{21}}{2},\\frac{1+\\sqrt{21}}{2}\\right]"
+      ],
+      "answer": 0,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-5≤0，判别式为 17，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0765",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 5,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le6$，则 t 的范围为",
+      "options": [
+        "[0,1]",
+        "[-6,6]",
+        "\\left[\\frac{1-\\sqrt{25}}{2},\\frac{1+\\sqrt{25}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{21}}{2},\\frac{1+\\sqrt{21}}{2}\\right]"
+      ],
+      "answer": 3,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-6≤0，判别式为 21，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0766",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 6,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le7$，则 t 的范围为",
+      "options": [
+        "[-7,7]",
+        "\\left[\\frac{1-\\sqrt{29}}{2},\\frac{1+\\sqrt{29}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{25}}{2},\\frac{1+\\sqrt{25}}{2}\\right]",
+        "[0,1]"
+      ],
+      "answer": 2,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-7≤0，判别式为 25，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0767",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 7,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le8$，则 t 的范围为",
+      "options": [
+        "\\left[\\frac{1-\\sqrt{33}}{2},\\frac{1+\\sqrt{33}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{29}}{2},\\frac{1+\\sqrt{29}}{2}\\right]",
+        "[0,1]",
+        "[-8,8]"
+      ],
+      "answer": 1,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-8≤0，判别式为 29，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0768",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 8,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le9$，则 t 的范围为",
+      "options": [
+        "\\left[\\frac{1-\\sqrt{33}}{2},\\frac{1+\\sqrt{33}}{2}\\right]",
+        "[0,1]",
+        "[-9,9]",
+        "\\left[\\frac{1-\\sqrt{37}}{2},\\frac{1+\\sqrt{37}}{2}\\right]"
+      ],
+      "answer": 0,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-9≤0，判别式为 33，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0769",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 9,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le10$，则 t 的范围为",
+      "options": [
+        "[0,1]",
+        "[-10,10]",
+        "\\left[\\frac{1-\\sqrt{41}}{2},\\frac{1+\\sqrt{41}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{37}}{2},\\frac{1+\\sqrt{37}}{2}\\right]"
+      ],
+      "answer": 3,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-10≤0，判别式为 37，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0770",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-1",
+      "variant": 10,
+      "stem": "向量 $\\boldsymbol u,\\boldsymbol v$ 满足 $|\\boldsymbol u|=|\\boldsymbol v|=1,\\ \\boldsymbol u\\cdot\\boldsymbol v=\\frac12$。若 $\\boldsymbol w=t\\boldsymbol u+(1-t)\\boldsymbol v$ 且 $|\\boldsymbol w|^2\\le11$，则 t 的范围为",
+      "options": [
+        "[-11,11]",
+        "\\left[\\frac{1-\\sqrt{45}}{2},\\frac{1+\\sqrt{45}}{2}\\right]",
+        "\\left[\\frac{1-\\sqrt{41}}{2},\\frac{1+\\sqrt{41}}{2}\\right]",
+        "[0,1]"
+      ],
+      "answer": 2,
+      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-11≤0，判别式为 41，解得两根之间的闭区间。"
+    },
+    {
+      "id": "M0771",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 1,
+      "stem": "平面内 $O=(0,0),\\ A=(4,0),\\ B=(0,4)$。点 P 在圆 $x^2+y^2=4$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-4",
+        "-12",
+        "4-8\\sqrt2",
+        "4+8\\sqrt2"
+      ],
+      "answer": 2,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=4-4(x+y)。圆上 x+y 最大为 2√2，因此最小值 4-8√2，取 P=(2/√2,2/√2) 可达。"
+    },
+    {
+      "id": "M0772",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 2,
+      "stem": "平面内 $O=(0,0),\\ A=(6,0),\\ B=(0,6)$。点 P 在圆 $x^2+y^2=9$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-27",
+        "9-18\\sqrt2",
+        "9+18\\sqrt2",
+        "-9"
+      ],
+      "answer": 1,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=9-6(x+y)。圆上 x+y 最大为 3√2，因此最小值 9-18√2，取 P=(3/√2,3/√2) 可达。"
+    },
+    {
+      "id": "M0773",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 3,
+      "stem": "平面内 $O=(0,0),\\ A=(8,0),\\ B=(0,8)$。点 P 在圆 $x^2+y^2=16$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "16-32\\sqrt2",
+        "16+32\\sqrt2",
+        "-16",
+        "-48"
+      ],
+      "answer": 0,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=16-8(x+y)。圆上 x+y 最大为 4√2，因此最小值 16-32√2，取 P=(4/√2,4/√2) 可达。"
+    },
+    {
+      "id": "M0774",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 4,
+      "stem": "平面内 $O=(0,0),\\ A=(10,0),\\ B=(0,10)$。点 P 在圆 $x^2+y^2=25$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "25+50\\sqrt2",
+        "-25",
+        "-75",
+        "25-50\\sqrt2"
+      ],
+      "answer": 3,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=25-10(x+y)。圆上 x+y 最大为 5√2，因此最小值 25-50√2，取 P=(5/√2,5/√2) 可达。"
+    },
+    {
+      "id": "M0775",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 5,
+      "stem": "平面内 $O=(0,0),\\ A=(12,0),\\ B=(0,12)$。点 P 在圆 $x^2+y^2=36$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-36",
+        "-108",
+        "36-72\\sqrt2",
+        "36+72\\sqrt2"
+      ],
+      "answer": 2,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=36-12(x+y)。圆上 x+y 最大为 6√2，因此最小值 36-72√2，取 P=(6/√2,6/√2) 可达。"
+    },
+    {
+      "id": "M0776",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 6,
+      "stem": "平面内 $O=(0,0),\\ A=(14,0),\\ B=(0,14)$。点 P 在圆 $x^2+y^2=49$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-147",
+        "49-98\\sqrt2",
+        "49+98\\sqrt2",
+        "-49"
+      ],
+      "answer": 1,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=49-14(x+y)。圆上 x+y 最大为 7√2，因此最小值 49-98√2，取 P=(7/√2,7/√2) 可达。"
+    },
+    {
+      "id": "M0777",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 7,
+      "stem": "平面内 $O=(0,0),\\ A=(16,0),\\ B=(0,16)$。点 P 在圆 $x^2+y^2=64$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "64-128\\sqrt2",
+        "64+128\\sqrt2",
+        "-64",
+        "-192"
+      ],
+      "answer": 0,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=64-16(x+y)。圆上 x+y 最大为 8√2，因此最小值 64-128√2，取 P=(8/√2,8/√2) 可达。"
+    },
+    {
+      "id": "M0778",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 8,
+      "stem": "平面内 $O=(0,0),\\ A=(18,0),\\ B=(0,18)$。点 P 在圆 $x^2+y^2=81$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "81+162\\sqrt2",
+        "-81",
+        "-243",
+        "81-162\\sqrt2"
+      ],
+      "answer": 3,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=81-18(x+y)。圆上 x+y 最大为 9√2，因此最小值 81-162√2，取 P=(9/√2,9/√2) 可达。"
+    },
+    {
+      "id": "M0779",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 9,
+      "stem": "平面内 $O=(0,0),\\ A=(20,0),\\ B=(0,20)$。点 P 在圆 $x^2+y^2=100$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-100",
+        "-300",
+        "100-200\\sqrt2",
+        "100+200\\sqrt2"
+      ],
+      "answer": 2,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=100-20(x+y)。圆上 x+y 最大为 10√2，因此最小值 100-200√2，取 P=(10/√2,10/√2) 可达。"
+    },
+    {
+      "id": "M0780",
+      "batch": 3,
+      "topic": "vectors",
+      "topicName": "平面向量与数量积",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "vectors-hard-2",
+      "variant": 10,
+      "stem": "平面内 $O=(0,0),\\ A=(22,0),\\ B=(0,22)$。点 P 在圆 $x^2+y^2=121$ 上运动，$\\overrightarrow{PA}\\cdot\\overrightarrow{PB}$ 的最小值为",
+      "options": [
+        "-363",
+        "121-242\\sqrt2",
+        "121+242\\sqrt2",
+        "-121"
+      ],
+      "answer": 1,
+      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=121-22(x+y)。圆上 x+y 最大为 11√2，因此最小值 121-242√2，取 P=(11/√2,11/√2) 可达。"
+    },
+    {
+      "id": "M0781",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 1,
+      "stem": "等差数列首项为 1，公差为 2，第 5 项为",
+      "options": [
+        "6",
+        "9",
+        "11",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×2。"
+    },
+    {
+      "id": "M0782",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 2,
+      "stem": "等差数列首项为 1，公差为 3，第 5 项为",
+      "options": [
+        "13",
+        "16",
+        "15",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×3。"
+    },
+    {
+      "id": "M0783",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 3,
+      "stem": "等差数列首项为 1，公差为 4，第 5 项为",
+      "options": [
+        "21",
+        "20",
+        "8",
+        "17"
+      ],
+      "answer": 3,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×4。"
+    },
+    {
+      "id": "M0784",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 4,
+      "stem": "等差数列首项为 1，公差为 5，第 5 项为",
+      "options": [
+        "25",
+        "9",
+        "21",
+        "26"
+      ],
+      "answer": 2,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×5。"
+    },
+    {
+      "id": "M0785",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 5,
+      "stem": "等差数列首项为 1，公差为 6，第 5 项为",
+      "options": [
+        "10",
+        "25",
+        "31",
+        "30"
+      ],
+      "answer": 1,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×6。"
+    },
+    {
+      "id": "M0786",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 6,
+      "stem": "等差数列首项为 1，公差为 7，第 5 项为",
+      "options": [
+        "29",
+        "36",
+        "35",
+        "11"
+      ],
+      "answer": 0,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×7。"
+    },
+    {
+      "id": "M0787",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 7,
+      "stem": "等差数列首项为 1，公差为 8，第 5 项为",
+      "options": [
+        "41",
+        "40",
+        "12",
+        "33"
+      ],
+      "answer": 3,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×8。"
+    },
+    {
+      "id": "M0788",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 8,
+      "stem": "等差数列首项为 1，公差为 9，第 5 项为",
+      "options": [
+        "45",
+        "13",
+        "37",
+        "46"
+      ],
+      "answer": 2,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×9。"
+    },
+    {
+      "id": "M0789",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 9,
+      "stem": "等差数列首项为 1，公差为 10，第 5 项为",
+      "options": [
+        "14",
+        "41",
+        "51",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×10。"
+    },
+    {
+      "id": "M0790",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-1",
+      "variant": 10,
+      "stem": "等差数列首项为 1，公差为 11，第 5 项为",
+      "options": [
+        "45",
+        "56",
+        "55",
+        "15"
+      ],
+      "answer": 0,
+      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×11。"
+    },
+    {
+      "id": "M0791",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 1,
+      "stem": "等差数列首项为 2，公差为 2，前 2 项和为",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 2(2+2-1)=6。"
+    },
+    {
+      "id": "M0792",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 2,
+      "stem": "等差数列首项为 3，公差为 2，前 3 项和为",
+      "options": [
+        "9",
+        "18",
+        "12",
+        "15"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 3(3+3-1)=15。"
+    },
+    {
+      "id": "M0793",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 3,
+      "stem": "等差数列首项为 4，公差为 2，前 4 项和为",
+      "options": [
+        "32",
+        "20",
+        "28",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 4(4+4-1)=28。"
+    },
+    {
+      "id": "M0794",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 4,
+      "stem": "等差数列首项为 5，公差为 2，前 5 项和为",
+      "options": [
+        "30",
+        "45",
+        "25",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 5(5+5-1)=45。"
+    },
+    {
+      "id": "M0795",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 5,
+      "stem": "等差数列首项为 6，公差为 2，前 6 项和为",
+      "options": [
+        "66",
+        "36",
+        "72",
+        "42"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 6(6+6-1)=66。"
+    },
+    {
+      "id": "M0796",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 6,
+      "stem": "等差数列首项为 7，公差为 2，前 7 项和为",
+      "options": [
+        "49",
+        "98",
+        "56",
+        "91"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 7(7+7-1)=91。"
+    },
+    {
+      "id": "M0797",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 7,
+      "stem": "等差数列首项为 8，公差为 2，前 8 项和为",
+      "options": [
+        "128",
+        "72",
+        "120",
+        "64"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 8(8+8-1)=120。"
+    },
+    {
+      "id": "M0798",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 8,
+      "stem": "等差数列首项为 9，公差为 2，前 9 项和为",
+      "options": [
+        "90",
+        "153",
+        "81",
+        "162"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 9(9+9-1)=153。"
+    },
+    {
+      "id": "M0799",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 9,
+      "stem": "等差数列首项为 10，公差为 2，前 10 项和为",
+      "options": [
+        "190",
+        "100",
+        "200",
+        "110"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 10(10+10-1)=190。"
+    },
+    {
+      "id": "M0800",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "arithmetic-easy-2",
+      "variant": 10,
+      "stem": "等差数列首项为 11，公差为 2，前 11 项和为",
+      "options": [
+        "121",
+        "242",
+        "132",
+        "231"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 11(11+11-1)=231。"
+    },
+    {
+      "id": "M0801",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 1,
+      "stem": "等差数列满足 $a_3=6, a_7=14$，则前 9 项和为",
+      "options": [
+        "90",
+        "54",
+        "72",
+        "108"
+      ],
+      "answer": 0,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=10。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=90。"
+    },
+    {
+      "id": "M0802",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 2,
+      "stem": "等差数列满足 $a_3=7, a_7=15$，则前 9 项和为",
+      "options": [
+        "63",
+        "81",
+        "117",
+        "99"
+      ],
+      "answer": 3,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=11。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=99。"
+    },
+    {
+      "id": "M0803",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 3,
+      "stem": "等差数列满足 $a_3=8, a_7=16$，则前 9 项和为",
+      "options": [
+        "90",
+        "126",
+        "108",
+        "72"
+      ],
+      "answer": 2,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=12。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=108。"
+    },
+    {
+      "id": "M0804",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 4,
+      "stem": "等差数列满足 $a_3=9, a_7=17$，则前 9 项和为",
+      "options": [
+        "135",
+        "117",
+        "81",
+        "99"
+      ],
+      "answer": 1,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=13。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=117。"
+    },
+    {
+      "id": "M0805",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 5,
+      "stem": "等差数列满足 $a_3=10, a_7=18$，则前 9 项和为",
+      "options": [
+        "126",
+        "90",
+        "108",
+        "144"
+      ],
+      "answer": 0,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=14。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=126。"
+    },
+    {
+      "id": "M0806",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 6,
+      "stem": "等差数列满足 $a_3=11, a_7=19$，则前 9 项和为",
+      "options": [
+        "99",
+        "117",
+        "153",
+        "135"
+      ],
+      "answer": 3,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=15。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=135。"
+    },
+    {
+      "id": "M0807",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 7,
+      "stem": "等差数列满足 $a_3=12, a_7=20$，则前 9 项和为",
+      "options": [
+        "126",
+        "162",
+        "144",
+        "108"
+      ],
+      "answer": 2,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=16。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=144。"
+    },
+    {
+      "id": "M0808",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 8,
+      "stem": "等差数列满足 $a_3=13, a_7=21$，则前 9 项和为",
+      "options": [
+        "171",
+        "153",
+        "117",
+        "135"
+      ],
+      "answer": 1,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=17。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=153。"
+    },
+    {
+      "id": "M0809",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 9,
+      "stem": "等差数列满足 $a_3=14, a_7=22$，则前 9 项和为",
+      "options": [
+        "162",
+        "126",
+        "144",
+        "180"
+      ],
+      "answer": 0,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=18。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=162。"
+    },
+    {
+      "id": "M0810",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-1",
+      "variant": 10,
+      "stem": "等差数列满足 $a_3=15, a_7=23$，则前 9 项和为",
+      "options": [
+        "135",
+        "153",
+        "189",
+        "171"
+      ],
+      "answer": 3,
+      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=19。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=171。"
+    },
+    {
+      "id": "M0811",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 1,
+      "stem": "等差数列满足 $a_2=2, a_5=11$，则 $a_1+a_6$ 为",
+      "options": [
+        "10",
+        "16",
+        "11",
+        "13"
+      ],
+      "answer": 3,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=13。"
+    },
+    {
+      "id": "M0812",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 2,
+      "stem": "等差数列满足 $a_2=3, a_5=12$，则 $a_1+a_6$ 为",
+      "options": [
+        "18",
+        "19",
+        "15",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=15。"
+    },
+    {
+      "id": "M0813",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 3,
+      "stem": "等差数列满足 $a_2=4, a_5=13$，则 $a_1+a_6$ 为",
+      "options": [
+        "13",
+        "17",
+        "14",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=17。"
+    },
+    {
+      "id": "M0814",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 4,
+      "stem": "等差数列满足 $a_2=5, a_5=14$，则 $a_1+a_6$ 为",
+      "options": [
+        "19",
+        "16",
+        "22",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=19。"
+    },
+    {
+      "id": "M0815",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 5,
+      "stem": "等差数列满足 $a_2=6, a_5=15$，则 $a_1+a_6$ 为",
+      "options": [
+        "18",
+        "24",
+        "15",
+        "21"
+      ],
+      "answer": 3,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=21。"
+    },
+    {
+      "id": "M0816",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 6,
+      "stem": "等差数列满足 $a_2=7, a_5=16$，则 $a_1+a_6$ 为",
+      "options": [
+        "26",
+        "16",
+        "23",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=23。"
+    },
+    {
+      "id": "M0817",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 7,
+      "stem": "等差数列满足 $a_2=8, a_5=17$，则 $a_1+a_6$ 为",
+      "options": [
+        "17",
+        "25",
+        "22",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=25。"
+    },
+    {
+      "id": "M0818",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 8,
+      "stem": "等差数列满足 $a_2=9, a_5=18$，则 $a_1+a_6$ 为",
+      "options": [
+        "27",
+        "24",
+        "30",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=27。"
+    },
+    {
+      "id": "M0819",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 9,
+      "stem": "等差数列满足 $a_2=10, a_5=19$，则 $a_1+a_6$ 为",
+      "options": [
+        "26",
+        "32",
+        "19",
+        "29"
+      ],
+      "answer": 3,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=29。"
+    },
+    {
+      "id": "M0820",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "arithmetic-medium-2",
+      "variant": 10,
+      "stem": "等差数列满足 $a_2=11, a_5=20$，则 $a_1+a_6$ 为",
+      "options": [
+        "34",
+        "20",
+        "31",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=31。"
+    },
+    {
+      "id": "M0821",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 1,
+      "stem": "等差数列 $a_n=4-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge2$ 的正整数 n 有多少个？",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n(3-n)。最大值在相邻整数 n=1,2 处取得，均为 2；其余整数严格更小。亦可解 (n-1)(n-2)≤0 得 n∈[1,2]，恰有两个整数。"
+    },
+    {
+      "id": "M0822",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 2,
+      "stem": "等差数列 $a_n=6-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge6$ 的正整数 n 有多少个？",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(5-n)。最大值在相邻整数 n=2,3 处取得，均为 6；其余整数严格更小。亦可解 (n-2)(n-3)≤0 得 n∈[2,3]，恰有两个整数。"
+    },
+    {
+      "id": "M0823",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 3,
+      "stem": "等差数列 $a_n=8-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge12$ 的正整数 n 有多少个？",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n(7-n)。最大值在相邻整数 n=3,4 处取得，均为 12；其余整数严格更小。亦可解 (n-3)(n-4)≤0 得 n∈[3,4]，恰有两个整数。"
+    },
+    {
+      "id": "M0824",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 4,
+      "stem": "等差数列 $a_n=10-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge20$ 的正整数 n 有多少个？",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n(9-n)。最大值在相邻整数 n=4,5 处取得，均为 20；其余整数严格更小。亦可解 (n-4)(n-5)≤0 得 n∈[4,5]，恰有两个整数。"
+    },
+    {
+      "id": "M0825",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 5,
+      "stem": "等差数列 $a_n=12-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge30$ 的正整数 n 有多少个？",
+      "options": [
+        "1",
+        "3",
+        "6",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n(11-n)。最大值在相邻整数 n=5,6 处取得，均为 30；其余整数严格更小。亦可解 (n-5)(n-6)≤0 得 n∈[5,6]，恰有两个整数。"
+    },
+    {
+      "id": "M0826",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 6,
+      "stem": "等差数列 $a_n=14-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge42$ 的正整数 n 有多少个？",
+      "options": [
+        "3",
+        "7",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(13-n)。最大值在相邻整数 n=6,7 处取得，均为 42；其余整数严格更小。亦可解 (n-6)(n-7)≤0 得 n∈[6,7]，恰有两个整数。"
+    },
+    {
+      "id": "M0827",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 7,
+      "stem": "等差数列 $a_n=16-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge56$ 的正整数 n 有多少个？",
+      "options": [
+        "8",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n(15-n)。最大值在相邻整数 n=7,8 处取得，均为 56；其余整数严格更小。亦可解 (n-7)(n-8)≤0 得 n∈[7,8]，恰有两个整数。"
+    },
+    {
+      "id": "M0828",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 8,
+      "stem": "等差数列 $a_n=18-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge72$ 的正整数 n 有多少个？",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n(17-n)。最大值在相邻整数 n=8,9 处取得，均为 72；其余整数严格更小。亦可解 (n-8)(n-9)≤0 得 n∈[8,9]，恰有两个整数。"
+    },
+    {
+      "id": "M0829",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 9,
+      "stem": "等差数列 $a_n=20-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge90$ 的正整数 n 有多少个？",
+      "options": [
+        "1",
+        "3",
+        "10",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n(19-n)。最大值在相邻整数 n=9,10 处取得，均为 90；其余整数严格更小。亦可解 (n-9)(n-10)≤0 得 n∈[9,10]，恰有两个整数。"
+    },
+    {
+      "id": "M0830",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-1",
+      "variant": 10,
+      "stem": "等差数列 $a_n=22-2n$ 的前 n 项和为 S_n。满足 $S_n\\ge110$ 的正整数 n 有多少个？",
+      "options": [
+        "3",
+        "11",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(21-n)。最大值在相邻整数 n=10,11 处取得，均为 110；其余整数严格更小。亦可解 (n-10)(n-11)≤0 得 n∈[10,11]，恰有两个整数。"
+    },
+    {
+      "id": "M0831",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 1,
+      "stem": "等差数列通项为 $a_n=5-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "6",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(5)-n(n+1)=n(4-n)=4-(n-2)²。n 为正整数，n=2 可取等，故最大值 4。"
+    },
+    {
+      "id": "M0832",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 2,
+      "stem": "等差数列通项为 $a_n=7-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n(7)-n(n+1)=n(6-n)=9-(n-3)²。n 为正整数，n=3 可取等，故最大值 9。"
+    },
+    {
+      "id": "M0833",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 3,
+      "stem": "等差数列通项为 $a_n=9-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "16",
+        "15",
+        "20",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n(9)-n(n+1)=n(8-n)=16-(n-4)²。n 为正整数，n=4 可取等，故最大值 16。"
+    },
+    {
+      "id": "M0834",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 4,
+      "stem": "等差数列通项为 $a_n=11-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "24",
+        "30",
+        "20",
+        "25"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n(11)-n(n+1)=n(10-n)=25-(n-5)²。n 为正整数，n=5 可取等，故最大值 25。"
+    },
+    {
+      "id": "M0835",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 5,
+      "stem": "等差数列通项为 $a_n=13-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "42",
+        "30",
+        "36",
+        "35"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(13)-n(n+1)=n(12-n)=36-(n-6)²。n 为正整数，n=6 可取等，故最大值 36。"
+    },
+    {
+      "id": "M0836",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 6,
+      "stem": "等差数列通项为 $a_n=15-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "42",
+        "49",
+        "48",
+        "56"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n(15)-n(n+1)=n(14-n)=49-(n-7)²。n 为正整数，n=7 可取等，故最大值 49。"
+    },
+    {
+      "id": "M0837",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 7,
+      "stem": "等差数列通项为 $a_n=17-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "64",
+        "63",
+        "72",
+        "56"
+      ],
+      "answer": 0,
+      "explanation": "S_n=n(17)-n(n+1)=n(16-n)=64-(n-8)²。n 为正整数，n=8 可取等，故最大值 64。"
+    },
+    {
+      "id": "M0838",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 8,
+      "stem": "等差数列通项为 $a_n=19-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "80",
+        "90",
+        "72",
+        "81"
+      ],
+      "answer": 3,
+      "explanation": "S_n=n(19)-n(n+1)=n(18-n)=81-(n-9)²。n 为正整数，n=9 可取等，故最大值 81。"
+    },
+    {
+      "id": "M0839",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 9,
+      "stem": "等差数列通项为 $a_n=21-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "110",
+        "90",
+        "100",
+        "99"
+      ],
+      "answer": 2,
+      "explanation": "S_n=n(21)-n(n+1)=n(20-n)=100-(n-10)²。n 为正整数，n=10 可取等，故最大值 100。"
+    },
+    {
+      "id": "M0840",
+      "batch": 3,
+      "topic": "arithmetic",
+      "topicName": "等差数列与前 n 项和",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "arithmetic-hard-2",
+      "variant": 10,
+      "stem": "等差数列通项为 $a_n=23-2n$，前 n 项和 S_n 的最大值为",
+      "options": [
+        "110",
+        "121",
+        "120",
+        "132"
+      ],
+      "answer": 1,
+      "explanation": "S_n=n(23)-n(n+1)=n(22-n)=121-(n-11)²。n 为正整数，n=11 可取等，故最大值 121。"
+    },
+    {
+      "id": "M0841",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 1,
+      "stem": "等比数列首项为 2，公比为 3，第 4 项为",
+      "options": [
+        "24",
+        "54",
+        "18",
+        "162"
+      ],
+      "answer": 1,
+      "explanation": "a₄=a₁q³=2×27=54。"
+    },
+    {
+      "id": "M0842",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 2,
+      "stem": "等比数列首项为 3，公比为 3，第 4 项为",
+      "options": [
+        "81",
+        "27",
+        "243",
+        "36"
+      ],
+      "answer": 0,
+      "explanation": "a₄=a₁q³=3×27=81。"
+    },
+    {
+      "id": "M0843",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 3,
+      "stem": "等比数列首项为 4，公比为 3，第 4 项为",
+      "options": [
+        "36",
+        "324",
+        "48",
+        "108"
+      ],
+      "answer": 3,
+      "explanation": "a₄=a₁q³=4×27=108。"
+    },
+    {
+      "id": "M0844",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 4,
+      "stem": "等比数列首项为 5，公比为 3，第 4 项为",
+      "options": [
+        "405",
+        "60",
+        "135",
+        "45"
+      ],
+      "answer": 2,
+      "explanation": "a₄=a₁q³=5×27=135。"
+    },
+    {
+      "id": "M0845",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 5,
+      "stem": "等比数列首项为 6，公比为 3，第 4 项为",
+      "options": [
+        "72",
+        "162",
+        "54",
+        "486"
+      ],
+      "answer": 1,
+      "explanation": "a₄=a₁q³=6×27=162。"
+    },
+    {
+      "id": "M0846",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 6,
+      "stem": "等比数列首项为 7，公比为 3，第 4 项为",
+      "options": [
+        "189",
+        "63",
+        "567",
+        "84"
+      ],
+      "answer": 0,
+      "explanation": "a₄=a₁q³=7×27=189。"
+    },
+    {
+      "id": "M0847",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 7,
+      "stem": "等比数列首项为 8，公比为 3，第 4 项为",
+      "options": [
+        "72",
+        "648",
+        "96",
+        "216"
+      ],
+      "answer": 3,
+      "explanation": "a₄=a₁q³=8×27=216。"
+    },
+    {
+      "id": "M0848",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 8,
+      "stem": "等比数列首项为 9，公比为 3，第 4 项为",
+      "options": [
+        "729",
+        "108",
+        "243",
+        "81"
+      ],
+      "answer": 2,
+      "explanation": "a₄=a₁q³=9×27=243。"
+    },
+    {
+      "id": "M0849",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 9,
+      "stem": "等比数列首项为 10，公比为 3，第 4 项为",
+      "options": [
+        "120",
+        "270",
+        "90",
+        "810"
+      ],
+      "answer": 1,
+      "explanation": "a₄=a₁q³=10×27=270。"
+    },
+    {
+      "id": "M0850",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-1",
+      "variant": 10,
+      "stem": "等比数列首项为 11，公比为 3，第 4 项为",
+      "options": [
+        "297",
+        "99",
+        "891",
+        "132"
+      ],
+      "answer": 0,
+      "explanation": "a₄=a₁q³=11×27=297。"
+    },
+    {
+      "id": "M0851",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 1,
+      "stem": "等比数列首项为 2，公比为 2，前 3 项和为",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "前三项分别为 2、4、8，和为 14。"
+    },
+    {
+      "id": "M0852",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 2,
+      "stem": "等比数列首项为 3，公比为 2，前 3 项和为",
+      "options": [
+        "18",
+        "24",
+        "9",
+        "21"
+      ],
+      "answer": 3,
+      "explanation": "前三项分别为 3、6、12，和为 21。"
+    },
+    {
+      "id": "M0853",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 3,
+      "stem": "等比数列首项为 4，公比为 2，前 3 项和为",
+      "options": [
+        "32",
+        "12",
+        "28",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "前三项分别为 4、8、16，和为 28。"
+    },
+    {
+      "id": "M0854",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 4,
+      "stem": "等比数列首项为 5，公比为 2，前 3 项和为",
+      "options": [
+        "15",
+        "35",
+        "30",
+        "40"
+      ],
+      "answer": 1,
+      "explanation": "前三项分别为 5、10、20，和为 35。"
+    },
+    {
+      "id": "M0855",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 5,
+      "stem": "等比数列首项为 6，公比为 2，前 3 项和为",
+      "options": [
+        "42",
+        "36",
+        "48",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "前三项分别为 6、12、24，和为 42。"
+    },
+    {
+      "id": "M0856",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 6,
+      "stem": "等比数列首项为 7，公比为 2，前 3 项和为",
+      "options": [
+        "42",
+        "56",
+        "21",
+        "49"
+      ],
+      "answer": 3,
+      "explanation": "前三项分别为 7、14、28，和为 49。"
+    },
+    {
+      "id": "M0857",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 7,
+      "stem": "等比数列首项为 8，公比为 2，前 3 项和为",
+      "options": [
+        "64",
+        "24",
+        "56",
+        "48"
+      ],
+      "answer": 2,
+      "explanation": "前三项分别为 8、16、32，和为 56。"
+    },
+    {
+      "id": "M0858",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 8,
+      "stem": "等比数列首项为 9，公比为 2，前 3 项和为",
+      "options": [
+        "27",
+        "63",
+        "54",
+        "72"
+      ],
+      "answer": 1,
+      "explanation": "前三项分别为 9、18、36，和为 63。"
+    },
+    {
+      "id": "M0859",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 9,
+      "stem": "等比数列首项为 10，公比为 2，前 3 项和为",
+      "options": [
+        "70",
+        "60",
+        "80",
+        "30"
+      ],
+      "answer": 0,
+      "explanation": "前三项分别为 10、20、40，和为 70。"
+    },
+    {
+      "id": "M0860",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "easy",
+      "difficultyLabel": "简单",
+      "targetSeconds": 15,
+      "family": "geometric-easy-2",
+      "variant": 10,
+      "stem": "等比数列首项为 11，公比为 2，前 3 项和为",
+      "options": [
+        "66",
+        "88",
+        "33",
+        "77"
+      ],
+      "answer": 3,
+      "explanation": "前三项分别为 11、22、44，和为 77。"
+    },
+    {
+      "id": "M0861",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 1,
+      "stem": "某数量初始为 2，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 256？",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "第 n 轮后数量为 2·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0862",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 2,
+      "stem": "某数量初始为 3，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 384？",
+      "options": [
+        "6",
+        "8",
+        "3",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "第 n 轮后数量为 3·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0863",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 3,
+      "stem": "某数量初始为 4，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 512？",
+      "options": [
+        "8",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "第 n 轮后数量为 4·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0864",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 4,
+      "stem": "某数量初始为 5，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 640？",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "第 n 轮后数量为 5·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0865",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 5,
+      "stem": "某数量初始为 6，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 768？",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "第 n 轮后数量为 6·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0866",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 6,
+      "stem": "某数量初始为 7，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 896？",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "第 n 轮后数量为 7·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0867",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 7,
+      "stem": "某数量初始为 8，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 1024？",
+      "options": [
+        "8",
+        "10",
+        "7",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "第 n 轮后数量为 8·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0868",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 8,
+      "stem": "某数量初始为 9，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 1152？",
+      "options": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "第 n 轮后数量为 9·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0869",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 9,
+      "stem": "某数量初始为 10，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 1280？",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "第 n 轮后数量为 10·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0870",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-1",
+      "variant": 10,
+      "stem": "某数量初始为 11，每轮变成上一轮的 2 倍。至少经过多少轮后达到或超过 1408？",
+      "options": [
+        "6",
+        "8",
+        "11",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "第 n 轮后数量为 11·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。"
+    },
+    {
+      "id": "M0871",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 1,
+      "stem": "正项等比数列满足 $a_2=2, a_6=32$，则 $a_4$ 为",
+      "options": [
+        "-8",
+        "16",
+        "32",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=64；因各项为正，取 a₄=8。"
+    },
+    {
+      "id": "M0872",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 2,
+      "stem": "正项等比数列满足 $a_2=3, a_6=48$，则 $a_4$ 为",
+      "options": [
+        "24",
+        "48",
+        "12",
+        "-12"
+      ],
+      "answer": 2,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=144；因各项为正，取 a₄=12。"
+    },
+    {
+      "id": "M0873",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 3,
+      "stem": "正项等比数列满足 $a_2=4, a_6=64$，则 $a_4$ 为",
+      "options": [
+        "64",
+        "16",
+        "-16",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=256；因各项为正，取 a₄=16。"
+    },
+    {
+      "id": "M0874",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 4,
+      "stem": "正项等比数列满足 $a_2=5, a_6=80$，则 $a_4$ 为",
+      "options": [
+        "20",
+        "-20",
+        "40",
+        "80"
+      ],
+      "answer": 0,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=400；因各项为正，取 a₄=20。"
+    },
+    {
+      "id": "M0875",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 5,
+      "stem": "正项等比数列满足 $a_2=6, a_6=96$，则 $a_4$ 为",
+      "options": [
+        "-24",
+        "48",
+        "96",
+        "24"
+      ],
+      "answer": 3,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=576；因各项为正，取 a₄=24。"
+    },
+    {
+      "id": "M0876",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 6,
+      "stem": "正项等比数列满足 $a_2=7, a_6=112$，则 $a_4$ 为",
+      "options": [
+        "56",
+        "112",
+        "28",
+        "-28"
+      ],
+      "answer": 2,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=784；因各项为正，取 a₄=28。"
+    },
+    {
+      "id": "M0877",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 7,
+      "stem": "正项等比数列满足 $a_2=8, a_6=128$，则 $a_4$ 为",
+      "options": [
+        "128",
+        "32",
+        "-32",
+        "64"
+      ],
+      "answer": 1,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1024；因各项为正，取 a₄=32。"
+    },
+    {
+      "id": "M0878",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 8,
+      "stem": "正项等比数列满足 $a_2=9, a_6=144$，则 $a_4$ 为",
+      "options": [
+        "36",
+        "-36",
+        "72",
+        "144"
+      ],
+      "answer": 0,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1296；因各项为正，取 a₄=36。"
+    },
+    {
+      "id": "M0879",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 9,
+      "stem": "正项等比数列满足 $a_2=10, a_6=160$，则 $a_4$ 为",
+      "options": [
+        "-40",
+        "80",
+        "160",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1600；因各项为正，取 a₄=40。"
+    },
+    {
+      "id": "M0880",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "medium",
+      "difficultyLabel": "中等",
+      "targetSeconds": 120,
+      "family": "geometric-medium-2",
+      "variant": 10,
+      "stem": "正项等比数列满足 $a_2=11, a_6=176$，则 $a_4$ 为",
+      "options": [
+        "88",
+        "176",
+        "44",
+        "-44"
+      ],
+      "answer": 2,
+      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1936；因各项为正，取 a₄=44。"
+    },
+    {
+      "id": "M0881",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 1,
+      "stem": "等比数列 $a_n=2(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>42$ 的最小正整数 n 为",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "S_n=2(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 2(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0882",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 2,
+      "stem": "等比数列 $a_n=3(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>63$ 的最小正整数 n 为",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "S_n=3(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 3(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0883",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 3,
+      "stem": "等比数列 $a_n=4(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>84$ 的最小正整数 n 为",
+      "options": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "S_n=4(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 4(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0884",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 4,
+      "stem": "等比数列 $a_n=5(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>105$ 的最小正整数 n 为",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "S_n=5(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 5(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0885",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 5,
+      "stem": "等比数列 $a_n=6(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>126$ 的最小正整数 n 为",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "S_n=6(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 6(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0886",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 6,
+      "stem": "等比数列 $a_n=7(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>147$ 的最小正整数 n 为",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "S_n=7(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 7(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0887",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 7,
+      "stem": "等比数列 $a_n=8(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>168$ 的最小正整数 n 为",
+      "options": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "S_n=8(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 8(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0888",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 8,
+      "stem": "等比数列 $a_n=9(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>189$ 的最小正整数 n 为",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "S_n=9(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 9(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0889",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 9,
+      "stem": "等比数列 $a_n=10(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>210$ 的最小正整数 n 为",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "S_n=10(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 10(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0890",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-1",
+      "variant": 10,
+      "stem": "等比数列 $a_n=11(-2)^{n-1}$ 的前 n 项和为 S_n。满足 $S_n>231$ 的最小正整数 n 为",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "S_n=11(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 11(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。"
+    },
+    {
+      "id": "M0891",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 1,
+      "stem": "正项等比数列满足 $a_1+a_3=10,\\ a_2=4$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "15",
+        "60",
+        "45",
+        "30"
+      ],
+      "answer": 2,
+      "explanation": "设首项 A、公比 q>0，则 Aq=22，A(1+q²)=52，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 2 或 8，前四项和分别 30 与 15，相加 45。"
+    },
+    {
+      "id": "M0892",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 2,
+      "stem": "正项等比数列满足 $a_1+a_3=15,\\ a_2=6$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "90",
+        "\\frac{135}{2}",
+        "45",
+        "\\frac{45}{2}"
+      ],
+      "answer": 1,
+      "explanation": "设首项 A、公比 q>0，则 Aq=23，A(1+q²)=53，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 3 或 12，前四项和分别 45 与 \\frac{45}{2}，相加 \\frac{135}{2}。"
+    },
+    {
+      "id": "M0893",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 3,
+      "stem": "正项等比数列满足 $a_1+a_3=20,\\ a_2=8$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "90",
+        "60",
+        "30",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "设首项 A、公比 q>0，则 Aq=24，A(1+q²)=54，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 4 或 16，前四项和分别 60 与 30，相加 90。"
+    },
+    {
+      "id": "M0894",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 4,
+      "stem": "正项等比数列满足 $a_1+a_3=25,\\ a_2=10$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "75",
+        "\\frac{75}{2}",
+        "150",
+        "\\frac{225}{2}"
+      ],
+      "answer": 3,
+      "explanation": "设首项 A、公比 q>0，则 Aq=25，A(1+q²)=55，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 5 或 20，前四项和分别 75 与 \\frac{75}{2}，相加 \\frac{225}{2}。"
+    },
+    {
+      "id": "M0895",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 5,
+      "stem": "正项等比数列满足 $a_1+a_3=30,\\ a_2=12$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "45",
+        "180",
+        "135",
+        "90"
+      ],
+      "answer": 2,
+      "explanation": "设首项 A、公比 q>0，则 Aq=26，A(1+q²)=56，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 6 或 24，前四项和分别 90 与 45，相加 135。"
+    },
+    {
+      "id": "M0896",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 6,
+      "stem": "正项等比数列满足 $a_1+a_3=35,\\ a_2=14$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "210",
+        "\\frac{315}{2}",
+        "105",
+        "\\frac{105}{2}"
+      ],
+      "answer": 1,
+      "explanation": "设首项 A、公比 q>0，则 Aq=27，A(1+q²)=57，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 7 或 28，前四项和分别 105 与 \\frac{105}{2}，相加 \\frac{315}{2}。"
+    },
+    {
+      "id": "M0897",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 7,
+      "stem": "正项等比数列满足 $a_1+a_3=40,\\ a_2=16$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "180",
+        "120",
+        "60",
+        "240"
+      ],
+      "answer": 0,
+      "explanation": "设首项 A、公比 q>0，则 Aq=28，A(1+q²)=58，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 8 或 32，前四项和分别 120 与 60，相加 180。"
+    },
+    {
+      "id": "M0898",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 8,
+      "stem": "正项等比数列满足 $a_1+a_3=45,\\ a_2=18$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "135",
+        "\\frac{135}{2}",
+        "270",
+        "\\frac{405}{2}"
+      ],
+      "answer": 3,
+      "explanation": "设首项 A、公比 q>0，则 Aq=29，A(1+q²)=59，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 9 或 36，前四项和分别 135 与 \\frac{135}{2}，相加 \\frac{405}{2}。"
+    },
+    {
+      "id": "M0899",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 9,
+      "stem": "正项等比数列满足 $a_1+a_3=50,\\ a_2=20$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "75",
+        "300",
+        "225",
+        "150"
+      ],
+      "answer": 2,
+      "explanation": "设首项 A、公比 q>0，则 Aq=210，A(1+q²)=510，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 10 或 40，前四项和分别 150 与 75，相加 225。"
+    },
+    {
+      "id": "M0900",
+      "batch": 3,
+      "topic": "geometric",
+      "topicName": "等比数列与指数增长",
+      "difficulty": "hard",
+      "difficultyLabel": "复杂",
+      "targetSeconds": 300,
+      "family": "geometric-hard-2",
+      "variant": 10,
+      "stem": "正项等比数列满足 $a_1+a_3=55,\\ a_2=22$。前 4 项和 S₄ 的所有可能值之和为",
+      "options": [
+        "330",
+        "\\frac{495}{2}",
+        "165",
+        "\\frac{165}{2}"
+      ],
+      "answer": 1,
+      "explanation": "设首项 A、公比 q>0，则 Aq=211，A(1+q²)=511，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 11 或 44，前四项和分别 165 与 \\frac{165}{2}，相加 \\frac{495}{2}。"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ export function Q(stem, answer, explanation, distractors) {
     const correct=String(answer);
     let wrong=distractors?.map(String) || [Number(answer)+1,Number(answer)-1,Number(answer)+2].map(String);
     wrong=[...new Set(wrong)].filter(value=>value!==correct);
-    if(wrong.length<3){assert.ok(Number.isFinite(Number(answer)),`Need three distinct distractors: ${stem}`);for(let i=3;wrong.length<3;i++)if(!wrong.includes(String(Number(answer)+i))&&String(Number(answer)+i)!==correct)wrong.push(String(Number(answer)+i));}
+    if(wrong.length<3){const frac=correct.match(/^(-?)\\frac\{(\d+)\}\{(\d+)\}$/);const value=frac?(frac[1]?-1:1)*Number(frac[2])/Number(frac[3]):Number(answer);assert.ok(Number.isFinite(value),`Need three distinct distractors: ${stem}`);for(let i=3;wrong.length<3;i++){const candidate=frac?F((frac[1]?-1:1)*Number(frac[2])+i*Number(frac[3]),Number(frac[3])):String(value+i);if(!wrong.includes(candidate)&&candidate!==correct)wrong.push(candidate);}}
     assert.ok(wrong.length>=3 && ![correct,...wrong].some(s=>/NaN|undefined/.test(s)),stem);
     return {stem,correct,explanation,choices:[correct,...wrong.slice(0,3)]};
 }

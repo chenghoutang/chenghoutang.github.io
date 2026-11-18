@@ -80,11 +80,22 @@ for(const q of all){
   assert.equal(count===4,k>2*a&&k<a*a+1,q.id);
  }
  if(q.topic==='piecewise'&&q.difficulty==='hard'&&!v)for(const m of [-.1,0,.1,a*a-.1,a*a,a*a+.1]){
-  const roots=[];for(const c of [m,-m]){const D=a*a+c;if(D>=0)for(const r of [a-Math.sqrt(D),a+Math.sqrt(D)])if(!roots.some(x=>Math.abs(x-r)<1e-8))roots.push(r);}
+  const roots=[];if(m>=0)for(const c of [m,-m]){const D=a*a+c;if(D>=0)for(const r of [a-Math.sqrt(D),a+Math.sqrt(D)])if(!roots.some(x=>Math.abs(x-r)<1e-8))roots.push(r);}
   assert.equal(roots.length===4,m>0&&m<a*a,q.id);
  }
  if(q.topic==='properties'&&q.difficulty==='hard'&&v)for(const x of [.1,a,a*Math.SQRT2-.001,a*Math.SQRT2+.001,10*a]){
   const f=t=>t+Math.log((1+t)/(1-t));const sum=f((x-a)/(x+a))+f((x-2*a)/(x+2*a));assert.equal(sum>0,x>a*Math.SQRT2,q.id);
  }
+ if(q.topic==='trig-identity'&&q.difficulty==='hard'){
+  if(v){let lo=Infinity,hi=-Infinity;for(let j=0;j<100000;j++){const x=j*Math.PI/50000,y=(a+Math.sin(x))/(a+Math.cos(x));lo=Math.min(lo,y);hi=Math.max(hi,y);}eq(lo,(a*a-Math.sqrt(2*a*a-1))/(a*a-1),q.id);eq(hi,(a*a+Math.sqrt(2*a*a-1))/(a*a-1),q.id);}
+  else for(const m of [2*Math.SQRT2/a-1-.001,2*Math.SQRT2/a-1,(2*Math.SQRT2/a+a**-2)/2,1+a**-2,1+a**-2+.001]){
+   const D=1+a**-2-m,ts=D<0?[]:D<1e-9?[1/a]:[1/a-Math.sqrt(D),1/a+Math.sqrt(D)];const count=ts.reduce((n,t)=>n+(Math.abs(t)>Math.SQRT2+1e-9?0:Math.abs(Math.abs(t)-Math.SQRT2)<1e-9?1:2),0);
+   assert.equal(count===4,m>2*Math.SQRT2/a-1+1e-9&&m<1+a**-2-1e-9,q.id);
+  }
+ }
+ if(q.topic==='triangle'&&q.difficulty==='hard'&&!v){let maximum=0;for(let j=1;j<20000;j++){const b=2*a*j/20000,c=2*a-b,d=Math.sqrt(b*b+c*c-b*c),area=Math.sqrt(3)*b*c/4;maximum=Math.max(maximum,2*area/(b+c+d));}eq(maximum,a*Math.sqrt(3)/6,q.id);}
+ if(q.topic==='vectors'&&q.difficulty==='hard'&&v){let min=Infinity;for(let j=0;j<10000;j++){const x=a*Math.cos(j*Math.PI/5000),y=a*Math.sin(j*Math.PI/5000);min=Math.min(min,(2*a-x)*(-x)+(-y)*(2*a-y));}eq(min,a*a-2*a*a*Math.SQRT2,q.id);}
+ if(q.topic==='arithmetic'&&q.difficulty==='hard'){const sums=[];let sum=0;for(let n=1;n<=4*a;n++){sum+=2*a+(v?1:0)-2*n;sums.push(sum);}if(v)eq(numeric(answer),Math.max(...sums),q.id);else eq(numeric(answer),sums.filter(x=>x>=a*a-a).length,q.id);}
+ if(q.topic==='geometric'&&q.difficulty==='hard'&&!v){let sum=0,n=0;do{sum+=a*(-2)**n;n++;}while(sum<=21*a);eq(numeric(answer),n,q.id);}
 }
 console.log(`PASS: ${all.length} questions, ${families.size} families, ${formulas} LaTeX expressions; schema, offline scripts and independent boundary/numerical audits.`);

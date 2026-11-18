@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "total": 600,
+  "total": 900,
   "target": 1800,
   "batches": [
     1,
-    2
+    2,
+    3
   ],
   "topics": [
     {
@@ -46,6 +47,26 @@
     {
       "id": "trig-function",
       "name": "三角函数的图像与性质"
+    },
+    {
+      "id": "trig-identity",
+      "name": "三角恒等变换"
+    },
+    {
+      "id": "triangle",
+      "name": "正弦定理、余弦定理与解三角形"
+    },
+    {
+      "id": "vectors",
+      "name": "平面向量与数量积"
+    },
+    {
+      "id": "arithmetic",
+      "name": "等差数列与前 n 项和"
+    },
+    {
+      "id": "geometric",
+      "name": "等比数列与指数增长"
     }
   ]
 }
