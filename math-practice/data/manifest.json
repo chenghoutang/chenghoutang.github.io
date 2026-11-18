@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "total": 900,
+  "total": 1200,
   "target": 1800,
   "batches": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "topics": [
     {
@@ -67,6 +68,26 @@
     {
       "id": "geometric",
       "name": "等比数列与指数增长"
+    },
+    {
+      "id": "recurrence",
+      "name": "数列递推、裂项与错位相减"
+    },
+    {
+      "id": "line-circle",
+      "name": "直线、圆与位置关系"
+    },
+    {
+      "id": "ellipse",
+      "name": "椭圆与焦点弦"
+    },
+    {
+      "id": "hyperbola",
+      "name": "双曲线与渐近线"
+    },
+    {
+      "id": "parabola",
+      "name": "抛物线、准线与焦点弦"
     }
   ]
 }

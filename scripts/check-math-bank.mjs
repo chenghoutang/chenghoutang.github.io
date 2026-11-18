@@ -97,5 +97,22 @@ for(const q of all){
  if(q.topic==='vectors'&&q.difficulty==='hard'&&v){let min=Infinity;for(let j=0;j<10000;j++){const x=a*Math.cos(j*Math.PI/5000),y=a*Math.sin(j*Math.PI/5000);min=Math.min(min,(2*a-x)*(-x)+(-y)*(2*a-y));}eq(min,a*a-2*a*a*Math.SQRT2,q.id);}
  if(q.topic==='arithmetic'&&q.difficulty==='hard'){const sums=[];let sum=0;for(let n=1;n<=4*a;n++){sum+=2*a+(v?1:0)-2*n;sums.push(sum);}if(v)eq(numeric(answer),Math.max(...sums),q.id);else eq(numeric(answer),sums.filter(x=>x>=a*a-a).length,q.id);}
  if(q.topic==='geometric'&&q.difficulty==='hard'&&!v){let sum=0,n=0;do{sum+=a*(-2)**n;n++;}while(sum<=21*a);eq(numeric(answer),n,q.id);}
+ if(q.topic==='recurrence'&&q.difficulty==='hard'){
+  if(v){let sum=0;for(let k=1;k<=a+3;k++)sum+=k*k/2**k;eq(numeric(answer),sum,q.id);}
+  else{let x=a+1,sum=0;for(let n=1;n<=a;n++){const next=((a+1)*x-1)/(x+a-1);sum+=(x-1)*(next-1);x=next;}eq(numeric(answer),sum,q.id);}
+ }
+ if(q.topic==='line-circle'&&q.difficulty==='hard'&&!v){let max=0;for(let j=0;j<10000;j++){const c=Math.cos(j*Math.PI/10000),D=a*a*c*c+3*a*a;const r1=-a*c+Math.sqrt(D),r2=a*c+Math.sqrt(D);max=Math.max(max,r1*r1+r2*r2);}eq(max,numeric(answer),q.id);}
+ if(q.topic==='ellipse'&&q.difficulty==='hard'){
+  if(v)for(const theta of [.1,.5,1,1.5]){const c=Math.cos(theta),sn=Math.sin(theta),A=c*c/(a*a+1)+sn*sn,B=2*a*c/(a*a+1),C=-1/(a*a+1),D=B*B-4*A*C,r1=(-B+Math.sqrt(D))/(2*A),r2=(-B-Math.sqrt(D))/(2*A);eq(1/Math.abs(r1)+1/Math.abs(r2),2*Math.sqrt(a*a+1),q.id);}
+  else{const x=Math.sqrt((a*a+1)*(a*a-1)/(a*a)),y=1/a;eq((x+a)*(x-a)+y*y,0,q.id);eq(a*y,numeric(answer),q.id);}
+ }
+ if(q.topic==='hyperbola'&&q.difficulty==='hard'){
+  if(v)for(const t of [.1,.5,1,2]){const x=Math.cosh(t),y=a*Math.sinh(t);eq(Math.abs(y-a*x)*Math.abs(y+a*x)/(a*a+1),numeric(answer),q.id);}
+  else{const x=a*Math.sqrt((a*a+2)/(a*a+1)),y=1/Math.sqrt(a*a+1),c=Math.sqrt(a*a+1);eq((x+c)*(x-c)+y*y,0,q.id);eq(Math.hypot(x+c,y)*Math.hypot(x-c,y),numeric(answer),q.id);}
+ }
+ if(q.topic==='parabola'&&q.difficulty==='hard'){
+  if(v){const m=1/Math.sqrt(3),r1=2*a/(1-m),r2=2*a/(1+m);eq(Math.max(r1,r2)/Math.min(r1,r2),2+Math.sqrt(3),q.id);const cos=.5,FA=2*a/(1-cos),FB=2*a/(1+cos);eq(FA/FB,3,q.id);eq(FA+FB,numeric(answer),q.id);}
+  else{const k=numeric(answer),S=4*a/k,P=8*a*a/k,D=S*S-4*P,y1=(S+Math.sqrt(D))/2,y2=(S-Math.sqrt(D))/2,x1=y1*y1/(4*a),x2=y2*y2/(4*a);eq(y1,k*x1+2*a,q.id);eq(y2,k*x2+2*a,q.id);eq((x1-a)*(x2-a)+y1*y2,0,q.id);}
+ }
 }
 console.log(`PASS: ${all.length} questions, ${families.size} families, ${formulas} LaTeX expressions; schema, offline scripts and independent boundary/numerical audits.`);
