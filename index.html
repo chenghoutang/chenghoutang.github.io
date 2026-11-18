@@ -27,43 +27,11 @@
         body {
             font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', 'SimSun', '宋体', 'PingFang SC', 'Microsoft YaHei', serif;
             color: var(--text-main);
-            background: linear-gradient(160deg, var(--bg-warm-1) 0%, var(--bg-warm-2) 55%, var(--bg-warm-3) 100%);
+            background: var(--bg-warm-1);
             min-height: 100vh;
             overflow-x: hidden;
             padding: 44px 20px 60px;
             position: relative;
-        }
-
-        /* 背景柔光 */
-        body::before, body::after {
-            content: '';
-            position: fixed;
-            border-radius: 50%;
-            filter: blur(70px);
-            pointer-events: none;
-            z-index: 0;
-        }
-        body::before { width: 420px; height: 420px; background: rgba(239,172,200, 0.45); top: -120px; left: -100px; }
-        body::after  { width: 380px; height: 380px; background: rgba(232,135,176, 0.35); bottom: -120px; right: -90px; }
-
-        /* 漂浮装饰 */
-        .deco {
-            position: fixed;
-            pointer-events: none;
-            user-select: none;
-            opacity: 0.5;
-            z-index: 0;
-            animation: drift linear infinite;
-        }
-        .deco.d1 { top: 8%;  left: 5%;  font-size: 2.4rem; animation-duration: 14s; }
-        .deco.d2 { top: 14%; right: 6%; font-size: 2rem;   animation-duration: 18s; animation-delay: -4s; }
-        .deco.d3 { bottom: 12%; left: 8%; font-size: 2.2rem; animation-duration: 16s; animation-delay: -8s; }
-        .deco.d4 { bottom: 20%; right: 5%; font-size: 2.5rem; animation-duration: 20s; animation-delay: -2s; }
-
-        @keyframes drift {
-            0%   { transform: translateY(0) rotate(-4deg); }
-            50%  { transform: translateY(-26px) rotate(5deg); }
-            100% { transform: translateY(0) rotate(-4deg); }
         }
 
         /* ===== 主布局：左卡片网格 + 右侧边栏 ===== */
@@ -99,8 +67,8 @@
             padding: 16px 16px 14px;
             display: flex;
             flex-direction: column;
-            border: 1px solid rgba(255, 255, 255, 0.75);
-            box-shadow: 0 8px 24px rgba(152,38,83, 0.14);
+            border: 1px solid #efd1de;
+            box-shadow: none;
             cursor: pointer;
             text-decoration: none;
             color: var(--text-main);
@@ -111,8 +79,9 @@
         }
 
         .app-card:hover {
-            transform: translateY(-6px) scale(1.02);
-            box-shadow: 0 18px 40px rgba(152,38,83, 0.28);
+            background: #fff0f6;
+            border-color: var(--accent-soft);
+            box-shadow: none;
         }
 
         .app-card:active { transform: translateY(-2px) scale(0.99); }
@@ -121,16 +90,16 @@
             outline-offset: 4px;
         }
 
-        /* 每张卡片的淡彩渐变 */
-        .c-weather { background: linear-gradient(150deg, #ffe0ed 0%, #f3a8c8 100%); }
-        .c-poem    { background: linear-gradient(150deg, #ffe9f3 0%, #efbad7 100%); }
-        .c-duck    { background: linear-gradient(150deg, #ffe3ed 0%, #f5abc2 100%); }
-        .c-pinyin  { background: linear-gradient(150deg, #ffe1f1 0%, #efa7cc 100%); }
-        .c-drug    { background: linear-gradient(150deg, #ffe8f2 0%, #eeb3ce 100%); }
-        .c-book    { background: linear-gradient(150deg, #f9e2f3 0%, #e4b1d4 100%); }
-        .c-hcia    { background: linear-gradient(150deg, #cfe0ff 0%, #8fb4f7 100%); }
-        .c-learning { background: linear-gradient(150deg, #ffe7f0 0%, #edb1ca 100%); }
-        .c-about { background: linear-gradient(150deg, #ffe4f1 0%, #eeb4d1 100%); }
+        /* 纯色卡片，使用细边框区分层次 */
+        .c-weather { background: #fff; }
+        .c-poem    { background: #fff; }
+        .c-duck    { background: #fff; }
+        .c-pinyin  { background: #fff; }
+        .c-drug    { background: #fff; }
+        .c-book    { background: #fff; }
+        .c-hcia    { background: #edf3ff; }
+        .c-learning { background: #fff; }
+        .c-about { background: #fff; }
 
         .learning-folder { isolation: isolate; align-items: center; justify-content: center; gap: 12px; overflow: hidden; }
         .folder-icon { position: absolute; z-index: -1; display: grid; place-items: center; width: 72px; height: 72px; border: 1px solid rgba(255,255,255,.76); border-radius: 20px; background: rgba(255,255,255,.42); font-size: 2rem; opacity: .62; filter: saturate(.8); transition: transform .28s ease, opacity .28s ease; }
@@ -144,7 +113,7 @@
         .folder-caption { display: flex; align-items: center; gap: 10px; padding: 8px 14px; border-radius: 999px; background: rgba(255,255,255,.64); backdrop-filter: blur(5px); }
         .folder-count { padding: 3px 9px; border-radius: 999px; background: rgba(255,255,255,.6); font-size: .72rem; }
 
-        .folder-dialog { position: fixed; inset: 0; width: min(720px, calc(100% - 32px)); max-height: calc(100dvh - 40px); margin: auto; padding: 30px; overflow-y: auto; border: 1px solid rgba(255,255,255,.9); border-radius: 28px; background: rgba(255,245,249,.78); color: var(--text-main); box-shadow: 0 28px 90px rgba(85,51,68,.3); backdrop-filter: blur(22px) saturate(1.15); -webkit-backdrop-filter: blur(22px) saturate(1.15); }
+        .folder-dialog { position: fixed; inset: 0; width: min(720px, calc(100% - 32px)); max-height: calc(100dvh - 40px); margin: auto; padding: 30px; overflow-y: auto; border: 1px solid rgba(255,255,255,.9); border-radius: 28px; background: rgba(255,245,249,.78); color: var(--text-main); box-shadow: none; backdrop-filter: blur(22px) saturate(1.15); -webkit-backdrop-filter: blur(22px) saturate(1.15); }
         .folder-dialog::backdrop { background: rgba(75,40,60,.28); backdrop-filter: blur(7px); -webkit-backdrop-filter: blur(7px); }
         .folder-dialog[open] { animation: folderZoom .25s ease both; }
         body.folder-open { overflow: hidden; }
@@ -169,7 +138,7 @@
         .card-emoji {
             font-size: 1.55rem;
             line-height: 1;
-            filter: drop-shadow(0 2px 3px rgba(85,51,68, 0.18));
+            filter: none;
         }
 
         .card-tag {
@@ -244,7 +213,7 @@
         .link-emoji {
             font-size: 3rem;
             line-height: 1;
-            filter: drop-shadow(0 3px 5px rgba(85,51,68, 0.2));
+            filter: none;
             transition: transform 0.28s ease;
         }
         .app-card.link:hover .link-emoji { transform: scale(1.12) rotate(-6deg); }
@@ -267,12 +236,12 @@
 
         /* ===== 右侧个人信息侧边栏 ===== */
         .sidebar {
-            background: rgba(255, 255, 255, 0.5);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.85);
-            border-radius: 36px;
-            box-shadow: 0 14px 44px rgba(152,38,83, 0.16);
+            background: #fff;
+            backdrop-filter: none;
+            -webkit-backdrop-filter: none;
+            border: 1px solid #efd1de;
+            border-radius: 24px;
+            box-shadow: none;
             padding: 40px 28px 30px;
             display: flex;
             flex-direction: column;
@@ -284,25 +253,8 @@
             line-height: 1;
             display: inline-block;
             position: relative;
-            animation: bob 4s ease-in-out infinite;
         }
-        .duck::before {
-            content: '';
-            position: absolute;
-            inset: -18px;
-            border-radius: 50%;
-            background: radial-gradient(circle, rgba(184,50,107, 0.25) 0%, rgba(232,135,176, 0.15) 50%, transparent 70%);
-            animation: glowPulse 3s ease-in-out infinite;
-        }
-        .duck::after {
-            content: '';
-            position: absolute;
-            inset: -4px;
-            border-radius: 50%;
-            background: conic-gradient(from 0deg, var(--accent-soft), var(--pink), var(--accent), var(--accent-soft));
-            animation: ringSpin 8s linear infinite;
-            z-index: 0;
-        }
+
         .duck img {
             position: relative;
             z-index: 1;
@@ -310,18 +262,8 @@
             height: 118px;
             border-radius: 50%;
             object-fit: cover;
-            border: 3px solid #fff;
-            box-shadow: 0 8px 24px rgba(152,38,83, 0.3);
-        }
-
-        @keyframes ringSpin { to { transform: rotate(360deg); } }
-        @keyframes glowPulse {
-            0%, 100% { opacity: 0.6; transform: scale(1); }
-            50%      { opacity: 1; transform: scale(1.08); }
-        }
-        @keyframes bob {
-            0%, 100% { transform: translateY(0); }
-            50%      { transform: translateY(-8px); }
+            border: 2px solid var(--accent-soft);
+            box-shadow: none;
         }
 
         .greeting {
@@ -335,7 +277,7 @@
             border: 1px solid rgba(255, 255, 255, 0.9);
             border-radius: 999px;
             padding: 7px 18px;
-            box-shadow: 0 4px 14px rgba(152,38,83, 0.1);
+            box-shadow: none;
         }
 
         .side-title {
@@ -351,7 +293,7 @@
             margin: 16px auto 0;
             height: 2px;
             width: 120px;
-            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            background: var(--bg-warm-1);
         }
 
         .tagline {
@@ -407,7 +349,7 @@
             .duck img { width: 96px; height: 96px; }
             .side-title { font-size: 1.7rem; }
             .sidebar { border-radius: 28px; padding: 30px 22px 24px; }
-            .deco { opacity: 0.35; }
+
             .folder-icon { width: 56px; height: 56px; border-radius: 16px; font-size: 1.55rem; }
             .folder-dialog { padding: 22px 18px; border-radius: 24px; }
             .folder-apps { grid-template-columns: 1fr; gap: 12px; }
@@ -420,10 +362,6 @@
     </style>
 </head>
 <body>
-    <div class="deco d1">🪶</div>
-    <div class="deco d2">✨</div>
-    <div class="deco d3">☕</div>
-    <div class="deco d4">🌙</div>
 
     <main class="layout">
         <!-- 左侧：App 图标卡网格 -->

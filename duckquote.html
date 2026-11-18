@@ -27,33 +27,14 @@
         body {
             font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
             color: var(--text-main);
-            background: linear-gradient(160deg, var(--bg-warm-1) 0%, var(--bg-warm-2) 55%, var(--bg-warm-3) 100%);
+            background: var(--bg-warm-1);
             min-height: 100vh;
             overflow-x: hidden;
             padding: 40px 18px 80px;
             position: relative;
         }
 
-        body::before, body::after {
-            content: '';
-            position: fixed;
-            border-radius: 50%;
-            filter: blur(70px);
-            pointer-events: none;
-            z-index: 0;
-        }
 
-        body::before {
-            width: 420px; height: 420px;
-            background: rgba(239,172,200, 0.45);
-            top: -120px; left: -100px;
-        }
-
-        body::after {
-            width: 380px; height: 380px;
-            background: rgba(232,135,176, 0.35);
-            bottom: -120px; right: -90px;
-        }
 
         .page {
             position: relative;
@@ -85,8 +66,8 @@
             padding: 6px 18px;
             border-radius: 999px;
             background: rgba(255, 255, 255, 0.55);
-            backdrop-filter: blur(6px);
-            border: 1px solid rgba(255, 255, 255, 0.8);
+            backdrop-filter: none;
+            border: 1px solid var(--accent-soft);
             transition: background 0.2s ease;
         }
 
@@ -106,7 +87,7 @@
             margin-top: 12px;
             font-size: 0.86rem;
             color: var(--accent-deep);
-            background: rgba(255, 255, 255, 0.6);
+            background: #fff;
             border-radius: 999px;
             padding: 5px 18px;
             letter-spacing: 0.08em;
@@ -118,9 +99,9 @@
             gap: 12px;
             padding: 20px;
             margin-bottom: 22px;
-            border: 1px solid rgba(255, 255, 255, 0.9);
+            border: 1px solid var(--accent-soft);
             border-radius: 18px;
-            background: rgba(255, 255, 255, 0.7);
+            background: #fff;
         }
 
         .filters label { display: flex; flex-direction: column; gap: 7px; min-width: 0; font-size: 0.8rem; color: var(--text-soft); }
@@ -143,19 +124,19 @@
         }
 
         .quote-card {
-            background: rgba(255, 255, 255, 0.7);
-            backdrop-filter: blur(8px);
-            border: 1px solid rgba(255, 255, 255, 0.9);
+            background: #fff;
+            backdrop-filter: none;
+            border: 1px solid var(--accent-soft);
             border-radius: 18px;
             padding: 24px 28px;
-            box-shadow: 0 6px 20px rgba(152,38,83, 0.1);
+            box-shadow: none;
             transition: transform 0.25s ease, box-shadow 0.25s ease;
             animation: cardIn 0.5s ease both;
         }
 
         .quote-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 12px 30px rgba(152,38,83, 0.18);
+            border-color: var(--accent);
+            box-shadow: none;
         }
 
         @keyframes cardIn {
