@@ -12,6 +12,8 @@ for(let n=0;n<500;n++){
  paper.answers[paper.ids[0]]=(byId.get(paper.ids[0]).answer+1)%4;delete paper.answers[paper.ids[1]];
  const result=exam.grade(paper,questions);assert.equal(result.score,90);assert.equal(result.correct,18);assert.equal(result.wrong,1);assert.equal(result.unanswered,1);
  assert.deepEqual(exam.restore(JSON.parse(JSON.stringify(paper)),questions),paper);
+ assert.equal(exam.restore({...paper,version:1},questions),null);
+ const stale=JSON.parse(JSON.stringify(paper));const hellId=paper.ids.find(id=>byId.get(id).difficulty==='hell');stale.revisions[hellId]=1;assert.equal(exam.restore(stale,questions),null);
  const duplicate={...paper,ids:Array(20).fill(paper.ids[0])};assert.equal(exam.restore(duplicate,questions),null);
  const broken={...paper,answers:{[paper.ids[0]]:19,[paper.ids[1]]:'2'},elapsed:-100};const restored=exam.restore(broken,questions);assert.deepEqual(restored.answers,{});assert.equal(restored.elapsed,0);
 }

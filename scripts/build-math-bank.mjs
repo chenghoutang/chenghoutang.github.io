@@ -21,12 +21,13 @@ for(const topic of topics)for(const [difficulty,difficultyLabel,targetSeconds] o
         stem:q.stem,options,answer,explanation:q.explanation});
 }
 if(batch>=7){
- const {families}=await import('./math/hell.mjs');
- const start=batch===7?0:15,end=batch===7?15:25;
- for(let family=start;family<end;family++)for(let seed=0;seed<20;seed++){
+ const {families,hellRevision}=await import('./math/hell.mjs');
+ assert.equal(families.length,50);
+ const start=batch===7?0:30,end=batch===7?30:50;
+ for(let family=start;family<end;family++)for(let seed=0;seed<10;seed++){
   const item=families[family],q=item.generate(seed),offset=(seed+family)%4;
   const options=q.choices.map((_,i)=>q.choices[(i+offset)%4]);
-  questions.push({id:`M${String(1801+family*20+seed).padStart(4,'0')}`,batch,topic:item.topic,topicName:item.name,difficulty:'hell',difficultyLabel:'地狱',targetSeconds:600,family:`hell-${family+1}`,variant:seed+1,stem:q.stem,options,answer:options.indexOf(q.correct),explanation:q.explanation});
+  questions.push({id:`M${String(1801+family*10+seed).padStart(4,'0')}`,batch,topic:item.topic,topicName:item.name,difficulty:'hell',difficultyLabel:'地狱',targetSeconds:600,family:`hell-${family+1}`,variant:seed+1,contentRevision:hellRevision,strategy:item.strategy,stem:q.stem,options,answer:options.indexOf(q.correct),explanation:`思路：${item.strategy}。\n${q.explanation}`});
  }
 }
 assert.equal(questions.length,batch===8?200:300);
@@ -36,7 +37,8 @@ const filename=`batch-${batch}`;
 fs.writeFileSync(path.join(folder,filename+'.json'),JSON.stringify({batch,questions},null,2)+'\n');
 fs.writeFileSync(path.join(folder,filename+'.js'),`window.MATH_BATCHES=window.MATH_BATCHES||[];window.MATH_BATCHES.push(${JSON.stringify({batch,questions}).replace(/</g,'\\u003c')});\n`);
 const completed=Array.from({length:8},(_,i)=>i+1).filter(n=>fs.existsSync(path.join(folder,`batch-${n}.json`)));
-const manifest={schemaVersion:2,total:0,target:2300,batches:completed,topics:[]};
+const {hellRevision}=await import('./math/hell.mjs');
+const manifest={schemaVersion:3,hellRevision,total:0,target:2300,batches:completed,topics:[]};
 for(const n of completed){const data=JSON.parse(fs.readFileSync(path.join(folder,`batch-${n}.json`),'utf8'));manifest.total+=data.questions.length;for(const q of data.questions)if(!manifest.topics.some(t=>t.id===q.topic))manifest.topics.push({id:q.topic,name:q.topicName});}
 fs.writeFileSync(path.join(folder,'manifest.json'),JSON.stringify(manifest,null,2)+'\n');
 fs.writeFileSync(path.join(folder,'manifest.js'),`window.MATH_MANIFEST=${JSON.stringify(manifest)};\n`);

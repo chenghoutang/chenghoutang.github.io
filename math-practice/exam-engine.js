@@ -12,15 +12,16 @@
    for(const q of pool)if(chosen.length<count&&!chosen.includes(q))chosen.push(q);
    ids.push(...chosen.map(q=>q.id));
   }
-  return {version:1,ids,answers:{},elapsed:0,submitted:false,createdAt:Date.now()};
+  const byId=new Map(questions.map(q=>[q.id,q]));
+  return {version:2,ids,revisions:Object.fromEntries(ids.map(id=>[id,byId.get(id).contentRevision||1])),answers:{},elapsed:0,submitted:false,createdAt:Date.now()};
  }
  function restore(raw,questions){
-  if(!raw||raw.version!==1||!Array.isArray(raw.ids)||raw.ids.length!==20||new Set(raw.ids).size!==20)return null;
+  if(!raw||raw.version!==2||!Array.isArray(raw.ids)||raw.ids.length!==20||new Set(raw.ids).size!==20)return null;
   const byId=new Map(questions.map(q=>[q.id,q])),counts={};
-  for(const id of raw.ids){const q=byId.get(id);if(!q)return null;counts[q.difficulty]=(counts[q.difficulty]||0)+1;}
+  for(const id of raw.ids){const q=byId.get(id);if(!q||raw.revisions?.[id]!==(q.contentRevision||1))return null;counts[q.difficulty]=(counts[q.difficulty]||0)+1;}
   if(Object.entries(blueprint).some(([level,count])=>counts[level]!==count))return null;
   const answers={};for(const id of raw.ids){const value=raw.answers?.[id];if(Number.isInteger(value)&&value>=0&&value<4)answers[id]=value;}
-  return {version:1,ids:[...raw.ids],answers,elapsed:Number.isFinite(raw.elapsed)&&raw.elapsed>=0?raw.elapsed:0,submitted:raw.submitted===true,createdAt:Number.isFinite(raw.createdAt)?raw.createdAt:Date.now()};
+  return {version:2,ids:[...raw.ids],revisions:{...raw.revisions},answers,elapsed:Number.isFinite(raw.elapsed)&&raw.elapsed>=0?raw.elapsed:0,submitted:raw.submitted===true,createdAt:Number.isFinite(raw.createdAt)?raw.createdAt:Date.now()};
  }
  function grade(exam,questions){
   const byId=new Map(questions.map(q=>[q.id,q]));const rows=exam.ids.map(id=>({id,selected:exam.answers[id]??null,correct:exam.answers[id]===byId.get(id).answer}));

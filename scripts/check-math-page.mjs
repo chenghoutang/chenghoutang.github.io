@@ -77,6 +77,25 @@ try{
  assert.equal(await run('window.MATH_MANIFEST.total'),total);assert.equal(await run('document.querySelectorAll("#topic option").length'),31);
  await run('location.hash="M0041"');await until('document.querySelector("#questionMeta").textContent.startsWith("M0041")');await run('const question=window.MATH_BATCHES[0].questions.find(q=>q.id==="M0041");document.querySelectorAll("#options input")[question.answer].click();document.querySelector("#submit").click()');
  await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'math-desktop.png'),Buffer.from(p.data,'base64')));
+ // Seed storage before page scripts run, so pagehide cannot overwrite the
+ // fixture. Verify that only replaced questions lose their saved answers.
+ const seed=await cdp('Page.addScriptToEvaluateOnNewDocument',{source:`localStorage.setItem('dengduck-math-v1',JSON.stringify({answers:{M0001:{selected:0,submitted:true,elapsed:5000},M1801:{selected:0,submitted:true,elapsed:6000}},stars:['M0001','M1801']}));`});
+ await reload();await cdp('Page.removeScriptToEvaluateOnNewDocument',{identifier:seed.identifier});
+ assert.equal(await run('document.querySelector("#bankNotice").hidden'),false);
+ await run('location.hash="M0001"');await until('document.querySelector("#questionMeta").textContent.startsWith("M0001")');
+ assert.equal(await run('document.querySelector("#feedback").hidden'),false);assert.equal(await run('document.querySelector("#star").getAttribute("aria-pressed")'),'true');
+ await run('location.hash="M1801"');await until('document.querySelector("#questionMeta").textContent.startsWith("M1801")');
+ assert.equal(await run('document.querySelector("#feedback").hidden'),true);assert.equal(await run('document.querySelector("#star").getAttribute("aria-pressed")'),'false');
+ assert.equal(await run('JSON.parse(localStorage.getItem("dengduck-math-v1")).hellRevision'),2);
+ await run('document.querySelectorAll("#options input")[0].click();document.querySelector("#submit").click();document.querySelector("#star").click()');
+ await reload();assert.equal(await run('document.querySelector("#feedback").hidden'),false);assert.equal(await run('document.querySelector("#star").getAttribute("aria-pressed")'),'true');
+ const legacy=await cdp('Page.addScriptToEvaluateOnNewDocument',{source:`localStorage.setItem('dengduck-math-exam-v1',JSON.stringify({version:1,ids:${JSON.stringify(originalIds)},answers:{},elapsed:1000,submitted:true}));`});
+ await run('document.querySelector(".exam-entry a").click()');await until('!!window.MathExam && !!document.querySelector("#newExam")');
+ await cdp('Page.removeScriptToEvaluateOnNewDocument',{identifier:legacy.identifier});
+ assert.equal(await run('document.querySelector("#examSession").hidden'),true);assert.ok(await run('document.querySelector("#examMessage").textContent.includes("失效")'));
+ await run('document.querySelector("#newExam").click()');await until('document.querySelectorAll(".exam-question").length===20');
+ assert.ok(await run('Object.entries(JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).revisions).filter(([id])=>Number(id.slice(1))>=1801).every(([,revision])=>revision===2)'));
+ await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'exam-rewritten.png'),Buffer.from(p.data,'base64')));
  assert.equal(errors.length,0,JSON.stringify(errors));
- console.log(`PASS: ${total} questions in offline Chrome and HTTP homepage entry; ${families.length} families answered at 320px; LaTeX, retry, wrong/starred records, reload, filters, timer, deep links, invalid saved data. Screenshots: ${profile}`);
+ console.log(`PASS: ${total} questions; ${families.length} families at 320px; exam grading, migration of old hell answers and papers, retention of other answers, offline and HTTP. Screenshots: ${profile}`);
 }finally{ws?.close();browser.kill();server?.close();}

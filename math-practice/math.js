@@ -3,8 +3,10 @@
     const $=id=>document.getElementById(id),key='dengduck-math-v1';
     const questions=(window.MATH_BATCHES||[]).flatMap(batch=>batch.questions);
     const byId=new Map(questions.map(q=>[q.id,q]));
-    let state={answers:{},stars:[]},storageOK=true;
-    try{const saved=JSON.parse(localStorage.getItem(key));if(saved&&saved.answers&&typeof saved.answers==='object'&&!Array.isArray(saved.answers)&&Array.isArray(saved.stars)){state.answers=Object.fromEntries(Object.entries(saved.answers).filter(([id,value])=>byId.has(id)&&value&&typeof value==='object').map(([id,value])=>[id,{selected:Number.isInteger(value.selected)&&value.selected>=0&&value.selected<4?value.selected:null,submitted:!!value.submitted&&Number.isInteger(value.selected)&&value.selected>=0&&value.selected<4,elapsed:Number.isFinite(value.elapsed)&&value.elapsed>=0?value.elapsed:0}]));state.stars=[...new Set(saved.stars.filter(id=>byId.has(id)))];}}catch{storageOK=false;}
+    const hellRevision=window.MATH_MANIFEST?.hellRevision||1;
+    let state={answers:{},stars:[],hellRevision},storageOK=true,hellUpdated=false;
+    try{const saved=JSON.parse(localStorage.getItem(key));if(saved&&saved.answers&&typeof saved.answers==='object'&&!Array.isArray(saved.answers)&&Array.isArray(saved.stars)){state.answers=Object.fromEntries(Object.entries(saved.answers).filter(([id,value])=>byId.has(id)&&value&&typeof value==='object').map(([id,value])=>[id,{selected:Number.isInteger(value.selected)&&value.selected>=0&&value.selected<4?value.selected:null,submitted:!!value.submitted&&Number.isInteger(value.selected)&&value.selected>=0&&value.selected<4,elapsed:Number.isFinite(value.elapsed)&&value.elapsed>=0?value.elapsed:0}]));state.stars=[...new Set(saved.stars.filter(id=>byId.has(id)))];state.hellRevision=saved.hellRevision;}}catch{storageOK=false;}
+    if(state.hellRevision!==hellRevision){hellUpdated=true;state.answers=Object.fromEntries(Object.entries(state.answers).filter(([id])=>byId.get(id)?.difficulty!=='hell'));state.stars=state.stars.filter(id=>byId.get(id)?.difficulty!=='hell');state.hellRevision=hellRevision;}
     let filtered=[],active=null,page=0,selected=null,elapsed=0,started=0,paused=false,submitted=false;
     const pageSize=12,labels={easy:'简单',medium:'中等',hard:'困难',hell:'地狱'};
     const make=(tag,text,cls)=>{const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(cls)node.className=cls;return node;};
@@ -31,5 +33,6 @@
     $('pause').addEventListener('click',()=>{if(!active||submitted)return;if(!paused)elapsed=currentTime();else started=Date.now();paused=!paused;$('pause').textContent=paused?'继续计时':'暂停计时';capture();tick();});
     document.addEventListener('visibilitychange',()=>{if(active&&!submitted&&document.hidden&&!paused){elapsed=currentTime();paused=true;$('pause').textContent='继续计时';capture();tick();}});
     window.addEventListener('pagehide',capture);window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(byId.has(id))open(id);});
+    if(hellUpdated){$('bankNotice').hidden=false;$('bankNotice').textContent='500 道地狱题已全部重写，旧题的作答和收藏已清理；其他难度的学习记录保留。';}
     renderIndex();const initial=location.hash.slice(1);if(byId.has(initial))open(initial);else if(questions.length){history.replaceState(null,'','#'+questions[0].id);open(questions[0].id);}else{$('empty').hidden=false;}updateProgress();setInterval(tick,500);
 })();

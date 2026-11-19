@@ -3,13 +3,13 @@
  const $=id=>document.getElementById(id),key='dengduck-math-exam-v1',engine=window.MathExam;
  const questions=(window.MATH_BATCHES||[]).flatMap(b=>b.questions),byId=new Map(questions.map(q=>[q.id,q]));
  const labels={easy:'简单',medium:'中等',hard:'困难',hell:'地狱'};
- let exam=null,paused=true,started=0,confirmAction=null,storageOK=true;
+ let exam=null,paused=true,started=0,confirmAction=null,storageOK=true,bankUpdated=false;
  const node=(tag,text,cls)=>{const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(cls)el.className=cls;return el;};
  const renderMath=el=>window.renderMathInElement?.(el,{delimiters:[{left:'$',right:'$',display:false}],throwOnError:false,strict:'ignore',trust:false});
  const elapsed=()=>exam?exam.elapsed+(!paused&&!exam.submitted?Date.now()-started:0):0;
  function capture(){if(!exam)return;exam.elapsed=elapsed();started=Date.now();}
  function save(){if(!exam)return;capture();try{localStorage.setItem(key,JSON.stringify(exam));}catch{storageOK=false;}message();}
- function message(){const text=[];if(!storageOK)text.push('当前浏览器无法持久保存，请保持页面打开完成试卷。');if(exam&&!exam.submitted&&paused)text.push('计时已暂停，点击“继续计时”接着做。');if(exam&&!exam.submitted&&elapsed()>engine.durationSeconds*1000)text.push('已超过建议时间，可以继续作答。');$('examMessage').textContent=text.join(' ');}
+ function message(){const text=[];if(bankUpdated)text.push('地狱题库已重写，原试卷已失效，请重新出卷。');if(!storageOK)text.push('当前浏览器无法持久保存，请保持页面打开完成试卷。');if(exam&&!exam.submitted&&paused)text.push('计时已暂停，点击“继续计时”接着做。');if(exam&&!exam.submitted&&elapsed()>engine.durationSeconds*1000)text.push('已超过建议时间，可以继续作答。');$('examMessage').textContent=text.join(' ');}
  function tick(){if(!exam)return;const seconds=Math.floor(elapsed()/1000);$('examTimer').textContent=`用时 ${String(Math.floor(seconds/60)).padStart(2,'0')}:${String(seconds%60).padStart(2,'0')}`;message();}
  function progress(){if(!exam)return;const answered=Object.keys(exam.answers).length;$('examProgress').textContent=`已答 ${answered} / 20 · 未答 ${20-answered}`;exam.ids.forEach((id,i)=>{const link=$('examNav').children[i];link.classList.toggle('answered',Number.isInteger(exam.answers[id]));link.setAttribute('aria-label',`第 ${i+1} 题，${Number.isInteger(exam.answers[id])?'已答':'未答'}`);});}
  function showResult(){
@@ -36,7 +36,7 @@
   });progress();if(exam.submitted)showResult();tick();
  }
  function confirm(title,text,action){confirmAction=action;$('confirmTitle').textContent=title;$('confirmText').textContent=text;$('examConfirm').showModal();$('cancelConfirm').focus();}
- function create(){try{exam=engine.create(questions);paused=document.hidden;started=Date.now();save();render();}catch(e){$('examMessage').textContent=e.message;}}
+ function create(){try{exam=engine.create(questions);bankUpdated=false;paused=document.hidden;started=Date.now();save();render();}catch(e){$('examMessage').textContent=e.message;}}
  $('newExam').addEventListener('click',()=>{if(exam&&!exam.submitted)confirm('重新出卷？','当前未交卷的试卷将被替换，已选择的答案会清空。',create);else create();});
  $('examForm').addEventListener('submit',e=>{e.preventDefault();if(!exam||exam.submitted)return;const missing=20-Object.keys(exam.answers).length;confirm('确认交卷？',missing?`还有 ${missing} 题未答，交卷后未答题计 0 分。`:'已完成全部 20 题，交卷后显示得分与解析。',()=>{capture();exam.submitted=true;paused=true;save();render();$('examResult').focus();});});
  $('cancelConfirm').addEventListener('click',()=>{$('examConfirm').close();confirmAction=null;});$('examConfirm').addEventListener('cancel',()=>{confirmAction=null;});
@@ -44,6 +44,6 @@
  $('examPause').addEventListener('click',()=>{if(!exam||exam.submitted)return;capture();paused=!paused;started=Date.now();save();$('examPause').textContent=paused?'继续计时':'暂停计时';tick();});
  document.addEventListener('visibilitychange',()=>{if(exam&&!exam.submitted&&document.hidden&&!paused){capture();paused=true;save();$('examPause').textContent='继续计时';tick();}});
  window.addEventListener('pagehide',save);
- try{exam=engine.restore(JSON.parse(localStorage.getItem(key)),questions);}catch{storageOK=false;}
- render();setInterval(()=>{tick();if(exam&&!exam.submitted&&!paused)save();},1000);
+ try{const raw=JSON.parse(localStorage.getItem(key));exam=engine.restore(raw,questions);if(raw&&!exam){bankUpdated=true;localStorage.removeItem(key);}}catch{storageOK=false;}
+ render();message();setInterval(()=>{tick();if(exam&&!exam.submitted&&!paused)save();},1000);
 })();
