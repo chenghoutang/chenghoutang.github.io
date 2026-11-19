@@ -6,6 +6,10 @@
 
 页面可从主页的“学习”文件夹进入，也可直接打开 `index.html`。KaTeX 和字体均保存在本地，数据通过普通脚本加载，支持 `file://` 离线打开。练习记录、错题与收藏保存在当前浏览器的 localStorage 中。
 
+全部 2400 道题的解析包含原理说明、对应题目的关键公式推导，以及必要的定义域、边界或取等条件检查。240 类题型分别维护在 `scripts/math/proofs-1.mjs` 至 `proofs-6.mjs` 与 `proofs-advanced.mjs`，构建时通过 `explanations.mjs` 合入；修改解析后需重建对应批次。只调整解析不改变题目内容版本，也不清理作答记录。
+
+单题与试卷共用 `math-render.js`，支持 `$...$`、`\(...\)` 行内公式和 `$$...$$`、`\[...\]` 独立公式。多步推导可用 `aligned`、`cases`、`array` 等 LaTeX 环境，文字放在 `\text{...}` 内。手机上的长独立公式在自身区域横向滚动；页面以纯文本设置解析后交给 KaTeX 渲染，不允许解析注入 HTML。
+
 ## 维护题库
 
 题目源文件为 `../scripts/math/batch-1.mjs` 至 `batch-6.mjs`，每批五个模块、300 题；思维训练源文件为 `../scripts/math/hell.mjs`，由第 7、8 批构建；新增题型源文件为 `../scripts/math/new-types.mjs`，第 9 批构建为 M2301–M2400。修改题目后重新构建对应批次：

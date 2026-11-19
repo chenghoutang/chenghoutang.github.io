@@ -7,7 +7,7 @@ const base=new URL('../math-practice/',import.meta.url);
 const read=name=>fs.readFileSync(new URL(name,base),'utf8');
 const manifest=JSON.parse(read('data/manifest.json'));
 const all=[],families=new Map();let formulas=0;
-const render=tex=>{katex.renderToString(tex,{throwOnError:true,strict:'error'});formulas++;};
+const render=tex=>{try{katex.renderToString(tex,{throwOnError:true,strict:'error',displayMode:true});}catch(error){throw Error(`${error.message}\nFormula: ${tex}`);}formulas++;};
 const sandbox={window:{}};vm.createContext(sandbox);vm.runInContext(read('data/manifest.js'),sandbox);
 assert.equal(sandbox.window.MATH_MANIFEST.total,manifest.total);
 for(const batch of manifest.batches){
@@ -24,10 +24,10 @@ for(const batch of manifest.batches){
   assert.ok(q.stem.length>10&&q.explanation.length>10,q.id);
   assert.ok(!/NaN|undefined|待补|重新按|TODO|�/.test(JSON.stringify(q)),q.id);
   for(const text of [q.stem,q.explanation]){
-   assert.equal((text.match(/\$/g)||[]).length%2,0,q.id);
-   assert.ok(!text.split('$').filter((_,i)=>i%2===0).some(part=>/\\[a-zA-Z]+/.test(part)),`Unrendered LaTeX: ${q.id}`);
-   for(const m of text.matchAll(/\$([^$]+)\$/g))render(m[1]);
+   const plain=text.replace(/\$\$([\s\S]*?)\$\$|\$([^$]+)\$|\\\[([\s\S]*?)\\\]|\\\(([\s\S]*?)\\\)/g,(match,...args)=>{render(args.slice(0,4).find(v=>v!==undefined));return '';});
+   assert.ok(!/\$|\\[a-zA-Z]+/.test(plain),`Unrendered LaTeX: ${q.id}`);
   }
+  assert.ok(q.explanation.includes('关键推导\n$$\n'),q.id+' missing worked derivation');
   q.options.forEach(render);families.set(q.family,(families.get(q.family)||0)+1);all.push(q);
  }
 }

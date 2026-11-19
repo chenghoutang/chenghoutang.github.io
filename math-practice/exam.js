@@ -4,7 +4,7 @@
  const questions=(window.MATH_BATCHES||[]).flatMap(b=>b.questions),byId=new Map(questions.map(q=>[q.id,q])),labels={easy:'简单',medium:'中等',hard:'困难',hell:'地狱'};
  let exam=null,paused=true,started=0,confirmAction=null,storageOK=true,bankUpdated=false,page=0;
  const pageSize=20,node=(tag,text,cls)=>{const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(cls)el.className=cls;return el;};
- const renderMath=el=>window.renderMathInElement?.(el,{delimiters:[{left:'$',right:'$',display:false}],throwOnError:false,strict:'ignore',trust:false});
+ const renderMath=el=>window.renderPracticeMath(el);
  const elapsed=()=>exam?exam.elapsed+(!paused&&!exam.submitted?Date.now()-started:0):0;
  const checked=id=>[...$(id).querySelectorAll('input:checked')].map(el=>el.value);
  const settings=()=>({mode:$('examMode').value,count:Number($('examCount').value),levels:checked('levelTags'),topics:checked('topicTags'),sources:checked('sourceTags')});

@@ -10,7 +10,7 @@
     let filtered=[],active=null,page=0,selected=null,elapsed=0,started=0,paused=false,submitted=false;
     const pageSize=12,labels={easy:'简单',medium:'中等',hard:'困难',hell:'地狱'};
     const make=(tag,text,cls)=>{const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(cls)node.className=cls;return node;};
-    function renderMath(node){if(window.renderMathInElement)window.renderMathInElement(node,{delimiters:[{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false}],throwOnError:false,strict:'ignore',trust:false});}
+    const renderMath=node=>window.renderPracticeMath(node);
     function save(){try{localStorage.setItem(key,JSON.stringify(state));}catch{storageOK=false;}$('saveMessage').textContent=storageOK?'作答与收藏自动保存在当前浏览器。':'当前浏览器无法持久保存，记录仅在本次页面打开期间保留。';updateProgress();}
     function updateProgress(){const answers=Object.entries(state.answers).filter(([id,value])=>byId.has(id)&&value.submitted);const correct=answers.filter(([id,value])=>value.selected===byId.get(id).answer).length;$('progressSummary').textContent=`已完成 ${answers.length} / ${questions.length} 题 · 答对 ${correct} 题 · 错题 ${answers.length-correct} 题 · 收藏 ${state.stars.filter(id=>byId.has(id)).length} 题`;}
     function matches(q){const level=$('difficulty').value,topic=$('topic').value,scope=$('scope').value,query=$('search').value.trim().toLowerCase();const result=state.answers[q.id];return(level==='all'||level===q.difficulty)&&(topic==='all'||topic===q.topic)&&(!query||`${q.id} ${q.topicName} ${q.stem}`.toLowerCase().includes(query))&&(scope==='all'||scope==='unanswered'&&!result?.submitted||scope==='wrong'&&result?.submitted&&result.selected!==q.answer||scope==='starred'&&state.stars.includes(q.id));}

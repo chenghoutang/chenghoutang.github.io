@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
+import { expandExplanation } from './math/explanations.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const batch=Number(process.argv[2]);
 assert.ok(Number.isInteger(batch)&&batch>=1&&batch<=9,'Usage: node scripts/build-math-bank.mjs <1..9>');
@@ -37,6 +38,7 @@ if(batch===9){
   questions.push({id:`M${String(2301+f*10+seed).padStart(4,'0')}`,batch,topic:item.topic,topicName:item.name,difficulty:item.difficulty,difficultyLabel:item.difficulty==='hell'?'地狱':'困难',targetSeconds:item.difficulty==='hell'?600:300,family:`new-${f+1}`,variant:seed+1,contentRevision:item.difficulty==='hell'?2:1,strategy:item.strategy,stem:q.stem,options,answer:options.indexOf(q.correct),explanation:`思路：${item.strategy}。\n${q.explanation}`});
  }
 }
+for(const question of questions)question.explanation=expandExplanation(question);
 assert.equal(questions.length,batch===9?100:batch===8?200:300);
 assert.equal(new Set(questions.map(q=>q.stem)).size,questions.length,'Duplicate question stems');
 const folder=path.join(root,'math-practice/data');fs.mkdirSync(folder,{recursive:true});
