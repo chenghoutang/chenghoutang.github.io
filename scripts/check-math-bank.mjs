@@ -13,12 +13,13 @@ assert.equal(sandbox.window.MATH_MANIFEST.total,manifest.total);
 for(const batch of manifest.batches){
  const data=JSON.parse(read(`data/batch-${batch}.json`));
  vm.runInContext(read(`data/batch-${batch}.js`),sandbox);
- assert.equal(data.questions.length,300);assert.equal(new Set(data.questions.map(q=>q.topic)).size,5);
- for(const level of ['easy','medium','hard'])assert.equal(data.questions.filter(q=>q.difficulty===level).length,100);
+ assert.equal(data.questions.length,batch===8?200:300);
+ if(batch<=6){assert.equal(new Set(data.questions.map(q=>q.topic)).size,5);for(const level of ['easy','medium','hard'])assert.equal(data.questions.filter(q=>q.difficulty===level).length,100);}
+ else assert.ok(data.questions.every(q=>q.difficulty==='hell'));
  for(const q of data.questions){
   assert.equal(q.id,`M${String(all.length+1).padStart(4,'0')}`);assert.equal(q.batch,batch);
   assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4,q.id);assert.ok(q.answer>=0&&q.answer<4);
-  assert.equal(q.targetSeconds,{easy:15,medium:120,hard:300}[q.difficulty]);
+  assert.equal(q.targetSeconds,{easy:15,medium:120,hard:300,hell:600}[q.difficulty]);
   assert.ok(q.stem.length>10&&q.explanation.length>10,q.id);
   assert.ok(!/NaN|undefined|待补|重新按|TODO|�/.test(JSON.stringify(q)),q.id);
   for(const text of [q.stem,q.explanation]){
@@ -30,7 +31,9 @@ for(const batch of manifest.batches){
  }
 }
 assert.equal(all.length,manifest.total);assert.equal(new Set(all.map(q=>q.stem)).size,all.length);
-for(const count of families.values())assert.equal(count,10);
+for(const [family,count]of families)assert.equal(count,family.startsWith('hell-')?20:10);
+for(const level of ['easy','medium','hard'])assert.equal(all.filter(q=>q.difficulty===level).length,600);
+assert.equal(all.filter(q=>q.difficulty==='hell').length,(manifest.batches.includes(7)?300:0)+(manifest.batches.includes(8)?200:0));
 assert.equal(JSON.stringify(sandbox.window.MATH_BATCHES.flatMap(b=>b.questions)),JSON.stringify(all));
 const html=read('index.html');
 for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)){
@@ -41,6 +44,7 @@ for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)){
 const numeric=tex=>{if(/^-?\d+(?:\.\d+)?$/.test(tex))return +tex;const m=tex.match(/^(-?)\\frac\{(\d+)\}\{(\d+)\}$/);return m?(m[1]?-1:1)*m[2]/m[3]:NaN;};
 const eq=(x,y,id)=>assert.ok(Math.abs(x-y)<1e-6*Math.max(1,Math.abs(y)),`${id}: ${x} != ${y}`);
 for(const q of all){
+ if(q.difficulty==='hell')continue;
  const a=q.variant+1,v=Number(q.family.at(-1))-1,answer=q.options[q.answer];
  if(q.topic==='quadratic'&&q.difficulty==='hard'&&v===1){
   const lo=(1+Math.sqrt(1+4*a))/2,hi=a+1;

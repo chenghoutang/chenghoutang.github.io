@@ -1,14 +1,15 @@
 {
-  "schemaVersion": 1,
-  "total": 1800,
-  "target": 1800,
+  "schemaVersion": 2,
+  "total": 2100,
+  "target": 2300,
   "batches": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "topics": [
     {

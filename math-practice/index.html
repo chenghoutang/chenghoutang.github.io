@@ -13,6 +13,7 @@
     <script src="data/batch-4.js" defer></script>
     <script src="data/batch-5.js" defer></script>
     <script src="data/batch-6.js" defer></script>
+    <script src="data/batch-7.js" defer></script>
     <!-- batches-end -->
     <script src="math.js" defer></script>
 </head>
@@ -20,8 +21,9 @@
     <header class="topbar"><a class="pill" href="../index.html">← 回到小窝</a><span>学习 / 数学练习</span></header>
     <main class="page">
         <section class="intro"><span class="eyebrow">A LITTLE MATH, EVERY DAY</span><h1>数学练习本 <span aria-hidden="true">📐</span></h1><p>把想法写下来，答案就近一点点。(｡•̀ᴗ-)✧</p><p id="bankSummary" class="note">正在翻开题库…</p></section>
+        <section class="paper exam-entry"><div><h2>来做一张数学卷子吧 (ง •̀_•́)ง</h2><p class="note">20 道单选 · 简单 4 / 中等 6 / 困难 8 / 地狱 2 · 建议 73 分钟</p></div><a class="pill primary" href="exam.html">出一张试卷 →</a></section>
         <section class="paper filters" aria-label="题目筛选">
-            <label>难度<select id="difficulty"><option value="all">全部难度</option><option value="easy">简单 · 15 秒</option><option value="medium">中等 · 2 分钟</option><option value="hard">复杂 · 5 分钟</option></select></label>
+            <label>难度<select id="difficulty"><option value="all">全部难度</option><option value="easy">简单 · 15 秒</option><option value="medium">中等 · 2 分钟</option><option value="hard">困难 · 5 分钟</option><option value="hell">地狱 · 10 分钟</option></select></label>
             <label>知识模块<select id="topic"><option value="all">全部知识模块</option></select></label>
             <label>练习范围<select id="scope"><option value="all">全部题目</option><option value="unanswered">未作答</option><option value="wrong">错题本</option><option value="starred">收藏夹</option></select></label>
             <label>搜索<input id="search" type="search" placeholder="题号、知识点或关键词"></label>
@@ -41,7 +43,7 @@
             </section>
         </section>
         <p id="progressSummary" class="note"></p><p id="saveMessage" class="note">作答与收藏自动保存在当前浏览器。</p>
-        <details class="paper guide"><summary>难度与学习建议</summary><p>简单：概念、公式的直接应用，建议 15 秒。中等：需要转化或常用推论，建议 2 分钟。复杂：综合、参数、分类讨论与证明思路训练，以高考后段选择题为训练目标，建议 5 分钟。时间是练习目标，超时可继续作答。</p><p>全部为自编单项选择题，每题四个选项，附答案与推导。基础微积分另设模块；不定积分答案均包含任意常数。相同方法配有参数变式，适合巩固与复练。</p><p>公式由本地 KaTeX 渲染，断网或双击 HTML 也能练习。<a href="../assets/katex/LICENSE">KaTeX 授权</a></p></details>
+        <details class="paper guide"><summary>难度与学习建议</summary><p>简单：概念、公式的直接应用，建议 15 秒。中等：需要转化或常用推论，建议 2 分钟。困难：综合、参数、分类讨论与证明思路训练，以高考后段选择题为训练目标，建议 5 分钟。地狱：多步推导、多重转化与综合讨论，建议 10 分钟。时间是练习目标，超时可继续作答。</p><p>全部为自编单项选择题，每题四个选项，附答案与推导。基础微积分另设模块；不定积分答案均包含任意常数。相同方法配有参数变式，适合巩固与复练。</p><p>公式由本地 KaTeX 渲染，断网或双击 HTML 也能练习。<a href="../assets/katex/LICENSE">KaTeX 授权</a></p></details>
         <noscript><p>请开启 JavaScript 使用练习与公式渲染。</p></noscript>
     </main>
 </body></html>
