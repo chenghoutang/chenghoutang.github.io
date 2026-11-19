@@ -1,0 +1,4005 @@
+{
+  "batch": 8,
+  "questions": [
+    {
+      "id": "M2101",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 1,
+      "stem": "将 6 件编号物品均匀随机放入 6 个对应编号的位置，每处一件。已知至少 2 件物品放对位置，恰有 2 件放对的条件概率为",
+      "options": [
+        "\\frac{27}{38}",
+        "\\frac{135}{191}",
+        "\\frac{3}{8}",
+        "\\frac{5}{17}"
+      ],
+      "answer": 1,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{135}{191}$。"
+    },
+    {
+      "id": "M2102",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 2,
+      "stem": "将 7 件编号物品均匀随机放入 7 个对应编号的位置，每处一件。已知至少 3 件物品放对位置，恰有 3 件放对的条件概率为",
+      "options": [
+        "\\frac{315}{407}",
+        "\\frac{3}{8}",
+        "\\frac{35}{92}",
+        "\\frac{45}{58}"
+      ],
+      "answer": 0,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{315}{407}$。"
+    },
+    {
+      "id": "M2103",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 3,
+      "stem": "将 8 件编号物品均匀随机放入 8 个对应编号的位置，每处一件。已知至少 4 件物品放对位置，恰有 4 件放对的条件概率为",
+      "options": [
+        "\\frac{3}{8}",
+        "\\frac{14}{31}",
+        "\\frac{9}{11}",
+        "\\frac{210}{257}"
+      ],
+      "answer": 3,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{210}{257}$。"
+    },
+    {
+      "id": "M2104",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 4,
+      "stem": "将 9 件编号物品均匀随机放入 9 个对应编号的位置，每处一件。已知至少 5 件物品放对位置，恰有 5 件放对的条件概率为",
+      "options": [
+        "\\frac{126}{247}",
+        "\\frac{189}{223}",
+        "\\frac{1134}{1339}",
+        "\\frac{3}{8}"
+      ],
+      "answer": 2,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{1134}{1339}$。"
+    },
+    {
+      "id": "M2105",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 5,
+      "stem": "将 10 件编号物品均匀随机放入 10 个对应编号的位置，每处一件。已知至少 6 件物品放对位置，恰有 6 件放对的条件概率为",
+      "options": [
+        "\\frac{126}{145}",
+        "\\frac{945}{1088}",
+        "\\frac{3}{8}",
+        "\\frac{105}{188}"
+      ],
+      "answer": 1,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{945}{1088}$。"
+    },
+    {
+      "id": "M2106",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 6,
+      "stem": "将 11 件编号物品均匀随机放入 11 个对应编号的位置，每处一件。已知至少 7 件物品放对位置，恰有 7 件放对的条件概率为",
+      "options": [
+        "\\frac{1485}{1678}",
+        "\\frac{3}{8}",
+        "\\frac{330}{551}",
+        "\\frac{54}{61}"
+      ],
+      "answer": 0,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{1485}{1678}$。"
+    },
+    {
+      "id": "M2107",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 7,
+      "stem": "将 12 件编号物品均匀随机放入 12 个对应编号的位置，每处一件。已知至少 8 件物品放对位置，恰有 8 件放对的条件概率为",
+      "options": [
+        "\\frac{3}{8}",
+        "\\frac{495}{782}",
+        "\\frac{405}{451}",
+        "\\frac{1485}{1654}"
+      ],
+      "answer": 3,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{1485}{1654}$。"
+    },
+    {
+      "id": "M2108",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 8,
+      "stem": "将 13 件编号物品均匀随机放入 13 个对应编号的位置，每处一件。已知至少 9 件物品放对位置，恰有 9 件放对的条件概率为",
+      "options": [
+        "\\frac{143}{216}",
+        "\\frac{99}{109}",
+        "\\frac{2145}{2362}",
+        "\\frac{3}{8}"
+      ],
+      "answer": 2,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{2145}{2362}$。"
+    },
+    {
+      "id": "M2109",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 9,
+      "stem": "将 14 件编号物品均匀随机放入 14 个对应编号的位置，每处一件。已知至少 10 件物品放对位置，恰有 10 件放对的条件概率为",
+      "options": [
+        "\\frac{11}{12}",
+        "\\frac{9009}{9829}",
+        "\\frac{3}{8}",
+        "\\frac{1001}{1457}"
+      ],
+      "answer": 1,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{9009}{9829}$。"
+    },
+    {
+      "id": "M2110",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 10,
+      "stem": "将 15 件编号物品均匀随机放入 15 个对应编号的位置，每处一件。已知至少 11 件物品放对位置，恰有 11 件放对的条件概率为",
+      "options": [
+        "\\frac{12285}{13301}",
+        "\\frac{3}{8}",
+        "\\frac{455}{642}",
+        "\\frac{351}{380}"
+      ],
+      "answer": 0,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{12285}{13301}$。"
+    },
+    {
+      "id": "M2111",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 11,
+      "stem": "将 16 件编号物品均匀随机放入 16 个对应编号的位置，每处一件。已知至少 12 件物品放对位置，恰有 12 件放对的条件概率为",
+      "options": [
+        "\\frac{3}{8}",
+        "\\frac{1820}{2501}",
+        "\\frac{819}{881}",
+        "\\frac{16380}{17621}"
+      ],
+      "answer": 3,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{16380}{17621}$。"
+    },
+    {
+      "id": "M2112",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 12,
+      "stem": "将 17 件编号物品均匀随机放入 17 个对应编号的位置，每处一件。已知至少 13 件物品放对位置，恰有 13 件放对的条件概率为",
+      "options": [
+        "\\frac{2380}{3197}",
+        "\\frac{315}{337}",
+        "\\frac{7140}{7639}",
+        "\\frac{3}{8}"
+      ],
+      "answer": 2,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{7140}{7639}$。"
+    },
+    {
+      "id": "M2113",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 13,
+      "stem": "将 18 件编号物品均匀随机放入 18 个对应编号的位置，每处一件。已知至少 14 件物品放对位置，恰有 14 件放对的条件概率为",
+      "options": [
+        "\\frac{108}{115}",
+        "\\frac{13770}{14663}",
+        "\\frac{3}{8}",
+        "\\frac{306}{403}"
+      ],
+      "answer": 1,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{13770}{14663}$。"
+    },
+    {
+      "id": "M2114",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 14,
+      "stem": "将 19 件编号物品均匀随机放入 19 个对应编号的位置，每处一件。已知至少 15 件物品放对位置，恰有 15 件放对的条件概率为",
+      "options": [
+        "\\frac{17442}{18497}",
+        "\\frac{3}{8}",
+        "\\frac{3876}{5017}",
+        "\\frac{612}{649}"
+      ],
+      "answer": 0,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{17442}{18497}$。"
+    },
+    {
+      "id": "M2115",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 15,
+      "stem": "将 20 件编号物品均匀随机放入 20 个对应编号的位置，每处一件。已知至少 16 件物品放对位置，恰有 16 件放对的条件概率为",
+      "options": [
+        "\\frac{3}{8}",
+        "\\frac{4845}{6176}",
+        "\\frac{459}{485}",
+        "\\frac{43605}{46076}"
+      ],
+      "answer": 3,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{43605}{46076}$。"
+    },
+    {
+      "id": "M2116",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 16,
+      "stem": "将 21 件编号物品均匀随机放入 21 个对应编号的位置，每处一件。已知至少 17 件物品放对位置，恰有 17 件放对的条件概率为",
+      "options": [
+        "\\frac{5985}{7526}",
+        "\\frac{1539}{1621}",
+        "\\frac{5985}{6304}",
+        "\\frac{3}{8}"
+      ],
+      "answer": 2,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{5985}{6304}$。"
+    },
+    {
+      "id": "M2117",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 17,
+      "stem": "将 22 件编号物品均匀随机放入 22 个对应编号的位置，每处一件。已知至少 18 件物品放对位置，恰有 18 件放对的条件概率为",
+      "options": [
+        "\\frac{855}{898}",
+        "\\frac{7315}{7683}",
+        "\\frac{3}{8}",
+        "\\frac{7315}{9087}"
+      ],
+      "answer": 1,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{7315}{7683}$。"
+    },
+    {
+      "id": "M2118",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 18,
+      "stem": "将 23 件编号物品均匀随机放入 23 个对应编号的位置，每处一件。已知至少 19 件物品放对位置，恰有 19 件放对的条件概率为",
+      "options": [
+        "\\frac{79695}{83491}",
+        "\\frac{3}{8}",
+        "\\frac{1771}{2176}",
+        "\\frac{21}{22}"
+      ],
+      "answer": 0,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{79695}{83491}$。"
+    },
+    {
+      "id": "M2119",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 19,
+      "stem": "将 24 件编号物品均匀随机放入 24 个对应编号的位置，每处一件。已知至少 20 件物品放对位置，恰有 20 件放对的条件概率为",
+      "options": [
+        "\\frac{3}{8}",
+        "\\frac{3542}{4309}",
+        "\\frac{2079}{2173}",
+        "\\frac{95634}{99959}"
+      ],
+      "answer": 3,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{95634}{99959}$。"
+    },
+    {
+      "id": "M2120",
+      "batch": 8,
+      "topic": "conditional",
+      "topicName": "条件概率、全概率与贝叶斯",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-16",
+      "variant": 20,
+      "stem": "将 25 件编号物品均匀随机放入 25 个对应编号的位置，每处一件。已知至少 21 件物品放对位置，恰有 21 件放对的条件概率为",
+      "options": [
+        "\\frac{12650}{15251}",
+        "\\frac{2277}{2375}",
+        "\\frac{113850}{118751}",
+        "\\frac{3}{8}"
+      ],
+      "answer": 2,
+      "explanation": "按错放的物品数分类，可能为 0、2、3、4，不可能恰错 1 件。选出错放物品后需作无固定点排列，错排数 D₀=1、D₂=1、D₃=2、D₄=9（可用 D_k=(k-1)(D_{k-1}+D_{k-2}) 求出）。条件样本数为 1+C(n,2)+2C(n,3)+9C(n,4)，目标数为 9C(n,4)，比值为 $\\frac{113850}{118751}$。"
+    },
+    {
+      "id": "M2121",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 1,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{2}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=6。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2122",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 2,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{3}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "9",
+        "6",
+        "15",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=12。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2123",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 3,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{4}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "8",
+        "24",
+        "20",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=20。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2124",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 4,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{5}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "35",
+        "30",
+        "25",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=30。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2125",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 5,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{6}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "42",
+        "36",
+        "12",
+        "48"
+      ],
+      "answer": 0,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=42。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2126",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 6,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{7}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "49",
+        "14",
+        "63",
+        "56"
+      ],
+      "answer": 3,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=56。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2127",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 7,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{8}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "16",
+        "80",
+        "72",
+        "64"
+      ],
+      "answer": 2,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=72。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2128",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 8,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{9}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "99",
+        "90",
+        "81",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=90。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2129",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 9,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{10}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "110",
+        "100",
+        "20",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=110。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2130",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 10,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{11}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "121",
+        "22",
+        "143",
+        "132"
+      ],
+      "answer": 3,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=132。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2131",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 11,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{12}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "24",
+        "168",
+        "156",
+        "144"
+      ],
+      "answer": 2,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=156。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2132",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 12,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{13}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "195",
+        "182",
+        "169",
+        "26"
+      ],
+      "answer": 1,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=182。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2133",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 13,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{14}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "210",
+        "196",
+        "28",
+        "224"
+      ],
+      "answer": 0,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=210。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2134",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 14,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{15}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "225",
+        "30",
+        "255",
+        "240"
+      ],
+      "answer": 3,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=240。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2135",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 15,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{16}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "32",
+        "288",
+        "272",
+        "256"
+      ],
+      "answer": 2,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=272。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2136",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 16,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{17}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "323",
+        "306",
+        "289",
+        "34"
+      ],
+      "answer": 1,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=306。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2137",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 17,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{18}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "342",
+        "324",
+        "36",
+        "360"
+      ],
+      "answer": 0,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=342。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2138",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 18,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{19}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "361",
+        "38",
+        "399",
+        "380"
+      ],
+      "answer": 3,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=380。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2139",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 19,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{20}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "40",
+        "440",
+        "420",
+        "400"
+      ],
+      "answer": 2,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=420。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2140",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-17",
+      "variant": 20,
+      "stem": "独立重复某试验，每次成功概率为 $\\frac{1}{21}$。直到首次连续两次成功时停止，X 为总试验次数，则 $E(X)$ 为",
+      "options": [
+        "483",
+        "462",
+        "441",
+        "42"
+      ],
+      "answer": 1,
+      "explanation": "设 E₀ 是当前末尾没有成功时的剩余期望，E₁ 是末尾恰有一次成功时的剩余期望。首步分析：E₀=1+(1-p)E₀+pE₁，E₁=1+(1-p)E₀，成功后直接结束。解得 E₀=(1+p)/p²=462。所求从无历史状态开始。期望有限可用每两次一组有 p² 概率成功给出几何尾界来保证。"
+    },
+    {
+      "id": "M2141",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 1,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 2 后停止。先到达 2 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{11}{3}",
+        "\\frac{14}{3}",
+        "\\frac{2}{3}"
+      ],
+      "answer": 3,
+      "explanation": "令 h_i 为从 i 先到达 2 的概率。边界 h₀=0、h_2=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-2))=$\\frac{2}{3}$。每隔 2 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2142",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 2,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 3 后停止。先到达 3 的概率为",
+      "options": [
+        "\\frac{6}{7}",
+        "\\frac{1}{2}",
+        "\\frac{4}{7}",
+        "\\frac{1}{3}"
+      ],
+      "answer": 2,
+      "explanation": "令 h_i 为从 i 先到达 3 的概率。边界 h₀=0、h_3=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-3))=$\\frac{4}{7}$。每隔 3 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2143",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 3,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 4 后停止。先到达 4 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{8}{15}",
+        "\\frac{1}{4}",
+        "\\frac{14}{15}"
+      ],
+      "answer": 1,
+      "explanation": "令 h_i 为从 i 先到达 4 的概率。边界 h₀=0、h_4=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-4))=$\\frac{8}{15}$。每隔 4 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2144",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 4,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 5 后停止。先到达 5 的概率为",
+      "options": [
+        "\\frac{16}{31}",
+        "\\frac{1}{5}",
+        "\\frac{30}{31}",
+        "\\frac{1}{2}"
+      ],
+      "answer": 0,
+      "explanation": "令 h_i 为从 i 先到达 5 的概率。边界 h₀=0、h_5=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-5))=$\\frac{16}{31}$。每隔 5 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2145",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 5,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 6 后停止。先到达 6 的概率为",
+      "options": [
+        "\\frac{1}{6}",
+        "\\frac{62}{63}",
+        "\\frac{1}{2}",
+        "\\frac{32}{63}"
+      ],
+      "answer": 3,
+      "explanation": "令 h_i 为从 i 先到达 6 的概率。边界 h₀=0、h_6=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-6))=$\\frac{32}{63}$。每隔 6 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2146",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 6,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 7 后停止。先到达 7 的概率为",
+      "options": [
+        "\\frac{126}{127}",
+        "\\frac{1}{2}",
+        "\\frac{64}{127}",
+        "\\frac{1}{7}"
+      ],
+      "answer": 2,
+      "explanation": "令 h_i 为从 i 先到达 7 的概率。边界 h₀=0、h_7=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-7))=$\\frac{64}{127}$。每隔 7 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2147",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 7,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 8 后停止。先到达 8 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{128}{255}",
+        "\\frac{1}{8}",
+        "\\frac{254}{255}"
+      ],
+      "answer": 1,
+      "explanation": "令 h_i 为从 i 先到达 8 的概率。边界 h₀=0、h_8=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-8))=$\\frac{128}{255}$。每隔 8 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2148",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 8,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 9 后停止。先到达 9 的概率为",
+      "options": [
+        "\\frac{256}{511}",
+        "\\frac{1}{9}",
+        "\\frac{510}{511}",
+        "\\frac{1}{2}"
+      ],
+      "answer": 0,
+      "explanation": "令 h_i 为从 i 先到达 9 的概率。边界 h₀=0、h_9=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-9))=$\\frac{256}{511}$。每隔 9 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2149",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 9,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 10 后停止。先到达 10 的概率为",
+      "options": [
+        "\\frac{1}{10}",
+        "\\frac{1022}{1023}",
+        "\\frac{1}{2}",
+        "\\frac{512}{1023}"
+      ],
+      "answer": 3,
+      "explanation": "令 h_i 为从 i 先到达 10 的概率。边界 h₀=0、h_10=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-10))=$\\frac{512}{1023}$。每隔 10 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2150",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 10,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 11 后停止。先到达 11 的概率为",
+      "options": [
+        "\\frac{2046}{2047}",
+        "\\frac{1}{2}",
+        "\\frac{1024}{2047}",
+        "\\frac{1}{11}"
+      ],
+      "answer": 2,
+      "explanation": "令 h_i 为从 i 先到达 11 的概率。边界 h₀=0、h_11=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-11))=$\\frac{1024}{2047}$。每隔 11 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2151",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 11,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 12 后停止。先到达 12 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{2048}{4095}",
+        "\\frac{1}{12}",
+        "\\frac{4094}{4095}"
+      ],
+      "answer": 1,
+      "explanation": "令 h_i 为从 i 先到达 12 的概率。边界 h₀=0、h_12=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-12))=$\\frac{2048}{4095}$。每隔 12 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2152",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 12,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 13 后停止。先到达 13 的概率为",
+      "options": [
+        "\\frac{4096}{8191}",
+        "\\frac{1}{13}",
+        "\\frac{8190}{8191}",
+        "\\frac{1}{2}"
+      ],
+      "answer": 0,
+      "explanation": "令 h_i 为从 i 先到达 13 的概率。边界 h₀=0、h_13=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-13))=$\\frac{4096}{8191}$。每隔 13 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2153",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 13,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 14 后停止。先到达 14 的概率为",
+      "options": [
+        "\\frac{1}{14}",
+        "\\frac{16382}{16383}",
+        "\\frac{1}{2}",
+        "\\frac{8192}{16383}"
+      ],
+      "answer": 3,
+      "explanation": "令 h_i 为从 i 先到达 14 的概率。边界 h₀=0、h_14=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-14))=$\\frac{8192}{16383}$。每隔 14 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2154",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 14,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 15 后停止。先到达 15 的概率为",
+      "options": [
+        "\\frac{32766}{32767}",
+        "\\frac{1}{2}",
+        "\\frac{16384}{32767}",
+        "\\frac{1}{15}"
+      ],
+      "answer": 2,
+      "explanation": "令 h_i 为从 i 先到达 15 的概率。边界 h₀=0、h_15=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-15))=$\\frac{16384}{32767}$。每隔 15 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2155",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 15,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 16 后停止。先到达 16 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{32768}{65535}",
+        "\\frac{1}{16}",
+        "\\frac{65534}{65535}"
+      ],
+      "answer": 1,
+      "explanation": "令 h_i 为从 i 先到达 16 的概率。边界 h₀=0、h_16=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-16))=$\\frac{32768}{65535}$。每隔 16 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2156",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 16,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 17 后停止。先到达 17 的概率为",
+      "options": [
+        "\\frac{65536}{131071}",
+        "\\frac{1}{17}",
+        "\\frac{131070}{131071}",
+        "\\frac{1}{2}"
+      ],
+      "answer": 0,
+      "explanation": "令 h_i 为从 i 先到达 17 的概率。边界 h₀=0、h_17=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-17))=$\\frac{65536}{131071}$。每隔 17 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2157",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 17,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 18 后停止。先到达 18 的概率为",
+      "options": [
+        "\\frac{1}{18}",
+        "\\frac{262142}{262143}",
+        "\\frac{1}{2}",
+        "\\frac{131072}{262143}"
+      ],
+      "answer": 3,
+      "explanation": "令 h_i 为从 i 先到达 18 的概率。边界 h₀=0、h_18=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-18))=$\\frac{131072}{262143}$。每隔 18 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2158",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 18,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 19 后停止。先到达 19 的概率为",
+      "options": [
+        "\\frac{524286}{524287}",
+        "\\frac{1}{2}",
+        "\\frac{262144}{524287}",
+        "\\frac{1}{19}"
+      ],
+      "answer": 2,
+      "explanation": "令 h_i 为从 i 先到达 19 的概率。边界 h₀=0、h_19=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-19))=$\\frac{262144}{524287}$。每隔 19 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2159",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 19,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 20 后停止。先到达 20 的概率为",
+      "options": [
+        "\\frac{1}{2}",
+        "\\frac{524288}{1048575}",
+        "\\frac{1}{20}",
+        "\\frac{1048574}{1048575}"
+      ],
+      "answer": 1,
+      "explanation": "令 h_i 为从 i 先到达 20 的概率。边界 h₀=0、h_20=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-20))=$\\frac{524288}{1048575}$。每隔 20 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2160",
+      "batch": 8,
+      "topic": "probability",
+      "topicName": "古典概型、独立事件与抽样",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-18",
+      "variant": 20,
+      "stem": "整数随机过程从状态 1 开始，每步独立地以 2/3 概率加 1、以 1/3 概率减 1，到达 0 或 21 后停止。先到达 21 的概率为",
+      "options": [
+        "\\frac{1048576}{2097151}",
+        "\\frac{1}{21}",
+        "\\frac{2097150}{2097151}",
+        "\\frac{1}{2}"
+      ],
+      "answer": 0,
+      "explanation": "令 h_i 为从 i 先到达 21 的概率。边界 h₀=0、h_21=1，内部满足 h_i=(2h_{i+1}+h_{i-1})/3。差分 d_{i+1}=d_i/2，故 h_i=D(1-2^(-i))。代入上边界得 h₁=(1-1/2)/(1-2^(-21))=$\\frac{1048576}{2097151}$。每隔 21 步有正的统一停止概率，故过程几乎必然停止。"
+    },
+    {
+      "id": "M2161",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 1,
+      "stem": "X、Y 独立且都在整数 1 至 2 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{9}{16}",
+        "\\frac{7}{48}",
+        "\\frac{3}{16}",
+        "\\frac{1}{4}"
+      ],
+      "answer": 2,
+      "explanation": "分布函数 P(Z≤k)=k²/4，所以 P(Z=k)=(2k-1)/4。用求和公式得 E(Z)=(3)(7)/(12)，E(Z²)=(3)(13)/(12)。二阶矩减去均值平方，整理为 (3)(9)/(144)=$\\frac{3}{16}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2162",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 2,
+      "stem": "X、Y 独立且都在整数 1 至 3 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{34}{81}",
+        "\\frac{38}{81}",
+        "\\frac{2}{3}",
+        "\\frac{38}{27}"
+      ],
+      "answer": 1,
+      "explanation": "分布函数 P(Z≤k)=k²/9，所以 P(Z=k)=(2k-1)/9。用求和公式得 E(Z)=(4)(11)/(18)，E(Z²)=(4)(29)/(18)。二阶矩减去均值平方，整理为 (8)(19)/(324)=$\\frac{38}{81}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2163",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 3,
+      "stem": "X、Y 独立且都在整数 1 至 4 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{55}{64}",
+        "\\frac{5}{4}",
+        "\\frac{165}{64}",
+        "\\frac{155}{192}"
+      ],
+      "answer": 0,
+      "explanation": "分布函数 P(Z≤k)=k²/16，所以 P(Z=k)=(2k-1)/16。用求和公式得 E(Z)=(5)(15)/(24)，E(Z²)=(5)(51)/(24)。二阶矩减去均值平方，整理为 (15)(33)/(576)=$\\frac{55}{64}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2164",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 4,
+      "stem": "X、Y 独立且都在整数 1 至 5 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "2",
+        "\\frac{102}{25}",
+        "\\frac{98}{75}",
+        "\\frac{34}{25}"
+      ],
+      "answer": 3,
+      "explanation": "分布函数 P(Z≤k)=k²/25，所以 P(Z=k)=(2k-1)/25。用求和公式得 E(Z)=(6)(19)/(30)，E(Z²)=(6)(79)/(30)。二阶矩减去均值平方，整理为 (24)(51)/(900)=$\\frac{34}{25}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2165",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 5,
+      "stem": "X、Y 独立且都在整数 1 至 6 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{2555}{432}",
+        "\\frac{2485}{1296}",
+        "\\frac{2555}{1296}",
+        "\\frac{35}{12}"
+      ],
+      "answer": 2,
+      "explanation": "分布函数 P(Z≤k)=k²/36，所以 P(Z=k)=(2k-1)/36。用求和公式得 E(Z)=(7)(23)/(36)，E(Z²)=(7)(113)/(36)。二阶矩减去均值平方，整理为 (35)(73)/(1296)=$\\frac{2555}{1296}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2166",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 6,
+      "stem": "X、Y 独立且都在整数 1 至 7 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{388}{147}",
+        "\\frac{132}{49}",
+        "4",
+        "\\frac{396}{49}"
+      ],
+      "answer": 1,
+      "explanation": "分布函数 P(Z≤k)=k²/49，所以 P(Z=k)=(2k-1)/49。用求和公式得 E(Z)=(8)(27)/(42)，E(Z²)=(8)(153)/(42)。二阶矩减去均值平方，整理为 (48)(99)/(1764)=$\\frac{132}{49}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2167",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 7,
+      "stem": "X、Y 独立且都在整数 1 至 8 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{903}{256}",
+        "\\frac{21}{4}",
+        "\\frac{2709}{256}",
+        "\\frac{889}{256}"
+      ],
+      "answer": 0,
+      "explanation": "分布函数 P(Z≤k)=k²/64，所以 P(Z=k)=(2k-1)/64。用求和公式得 E(Z)=(9)(31)/(48)，E(Z²)=(9)(199)/(48)。二阶矩减去均值平方，整理为 (63)(129)/(2304)=$\\frac{903}{256}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2168",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 8,
+      "stem": "X、Y 独立且都在整数 1 至 9 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{20}{3}",
+        "\\frac{3260}{243}",
+        "\\frac{3220}{729}",
+        "\\frac{3260}{729}"
+      ],
+      "answer": 3,
+      "explanation": "分布函数 P(Z≤k)=k²/81，所以 P(Z=k)=(2k-1)/81。用求和公式得 E(Z)=(10)(35)/(54)，E(Z²)=(10)(251)/(54)。二阶矩减去均值平方，整理为 (80)(163)/(2916)=$\\frac{3260}{729}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2169",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 9,
+      "stem": "X、Y 独立且都在整数 1 至 10 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{6633}{400}",
+        "\\frac{2189}{400}",
+        "\\frac{2211}{400}",
+        "\\frac{33}{4}"
+      ],
+      "answer": 2,
+      "explanation": "分布函数 P(Z≤k)=k²/100，所以 P(Z=k)=(2k-1)/100。用求和公式得 E(Z)=(11)(39)/(60)，E(Z²)=(11)(309)/(60)。二阶矩减去均值平方，整理为 (99)(201)/(3600)=$\\frac{2211}{400}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2170",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 10,
+      "stem": "X、Y 独立且都在整数 1 至 11 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{2410}{363}",
+        "\\frac{810}{121}",
+        "10",
+        "\\frac{2430}{121}"
+      ],
+      "answer": 1,
+      "explanation": "分布函数 P(Z≤k)=k²/121，所以 P(Z=k)=(2k-1)/121。用求和公式得 E(Z)=(12)(43)/(66)，E(Z²)=(12)(373)/(66)。二阶矩减去均值平方，整理为 (120)(243)/(4356)=$\\frac{810}{121}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2171",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 11,
+      "stem": "X、Y 独立且都在整数 1 至 12 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{41327}{5184}",
+        "\\frac{143}{12}",
+        "\\frac{41327}{1728}",
+        "\\frac{41041}{5184}"
+      ],
+      "answer": 0,
+      "explanation": "分布函数 P(Z≤k)=k²/144，所以 P(Z=k)=(2k-1)/144。用求和公式得 E(Z)=(13)(47)/(72)，E(Z²)=(13)(443)/(72)。二阶矩减去均值平方，整理为 (143)(289)/(5184)=$\\frac{41327}{5184}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2172",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 12,
+      "stem": "X、Y 独立且都在整数 1 至 13 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "14",
+        "\\frac{4746}{169}",
+        "\\frac{4718}{507}",
+        "\\frac{1582}{169}"
+      ],
+      "answer": 3,
+      "explanation": "分布函数 P(Z≤k)=k²/169，所以 P(Z=k)=(2k-1)/169。用求和公式得 E(Z)=(14)(51)/(78)，E(Z²)=(14)(519)/(78)。二阶矩减去均值平方，整理为 (168)(339)/(6084)=$\\frac{1582}{169}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2173",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 13,
+      "stem": "X、Y 独立且都在整数 1 至 14 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{25545}{784}",
+        "\\frac{25415}{2352}",
+        "\\frac{8515}{784}",
+        "\\frac{65}{4}"
+      ],
+      "answer": 2,
+      "explanation": "分布函数 P(Z≤k)=k²/196，所以 P(Z=k)=(2k-1)/196。用求和公式得 E(Z)=(15)(55)/(84)，E(Z²)=(15)(601)/(84)。二阶矩减去均值平方，整理为 (195)(393)/(7056)=$\\frac{8515}{784}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2174",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 14,
+      "stem": "X、Y 独立且都在整数 1 至 15 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{25144}{2025}",
+        "\\frac{25256}{2025}",
+        "\\frac{56}{3}",
+        "\\frac{25256}{675}"
+      ],
+      "answer": 1,
+      "explanation": "分布函数 P(Z≤k)=k²/225，所以 P(Z=k)=(2k-1)/225。用求和公式得 E(Z)=(16)(59)/(90)，E(Z²)=(16)(689)/(90)。二阶矩减去均值平方，整理为 (224)(451)/(8100)=$\\frac{25256}{2025}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2175",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 15,
+      "stem": "X、Y 独立且都在整数 1 至 16 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{14535}{1024}",
+        "\\frac{85}{4}",
+        "\\frac{43605}{1024}",
+        "\\frac{43435}{3072}"
+      ],
+      "answer": 0,
+      "explanation": "分布函数 P(Z≤k)=k²/256，所以 P(Z=k)=(2k-1)/256。用求和公式得 E(Z)=(17)(63)/(96)，E(Z²)=(17)(783)/(96)。二阶矩减去均值平方，整理为 (255)(513)/(9216)=$\\frac{14535}{1024}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2176",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 16,
+      "stem": "X、Y 独立且都在整数 1 至 17 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "24",
+        "\\frac{13896}{289}",
+        "\\frac{4616}{289}",
+        "\\frac{4632}{289}"
+      ],
+      "answer": 3,
+      "explanation": "分布函数 P(Z≤k)=k²/289，所以 P(Z=k)=(2k-1)/289。用求和公式得 E(Z)=(18)(67)/(102)，E(Z²)=(18)(883)/(102)。二阶矩减去均值平方，整理为 (288)(579)/(10404)=$\\frac{4632}{289}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2177",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 17,
+      "stem": "X、Y 独立且都在整数 1 至 18 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{209627}{3888}",
+        "\\frac{208981}{11664}",
+        "\\frac{209627}{11664}",
+        "\\frac{323}{12}"
+      ],
+      "answer": 2,
+      "explanation": "分布函数 P(Z≤k)=k²/324，所以 P(Z=k)=(2k-1)/324。用求和公式得 E(Z)=(19)(71)/(108)，E(Z²)=(19)(989)/(108)。二阶矩减去均值平方，整理为 (323)(649)/(11664)=$\\frac{209627}{11664}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2178",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 18,
+      "stem": "X、Y 独立且都在整数 1 至 19 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{7210}{361}",
+        "\\frac{7230}{361}",
+        "30",
+        "\\frac{21690}{361}"
+      ],
+      "answer": 1,
+      "explanation": "分布函数 P(Z≤k)=k²/361，所以 P(Z=k)=(2k-1)/361。用求和公式得 E(Z)=(20)(75)/(114)，E(Z²)=(20)(1101)/(114)。二阶矩减去均值平方，整理为 (360)(723)/(12996)=$\\frac{7230}{361}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2179",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 19,
+      "stem": "X、Y 独立且都在整数 1 至 20 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{35511}{1600}",
+        "\\frac{133}{4}",
+        "\\frac{106533}{1600}",
+        "\\frac{106267}{4800}"
+      ],
+      "answer": 0,
+      "explanation": "分布函数 P(Z≤k)=k²/400，所以 P(Z=k)=(2k-1)/400。用求和公式得 E(Z)=(21)(79)/(120)，E(Z²)=(21)(1219)/(120)。二阶矩减去均值平方，整理为 (399)(801)/(14400)=$\\frac{35511}{1600}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2180",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-19",
+      "variant": 20,
+      "stem": "X、Y 独立且都在整数 1 至 21 上均匀分布，令 Z=max(X,Y)，则 $\\operatorname{Var}(Z)$ 为",
+      "options": [
+        "\\frac{110}{3}",
+        "\\frac{97130}{1323}",
+        "\\frac{96910}{3969}",
+        "\\frac{97130}{3969}"
+      ],
+      "answer": 3,
+      "explanation": "分布函数 P(Z≤k)=k²/441，所以 P(Z=k)=(2k-1)/441。用求和公式得 E(Z)=(22)(83)/(126)，E(Z²)=(22)(1343)/(126)。二阶矩减去均值平方，整理为 (440)(883)/(15876)=$\\frac{97130}{3969}$。这里 Z 不是均匀分布，不能直接套均匀变量方差。"
+    },
+    {
+      "id": "M2181",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 1,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{4}$、$\\frac{1}{4}$、$\\frac{1}{2}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "6",
+        "\\frac{19}{3}",
+        "10",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 8+2-2$-\\frac{8}{3}$+1，合并即 $\\frac{19}{3}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2182",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 2,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{5}$、$\\frac{1}{5}$、$\\frac{3}{5}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{23}{3}",
+        "\\frac{35}{3}",
+        "\\frac{40}{3}",
+        "\\frac{15}{2}"
+      ],
+      "answer": 0,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 10+$\\frac{5}{3}$$-\\frac{5}{2}$$-\\frac{5}{2}$+1，合并即 $\\frac{23}{3}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2183",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 3,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{6}$、$\\frac{1}{6}$、$\\frac{2}{3}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{27}{2}",
+        "15",
+        "9",
+        "\\frac{91}{10}"
+      ],
+      "answer": 3,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 12+$\\frac{3}{2}$-3$-\\frac{12}{5}$+1，合并即 $\\frac{91}{10}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2184",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 4,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{7}$、$\\frac{1}{7}$、$\\frac{5}{7}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{84}{5}",
+        "\\frac{21}{2}",
+        "\\frac{317}{30}",
+        "\\frac{77}{5}"
+      ],
+      "answer": 2,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 14+$\\frac{7}{5}$$-\\frac{7}{2}$$-\\frac{7}{3}$+1，合并即 $\\frac{317}{30}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2185",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 5,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{8}$、$\\frac{1}{8}$、$\\frac{3}{4}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "12",
+        "\\frac{253}{21}",
+        "\\frac{52}{3}",
+        "\\frac{56}{3}"
+      ],
+      "answer": 1,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 16+$\\frac{4}{3}$-4$-\\frac{16}{7}$+1，合并即 $\\frac{253}{21}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2186",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 6,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{9}$、$\\frac{1}{9}$、$\\frac{7}{9}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{379}{28}",
+        "\\frac{135}{7}",
+        "\\frac{144}{7}",
+        "\\frac{27}{2}"
+      ],
+      "answer": 0,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 18+$\\frac{9}{7}$$-\\frac{9}{2}$$-\\frac{9}{4}$+1，合并即 $\\frac{379}{28}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2187",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 7,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{10}$、$\\frac{1}{10}$、$\\frac{4}{5}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{85}{4}",
+        "\\frac{45}{2}",
+        "15",
+        "\\frac{541}{36}"
+      ],
+      "answer": 3,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 20+$\\frac{5}{4}$-5$-\\frac{20}{9}$+1，合并即 $\\frac{541}{36}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2188",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 8,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{11}$、$\\frac{1}{11}$、$\\frac{9}{11}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{220}{9}",
+        "\\frac{33}{2}",
+        "\\frac{1487}{90}",
+        "\\frac{209}{9}"
+      ],
+      "answer": 2,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 22+$\\frac{11}{9}$$-\\frac{11}{2}$$-\\frac{11}{5}$+1，合并即 $\\frac{1487}{90}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2189",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 9,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{12}$、$\\frac{1}{12}$、$\\frac{5}{6}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "18",
+        "\\frac{991}{55}",
+        "\\frac{126}{5}",
+        "\\frac{132}{5}"
+      ],
+      "answer": 1,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 24+$\\frac{6}{5}$-6$-\\frac{24}{11}$+1，合并即 $\\frac{991}{55}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2190",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 10,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{13}$、$\\frac{1}{13}$、$\\frac{11}{13}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{644}{33}",
+        "\\frac{299}{11}",
+        "\\frac{312}{11}",
+        "\\frac{39}{2}"
+      ],
+      "answer": 0,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 26+$\\frac{13}{11}$$-\\frac{13}{2}$$-\\frac{13}{6}$+1，合并即 $\\frac{644}{33}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2191",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 11,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{14}$、$\\frac{1}{14}$、$\\frac{6}{7}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{175}{6}",
+        "\\frac{91}{3}",
+        "21",
+        "\\frac{1639}{78}"
+      ],
+      "answer": 3,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 28+$\\frac{7}{6}$-7$-\\frac{28}{13}$+1，合并即 $\\frac{1639}{78}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2192",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 12,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{15}$、$\\frac{1}{15}$、$\\frac{13}{15}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{420}{13}",
+        "\\frac{45}{2}",
+        "\\frac{4097}{182}",
+        "\\frac{405}{13}"
+      ],
+      "answer": 2,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 30+$\\frac{15}{13}$$-\\frac{15}{2}$$-\\frac{15}{7}$+1，合并即 $\\frac{4097}{182}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2193",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 13,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{16}$、$\\frac{1}{16}$、$\\frac{7}{8}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "24",
+        "\\frac{2521}{105}",
+        "\\frac{232}{7}",
+        "\\frac{240}{7}"
+      ],
+      "answer": 1,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 32+$\\frac{8}{7}$-8$-\\frac{32}{15}$+1，合并即 $\\frac{2521}{105}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2194",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 14,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{17}$、$\\frac{1}{17}$、$\\frac{15}{17}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{3061}{120}",
+        "\\frac{527}{15}",
+        "\\frac{544}{15}",
+        "\\frac{51}{2}"
+      ],
+      "answer": 0,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 34+$\\frac{17}{15}$$-\\frac{17}{2}$$-\\frac{17}{8}$+1，合并即 $\\frac{3061}{120}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2195",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 15,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{18}$、$\\frac{1}{18}$、$\\frac{8}{9}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{297}{8}",
+        "\\frac{153}{4}",
+        "27",
+        "\\frac{3673}{136}"
+      ],
+      "answer": 3,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 36+$\\frac{9}{8}$-9$-\\frac{36}{17}$+1，合并即 $\\frac{3673}{136}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2196",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 16,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{19}$、$\\frac{1}{19}$、$\\frac{17}{19}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{684}{17}",
+        "\\frac{57}{2}",
+        "\\frac{8723}{306}",
+        "\\frac{665}{17}"
+      ],
+      "answer": 2,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 38+$\\frac{19}{17}$$-\\frac{19}{2}$$-\\frac{19}{9}$+1，合并即 $\\frac{8723}{306}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2197",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 17,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{20}$、$\\frac{1}{20}$、$\\frac{9}{10}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "30",
+        "\\frac{5131}{171}",
+        "\\frac{370}{9}",
+        "\\frac{380}{9}"
+      ],
+      "answer": 1,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 40+$\\frac{10}{9}$-10$-\\frac{40}{19}$+1，合并即 $\\frac{5131}{171}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2198",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 18,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{21}$、$\\frac{1}{21}$、$\\frac{19}{21}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{2993}{95}",
+        "\\frac{819}{19}",
+        "\\frac{840}{19}",
+        "\\frac{63}{2}"
+      ],
+      "answer": 0,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 42+$\\frac{21}{19}$$-\\frac{21}{2}$$-\\frac{21}{10}$+1，合并即 $\\frac{2993}{95}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2199",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 19,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{22}$、$\\frac{1}{22}$、$\\frac{10}{11}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{451}{10}",
+        "\\frac{231}{5}",
+        "33",
+        "\\frac{6931}{210}"
+      ],
+      "answer": 3,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 44+$\\frac{11}{10}$-11$-\\frac{44}{21}$+1，合并即 $\\frac{6931}{210}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2200",
+      "batch": 8,
+      "topic": "random-variable",
+      "topicName": "随机变量、二项分布与正态分布",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-20",
+      "variant": 20,
+      "stem": "每次独立抽取一种卡片，三种卡片 A、B、C 的概率分别为 $\\frac{1}{23}$、$\\frac{1}{23}$、$\\frac{21}{23}$。直到三种全部出现才停止，总抽取次数的期望为",
+      "options": [
+        "\\frac{1012}{21}",
+        "\\frac{69}{2}",
+        "\\frac{15941}{462}",
+        "\\frac{989}{21}"
+      ],
+      "answer": 2,
+      "explanation": "用尾和公式 E(T)=Σ_{n≥0}P(T>n)，对“某种卡片尚未出现”容斥。每一项是等比级数，得到 E(T)=Σ1/p_i-Σ1/(p_i+p_j)+1。代入为 46+$\\frac{23}{21}$$-\\frac{23}{2}$$-\\frac{23}{11}$+1，合并即 $\\frac{15941}{462}$。n=0 的项也满足容斥，各 p_i>0，级数收敛。"
+    },
+    {
+      "id": "M2201",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 1,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(2,0,0), B=(0,4,0), C=(0,0,6)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}"
+      ],
+      "answer": 0,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=12，单位法向量长度为 7，故到斜面距离 (12-11r)/7=r，解得 r=$\\frac{2}{3}$。外心由与 O、A、B、C 等距，坐标为 (1,2,3)，外接半径 R=2√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2202",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 2,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(3,0,0), B=(0,6,0), C=(0,0,9)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}"
+      ],
+      "answer": 3,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=18，单位法向量长度为 7，故到斜面距离 (18-11r)/7=r，解得 r=1。外心由与 O、A、B、C 等距，坐标为 ($\\frac{3}{2}$,3,$\\frac{9}{2}$)，外接半径 R=3√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2203",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 3,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(4,0,0), B=(0,8,0), C=(0,0,12)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7"
+      ],
+      "answer": 2,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=24，单位法向量长度为 7，故到斜面距离 (24-11r)/7=r，解得 r=$\\frac{4}{3}$。外心由与 O、A、B、C 等距，坐标为 (2,4,6)，外接半径 R=4√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2204",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 4,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(5,0,0), B=(0,10,0), C=(0,0,15)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}"
+      ],
+      "answer": 1,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=30，单位法向量长度为 7，故到斜面距离 (30-11r)/7=r，解得 r=$\\frac{5}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{5}{2}$,5,$\\frac{15}{2}$)，外接半径 R=5√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2205",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 5,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(6,0,0), B=(0,12,0), C=(0,0,18)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}"
+      ],
+      "answer": 0,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=36，单位法向量长度为 7，故到斜面距离 (36-11r)/7=r，解得 r=2。外心由与 O、A、B、C 等距，坐标为 (3,6,9)，外接半径 R=6√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2206",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 6,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(7,0,0), B=(0,14,0), C=(0,0,21)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}"
+      ],
+      "answer": 3,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=42，单位法向量长度为 7，故到斜面距离 (42-11r)/7=r，解得 r=$\\frac{7}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{7}{2}$,7,$\\frac{21}{2}$)，外接半径 R=7√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2207",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 7,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(8,0,0), B=(0,16,0), C=(0,0,24)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7"
+      ],
+      "answer": 2,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=48，单位法向量长度为 7，故到斜面距离 (48-11r)/7=r，解得 r=$\\frac{8}{3}$。外心由与 O、A、B、C 等距，坐标为 (4,8,12)，外接半径 R=8√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2208",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 8,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(9,0,0), B=(0,18,0), C=(0,0,27)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}"
+      ],
+      "answer": 1,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=54，单位法向量长度为 7，故到斜面距离 (54-11r)/7=r，解得 r=3。外心由与 O、A、B、C 等距，坐标为 ($\\frac{9}{2}$,9,$\\frac{27}{2}$)，外接半径 R=9√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2209",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 9,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(10,0,0), B=(0,20,0), C=(0,0,30)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}"
+      ],
+      "answer": 0,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=60，单位法向量长度为 7，故到斜面距离 (60-11r)/7=r，解得 r=$\\frac{10}{3}$。外心由与 O、A、B、C 等距，坐标为 (5,10,15)，外接半径 R=10√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2210",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 10,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(11,0,0), B=(0,22,0), C=(0,0,33)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}"
+      ],
+      "answer": 3,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=66，单位法向量长度为 7，故到斜面距离 (66-11r)/7=r，解得 r=$\\frac{11}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{11}{2}$,11,$\\frac{33}{2}$)，外接半径 R=11√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2211",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 11,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(12,0,0), B=(0,24,0), C=(0,0,36)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7"
+      ],
+      "answer": 2,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=72，单位法向量长度为 7，故到斜面距离 (72-11r)/7=r，解得 r=4。外心由与 O、A、B、C 等距，坐标为 (6,12,18)，外接半径 R=12√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2212",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 12,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(13,0,0), B=(0,26,0), C=(0,0,39)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}"
+      ],
+      "answer": 1,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=78，单位法向量长度为 7，故到斜面距离 (78-11r)/7=r，解得 r=$\\frac{13}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{13}{2}$,13,$\\frac{39}{2}$)，外接半径 R=13√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2213",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 13,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(14,0,0), B=(0,28,0), C=(0,0,42)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}"
+      ],
+      "answer": 0,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=84，单位法向量长度为 7，故到斜面距离 (84-11r)/7=r，解得 r=$\\frac{14}{3}$。外心由与 O、A、B、C 等距，坐标为 (7,14,21)，外接半径 R=14√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2214",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 14,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(15,0,0), B=(0,30,0), C=(0,0,45)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}"
+      ],
+      "answer": 3,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=90，单位法向量长度为 7，故到斜面距离 (90-11r)/7=r，解得 r=5。外心由与 O、A、B、C 等距，坐标为 ($\\frac{15}{2}$,15,$\\frac{45}{2}$)，外接半径 R=15√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2215",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 15,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(16,0,0), B=(0,32,0), C=(0,0,48)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7"
+      ],
+      "answer": 2,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=96，单位法向量长度为 7，故到斜面距离 (96-11r)/7=r，解得 r=$\\frac{16}{3}$。外心由与 O、A、B、C 等距，坐标为 (8,16,24)，外接半径 R=16√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2216",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 16,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(17,0,0), B=(0,34,0), C=(0,0,51)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}"
+      ],
+      "answer": 1,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=102，单位法向量长度为 7，故到斜面距离 (102-11r)/7=r，解得 r=$\\frac{17}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{17}{2}$,17,$\\frac{51}{2}$)，外接半径 R=17√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2217",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 17,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(18,0,0), B=(0,36,0), C=(0,0,54)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}"
+      ],
+      "answer": 0,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=108，单位法向量长度为 7，故到斜面距离 (108-11r)/7=r，解得 r=6。外心由与 O、A、B、C 等距，坐标为 (9,18,27)，外接半径 R=18√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2218",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 18,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(19,0,0), B=(0,38,0), C=(0,0,57)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}"
+      ],
+      "answer": 3,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=114，单位法向量长度为 7，故到斜面距离 (114-11r)/7=r，解得 r=$\\frac{19}{3}$。外心由与 O、A、B、C 等距，坐标为 ($\\frac{19}{2}$,19,$\\frac{57}{2}$)，外接半径 R=19√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2219",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 19,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(20,0,0), B=(0,40,0), C=(0,0,60)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{14}",
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7"
+      ],
+      "answer": 2,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=120，单位法向量长度为 7，故到斜面距离 (120-11r)/7=r，解得 r=$\\frac{20}{3}$。外心由与 O、A、B、C 等距，坐标为 (10,20,30)，外接半径 R=20√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2220",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-21",
+      "variant": 20,
+      "stem": "四面体顶点为 $O=(0,0,0), A=(21,0,0), B=(0,42,0), C=(0,0,63)$。其内切球半径 r 与外接球半径 R 的比值为",
+      "options": [
+        "\\frac{\\sqrt{14}}{42}",
+        "\\frac{\\sqrt{14}}{21}",
+        "\\frac{\\sqrt{14}}7",
+        "\\frac{\\sqrt{14}}{14}"
+      ],
+      "answer": 1,
+      "explanation": "内心到三个坐标面的距离相同，可设为 (r,r,r)。斜面 ABC 为 6x+3y+2z=126，单位法向量长度为 7，故到斜面距离 (126-11r)/7=r，解得 r=7。外心由与 O、A、B、C 等距，坐标为 ($\\frac{21}{2}$,21,$\\frac{63}{2}$)，外接半径 R=21√14/2。因此 r/R=2/(3√14)=√14/21。"
+    },
+    {
+      "id": "M2221",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 1,
+      "stem": "正方体为 $0\\le x,y,z\\le2$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,6) 变化，其最大值为",
+      "options": [
+        "4\\sqrt3",
+        "2\\sqrt3",
+        "6\\sqrt3",
+        "3\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤2 且 t-2≤x+y≤t。0<t≤2 时为直角三角形，投影面积 t²/2；2≤t≤4 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-2)²]/2，在 t=3 最大，值为 3。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2222",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 2,
+      "stem": "正方体为 $0\\le x,y,z\\le3$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,9) 变化，其最大值为",
+      "options": [
+        "\\frac{9}{2}\\sqrt3",
+        "\\frac{27}{2}\\sqrt3",
+        "\\frac{27}{4}\\sqrt3",
+        "9\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤3 且 t-3≤x+y≤t。0<t≤3 时为直角三角形，投影面积 t²/2；3≤t≤6 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-3)²]/2，在 t=$\\frac{9}{2}$ 最大，值为 $\\frac{27}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2223",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 3,
+      "stem": "正方体为 $0\\le x,y,z\\le4$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,12) 变化，其最大值为",
+      "options": [
+        "24\\sqrt3",
+        "12\\sqrt3",
+        "16\\sqrt3",
+        "8\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤4 且 t-4≤x+y≤t。0<t≤4 时为直角三角形，投影面积 t²/2；4≤t≤8 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-4)²]/2，在 t=6 最大，值为 12。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2224",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 4,
+      "stem": "正方体为 $0\\le x,y,z\\le5$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,15) 变化，其最大值为",
+      "options": [
+        "\\frac{75}{4}\\sqrt3",
+        "25\\sqrt3",
+        "\\frac{25}{2}\\sqrt3",
+        "\\frac{75}{2}\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤5 且 t-5≤x+y≤t。0<t≤5 时为直角三角形，投影面积 t²/2；5≤t≤10 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-5)²]/2，在 t=$\\frac{15}{2}$ 最大，值为 $\\frac{75}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2225",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 5,
+      "stem": "正方体为 $0\\le x,y,z\\le6$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,18) 变化，其最大值为",
+      "options": [
+        "36\\sqrt3",
+        "18\\sqrt3",
+        "54\\sqrt3",
+        "27\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤6 且 t-6≤x+y≤t。0<t≤6 时为直角三角形，投影面积 t²/2；6≤t≤12 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-6)²]/2，在 t=9 最大，值为 27。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2226",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 6,
+      "stem": "正方体为 $0\\le x,y,z\\le7$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,21) 变化，其最大值为",
+      "options": [
+        "\\frac{49}{2}\\sqrt3",
+        "\\frac{147}{2}\\sqrt3",
+        "\\frac{147}{4}\\sqrt3",
+        "49\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤7 且 t-7≤x+y≤t。0<t≤7 时为直角三角形，投影面积 t²/2；7≤t≤14 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-7)²]/2，在 t=$\\frac{21}{2}$ 最大，值为 $\\frac{147}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2227",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 7,
+      "stem": "正方体为 $0\\le x,y,z\\le8$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,24) 变化，其最大值为",
+      "options": [
+        "96\\sqrt3",
+        "48\\sqrt3",
+        "64\\sqrt3",
+        "32\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤8 且 t-8≤x+y≤t。0<t≤8 时为直角三角形，投影面积 t²/2；8≤t≤16 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-8)²]/2，在 t=12 最大，值为 48。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2228",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 8,
+      "stem": "正方体为 $0\\le x,y,z\\le9$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,27) 变化，其最大值为",
+      "options": [
+        "\\frac{243}{4}\\sqrt3",
+        "81\\sqrt3",
+        "\\frac{81}{2}\\sqrt3",
+        "\\frac{243}{2}\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤9 且 t-9≤x+y≤t。0<t≤9 时为直角三角形，投影面积 t²/2；9≤t≤18 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-9)²]/2，在 t=$\\frac{27}{2}$ 最大，值为 $\\frac{243}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2229",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 9,
+      "stem": "正方体为 $0\\le x,y,z\\le10$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,30) 变化，其最大值为",
+      "options": [
+        "100\\sqrt3",
+        "50\\sqrt3",
+        "150\\sqrt3",
+        "75\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤10 且 t-10≤x+y≤t。0<t≤10 时为直角三角形，投影面积 t²/2；10≤t≤20 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-10)²]/2，在 t=15 最大，值为 75。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2230",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 10,
+      "stem": "正方体为 $0\\le x,y,z\\le11$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,33) 变化，其最大值为",
+      "options": [
+        "\\frac{121}{2}\\sqrt3",
+        "\\frac{363}{2}\\sqrt3",
+        "\\frac{363}{4}\\sqrt3",
+        "121\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤11 且 t-11≤x+y≤t。0<t≤11 时为直角三角形，投影面积 t²/2；11≤t≤22 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-11)²]/2，在 t=$\\frac{33}{2}$ 最大，值为 $\\frac{363}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2231",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 11,
+      "stem": "正方体为 $0\\le x,y,z\\le12$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,36) 变化，其最大值为",
+      "options": [
+        "216\\sqrt3",
+        "108\\sqrt3",
+        "144\\sqrt3",
+        "72\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤12 且 t-12≤x+y≤t。0<t≤12 时为直角三角形，投影面积 t²/2；12≤t≤24 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-12)²]/2，在 t=18 最大，值为 108。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2232",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 12,
+      "stem": "正方体为 $0\\le x,y,z\\le13$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,39) 变化，其最大值为",
+      "options": [
+        "\\frac{507}{4}\\sqrt3",
+        "169\\sqrt3",
+        "\\frac{169}{2}\\sqrt3",
+        "\\frac{507}{2}\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤13 且 t-13≤x+y≤t。0<t≤13 时为直角三角形，投影面积 t²/2；13≤t≤26 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-13)²]/2，在 t=$\\frac{39}{2}$ 最大，值为 $\\frac{507}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2233",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 13,
+      "stem": "正方体为 $0\\le x,y,z\\le14$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,42) 变化，其最大值为",
+      "options": [
+        "196\\sqrt3",
+        "98\\sqrt3",
+        "294\\sqrt3",
+        "147\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤14 且 t-14≤x+y≤t。0<t≤14 时为直角三角形，投影面积 t²/2；14≤t≤28 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-14)²]/2，在 t=21 最大，值为 147。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2234",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 14,
+      "stem": "正方体为 $0\\le x,y,z\\le15$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,45) 变化，其最大值为",
+      "options": [
+        "\\frac{225}{2}\\sqrt3",
+        "\\frac{675}{2}\\sqrt3",
+        "\\frac{675}{4}\\sqrt3",
+        "225\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤15 且 t-15≤x+y≤t。0<t≤15 时为直角三角形，投影面积 t²/2；15≤t≤30 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-15)²]/2，在 t=$\\frac{45}{2}$ 最大，值为 $\\frac{675}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2235",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 15,
+      "stem": "正方体为 $0\\le x,y,z\\le16$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,48) 变化，其最大值为",
+      "options": [
+        "384\\sqrt3",
+        "192\\sqrt3",
+        "256\\sqrt3",
+        "128\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤16 且 t-16≤x+y≤t。0<t≤16 时为直角三角形，投影面积 t²/2；16≤t≤32 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-16)²]/2，在 t=24 最大，值为 192。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2236",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 16,
+      "stem": "正方体为 $0\\le x,y,z\\le17$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,51) 变化，其最大值为",
+      "options": [
+        "\\frac{867}{4}\\sqrt3",
+        "289\\sqrt3",
+        "\\frac{289}{2}\\sqrt3",
+        "\\frac{867}{2}\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤17 且 t-17≤x+y≤t。0<t≤17 时为直角三角形，投影面积 t²/2；17≤t≤34 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-17)²]/2，在 t=$\\frac{51}{2}$ 最大，值为 $\\frac{867}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2237",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 17,
+      "stem": "正方体为 $0\\le x,y,z\\le18$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,54) 变化，其最大值为",
+      "options": [
+        "324\\sqrt3",
+        "162\\sqrt3",
+        "486\\sqrt3",
+        "243\\sqrt3"
+      ],
+      "answer": 3,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤18 且 t-18≤x+y≤t。0<t≤18 时为直角三角形，投影面积 t²/2；18≤t≤36 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-18)²]/2，在 t=27 最大，值为 243。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2238",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 18,
+      "stem": "正方体为 $0\\le x,y,z\\le19$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,57) 变化，其最大值为",
+      "options": [
+        "\\frac{361}{2}\\sqrt3",
+        "\\frac{1083}{2}\\sqrt3",
+        "\\frac{1083}{4}\\sqrt3",
+        "361\\sqrt3"
+      ],
+      "answer": 2,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤19 且 t-19≤x+y≤t。0<t≤19 时为直角三角形，投影面积 t²/2；19≤t≤38 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-19)²]/2，在 t=$\\frac{57}{2}$ 最大，值为 $\\frac{1083}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2239",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 19,
+      "stem": "正方体为 $0\\le x,y,z\\le20$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,60) 变化，其最大值为",
+      "options": [
+        "600\\sqrt3",
+        "300\\sqrt3",
+        "400\\sqrt3",
+        "200\\sqrt3"
+      ],
+      "answer": 1,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤20 且 t-20≤x+y≤t。0<t≤20 时为直角三角形，投影面积 t²/2；20≤t≤40 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-20)²]/2，在 t=30 最大，值为 300。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2240",
+      "batch": 8,
+      "topic": "solid",
+      "topicName": "立体几何、体积与表面积",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-22",
+      "variant": 20,
+      "stem": "正方体为 $0\\le x,y,z\\le21$。平面 $x+y+z=t$ 与正方体的截面面积随 t∈(0,63) 变化，其最大值为",
+      "options": [
+        "\\frac{1323}{4}\\sqrt3",
+        "441\\sqrt3",
+        "\\frac{441}{2}\\sqrt3",
+        "\\frac{1323}{2}\\sqrt3"
+      ],
+      "answer": 0,
+      "explanation": "把截面投影到 xy 平面，面积乘因子为 √3。投影满足 0≤x,y≤21 且 t-21≤x+y≤t。0<t≤21 时为直角三角形，投影面积 t²/2；21≤t≤42 时由大三角形扣掉三个小三角形，投影面积 [t²-3(t-21)²]/2，在 t=$\\frac{63}{2}$ 最大，值为 $\\frac{1323}{4}$。其余区间由中心对称得到相同结论。乘 √3，最大截面为正六边形。"
+    },
+    {
+      "id": "M2241",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 1,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|2-z_j|^2}$。",
+      "options": [
+        "\\frac{160}{93}",
+        "\\frac{155}{99}",
+        "\\frac{55}{31}",
+        "\\frac{5}{3}"
+      ],
+      "answer": 2,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|2-z|²=[2/(2-z)+1/(2z-1)]/(3)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(2-z_j)=80/(31)。又根集在倒数下不变，Σ1/(2z_j-1)=Σz_j/(2-z_j)=2Σ1/(2-z_j)-5。合并得 5(33)/[(3)(31)]=$\\frac{55}{31}$。"
+    },
+    {
+      "id": "M2242",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 2,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|3-z_j|^2}$。",
+      "options": [
+        "\\frac{605}{976}",
+        "\\frac{305}{484}",
+        "\\frac{5}{8}",
+        "\\frac{1215}{1936}"
+      ],
+      "answer": 1,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|3-z|²=[3/(3-z)+1/(3z-1)]/(8)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(3-z_j)=405/(242)。又根集在倒数下不变，Σ1/(3z_j-1)=Σz_j/(3-z_j)=3Σ1/(3-z_j)-5。合并得 5(244)/[(8)(242)]=$\\frac{305}{484}$。"
+    },
+    {
+      "id": "M2243",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 3,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|4-z_j|^2}$。",
+      "options": [
+        "\\frac{1025}{3069}",
+        "\\frac{1}{3}",
+        "\\frac{1024}{3069}",
+        "\\frac{341}{1025}"
+      ],
+      "answer": 0,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|4-z|²=[4/(4-z)+1/(4z-1)]/(15)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(4-z_j)=1280/(1023)。又根集在倒数下不变，Σ1/(4z_j-1)=Σz_j/(4-z_j)=4Σ1/(4-z_j)-5。合并得 5(1025)/[(15)(1023)]=$\\frac{1025}{3069}$。"
+    },
+    {
+      "id": "M2244",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 4,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|5-z_j|^2}$。",
+      "options": [
+        "\\frac{5}{24}",
+        "\\frac{15625}{74976}",
+        "\\frac{3905}{18756}",
+        "\\frac{2605}{12496}"
+      ],
+      "answer": 3,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|5-z|²=[5/(5-z)+1/(5z-1)]/(24)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(5-z_j)=3125/(3124)。又根集在倒数下不变，Σ1/(5z_j-1)=Σz_j/(5-z_j)=5Σ1/(5-z_j)-5。合并得 5(3126)/[(24)(3124)]=$\\frac{2605}{12496}$。"
+    },
+    {
+      "id": "M2245",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 5,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|6-z_j|^2}$。",
+      "options": [
+        "\\frac{7776}{54425}",
+        "\\frac{7775}{54439}",
+        "\\frac{1111}{7775}",
+        "\\frac{1}{7}"
+      ],
+      "answer": 2,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|6-z|²=[6/(6-z)+1/(6z-1)]/(35)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(6-z_j)=6480/(7775)。又根集在倒数下不变，Σ1/(6z_j-1)=Σz_j/(6-z_j)=6Σ1/(6-z_j)-5。合并得 5(7777)/[(35)(7775)]=$\\frac{1111}{7775}$。"
+    },
+    {
+      "id": "M2246",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 6,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|7-z_j|^2}$。",
+      "options": [
+        "\\frac{14005}{134464}",
+        "\\frac{10505}{100836}",
+        "\\frac{5}{48}",
+        "\\frac{84035}{806688}"
+      ],
+      "answer": 1,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|7-z|²=[7/(7-z)+1/(7z-1)]/(48)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(7-z_j)=12005/(16806)。又根集在倒数下不变，Σ1/(7z_j-1)=Σz_j/(7-z_j)=7Σ1/(7-z_j)-5。合并得 5(16808)/[(48)(16806)]=$\\frac{10505}{100836}$。"
+    },
+    {
+      "id": "M2247",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 7,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|8-z_j|^2}$。",
+      "options": [
+        "\\frac{18205}{229369}",
+        "\\frac{5}{63}",
+        "\\frac{163840}{2064321}",
+        "\\frac{23405}{294921}"
+      ],
+      "answer": 0,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|8-z|²=[8/(8-z)+1/(8z-1)]/(63)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(8-z_j)=20480/(32767)。又根集在倒数下不变，Σ1/(8z_j-1)=Σz_j/(8-z_j)=8Σ1/(8-z_j)-5。合并得 5(32769)/[(63)(32767)]=$\\frac{18205}{229369}$。"
+    },
+    {
+      "id": "M2248",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 8,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|9-z_j|^2}$。",
+      "options": [
+        "\\frac{1}{16}",
+        "\\frac{59049}{944768}",
+        "\\frac{7381}{118100}",
+        "\\frac{29525}{472384}"
+      ],
+      "answer": 3,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|9-z|²=[9/(9-z)+1/(9z-1)]/(80)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(9-z_j)=32805/(59048)。又根集在倒数下不变，Σ1/(9z_j-1)=Σz_j/(9-z_j)=9Σ1/(9-z_j)-5。合并得 5(59050)/[(80)(59048)]=$\\frac{29525}{472384}$。"
+    },
+    {
+      "id": "M2249",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 9,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|10-z_j|^2}$。",
+      "options": [
+        "\\frac{500000}{9899901}",
+        "\\frac{55555}{1100011}",
+        "\\frac{45455}{899991}",
+        "\\frac{5}{99}"
+      ],
+      "answer": 2,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|10-z|²=[10/(10-z)+1/(10z-1)]/(99)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(10-z_j)=50000/(99999)。又根集在倒数下不变，Σ1/(10z_j-1)=Σz_j/(10-z_j)=10Σ1/(10-z_j)-5。合并得 5(100001)/[(99)(99999)]=$\\frac{45455}{899991}$。"
+    },
+    {
+      "id": "M2250",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 10,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|11-z_j|^2}$。",
+      "options": [
+        "\\frac{80525}{1932624}",
+        "\\frac{13421}{322100}",
+        "\\frac{1}{24}",
+        "\\frac{161051}{3865200}"
+      ],
+      "answer": 1,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|11-z|²=[11/(11-z)+1/(11z-1)]/(120)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(11-z_j)=73205/(161050)。又根集在倒数下不变，Σ1/(11z_j-1)=Σz_j/(11-z_j)=11Σ1/(11-z_j)-5。合并得 5(161052)/[(120)(161050)]=$\\frac{13421}{322100}$。"
+    },
+    {
+      "id": "M2251",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 11,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|12-z_j|^2}$。",
+      "options": [
+        "\\frac{95705}{2737141}",
+        "\\frac{5}{143}",
+        "\\frac{1244160}{35582833}",
+        "\\frac{113105}{3234829}"
+      ],
+      "answer": 0,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|12-z|²=[12/(12-z)+1/(12z-1)]/(143)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(12-z_j)=103680/(248831)。又根集在倒数下不变，Σ1/(12z_j-1)=Σz_j/(12-z_j)=12Σ1/(12-z_j)-5。合并得 5(248833)/[(143)(248831)]=$\\frac{95705}{2737141}$。"
+    },
+    {
+      "id": "M2252",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 12,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|13-z_j|^2}$。",
+      "options": [
+        "\\frac{5}{168}",
+        "\\frac{1856465}{62377056}",
+        "\\frac{154705}{5198116}",
+        "\\frac{132605}{4455504}"
+      ],
+      "answer": 3,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|13-z|²=[13/(13-z)+1/(13z-1)]/(168)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(13-z_j)=142805/(371292)。又根集在倒数下不变，Σ1/(13z_j-1)=Σz_j/(13-z_j)=13Σ1/(13-z_j)-5。合并得 5(371294)/[(168)(371292)]=$\\frac{132605}{4455504}$。"
+    },
+    {
+      "id": "M2253",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 13,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|14-z_j|^2}$。",
+      "options": [
+        "\\frac{537824}{20975097}",
+        "\\frac{41371}{1613475}",
+        "\\frac{179275}{6991699}",
+        "\\frac{1}{39}"
+      ],
+      "answer": 2,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|14-z|²=[14/(14-z)+1/(14z-1)]/(195)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(14-z_j)=192080/(537823)。又根集在倒数下不变，Σ1/(14z_j-1)=Σz_j/(14-z_j)=14Σ1/(14-z_j)-5。合并得 5(537825)/[(195)(537823)]=$\\frac{179275}{6991699}$。"
+    },
+    {
+      "id": "M2254",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 14,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|15-z_j|^2}$。",
+      "options": [
+        "\\frac{271205}{12150016}",
+        "\\frac{237305}{10631236}",
+        "\\frac{5}{224}",
+        "\\frac{3796875}{170099776}"
+      ],
+      "answer": 1,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|15-z|²=[15/(15-z)+1/(15z-1)]/(224)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(15-z_j)=253125/(759374)。又根集在倒数下不变，Σ1/(15z_j-1)=Σz_j/(15-z_j)=15Σ1/(15-z_j)-5。合并得 5(759376)/[(224)(759374)]=$\\frac{237305}{10631236}$。"
+    },
+    {
+      "id": "M2255",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 15,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|16-z_j|^2}$。",
+      "options": [
+        "\\frac{61681}{3145725}",
+        "\\frac{1}{51}",
+        "\\frac{1048576}{53477325}",
+        "\\frac{349525}{17825809}"
+      ],
+      "answer": 0,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|16-z|²=[16/(16-z)+1/(16z-1)]/(255)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(16-z_j)=327680/(1048575)。又根集在倒数下不变，Σ1/(16z_j-1)=Σz_j/(16-z_j)=16Σ1/(16-z_j)-5。合并得 5(1048577)/[(255)(1048575)]=$\\frac{61681}{3145725}$。"
+    },
+    {
+      "id": "M2256",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 16,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|17-z_j|^2}$。",
+      "options": [
+        "\\frac{5}{288}",
+        "\\frac{7099285}{408918528}",
+        "\\frac{443705}{25557444}",
+        "\\frac{394405}{22717696}"
+      ],
+      "answer": 3,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|17-z|²=[17/(17-z)+1/(17z-1)]/(288)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(17-z_j)=417605/(1419856)。又根集在倒数下不变，Σ1/(17z_j-1)=Σz_j/(17-z_j)=17Σ1/(17-z_j)-5。合并得 5(1419858)/[(288)(1419856)]=$\\frac{394405}{22717696}$。"
+    },
+    {
+      "id": "M2257",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 17,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|18-z_j|^2}$。",
+      "options": [
+        "\\frac{9447840}{610330141}",
+        "\\frac{555755}{35901811}",
+        "\\frac{497255}{32122639}",
+        "\\frac{5}{323}"
+      ],
+      "answer": 2,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|18-z|²=[18/(18-z)+1/(18z-1)]/(323)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(18-z_j)=524880/(1889567)。又根集在倒数下不变，Σ1/(18z_j-1)=Σz_j/(18-z_j)=18Σ1/(18-z_j)-5。合并得 5(1889569)/[(323)(1889567)]=$\\frac{497255}{32122639}$。"
+    },
+    {
+      "id": "M2258",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 18,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|19-z_j|^2}$。",
+      "options": [
+        "\\frac{137561}{9904400}",
+        "\\frac{619025}{44569764}",
+        "\\frac{1}{72}",
+        "\\frac{2476099}{178279056}"
+      ],
+      "answer": 1,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|19-z|²=[19/(19-z)+1/(19z-1)]/(360)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(19-z_j)=651605/(2476098)。又根集在倒数下不变，Σ1/(19z_j-1)=Σz_j/(19-z_j)=19Σ1/(19-z_j)-5。合并得 5(2476100)/[(360)(2476098)]=$\\frac{619025}{44569764}$。"
+    },
+    {
+      "id": "M2259",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 19,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|20-z_j|^2}$。",
+      "options": [
+        "\\frac{761905}{60799981}",
+        "\\frac{5}{399}",
+        "\\frac{16000000}{1276799601}",
+        "\\frac{842105}{67200021}"
+      ],
+      "answer": 0,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|20-z|²=[20/(20-z)+1/(20z-1)]/(399)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(20-z_j)=800000/(3199999)。又根集在倒数下不变，Σ1/(20z_j-1)=Σz_j/(20-z_j)=20Σ1/(20-z_j)-5。合并得 5(3200001)/[(399)(3199999)]=$\\frac{761905}{60799981}$。"
+    },
+    {
+      "id": "M2260",
+      "batch": 8,
+      "topic": "complex",
+      "topicName": "复数与复平面",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-23",
+      "variant": 20,
+      "stem": "设 $z_1,\\ldots,z_5$ 为方程 $z^5=1$ 的五个不同复根。求 $\\sum_{j=1}^5\\frac1{|21-z_j|^2}$。",
+      "options": [
+        "\\frac{1}{88}",
+        "\\frac{4084101}{359400800}",
+        "\\frac{1021025}{89850244}",
+        "\\frac{185641}{16336400}"
+      ],
+      "answer": 3,
+      "explanation": "各根模为 1，故共轭 z̄=1/z。对每个根可验证 1/|21-z|²=[21/(21-z)+1/(21z-1)]/(440)。由多项式 P(t)=t⁵-1 的对数导数，Σ1/(21-z_j)=972405/(4084100)。又根集在倒数下不变，Σ1/(21z_j-1)=Σz_j/(21-z_j)=21Σ1/(21-z_j)-5。合并得 5(4084102)/[(440)(4084100)]=$\\frac{185641}{16336400}$。"
+    },
+    {
+      "id": "M2261",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 1,
+      "stem": "在 x>0 上求 $\\int x^{2}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{3}}{3}\\left((\\ln x)^2-\\frac{1}{3}\\ln x\\right)+C",
+        "\\frac{x^{3}}{3}\\left((\\ln x)^2-\\frac{2}{3}\\ln x+\\frac{2}{9}\\right)+C",
+        "\\frac{x^{3}}{3}\\left((\\ln x)^2+\\frac{2}{3}\\ln x+\\frac{2}{9}\\right)+C",
+        "\\frac{x^{3}}{3}(\\ln x)^2+C"
+      ],
+      "answer": 1,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^2dx，得 x^3(ln x)²/3-(2/3)∫x^2ln x dx。对剩余积分再次分部积分，得 x^3ln x/3-x^3/9。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2262",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 2,
+      "stem": "在 x>0 上求 $\\int x^{3}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{4}}{4}\\left((\\ln x)^2-\\frac{1}{2}\\ln x+\\frac{1}{8}\\right)+C",
+        "\\frac{x^{4}}{4}\\left((\\ln x)^2+\\frac{1}{2}\\ln x+\\frac{1}{8}\\right)+C",
+        "\\frac{x^{4}}{4}(\\ln x)^2+C",
+        "\\frac{x^{4}}{4}\\left((\\ln x)^2-\\frac{1}{4}\\ln x\\right)+C"
+      ],
+      "answer": 0,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^3dx，得 x^4(ln x)²/4-(2/4)∫x^3ln x dx。对剩余积分再次分部积分，得 x^4ln x/4-x^4/16。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2263",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 3,
+      "stem": "在 x>0 上求 $\\int x^{4}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{5}}{5}\\left((\\ln x)^2+\\frac{2}{5}\\ln x+\\frac{2}{25}\\right)+C",
+        "\\frac{x^{5}}{5}(\\ln x)^2+C",
+        "\\frac{x^{5}}{5}\\left((\\ln x)^2-\\frac{1}{5}\\ln x\\right)+C",
+        "\\frac{x^{5}}{5}\\left((\\ln x)^2-\\frac{2}{5}\\ln x+\\frac{2}{25}\\right)+C"
+      ],
+      "answer": 3,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^4dx，得 x^5(ln x)²/5-(2/5)∫x^4ln x dx。对剩余积分再次分部积分，得 x^5ln x/5-x^5/25。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2264",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 4,
+      "stem": "在 x>0 上求 $\\int x^{5}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{6}}{6}(\\ln x)^2+C",
+        "\\frac{x^{6}}{6}\\left((\\ln x)^2-\\frac{1}{6}\\ln x\\right)+C",
+        "\\frac{x^{6}}{6}\\left((\\ln x)^2-\\frac{1}{3}\\ln x+\\frac{1}{18}\\right)+C",
+        "\\frac{x^{6}}{6}\\left((\\ln x)^2+\\frac{1}{3}\\ln x+\\frac{1}{18}\\right)+C"
+      ],
+      "answer": 2,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^5dx，得 x^6(ln x)²/6-(2/6)∫x^5ln x dx。对剩余积分再次分部积分，得 x^6ln x/6-x^6/36。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2265",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 5,
+      "stem": "在 x>0 上求 $\\int x^{6}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{7}}{7}\\left((\\ln x)^2-\\frac{1}{7}\\ln x\\right)+C",
+        "\\frac{x^{7}}{7}\\left((\\ln x)^2-\\frac{2}{7}\\ln x+\\frac{2}{49}\\right)+C",
+        "\\frac{x^{7}}{7}\\left((\\ln x)^2+\\frac{2}{7}\\ln x+\\frac{2}{49}\\right)+C",
+        "\\frac{x^{7}}{7}(\\ln x)^2+C"
+      ],
+      "answer": 1,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^6dx，得 x^7(ln x)²/7-(2/7)∫x^6ln x dx。对剩余积分再次分部积分，得 x^7ln x/7-x^7/49。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2266",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 6,
+      "stem": "在 x>0 上求 $\\int x^{7}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{8}}{8}\\left((\\ln x)^2-\\frac{1}{4}\\ln x+\\frac{1}{32}\\right)+C",
+        "\\frac{x^{8}}{8}\\left((\\ln x)^2+\\frac{1}{4}\\ln x+\\frac{1}{32}\\right)+C",
+        "\\frac{x^{8}}{8}(\\ln x)^2+C",
+        "\\frac{x^{8}}{8}\\left((\\ln x)^2-\\frac{1}{8}\\ln x\\right)+C"
+      ],
+      "answer": 0,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^7dx，得 x^8(ln x)²/8-(2/8)∫x^7ln x dx。对剩余积分再次分部积分，得 x^8ln x/8-x^8/64。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2267",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 7,
+      "stem": "在 x>0 上求 $\\int x^{8}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{9}}{9}\\left((\\ln x)^2+\\frac{2}{9}\\ln x+\\frac{2}{81}\\right)+C",
+        "\\frac{x^{9}}{9}(\\ln x)^2+C",
+        "\\frac{x^{9}}{9}\\left((\\ln x)^2-\\frac{1}{9}\\ln x\\right)+C",
+        "\\frac{x^{9}}{9}\\left((\\ln x)^2-\\frac{2}{9}\\ln x+\\frac{2}{81}\\right)+C"
+      ],
+      "answer": 3,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^8dx，得 x^9(ln x)²/9-(2/9)∫x^8ln x dx。对剩余积分再次分部积分，得 x^9ln x/9-x^9/81。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2268",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 8,
+      "stem": "在 x>0 上求 $\\int x^{9}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{10}}{10}(\\ln x)^2+C",
+        "\\frac{x^{10}}{10}\\left((\\ln x)^2-\\frac{1}{10}\\ln x\\right)+C",
+        "\\frac{x^{10}}{10}\\left((\\ln x)^2-\\frac{1}{5}\\ln x+\\frac{1}{50}\\right)+C",
+        "\\frac{x^{10}}{10}\\left((\\ln x)^2+\\frac{1}{5}\\ln x+\\frac{1}{50}\\right)+C"
+      ],
+      "answer": 2,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^9dx，得 x^10(ln x)²/10-(2/10)∫x^9ln x dx。对剩余积分再次分部积分，得 x^10ln x/10-x^10/100。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2269",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 9,
+      "stem": "在 x>0 上求 $\\int x^{10}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{11}}{11}\\left((\\ln x)^2-\\frac{1}{11}\\ln x\\right)+C",
+        "\\frac{x^{11}}{11}\\left((\\ln x)^2-\\frac{2}{11}\\ln x+\\frac{2}{121}\\right)+C",
+        "\\frac{x^{11}}{11}\\left((\\ln x)^2+\\frac{2}{11}\\ln x+\\frac{2}{121}\\right)+C",
+        "\\frac{x^{11}}{11}(\\ln x)^2+C"
+      ],
+      "answer": 1,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^10dx，得 x^11(ln x)²/11-(2/11)∫x^10ln x dx。对剩余积分再次分部积分，得 x^11ln x/11-x^11/121。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2270",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 10,
+      "stem": "在 x>0 上求 $\\int x^{11}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{12}}{12}\\left((\\ln x)^2-\\frac{1}{6}\\ln x+\\frac{1}{72}\\right)+C",
+        "\\frac{x^{12}}{12}\\left((\\ln x)^2+\\frac{1}{6}\\ln x+\\frac{1}{72}\\right)+C",
+        "\\frac{x^{12}}{12}(\\ln x)^2+C",
+        "\\frac{x^{12}}{12}\\left((\\ln x)^2-\\frac{1}{12}\\ln x\\right)+C"
+      ],
+      "answer": 0,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^11dx，得 x^12(ln x)²/12-(2/12)∫x^11ln x dx。对剩余积分再次分部积分，得 x^12ln x/12-x^12/144。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2271",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 11,
+      "stem": "在 x>0 上求 $\\int x^{12}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{13}}{13}\\left((\\ln x)^2+\\frac{2}{13}\\ln x+\\frac{2}{169}\\right)+C",
+        "\\frac{x^{13}}{13}(\\ln x)^2+C",
+        "\\frac{x^{13}}{13}\\left((\\ln x)^2-\\frac{1}{13}\\ln x\\right)+C",
+        "\\frac{x^{13}}{13}\\left((\\ln x)^2-\\frac{2}{13}\\ln x+\\frac{2}{169}\\right)+C"
+      ],
+      "answer": 3,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^12dx，得 x^13(ln x)²/13-(2/13)∫x^12ln x dx。对剩余积分再次分部积分，得 x^13ln x/13-x^13/169。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2272",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 12,
+      "stem": "在 x>0 上求 $\\int x^{13}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{14}}{14}(\\ln x)^2+C",
+        "\\frac{x^{14}}{14}\\left((\\ln x)^2-\\frac{1}{14}\\ln x\\right)+C",
+        "\\frac{x^{14}}{14}\\left((\\ln x)^2-\\frac{1}{7}\\ln x+\\frac{1}{98}\\right)+C",
+        "\\frac{x^{14}}{14}\\left((\\ln x)^2+\\frac{1}{7}\\ln x+\\frac{1}{98}\\right)+C"
+      ],
+      "answer": 2,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^13dx，得 x^14(ln x)²/14-(2/14)∫x^13ln x dx。对剩余积分再次分部积分，得 x^14ln x/14-x^14/196。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2273",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 13,
+      "stem": "在 x>0 上求 $\\int x^{14}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{15}}{15}\\left((\\ln x)^2-\\frac{1}{15}\\ln x\\right)+C",
+        "\\frac{x^{15}}{15}\\left((\\ln x)^2-\\frac{2}{15}\\ln x+\\frac{2}{225}\\right)+C",
+        "\\frac{x^{15}}{15}\\left((\\ln x)^2+\\frac{2}{15}\\ln x+\\frac{2}{225}\\right)+C",
+        "\\frac{x^{15}}{15}(\\ln x)^2+C"
+      ],
+      "answer": 1,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^14dx，得 x^15(ln x)²/15-(2/15)∫x^14ln x dx。对剩余积分再次分部积分，得 x^15ln x/15-x^15/225。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2274",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 14,
+      "stem": "在 x>0 上求 $\\int x^{15}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{16}}{16}\\left((\\ln x)^2-\\frac{1}{8}\\ln x+\\frac{1}{128}\\right)+C",
+        "\\frac{x^{16}}{16}\\left((\\ln x)^2+\\frac{1}{8}\\ln x+\\frac{1}{128}\\right)+C",
+        "\\frac{x^{16}}{16}(\\ln x)^2+C",
+        "\\frac{x^{16}}{16}\\left((\\ln x)^2-\\frac{1}{16}\\ln x\\right)+C"
+      ],
+      "answer": 0,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^15dx，得 x^16(ln x)²/16-(2/16)∫x^15ln x dx。对剩余积分再次分部积分，得 x^16ln x/16-x^16/256。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2275",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 15,
+      "stem": "在 x>0 上求 $\\int x^{16}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{17}}{17}\\left((\\ln x)^2+\\frac{2}{17}\\ln x+\\frac{2}{289}\\right)+C",
+        "\\frac{x^{17}}{17}(\\ln x)^2+C",
+        "\\frac{x^{17}}{17}\\left((\\ln x)^2-\\frac{1}{17}\\ln x\\right)+C",
+        "\\frac{x^{17}}{17}\\left((\\ln x)^2-\\frac{2}{17}\\ln x+\\frac{2}{289}\\right)+C"
+      ],
+      "answer": 3,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^16dx，得 x^17(ln x)²/17-(2/17)∫x^16ln x dx。对剩余积分再次分部积分，得 x^17ln x/17-x^17/289。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2276",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 16,
+      "stem": "在 x>0 上求 $\\int x^{17}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{18}}{18}(\\ln x)^2+C",
+        "\\frac{x^{18}}{18}\\left((\\ln x)^2-\\frac{1}{18}\\ln x\\right)+C",
+        "\\frac{x^{18}}{18}\\left((\\ln x)^2-\\frac{1}{9}\\ln x+\\frac{1}{162}\\right)+C",
+        "\\frac{x^{18}}{18}\\left((\\ln x)^2+\\frac{1}{9}\\ln x+\\frac{1}{162}\\right)+C"
+      ],
+      "answer": 2,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^17dx，得 x^18(ln x)²/18-(2/18)∫x^17ln x dx。对剩余积分再次分部积分，得 x^18ln x/18-x^18/324。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2277",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 17,
+      "stem": "在 x>0 上求 $\\int x^{18}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{19}}{19}\\left((\\ln x)^2-\\frac{1}{19}\\ln x\\right)+C",
+        "\\frac{x^{19}}{19}\\left((\\ln x)^2-\\frac{2}{19}\\ln x+\\frac{2}{361}\\right)+C",
+        "\\frac{x^{19}}{19}\\left((\\ln x)^2+\\frac{2}{19}\\ln x+\\frac{2}{361}\\right)+C",
+        "\\frac{x^{19}}{19}(\\ln x)^2+C"
+      ],
+      "answer": 1,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^18dx，得 x^19(ln x)²/19-(2/19)∫x^18ln x dx。对剩余积分再次分部积分，得 x^19ln x/19-x^19/361。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2278",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 18,
+      "stem": "在 x>0 上求 $\\int x^{19}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{20}}{20}\\left((\\ln x)^2-\\frac{1}{10}\\ln x+\\frac{1}{200}\\right)+C",
+        "\\frac{x^{20}}{20}\\left((\\ln x)^2+\\frac{1}{10}\\ln x+\\frac{1}{200}\\right)+C",
+        "\\frac{x^{20}}{20}(\\ln x)^2+C",
+        "\\frac{x^{20}}{20}\\left((\\ln x)^2-\\frac{1}{20}\\ln x\\right)+C"
+      ],
+      "answer": 0,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^19dx，得 x^20(ln x)²/20-(2/20)∫x^19ln x dx。对剩余积分再次分部积分，得 x^20ln x/20-x^20/400。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2279",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 19,
+      "stem": "在 x>0 上求 $\\int x^{20}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{21}}{21}\\left((\\ln x)^2+\\frac{2}{21}\\ln x+\\frac{2}{441}\\right)+C",
+        "\\frac{x^{21}}{21}(\\ln x)^2+C",
+        "\\frac{x^{21}}{21}\\left((\\ln x)^2-\\frac{1}{21}\\ln x\\right)+C",
+        "\\frac{x^{21}}{21}\\left((\\ln x)^2-\\frac{2}{21}\\ln x+\\frac{2}{441}\\right)+C"
+      ],
+      "answer": 3,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^20dx，得 x^21(ln x)²/21-(2/21)∫x^20ln x dx。对剩余积分再次分部积分，得 x^21ln x/21-x^21/441。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2280",
+      "batch": 8,
+      "topic": "integral",
+      "topicName": "基础不定积分与换元",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-24",
+      "variant": 20,
+      "stem": "在 x>0 上求 $\\int x^{21}(\\ln x)^2\\,dx$，C 为任意常数。",
+      "options": [
+        "\\frac{x^{22}}{22}(\\ln x)^2+C",
+        "\\frac{x^{22}}{22}\\left((\\ln x)^2-\\frac{1}{22}\\ln x\\right)+C",
+        "\\frac{x^{22}}{22}\\left((\\ln x)^2-\\frac{1}{11}\\ln x+\\frac{1}{242}\\right)+C",
+        "\\frac{x^{22}}{22}\\left((\\ln x)^2+\\frac{1}{11}\\ln x+\\frac{1}{242}\\right)+C"
+      ],
+      "answer": 2,
+      "explanation": "第一次分部积分取 u=(ln x)²、dv=x^21dx，得 x^22(ln x)²/22-(2/22)∫x^21ln x dx。对剩余积分再次分部积分，得 x^22ln x/22-x^22/484。代回整理得到答案。可整体求导，含 ln x 的额外项恰好抵消。"
+    },
+    {
+      "id": "M2281",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 1,
+      "stem": "双曲线 $\\frac{x^2}{4}-\\frac{y^2}{16}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{16}{3}",
+        "\\frac{32}{3}",
+        "4",
+        "\\frac{8}{3}"
+      ],
+      "answer": 0,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/4-sin²θ/16，1/r₂²=sin²θ/4-cos²θ/16。两式相加为 $\\frac{3}{16}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{32}$，故面积 r₁r₂/2≥$\\frac{16}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2282",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 2,
+      "stem": "双曲线 $\\frac{x^2}{9}-\\frac{y^2}{36}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "24",
+        "9",
+        "6",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/9-sin²θ/36，1/r₂²=sin²θ/9-cos²θ/36。两式相加为 $\\frac{1}{12}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{24}$，故面积 r₁r₂/2≥12。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2283",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 3,
+      "stem": "双曲线 $\\frac{x^2}{16}-\\frac{y^2}{64}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "16",
+        "\\frac{32}{3}",
+        "\\frac{64}{3}",
+        "\\frac{128}{3}"
+      ],
+      "answer": 2,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/16-sin²θ/64，1/r₂²=sin²θ/16-cos²θ/64。两式相加为 $\\frac{3}{64}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{128}$，故面积 r₁r₂/2≥$\\frac{64}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2284",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 4,
+      "stem": "双曲线 $\\frac{x^2}{25}-\\frac{y^2}{100}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{50}{3}",
+        "\\frac{100}{3}",
+        "\\frac{200}{3}",
+        "25"
+      ],
+      "answer": 1,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/25-sin²θ/100，1/r₂²=sin²θ/25-cos²θ/100。两式相加为 $\\frac{3}{100}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{200}$，故面积 r₁r₂/2≥$\\frac{100}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2285",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 5,
+      "stem": "双曲线 $\\frac{x^2}{36}-\\frac{y^2}{144}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "48",
+        "96",
+        "36",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/36-sin²θ/144，1/r₂²=sin²θ/36-cos²θ/144。两式相加为 $\\frac{1}{48}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{96}$，故面积 r₁r₂/2≥48。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2286",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 6,
+      "stem": "双曲线 $\\frac{x^2}{49}-\\frac{y^2}{196}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{392}{3}",
+        "49",
+        "\\frac{98}{3}",
+        "\\frac{196}{3}"
+      ],
+      "answer": 3,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/49-sin²θ/196，1/r₂²=sin²θ/49-cos²θ/196。两式相加为 $\\frac{3}{196}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{392}$，故面积 r₁r₂/2≥$\\frac{196}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2287",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 7,
+      "stem": "双曲线 $\\frac{x^2}{64}-\\frac{y^2}{256}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "64",
+        "\\frac{128}{3}",
+        "\\frac{256}{3}",
+        "\\frac{512}{3}"
+      ],
+      "answer": 2,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/64-sin²θ/256，1/r₂²=sin²θ/64-cos²θ/256。两式相加为 $\\frac{3}{256}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{512}$，故面积 r₁r₂/2≥$\\frac{256}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2288",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 8,
+      "stem": "双曲线 $\\frac{x^2}{81}-\\frac{y^2}{324}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "54",
+        "108",
+        "216",
+        "81"
+      ],
+      "answer": 1,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/81-sin²θ/324，1/r₂²=sin²θ/81-cos²θ/324。两式相加为 $\\frac{1}{108}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{216}$，故面积 r₁r₂/2≥108。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2289",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 9,
+      "stem": "双曲线 $\\frac{x^2}{100}-\\frac{y^2}{400}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{400}{3}",
+        "\\frac{800}{3}",
+        "100",
+        "\\frac{200}{3}"
+      ],
+      "answer": 0,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/100-sin²θ/400，1/r₂²=sin²θ/100-cos²θ/400。两式相加为 $\\frac{3}{400}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{800}$，故面积 r₁r₂/2≥$\\frac{400}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2290",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 10,
+      "stem": "双曲线 $\\frac{x^2}{121}-\\frac{y^2}{484}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{968}{3}",
+        "121",
+        "\\frac{242}{3}",
+        "\\frac{484}{3}"
+      ],
+      "answer": 3,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/121-sin²θ/484，1/r₂²=sin²θ/121-cos²θ/484。两式相加为 $\\frac{3}{484}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{968}$，故面积 r₁r₂/2≥$\\frac{484}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2291",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 11,
+      "stem": "双曲线 $\\frac{x^2}{144}-\\frac{y^2}{576}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "144",
+        "96",
+        "192",
+        "384"
+      ],
+      "answer": 2,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/144-sin²θ/576，1/r₂²=sin²θ/144-cos²θ/576。两式相加为 $\\frac{1}{192}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{384}$，故面积 r₁r₂/2≥192。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2292",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 12,
+      "stem": "双曲线 $\\frac{x^2}{169}-\\frac{y^2}{676}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{338}{3}",
+        "\\frac{676}{3}",
+        "\\frac{1352}{3}",
+        "169"
+      ],
+      "answer": 1,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/169-sin²θ/676，1/r₂²=sin²θ/169-cos²θ/676。两式相加为 $\\frac{3}{676}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{1352}$，故面积 r₁r₂/2≥$\\frac{676}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2293",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 13,
+      "stem": "双曲线 $\\frac{x^2}{196}-\\frac{y^2}{784}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{784}{3}",
+        "\\frac{1568}{3}",
+        "196",
+        "\\frac{392}{3}"
+      ],
+      "answer": 0,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/196-sin²θ/784，1/r₂²=sin²θ/196-cos²θ/784。两式相加为 $\\frac{3}{784}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{1568}$，故面积 r₁r₂/2≥$\\frac{784}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2294",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 14,
+      "stem": "双曲线 $\\frac{x^2}{225}-\\frac{y^2}{900}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "600",
+        "225",
+        "150",
+        "300"
+      ],
+      "answer": 3,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/225-sin²θ/900，1/r₂²=sin²θ/225-cos²θ/900。两式相加为 $\\frac{1}{300}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{600}$，故面积 r₁r₂/2≥300。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2295",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 15,
+      "stem": "双曲线 $\\frac{x^2}{256}-\\frac{y^2}{1024}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "256",
+        "\\frac{512}{3}",
+        "\\frac{1024}{3}",
+        "\\frac{2048}{3}"
+      ],
+      "answer": 2,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/256-sin²θ/1024，1/r₂²=sin²θ/256-cos²θ/1024。两式相加为 $\\frac{3}{1024}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{2048}$，故面积 r₁r₂/2≥$\\frac{1024}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2296",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 16,
+      "stem": "双曲线 $\\frac{x^2}{289}-\\frac{y^2}{1156}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{578}{3}",
+        "\\frac{1156}{3}",
+        "\\frac{2312}{3}",
+        "289"
+      ],
+      "answer": 1,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/289-sin²θ/1156，1/r₂²=sin²θ/289-cos²θ/1156。两式相加为 $\\frac{3}{1156}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{2312}$，故面积 r₁r₂/2≥$\\frac{1156}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2297",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 17,
+      "stem": "双曲线 $\\frac{x^2}{324}-\\frac{y^2}{1296}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "432",
+        "864",
+        "324",
+        "216"
+      ],
+      "answer": 0,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/324-sin²θ/1296，1/r₂²=sin²θ/324-cos²θ/1296。两式相加为 $\\frac{1}{432}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{864}$，故面积 r₁r₂/2≥432。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2298",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 18,
+      "stem": "双曲线 $\\frac{x^2}{361}-\\frac{y^2}{1444}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "\\frac{2888}{3}",
+        "361",
+        "\\frac{722}{3}",
+        "\\frac{1444}{3}"
+      ],
+      "answer": 3,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/361-sin²θ/1444，1/r₂²=sin²θ/361-cos²θ/1444。两式相加为 $\\frac{3}{1444}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{2888}$，故面积 r₁r₂/2≥$\\frac{1444}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2299",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 19,
+      "stem": "双曲线 $\\frac{x^2}{400}-\\frac{y^2}{1600}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "400",
+        "\\frac{800}{3}",
+        "\\frac{1600}{3}",
+        "\\frac{3200}{3}"
+      ],
+      "answer": 2,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/400-sin²θ/1600，1/r₂²=sin²θ/400-cos²θ/1600。两式相加为 $\\frac{3}{1600}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{3}{3200}$，故面积 r₁r₂/2≥$\\frac{1600}{3}$。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    },
+    {
+      "id": "M2300",
+      "batch": 8,
+      "topic": "hyperbola",
+      "topicName": "双曲线与渐近线",
+      "difficulty": "hell",
+      "difficultyLabel": "地狱",
+      "targetSeconds": 600,
+      "family": "hell-25",
+      "variant": 20,
+      "stem": "双曲线 $\\frac{x^2}{441}-\\frac{y^2}{1764}=1$ 上两点 A、B 满足 $\\overrightarrow{OA}\\perp\\overrightarrow{OB}$，O 为原点。三角形 OAB 面积的最小值是",
+      "options": [
+        "294",
+        "588",
+        "1176",
+        "441"
+      ],
+      "answer": 1,
+      "explanation": "设两条垂直射线与 x 轴夹角分别为 θ、θ+π/2，OA=r₁、OB=r₂。代入双曲线得 1/r₁²=cos²θ/441-sin²θ/1764，1/r₂²=sin²θ/441-cos²θ/1764。两式相加为 $\\frac{1}{588}$，两个倒数均须正，不能任取方向。由基本不等式得 1/(r₁r₂)≤$\\frac{1}{1176}$，故面积 r₁r₂/2≥588。θ=π/4 时两倒数相等且为正，等号成立；因此此下界确实可取。"
+    }
+  ]
+}
