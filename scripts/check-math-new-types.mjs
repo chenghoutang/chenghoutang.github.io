@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';
+const {questions}=JSON.parse(fs.readFileSync(new URL('../math-practice/data/batch-9.json',import.meta.url),'utf8'));
+assert.equal(questions.length,100);assert.equal(new Set(questions.map(q=>q.family)).size,10);
+const near=(a,b)=>assert.ok(Math.abs(a-b)<1e-6*Math.max(1,Math.abs(b)),`${a} != ${b}`);
+const F=(a,b)=>{const gcd=(x,y)=>y?gcd(y,x%y):Math.abs(x),g=gcd(a,b);a/=g;b/=g;return b===1?String(a):`\\frac{${a}}{${b}}`;};
+for(const q of questions){const type=+q.family.slice(4),s=q.variant-1,answer=q.options[q.answer];assert.ok(q.strategy.length>5);assert.ok(!/\d{4}/.test(q.stem+' '+q.options.join(' ')));
+ if(type===1){const a=s+1;assert.equal(answer,F(2*a,3));const f=x=>x/3-2*a/9;for(const x of [-2,0,.5,3]){near(f(x)+2*f(x+a),x);near(f(x+2*a)-f(x),2*a/3);}}
+ if(type===2){const n=s+3;assert.equal(answer,`\\sum_{k=1}^{${n}}\\frac1k`);let harmonic=0;for(let k=1;k<=n;k++)harmonic+=1/k;let distribution=[1];for(let k=1;k<=n;k++){const next=Array(k+1).fill(0);distribution.forEach((p,j)=>{next[j]+=p*(1-1/k);next[j+1]+=p/k;});distribution=next;}near(distribution.reduce((sum,p,k)=>sum+p*k,0),harmonic);}
+ if(type===3){const a=s+2,T=x=>Math.abs(2*x-a),roots=[];const breaks=[0,a/4,a/2,3*a/4,a];for(let j=0;j<4;j++){const lo=breaks[j],hi=breaks[j+1],f=x=>T(T(x))-x,g=f(lo),h=f(hi);const x=lo+(hi-lo)*(-g)/(h-g);assert.ok(x>=lo-1e-10&&x<=hi+1e-10);near(T(T(x)),x);if(!roots.some(r=>Math.abs(r-x)<1e-8))roots.push(x);}assert.equal(roots.length,+answer);}
+ if(type===4){const a=s+1,p=a+.5;near(Math.hypot(p-a,1)+Math.hypot(p-a-2,3),2*Math.sqrt(5));assert.equal(answer,'2\\sqrt5');for(let j=-100;j<=100;j++)assert.ok(Math.hypot(j/10-a,1)+Math.hypot(j/10-a-2,3)>=2*Math.sqrt(5)-1e-10);}
+ if(type===5){const n=s+2;let sum=.5;for(let k=1;k<=n;k++){const r=k/3;sum+=1/(1+Math.exp(r))+1/(1+Math.exp(-r));}near(sum,(2*n+1)/2);assert.equal(answer,`\\frac{${2*n+1}}2`);}
+ if(type===6){const n=s+3;let dp=[1];for(let k=1;k<=n;k++){const next=Array(dp.length+k-1).fill(0);dp.forEach((count,i)=>{for(let j=0;j<k;j++)next[i+j]+=count;});dp=next;}const diff=dp.reduce((sum,c,i)=>sum+(i%2?-c:c),0);assert.equal(+answer,diff);}
+ if(type===7){const k=s+1;assert.equal(answer,`\\frac{${k}^3}{54}`);let max=0;for(let j=0;j<12000;j++){const t=j*Math.PI/6000,vars=[0,2*Math.PI/3,4*Math.PI/3].map(offset=>k/3+k/3*Math.cos(t+offset));if(vars.every(x=>x>0)){near(vars.reduce((a,b)=>a+b),k);near(vars.reduce((a,b)=>a+b*b,0),k*k/2);max=Math.max(max,vars.reduce((a,b)=>a*b,1));}}near(max,k**3/54);}
+ if(type===8){const a=s+1;assert.equal(answer,`\\frac{f(${a})-f(0)}2`);for(const c of [-.2,.1,.5]){const f=x=>.5+c*(x-a/2)**3,df=x=>3*c*(x-a/2)**2;let integral=0;const N=20000;for(let j=0;j<N;j++){const x=a*(j+.5)/N;integral+=f(x)*df(a-x)*a/N;}near(integral,(f(a)-f(0))/2);}}
+ if(type===9){assert.ok(answer.includes('全红')&&answer.includes('全蓝'));const n=s+3;for(let mixed=0;mixed<=n;mixed++)for(let red=0;red<=n-mixed;red++){const blue=n-mixed-red;const canChooseAllRed=blue===0,canChooseAllBlue=red===0;assert.equal(!canChooseAllRed&&!canChooseAllBlue,red>0&&blue>0);}}
+ if(type===10){const a=s+1,scale=a/Math.sqrt(3),vectors=[[1,1,1],[1,-1,-1],[-1,1,-1]].map(v=>v.map(x=>x*scale)),add=(u,v)=>u.map((x,i)=>x+v[i]),norm=u=>Math.hypot(...u);near(norm(add(add(vectors[0],vectors[1]),vectors[2])),a);const product=norm(add(vectors[0],vectors[1]))*norm(add(vectors[1],vectors[2]))*norm(add(vectors[2],vectors[0]));near(product,8*Math.sqrt(3)*a**3/9);assert.equal(answer,`\\frac{8\\sqrt3}{9}\\cdot${a}^3`);}
+}
+console.log('PASS: 100 new questions, 10 strategies; independent recurrence, probability, reflection, symmetry, integral and geometry checks.');

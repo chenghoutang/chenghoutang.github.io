@@ -33,7 +33,7 @@ try{
  assert.equal(await run('document.querySelectorAll(".correct").length'),1);assert.equal(await run('document.querySelectorAll(".incorrect").length'),0);
  await run('document.querySelector("#difficulty").value="hard";document.querySelector("#difficulty").dispatchEvent(new Event("change"))');
  await until('location.hash==="#M0041"');
- assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),'600');
+ assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),String(600+(total>2300?50:0)));
  await run('document.querySelector("#pause").click()');const t=await run('document.querySelector("#timer").textContent');await delay(1100);assert.equal(await run('document.querySelector("#timer").textContent'),t);
  for(const width of [320,390,1280]){await cdp('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<500});assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`overflow ${width}`);}
  await cdp('Emulation.setDeviceMetricsOverride',{width:320,height:900,deviceScaleFactor:1,mobile:true});
@@ -45,12 +45,14 @@ try{
  assert.equal(errors.length,0,JSON.stringify(errors));assert.equal(await run('document.querySelectorAll(".katex-error").length'),0);
  await run('localStorage.setItem("dengduck-math-v1",JSON.stringify({answers:{M0001:null,M0002:{selected:99,submitted:true,elapsed:-1}},stars:["M0001","invalid"]}))');await reload();await until('document.querySelectorAll("#options input").length===4');
  await run('document.querySelector("#difficulty").value="hell";document.querySelector("#difficulty").dispatchEvent(new Event("change"))');
- assert.equal(await run('document.querySelector("#target").textContent'),'建议 10 分钟');assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),String(total-1800));
+ assert.equal(await run('document.querySelector("#target").textContent'),'建议 10 分钟');assert.equal(await run('document.querySelector("#filterCount").textContent.split(" ")[0]'),String(500+(total>2300?50:0)));
  // A full offline paper: persisted partial answers, cancellation, grading,
  // read-only results, replacement, and another fully completed paper.
  await run('document.querySelector(".exam-entry a").click()');await until('!!window.MathExam && !!document.querySelector("#newExam")');
  await run('localStorage.removeItem("dengduck-math-exam-v1")');await reload();await until('!!document.querySelector("#newExam")');
- await run('document.querySelector("#newExam").click()');await until('document.querySelectorAll(".exam-question").length===20');
+ assert.equal(await run('document.querySelector("#examMode").value'),'custom');assert.ok(await run('[...document.querySelectorAll(".tag-options input")].every(input=>input.checked)'));
+ assert.equal(await run('document.querySelectorAll("#levelTags input").length'),4);assert.equal(await run('document.querySelectorAll("#topicTags input").length'),30);assert.equal(await run('document.querySelectorAll("#sourceTags input").length'),3);
+ await run('document.querySelector("#examMode").value="standard";document.querySelector("#examMode").dispatchEvent(new Event("change"));document.querySelector("#newExam").click()');await until('document.querySelectorAll(".exam-question").length===20');
  assert.deepEqual(await run('JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).ids.map(id=>window.MATH_BATCHES.flatMap(b=>b.questions).find(q=>q.id===id).difficulty).reduce((counts,d)=>(counts[d]=(counts[d]||0)+1,counts),{})'),{easy:4,medium:6,hard:8,hell:2});
  assert.equal(await run('document.querySelectorAll(".exam-feedback").length'),0);
  const originalIds=await run('JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).ids');
@@ -92,10 +94,30 @@ try{
  const legacy=await cdp('Page.addScriptToEvaluateOnNewDocument',{source:`localStorage.setItem('dengduck-math-exam-v1',JSON.stringify({version:1,ids:${JSON.stringify(originalIds)},answers:{},elapsed:1000,submitted:true}));`});
  await run('document.querySelector(".exam-entry a").click()');await until('!!window.MathExam && !!document.querySelector("#newExam")');
  await cdp('Page.removeScriptToEvaluateOnNewDocument',{identifier:legacy.identifier});
- assert.equal(await run('document.querySelector("#examSession").hidden'),true);assert.ok(await run('document.querySelector("#examMessage").textContent.includes("失效")'));
+ assert.equal(await run('document.querySelector("#examSession").hidden'),true);assert.ok(await run('document.querySelector("#examMessage").textContent.includes("无法继续")'));
  await run('document.querySelector("#newExam").click()');await until('document.querySelectorAll(".exam-question").length===20');
- assert.ok(await run('Object.entries(JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).revisions).filter(([id])=>Number(id.slice(1))>=1801).every(([,revision])=>revision===2)'));
+ assert.ok(await run('Object.entries(JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).revisions).filter(([id])=>Number(id.slice(1))>=1801&&Number(id.slice(1))<=2300).every(([,revision])=>revision===2)'));
  await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'exam-rewritten.png'),Buffer.from(p.data,'base64')));
+ // Custom labels combine by intersection. Invalid next-paper settings must
+ // not discard the paper currently being answered.
+ await run(`document.querySelector('#examMode').value='custom';document.querySelector('#examMode').dispatchEvent(new Event('change'));for(const [group,selected] of [['levelTags',['hard']],['topicTags',['recurrence']],['sourceTags',['new']]]){for(const input of document.querySelectorAll('#'+group+' input'))input.checked=selected.includes(input.value);}document.querySelector('#examCount').value='11';document.querySelector('#examCount').dispatchEvent(new Event('input'));`);
+ assert.equal(await run('document.querySelector("#newExam").disabled'),true);assert.ok(await run('document.querySelector("#poolSummary").textContent.includes("10 题")'));
+ await run('document.querySelector("#examCount").value="7";document.querySelector("#examCount").dispatchEvent(new Event("input"));document.querySelector("#newExam").click();document.querySelector("#acceptConfirm").click()');
+ assert.equal(await run('document.querySelectorAll(".exam-question").length'),7);assert.ok(await run('JSON.parse(localStorage.getItem("dengduck-math-exam-v1")).ids.every(id=>{const q=window.MATH_BATCHES.flatMap(b=>b.questions).find(q=>q.id===id);return q.batch===9&&q.topic==="recurrence"&&q.difficulty==="hard"})'));
+ await run(`{const bank=window.MATH_BATCHES.flatMap(b=>b.questions);[...document.querySelectorAll('.exam-question')].slice(0,6).forEach((card,i)=>{const q=bank.find(q=>card.id==='exam-q-'+q.id);card.querySelectorAll('input')[i===5?(q.answer+1)%4:q.answer].click();});}`);
+ await reload();assert.equal(await run('document.querySelectorAll(".exam-question input:checked").length'),6);assert.equal(await run('document.querySelector("#examCount").value'),'7');assert.deepEqual(await run('[...document.querySelectorAll("#topicTags input:checked")].map(i=>i.value)'),['recurrence']);
+ await run('document.querySelector("#finishExam").click();document.querySelector("#acceptConfirm").click()');assert.equal(await run('document.querySelector("#examResult h2").textContent'),'71.43 / 100 分');assert.equal(await run('document.querySelectorAll(".exam-feedback").length'),7);
+ await run('for(const button of document.querySelectorAll("[data-select=all]"))button.click();for(const input of document.querySelectorAll("#sourceTags input"))input.checked=input.value==="new";document.querySelector("#examCount").value="25";document.querySelector("#examCount").dispatchEvent(new Event("input"));document.querySelector("#newExam").click()');
+ assert.equal(await run('document.querySelectorAll("#examNav a").length'),25);assert.equal(await run('document.querySelectorAll(".exam-question").length'),20);
+ await run(`{const bank=window.MATH_BATCHES.flatMap(b=>b.questions);for(const card of document.querySelectorAll('.exam-question')){const q=bank.find(q=>card.id==='exam-q-'+q.id);card.querySelectorAll('input')[q.answer].click();}document.querySelector('#examPageNext').click();}`);
+ assert.equal(await run('document.querySelectorAll(".exam-question").length'),5);
+ await run(`{const bank=window.MATH_BATCHES.flatMap(b=>b.questions);for(const card of [...document.querySelectorAll('.exam-question')].slice(0,4)){const q=bank.find(q=>card.id==='exam-q-'+q.id);card.querySelectorAll('input')[q.answer].click();}document.querySelector('#examNav a').click();}`);
+ assert.equal(await run('document.querySelectorAll(".exam-question input:checked").length'),20);await reload();assert.ok(await run('document.querySelector("#examProgress").textContent.includes("24 / 25")'));
+ await run('document.querySelector("#finishExam").click();document.querySelector("#acceptConfirm").click()');assert.equal(await run('document.querySelector("#examResult h2").textContent'),'96 / 100 分');
+ await run('document.querySelector("#examPageNext").click()');assert.equal(await run('document.querySelectorAll(".exam-feedback").length'),5);assert.equal(await run('document.querySelectorAll(".exam-question input:disabled").length'),20);
+ for(const group of ['levelTags','topicTags','sourceTags']){await run(`document.querySelector('[data-group=${group}][data-select=none]').click()`);assert.equal(await run('document.querySelector("#newExam").disabled'),true);await run(`document.querySelector('[data-group=${group}][data-select=all]').click()`);}
+ for(const width of [320,390,1280]){await cdp('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<500});assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`custom settings overflow ${width}`);}
+ await run('document.querySelector("#settingsTitle").scrollIntoView()');await cdp('Page.captureScreenshot',{format:'png'}).then(p=>fs.writeFileSync(path.join(profile,'exam-custom.png'),Buffer.from(p.data,'base64')));
  assert.equal(errors.length,0,JSON.stringify(errors));
  console.log(`PASS: ${total} questions; ${families.length} families at 320px; exam grading, migration of old hell answers and papers, retention of other answers, offline and HTTP. Screenshots: ${profile}`);
 }finally{ws?.close();browser.kill();server?.close();}

@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 const base=new URL('../math-practice/data/',import.meta.url);
 const read=n=>JSON.parse(fs.readFileSync(new URL(n,base),'utf8'));
-const manifest=read('manifest.json'),bank=manifest.batches.flatMap(n=>read(`batch-${n}.json`).questions),questions=bank.filter(q=>q.difficulty==='hell');
+const manifest=read('manifest.json'),bank=manifest.batches.flatMap(n=>read(`batch-${n}.json`).questions),questions=bank.filter(q=>q.family.startsWith('hell-'));
 const L=String.raw;
 assert.equal(questions.length,500);assert.equal(manifest.hellRevision,2);
 const near=(a,b,id)=>assert.ok(Math.abs(a-b)<1e-7*Math.max(1,Math.abs(b)),`${id}: ${a} != ${b}`);

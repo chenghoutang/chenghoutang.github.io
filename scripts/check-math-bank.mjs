@@ -13,9 +13,9 @@ assert.equal(sandbox.window.MATH_MANIFEST.total,manifest.total);
 for(const batch of manifest.batches){
  const data=JSON.parse(read(`data/batch-${batch}.json`));
  vm.runInContext(read(`data/batch-${batch}.js`),sandbox);
- assert.equal(data.questions.length,batch===8?200:300);
+ assert.equal(data.questions.length,batch===9?100:batch===8?200:300);
  if(batch<=6){assert.equal(new Set(data.questions.map(q=>q.topic)).size,5);for(const level of ['easy','medium','hard'])assert.equal(data.questions.filter(q=>q.difficulty===level).length,100);}
- else assert.ok(data.questions.every(q=>q.difficulty==='hell'));
+ else if(batch<=8)assert.ok(data.questions.every(q=>q.difficulty==='hell'));else assert.equal(data.questions.length,100);
  for(const q of data.questions){
   assert.equal(q.id,`M${String(all.length+1).padStart(4,'0')}`);assert.equal(q.batch,batch);
   assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4,q.id);assert.ok(q.answer>=0&&q.answer<4);
@@ -33,8 +33,8 @@ for(const batch of manifest.batches){
 }
 assert.equal(all.length,manifest.total);assert.equal(new Set(all.map(q=>q.stem)).size,all.length);
 for(const count of families.values())assert.equal(count,10);
-for(const level of ['easy','medium','hard'])assert.equal(all.filter(q=>q.difficulty===level).length,600);
-assert.equal(all.filter(q=>q.difficulty==='hell').length,(manifest.batches.includes(7)?300:0)+(manifest.batches.includes(8)?200:0));
+for(const level of ['easy','medium','hard'])assert.equal(all.filter(q=>q.difficulty===level).length,600+(level==='hard'&&manifest.batches.includes(9)?50:0));
+assert.equal(all.filter(q=>q.difficulty==='hell').length,(manifest.batches.includes(7)?300:0)+(manifest.batches.includes(8)?200:0)+(manifest.batches.includes(9)?50:0));
 assert.equal(JSON.stringify(sandbox.window.MATH_BATCHES.flatMap(b=>b.questions)),JSON.stringify(all));
 const html=read('index.html');
 for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)){
@@ -45,7 +45,7 @@ for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)){
 const numeric=tex=>{if(/^-?\d+(?:\.\d+)?$/.test(tex))return +tex;const m=tex.match(/^(-?)\\frac\{(\d+)\}\{(\d+)\}$/);return m?(m[1]?-1:1)*m[2]/m[3]:NaN;};
 const eq=(x,y,id)=>assert.ok(Math.abs(x-y)<1e-6*Math.max(1,Math.abs(y)),`${id}: ${x} != ${y}`);
 for(const q of all){
- if(q.difficulty==='hell')continue;
+ if(q.difficulty==='hell'||q.batch===9)continue;
  const a=q.variant+1,v=Number(q.family.at(-1))-1,answer=q.options[q.answer];
  if(q.topic==='quadratic'&&q.difficulty==='hard'&&v===1){
   const lo=(1+Math.sqrt(1+4*a))/2,hi=a+1;

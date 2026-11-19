@@ -19,4 +19,20 @@ for(let n=0;n<500;n++){
 }
 assert.ok(seen.size>490);assert.throws(()=>exam.create(questions.filter(q=>q.difficulty!=='hell')));
 assert.equal(exam.durationSeconds,4*15+6*120+8*300+2*600);
+const all=exam.defaults(questions);assert.deepEqual(all.levels,['easy','medium','hard','hell']);assert.equal(all.topics.length,30);assert.equal(all.sources.length,3);
+assert.equal(exam.pool(questions,all).length,questions.length);
+for(const count of [1,7,21,55,100,questions.length]){
+ const custom=exam.create(questions,random,{...all,count});assert.equal(custom.ids.length,count);assert.equal(new Set(custom.ids).size,count);assert.deepEqual(exam.restore(custom,questions),custom);
+ custom.ids.forEach(id=>custom.answers[id]=byId.get(id).answer);assert.equal(exam.grade(custom,questions).score,100);delete custom.answers[custom.ids[0]];assert.equal(exam.grade(custom,questions).score,Math.round((count-1)/count*10000)/100);assert.equal(exam.grade(custom,questions).unanswered,1);
+ assert.equal(exam.target(custom,questions),custom.ids.reduce((n,id)=>n+byId.get(id).targetSeconds,0));
+}
+const restricted={...all,count:17,levels:['hard'],topics:['properties','recurrence'],sources:['new']};
+const filtered=exam.create(questions,random,restricted);assert.equal(filtered.ids.length,17);for(const id of filtered.ids){const q=byId.get(id);assert.equal(q.difficulty,'hard');assert.ok(restricted.topics.includes(q.topic));assert.equal(q.batch,9);}
+for(const field of ['levels','topics','sources'])assert.throws(()=>exam.create(questions,random,{...all,[field]:[]}));
+for(const count of [0,-1,1.5,NaN,Infinity,questions.length+1])assert.throws(()=>exam.create(questions,random,{...all,count}));
+assert.throws(()=>exam.create(questions,random,{...restricted,count:100}));
+assert.throws(()=>exam.create(questions,random,{...all,mode:'standard',levels:['hard']}));
+const tampered=JSON.parse(JSON.stringify(filtered));tampered.config.sources=['foundation'];assert.equal(exam.restore(tampered,questions),null);
+const legacy=exam.create(questions,random);legacy.version=2;delete legacy.config;const restoredLegacy=exam.restore(legacy,questions);assert.equal(restoredLegacy.version,3);assert.equal(restoredLegacy.config.mode,'standard');
 console.log('PASS: 500 randomized papers; 4/6/8/2 blueprint, no duplicate families, scoring, unanswered items and saved data validation.');
+console.log('PASS: custom counts 1–2400; intersected labels, empty/insufficient/invalid ranges, pagination-sized papers, proportional scores and legacy restoration.');

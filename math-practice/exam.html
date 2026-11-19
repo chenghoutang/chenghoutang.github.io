@@ -13,6 +13,7 @@
     <script src="data/batch-6.js" defer></script>
     <script src="data/batch-7.js" defer></script>
     <script src="data/batch-8.js" defer></script>
+    <script src="data/batch-9.js" defer></script>
     <!-- batches-end -->
  <script src="exam-engine.js" defer></script><script src="exam.js" defer></script>
 </head>
@@ -20,10 +21,19 @@
  <header class="topbar"><a class="pill" href="index.html">← 数学练习本</a><span>学习 / 数学 / 出卷</span></header>
  <main class="page">
   <section class="intro"><span class="eyebrow">ONE PAPER, ONE LITTLE CHALLENGE</span><h1>数学小考场 📝</h1><p>慢慢想，认真写，你的思路会发光。(｡•̀ᴗ-)✧</p></section>
-  <section class="paper exam-entry"><div><h2>20 道单项选择题 · 满分 100 分</h2><p>简单 4 题 · 中等 6 题 · 困难 8 题 · 地狱 2 题</p><p class="note">每题 5 分，不倒扣。建议用时 73 分钟，超时可以继续。交卷前不展示答案，选择后可修改；刷新可继续当前试卷。新卷从全题库抽取，优先选择不同题型。</p></div><button id="newExam" class="pill primary" type="button">随机出卷，开始答题</button></section>
+  <section class="paper exam-settings" aria-labelledby="settingsTitle">
+   <h2 id="settingsTitle">按自己的节奏出卷 (ง •̀_•́)ง</h2>
+   <div class="exam-controls"><label>出卷模式<select id="examMode"><option value="custom">自定义题量与范围</option><option value="standard">经典 20 题 · 4 / 6 / 8 / 2</option></select></label><label>题目数量<input id="examCount" type="number" min="1" value="20" step="1" inputmode="numeric" aria-describedby="poolSummary"></label></div>
+   <fieldset class="tag-group"><legend>难度</legend><div class="tag-actions"><button class="pill" type="button" data-group="levelTags" data-select="all">全选</button><button class="pill" type="button" data-group="levelTags" data-select="none">全不选</button></div><div id="levelTags" class="tag-options"></div></fieldset>
+   <fieldset class="tag-group"><legend>知识模块</legend><div class="tag-actions"><button class="pill" type="button" data-group="topicTags" data-select="all">全选</button><button class="pill" type="button" data-group="topicTags" data-select="none">全不选</button></div><div id="topicTags" class="tag-options"></div></fieldset>
+   <fieldset class="tag-group"><legend>题库来源</legend><div class="tag-actions"><button class="pill" type="button" data-group="sourceTags" data-select="all">全选</button><button class="pill" type="button" data-group="sourceTags" data-select="none">全不选</button></div><div id="sourceTags" class="tag-options"></div></fieldset>
+   <p id="poolSummary" class="note" role="status"></p><p id="settingsError" class="settings-error" role="alert" hidden></p>
+   <p class="note">各组标签默认全选，可自行取消；同时满足所选难度、模块和来源的题才会入卷。自定义模式从范围内随机抽取，优先覆盖不同题型。总分 100 分、每题等权，不倒扣，分数保留两位小数。建议用时按实际抽到的题目累计，超时可继续。</p>
+   <button id="newExam" class="pill primary" type="button">按当前设置出卷</button>
+  </section>
   <p id="examMessage" role="status" class="note"></p>
   <section id="examSession" hidden>
-   <section class="paper exam-status"><div class="timer-bar"><span id="examTimer" role="timer">用时 00:00</span><span class="note">建议 73 分钟</span><button id="examPause" class="pill" type="button">暂停计时</button><span id="examProgress" role="status"></span></div><nav id="examNav" class="exam-nav" aria-label="试卷答题卡"></nav></section>
+   <section class="paper exam-status"><p id="paperSummary" class="note"></p><div class="timer-bar"><span id="examTimer" role="timer">用时 00:00</span><span id="examTarget" class="note"></span><button id="examPause" class="pill" type="button">暂停计时</button><span id="examProgress" role="status"></span></div><p class="note">点击题号跳转，每页显示 20 题；修改上方设置只影响下一张试卷。</p><nav id="examNav" class="exam-nav" aria-label="试卷答题卡"></nav><nav class="pagination"><button id="examPagePrev" class="pill" type="button">上一页</button><span id="examPageInfo"></span><button id="examPageNext" class="pill" type="button">下一页</button></nav></section>
    <section id="examResult" class="paper exam-result" tabindex="-1" hidden aria-label="试卷成绩"></section>
    <form id="examForm"><div id="examQuestions"></div><div class="paper exam-entry"><p id="examSubmitHint" class="note">完成后交卷，查看成绩与解析。</p><button id="finishExam" class="pill primary" type="submit">提交试卷</button></div></form>
   </section>
