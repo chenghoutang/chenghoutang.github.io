@@ -9,6 +9,26 @@ const rows = JSON.parse(fs.readFileSync(path.join(root, 'Chinese_DATA.json'), 'u
 const html = fs.readFileSync(path.join(root, 'pinyin.html'), 'utf8');
 const inline = JSON.parse(html.match(/const EMBEDDED_WORD_DATA = (\[[\s\S]*?\n\]);/)[1]);
 assert.deepEqual(inline, rows, 'Page must use the authoritative question bank.');
+const expansion = JSON.parse(fs.readFileSync(path.join(root, 'scripts/pinyin-expansion-2026-11.json'), 'utf8'));
+assert.equal(expansion.records.length, expansion.addedCount);
+assert.ok(rows.length >= expansion.originalCount + expansion.addedCount);
+const addedKeys = new Set();
+for (const {text, target, right, wrong, verification} of expansion.records) {
+    const key = JSON.stringify([text, target]);
+    assert.ok(!addedKeys.has(key), `Duplicate addition: ${key}`); addedKeys.add(key);
+    assert.deepEqual(rows.find(row => row.text === text && row.target === target), {text, target, right, wrong});
+    assert.equal(verification.dictionary.status, 200, text);
+    assert.equal(verification.dictionary.reading, right, text);
+    assert.match(verification.dictionary.url, /^https:\/\/(?:www\.)?zdic\.net\/hans\//, text);
+    assert.ok(Number.isFinite(Date.parse(verification.dictionary.fetchedAt)), text);
+    const term = text.replace(/（.*?）/g, '');
+    const positions = [...term].flatMap((char, index) => char === target ? [index] : []);
+    for (const pinyin of [verification.dictionary.pinyin, verification.phrasePinyin]) {
+        const syllables = pinyin.split(/\s+/);
+        assert.equal(syllables.length, [...term].length, text);
+        positions.forEach(position => assert.equal(syllables[position], right, text));
+    }
+}
 
 const answer = (text, target) => {
     const found = rows.filter(row => row.text === text && row.target === target);
@@ -42,7 +62,7 @@ for (const row of rows) {
     assert.ok(row.wrong.length && !row.wrong.includes(row.right));
     assert.equal(new Set(row.wrong).size, row.wrong.length);
     assert.ok(!/[ăĕĭŏŭ]/.test([row.right, ...row.wrong].join('')));
-    const key = JSON.stringify([row.text, row.target, row.right]);
+    const key = JSON.stringify([row.text, row.target]);
     assert.ok(!keys.has(key)); keys.add(key);
 }
 
@@ -80,6 +100,24 @@ for (let i = 0; i < 10000; i++) {
     });
 }
 assert.match(vm.runInContext('renderWord("臂膀", "膀")', sandbox), /臂<strong class="tested-char">膀<\/strong>/);
+// Every new record must be usable in either question type, including different
+// targets within the same word. Force each record into a four-word test pool.
+const pool = [];
+for (const row of rows) if (!pool.some(item => item.text === row.text)) {
+    pool.push(row); if (pool.length === 4) break;
+}
+for (const {text, target} of expansion.records) {
+    sandbox.additionPool = [rows.find(row => row.text === text && row.target === target), ...pool.filter(row => row.text !== text).slice(0, 3)];
+    for (const method of ['generateThreeWrongOneCorrect', 'generateThreeCorrectOneWrong']) {
+        vm.runInContext('wordData = additionPool; ' + method + '()', sandbox);
+        const q = vm.runInContext('currentQuestion', sandbox);
+        assert.equal(q.options.length, 4);
+        assert.equal(q.options.filter(option => option.isCorrectOption).length, 1);
+        assert.ok(q.options.some(option => option.word === text && option.target === target));
+        assert.equal(q.options.filter(option => option.isPairingCorrect).length, q.type === 'correct' ? 1 : 3);
+    }
+}
+vm.runInContext('wordData = EMBEDDED_WORD_DATA', sandbox);
 // People who practiced before a correction must not keep seeing stale answers.
 const oldWrong = [
     { text: '佛狸祠', target: '狸', rightPronunciation: 'bì', wrongCount: 4, lastWrong: '2026-11-01' },

@@ -15,7 +15,7 @@ for (const row of data) {
     assert.ok(Array.isArray(row.wrong) && row.wrong.length && row.wrong.every(p => typeof p === 'string' && p.length));
     assert.ok(!row.wrong.includes(row.right), `${row.text}: correct pronunciation used as a distractor`);
     assert.ok(!/[ăĕĭŏŭ]/.test([row.right, ...row.wrong].join(' ')), `${row.text}: invalid third-tone mark`);
-    const key = JSON.stringify([row.text, row.target, row.right]);
+    const key = JSON.stringify([row.text, row.target]);
     assert.ok(!seen.has(key), `${row.text}: duplicate question`);
     seen.add(key);
 }
