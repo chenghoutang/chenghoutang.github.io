@@ -19,7 +19,7 @@
         "2\\sin(4x)"
       ],
       "answer": 1,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=2x。\n\n关键推导\n$$\n2\\sin(2x)\\cos(2x)=\\sin(2\\cdot2x)=\\sin(4x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=2x$。\n\n关键推导\n$$\n2\\sin(2x)\\cos(2x)=\\sin(2\\cdot2x)=\\sin(4x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0602",
@@ -39,7 +39,7 @@
         "\\sin^2(3x)"
       ],
       "answer": 0,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=3x。\n\n关键推导\n$$\n2\\sin(3x)\\cos(3x)=\\sin(2\\cdot3x)=\\sin(6x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=3x$。\n\n关键推导\n$$\n2\\sin(3x)\\cos(3x)=\\sin(2\\cdot3x)=\\sin(6x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0603",
@@ -59,7 +59,7 @@
         "\\sin(8x)"
       ],
       "answer": 3,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=4x。\n\n关键推导\n$$\n2\\sin(4x)\\cos(4x)=\\sin(2\\cdot4x)=\\sin(8x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=4x$。\n\n关键推导\n$$\n2\\sin(4x)\\cos(4x)=\\sin(2\\cdot4x)=\\sin(8x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0604",
@@ -79,7 +79,7 @@
         "\\cos(10x)"
       ],
       "answer": 2,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=5x。\n\n关键推导\n$$\n2\\sin(5x)\\cos(5x)=\\sin(2\\cdot5x)=\\sin(10x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=5x$。\n\n关键推导\n$$\n2\\sin(5x)\\cos(5x)=\\sin(2\\cdot5x)=\\sin(10x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0605",
@@ -99,7 +99,7 @@
         "2\\sin(12x)"
       ],
       "answer": 1,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=6x。\n\n关键推导\n$$\n2\\sin(6x)\\cos(6x)=\\sin(2\\cdot6x)=\\sin(12x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=6x$。\n\n关键推导\n$$\n2\\sin(6x)\\cos(6x)=\\sin(2\\cdot6x)=\\sin(12x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0606",
@@ -119,7 +119,7 @@
         "\\sin^2(7x)"
       ],
       "answer": 0,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=7x。\n\n关键推导\n$$\n2\\sin(7x)\\cos(7x)=\\sin(2\\cdot7x)=\\sin(14x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=7x$。\n\n关键推导\n$$\n2\\sin(7x)\\cos(7x)=\\sin(2\\cdot7x)=\\sin(14x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0607",
@@ -139,7 +139,7 @@
         "\\sin(16x)"
       ],
       "answer": 3,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=8x。\n\n关键推导\n$$\n2\\sin(8x)\\cos(8x)=\\sin(2\\cdot8x)=\\sin(16x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=8x$。\n\n关键推导\n$$\n2\\sin(8x)\\cos(8x)=\\sin(2\\cdot8x)=\\sin(16x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0608",
@@ -159,7 +159,7 @@
         "\\cos(18x)"
       ],
       "answer": 2,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=9x。\n\n关键推导\n$$\n2\\sin(9x)\\cos(9x)=\\sin(2\\cdot9x)=\\sin(18x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=9x$。\n\n关键推导\n$$\n2\\sin(9x)\\cos(9x)=\\sin(2\\cdot9x)=\\sin(18x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0609",
@@ -179,7 +179,7 @@
         "2\\sin(20x)"
       ],
       "answer": 1,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=10x。\n\n关键推导\n$$\n2\\sin(10x)\\cos(10x)=\\sin(2\\cdot10x)=\\sin(20x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=10x$。\n\n关键推导\n$$\n2\\sin(10x)\\cos(10x)=\\sin(2\\cdot10x)=\\sin(20x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0610",
@@ -199,7 +199,7 @@
         "\\sin^2(11x)"
       ],
       "answer": 0,
-      "explanation": "利用二倍角公式 2sin t cos t=sin(2t)，取 t=11x。\n\n关键推导\n$$\n2\\sin(11x)\\cos(11x)=\\sin(2\\cdot11x)=\\sin(22x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
+      "explanation": "利用二倍角公式 $2\\sin  t \\cos  t=\\sin (2t)$，取 $t=11x$。\n\n关键推导\n$$\n2\\sin(11x)\\cos(11x)=\\sin(2\\cdot11x)=\\sin(22x)\n$$\n二倍角公式改变的是整个角，不是把正弦值乘二。"
     },
     {
       "id": "M0611",
@@ -219,7 +219,7 @@
         "2"
       ],
       "answer": 0,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0612",
@@ -239,7 +239,7 @@
         "1"
       ],
       "answer": 3,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0613",
@@ -259,7 +259,7 @@
         "\\frac{1}{4}"
       ],
       "answer": 2,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0614",
@@ -279,7 +279,7 @@
         "\\frac{1}{25}"
       ],
       "answer": 1,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0615",
@@ -299,7 +299,7 @@
         "6"
       ],
       "answer": 0,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0616",
@@ -319,7 +319,7 @@
         "1"
       ],
       "answer": 3,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0617",
@@ -339,7 +339,7 @@
         "\\frac{1}{8}"
       ],
       "answer": 2,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0618",
@@ -359,7 +359,7 @@
         "\\frac{1}{81}"
       ],
       "answer": 1,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0619",
@@ -379,7 +379,7 @@
         "10"
       ],
       "answer": 0,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0620",
@@ -399,7 +399,7 @@
         "1"
       ],
       "answer": 3,
-      "explanation": "同角平方关系 sin²θ+cos²θ=1，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
+      "explanation": "同角平方关系 $\\sin ^{2}\\theta +\\cos ^{2}\\theta =1$，与具体角度无关。\n\n关键推导\n$$\n\\sin^2\\theta+\\cos^2\\theta=1\n$$\n这是同角平方恒等式，已知正弦的具体值不影响结果。"
     },
     {
       "id": "M0621",
@@ -419,7 +419,7 @@
         "-\\frac{3}{5}"
       ],
       "answer": 0,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{4}{5}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{4}{5}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{4}{5}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{4}{5}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0622",
@@ -439,7 +439,7 @@
         "\\frac{3}{5}"
       ],
       "answer": 3,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{3}{5}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{3}{5}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{3}{5}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{3}{5}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0623",
@@ -459,7 +459,7 @@
         "\\frac{4}{17}"
       ],
       "answer": 2,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{8}{17}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{8}{17}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{8}{17}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{8}{17}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0624",
@@ -479,7 +479,7 @@
         "-\\frac{5}{12}"
       ],
       "answer": 1,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{5}{13}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{5}{13}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{5}{13}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{5}{13}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0625",
@@ -499,7 +499,7 @@
         "-\\frac{35}{37}"
       ],
       "answer": 0,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{12}{37}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{12}{37}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{12}{37}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{12}{37}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0626",
@@ -519,7 +519,7 @@
         "\\frac{7}{25}"
       ],
       "answer": 3,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{7}{25}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{7}{25}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{7}{25}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{7}{25}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0627",
@@ -539,7 +539,7 @@
         "\\frac{8}{65}"
       ],
       "answer": 2,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{16}{65}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{16}{65}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{16}{65}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{16}{65}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0628",
@@ -559,7 +559,7 @@
         "-\\frac{9}{40}"
       ],
       "answer": 1,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{9}{41}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{9}{41}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{9}{41}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{9}{41}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0629",
@@ -579,7 +579,7 @@
         "-\\frac{99}{101}"
       ],
       "answer": 0,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{20}{101}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{20}{101}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{20}{101}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{20}{101}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0630",
@@ -599,7 +599,7 @@
         "\\frac{11}{61}"
       ],
       "answer": 3,
-      "explanation": "sin2x=2tan x/(1+tan²x)，代入得到 $\\frac{11}{61}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{11}{61}\n$$\n正切有定义保证 cos x≠0，才可以分子分母同时除以 cos²x。"
+      "explanation": "$\\sin 2x=2\\tan  x/(1+\\tan ^{2}x)$，代入得到 $\\frac{11}{61}$。\n\n关键推导\n$$\n\\sin2x=\\frac{2\\sin x\\cos x}{\\sin^2x+\\cos^2x}=\\frac{2\\tan x}{1+\\tan^2x}=\\frac{11}{61}\n$$\n正切有定义保证 $\\cos  x\\ne 0$，才可以分子分母同时除以 $\\cos ^{2}x$。"
     },
     {
       "id": "M0631",
@@ -619,7 +619,7 @@
         "\\sqrt{\\frac{3}{2}}"
       ],
       "answer": 3,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{3}{2}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{3}{2},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{3}{2}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{3}{2}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{3}{2},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{3}{2}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0632",
@@ -639,7 +639,7 @@
         "\\sqrt{\\frac{2}{3}}"
       ],
       "answer": 2,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{4}{3}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{4}{3},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{4}{3}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{4}{3}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{4}{3},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{4}{3}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0633",
@@ -659,7 +659,7 @@
         "\\frac{5}{4}"
       ],
       "answer": 1,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{5}{4}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{5}{4},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{5}{4}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{5}{4}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{5}{4},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{5}{4}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0634",
@@ -679,7 +679,7 @@
         "\\frac{1}{5}"
       ],
       "answer": 0,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{6}{5}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{6}{5},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{6}{5}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{6}{5}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{6}{5},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{6}{5}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0635",
@@ -699,7 +699,7 @@
         "\\sqrt{\\frac{7}{6}}"
       ],
       "answer": 3,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{7}{6}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{7}{6},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{7}{6}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{7}{6}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{7}{6},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{7}{6}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0636",
@@ -719,7 +719,7 @@
         "\\sqrt{\\frac{6}{7}}"
       ],
       "answer": 2,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{8}{7}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{8}{7},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{8}{7}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{8}{7}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{8}{7},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{8}{7}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0637",
@@ -739,7 +739,7 @@
         "\\frac{9}{8}"
       ],
       "answer": 1,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{9}{8}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{9}{8},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{9}{8}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{9}{8}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{9}{8},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{9}{8}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0638",
@@ -759,7 +759,7 @@
         "\\frac{1}{9}"
       ],
       "answer": 0,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{10}{9}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{10}{9},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{10}{9}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{10}{9}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{10}{9},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{10}{9}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0639",
@@ -779,7 +779,7 @@
         "\\sqrt{\\frac{11}{10}}"
       ],
       "answer": 3,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{11}{10}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{11}{10},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{11}{10}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{11}{10}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{11}{10},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{11}{10}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0640",
@@ -799,7 +799,7 @@
         "\\sqrt{\\frac{10}{11}}"
       ],
       "answer": 2,
-      "explanation": "将和平方：(sin x+cos x)²=1+2sin x cos x=$\\frac{12}{11}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{12}{11},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{12}{11}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
+      "explanation": "将和平方：$(\\sin  x+\\cos  x)^{2}=1+2\\sin  x \\cos  x=\\frac{12}{11}$。由和为正取正平方根。\n\n关键推导\n$$\n\\begin{aligned}(\\sin x+\\cos x)^2&=1+2\\sin x\\cos x=\\frac{12}{11},\\\\\\sin x+\\cos x>0&\\Longrightarrow\\sin x+\\cos x=\\sqrt{\\frac{12}{11}}.\\end{aligned}\n$$\n平方后开方有正负两种可能，题目给出的和为正决定选择正根。"
     },
     {
       "id": "M0641",
@@ -819,7 +819,7 @@
         "\\left(1\\sqrt2-1,\\frac{5}{4}\\right)"
       ],
       "answer": 3,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²-1t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/2 位于区间内；判别式正给 m<$\\frac{5}{4}$；两端值正给 m>1√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{2}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{4},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{2}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-1t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{2}$ 位于区间内；判别式正给 $m<\\frac{5}{4}$；两端值正给 $m>1\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{2}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{4},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{2}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0642",
@@ -839,7 +839,7 @@
         "\\left[\\frac{2}{3}\\sqrt2-1,\\frac{10}{9}\\right]"
       ],
       "answer": 2,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{2}{3}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/3 位于区间内；判别式正给 m<$\\frac{10}{9}$；两端值正给 m>$\\frac{2}{3}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{3}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{9},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{3}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{2}{3}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{3}$ 位于区间内；判别式正给 $m<\\frac{10}{9}$；两端值正给 $m>\\frac{2}{3}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{3}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{9},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{3}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0643",
@@ -859,7 +859,7 @@
         "(-1,1)"
       ],
       "answer": 1,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{1}{2}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/4 位于区间内；判别式正给 m<$\\frac{17}{16}$；两端值正给 m>$\\frac{1}{2}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{4}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{16},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{4}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{1}{2}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{4}$ 位于区间内；判别式正给 $m<\\frac{17}{16}$；两端值正给 $m>\\frac{1}{2}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{4}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{16},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{4}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0644",
@@ -879,7 +879,7 @@
         "\\left(1,\\frac{26}{25}\\right)"
       ],
       "answer": 0,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{2}{5}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/5 位于区间内；判别式正给 m<$\\frac{26}{25}$；两端值正给 m>$\\frac{2}{5}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{5}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{25},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{5}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{2}{5}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{5}$ 位于区间内；判别式正给 $m<\\frac{26}{25}$；两端值正给 $m>\\frac{2}{5}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{5}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{25},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{5}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0645",
@@ -899,7 +899,7 @@
         "\\left(\\frac{1}{3}\\sqrt2-1,\\frac{37}{36}\\right)"
       ],
       "answer": 3,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{1}{3}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/6 位于区间内；判别式正给 m<$\\frac{37}{36}$；两端值正给 m>$\\frac{1}{3}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{6}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{36},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{6}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{1}{3}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{6}$ 位于区间内；判别式正给 $m<\\frac{37}{36}$；两端值正给 $m>\\frac{1}{3}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{6}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{36},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{6}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0646",
@@ -919,7 +919,7 @@
         "\\left[\\frac{2}{7}\\sqrt2-1,\\frac{50}{49}\\right]"
       ],
       "answer": 2,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{2}{7}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/7 位于区间内；判别式正给 m<$\\frac{50}{49}$；两端值正给 m>$\\frac{2}{7}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{7}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{49},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{7}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{2}{7}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{7}$ 位于区间内；判别式正给 $m<\\frac{50}{49}$；两端值正给 $m>\\frac{2}{7}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{7}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{49},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{7}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0647",
@@ -939,7 +939,7 @@
         "(-1,1)"
       ],
       "answer": 1,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{1}{4}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/8 位于区间内；判别式正给 m<$\\frac{65}{64}$；两端值正给 m>$\\frac{1}{4}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{8}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{64},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{8}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{1}{4}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{8}$ 位于区间内；判别式正给 $m<\\frac{65}{64}$；两端值正给 $m>\\frac{1}{4}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{8}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{64},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{8}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0648",
@@ -959,7 +959,7 @@
         "\\left(1,\\frac{82}{81}\\right)"
       ],
       "answer": 0,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{2}{9}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/9 位于区间内；判别式正给 m<$\\frac{82}{81}$；两端值正给 m>$\\frac{2}{9}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{9}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{81},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{9}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{2}{9}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{9}$ 位于区间内；判别式正给 $m<\\frac{82}{81}$；两端值正给 $m>\\frac{2}{9}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{9}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{81},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{9}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0649",
@@ -979,7 +979,7 @@
         "\\left(\\frac{1}{5}\\sqrt2-1,\\frac{101}{100}\\right)"
       ],
       "answer": 3,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{1}{5}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/10 位于区间内；判别式正给 m<$\\frac{101}{100}$；两端值正给 m>$\\frac{1}{5}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{10}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{100},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{10}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{1}{5}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{10}$ 位于区间内；判别式正给 $m<\\frac{101}{100}$；两端值正给 $m>\\frac{1}{5}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{10}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{100},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{10}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0650",
@@ -999,7 +999,7 @@
         "\\left[\\frac{2}{11}\\sqrt2-1,\\frac{122}{121}\\right]"
       ],
       "answer": 2,
-      "explanation": "设 t=sin x+cos x∈[-√2,√2]，每个内部值对应两个角，两个端点各对应一个角。方程化为 t²$-\\frac{2}{11}$t+m-1=0。需有两个不同根均在 (-√2,√2)。对称轴 t=1/11 位于区间内；判别式正给 m<$\\frac{122}{121}$；两端值正给 m>$\\frac{2}{11}$√2-1。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{11}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{121},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{11}-1.\\end{aligned}\n$$\n每个内部 t 对应两个 x，两个端点各只有一个 x。故要四根，需要两个不同 t 都严格在内部；对称轴 1/a 在内部保证这些条件充分。"
+      "explanation": "设 $t=\\sin  x+\\cos  x\\in [-\\sqrt{2},\\sqrt{2}]$，每个内部值对应两个角，两个端点各对应一个角。方程化为 $t^{2}-\\frac{2}{11}t+m-1=0$。需有两个不同根均在 $(-\\sqrt{2},\\sqrt{2})$。对称轴 $t=\\frac{1}{11}$ 位于区间内；判别式正给 $m<\\frac{122}{121}$；两端值正给 $m>\\frac{2}{11}\\sqrt{2}-1$。取交集，端点均排除。\n\n关键推导\n$$\n\\begin{aligned}t&=\\sin x+\\cos x\\in[-\\sqrt2,\\sqrt2],\\\\g(t)&=t^2-\\frac2{11}t+m-1,\\\\\\Delta>0&\\iff m<1+\\frac1{121},\\\\g(\\sqrt2)>0,\\ g(-\\sqrt2)>0&\\iff m>\\frac{2\\sqrt2}{11}-1.\\end{aligned}\n$$\n每个内部 $t$ 对应两个 $x$，两个端点各只有一个 $x$。故要四根，需要两个不同 $t$ 都严格在内部；对称轴 $1/a$ 在内部保证这些条件充分。"
     },
     {
       "id": "M0651",
@@ -1019,7 +1019,7 @@
         "[\\frac{1}{3},3]"
       ],
       "answer": 2,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=2(t-1)。存在角 x 的充要条件为 4(t-1)²≤1+t²，即 (3)t²-8t+3≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{2+\\sin x}{2+\\cos x}&\\iff\\sin x-t\\cos x=2(t-1),\\\\\\exists x&\\iff |2(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(3)t^2-8t+3\\le0,\\\\t_\\pm&=\\frac{4\\pm\\sqrt{7}}{3}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=2(t-1)$。存在角 $x$ 的充要条件为 $4(t-1)^{2}\\le 1+t^{2}$，即 $(3)t^{2}-8t+3\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{2+\\sin x}{2+\\cos x}&\\iff\\sin x-t\\cos x=2(t-1),\\\\\\exists x&\\iff |2(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(3)t^2-8t+3\\le0,\\\\t_\\pm&=\\frac{4\\pm\\sqrt{7}}{3}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0652",
@@ -1039,7 +1039,7 @@
         "[0,2]"
       ],
       "answer": 1,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=3(t-1)。存在角 x 的充要条件为 9(t-1)²≤1+t²，即 (8)t²-18t+8≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{3+\\sin x}{3+\\cos x}&\\iff\\sin x-t\\cos x=3(t-1),\\\\\\exists x&\\iff |3(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(8)t^2-18t+8\\le0,\\\\t_\\pm&=\\frac{9\\pm\\sqrt{17}}{8}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=3(t-1)$。存在角 $x$ 的充要条件为 $9(t-1)^{2}\\le 1+t^{2}$，即 $(8)t^{2}-18t+8\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{3+\\sin x}{3+\\cos x}&\\iff\\sin x-t\\cos x=3(t-1),\\\\\\exists x&\\iff |3(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(8)t^2-18t+8\\le0,\\\\t_\\pm&=\\frac{9\\pm\\sqrt{17}}{8}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0653",
@@ -1059,7 +1059,7 @@
         "\\left[1,\\frac{5}{3}\\right]"
       ],
       "answer": 0,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=4(t-1)。存在角 x 的充要条件为 16(t-1)²≤1+t²，即 (15)t²-32t+15≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{4+\\sin x}{4+\\cos x}&\\iff\\sin x-t\\cos x=4(t-1),\\\\\\exists x&\\iff |4(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(15)t^2-32t+15\\le0,\\\\t_\\pm&=\\frac{16\\pm\\sqrt{31}}{15}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=4(t-1)$。存在角 $x$ 的充要条件为 $16(t-1)^{2}\\le 1+t^{2}$，即 $(15)t^{2}-32t+15\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{4+\\sin x}{4+\\cos x}&\\iff\\sin x-t\\cos x=4(t-1),\\\\\\exists x&\\iff |4(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(15)t^2-32t+15\\le0,\\\\t_\\pm&=\\frac{16\\pm\\sqrt{31}}{15}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0654",
@@ -1079,7 +1079,7 @@
         "\\left[\\frac{25-\\sqrt{49}}{24},\\frac{25+\\sqrt{49}}{24}\\right]"
       ],
       "answer": 3,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=5(t-1)。存在角 x 的充要条件为 25(t-1)²≤1+t²，即 (24)t²-50t+24≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{5+\\sin x}{5+\\cos x}&\\iff\\sin x-t\\cos x=5(t-1),\\\\\\exists x&\\iff |5(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(24)t^2-50t+24\\le0,\\\\t_\\pm&=\\frac{25\\pm\\sqrt{49}}{24}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=5(t-1)$。存在角 $x$ 的充要条件为 $25(t-1)^{2}\\le 1+t^{2}$，即 $(24)t^{2}-50t+24\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{5+\\sin x}{5+\\cos x}&\\iff\\sin x-t\\cos x=5(t-1),\\\\\\exists x&\\iff |5(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(24)t^2-50t+24\\le0,\\\\t_\\pm&=\\frac{25\\pm\\sqrt{49}}{24}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0655",
@@ -1099,7 +1099,7 @@
         "[\\frac{5}{7},\\frac{7}{5}]"
       ],
       "answer": 2,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=6(t-1)。存在角 x 的充要条件为 36(t-1)²≤1+t²，即 (35)t²-72t+35≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{6+\\sin x}{6+\\cos x}&\\iff\\sin x-t\\cos x=6(t-1),\\\\\\exists x&\\iff |6(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(35)t^2-72t+35\\le0,\\\\t_\\pm&=\\frac{36\\pm\\sqrt{71}}{35}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=6(t-1)$。存在角 $x$ 的充要条件为 $36(t-1)^{2}\\le 1+t^{2}$，即 $(35)t^{2}-72t+35\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{6+\\sin x}{6+\\cos x}&\\iff\\sin x-t\\cos x=6(t-1),\\\\\\exists x&\\iff |6(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(35)t^2-72t+35\\le0,\\\\t_\\pm&=\\frac{36\\pm\\sqrt{71}}{35}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0656",
@@ -1119,7 +1119,7 @@
         "[0,2]"
       ],
       "answer": 1,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=7(t-1)。存在角 x 的充要条件为 49(t-1)²≤1+t²，即 (48)t²-98t+48≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{7+\\sin x}{7+\\cos x}&\\iff\\sin x-t\\cos x=7(t-1),\\\\\\exists x&\\iff |7(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(48)t^2-98t+48\\le0,\\\\t_\\pm&=\\frac{49\\pm\\sqrt{97}}{48}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=7(t-1)$。存在角 $x$ 的充要条件为 $49(t-1)^{2}\\le 1+t^{2}$，即 $(48)t^{2}-98t+48\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{7+\\sin x}{7+\\cos x}&\\iff\\sin x-t\\cos x=7(t-1),\\\\\\exists x&\\iff |7(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(48)t^2-98t+48\\le0,\\\\t_\\pm&=\\frac{49\\pm\\sqrt{97}}{48}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0657",
@@ -1139,7 +1139,7 @@
         "\\left[1,\\frac{9}{7}\\right]"
       ],
       "answer": 0,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=8(t-1)。存在角 x 的充要条件为 64(t-1)²≤1+t²，即 (63)t²-128t+63≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{8+\\sin x}{8+\\cos x}&\\iff\\sin x-t\\cos x=8(t-1),\\\\\\exists x&\\iff |8(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(63)t^2-128t+63\\le0,\\\\t_\\pm&=\\frac{64\\pm\\sqrt{127}}{63}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=8(t-1)$。存在角 $x$ 的充要条件为 $64(t-1)^{2}\\le 1+t^{2}$，即 $(63)t^{2}-128t+63\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{8+\\sin x}{8+\\cos x}&\\iff\\sin x-t\\cos x=8(t-1),\\\\\\exists x&\\iff |8(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(63)t^2-128t+63\\le0,\\\\t_\\pm&=\\frac{64\\pm\\sqrt{127}}{63}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0658",
@@ -1159,7 +1159,7 @@
         "\\left[\\frac{81-\\sqrt{161}}{80},\\frac{81+\\sqrt{161}}{80}\\right]"
       ],
       "answer": 3,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=9(t-1)。存在角 x 的充要条件为 81(t-1)²≤1+t²，即 (80)t²-162t+80≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{9+\\sin x}{9+\\cos x}&\\iff\\sin x-t\\cos x=9(t-1),\\\\\\exists x&\\iff |9(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(80)t^2-162t+80\\le0,\\\\t_\\pm&=\\frac{81\\pm\\sqrt{161}}{80}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=9(t-1)$。存在角 $x$ 的充要条件为 $81(t-1)^{2}\\le 1+t^{2}$，即 $(80)t^{2}-162t+80\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{9+\\sin x}{9+\\cos x}&\\iff\\sin x-t\\cos x=9(t-1),\\\\\\exists x&\\iff |9(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(80)t^2-162t+80\\le0,\\\\t_\\pm&=\\frac{81\\pm\\sqrt{161}}{80}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0659",
@@ -1179,7 +1179,7 @@
         "[\\frac{9}{11},\\frac{11}{9}]"
       ],
       "answer": 2,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=10(t-1)。存在角 x 的充要条件为 100(t-1)²≤1+t²，即 (99)t²-200t+99≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{10+\\sin x}{10+\\cos x}&\\iff\\sin x-t\\cos x=10(t-1),\\\\\\exists x&\\iff |10(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(99)t^2-200t+99\\le0,\\\\t_\\pm&=\\frac{100\\pm\\sqrt{199}}{99}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=10(t-1)$。存在角 $x$ 的充要条件为 $100(t-1)^{2}\\le 1+t^{2}$，即 $(99)t^{2}-200t+99\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{10+\\sin x}{10+\\cos x}&\\iff\\sin x-t\\cos x=10(t-1),\\\\\\exists x&\\iff |10(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(99)t^2-200t+99\\le0,\\\\t_\\pm&=\\frac{100\\pm\\sqrt{199}}{99}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0660",
@@ -1199,7 +1199,7 @@
         "[0,2]"
       ],
       "answer": 1,
-      "explanation": "分母恒正。令 f(x)=t，化为 sin x-t cos x=11(t-1)。存在角 x 的充要条件为 121(t-1)²≤1+t²，即 (120)t²-242t+120≤0。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{11+\\sin x}{11+\\cos x}&\\iff\\sin x-t\\cos x=11(t-1),\\\\\\exists x&\\iff |11(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(120)t^2-242t+120\\le0,\\\\t_\\pm&=\\frac{121\\pm\\sqrt{241}}{120}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 t 都可达，端点亦可取。"
+      "explanation": "分母恒正。令 $f(x)=t$，化为 $\\sin  x-t \\cos  x=11(t-1)$。存在角 $x$ 的充要条件为 $121(t-1)^{2}\\le 1+t^{2}$，即 $(120)t^{2}-242t+120\\le 0$。解该二次不等式得到闭区间，等号对应可取的角。\n\n关键推导\n$$\n\\begin{aligned}t=\\frac{11+\\sin x}{11+\\cos x}&\\iff\\sin x-t\\cos x=11(t-1),\\\\\\exists x&\\iff |11(t-1)|\\le\\sqrt{1+t^2}\\\\&\\iff(120)t^2-242t+120\\le0,\\\\t_\\pm&=\\frac{121\\pm\\sqrt{241}}{120}.\\end{aligned}\n$$\n分母恒正，等价移项不会丢解。辅助角函数能取振幅内的每个值，因此根区间内的所有 $t$ 都可达，端点亦可取。"
     },
     {
       "id": "M0661",
@@ -1219,7 +1219,7 @@
         "2"
       ],
       "answer": 1,
-      "explanation": "由勾股定理得斜边 √((6)²+(8)²)=10。\n\n关键推导\n$$\nc=\\sqrt{(6)^2+(8)^2}=5\\cdot2=10\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(6)^{2}+(8)^{2}}=10$。\n\n关键推导\n$$\nc=\\sqrt{(6)^2+(8)^2}=5\\cdot2=10\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0662",
@@ -1239,7 +1239,7 @@
         "75"
       ],
       "answer": 0,
-      "explanation": "由勾股定理得斜边 √((9)²+(12)²)=15。\n\n关键推导\n$$\nc=\\sqrt{(9)^2+(12)^2}=5\\cdot3=15\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(9)^{2}+(12)^{2}}=15$。\n\n关键推导\n$$\nc=\\sqrt{(9)^2+(12)^2}=5\\cdot3=15\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0663",
@@ -1259,7 +1259,7 @@
         "20"
       ],
       "answer": 3,
-      "explanation": "由勾股定理得斜边 √((12)²+(16)²)=20。\n\n关键推导\n$$\nc=\\sqrt{(12)^2+(16)^2}=5\\cdot4=20\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(12)^{2}+(16)^{2}}=20$。\n\n关键推导\n$$\nc=\\sqrt{(12)^2+(16)^2}=5\\cdot4=20\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0664",
@@ -1279,7 +1279,7 @@
         "35"
       ],
       "answer": 2,
-      "explanation": "由勾股定理得斜边 √((15)²+(20)²)=25。\n\n关键推导\n$$\nc=\\sqrt{(15)^2+(20)^2}=5\\cdot5=25\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(15)^{2}+(20)^{2}}=25$。\n\n关键推导\n$$\nc=\\sqrt{(15)^2+(20)^2}=5\\cdot5=25\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0665",
@@ -1299,7 +1299,7 @@
         "6"
       ],
       "answer": 1,
-      "explanation": "由勾股定理得斜边 √((18)²+(24)²)=30。\n\n关键推导\n$$\nc=\\sqrt{(18)^2+(24)^2}=5\\cdot6=30\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(18)^{2}+(24)^{2}}=30$。\n\n关键推导\n$$\nc=\\sqrt{(18)^2+(24)^2}=5\\cdot6=30\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0666",
@@ -1319,7 +1319,7 @@
         "175"
       ],
       "answer": 0,
-      "explanation": "由勾股定理得斜边 √((21)²+(28)²)=35。\n\n关键推导\n$$\nc=\\sqrt{(21)^2+(28)^2}=5\\cdot7=35\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(21)^{2}+(28)^{2}}=35$。\n\n关键推导\n$$\nc=\\sqrt{(21)^2+(28)^2}=5\\cdot7=35\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0667",
@@ -1339,7 +1339,7 @@
         "40"
       ],
       "answer": 3,
-      "explanation": "由勾股定理得斜边 √((24)²+(32)²)=40。\n\n关键推导\n$$\nc=\\sqrt{(24)^2+(32)^2}=5\\cdot8=40\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(24)^{2}+(32)^{2}}=40$。\n\n关键推导\n$$\nc=\\sqrt{(24)^2+(32)^2}=5\\cdot8=40\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0668",
@@ -1359,7 +1359,7 @@
         "63"
       ],
       "answer": 2,
-      "explanation": "由勾股定理得斜边 √((27)²+(36)²)=45。\n\n关键推导\n$$\nc=\\sqrt{(27)^2+(36)^2}=5\\cdot9=45\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(27)^{2}+(36)^{2}}=45$。\n\n关键推导\n$$\nc=\\sqrt{(27)^2+(36)^2}=5\\cdot9=45\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0669",
@@ -1379,7 +1379,7 @@
         "10"
       ],
       "answer": 1,
-      "explanation": "由勾股定理得斜边 √((30)²+(40)²)=50。\n\n关键推导\n$$\nc=\\sqrt{(30)^2+(40)^2}=5\\cdot10=50\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(30)^{2}+(40)^{2}}=50$。\n\n关键推导\n$$\nc=\\sqrt{(30)^2+(40)^2}=5\\cdot10=50\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0670",
@@ -1399,7 +1399,7 @@
         "275"
       ],
       "answer": 0,
-      "explanation": "由勾股定理得斜边 √((33)²+(44)²)=55。\n\n关键推导\n$$\nc=\\sqrt{(33)^2+(44)^2}=5\\cdot11=55\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
+      "explanation": "由勾股定理得斜边 $\\sqrt{(33)^{2}+(44)^{2}}=55$。\n\n关键推导\n$$\nc=\\sqrt{(33)^2+(44)^2}=5\\cdot11=55\n$$\n斜边对应直角，是三边中最大的一边，平方根取正值。"
     },
     {
       "id": "M0671",
@@ -1419,7 +1419,7 @@
         "5"
       ],
       "answer": 0,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=2。\n\n关键推导\n$$\n2R=\\frac{2}{\\sin30^\\circ}=2\\cdot2\\Longrightarrow R=2\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=2$。\n\n关键推导\n$$\n2R=\\frac{2}{\\sin30^\\circ}=2\\cdot2\\Longrightarrow R=2\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0672",
@@ -1439,7 +1439,7 @@
         "3"
       ],
       "answer": 3,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=3。\n\n关键推导\n$$\n2R=\\frac{3}{\\sin30^\\circ}=2\\cdot3\\Longrightarrow R=3\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=3$。\n\n关键推导\n$$\n2R=\\frac{3}{\\sin30^\\circ}=2\\cdot3\\Longrightarrow R=3\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0673",
@@ -1459,7 +1459,7 @@
         "8"
       ],
       "answer": 2,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=4。\n\n关键推导\n$$\n2R=\\frac{4}{\\sin30^\\circ}=2\\cdot4\\Longrightarrow R=4\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=4$。\n\n关键推导\n$$\n2R=\\frac{4}{\\sin30^\\circ}=2\\cdot4\\Longrightarrow R=4\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0674",
@@ -1479,7 +1479,7 @@
         "\\frac{5}{2}"
       ],
       "answer": 1,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=5。\n\n关键推导\n$$\n2R=\\frac{5}{\\sin30^\\circ}=2\\cdot5\\Longrightarrow R=5\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=5$。\n\n关键推导\n$$\n2R=\\frac{5}{\\sin30^\\circ}=2\\cdot5\\Longrightarrow R=5\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0675",
@@ -1499,7 +1499,7 @@
         "36"
       ],
       "answer": 0,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=6。\n\n关键推导\n$$\n2R=\\frac{6}{\\sin30^\\circ}=2\\cdot6\\Longrightarrow R=6\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=6$。\n\n关键推导\n$$\n2R=\\frac{6}{\\sin30^\\circ}=2\\cdot6\\Longrightarrow R=6\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0676",
@@ -1519,7 +1519,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=7。\n\n关键推导\n$$\n2R=\\frac{7}{\\sin30^\\circ}=2\\cdot7\\Longrightarrow R=7\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=7$。\n\n关键推导\n$$\n2R=\\frac{7}{\\sin30^\\circ}=2\\cdot7\\Longrightarrow R=7\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0677",
@@ -1539,7 +1539,7 @@
         "16"
       ],
       "answer": 2,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=8。\n\n关键推导\n$$\n2R=\\frac{8}{\\sin30^\\circ}=2\\cdot8\\Longrightarrow R=8\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=8$。\n\n关键推导\n$$\n2R=\\frac{8}{\\sin30^\\circ}=2\\cdot8\\Longrightarrow R=8\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0678",
@@ -1559,7 +1559,7 @@
         "\\frac{9}{2}"
       ],
       "answer": 1,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=9。\n\n关键推导\n$$\n2R=\\frac{9}{\\sin30^\\circ}=2\\cdot9\\Longrightarrow R=9\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=9$。\n\n关键推导\n$$\n2R=\\frac{9}{\\sin30^\\circ}=2\\cdot9\\Longrightarrow R=9\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0679",
@@ -1579,7 +1579,7 @@
         "100"
       ],
       "answer": 0,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=10。\n\n关键推导\n$$\n2R=\\frac{10}{\\sin30^\\circ}=2\\cdot10\\Longrightarrow R=10\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=10$。\n\n关键推导\n$$\n2R=\\frac{10}{\\sin30^\\circ}=2\\cdot10\\Longrightarrow R=10\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0680",
@@ -1599,7 +1599,7 @@
         "11"
       ],
       "answer": 3,
-      "explanation": "正弦定理 a/sin A=2R，sin30°=1/2，故 R=a=11。\n\n关键推导\n$$\n2R=\\frac{11}{\\sin30^\\circ}=2\\cdot11\\Longrightarrow R=11\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
+      "explanation": "正弦定理 $a/\\sin  A=2R$，$\\sin 30^{\\circ}=\\frac{1}{2}$，故 $R=a=11$。\n\n关键推导\n$$\n2R=\\frac{11}{\\sin30^\\circ}=2\\cdot11\\Longrightarrow R=11\n$$\n正弦定理给出的边长与正弦之比是直径，不是半径。"
     },
     {
       "id": "M0681",
@@ -1619,7 +1619,7 @@
         "\\frac{1}{8}"
       ],
       "answer": 0,
-      "explanation": "余弦定理给 cos C=(4+4-9)/(2×4)=$-\\frac{1}{8}$。\n\n关键推导\n$$\n\\cos C=\\frac{2^2+2^2-3^2}{2\\cdot2\\cdot2}=-\\frac{1}{8}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(4+4-9)/(2\\times 4)=-\\frac{1}{8}$。\n\n关键推导\n$$\n\\cos C=\\frac{2^2+2^2-3^2}{2\\cdot2\\cdot2}=-\\frac{1}{8}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0682",
@@ -1639,7 +1639,7 @@
         "\\frac{1}{9}"
       ],
       "answer": 3,
-      "explanation": "余弦定理给 cos C=(9+9-16)/(2×9)=$\\frac{1}{9}$。\n\n关键推导\n$$\n\\cos C=\\frac{3^2+3^2-4^2}{2\\cdot3\\cdot3}=\\frac{1}{9}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(9+9-16)/(2\\times 9)=\\frac{1}{9}$。\n\n关键推导\n$$\n\\cos C=\\frac{3^2+3^2-4^2}{2\\cdot3\\cdot3}=\\frac{1}{9}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0683",
@@ -1659,7 +1659,7 @@
         "\\frac{25}{32}"
       ],
       "answer": 2,
-      "explanation": "余弦定理给 cos C=(16+16-25)/(2×16)=$\\frac{7}{32}$。\n\n关键推导\n$$\n\\cos C=\\frac{4^2+4^2-5^2}{2\\cdot4\\cdot4}=\\frac{7}{32}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(16+16-25)/(2\\times 16)=\\frac{7}{32}$。\n\n关键推导\n$$\n\\cos C=\\frac{4^2+4^2-5^2}{2\\cdot4\\cdot4}=\\frac{7}{32}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0684",
@@ -1679,7 +1679,7 @@
         "\\frac{11}{50}"
       ],
       "answer": 1,
-      "explanation": "余弦定理给 cos C=(25+25-36)/(2×25)=$\\frac{7}{25}$。\n\n关键推导\n$$\n\\cos C=\\frac{5^2+5^2-6^2}{2\\cdot5\\cdot5}=\\frac{7}{25}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(25+25-36)/(2\\times 25)=\\frac{7}{25}$。\n\n关键推导\n$$\n\\cos C=\\frac{5^2+5^2-6^2}{2\\cdot5\\cdot5}=\\frac{7}{25}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0685",
@@ -1699,7 +1699,7 @@
         "\\frac{25}{72}"
       ],
       "answer": 0,
-      "explanation": "余弦定理给 cos C=(36+36-49)/(2×36)=$\\frac{23}{72}$。\n\n关键推导\n$$\n\\cos C=\\frac{6^2+6^2-7^2}{2\\cdot6\\cdot6}=\\frac{23}{72}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(36+36-49)/(2\\times 36)=\\frac{23}{72}$。\n\n关键推导\n$$\n\\cos C=\\frac{6^2+6^2-7^2}{2\\cdot6\\cdot6}=\\frac{23}{72}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0686",
@@ -1719,7 +1719,7 @@
         "\\frac{17}{49}"
       ],
       "answer": 3,
-      "explanation": "余弦定理给 cos C=(49+49-64)/(2×49)=$\\frac{17}{49}$。\n\n关键推导\n$$\n\\cos C=\\frac{7^2+7^2-8^2}{2\\cdot7\\cdot7}=\\frac{17}{49}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(49+49-64)/(2\\times 49)=\\frac{17}{49}$。\n\n关键推导\n$$\n\\cos C=\\frac{7^2+7^2-8^2}{2\\cdot7\\cdot7}=\\frac{17}{49}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0687",
@@ -1739,7 +1739,7 @@
         "\\frac{81}{128}"
       ],
       "answer": 2,
-      "explanation": "余弦定理给 cos C=(64+64-81)/(2×64)=$\\frac{47}{128}$。\n\n关键推导\n$$\n\\cos C=\\frac{8^2+8^2-9^2}{2\\cdot8\\cdot8}=\\frac{47}{128}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(64+64-81)/(2\\times 64)=\\frac{47}{128}$。\n\n关键推导\n$$\n\\cos C=\\frac{8^2+8^2-9^2}{2\\cdot8\\cdot8}=\\frac{47}{128}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0688",
@@ -1759,7 +1759,7 @@
         "\\frac{19}{162}"
       ],
       "answer": 1,
-      "explanation": "余弦定理给 cos C=(81+81-100)/(2×81)=$\\frac{31}{81}$。\n\n关键推导\n$$\n\\cos C=\\frac{9^2+9^2-10^2}{2\\cdot9\\cdot9}=\\frac{31}{81}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(81+81-100)/(2\\times 81)=\\frac{31}{81}$。\n\n关键推导\n$$\n\\cos C=\\frac{9^2+9^2-10^2}{2\\cdot9\\cdot9}=\\frac{31}{81}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0689",
@@ -1779,7 +1779,7 @@
         "\\frac{81}{200}"
       ],
       "answer": 0,
-      "explanation": "余弦定理给 cos C=(100+100-121)/(2×100)=$\\frac{79}{200}$。\n\n关键推导\n$$\n\\cos C=\\frac{10^2+10^2-11^2}{2\\cdot10\\cdot10}=\\frac{79}{200}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(100+100-121)/(2\\times 100)=\\frac{79}{200}$。\n\n关键推导\n$$\n\\cos C=\\frac{10^2+10^2-11^2}{2\\cdot10\\cdot10}=\\frac{79}{200}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0690",
@@ -1799,7 +1799,7 @@
         "\\frac{49}{121}"
       ],
       "answer": 3,
-      "explanation": "余弦定理给 cos C=(121+121-144)/(2×121)=$\\frac{49}{121}$。\n\n关键推导\n$$\n\\cos C=\\frac{11^2+11^2-12^2}{2\\cdot11\\cdot11}=\\frac{49}{121}\n$$\n最长边为 a+1，其对应角用余弦定理时，该边的平方放在减号后。"
+      "explanation": "余弦定理给 $\\cos  C=(121+121-144)/(2\\times 121)=\\frac{49}{121}$。\n\n关键推导\n$$\n\\cos C=\\frac{11^2+11^2-12^2}{2\\cdot11\\cdot11}=\\frac{49}{121}\n$$\n最长边为 $a+1$，其对应角用余弦定理时，该边的平方放在减号后。"
     },
     {
       "id": "M0691",
@@ -1819,7 +1819,7 @@
         "\\frac{3}{2}\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 $\\frac{3}{2}$√3。\n\n关键推导\n$$\nS=\\frac12\\cdot2\\cdot3\\sin60^\\circ=\\frac{3}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $\\frac{3}{2}\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot2\\cdot3\\sin60^\\circ=\\frac{3}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0692",
@@ -1839,7 +1839,7 @@
         "6\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 3√3。\n\n关键推导\n$$\nS=\\frac12\\cdot3\\cdot4\\sin60^\\circ=3\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $3\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot3\\cdot4\\sin60^\\circ=3\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0693",
@@ -1859,7 +1859,7 @@
         "10"
       ],
       "answer": 1,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 5√3。\n\n关键推导\n$$\nS=\\frac12\\cdot4\\cdot5\\sin60^\\circ=5\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $5\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot4\\cdot5\\sin60^\\circ=5\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0694",
@@ -1879,7 +1879,7 @@
         "30\\sqrt3"
       ],
       "answer": 0,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 $\\frac{15}{2}$√3。\n\n关键推导\n$$\nS=\\frac12\\cdot5\\cdot6\\sin60^\\circ=\\frac{15}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $\\frac{15}{2}\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot5\\cdot6\\sin60^\\circ=\\frac{15}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0695",
@@ -1899,7 +1899,7 @@
         "\\frac{21}{2}\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 $\\frac{21}{2}$√3。\n\n关键推导\n$$\nS=\\frac12\\cdot6\\cdot7\\sin60^\\circ=\\frac{21}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $\\frac{21}{2}\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot6\\cdot7\\sin60^\\circ=\\frac{21}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0696",
@@ -1919,7 +1919,7 @@
         "28\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 14√3。\n\n关键推导\n$$\nS=\\frac12\\cdot7\\cdot8\\sin60^\\circ=14\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $14\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot7\\cdot8\\sin60^\\circ=14\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0697",
@@ -1939,7 +1939,7 @@
         "36"
       ],
       "answer": 1,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 18√3。\n\n关键推导\n$$\nS=\\frac12\\cdot8\\cdot9\\sin60^\\circ=18\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $18\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot8\\cdot9\\sin60^\\circ=18\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0698",
@@ -1959,7 +1959,7 @@
         "90\\sqrt3"
       ],
       "answer": 0,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 $\\frac{45}{2}$√3。\n\n关键推导\n$$\nS=\\frac12\\cdot9\\cdot10\\sin60^\\circ=\\frac{45}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $\\frac{45}{2}\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot9\\cdot10\\sin60^\\circ=\\frac{45}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0699",
@@ -1979,7 +1979,7 @@
         "\\frac{55}{2}\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 $\\frac{55}{2}$√3。\n\n关键推导\n$$\nS=\\frac12\\cdot10\\cdot11\\sin60^\\circ=\\frac{55}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $\\frac{55}{2}\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot10\\cdot11\\sin60^\\circ=\\frac{55}{2}\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0700",
@@ -1999,7 +1999,7 @@
         "66\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "面积 S=½bc sin A，sin60°=√3/2，得到 33√3。\n\n关键推导\n$$\nS=\\frac12\\cdot11\\cdot12\\sin60^\\circ=33\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
+      "explanation": "面积 $S=\\frac12 bc \\sin  A$，$\\sin 60^{\\circ}=\\sqrt{3}/2$，得到 $33\\sqrt{3}$。\n\n关键推导\n$$\nS=\\frac12\\cdot11\\cdot12\\sin60^\\circ=33\\sqrt3\n$$\n面积公式中使用两已知边的夹角，不是任意一个角。"
     },
     {
       "id": "M0701",
@@ -2019,7 +2019,7 @@
         "\\frac{1}{3}\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "令 b=AC,c=AB，b+c=4，记 d=BC。余弦定理得 d²=16-3bc。面积 S=√3 bc/4，半周长 p=(4+d)/2。代入 bc=(16-d²)/3，化简 r=S/p=√3(4-d)/6。又 bc≤4，故 d≥2。当 b=c=2 时取等，最大半径为 $\\frac{1}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=4,\\quad d^2=16-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(4+d)}=\\frac{\\sqrt3(4-d)}6,\\\\bc\\le4&\\Longrightarrow d\\ge2,\\\\r&\\le\\frac{1}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=4$，记 $d=BC$。余弦定理得 $d^{2}=16-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(4+d)/2$。代入 $bc=(16-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(4-d)/6$。又 $bc\\le 4$，故 $d\\ge 2$。当 $b=c=2$ 时取等，最大半径为 $\\frac{1}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=4,\\quad d^2=16-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(4+d)}=\\frac{\\sqrt3(4-d)}6,\\\\bc\\le4&\\Longrightarrow d\\ge2,\\\\r&\\le\\frac{1}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0702",
@@ -2039,7 +2039,7 @@
         "1\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "令 b=AC,c=AB，b+c=6，记 d=BC。余弦定理得 d²=36-3bc。面积 S=√3 bc/4，半周长 p=(6+d)/2。代入 bc=(36-d²)/3，化简 r=S/p=√3(6-d)/6。又 bc≤9，故 d≥3。当 b=c=3 时取等，最大半径为 $\\frac{1}{2}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=6,\\quad d^2=36-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(6+d)}=\\frac{\\sqrt3(6-d)}6,\\\\bc\\le9&\\Longrightarrow d\\ge3,\\\\r&\\le\\frac{1}{2}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=6$，记 $d=BC$。余弦定理得 $d^{2}=36-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(6+d)/2$。代入 $bc=(36-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(6-d)/6$。又 $bc\\le 9$，故 $d\\ge 3$。当 $b=c=3$ 时取等，最大半径为 $\\frac{1}{2}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=6,\\quad d^2=36-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(6+d)}=\\frac{\\sqrt3(6-d)}6,\\\\bc\\le9&\\Longrightarrow d\\ge3,\\\\r&\\le\\frac{1}{2}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0703",
@@ -2059,7 +2059,7 @@
         "2\\sqrt3"
       ],
       "answer": 1,
-      "explanation": "令 b=AC,c=AB，b+c=8，记 d=BC。余弦定理得 d²=64-3bc。面积 S=√3 bc/4，半周长 p=(8+d)/2。代入 bc=(64-d²)/3，化简 r=S/p=√3(8-d)/6。又 bc≤16，故 d≥4。当 b=c=4 时取等，最大半径为 $\\frac{2}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=8,\\quad d^2=64-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(8+d)}=\\frac{\\sqrt3(8-d)}6,\\\\bc\\le16&\\Longrightarrow d\\ge4,\\\\r&\\le\\frac{2}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=8$，记 $d=BC$。余弦定理得 $d^{2}=64-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(8+d)/2$。代入 $bc=(64-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(8-d)/6$。又 $bc\\le 16$，故 $d\\ge 4$。当 $b=c=4$ 时取等，最大半径为 $\\frac{2}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=8,\\quad d^2=64-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(8+d)}=\\frac{\\sqrt3(8-d)}6,\\\\bc\\le16&\\Longrightarrow d\\ge4,\\\\r&\\le\\frac{2}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0704",
@@ -2079,7 +2079,7 @@
         "5\\sqrt3"
       ],
       "answer": 0,
-      "explanation": "令 b=AC,c=AB，b+c=10，记 d=BC。余弦定理得 d²=100-3bc。面积 S=√3 bc/4，半周长 p=(10+d)/2。代入 bc=(100-d²)/3，化简 r=S/p=√3(10-d)/6。又 bc≤25，故 d≥5。当 b=c=5 时取等，最大半径为 $\\frac{5}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=10,\\quad d^2=100-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(10+d)}=\\frac{\\sqrt3(10-d)}6,\\\\bc\\le25&\\Longrightarrow d\\ge5,\\\\r&\\le\\frac{5}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=10$，记 $d=BC$。余弦定理得 $d^{2}=100-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(10+d)/2$。代入 $bc=(100-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(10-d)/6$。又 $bc\\le 25$，故 $d\\ge 5$。当 $b=c=5$ 时取等，最大半径为 $\\frac{5}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=10,\\quad d^2=100-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(10+d)}=\\frac{\\sqrt3(10-d)}6,\\\\bc\\le25&\\Longrightarrow d\\ge5,\\\\r&\\le\\frac{5}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0705",
@@ -2099,7 +2099,7 @@
         "1\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "令 b=AC,c=AB，b+c=12，记 d=BC。余弦定理得 d²=144-3bc。面积 S=√3 bc/4，半周长 p=(12+d)/2。代入 bc=(144-d²)/3，化简 r=S/p=√3(12-d)/6。又 bc≤36，故 d≥6。当 b=c=6 时取等，最大半径为 $1\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=12,\\quad d^2=144-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(12+d)}=\\frac{\\sqrt3(12-d)}6,\\\\bc\\le36&\\Longrightarrow d\\ge6,\\\\r&\\le1\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=12$，记 $d=BC$。余弦定理得 $d^{2}=144-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(12+d)/2$。代入 $bc=(144-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(12-d)/6$。又 $bc\\le 36$，故 $d\\ge 6$。当 $b=c=6$ 时取等，最大半径为 $1\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=12,\\quad d^2=144-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(12+d)}=\\frac{\\sqrt3(12-d)}6,\\\\bc\\le36&\\Longrightarrow d\\ge6,\\\\r&\\le1\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0706",
@@ -2119,7 +2119,7 @@
         "\\frac{7}{3}\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "令 b=AC,c=AB，b+c=14，记 d=BC。余弦定理得 d²=196-3bc。面积 S=√3 bc/4，半周长 p=(14+d)/2。代入 bc=(196-d²)/3，化简 r=S/p=√3(14-d)/6。又 bc≤49，故 d≥7。当 b=c=7 时取等，最大半径为 $\\frac{7}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=14,\\quad d^2=196-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(14+d)}=\\frac{\\sqrt3(14-d)}6,\\\\bc\\le49&\\Longrightarrow d\\ge7,\\\\r&\\le\\frac{7}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=14$，记 $d=BC$。余弦定理得 $d^{2}=196-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(14+d)/2$。代入 $bc=(196-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(14-d)/6$。又 $bc\\le 49$，故 $d\\ge 7$。当 $b=c=7$ 时取等，最大半径为 $\\frac{7}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=14,\\quad d^2=196-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(14+d)}=\\frac{\\sqrt3(14-d)}6,\\\\bc\\le49&\\Longrightarrow d\\ge7,\\\\r&\\le\\frac{7}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0707",
@@ -2139,7 +2139,7 @@
         "4\\sqrt3"
       ],
       "answer": 1,
-      "explanation": "令 b=AC,c=AB，b+c=16，记 d=BC。余弦定理得 d²=256-3bc。面积 S=√3 bc/4，半周长 p=(16+d)/2。代入 bc=(256-d²)/3，化简 r=S/p=√3(16-d)/6。又 bc≤64，故 d≥8。当 b=c=8 时取等，最大半径为 $\\frac{4}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=16,\\quad d^2=256-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(16+d)}=\\frac{\\sqrt3(16-d)}6,\\\\bc\\le64&\\Longrightarrow d\\ge8,\\\\r&\\le\\frac{4}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=16$，记 $d=BC$。余弦定理得 $d^{2}=256-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(16+d)/2$。代入 $bc=(256-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(16-d)/6$。又 $bc\\le 64$，故 $d\\ge 8$。当 $b=c=8$ 时取等，最大半径为 $\\frac{4}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=16,\\quad d^2=256-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(16+d)}=\\frac{\\sqrt3(16-d)}6,\\\\bc\\le64&\\Longrightarrow d\\ge8,\\\\r&\\le\\frac{4}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0708",
@@ -2159,7 +2159,7 @@
         "9\\sqrt3"
       ],
       "answer": 0,
-      "explanation": "令 b=AC,c=AB，b+c=18，记 d=BC。余弦定理得 d²=324-3bc。面积 S=√3 bc/4，半周长 p=(18+d)/2。代入 bc=(324-d²)/3，化简 r=S/p=√3(18-d)/6。又 bc≤81，故 d≥9。当 b=c=9 时取等，最大半径为 $\\frac{3}{2}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=18,\\quad d^2=324-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(18+d)}=\\frac{\\sqrt3(18-d)}6,\\\\bc\\le81&\\Longrightarrow d\\ge9,\\\\r&\\le\\frac{3}{2}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=18$，记 $d=BC$。余弦定理得 $d^{2}=324-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(18+d)/2$。代入 $bc=(324-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(18-d)/6$。又 $bc\\le 81$，故 $d\\ge 9$。当 $b=c=9$ 时取等，最大半径为 $\\frac{3}{2}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=18,\\quad d^2=324-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(18+d)}=\\frac{\\sqrt3(18-d)}6,\\\\bc\\le81&\\Longrightarrow d\\ge9,\\\\r&\\le\\frac{3}{2}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0709",
@@ -2179,7 +2179,7 @@
         "\\frac{5}{3}\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "令 b=AC,c=AB，b+c=20，记 d=BC。余弦定理得 d²=400-3bc。面积 S=√3 bc/4，半周长 p=(20+d)/2。代入 bc=(400-d²)/3，化简 r=S/p=√3(20-d)/6。又 bc≤100，故 d≥10。当 b=c=10 时取等，最大半径为 $\\frac{5}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=20,\\quad d^2=400-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(20+d)}=\\frac{\\sqrt3(20-d)}6,\\\\bc\\le100&\\Longrightarrow d\\ge10,\\\\r&\\le\\frac{5}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=20$，记 $d=BC$。余弦定理得 $d^{2}=400-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(20+d)/2$。代入 $bc=(400-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(20-d)/6$。又 $bc\\le 100$，故 $d\\ge 10$。当 $b=c=10$ 时取等，最大半径为 $\\frac{5}{3}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=20,\\quad d^2=400-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(20+d)}=\\frac{\\sqrt3(20-d)}6,\\\\bc\\le100&\\Longrightarrow d\\ge10,\\\\r&\\le\\frac{5}{3}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0710",
@@ -2199,7 +2199,7 @@
         "\\frac{11}{3}\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "令 b=AC,c=AB，b+c=22，记 d=BC。余弦定理得 d²=484-3bc。面积 S=√3 bc/4，半周长 p=(22+d)/2。代入 bc=(484-d²)/3，化简 r=S/p=√3(22-d)/6。又 bc≤121，故 d≥11。当 b=c=11 时取等，最大半径为 $\\frac{11}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=22,\\quad d^2=484-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(22+d)}=\\frac{\\sqrt3(22-d)}6,\\\\bc\\le121&\\Longrightarrow d\\ge11,\\\\r&\\le\\frac{11}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 d，使半周长分母被约去；b=c=a 时满足所有约束并取等。"
+      "explanation": "令 $b=AC,c=AB$，$b+c=22$，记 $d=BC$。余弦定理得 $d^{2}=484-3bc$。面积 $S=\\sqrt{3} bc/4$，半周长 $p=(22+d)/2$。代入 $bc=(484-d^{2})/3$，化简 $r=S/p=\\sqrt{3}(22-d)/6$。又 $bc\\le 121$，故 $d\\ge 11$。当 $b=c=11$ 时取等，最大半径为 $\\frac{11}{6}\\sqrt3$。\n\n关键推导\n$$\n\\begin{aligned}b+c&=22,\\quad d^2=484-3bc,\\\\r=\\frac Sp&=\\frac{\\sqrt3\\,bc}{2(22+d)}=\\frac{\\sqrt3(22-d)}6,\\\\bc\\le121&\\Longrightarrow d\\ge11,\\\\r&\\le\\frac{11}{6}\\sqrt3.\\end{aligned}\n$$\n先用余弦定理把面积中的乘积换成 $d$，使半周长分母被约去；$b=c=a$ 时满足所有约束并取等。"
     },
     {
       "id": "M0711",
@@ -2219,7 +2219,7 @@
         "6\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=2√3，因此 p≥6√3。等边三角形可取等，周长最小 12√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=2\\sqrt3,\\\\2p&\\ge12\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=2\\sqrt{3}$，因此 $p\\ge 6\\sqrt{3}$。等边三角形可取等，周长最小 $12\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=2\\sqrt3,\\\\2p&\\ge12\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0712",
@@ -2239,7 +2239,7 @@
         "12\\sqrt3"
       ],
       "answer": 1,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=3√3，因此 p≥9√3。等边三角形可取等，周长最小 18√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=3\\sqrt3,\\\\2p&\\ge18\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=3\\sqrt{3}$，因此 $p\\ge 9\\sqrt{3}$。等边三角形可取等，周长最小 $18\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=3\\sqrt3,\\\\2p&\\ge18\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0713",
@@ -2259,7 +2259,7 @@
         "48"
       ],
       "answer": 0,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=4√3，因此 p≥12√3。等边三角形可取等，周长最小 24√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=4\\sqrt3,\\\\2p&\\ge24\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=4\\sqrt{3}$，因此 $p\\ge 12\\sqrt{3}$。等边三角形可取等，周长最小 $24\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=4\\sqrt3,\\\\2p&\\ge24\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0714",
@@ -2279,7 +2279,7 @@
         "30\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=5√3，因此 p≥15√3。等边三角形可取等，周长最小 30√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=5\\sqrt3,\\\\2p&\\ge30\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=5\\sqrt{3}$，因此 $p\\ge 15\\sqrt{3}$。等边三角形可取等，周长最小 $30\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=5\\sqrt3,\\\\2p&\\ge30\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0715",
@@ -2299,7 +2299,7 @@
         "18\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=6√3，因此 p≥18√3。等边三角形可取等，周长最小 36√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=6\\sqrt3,\\\\2p&\\ge36\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=6\\sqrt{3}$，因此 $p\\ge 18\\sqrt{3}$。等边三角形可取等，周长最小 $36\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=6\\sqrt3,\\\\2p&\\ge36\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0716",
@@ -2319,7 +2319,7 @@
         "28\\sqrt3"
       ],
       "answer": 1,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=7√3，因此 p≥21√3。等边三角形可取等，周长最小 42√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=7\\sqrt3,\\\\2p&\\ge42\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=7\\sqrt{3}$，因此 $p\\ge 21\\sqrt{3}$。等边三角形可取等，周长最小 $42\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=7\\sqrt3,\\\\2p&\\ge42\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0717",
@@ -2339,7 +2339,7 @@
         "96"
       ],
       "answer": 0,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=8√3，因此 p≥24√3。等边三角形可取等，周长最小 48√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=8\\sqrt3,\\\\2p&\\ge48\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=8\\sqrt{3}$，因此 $p\\ge 24\\sqrt{3}$。等边三角形可取等，周长最小 $48\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=8\\sqrt3,\\\\2p&\\ge48\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0718",
@@ -2359,7 +2359,7 @@
         "54\\sqrt3"
       ],
       "answer": 3,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=9√3，因此 p≥27√3。等边三角形可取等，周长最小 54√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=9\\sqrt3,\\\\2p&\\ge54\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=9\\sqrt{3}$，因此 $p\\ge 27\\sqrt{3}$。等边三角形可取等，周长最小 $54\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=9\\sqrt3,\\\\2p&\\ge54\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0719",
@@ -2379,7 +2379,7 @@
         "30\\sqrt3"
       ],
       "answer": 2,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=10√3，因此 p≥30√3。等边三角形可取等，周长最小 60√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=10\\sqrt3,\\\\2p&\\ge60\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=10\\sqrt{3}$，因此 $p\\ge 30\\sqrt{3}$。等边三角形可取等，周长最小 $60\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=10\\sqrt3,\\\\2p&\\ge60\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0720",
@@ -2399,7 +2399,7 @@
         "44\\sqrt3"
       ],
       "answer": 1,
-      "explanation": "记半周长为 p，BC=a₀，另两边为 b,c。固定 A 时 r=(p-a₀)tan(A/2)。由 b+c≥2√(bc) 以及余弦定理，可得 a₀≥(b+c)/2（等号 b=c），从而 p≥3(p-a₀)。又 p-a₀=r cot30°=11√3，因此 p≥33√3。等边三角形可取等，周长最小 66√3。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=11\\sqrt3,\\\\2p&\\ge66\\sqrt3.\\end{aligned}\n$$\n其中 d=BC，p 为半周长。等号要求 b=c；结合 A=60° 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
+      "explanation": "记半周长为 $p$，$BC=a_{0}$，另两边为 $b,c$。固定 $A$ 时 $r=(p-a_{0})\\tan (A/2)$。由 $b+c\\ge 2\\sqrt{bc}$ 以及余弦定理，可得 $a_{0}\\ge (b+c)/2$（等号 $b=c$），从而 $p\\ge 3(p-a_{0})$。又 $p-a_{0}=r \\cot 30^{\\circ}=11\\sqrt{3}$，因此 $p\\ge 33\\sqrt{3}$。等边三角形可取等，周长最小 $66\\sqrt{3}$。\n\n关键推导\n$$\n\\begin{aligned}d^2-\\frac{(b+c)^2}{4}&=\\frac34(b-c)^2\\ge0,\\\\p=\\frac{b+c+d}{2}&\\ge3(p-d),\\\\p-d&=r\\cot\\frac A2=11\\sqrt3,\\\\2p&\\ge66\\sqrt3.\\end{aligned}\n$$\n其中 $d=BC$，$p$ 为半周长。等号要求 $b=c$；结合 $A=60^{\\circ}$ 就得到等边三角形，其内切圆半径可取给定值，因此下界可达。"
     },
     {
       "id": "M0721",
@@ -2619,7 +2619,7 @@
         "7"
       ],
       "answer": 0,
-      "explanation": "按坐标计算数量积：2×1+1×2=4。\n\n关键推导\n$$\n(2,1)\\cdot(1,2)=2\\cdot1+1\\cdot2=4\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$2\\times 1+1\\times 2=4$。\n\n关键推导\n$$\n(2,1)\\cdot(1,2)=2\\cdot1+1\\cdot2=4\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0732",
@@ -2639,7 +2639,7 @@
         "6"
       ],
       "answer": 3,
-      "explanation": "按坐标计算数量积：3×1+1×3=6。\n\n关键推导\n$$\n(3,1)\\cdot(1,3)=3\\cdot1+1\\cdot3=6\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$3\\times 1+1\\times 3=6$。\n\n关键推导\n$$\n(3,1)\\cdot(1,3)=3\\cdot1+1\\cdot3=6\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0733",
@@ -2659,7 +2659,7 @@
         "17"
       ],
       "answer": 2,
-      "explanation": "按坐标计算数量积：4×1+1×4=8。\n\n关键推导\n$$\n(4,1)\\cdot(1,4)=4\\cdot1+1\\cdot4=8\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$4\\times 1+1\\times 4=8$。\n\n关键推导\n$$\n(4,1)\\cdot(1,4)=4\\cdot1+1\\cdot4=8\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0734",
@@ -2679,7 +2679,7 @@
         "25"
       ],
       "answer": 1,
-      "explanation": "按坐标计算数量积：5×1+1×5=10。\n\n关键推导\n$$\n(5,1)\\cdot(1,5)=5\\cdot1+1\\cdot5=10\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$5\\times 1+1\\times 5=10$。\n\n关键推导\n$$\n(5,1)\\cdot(1,5)=5\\cdot1+1\\cdot5=10\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0735",
@@ -2699,7 +2699,7 @@
         "0"
       ],
       "answer": 0,
-      "explanation": "按坐标计算数量积：6×1+1×6=12。\n\n关键推导\n$$\n(6,1)\\cdot(1,6)=6\\cdot1+1\\cdot6=12\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$6\\times 1+1\\times 6=12$。\n\n关键推导\n$$\n(6,1)\\cdot(1,6)=6\\cdot1+1\\cdot6=12\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0736",
@@ -2719,7 +2719,7 @@
         "14"
       ],
       "answer": 3,
-      "explanation": "按坐标计算数量积：7×1+1×7=14。\n\n关键推导\n$$\n(7,1)\\cdot(1,7)=7\\cdot1+1\\cdot7=14\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$7\\times 1+1\\times 7=14$。\n\n关键推导\n$$\n(7,1)\\cdot(1,7)=7\\cdot1+1\\cdot7=14\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0737",
@@ -2739,7 +2739,7 @@
         "65"
       ],
       "answer": 2,
-      "explanation": "按坐标计算数量积：8×1+1×8=16。\n\n关键推导\n$$\n(8,1)\\cdot(1,8)=8\\cdot1+1\\cdot8=16\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$8\\times 1+1\\times 8=16$。\n\n关键推导\n$$\n(8,1)\\cdot(1,8)=8\\cdot1+1\\cdot8=16\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0738",
@@ -2759,7 +2759,7 @@
         "81"
       ],
       "answer": 1,
-      "explanation": "按坐标计算数量积：9×1+1×9=18。\n\n关键推导\n$$\n(9,1)\\cdot(1,9)=9\\cdot1+1\\cdot9=18\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$9\\times 1+1\\times 9=18$。\n\n关键推导\n$$\n(9,1)\\cdot(1,9)=9\\cdot1+1\\cdot9=18\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0739",
@@ -2779,7 +2779,7 @@
         "0"
       ],
       "answer": 0,
-      "explanation": "按坐标计算数量积：10×1+1×10=20。\n\n关键推导\n$$\n(10,1)\\cdot(1,10)=10\\cdot1+1\\cdot10=20\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$10\\times 1+1\\times 10=20$。\n\n关键推导\n$$\n(10,1)\\cdot(1,10)=10\\cdot1+1\\cdot10=20\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0740",
@@ -2799,7 +2799,7 @@
         "22"
       ],
       "answer": 3,
-      "explanation": "按坐标计算数量积：11×1+1×11=22。\n\n关键推导\n$$\n(11,1)\\cdot(1,11)=11\\cdot1+1\\cdot11=22\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
+      "explanation": "按坐标计算数量积：$11\\times 1+1\\times 11=22$。\n\n关键推导\n$$\n(11,1)\\cdot(1,11)=11\\cdot1+1\\cdot11=22\n$$\n数量积结果是实数，按对应坐标相乘后求和。"
     },
     {
       "id": "M0741",
@@ -2819,7 +2819,7 @@
         "-2"
       ],
       "answer": 0,
-      "explanation": "垂直的非零向量数量积为零：4+k=0，故 k=-4。\n\n关键推导\n$$\n(2,1)\\perp(2,k)\\iff2\\cdot2+k=0\\iff k=-4\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$4+k=0$，故 $k=-4$。\n\n关键推导\n$$\n(2,1)\\perp(2,k)\\iff2\\cdot2+k=0\\iff k=-4\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0742",
@@ -2839,7 +2839,7 @@
         "-6"
       ],
       "answer": 3,
-      "explanation": "垂直的非零向量数量积为零：6+k=0，故 k=-6。\n\n关键推导\n$$\n(3,1)\\perp(2,k)\\iff2\\cdot3+k=0\\iff k=-6\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$6+k=0$，故 $k=-6$。\n\n关键推导\n$$\n(3,1)\\perp(2,k)\\iff2\\cdot3+k=0\\iff k=-6\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0743",
@@ -2859,7 +2859,7 @@
         "8"
       ],
       "answer": 2,
-      "explanation": "垂直的非零向量数量积为零：8+k=0，故 k=-8。\n\n关键推导\n$$\n(4,1)\\perp(2,k)\\iff2\\cdot4+k=0\\iff k=-8\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$8+k=0$，故 $k=-8$。\n\n关键推导\n$$\n(4,1)\\perp(2,k)\\iff2\\cdot4+k=0\\iff k=-8\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0744",
@@ -2879,7 +2879,7 @@
         "-\\frac{2}{5}"
       ],
       "answer": 1,
-      "explanation": "垂直的非零向量数量积为零：10+k=0，故 k=-10。\n\n关键推导\n$$\n(5,1)\\perp(2,k)\\iff2\\cdot5+k=0\\iff k=-10\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$10+k=0$，故 $k=-10$。\n\n关键推导\n$$\n(5,1)\\perp(2,k)\\iff2\\cdot5+k=0\\iff k=-10\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0745",
@@ -2899,7 +2899,7 @@
         "-6"
       ],
       "answer": 0,
-      "explanation": "垂直的非零向量数量积为零：12+k=0，故 k=-12。\n\n关键推导\n$$\n(6,1)\\perp(2,k)\\iff2\\cdot6+k=0\\iff k=-12\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$12+k=0$，故 $k=-12$。\n\n关键推导\n$$\n(6,1)\\perp(2,k)\\iff2\\cdot6+k=0\\iff k=-12\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0746",
@@ -2919,7 +2919,7 @@
         "-14"
       ],
       "answer": 3,
-      "explanation": "垂直的非零向量数量积为零：14+k=0，故 k=-14。\n\n关键推导\n$$\n(7,1)\\perp(2,k)\\iff2\\cdot7+k=0\\iff k=-14\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$14+k=0$，故 $k=-14$。\n\n关键推导\n$$\n(7,1)\\perp(2,k)\\iff2\\cdot7+k=0\\iff k=-14\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0747",
@@ -2939,7 +2939,7 @@
         "16"
       ],
       "answer": 2,
-      "explanation": "垂直的非零向量数量积为零：16+k=0，故 k=-16。\n\n关键推导\n$$\n(8,1)\\perp(2,k)\\iff2\\cdot8+k=0\\iff k=-16\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$16+k=0$，故 $k=-16$。\n\n关键推导\n$$\n(8,1)\\perp(2,k)\\iff2\\cdot8+k=0\\iff k=-16\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0748",
@@ -2959,7 +2959,7 @@
         "-\\frac{2}{9}"
       ],
       "answer": 1,
-      "explanation": "垂直的非零向量数量积为零：18+k=0，故 k=-18。\n\n关键推导\n$$\n(9,1)\\perp(2,k)\\iff2\\cdot9+k=0\\iff k=-18\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$18+k=0$，故 $k=-18$。\n\n关键推导\n$$\n(9,1)\\perp(2,k)\\iff2\\cdot9+k=0\\iff k=-18\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0749",
@@ -2979,7 +2979,7 @@
         "-10"
       ],
       "answer": 0,
-      "explanation": "垂直的非零向量数量积为零：20+k=0，故 k=-20。\n\n关键推导\n$$\n(10,1)\\perp(2,k)\\iff2\\cdot10+k=0\\iff k=-20\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$20+k=0$，故 $k=-20$。\n\n关键推导\n$$\n(10,1)\\perp(2,k)\\iff2\\cdot10+k=0\\iff k=-20\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0750",
@@ -2999,7 +2999,7 @@
         "-22"
       ],
       "answer": 3,
-      "explanation": "垂直的非零向量数量积为零：22+k=0，故 k=-22。\n\n关键推导\n$$\n(11,1)\\perp(2,k)\\iff2\\cdot11+k=0\\iff k=-22\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
+      "explanation": "垂直的非零向量数量积为零：$22+k=0$，故 $k=-22$。\n\n关键推导\n$$\n(11,1)\\perp(2,k)\\iff2\\cdot11+k=0\\iff k=-22\n$$\n两个向量均非零，垂直与数量积为零等价，不用先求两向量斜率。"
     },
     {
       "id": "M0751",
@@ -3019,7 +3019,7 @@
         "12"
       ],
       "answer": 3,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=4+4+4。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=4+4+4=12\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=4+4+4$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=4+4+4=12\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0752",
@@ -3039,7 +3039,7 @@
         "13"
       ],
       "answer": 2,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=9+4+6。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=9+6+4=19\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=9+4+6$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=9+6+4=19\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0753",
@@ -3059,7 +3059,7 @@
         "24"
       ],
       "answer": 1,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=16+4+8。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=16+8+4=28\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=16+4+8$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=16+8+4=28\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0754",
@@ -3079,7 +3079,7 @@
         "49"
       ],
       "answer": 0,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=25+4+10。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=25+10+4=39\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=25+4+10$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=25+10+4=39\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0755",
@@ -3099,7 +3099,7 @@
         "52"
       ],
       "answer": 3,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=36+4+12。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=36+12+4=52\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=36+4+12$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=36+12+4=52\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0756",
@@ -3119,7 +3119,7 @@
         "53"
       ],
       "answer": 2,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=49+4+14。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=49+14+4=67\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=49+4+14$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=49+14+4=67\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0757",
@@ -3139,7 +3139,7 @@
         "76"
       ],
       "answer": 1,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=64+4+16。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=64+16+4=84\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=64+4+16$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=64+16+4=84\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0758",
@@ -3159,7 +3159,7 @@
         "121"
       ],
       "answer": 0,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=81+4+18。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=81+18+4=103\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=81+4+18$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=81+18+4=103\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0759",
@@ -3179,7 +3179,7 @@
         "124"
       ],
       "answer": 3,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=100+4+20。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=100+20+4=124\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=100+4+20$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=100+20+4=124\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0760",
@@ -3199,7 +3199,7 @@
         "125"
       ],
       "answer": 2,
-      "explanation": "平方展开为 |u|²+|v|²+2u·v=121+4+22。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=121+22+4=147\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
+      "explanation": "平方展开为 $|u|^{2}+|v|^{2}+2u\\cdot v=121+4+22$。\n\n关键推导\n$$\n|u+v|^2=|u|^2+2u\\cdot v+|v|^2=121+22+4=147\n$$\n平方展开包含数量积的二倍；向量的模长不能直接相加后平方。"
     },
     {
       "id": "M0761",
@@ -3219,7 +3219,7 @@
         "\\left[\\frac{1-\\sqrt{5}}{2},\\frac{1+\\sqrt{5}}{2}\\right]"
       ],
       "answer": 3,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-2≤0，判别式为 5，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le2&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{5}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-2\\le 0$，判别式为 $5$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le2&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{5}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0762",
@@ -3239,7 +3239,7 @@
         "[0,1]"
       ],
       "answer": 2,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-3≤0，判别式为 9，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le3&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{9}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-3\\le 0$，判别式为 $9$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le3&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{9}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0763",
@@ -3259,7 +3259,7 @@
         "[-4,4]"
       ],
       "answer": 1,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-4≤0，判别式为 13，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le4&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{13}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-4\\le 0$，判别式为 $13$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le4&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{13}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0764",
@@ -3279,7 +3279,7 @@
         "\\left[\\frac{1-\\sqrt{21}}{2},\\frac{1+\\sqrt{21}}{2}\\right]"
       ],
       "answer": 0,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-5≤0，判别式为 17，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le5&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{17}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-5\\le 0$，判别式为 $17$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le5&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{17}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0765",
@@ -3299,7 +3299,7 @@
         "\\left[\\frac{1-\\sqrt{21}}{2},\\frac{1+\\sqrt{21}}{2}\\right]"
       ],
       "answer": 3,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-6≤0，判别式为 21，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le6&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{21}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-6\\le 0$，判别式为 $21$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le6&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{21}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0766",
@@ -3319,7 +3319,7 @@
         "[0,1]"
       ],
       "answer": 2,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-7≤0，判别式为 25，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le7&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{25}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-7\\le 0$，判别式为 $25$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le7&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{25}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0767",
@@ -3339,7 +3339,7 @@
         "[-8,8]"
       ],
       "answer": 1,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-8≤0，判别式为 29，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le8&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{29}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-8\\le 0$，判别式为 $29$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le8&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{29}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0768",
@@ -3359,7 +3359,7 @@
         "\\left[\\frac{1-\\sqrt{37}}{2},\\frac{1+\\sqrt{37}}{2}\\right]"
       ],
       "answer": 0,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-9≤0，判别式为 33，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le9&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{33}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-9\\le 0$，判别式为 $33$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le9&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{33}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0769",
@@ -3379,7 +3379,7 @@
         "\\left[\\frac{1-\\sqrt{37}}{2},\\frac{1+\\sqrt{37}}{2}\\right]"
       ],
       "answer": 3,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-10≤0，判别式为 37，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le10&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{37}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-10\\le 0$，判别式为 $37$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le10&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{37}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0770",
@@ -3399,7 +3399,7 @@
         "[0,1]"
       ],
       "answer": 2,
-      "explanation": "展开得 |w|²=t²+(1-t)²+t(1-t)=t²-t+1。条件成为 t²-t+1-11≤0，判别式为 41，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le11&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{41}4.\\end{aligned}\n$$\nt 是任意实参数，并没有被限制在 [0,1]。解配方后的平方不等式，边界满足等号，所以取闭区间。"
+      "explanation": "展开得 $|w|^{2}=t^{2}+(1-t)^{2}+t(1-t)=t^{2}-t+1$。条件成为 $t^{2}-t+1-11\\le 0$，判别式为 $41$，解得两根之间的闭区间。\n\n关键推导\n$$\n\\begin{aligned}|w|^2&=t^2+(1-t)^2+2t(1-t)\\cdot\\frac12\\\\&=t^2-t+1,\\\\|w|^2\\le11&\\iff\\left(t-\\frac12\\right)^2\\le\\frac{41}4.\\end{aligned}\n$$\n$t$ 是任意实参数，并没有被限制在 $[0,1]$。解配方后的平方不等式，边界满足等号，所以取闭区间。"
     },
     {
       "id": "M0771",
@@ -3419,7 +3419,7 @@
         "4+8\\sqrt2"
       ],
       "answer": 2,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=4-4(x+y)。圆上 x+y 最大为 2√2，因此最小值 4-8√2，取 P=(2/√2,2/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=4-4(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=8,\\\\x+y&\\le2\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=4-8\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=4-4(x+y)$。圆上 $x+y$ 最大为 $2\\sqrt{2}$，因此最小值 $4-8\\sqrt{2}$，取 $P=(2/\\sqrt{2},2/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=4-4(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=8,\\\\x+y&\\le2\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=4-8\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0772",
@@ -3439,7 +3439,7 @@
         "-9"
       ],
       "answer": 1,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=9-6(x+y)。圆上 x+y 最大为 3√2，因此最小值 9-18√2，取 P=(3/√2,3/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=9-6(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=18,\\\\x+y&\\le3\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=9-18\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=9-6(x+y)$。圆上 $x+y$ 最大为 $3\\sqrt{2}$，因此最小值 $9-18\\sqrt{2}$，取 $P=(3/\\sqrt{2},3/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=9-6(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=18,\\\\x+y&\\le3\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=9-18\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0773",
@@ -3459,7 +3459,7 @@
         "-48"
       ],
       "answer": 0,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=16-8(x+y)。圆上 x+y 最大为 4√2，因此最小值 16-32√2，取 P=(4/√2,4/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=16-8(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=32,\\\\x+y&\\le4\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=16-32\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=16-8(x+y)$。圆上 $x+y$ 最大为 $4\\sqrt{2}$，因此最小值 $16-32\\sqrt{2}$，取 $P=(4/\\sqrt{2},4/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=16-8(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=32,\\\\x+y&\\le4\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=16-32\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0774",
@@ -3479,7 +3479,7 @@
         "25-50\\sqrt2"
       ],
       "answer": 3,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=25-10(x+y)。圆上 x+y 最大为 5√2，因此最小值 25-50√2，取 P=(5/√2,5/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=25-10(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=50,\\\\x+y&\\le5\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=25-50\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=25-10(x+y)$。圆上 $x+y$ 最大为 $5\\sqrt{2}$，因此最小值 $25-50\\sqrt{2}$，取 $P=(5/\\sqrt{2},5/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=25-10(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=50,\\\\x+y&\\le5\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=25-50\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0775",
@@ -3499,7 +3499,7 @@
         "36+72\\sqrt2"
       ],
       "answer": 2,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=36-12(x+y)。圆上 x+y 最大为 6√2，因此最小值 36-72√2，取 P=(6/√2,6/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=36-12(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=72,\\\\x+y&\\le6\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=36-72\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=36-12(x+y)$。圆上 $x+y$ 最大为 $6\\sqrt{2}$，因此最小值 $36-72\\sqrt{2}$，取 $P=(6/\\sqrt{2},6/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=36-12(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=72,\\\\x+y&\\le6\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=36-72\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0776",
@@ -3519,7 +3519,7 @@
         "-49"
       ],
       "answer": 1,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=49-14(x+y)。圆上 x+y 最大为 7√2，因此最小值 49-98√2，取 P=(7/√2,7/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=49-14(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=98,\\\\x+y&\\le7\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=49-98\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=49-14(x+y)$。圆上 $x+y$ 最大为 $7\\sqrt{2}$，因此最小值 $49-98\\sqrt{2}$，取 $P=(7/\\sqrt{2},7/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=49-14(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=98,\\\\x+y&\\le7\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=49-98\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0777",
@@ -3539,7 +3539,7 @@
         "-192"
       ],
       "answer": 0,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=64-16(x+y)。圆上 x+y 最大为 8√2，因此最小值 64-128√2，取 P=(8/√2,8/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=64-16(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=128,\\\\x+y&\\le8\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=64-128\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=64-16(x+y)$。圆上 $x+y$ 最大为 $8\\sqrt{2}$，因此最小值 $64-128\\sqrt{2}$，取 $P=(8/\\sqrt{2},8/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=64-16(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=128,\\\\x+y&\\le8\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=64-128\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0778",
@@ -3559,7 +3559,7 @@
         "81-162\\sqrt2"
       ],
       "answer": 3,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=81-18(x+y)。圆上 x+y 最大为 9√2，因此最小值 81-162√2，取 P=(9/√2,9/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=81-18(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=162,\\\\x+y&\\le9\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=81-162\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=81-18(x+y)$。圆上 $x+y$ 最大为 $9\\sqrt{2}$，因此最小值 $81-162\\sqrt{2}$，取 $P=(9/\\sqrt{2},9/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=81-18(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=162,\\\\x+y&\\le9\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=81-162\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0779",
@@ -3579,7 +3579,7 @@
         "100+200\\sqrt2"
       ],
       "answer": 2,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=100-20(x+y)。圆上 x+y 最大为 10√2，因此最小值 100-200√2，取 P=(10/√2,10/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=100-20(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=200,\\\\x+y&\\le10\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=100-200\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=100-20(x+y)$。圆上 $x+y$ 最大为 $10\\sqrt{2}$，因此最小值 $100-200\\sqrt{2}$，取 $P=(10/\\sqrt{2},10/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=100-20(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=200,\\\\x+y&\\le10\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=100-200\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0780",
@@ -3599,7 +3599,7 @@
         "-121"
       ],
       "answer": 1,
-      "explanation": "数量积=(A-P)·(B-P)=|P|²-P·(A+B)=121-22(x+y)。圆上 x+y 最大为 11√2，因此最小值 121-242√2，取 P=(11/√2,11/√2) 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=121-22(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=242,\\\\x+y&\\le11\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=121-242\\sqrt2.\\end{aligned}\n$$\nx=y=a/√2 在圆上且让 x+y 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 x+y。"
+      "explanation": "数量积$=(A-P)\\cdot (B-P)=|P|^{2}-P\\cdot (A+B)=121-22(x+y)$。圆上 $x+y$ 最大为 $11\\sqrt{2}$，因此最小值 $121-242\\sqrt{2}$，取 $P=(11/\\sqrt{2},11/\\sqrt{2})$ 可达。\n\n关键推导\n$$\n\\begin{aligned}(A-P)\\cdot(B-P)&=121-22(x+y),\\\\(x+y)^2&\\le2(x^2+y^2)=242,\\\\x+y&\\le11\\sqrt2,\\\\\\min\\overrightarrow{PA}\\cdot\\overrightarrow{PB}&=121-242\\sqrt2.\\end{aligned}\n$$\n$x=y=a/\\sqrt{2}$ 在圆上且让 $x+y$ 达到正的上界，因此数量积的下界可取。注意目标中线性项系数为负，要最大化 $x+y$。"
     },
     {
       "id": "M0781",
@@ -3619,7 +3619,7 @@
         "10"
       ],
       "answer": 1,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×2。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot2=9\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 2$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot2=9\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0782",
@@ -3639,7 +3639,7 @@
         "7"
       ],
       "answer": 0,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×3。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot3=13\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 3$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot3=13\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0783",
@@ -3659,7 +3659,7 @@
         "17"
       ],
       "answer": 3,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×4。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot4=17\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 4$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot4=17\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0784",
@@ -3679,7 +3679,7 @@
         "26"
       ],
       "answer": 2,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×5。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot5=21\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 5$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot5=21\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0785",
@@ -3699,7 +3699,7 @@
         "30"
       ],
       "answer": 1,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×6。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot6=25\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 6$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot6=25\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0786",
@@ -3719,7 +3719,7 @@
         "11"
       ],
       "answer": 0,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×7。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot7=29\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 7$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot7=29\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0787",
@@ -3739,7 +3739,7 @@
         "33"
       ],
       "answer": 3,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×8。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot8=33\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 8$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot8=33\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0788",
@@ -3759,7 +3759,7 @@
         "46"
       ],
       "answer": 2,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×9。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot9=37\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 9$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot9=37\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0789",
@@ -3779,7 +3779,7 @@
         "50"
       ],
       "answer": 1,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×10。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot10=41\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 10$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot10=41\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0790",
@@ -3799,7 +3799,7 @@
         "15"
       ],
       "answer": 0,
-      "explanation": "通项 a_n=a₁+(n-1)d，故 a₅=1+4×11。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot11=45\n$$\n从第 1 项到第 5 项有 4 个公差，不是 5 个。"
+      "explanation": "通项 $a_n=a_{1}+(n-1)d$，故 $a_{5}=1+4\\times 11$。\n\n关键推导\n$$\na_5=a_1+4d=1+4\\cdot11=45\n$$\n从第 $1$ 项到第 $5$ 项有 $4$ 个公差，不是 $5$ 个。"
     },
     {
       "id": "M0791",
@@ -3819,7 +3819,7 @@
         "9"
       ],
       "answer": 0,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 2(2+2-1)=6。\n\n关键推导\n$$\nS_{2}=\\frac{2}2[2\\cdot2+(2-1)\\cdot2]=6\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $2(2+2-1)=6$。\n\n关键推导\n$$\nS_{2}=\\frac{2}2[2\\cdot2+(2-1)\\cdot2]=6\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0792",
@@ -3839,7 +3839,7 @@
         "15"
       ],
       "answer": 3,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 3(3+3-1)=15。\n\n关键推导\n$$\nS_{3}=\\frac{3}2[2\\cdot3+(3-1)\\cdot2]=15\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $3(3+3-1)=15$。\n\n关键推导\n$$\nS_{3}=\\frac{3}2[2\\cdot3+(3-1)\\cdot2]=15\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0793",
@@ -3859,7 +3859,7 @@
         "16"
       ],
       "answer": 2,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 4(4+4-1)=28。\n\n关键推导\n$$\nS_{4}=\\frac{4}2[2\\cdot4+(4-1)\\cdot2]=28\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $4(4+4-1)=28$。\n\n关键推导\n$$\nS_{4}=\\frac{4}2[2\\cdot4+(4-1)\\cdot2]=28\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0794",
@@ -3879,7 +3879,7 @@
         "50"
       ],
       "answer": 1,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 5(5+5-1)=45。\n\n关键推导\n$$\nS_{5}=\\frac{5}2[2\\cdot5+(5-1)\\cdot2]=45\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $5(5+5-1)=45$。\n\n关键推导\n$$\nS_{5}=\\frac{5}2[2\\cdot5+(5-1)\\cdot2]=45\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0795",
@@ -3899,7 +3899,7 @@
         "42"
       ],
       "answer": 0,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 6(6+6-1)=66。\n\n关键推导\n$$\nS_{6}=\\frac{6}2[2\\cdot6+(6-1)\\cdot2]=66\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $6(6+6-1)=66$。\n\n关键推导\n$$\nS_{6}=\\frac{6}2[2\\cdot6+(6-1)\\cdot2]=66\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0796",
@@ -3919,7 +3919,7 @@
         "91"
       ],
       "answer": 3,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 7(7+7-1)=91。\n\n关键推导\n$$\nS_{7}=\\frac{7}2[2\\cdot7+(7-1)\\cdot2]=91\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $7(7+7-1)=91$。\n\n关键推导\n$$\nS_{7}=\\frac{7}2[2\\cdot7+(7-1)\\cdot2]=91\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0797",
@@ -3939,7 +3939,7 @@
         "64"
       ],
       "answer": 2,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 8(8+8-1)=120。\n\n关键推导\n$$\nS_{8}=\\frac{8}2[2\\cdot8+(8-1)\\cdot2]=120\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $8(8+8-1)=120$。\n\n关键推导\n$$\nS_{8}=\\frac{8}2[2\\cdot8+(8-1)\\cdot2]=120\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0798",
@@ -3959,7 +3959,7 @@
         "162"
       ],
       "answer": 1,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 9(9+9-1)=153。\n\n关键推导\n$$\nS_{9}=\\frac{9}2[2\\cdot9+(9-1)\\cdot2]=153\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $9(9+9-1)=153$。\n\n关键推导\n$$\nS_{9}=\\frac{9}2[2\\cdot9+(9-1)\\cdot2]=153\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0799",
@@ -3979,7 +3979,7 @@
         "110"
       ],
       "answer": 0,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 10(10+10-1)=190。\n\n关键推导\n$$\nS_{10}=\\frac{10}2[2\\cdot10+(10-1)\\cdot2]=190\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $10(10+10-1)=190$。\n\n关键推导\n$$\nS_{10}=\\frac{10}2[2\\cdot10+(10-1)\\cdot2]=190\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0800",
@@ -3999,7 +3999,7 @@
         "231"
       ],
       "answer": 3,
-      "explanation": "S_n=n[2a₁+(n-1)d]/2，代入得 11(11+11-1)=231。\n\n关键推导\n$$\nS_{11}=\\frac{11}2[2\\cdot11+(11-1)\\cdot2]=231\n$$\n求和公式里的 n 同时出现在项数和末项位置，代入时要保持一致。"
+      "explanation": "$S_n=n[2a_{1}+(n-1)d]/2$，代入得 $11(11+11-1)=231$。\n\n关键推导\n$$\nS_{11}=\\frac{11}2[2\\cdot11+(11-1)\\cdot2]=231\n$$\n求和公式里的 $n$ 同时出现在项数和末项位置，代入时要保持一致。"
     },
     {
       "id": "M0801",
@@ -4019,7 +4019,7 @@
         "108"
       ],
       "answer": 0,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=10。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=90。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=10,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=90.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=10$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=90$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=10,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=90.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0802",
@@ -4039,7 +4039,7 @@
         "99"
       ],
       "answer": 3,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=11。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=99。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=11,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=99.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=11$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=99$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=11,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=99.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0803",
@@ -4059,7 +4059,7 @@
         "72"
       ],
       "answer": 2,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=12。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=108。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=12,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=108.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=12$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=108$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=12,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=108.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0804",
@@ -4079,7 +4079,7 @@
         "99"
       ],
       "answer": 1,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=13。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=117。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=13,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=117.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=13$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=117$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=13,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=117.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0805",
@@ -4099,7 +4099,7 @@
         "144"
       ],
       "answer": 0,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=14。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=126。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=14,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=126.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=14$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=126$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=14,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=126.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0806",
@@ -4119,7 +4119,7 @@
         "135"
       ],
       "answer": 3,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=15。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=135。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=15,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=135.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=15$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=135$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=15,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=135.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0807",
@@ -4139,7 +4139,7 @@
         "108"
       ],
       "answer": 2,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=16。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=144。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=16,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=144.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=16$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=144$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=16,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=144.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0808",
@@ -4159,7 +4159,7 @@
         "135"
       ],
       "answer": 1,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=17。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=153。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=17,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=153.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=17$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=153$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=17,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=153.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0809",
@@ -4179,7 +4179,7 @@
         "180"
       ],
       "answer": 0,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=18。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=162。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=18,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=162.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=18$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=162$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=18,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=162.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0810",
@@ -4199,7 +4199,7 @@
         "171"
       ],
       "answer": 3,
-      "explanation": "由 a₇-a₃=4d 得 d=2，a₅=a₃+2d=19。奇数项前 n 项和等于项数乘中间项，S₉=9a₅=171。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=19,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=171.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
+      "explanation": "由 $a_{7}-a_{3}=4d$ 得 $d=2$，$a_{5}=a_{3}+2d=19$。奇数项前 $n$ 项和等于项数乘中间项，$S_{9}=9a_{5}=171$。\n\n关键推导\n$$\n\\begin{aligned}d&=\\frac{a_7-a_3}{7-3}=2,\\\\a_5&=a_3+2d=19,\\\\S_9&=\\frac92(a_1+a_9)=9a_5=171.\\end{aligned}\n$$\n奇数项求和可用正中间项乘项数，减少求首末项的步骤。"
     },
     {
       "id": "M0811",
@@ -4219,7 +4219,7 @@
         "13"
       ],
       "answer": 3,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=13。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=2+11=13\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=13$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=2+11=13\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0812",
@@ -4239,7 +4239,7 @@
         "12"
       ],
       "answer": 2,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=15。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=3+12=15\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=15$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=3+12=15\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0813",
@@ -4259,7 +4259,7 @@
         "20"
       ],
       "answer": 1,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=17。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=4+13=17\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=17$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=4+13=17\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0814",
@@ -4279,7 +4279,7 @@
         "14"
       ],
       "answer": 0,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=19。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=5+14=19\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=19$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=5+14=19\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0815",
@@ -4299,7 +4299,7 @@
         "21"
       ],
       "answer": 3,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=21。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=6+15=21\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=21$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=6+15=21\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0816",
@@ -4319,7 +4319,7 @@
         "20"
       ],
       "answer": 2,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=23。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=7+16=23\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=23$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=7+16=23\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0817",
@@ -4339,7 +4339,7 @@
         "28"
       ],
       "answer": 1,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=25。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=8+17=25\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=25$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=8+17=25\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0818",
@@ -4359,7 +4359,7 @@
         "18"
       ],
       "answer": 0,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=27。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=9+18=27\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=27$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=9+18=27\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0819",
@@ -4379,7 +4379,7 @@
         "29"
       ],
       "answer": 3,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=29。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=10+19=29\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=29$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=10+19=29\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0820",
@@ -4399,7 +4399,7 @@
         "28"
       ],
       "answer": 2,
-      "explanation": "等差数列的下标和相同则项和相同：a₁+a₆=a₂+a₅=31。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=11+20=31\n$$\n下标和相同时，通项展开后系数相同。"
+      "explanation": "等差数列的下标和相同则项和相同：$a_{1}+a_{6}=a_{2}+a_{5}=31$。\n\n关键推导\n$$\na_1+a_6=2a_1+5d=a_2+a_5=11+20=31\n$$\n下标和相同时，通项展开后系数相同。"
     },
     {
       "id": "M0821",
@@ -4419,7 +4419,7 @@
         "2"
       ],
       "answer": 3,
-      "explanation": "S_n=n(3-n)。最大值在相邻整数 n=1,2 处取得，均为 2；其余整数严格更小。亦可解 (n-1)(n-2)≤0 得 n∈[1,2]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(3-n),\\\\S_n\\ge2&\\iff(n-1)(n-2)\\le0\\\\&\\iff1\\le n\\le2.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(3-n)$。最大值在相邻整数 $n=1,2$ 处取得，均为 $2$；其余整数严格更小。亦可解 $(n-1)(n-2)\\le 0$ 得 $n\\in [1,2]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(3-n),\\\\S_n\\ge2&\\iff(n-1)(n-2)\\le0\\\\&\\iff1\\le n\\le2.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0822",
@@ -4439,7 +4439,7 @@
         "1"
       ],
       "answer": 2,
-      "explanation": "S_n=n(5-n)。最大值在相邻整数 n=2,3 处取得，均为 6；其余整数严格更小。亦可解 (n-2)(n-3)≤0 得 n∈[2,3]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(5-n),\\\\S_n\\ge6&\\iff(n-2)(n-3)\\le0\\\\&\\iff2\\le n\\le3.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(5-n)$。最大值在相邻整数 $n=2,3$ 处取得，均为 $6$；其余整数严格更小。亦可解 $(n-2)(n-3)\\le 0$ 得 $n\\in [2,3]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(5-n),\\\\S_n\\ge6&\\iff(n-2)(n-3)\\le0\\\\&\\iff2\\le n\\le3.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0823",
@@ -4459,7 +4459,7 @@
         "3"
       ],
       "answer": 1,
-      "explanation": "S_n=n(7-n)。最大值在相邻整数 n=3,4 处取得，均为 12；其余整数严格更小。亦可解 (n-3)(n-4)≤0 得 n∈[3,4]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(7-n),\\\\S_n\\ge12&\\iff(n-3)(n-4)\\le0\\\\&\\iff3\\le n\\le4.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(7-n)$。最大值在相邻整数 $n=3,4$ 处取得，均为 $12$；其余整数严格更小。亦可解 $(n-3)(n-4)\\le 0$ 得 $n\\in [3,4]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(7-n),\\\\S_n\\ge12&\\iff(n-3)(n-4)\\le0\\\\&\\iff3\\le n\\le4.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0824",
@@ -4479,7 +4479,7 @@
         "5"
       ],
       "answer": 0,
-      "explanation": "S_n=n(9-n)。最大值在相邻整数 n=4,5 处取得，均为 20；其余整数严格更小。亦可解 (n-4)(n-5)≤0 得 n∈[4,5]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(9-n),\\\\S_n\\ge20&\\iff(n-4)(n-5)\\le0\\\\&\\iff4\\le n\\le5.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(9-n)$。最大值在相邻整数 $n=4,5$ 处取得，均为 $20$；其余整数严格更小。亦可解 $(n-4)(n-5)\\le 0$ 得 $n\\in [4,5]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(9-n),\\\\S_n\\ge20&\\iff(n-4)(n-5)\\le0\\\\&\\iff4\\le n\\le5.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0825",
@@ -4499,7 +4499,7 @@
         "2"
       ],
       "answer": 3,
-      "explanation": "S_n=n(11-n)。最大值在相邻整数 n=5,6 处取得，均为 30；其余整数严格更小。亦可解 (n-5)(n-6)≤0 得 n∈[5,6]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(11-n),\\\\S_n\\ge30&\\iff(n-5)(n-6)\\le0\\\\&\\iff5\\le n\\le6.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(11-n)$。最大值在相邻整数 $n=5,6$ 处取得，均为 $30$；其余整数严格更小。亦可解 $(n-5)(n-6)\\le 0$ 得 $n\\in [5,6]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(11-n),\\\\S_n\\ge30&\\iff(n-5)(n-6)\\le0\\\\&\\iff5\\le n\\le6.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0826",
@@ -4519,7 +4519,7 @@
         "1"
       ],
       "answer": 2,
-      "explanation": "S_n=n(13-n)。最大值在相邻整数 n=6,7 处取得，均为 42；其余整数严格更小。亦可解 (n-6)(n-7)≤0 得 n∈[6,7]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(13-n),\\\\S_n\\ge42&\\iff(n-6)(n-7)\\le0\\\\&\\iff6\\le n\\le7.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(13-n)$。最大值在相邻整数 $n=6,7$ 处取得，均为 $42$；其余整数严格更小。亦可解 $(n-6)(n-7)\\le 0$ 得 $n\\in [6,7]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(13-n),\\\\S_n\\ge42&\\iff(n-6)(n-7)\\le0\\\\&\\iff6\\le n\\le7.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0827",
@@ -4539,7 +4539,7 @@
         "3"
       ],
       "answer": 1,
-      "explanation": "S_n=n(15-n)。最大值在相邻整数 n=7,8 处取得，均为 56；其余整数严格更小。亦可解 (n-7)(n-8)≤0 得 n∈[7,8]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(15-n),\\\\S_n\\ge56&\\iff(n-7)(n-8)\\le0\\\\&\\iff7\\le n\\le8.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(15-n)$。最大值在相邻整数 $n=7,8$ 处取得，均为 $56$；其余整数严格更小。亦可解 $(n-7)(n-8)\\le 0$ 得 $n\\in [7,8]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(15-n),\\\\S_n\\ge56&\\iff(n-7)(n-8)\\le0\\\\&\\iff7\\le n\\le8.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0828",
@@ -4559,7 +4559,7 @@
         "9"
       ],
       "answer": 0,
-      "explanation": "S_n=n(17-n)。最大值在相邻整数 n=8,9 处取得，均为 72；其余整数严格更小。亦可解 (n-8)(n-9)≤0 得 n∈[8,9]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(17-n),\\\\S_n\\ge72&\\iff(n-8)(n-9)\\le0\\\\&\\iff8\\le n\\le9.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(17-n)$。最大值在相邻整数 $n=8,9$ 处取得，均为 $72$；其余整数严格更小。亦可解 $(n-8)(n-9)\\le 0$ 得 $n\\in [8,9]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(17-n),\\\\S_n\\ge72&\\iff(n-8)(n-9)\\le0\\\\&\\iff8\\le n\\le9.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0829",
@@ -4579,7 +4579,7 @@
         "2"
       ],
       "answer": 3,
-      "explanation": "S_n=n(19-n)。最大值在相邻整数 n=9,10 处取得，均为 90；其余整数严格更小。亦可解 (n-9)(n-10)≤0 得 n∈[9,10]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(19-n),\\\\S_n\\ge90&\\iff(n-9)(n-10)\\le0\\\\&\\iff9\\le n\\le10.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(19-n)$。最大值在相邻整数 $n=9,10$ 处取得，均为 $90$；其余整数严格更小。亦可解 $(n-9)(n-10)\\le 0$ 得 $n\\in [9,10]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(19-n),\\\\S_n\\ge90&\\iff(n-9)(n-10)\\le0\\\\&\\iff9\\le n\\le10.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0830",
@@ -4599,7 +4599,7 @@
         "1"
       ],
       "answer": 2,
-      "explanation": "S_n=n(21-n)。最大值在相邻整数 n=10,11 处取得，均为 110；其余整数严格更小。亦可解 (n-10)(n-11)≤0 得 n∈[10,11]，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(21-n),\\\\S_n\\ge110&\\iff(n-10)(n-11)\\le0\\\\&\\iff10\\le n\\le11.\\end{aligned}\n$$\n两端都是正整数，且相差 1，因此恰有两个 n。连续区间长度与整数点个数不能混淆。"
+      "explanation": "$S_n=n(21-n)$。最大值在相邻整数 $n=10,11$ 处取得，均为 $110$；其余整数严格更小。亦可解 $(n-10)(n-11)\\le 0$ 得 $n\\in [10,11]$，恰有两个整数。\n\n关键推导\n$$\n\\begin{aligned}S_n&=n(21-n),\\\\S_n\\ge110&\\iff(n-10)(n-11)\\le0\\\\&\\iff10\\le n\\le11.\\end{aligned}\n$$\n两端都是正整数，且相差 $1$，因此恰有两个 $n$。连续区间长度与整数点个数不能混淆。"
     },
     {
       "id": "M0831",
@@ -4619,7 +4619,7 @@
         "3"
       ],
       "answer": 2,
-      "explanation": "S_n=n(5)-n(n+1)=n(4-n)=4-(n-2)²。n 为正整数，n=2 可取等，故最大值 4。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(5-2k)=n(4-n)=4-(n-2)^2\\le4\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(5)-n(n+1)=n(4-n)=4-(n-2)^{2}$。$n$ 为正整数，$n=2$ 可取等，故最大值 $4$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(5-2k)=n(4-n)=4-(n-2)^2\\le4\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0832",
@@ -4639,7 +4639,7 @@
         "12"
       ],
       "answer": 1,
-      "explanation": "S_n=n(7)-n(n+1)=n(6-n)=9-(n-3)²。n 为正整数，n=3 可取等，故最大值 9。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(7-2k)=n(6-n)=9-(n-3)^2\\le9\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(7)-n(n+1)=n(6-n)=9-(n-3)^{2}$。$n$ 为正整数，$n=3$ 可取等，故最大值 $9$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(7-2k)=n(6-n)=9-(n-3)^2\\le9\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0833",
@@ -4659,7 +4659,7 @@
         "12"
       ],
       "answer": 0,
-      "explanation": "S_n=n(9)-n(n+1)=n(8-n)=16-(n-4)²。n 为正整数，n=4 可取等，故最大值 16。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(9-2k)=n(8-n)=16-(n-4)^2\\le16\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(9)-n(n+1)=n(8-n)=16-(n-4)^{2}$。$n$ 为正整数，$n=4$ 可取等，故最大值 $16$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(9-2k)=n(8-n)=16-(n-4)^2\\le16\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0834",
@@ -4679,7 +4679,7 @@
         "25"
       ],
       "answer": 3,
-      "explanation": "S_n=n(11)-n(n+1)=n(10-n)=25-(n-5)²。n 为正整数，n=5 可取等，故最大值 25。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(11-2k)=n(10-n)=25-(n-5)^2\\le25\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(11)-n(n+1)=n(10-n)=25-(n-5)^{2}$。$n$ 为正整数，$n=5$ 可取等，故最大值 $25$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(11-2k)=n(10-n)=25-(n-5)^2\\le25\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0835",
@@ -4699,7 +4699,7 @@
         "35"
       ],
       "answer": 2,
-      "explanation": "S_n=n(13)-n(n+1)=n(12-n)=36-(n-6)²。n 为正整数，n=6 可取等，故最大值 36。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(13-2k)=n(12-n)=36-(n-6)^2\\le36\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(13)-n(n+1)=n(12-n)=36-(n-6)^{2}$。$n$ 为正整数，$n=6$ 可取等，故最大值 $36$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(13-2k)=n(12-n)=36-(n-6)^2\\le36\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0836",
@@ -4719,7 +4719,7 @@
         "56"
       ],
       "answer": 1,
-      "explanation": "S_n=n(15)-n(n+1)=n(14-n)=49-(n-7)²。n 为正整数，n=7 可取等，故最大值 49。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(15-2k)=n(14-n)=49-(n-7)^2\\le49\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(15)-n(n+1)=n(14-n)=49-(n-7)^{2}$。$n$ 为正整数，$n=7$ 可取等，故最大值 $49$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(15-2k)=n(14-n)=49-(n-7)^2\\le49\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0837",
@@ -4739,7 +4739,7 @@
         "56"
       ],
       "answer": 0,
-      "explanation": "S_n=n(17)-n(n+1)=n(16-n)=64-(n-8)²。n 为正整数，n=8 可取等，故最大值 64。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(17-2k)=n(16-n)=64-(n-8)^2\\le64\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(17)-n(n+1)=n(16-n)=64-(n-8)^{2}$。$n$ 为正整数，$n=8$ 可取等，故最大值 $64$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(17-2k)=n(16-n)=64-(n-8)^2\\le64\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0838",
@@ -4759,7 +4759,7 @@
         "81"
       ],
       "answer": 3,
-      "explanation": "S_n=n(19)-n(n+1)=n(18-n)=81-(n-9)²。n 为正整数，n=9 可取等，故最大值 81。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(19-2k)=n(18-n)=81-(n-9)^2\\le81\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(19)-n(n+1)=n(18-n)=81-(n-9)^{2}$。$n$ 为正整数，$n=9$ 可取等，故最大值 $81$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(19-2k)=n(18-n)=81-(n-9)^2\\le81\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0839",
@@ -4779,7 +4779,7 @@
         "99"
       ],
       "answer": 2,
-      "explanation": "S_n=n(21)-n(n+1)=n(20-n)=100-(n-10)²。n 为正整数，n=10 可取等，故最大值 100。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(21-2k)=n(20-n)=100-(n-10)^2\\le100\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(21)-n(n+1)=n(20-n)=100-(n-10)^{2}$。$n$ 为正整数，$n=10$ 可取等，故最大值 $100$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(21-2k)=n(20-n)=100-(n-10)^2\\le100\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0840",
@@ -4799,7 +4799,7 @@
         "132"
       ],
       "answer": 1,
-      "explanation": "S_n=n(23)-n(n+1)=n(22-n)=121-(n-11)²。n 为正整数，n=11 可取等，故最大值 121。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(23-2k)=n(22-n)=121-(n-11)^2\\le121\n$$\n等号在正整数 n=a 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
+      "explanation": "$S_n=n(23)-n(n+1)=n(22-n)=121-(n-11)^{2}$。$n$ 为正整数，$n=11$ 可取等，故最大值 $121$。\n\n关键推导\n$$\nS_n=\\sum_{k=1}^n(23-2k)=n(22-n)=121-(n-11)^2\\le121\n$$\n等号在正整数 $n=a$ 取得，不能仅用实变量二次函数的顶点而不检查整数约束。"
     },
     {
       "id": "M0841",
@@ -4819,7 +4819,7 @@
         "162"
       ],
       "answer": 1,
-      "explanation": "a₄=a₁q³=2×27=54。\n\n关键推导\n$$\na_4=a_1q^3=2\\cdot3^3=54\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=2\\times 27=54$。\n\n关键推导\n$$\na_4=a_1q^3=2\\cdot3^3=54\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0842",
@@ -4839,7 +4839,7 @@
         "36"
       ],
       "answer": 0,
-      "explanation": "a₄=a₁q³=3×27=81。\n\n关键推导\n$$\na_4=a_1q^3=3\\cdot3^3=81\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=3\\times 27=81$。\n\n关键推导\n$$\na_4=a_1q^3=3\\cdot3^3=81\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0843",
@@ -4859,7 +4859,7 @@
         "108"
       ],
       "answer": 3,
-      "explanation": "a₄=a₁q³=4×27=108。\n\n关键推导\n$$\na_4=a_1q^3=4\\cdot3^3=108\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=4\\times 27=108$。\n\n关键推导\n$$\na_4=a_1q^3=4\\cdot3^3=108\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0844",
@@ -4879,7 +4879,7 @@
         "45"
       ],
       "answer": 2,
-      "explanation": "a₄=a₁q³=5×27=135。\n\n关键推导\n$$\na_4=a_1q^3=5\\cdot3^3=135\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=5\\times 27=135$。\n\n关键推导\n$$\na_4=a_1q^3=5\\cdot3^3=135\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0845",
@@ -4899,7 +4899,7 @@
         "486"
       ],
       "answer": 1,
-      "explanation": "a₄=a₁q³=6×27=162。\n\n关键推导\n$$\na_4=a_1q^3=6\\cdot3^3=162\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=6\\times 27=162$。\n\n关键推导\n$$\na_4=a_1q^3=6\\cdot3^3=162\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0846",
@@ -4919,7 +4919,7 @@
         "84"
       ],
       "answer": 0,
-      "explanation": "a₄=a₁q³=7×27=189。\n\n关键推导\n$$\na_4=a_1q^3=7\\cdot3^3=189\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=7\\times 27=189$。\n\n关键推导\n$$\na_4=a_1q^3=7\\cdot3^3=189\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0847",
@@ -4939,7 +4939,7 @@
         "216"
       ],
       "answer": 3,
-      "explanation": "a₄=a₁q³=8×27=216。\n\n关键推导\n$$\na_4=a_1q^3=8\\cdot3^3=216\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=8\\times 27=216$。\n\n关键推导\n$$\na_4=a_1q^3=8\\cdot3^3=216\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0848",
@@ -4959,7 +4959,7 @@
         "81"
       ],
       "answer": 2,
-      "explanation": "a₄=a₁q³=9×27=243。\n\n关键推导\n$$\na_4=a_1q^3=9\\cdot3^3=243\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=9\\times 27=243$。\n\n关键推导\n$$\na_4=a_1q^3=9\\cdot3^3=243\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0849",
@@ -4979,7 +4979,7 @@
         "810"
       ],
       "answer": 1,
-      "explanation": "a₄=a₁q³=10×27=270。\n\n关键推导\n$$\na_4=a_1q^3=10\\cdot3^3=270\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=10\\times 27=270$。\n\n关键推导\n$$\na_4=a_1q^3=10\\cdot3^3=270\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0850",
@@ -4999,7 +4999,7 @@
         "132"
       ],
       "answer": 0,
-      "explanation": "a₄=a₁q³=11×27=297。\n\n关键推导\n$$\na_4=a_1q^3=11\\cdot3^3=297\n$$\n通项指数是项数减一，要乘三次公比。"
+      "explanation": "$a_{4}=a_{1}q^{3}=11\\times 27=297$。\n\n关键推导\n$$\na_4=a_1q^3=11\\cdot3^3=297\n$$\n通项指数是项数减一，要乘三次公比。"
     },
     {
       "id": "M0851",
@@ -5019,7 +5019,7 @@
         "6"
       ],
       "answer": 0,
-      "explanation": "前三项分别为 2、4、8，和为 14。\n\n关键推导\n$$\nS_3=2(1+2+2^2)=14\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $2$、$4$、$8$，和为 $14$。\n\n关键推导\n$$\nS_3=2(1+2+2^2)=14\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0852",
@@ -5039,7 +5039,7 @@
         "21"
       ],
       "answer": 3,
-      "explanation": "前三项分别为 3、6、12，和为 21。\n\n关键推导\n$$\nS_3=3(1+2+2^2)=21\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $3$、$6$、$12$，和为 $21$。\n\n关键推导\n$$\nS_3=3(1+2+2^2)=21\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0853",
@@ -5059,7 +5059,7 @@
         "24"
       ],
       "answer": 2,
-      "explanation": "前三项分别为 4、8、16，和为 28。\n\n关键推导\n$$\nS_3=4(1+2+2^2)=28\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $4$、$8$、$16$，和为 $28$。\n\n关键推导\n$$\nS_3=4(1+2+2^2)=28\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0854",
@@ -5079,7 +5079,7 @@
         "40"
       ],
       "answer": 1,
-      "explanation": "前三项分别为 5、10、20，和为 35。\n\n关键推导\n$$\nS_3=5(1+2+2^2)=35\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $5$、$10$、$20$，和为 $35$。\n\n关键推导\n$$\nS_3=5(1+2+2^2)=35\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0855",
@@ -5099,7 +5099,7 @@
         "18"
       ],
       "answer": 0,
-      "explanation": "前三项分别为 6、12、24，和为 42。\n\n关键推导\n$$\nS_3=6(1+2+2^2)=42\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $6$、$12$、$24$，和为 $42$。\n\n关键推导\n$$\nS_3=6(1+2+2^2)=42\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0856",
@@ -5119,7 +5119,7 @@
         "49"
       ],
       "answer": 3,
-      "explanation": "前三项分别为 7、14、28，和为 49。\n\n关键推导\n$$\nS_3=7(1+2+2^2)=49\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $7$、$14$、$28$，和为 $49$。\n\n关键推导\n$$\nS_3=7(1+2+2^2)=49\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0857",
@@ -5139,7 +5139,7 @@
         "48"
       ],
       "answer": 2,
-      "explanation": "前三项分别为 8、16、32，和为 56。\n\n关键推导\n$$\nS_3=8(1+2+2^2)=56\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $8$、$16$、$32$，和为 $56$。\n\n关键推导\n$$\nS_3=8(1+2+2^2)=56\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0858",
@@ -5159,7 +5159,7 @@
         "72"
       ],
       "answer": 1,
-      "explanation": "前三项分别为 9、18、36，和为 63。\n\n关键推导\n$$\nS_3=9(1+2+2^2)=63\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $9$、$18$、$36$，和为 $63$。\n\n关键推导\n$$\nS_3=9(1+2+2^2)=63\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0859",
@@ -5179,7 +5179,7 @@
         "30"
       ],
       "answer": 0,
-      "explanation": "前三项分别为 10、20、40，和为 70。\n\n关键推导\n$$\nS_3=10(1+2+2^2)=70\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $10$、$20$、$40$，和为 $70$。\n\n关键推导\n$$\nS_3=10(1+2+2^2)=70\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0860",
@@ -5199,7 +5199,7 @@
         "77"
       ],
       "answer": 3,
-      "explanation": "前三项分别为 11、22、44，和为 77。\n\n关键推导\n$$\nS_3=11(1+2+2^2)=77\n$$\n只累加前三项；公比为 2 时第 3 项是首项的 4 倍。"
+      "explanation": "前三项分别为 $11$、$22$、$44$，和为 $77$。\n\n关键推导\n$$\nS_3=11(1+2+2^2)=77\n$$\n只累加前三项；公比为 $2$ 时第 $3$ 项是首项的 $4$ 倍。"
     },
     {
       "id": "M0861",
@@ -5219,7 +5219,7 @@
         "2"
       ],
       "answer": 0,
-      "explanation": "第 n 轮后数量为 2·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n2\\cdot2^n\\ge256\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $2\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n2\\cdot2^n\\ge256\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0862",
@@ -5239,7 +5239,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "第 n 轮后数量为 3·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n3\\cdot2^n\\ge384\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $3\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n3\\cdot2^n\\ge384\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0863",
@@ -5259,7 +5259,7 @@
         "6"
       ],
       "answer": 2,
-      "explanation": "第 n 轮后数量为 4·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n4\\cdot2^n\\ge512\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $4\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n4\\cdot2^n\\ge512\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0864",
@@ -5279,7 +5279,7 @@
         "8"
       ],
       "answer": 1,
-      "explanation": "第 n 轮后数量为 5·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n5\\cdot2^n\\ge640\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $5\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n5\\cdot2^n\\ge640\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0865",
@@ -5299,7 +5299,7 @@
         "10"
       ],
       "answer": 0,
-      "explanation": "第 n 轮后数量为 6·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n6\\cdot2^n\\ge768\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $6\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n6\\cdot2^n\\ge768\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0866",
@@ -5319,7 +5319,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "第 n 轮后数量为 7·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n7\\cdot2^n\\ge896\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $7\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n7\\cdot2^n\\ge896\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0867",
@@ -5339,7 +5339,7 @@
         "6"
       ],
       "answer": 2,
-      "explanation": "第 n 轮后数量为 8·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n8\\cdot2^n\\ge1024\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $8\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n8\\cdot2^n\\ge1024\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0868",
@@ -5359,7 +5359,7 @@
         "8"
       ],
       "answer": 1,
-      "explanation": "第 n 轮后数量为 9·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n9\\cdot2^n\\ge1152\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $9\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n9\\cdot2^n\\ge1152\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0869",
@@ -5379,7 +5379,7 @@
         "10"
       ],
       "answer": 0,
-      "explanation": "第 n 轮后数量为 10·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n10\\cdot2^n\\ge1280\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $10\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n10\\cdot2^n\\ge1280\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0870",
@@ -5399,7 +5399,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "第 n 轮后数量为 11·2ⁿ，要求 2ⁿ≥128=2⁷，最小整数 n=7。\n\n关键推导\n$$\n11\\cdot2^n\\ge1408\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，n=0 表示尚未翻倍。"
+      "explanation": "第 $n$ 轮后数量为 $11\\cdot 2^{n}$，要求 $2^{n}\\ge 128=2^{7}$，最小整数 $n=7$。\n\n关键推导\n$$\n11\\cdot2^n\\ge1408\\iff2^n\\ge2^7\\iff n\\ge7\n$$\n轮数从初始状态之后开始计算，$n=0$ 表示尚未翻倍。"
     },
     {
       "id": "M0871",
@@ -5419,7 +5419,7 @@
         "8"
       ],
       "answer": 3,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=64；因各项为正，取 a₄=8。\n\n关键推导\n$$\na_4^2=a_2a_6=2\\cdot32=64\\Longrightarrow a_4=8\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=64$；因各项为正，取 $a_{4}=8$。\n\n关键推导\n$$\na_4^2=a_2a_6=2\\cdot32=64\\Longrightarrow a_4=8\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0872",
@@ -5439,7 +5439,7 @@
         "-12"
       ],
       "answer": 2,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=144；因各项为正，取 a₄=12。\n\n关键推导\n$$\na_4^2=a_2a_6=3\\cdot48=144\\Longrightarrow a_4=12\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=144$；因各项为正，取 $a_{4}=12$。\n\n关键推导\n$$\na_4^2=a_2a_6=3\\cdot48=144\\Longrightarrow a_4=12\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0873",
@@ -5459,7 +5459,7 @@
         "32"
       ],
       "answer": 1,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=256；因各项为正，取 a₄=16。\n\n关键推导\n$$\na_4^2=a_2a_6=4\\cdot64=256\\Longrightarrow a_4=16\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=256$；因各项为正，取 $a_{4}=16$。\n\n关键推导\n$$\na_4^2=a_2a_6=4\\cdot64=256\\Longrightarrow a_4=16\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0874",
@@ -5479,7 +5479,7 @@
         "80"
       ],
       "answer": 0,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=400；因各项为正，取 a₄=20。\n\n关键推导\n$$\na_4^2=a_2a_6=5\\cdot80=400\\Longrightarrow a_4=20\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=400$；因各项为正，取 $a_{4}=20$。\n\n关键推导\n$$\na_4^2=a_2a_6=5\\cdot80=400\\Longrightarrow a_4=20\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0875",
@@ -5499,7 +5499,7 @@
         "24"
       ],
       "answer": 3,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=576；因各项为正，取 a₄=24。\n\n关键推导\n$$\na_4^2=a_2a_6=6\\cdot96=576\\Longrightarrow a_4=24\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=576$；因各项为正，取 $a_{4}=24$。\n\n关键推导\n$$\na_4^2=a_2a_6=6\\cdot96=576\\Longrightarrow a_4=24\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0876",
@@ -5519,7 +5519,7 @@
         "-28"
       ],
       "answer": 2,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=784；因各项为正，取 a₄=28。\n\n关键推导\n$$\na_4^2=a_2a_6=7\\cdot112=784\\Longrightarrow a_4=28\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=784$；因各项为正，取 $a_{4}=28$。\n\n关键推导\n$$\na_4^2=a_2a_6=7\\cdot112=784\\Longrightarrow a_4=28\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0877",
@@ -5539,7 +5539,7 @@
         "64"
       ],
       "answer": 1,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1024；因各项为正，取 a₄=32。\n\n关键推导\n$$\na_4^2=a_2a_6=8\\cdot128=1024\\Longrightarrow a_4=32\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=1024$；因各项为正，取 $a_{4}=32$。\n\n关键推导\n$$\na_4^2=a_2a_6=8\\cdot128=1024\\Longrightarrow a_4=32\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0878",
@@ -5559,7 +5559,7 @@
         "144"
       ],
       "answer": 0,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1296；因各项为正，取 a₄=36。\n\n关键推导\n$$\na_4^2=a_2a_6=9\\cdot144=1296\\Longrightarrow a_4=36\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=1296$；因各项为正，取 $a_{4}=36$。\n\n关键推导\n$$\na_4^2=a_2a_6=9\\cdot144=1296\\Longrightarrow a_4=36\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0879",
@@ -5579,7 +5579,7 @@
         "40"
       ],
       "answer": 3,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1600；因各项为正，取 a₄=40。\n\n关键推导\n$$\na_4^2=a_2a_6=10\\cdot160=1600\\Longrightarrow a_4=40\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=1600$；因各项为正，取 $a_{4}=40$。\n\n关键推导\n$$\na_4^2=a_2a_6=10\\cdot160=1600\\Longrightarrow a_4=40\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0880",
@@ -5599,7 +5599,7 @@
         "-44"
       ],
       "answer": 2,
-      "explanation": "中间项平方等于两边项乘积，a₄²=a₂a₆=1936；因各项为正，取 a₄=44。\n\n关键推导\n$$\na_4^2=a_2a_6=11\\cdot176=1936\\Longrightarrow a_4=44\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
+      "explanation": "中间项平方等于两边项乘积，$a_{4}^{2}=a_{2}a_{6}=1936$；因各项为正，取 $a_{4}=44$。\n\n关键推导\n$$\na_4^2=a_2a_6=11\\cdot176=1936\\Longrightarrow a_4=44\n$$\n由正项条件选择正平方根；若没有这个条件需保留负根的可能。"
     },
     {
       "id": "M0881",
@@ -5619,7 +5619,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "S_n=2(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 2(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{2[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>42\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=2(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $2(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{2[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>42\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0882",
@@ -5639,7 +5639,7 @@
         "5"
       ],
       "answer": 2,
-      "explanation": "S_n=3(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 3(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{3[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>63\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=3(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $3(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{3[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>63\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0883",
@@ -5659,7 +5659,7 @@
         "6"
       ],
       "answer": 1,
-      "explanation": "S_n=4(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 4(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{4[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>84\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=4(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $4(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{4[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>84\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0884",
@@ -5679,7 +5679,7 @@
         "8"
       ],
       "answer": 0,
-      "explanation": "S_n=5(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 5(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{5[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>105\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=5(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $5(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{5[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>105\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0885",
@@ -5699,7 +5699,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "S_n=6(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 6(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{6[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>126\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=6(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $6(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{6[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>126\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0886",
@@ -5719,7 +5719,7 @@
         "5"
       ],
       "answer": 2,
-      "explanation": "S_n=7(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 7(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{7[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>147\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=7(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $7(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{7[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>147\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0887",
@@ -5739,7 +5739,7 @@
         "6"
       ],
       "answer": 1,
-      "explanation": "S_n=8(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 8(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{8[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>168\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=8(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $8(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{8[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>168\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0888",
@@ -5759,7 +5759,7 @@
         "8"
       ],
       "answer": 0,
-      "explanation": "S_n=9(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 9(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{9[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>189\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=9(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $9(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{9[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>189\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0889",
@@ -5779,7 +5779,7 @@
         "7"
       ],
       "answer": 3,
-      "explanation": "S_n=10(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 10(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{10[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>210\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=10(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $10(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{10[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>210\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0890",
@@ -5799,7 +5799,7 @@
         "5"
       ],
       "answer": 2,
-      "explanation": "S_n=11(1-(-2)ⁿ)/3。偶数 n 的和为负，不满足；奇数 n 时为 11(1+2ⁿ)/3，需 2ⁿ>62。最小符合的奇数为 7（n=5 时 32 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{11[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>231\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 n 中找最小值；6 虽满足幂的大小，却不满足奇偶性。"
+      "explanation": "$S_n=11(1-(-2)^{n})/3$。偶数 $n$ 的和为负，不满足；奇数 $n$ 时为 $11(1+2^{n})/3$，需 $2^{n}>62$。最小符合的奇数为 $7$（$n=5$ 时 $32$ 不足）。\n\n关键推导\n$$\n\\begin{aligned}S_n&=\\frac{11[1-(-2)^n]}3,\\\\n\\text{ 偶}:&\\ S_n<0,\\\\n\\text{ 奇}:&\\ S_n>231\\iff2^n>62,\\\\2^5&<62<2^7.\\end{aligned}\n$$\n不等式先排除所有偶数项数，再在奇数 $n$ 中找最小值；$6$ 虽满足幂的大小，却不满足奇偶性。"
     },
     {
       "id": "M0891",
@@ -5819,7 +5819,7 @@
         "30"
       ],
       "answer": 2,
-      "explanation": "设首项 A、公比 q>0，则 Aq=4，A(1+q²)=10，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 2 或 8，前四项和分别 30 与 15，相加 45。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{2,8\\},\\\\S_4^{(1)}+S_4^{(2)}&=30+15=45.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=4$，$A(1+q^{2})=10$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $2$ 或 $8$，前四项和分别 $30$ 与 $15$，相加 $45$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{2,8\\},\\\\S_4^{(1)}+S_4^{(2)}&=30+15=45.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0892",
@@ -5839,7 +5839,7 @@
         "\\frac{45}{2}"
       ],
       "answer": 1,
-      "explanation": "设首项 A、公比 q>0，则 Aq=6，A(1+q²)=15，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 3 或 12，前四项和分别 45 与 $\\frac{45}{2}$，相加 $\\frac{135}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{3,12\\},\\\\S_4^{(1)}+S_4^{(2)}&=45+\\frac{45}{2}=\\frac{135}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=6$，$A(1+q^{2})=15$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $3$ 或 $12$，前四项和分别 $45$ 与 $\\frac{45}{2}$，相加 $\\frac{135}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{3,12\\},\\\\S_4^{(1)}+S_4^{(2)}&=45+\\frac{45}{2}=\\frac{135}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0893",
@@ -5859,7 +5859,7 @@
         "120"
       ],
       "answer": 0,
-      "explanation": "设首项 A、公比 q>0，则 Aq=8，A(1+q²)=20，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 4 或 16，前四项和分别 60 与 30，相加 90。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{4,16\\},\\\\S_4^{(1)}+S_4^{(2)}&=60+30=90.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=8$，$A(1+q^{2})=20$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $4$ 或 $16$，前四项和分别 $60$ 与 $30$，相加 $90$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{4,16\\},\\\\S_4^{(1)}+S_4^{(2)}&=60+30=90.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0894",
@@ -5879,7 +5879,7 @@
         "\\frac{225}{2}"
       ],
       "answer": 3,
-      "explanation": "设首项 A、公比 q>0，则 Aq=10，A(1+q²)=25，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 5 或 20，前四项和分别 75 与 $\\frac{75}{2}$，相加 $\\frac{225}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{5,20\\},\\\\S_4^{(1)}+S_4^{(2)}&=75+\\frac{75}{2}=\\frac{225}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=10$，$A(1+q^{2})=25$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $5$ 或 $20$，前四项和分别 $75$ 与 $\\frac{75}{2}$，相加 $\\frac{225}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{5,20\\},\\\\S_4^{(1)}+S_4^{(2)}&=75+\\frac{75}{2}=\\frac{225}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0895",
@@ -5899,7 +5899,7 @@
         "90"
       ],
       "answer": 2,
-      "explanation": "设首项 A、公比 q>0，则 Aq=12，A(1+q²)=30，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 6 或 24，前四项和分别 90 与 45，相加 135。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{6,24\\},\\\\S_4^{(1)}+S_4^{(2)}&=90+45=135.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=12$，$A(1+q^{2})=30$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $6$ 或 $24$，前四项和分别 $90$ 与 $45$，相加 $135$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{6,24\\},\\\\S_4^{(1)}+S_4^{(2)}&=90+45=135.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0896",
@@ -5919,7 +5919,7 @@
         "\\frac{105}{2}"
       ],
       "answer": 1,
-      "explanation": "设首项 A、公比 q>0，则 Aq=14，A(1+q²)=35，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 7 或 28，前四项和分别 105 与 $\\frac{105}{2}$，相加 $\\frac{315}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{7,28\\},\\\\S_4^{(1)}+S_4^{(2)}&=105+\\frac{105}{2}=\\frac{315}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=14$，$A(1+q^{2})=35$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $7$ 或 $28$，前四项和分别 $105$ 与 $\\frac{105}{2}$，相加 $\\frac{315}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{7,28\\},\\\\S_4^{(1)}+S_4^{(2)}&=105+\\frac{105}{2}=\\frac{315}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0897",
@@ -5939,7 +5939,7 @@
         "240"
       ],
       "answer": 0,
-      "explanation": "设首项 A、公比 q>0，则 Aq=16，A(1+q²)=40，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 8 或 32，前四项和分别 120 与 60，相加 180。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{8,32\\},\\\\S_4^{(1)}+S_4^{(2)}&=120+60=180.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=16$，$A(1+q^{2})=40$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $8$ 或 $32$，前四项和分别 $120$ 与 $60$，相加 $180$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{8,32\\},\\\\S_4^{(1)}+S_4^{(2)}&=120+60=180.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0898",
@@ -5959,7 +5959,7 @@
         "\\frac{405}{2}"
       ],
       "answer": 3,
-      "explanation": "设首项 A、公比 q>0，则 Aq=18，A(1+q²)=45，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 9 或 36，前四项和分别 135 与 $\\frac{135}{2}$，相加 $\\frac{405}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{9,36\\},\\\\S_4^{(1)}+S_4^{(2)}&=135+\\frac{135}{2}=\\frac{405}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=18$，$A(1+q^{2})=45$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $9$ 或 $36$，前四项和分别 $135$ 与 $\\frac{135}{2}$，相加 $\\frac{405}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{9,36\\},\\\\S_4^{(1)}+S_4^{(2)}&=135+\\frac{135}{2}=\\frac{405}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0899",
@@ -5979,7 +5979,7 @@
         "150"
       ],
       "answer": 2,
-      "explanation": "设首项 A、公比 q>0，则 Aq=20，A(1+q²)=50，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 10 或 40，前四项和分别 150 与 75，相加 225。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{10,40\\},\\\\S_4^{(1)}+S_4^{(2)}&=150+75=225.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=20$，$A(1+q^{2})=50$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $10$ 或 $40$，前四项和分别 $150$ 与 $75$，相加 $225$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{10,40\\},\\\\S_4^{(1)}+S_4^{(2)}&=150+75=225.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     },
     {
       "id": "M0900",
@@ -5999,7 +5999,7 @@
         "\\frac{165}{2}"
       ],
       "answer": 1,
-      "explanation": "设首项 A、公比 q>0，则 Aq=22，A(1+q²)=55，相除得 q+1/q=5/2，故 q=2 或 1/2。对应首项为 11 或 44，前四项和分别 165 与 $\\frac{165}{2}$，相加 $\\frac{495}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{11,44\\},\\\\S_4^{(1)}+S_4^{(2)}&=165+\\frac{165}{2}=\\frac{495}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 1 的公比。"
+      "explanation": "设首项 $A$、公比 $q>0$，则 $Aq=22$，$A(1+q^{2})=55$，相除得 $q+1/q=\\frac{5}{2}$，故 $q=2$ 或 $\\frac{1}{2}$。对应首项为 $11$ 或 $44$，前四项和分别 $165$ 与 $\\frac{165}{2}$，相加 $\\frac{495}{2}$。\n\n关键推导\n$$\n\\begin{aligned}\\frac{A(1+q^2)}{Aq}&=\\frac52\\Longrightarrow 2q^2-5q+2=0,\\\\q&\\in\\{2,\\tfrac12\\},\\quad A\\in\\{11,44\\},\\\\S_4^{(1)}+S_4^{(2)}&=165+\\frac{165}{2}=\\frac{495}{2}.\\end{aligned}\n$$\n两个公比都为正，均满足正项数列条件，必须分别求和后再相加；不能只取大于 $1$ 的公比。"
     }
   ]
 }

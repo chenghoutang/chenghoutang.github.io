@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
+import {withoutMath} from './math/latex-prose.mjs';
 import {createRequire} from 'node:module';
 const require=createRequire(import.meta.url),katex=require('../assets/katex/katex.min.js');
 const base=new URL('../math-practice/',import.meta.url);
@@ -28,6 +29,7 @@ for(const batch of manifest.batches){
    assert.ok(!/\$|\\[a-zA-Z]+/.test(plain),`Unrendered LaTeX: ${q.id}`);
   }
   assert.ok(q.explanation.includes('关键推导\n$$\n'),q.id+' missing worked derivation');
+  assert.ok(!/[A-Za-z0-9\p{Sm}\p{No}\p{M}′″]/u.test(withoutMath(q.explanation)),q.id+' formula outside LaTeX');
   q.options.forEach(render);families.set(q.family,(families.get(q.family)||0)+1);all.push(q);
  }
 }

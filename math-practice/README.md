@@ -10,6 +10,8 @@
 
 单题与试卷共用 `math-render.js`，支持 `$...$`、`\(...\)` 行内公式和 `$$...$$`、`\[...\]` 独立公式。多步推导可用 `aligned`、`cases`、`array` 等 LaTeX 环境，文字放在 `\text{...}` 内。手机上的长独立公式在自身区域横向滚动；页面以纯文本设置解析后交给 KaTeX 渲染，不允许解析注入 HTML。
 
+答案选项、解析正文、关键推导和补充说明中的数学表达式全部使用 LaTeX，包括导数、上下标、根式、分数、区间和求和。旧正文在构建时由 `scripts/math/latex-prose.mjs` 转换，已有 LaTeX 保留，并将插入的分数和相邻表达式合并。新增内容优先直接写完整 LaTeX，含中文的公式用 `\text{...}`，模板中的反斜杠用 `String.raw`（`L`）保留。题库检查会拒绝解析中遗漏在公式外的变量、数值和数学符号。
+
 ## 维护题库
 
 题目源文件为 `../scripts/math/batch-1.mjs` 至 `batch-6.mjs`，每批五个模块、300 题；思维训练源文件为 `../scripts/math/hell.mjs`，由第 7、8 批构建；新增题型源文件为 `../scripts/math/new-types.mjs`，第 9 批构建为 M2301–M2400。修改题目后重新构建对应批次：
@@ -17,6 +19,7 @@
 ```sh
 node scripts/build-math-bank.mjs 1
 node scripts/check-math-bank.mjs
+node scripts/check-math-latex.mjs
 node scripts/check-math-hell.mjs
 node scripts/check-math-new-types.mjs
 node scripts/check-math-exam.mjs
