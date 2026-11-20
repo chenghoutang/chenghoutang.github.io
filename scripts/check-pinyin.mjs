@@ -9,6 +9,29 @@ const rows = JSON.parse(fs.readFileSync(path.join(root, 'Chinese_DATA.json'), 'u
 const html = fs.readFileSync(path.join(root, 'pinyin.html'), 'utf8');
 const inline = JSON.parse(html.match(/const EMBEDDED_WORD_DATA = (\[[\s\S]*?\n\]);/)[1]);
 assert.deepEqual(inline, rows, 'Page must use the authoritative question bank.');
+const readingNotes = JSON.parse(fs.readFileSync(path.join(root, 'Chinese_READINGS.json'), 'utf8'));
+assert.deepEqual(JSON.parse(html.match(/const EMBEDDED_READING_NOTES = (\{[\s\S]*?\n\});/)[1]), readingNotes, 'Offline explanations must match the checked catalogue.');
+const readingIndex = new Map(readingNotes.notes.map(note => [note.target + '|' + note.reading, note]));
+const readingEvidence = JSON.parse(fs.readFileSync(path.join(root, 'scripts/pinyin-reading-evidence.json'), 'utf8'));
+const characterEvidence = new Map(readingEvidence.characters.map(entry => [entry.target, entry]));
+assert.equal(readingIndex.size, readingNotes.notes.length, 'No conflicting reading explanations.');
+const neededReadings = new Set(rows.flatMap(row => row.wrong.map(reading => row.target + '|' + reading.normalize('NFC').toLowerCase())));
+assert.deepEqual(new Set(readingIndex.keys()), neededReadings, 'Explain every authored distractor.');
+for (const note of readingNotes.notes) {
+    assert.ok(['other', 'special', 'historical', 'regional', 'unlisted', 'extended'].includes(note.status));
+    assert.ok(note.note.length > 10);
+    assert.ok(note.examples.length || ['unlisted', 'extended'].includes(note.status), `${note.target}/${note.reading} needs an example`);
+    for (const example of note.examples) {
+        assert.ok(example.text.includes(note.target));
+        assert.equal(example.target, note.target);
+        assert.equal(example.reading, note.reading);
+    }
+    if (note.status === 'unlisted') assert.equal(note.examples.length, 0);
+    const evidence = characterEvidence.get(note.target);
+    assert.equal(evidence.status, 200);
+    if (['unlisted', 'extended'].includes(note.status)) assert.ok(!evidence.readings.includes(note.reading), 'A missing bank example must not hide a dictionary reading');
+    if (note.status === 'extended') assert.ok(evidence.extendedReadings.includes(note.reading));
+}
 const expansion = JSON.parse(fs.readFileSync(path.join(root, 'scripts/pinyin-expansion-2026-11.json'), 'utf8'));
 assert.equal(expansion.records.length, expansion.addedCount);
 assert.ok(rows.length >= expansion.originalCount + expansion.addedCount);
@@ -84,6 +107,30 @@ const source = [...html.matchAll(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/g)].m
 new vm.Script(source); // Compile the complete browser script, including initialization.
 vm.runInContext(source.slice(0, source.lastIndexOf('// 初始化')), sandbox);
 vm.runInContext('wordData = EMBEDDED_WORD_DATA', sandbox);
+for (const [target, reading, status, example] of [
+    ['氛', 'fèn', 'unlisted'], ['戛', 'gā', 'special', '戛纳'],
+    ['载', 'zǎi', 'other', '记载'], ['佛', 'fó', 'other', '佛教'],
+    ['壑', 'huò', 'regional', '沟壑'], ['剔', 'tì', 'historical', '剔'],
+    ['暧', 'nuǎn', 'extended']
+]) {
+    sandbox.noteTarget = target; sandbox.noteReading = reading;
+    const note = vm.runInContext('getReadingNote(noteTarget, noteReading)', sandbox);
+    assert.equal(note.status, status);
+    if (example) assert.ok(note.examples.some(item => item.text.includes(example)));
+}
+// Rendering must explain every incorrect pronunciation, in either question
+// mode, and must escape both stored prose and words before inserting HTML.
+for (const row of rows) for (const reading of row.wrong) {
+    sandbox.explainedOption = {word:row.text, target:row.target, pronunciation:reading, actualRight:row.right, isPairingCorrect:false};
+    const markup = vm.runInContext('explainOption(explainedOption, 0)', sandbox);
+    assert.ok(!markup.includes('data-reading-status="unknown"'), row.text);
+    assert.ok(markup.includes(row.right) && markup.includes(reading), row.text);
+    assert.match(markup, /配对错误/);
+    const note = readingIndex.get(row.target + '|' + reading.normalize('NFC').toLowerCase());
+    if (note.examples.length) assert.match(markup, /例词或用法/);
+}
+sandbox.explainedOption = {word:'<img src=x onerror=alert(1)>氛', target:'氛', pronunciation:'fèn', actualRight:'fēn', isPairingCorrect:false};
+assert.ok(!vm.runInContext('explainOption(explainedOption, 0)', sandbox).includes('<img'));
 for (let i = 0; i < 10000; i++) {
     const method = i % 2 ? 'generateThreeWrongOneCorrect' : 'generateThreeCorrectOneWrong';
     vm.runInContext(method + '()', sandbox);
@@ -98,6 +145,12 @@ for (let i = 0; i < 10000; i++) {
         assert.equal(o.isPairingCorrect, o.pronunciation === row.right);
         if (!o.isPairingCorrect) assert.ok(row.wrong.includes(o.pronunciation));
     });
+    if (i < 100) {
+        vm.runInContext('showResult(true)', sandbox);
+        const markup = elements.get('resultAnswer').innerHTML;
+        assert.equal((markup.match(/class="option-explanation"/g) || []).length, 4);
+        assert.equal((markup.match(/data-pairing="wrong"/g) || []).length, q.type === 'correct' ? 3 : 1);
+    }
 }
 assert.match(vm.runInContext('renderWord("臂膀", "膀")', sandbox), /臂<strong class="tested-char">膀<\/strong>/);
 // Every new record must be usable in either question type, including different
@@ -142,4 +195,4 @@ assert.equal(revisedWrong[2].rightPronunciation, 'bàng');
 assert.equal(revisedWrong[6].target, '扎', 'Do not mix up the two targets in 挣扎.');
 vm.runInContext('synchronizeWrongAnswers()', sandbox);
 assert.deepEqual(JSON.parse(vm.runInContext('JSON.stringify(wrongAnswers)', sandbox)), revisedWrong, 'Synchronization must be idempotent.');
-console.log(`PASS: ${rows.length} validated records, corrected pronunciations, explicit targets, inline bank synchronization, 10,000 questions with unique words and consistent answers.`);
+console.log(`PASS: ${rows.length} validated records, ${readingIndex.size} distractor explanations, explicit targets, offline bank synchronization, 10,000 questions and saved-record migration.`);

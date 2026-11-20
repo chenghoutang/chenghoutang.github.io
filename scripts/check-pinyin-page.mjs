@@ -45,7 +45,29 @@ try{
   await run('document.querySelectorAll(".option-btn")[currentQuestion.correctOptionIndex].click()');
   assert.equal(await run('document.querySelectorAll(".option-btn.correct").length'),1);
   assert.ok((await run('document.querySelector("#resultAnswer").textContent')).includes(row.right),text);
+  assert.equal(await run('document.querySelectorAll(".option-explanation").length'),4);
+  assert.equal(await run('document.querySelectorAll(".option-explanation[data-pairing=wrong]").length'),method==='generateThreeWrongOneCorrect'?3:1);
+  assert.equal(await run('document.querySelectorAll("[data-reading-status=unknown]").length'),0);
  }
+ // Force one paper containing an ordinary alternate reading, a genuine
+ // misreading, and a geographic name. All three need their own explanations.
+ await run(`{
+  const find=(word,target)=>EMBEDDED_WORD_DATA.find(row=>row.text===word&&row.target===target);
+  const entries=[find('装载','载'),find('氛围','氛'),find('戛然而止','戛'),find('阿爸','阿')];
+  currentQuestion={type:'correct',correctOptionIndex:3,options:entries.map((row,i)=>({word:row.text,target:row.target,actualRight:row.right,pronunciation:i===3?row.right:row.wrong[0],isPairingCorrect:i===3,isCorrectOption:i===3}))};answered=false;renderOptions();document.querySelectorAll('.option-btn')[3].click();
+ }`);
+ assert.equal(await run('document.querySelectorAll("[data-reading-status=other]").length'),1);
+ assert.equal(await run('document.querySelectorAll("[data-reading-status=unlisted]").length'),1);
+ assert.equal(await run('document.querySelectorAll("[data-reading-status=special]").length'),1);
+ for(const term of ['记载','戛纳','fèn'])assert.ok((await run('document.querySelector("#resultAnswer").textContent')).includes(term),term);
+ for(const width of [320,390,1280]){
+  await cdp('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<500});
+  assert.ok(await run('document.documentElement.scrollWidth<=innerWidth+1'),`explanation overflow at ${width}px`);
+ }
+ await cdp('Emulation.setDeviceMetricsOverride',{width:390,height:900,deviceScaleFactor:1,mobile:true});
+ await run(`{const style=document.createElement('style');style.textContent='*,*::before,*::after{animation:none!important;transition:none!important}';document.head.append(style);document.querySelector('#resultAnswer').scrollIntoView();}`);
+ await run('new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))');
+ await cdp('Page.captureScreenshot',{format:'png'}).then(result=>fs.writeFileSync(path.join(profile,'reading-explanations-mobile.png'),Buffer.from(result.data,'base64')));
  // A saved mistake on an added word and existing statistics survive reload.
  await run('for(let i=0;i<100;i++){generateQuestion();if(currentQuestion.options[currentQuestion.correctOptionIndex].word==="牛仔裤")break;}document.querySelectorAll(".option-btn")[(currentQuestion.correctOptionIndex+1)%4].click()');
  assert.ok(await run('wrongAnswers.some(item=>item.text==="牛仔裤"&&item.target==="仔")'));
@@ -64,5 +86,5 @@ try{
  assert.ok(await run('[...document.querySelectorAll(".option-btn")].every(button=>button.getBoundingClientRect().height>0)'));
  await cdp('Page.captureScreenshot',{format:'png'}).then(result=>fs.writeFileSync(path.join(profile,'pinyin-mobile.png'),Buffer.from(result.data,'base64')));
  assert.deepEqual(errors,[]);
- console.log(`PASS: ${rows.length} offline records, new-word rendering and answers in both modes, saved progress and mobile layout. Screenshot: ${profile}`);
+ console.log(`PASS: ${rows.length} offline records, four-option explanations in both modes, alternate/absent/special readings, saved progress and mobile layout. Screenshot: ${profile}`);
 }finally{if(ws)ws.close();browser.kill();}
