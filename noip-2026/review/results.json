@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-27T07:48:42.629Z",
+  "playerCount": 171,
+  "activePlayers": 85,
+  "predictedPlayers": 82,
+  "travelConflicts": 3,
+  "retiredPlayers": 86,
+  "historicalRecords": 144,
+  "currentNoiIoiRecords": 6,
+  "schoolCount": 13,
+  "widths": [
+    320,
+    360,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "checks": [
+    "data consistency and year-aware identity matching",
+    "fixed nine-factor model without missing-event renormalization",
+    "2026 NOI and IOI included in score calculations",
+    "NOI 700-point denominator and official additional points handled separately",
+    "travel-conflict players removed from prediction",
+    "retired players excluded regardless of historical wins",
+    "visible player dossiers, year labels, weighted factors and citations",
+    "all 13 school filters and independent team names with slogans",
+    "six grade filters",
+    "search, empty state, reset and pagination",
+    "keyboard tabs, Escape and focus restoration",
+    "local resources and school logos",
+    "mobile layout and dialog overflow",
+    "homepage banner and file:// access"
+  ],
+  "errors": []
+}

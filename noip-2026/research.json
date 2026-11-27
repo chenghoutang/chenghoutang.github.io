@@ -1,0 +1,2324 @@
+{
+  "sources": [
+    {
+      "id": "csp-s-1",
+      "title": "CSP-S 2026 第二轮一级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮提高组一级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "csp-s-2",
+      "title": "CSP-S 2026 第二轮二级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮提高组二级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "csp-s-3",
+      "title": "CSP-S 2026 第二轮三级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮提高组三级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "csp-j-1",
+      "title": "CSP-J 2026 第二轮一级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮入门组一级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "csp-j-2",
+      "title": "CSP-J 2026 第二轮二级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮入门组二级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "csp-j-3",
+      "title": "CSP-J 2026 第二轮三级评级名单",
+      "url": "https://www.noi.cn/upload/resources/file/2026/11/13/CCF CSP-JS 2026第二轮入门组三级名单.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "mois",
+      "title": "MOIS 2026 公开成绩表",
+      "url": "https://moi-stats.mcs.mo/contests/moi-2026/results/mois-2026",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "moij",
+      "title": "MOIJ 2026 公开成绩表",
+      "url": "https://moi-stats.mcs.mo/contests/moi-2026/results/moij-2026",
+      "checked": "2026-11-27"
+    }
+  ],
+  "csp": [
+    {
+      "name": "鄧正浩",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 300,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "许凯",
+      "school": "澳門鏡平學校",
+      "grade": "高二",
+      "group": "S",
+      "score": 284,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "杜泽诚",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 256,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "彭裕祥",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 203,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "蔡昊江",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 172,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "麥俊希",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 160,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "黄子鹏",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 144,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "马瑞亨",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 136,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "麥君權",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 132,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "張兆鋒",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 120,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "鄧善恒",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 120,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "曾子睿",
+      "school": "勞校中學",
+      "grade": "八年级",
+      "group": "S",
+      "score": 116,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "徐明格",
+      "school": "勞校中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 116,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "劉卓峯",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 108,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "黄彦信",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 104,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "何彦希",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "S",
+      "score": 100,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "曾皓轩",
+      "school": "澳門鏡平學校",
+      "grade": "高三",
+      "group": "S",
+      "score": 100,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "王梓行",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "S",
+      "score": 100,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "陈天泽",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 100,
+      "level": 1,
+      "source": "csp-s-1"
+    },
+    {
+      "name": "游家弘",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 95,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "劉晉亨",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 94,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黃煒彬",
+      "school": "澳門聖若瑟教區中學第五校",
+      "grade": "高二",
+      "group": "S",
+      "score": 89,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "陈昭璋",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "高二",
+      "group": "S",
+      "score": 88,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "余灝仁",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 88,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "区景昭",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 87,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "董兆威",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 79,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "李昕颐",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "八年级",
+      "group": "S",
+      "score": 76,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "徐振華",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 75,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "周樂一",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "高二",
+      "group": "S",
+      "score": 74,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黄锦霖",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 70,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "陳上禮",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 65,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黄俊晖",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 65,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "徐旨樂",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 64,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "余汶憲",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 62,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "陳日朗",
+      "school": "勞校中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 60,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黃皓紀",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 60,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "林鉑滔",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 60,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "王瑞麟",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 60,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "谢焯轩",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 59,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "馮柏潼",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 59,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "林杰",
+      "school": "濠江中學",
+      "grade": "高二",
+      "group": "S",
+      "score": 47,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "梁智敏",
+      "school": "勞校中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "張祉萱",
+      "school": "澳門培正中學",
+      "grade": "高三",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黃荻翹",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "蓝芊羽",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "溫庭昊",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "区叡恒",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黄宇彬",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "S",
+      "score": 45,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "謝朗天",
+      "school": "澳門聖若瑟教區中學第五校",
+      "grade": "高一",
+      "group": "S",
+      "score": 40,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "黄俊翔",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 40,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "陈广鸿",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "S",
+      "score": 39,
+      "level": 2,
+      "source": "csp-s-2"
+    },
+    {
+      "name": "鄧正浩",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "J",
+      "score": 390,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "何柏均",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 358,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "彭裕祥",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 352,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "徐旨樂",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 352,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "李昕颐",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "八年级",
+      "group": "J",
+      "score": 342,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "徐明格",
+      "school": "勞校中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 304,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "馮子懿",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 300,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "区叡恒",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "J",
+      "score": 300,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "谢焯轩",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 293,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "沈以恆",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 293,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "王梓行",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "J",
+      "score": 290,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "馮柏潼",
+      "school": "澳門培正中學",
+      "grade": "高一",
+      "group": "J",
+      "score": 285,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "游家弘",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 279,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "黄俊晖",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 263,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "马瑞亨",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "J",
+      "score": 259,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "黄锦霖",
+      "school": "濠江中學",
+      "grade": "高三",
+      "group": "J",
+      "score": 250,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "黄俊翔",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "J",
+      "score": 241,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "马宇",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 234,
+      "level": 1,
+      "source": "csp-j-1"
+    },
+    {
+      "name": "刘振邦",
+      "school": "澳門鏡平學校",
+      "grade": "九年级",
+      "group": "J",
+      "score": 229,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "黄宇彬",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 221,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "余康妮",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 221,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "曾皓轩",
+      "school": "澳門鏡平學校",
+      "grade": "高三",
+      "group": "J",
+      "score": 220,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "林暐然",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 220,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "黃英倫",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "九年级",
+      "group": "J",
+      "score": 218,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "鄭君豪",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 193,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "林昊",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "高一",
+      "group": "J",
+      "score": 192,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "廖善衡",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "J",
+      "score": 185,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "陳上揚",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 183,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "邓智仁",
+      "school": "陳瑞祺永援中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 178,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "溫庭昊",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 169,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "李善施",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 168,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "陳綺菲",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "高一",
+      "group": "J",
+      "score": 168,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "蒲雋浠",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "J",
+      "score": 167,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "麦俊宏",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "J",
+      "score": 158,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "李思瑶",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 158,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "李君堯",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 158,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "温浩然",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 156,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "劉千妙",
+      "school": "澳門培正中學",
+      "grade": "高二",
+      "group": "J",
+      "score": 151,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "蓝芊羽",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 151,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "陈旭淇",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 151,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "吳梓燁",
+      "school": "勞校中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 150,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "劉澔叡",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 149,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "李琮翰",
+      "school": "濠江中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 146,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "NG CHI HONG",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 145,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "叶柏豪",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 137,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "陈淼达",
+      "school": "濠江中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 136,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "黃宇廷",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 136,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "杨铠华",
+      "school": "澳門培正中學",
+      "grade": "九年级",
+      "group": "J",
+      "score": 130,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "謝皓匡",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 128,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "马伊涵",
+      "school": "澳门濠江中学附属英才学校",
+      "grade": "七年级",
+      "group": "J",
+      "score": 126,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "李沛穎",
+      "school": "澳門培正中學",
+      "grade": "八年级",
+      "group": "J",
+      "score": 123,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "陈广鸿",
+      "school": "濠江中學",
+      "grade": "高一",
+      "group": "J",
+      "score": 119,
+      "level": 2,
+      "source": "csp-j-2"
+    },
+    {
+      "name": "刘玥彤",
+      "school": "澳門培正中學",
+      "grade": "七年级",
+      "group": "J",
+      "score": 119,
+      "level": 2,
+      "source": "csp-j-2"
+    }
+  ],
+  "moi": [
+    {
+      "name": "許凱",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "鄧正浩",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "王梓言",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "伍行知",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "麥俊希",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "關智謙",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 1,
+      "score": 300,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "何彥樂",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 7,
+      "score": 280,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "林鉑洪",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 8,
+      "score": 230,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "彭裕祥",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 9,
+      "score": 200,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "區景昭",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 10,
+      "score": 190,
+      "award": "金獎",
+      "source": "mois"
+    },
+    {
+      "name": "麥君權",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 11,
+      "score": 170,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃彥信",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 12,
+      "score": 160,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "毛元君",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 13,
+      "score": 150,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "陳昭璋",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 13,
+      "score": 150,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "黎宇軒",
+      "school": "教業中學",
+      "contest": "MOIS",
+      "rank": 13,
+      "score": 150,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "何彥希",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 16,
+      "score": 130,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "陳卓謙",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 16,
+      "score": 130,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "楊子鋒",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 18,
+      "score": 120,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "鄧善恆",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 18,
+      "score": 120,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "周樂一",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 18,
+      "score": 120,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "蔡世篪",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 18,
+      "score": 120,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "陳天澤",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 18,
+      "score": 120,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "張兆鋒",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 23,
+      "score": 110,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "何柏毅",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 23,
+      "score": 110,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "謝芷晴",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "李堉言",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "林宇豐",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "劉卓峯",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "劉鍵楠",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "葉柏豪",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "林柏鴻",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "曾子睿",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 25,
+      "score": 100,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "張健成",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 33,
+      "score": 80,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "杜澤誠",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 33,
+      "score": 80,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "陳鍵豪",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 35,
+      "score": 70,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃煒彬",
+      "school": "聖若瑟五校（英文部）",
+      "contest": "MOIS",
+      "rank": 35,
+      "score": 70,
+      "award": "銀獎",
+      "source": "mois"
+    },
+    {
+      "name": "杜詠桐",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 37,
+      "score": 50,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃皓紀",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 38,
+      "score": 40,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "王梓行",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 39,
+      "score": 30,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "陳上禮",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 39,
+      "score": 30,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "余韶燊",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 39,
+      "score": 30,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "阮駿希",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "蔡芷昕",
+      "school": "菜農子弟學校",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃英倫",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃元杰",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "羅君麟",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃子鵬",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "葉聖哲",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "阮梓城",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "羅曉濤",
+      "school": "勞校中學",
+      "contest": "MOIS",
+      "rank": 42,
+      "score": 20,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "梁家綽",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "毛浚楊",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "吳誠溢",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "王瑞麟",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "唐子舜",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "黃錦霖",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "周駿軒",
+      "school": "濠江中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "許晉泓",
+      "school": "氹仔坊眾學校",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "李思賢",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "吳奕軒",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "鍾天健",
+      "school": "培正中學",
+      "contest": "MOIS",
+      "rank": 51,
+      "score": 10,
+      "award": "銅獎",
+      "source": "mois"
+    },
+    {
+      "name": "何彥希",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 1,
+      "score": 220,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "林暐然",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 2,
+      "score": 150,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "劉晉亨",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 2,
+      "score": 150,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "何柏均",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 4,
+      "score": 140,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "林昊",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 4,
+      "score": 140,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "蔡昊江",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 6,
+      "score": 130,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "余灝仁",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 7,
+      "score": 120,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "曾子睿",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "區叡恆",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳日朗",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "馮柏潼",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "吳梓燁",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "葉柏豪",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "梁晉銘",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 8,
+      "score": 110,
+      "award": "金獎",
+      "source": "moij"
+    },
+    {
+      "name": "邱寶霖",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "徐明格",
+      "school": "聯國學校",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "謝焯軒",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "徐旨樂",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "李沛穎",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "林鉑滔",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "温浩然",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳晉浩",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "彭裕祥",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "藍芊羽",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "李善施",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳健廷",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陈嘉颖",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "黃英倫",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "馮子丞",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "李峻皓",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "胡昊霆",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳駿希",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "劉俊逸",
+      "school": "聖若瑟五校（英文部）",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "吳卓恆",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 15,
+      "score": 100,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "馮子懿",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "許恩瑀",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "招敬熙",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "馮柏堯",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "黃宇彬",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "吳昊陽",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "温庭昊",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "謝朗天",
+      "school": "聖若瑟五校（英文部）",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "梁旭喬",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳上揚",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "黃宇廷",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "岑俊濠",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "黄炜晋",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳嘉軒",
+      "school": "聖若瑟五校（英文部）",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "劉子賢",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "謝皓匡",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "李嘉晉",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "傅景言",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "胡朗然",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "馮子謙",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "梁諾晞",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "黃睿嵐",
+      "school": "粵華英文中學",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳毅",
+      "school": "聖若瑟五校（英文部）",
+      "contest": "MOIJ",
+      "rank": 35,
+      "score": 90,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "张牵玉",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 58,
+      "score": 80,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "區叡其",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 58,
+      "score": 80,
+      "award": "銀獎",
+      "source": "moij"
+    },
+    {
+      "name": "陳靖彬",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 60,
+      "score": 40,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "余汶憲",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 60,
+      "score": 40,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "XU ZHOU YI",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 60,
+      "score": 40,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "何碧悠",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 63,
+      "score": 30,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "李宇轩",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 63,
+      "score": 30,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "梁瑋峰",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 63,
+      "score": 30,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "陸奕名",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "吳鳴軒",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "李深宥",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "林曉悠",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "歐陽晉",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "黃昱衡",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "游家弘",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "洪銘澤",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "劉振邦",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "崔澗溪",
+      "school": "濠江中學附屬英才學校",
+      "contest": "MOIJ",
+      "rank": 66,
+      "score": 20,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "陈广鸿",
+      "school": "濠江中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "趙俊濠",
+      "school": "聖若瑟五校（中文部）",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "劉澔叡",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "區雅",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "鄧雨菲",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "王梓行",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "葉炘明",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "林樂軒",
+      "school": "粵華英文中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "阮駿希",
+      "school": "鏡平學校（中學部）",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "李君堯",
+      "school": "培正中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "李明軒",
+      "school": "蔡高中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    },
+    {
+      "name": "梁俊熙",
+      "school": "勞校中學",
+      "contest": "MOIJ",
+      "rank": 76,
+      "score": 10,
+      "award": "銅獎",
+      "source": "moij"
+    }
+  ]
+}

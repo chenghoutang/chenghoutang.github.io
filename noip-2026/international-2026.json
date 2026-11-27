@@ -1,0 +1,104 @@
+{
+  "sources": [
+    {
+      "id": "noi-2026-announcement",
+      "title": "CCF NOI 2026 获奖名单公示",
+      "url": "https://www.noi.cn/hjmd/mdgs/2026/2026-07-23/917137.shtml",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "noi-2026",
+      "title": "CCF NOI 2026 正式选手获奖名单（修订版）",
+      "url": "https://www.noi.cn/upload/resources/file/2026/08/17/CCF%20NOI%202026%E6%AD%A3%E5%BC%8F%E9%80%89%E6%89%8B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%950817.htm",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "mcs-ioi-2026",
+      "title": "澳门电脑学会 IOI 2026 代表队及获奖公告（中文身份核对）",
+      "url": "https://www.mcs.mo/articles/103",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "ioi-2026",
+      "title": "IOI 2026 官方完整成绩",
+      "url": "https://stats.ioinformatics.org/results/2026",
+      "checked": "2026-11-27"
+    }
+  ],
+  "records": [
+    {
+      "name": "鄧正浩",
+      "school": "濠江中學",
+      "year": 2026,
+      "contest": "NOI",
+      "score": 363,
+      "reportedTotal": 368,
+      "max": 700,
+      "award": "铜牌",
+      "source": "noi-2026"
+    },
+    {
+      "name": "李思賢",
+      "school": "培正中學",
+      "year": 2026,
+      "contest": "NOI",
+      "score": 249,
+      "reportedTotal": 254,
+      "max": 700,
+      "award": "铜牌",
+      "source": "noi-2026"
+    },
+    {
+      "name": "王梓言",
+      "school": "培正中學",
+      "romanized": "Ziyan Wang",
+      "year": 2026,
+      "contest": "IOI",
+      "rank": 97,
+      "score": 301.75,
+      "max": 600,
+      "award": "铜牌",
+      "source": "ioi-2026",
+      "identitySource": "mcs-ioi-2026"
+    },
+    {
+      "name": "許凱",
+      "school": "鏡平學校（中學部）",
+      "romanized": "Hoi Xu",
+      "year": 2026,
+      "contest": "IOI",
+      "rank": 163,
+      "score": 247.63,
+      "max": 600,
+      "award": "铜牌",
+      "source": "ioi-2026",
+      "identitySource": "mcs-ioi-2026"
+    },
+    {
+      "name": "伍行知",
+      "school": "培正中學",
+      "romanized": "Hang Chi Ng",
+      "year": 2026,
+      "contest": "IOI",
+      "rank": 227,
+      "score": 180,
+      "max": 600,
+      "award": "优异奖",
+      "source": "ioi-2026",
+      "identitySource": "mcs-ioi-2026"
+    },
+    {
+      "name": "鄧正浩",
+      "school": "濠江中學",
+      "romanized": "Cheng Hou Tang",
+      "year": 2026,
+      "contest": "IOI",
+      "rank": 270,
+      "score": 134.1,
+      "max": 600,
+      "award": "参赛记录",
+      "source": "ioi-2026",
+      "identitySource": "mcs-ioi-2026"
+    }
+  ]
+}

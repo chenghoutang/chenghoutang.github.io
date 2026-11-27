@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-27T07:52:52.416Z",
+  "steps": 18,
+  "chapters": 9,
+  "roster": 85,
+  "travelConflicts": [
+    "鄧善恒",
+    "区景昭",
+    "王瑞麟"
+  ],
+  "finalPredictionRoster": 82,
+  "mygoAssets": [
+    "高松灯 466x721",
+    "千早爱音 465x721",
+    "要乐奈 466x721",
+    "长崎爽世 465x721",
+    "椎名立希 466x721"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "checks": [
+    "manual navigation across every step",
+    "fixed-weight timeline with IOI 2026 at 20%",
+    "intro and ranking phrases never split",
+    "retirement impact and crack clear before the tribute",
+    "five 5-second character spotlights and fully visible lineup",
+    "spaced NOIP title and all active players listed",
+    "travel-conflict removal synchronized with main prediction",
+    "one-player-per-row ranking with automatic vertical follow",
+    "2s/1s/rapid final reveal completion",
+    "working return and replay actions",
+    "faster autoplay countdown and pause",
+    "audible procedural audio control",
+    "nonblank particle canvas",
+    "official character assets and source credit",
+    "mobile overflow and direct file access"
+  ],
+  "errors": []
+}
